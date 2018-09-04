@@ -1,2 +1,2 @@
 # ELTeC-deu
-Folder for level0: basic TEI Encoding
+Folder for level1: richer TEI Encoding
