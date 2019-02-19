@@ -2,7 +2,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Christian Wahnschaffe</title>
+            <title>Christian Wahnschaffe: ELTeC Edition</title>
             <author ref="http://d-nb.info/gnd/pnd:118629387">Wassermann,
                Jakob</author>
             <respStmt>
@@ -13,10 +13,8 @@
          <extent>
             <measure unit="words">296267</measure><measure unit="pages"
                >869</measure>
-         </extent>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
+         </extent><publicationStmt><p>Veröffentlicht als ein Teil von ELTeC <date>2019-01-28</date>.</p></publicationStmt>
+
          <sourceDesc>
             <!-- converted from TextGrid (textgrid:x277.0) via Kallimachos: +423+ -->
             <bibl type="copyText">

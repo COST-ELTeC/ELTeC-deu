@@ -2,7 +2,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Die Rumplhanni</title>
+            <title>Die Rumplhanni: ELTeC Edition</title>
             <author ref="http://d-nb.info/gnd/pnd:118520555">Christ,
                Lena</author>
             <respStmt>
@@ -13,10 +13,8 @@
          <extent>
             <measure unit="words">66165</measure><measure unit="pages"
                >166</measure>
-         </extent>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
+         </extent><publicationStmt><p>Veröffentlicht als ein Teil von ELTeC <date>2019-01-28</date>.</p></publicationStmt>
+
          <sourceDesc>
             <!-- converted from TextGrid (textgrid:kxdd.0) via Kallimachos: +53+ -->
             <bibl type="copyText">

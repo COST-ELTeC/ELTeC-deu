@@ -2,7 +2,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Schicksale einer Seele</title>
+            <title>Schicksale einer Seele: ELTeC Edition</title>
             <author ref="http://d-nb.info/gnd/pnd:11852643X">Dohm,
                Hedwig</author>
             <respStmt>
@@ -13,10 +13,8 @@
          <extent>
             <measure unit="words">104554</measure><measure unit="pages"
                >419</measure>
-         </extent>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
+         </extent><publicationStmt><p>Veröffentlicht als ein Teil von ELTeC <date>2019-01-28</date>.</p></publicationStmt>
+
          <sourceDesc>
             <!-- converted from TextGrid (textgrid:mh36.0) via Kallimachos: +72+ -->
             <bibl type="copyText">

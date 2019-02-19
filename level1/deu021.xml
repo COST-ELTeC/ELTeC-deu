@@ -2,7 +2,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Der Katzenjunker</title>
+            <title>Der Katzenjunker: ELTeC Edition</title>
             <author ref="http://d-nb.info/gnd/pnd:118692577">François, Louise
                von</author>
             <respStmt>
@@ -13,10 +13,8 @@
          <extent>
             <measure unit="words">43809</measure><measure unit="pages"
                >175</measure>
-         </extent>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
+         </extent><publicationStmt><p>Veröffentlicht als ein Teil von ELTeC <date>2019-01-28</date>.</p></publicationStmt>
+
          <sourceDesc>
             <!-- converted from TextGrid (textgrid:n24m.0) via Kallimachos: +129+ -->
             <bibl type="copyText">

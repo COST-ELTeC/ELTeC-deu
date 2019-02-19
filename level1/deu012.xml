@@ -2,7 +2,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Die Chronik der Sperlingsgasse</title>
+            <title>Die Chronik der Sperlingsgasse: ELTeC Edition</title>
             <author ref="http://d-nb.info/gnd/pnd:118597442">Raabe,
                Wilhelm</author>
             <respStmt>
@@ -13,10 +13,8 @@
          <extent>
             <measure unit="words">58620</measure><measure unit="pages"
                >159</measure>
-         </extent>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
+         </extent><publicationStmt><p>Veröffentlicht als ein Teil von ELTeC <date>2019-01-28</date>.</p></publicationStmt>
+
          <sourceDesc>
             <!-- converted from TextGrid (textgrid:t91s.0) via Kallimachos: +315+ -->
             <bibl type="copyText">

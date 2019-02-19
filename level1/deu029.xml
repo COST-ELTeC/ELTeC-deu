@@ -2,7 +2,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Stopfkuchen. Eine See- und Mordgeschichte</title>
+            <title>Stopfkuchen. Eine See- und Mordgeschichte: ELTeC Edition</title>
             <author ref="http://d-nb.info/gnd/pnd:118597442">Raabe,
                Wilhelm</author>
             <respStmt>
@@ -13,10 +13,8 @@
          <extent>
             <measure unit="words">75198</measure><measure unit="pages"
                >194</measure>
-         </extent>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
+         </extent><publicationStmt><p>Veröffentlicht als ein Teil von ELTeC <date>2019-01-28</date>.</p></publicationStmt>
+
          <sourceDesc>
             <!-- converted from TextGrid (textgrid:t90k.0) via Kallimachos: +323+ -->
             <bibl type="copyText">

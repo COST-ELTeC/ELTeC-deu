@@ -2,7 +2,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Revolution und Contrerevolution</title>
+            <title>Revolution und Contrerevolution: ELTeC Edition</title>
             <author ref="http://d-nb.info/gnd/pnd:118650769">Aston,
                Louise</author>
             <respStmt>
@@ -13,10 +13,8 @@
          <extent>
             <measure unit="words">81139</measure><measure unit="pages"
                >500</measure>
-         </extent>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
+         </extent><publicationStmt><p>Veröffentlicht als ein Teil von ELTeC <date>2019-01-28</date>.</p></publicationStmt>
+
          <sourceDesc>
             <!-- converted from TextGrid (textgrid:k8c0.0) via Kallimachos: +21+ -->
             <bibl type="copyText">

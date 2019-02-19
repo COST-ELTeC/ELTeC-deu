@@ -2,7 +2,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Europäisches Sklavenleben</title>
+            <title>Europäisches Sklavenleben: ELTeC Edition</title>
             <author ref="http://d-nb.info/gnd/pnd:118699962">Hackländer,
                Friedrich Wilhelm von</author>
             <respStmt>
@@ -13,10 +13,8 @@
          <extent>
             <measure unit="words">443364</measure><measure unit="pages"
                >1267</measure>
-         </extent>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
+         </extent><publicationStmt><p>Veröffentlicht als ein Teil von ELTeC <date>2019-01-28</date>.</p></publicationStmt>
+
          <sourceDesc>
             <!-- converted from TextGrid (textgrid:pd41.0) via Kallimachos: +160+ -->
             <bibl type="copyText">

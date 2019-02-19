@@ -2,7 +2,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Im Lande des Mahdi I</title>
+            <title>Im Lande des Mahdi I: ELTeC Edition</title>
             <author ref="http://d-nb.info/gnd/pnd:118818651">May, Karl</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
@@ -12,10 +12,8 @@
          <extent>
             <measure unit="words">199222</measure><measure unit="pages"
                >638</measure>
-         </extent>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
+         </extent><publicationStmt><p>Veröffentlicht als ein Teil von ELTeC <date>2019-01-28</date>.</p></publicationStmt>
+
          <sourceDesc>
             <!-- converted from TextGrid (textgrid:sbvj.0) via Kallimachos: +254+ -->
             <bibl type="copyText">

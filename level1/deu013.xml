@@ -2,7 +2,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Der Nachsommer</title>
+            <title>Der Nachsommer: ELTeC Edition</title>
             <author ref="http://d-nb.info/gnd/pnd:118618156">Stifter,
                Adalbert</author>
             <respStmt>
@@ -13,10 +13,8 @@
          <extent>
             <measure unit="words">288696</measure><measure unit="pages"
                >855</measure>
-         </extent>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
+         </extent><publicationStmt><p>Veröffentlicht als ein Teil von ELTeC <date>2019-01-28</date>.</p></publicationStmt>
+
          <sourceDesc>
             <!-- converted from TextGrid (textgrid:vs37.0) via Kallimachos: +382+ -->
             <bibl type="copyText">

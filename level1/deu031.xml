@@ -2,7 +2,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Old Surehand I</title>
+            <title>Old Surehand I: ELTeC Edition</title>
             <author ref="http://d-nb.info/gnd/pnd:118818651">May, Karl</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
@@ -12,10 +12,8 @@
          <extent>
             <measure unit="words">198716</measure><measure unit="pages"
                >645</measure>
-         </extent>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
+         </extent><publicationStmt><p>Veröffentlicht als ein Teil von ELTeC <date>2019-01-28</date>.</p></publicationStmt>
+
          <sourceDesc>
             <!-- converted from TextGrid (textgrid:s9bt.0) via Kallimachos: +252+ -->
             <bibl type="copyText">

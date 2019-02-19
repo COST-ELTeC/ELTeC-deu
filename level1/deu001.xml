@@ -2,7 +2,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Clementine</title>
+            <title>Clementine : ELTeC edition</title>
             <author ref="http://d-nb.info/gnd/pnd:118572393">Lewald,
                Fanny</author>
             <respStmt>
@@ -14,9 +14,7 @@
             <measure unit="words">39930</measure><measure unit="pages"
                >145</measure>
          </extent>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
+         <publicationStmt><p>Veröffentlicht als ein Teil von ELTeC <date>2019-01-28</date>.</p></publicationStmt>
          <sourceDesc>
             <!-- converted from TextGrid (textgrid:rm5j.0) via Kallimachos: +234+ -->
             <bibl type="copyText">

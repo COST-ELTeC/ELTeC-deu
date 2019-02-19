@@ -2,7 +2,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Dumala</title>
+            <title>Dumala: ELTeC Edition</title>
             <author ref="http://d-nb.info/gnd/pnd:118561812">Keyserling, Eduard
                von</author>
             <respStmt>
@@ -13,10 +13,8 @@
          <extent>
             <measure unit="words">37960</measure><measure unit="pages"
                >126</measure>
-         </extent>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
+         </extent><publicationStmt><p>Veröffentlicht als ein Teil von ELTeC <date>2019-01-28</date>.</p></publicationStmt>
+
          <sourceDesc>
             <!-- converted from TextGrid (textgrid:qx5c.0) via Kallimachos: +213+ -->
             <bibl type="copyText">

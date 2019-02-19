@@ -2,7 +2,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Maria Regina</title>
+            <title>Maria Regina: ELTeC Edition</title>
             <author ref="http://d-nb.info/gnd/">Hahn-Hahn, Ida Gräfin
                von</author>
             <respStmt>
@@ -13,10 +13,8 @@
          <extent>
             <measure unit="words">277003</measure><measure unit="pages"
                >950</measure>
-         </extent>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
+         </extent><publicationStmt><p>Veröffentlicht als ein Teil von ELTeC <date>2019-01-28</date>.</p></publicationStmt>
+
          <sourceDesc>
             <!-- converted from TextGrid (textgrid:phvk.0) via Kallimachos: +163+ -->
             <bibl type="copyText">

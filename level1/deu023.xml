@@ -2,7 +2,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Schach von Wuthenow</title>
+            <title>Schach von Wuthenow: ELTeC Edition</title>
             <author ref="http://d-nb.info/gnd/pnd:118534262">Fontane,
                Theodor</author>
             <respStmt>
@@ -13,10 +13,8 @@
          <extent>
             <measure unit="words">50509</measure><measure unit="pages"
                >137</measure>
-         </extent>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
+         </extent><publicationStmt><p>Veröffentlicht als ein Teil von ELTeC <date>2019-01-28</date>.</p></publicationStmt>
+
          <sourceDesc>
             <!-- converted from TextGrid (textgrid:n1dg.0) via Kallimachos: +107+ -->
             <bibl type="copyText">

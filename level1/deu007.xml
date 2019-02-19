@@ -2,7 +2,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Ruhe ist die erste Bürgerpflicht</title>
+            <title>Ruhe ist die erste Bürgerpflicht: ELTeC Edition</title>
             <author ref="http://d-nb.info/gnd/pnd:118648071">Alexis,
                Willibald</author>
             <respStmt>
@@ -13,10 +13,8 @@
          <extent>
             <measure unit="words">385876</measure><measure unit="pages"
                >782</measure>
-         </extent>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
+         </extent><publicationStmt><p>Veröffentlicht als ein Teil von ELTeC <date>2019-01-28</date>.</p></publicationStmt>
+
          <sourceDesc>
             <!-- converted from TextGrid (textgrid:jkjq.0) via Kallimachos: +4+ -->
             <bibl type="copyText">

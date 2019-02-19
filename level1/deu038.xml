@@ -2,7 +2,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Wellen</title>
+            <title>Wellen: ELTeC Edition</title>
             <author ref="http://d-nb.info/gnd/pnd:118561812">Keyserling, Eduard
                von</author>
             <respStmt>
@@ -13,10 +13,8 @@
          <extent>
             <measure unit="words">54741</measure><measure unit="pages"
                >172</measure>
-         </extent>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
+         </extent><publicationStmt><p>Veröffentlicht als ein Teil von ELTeC <date>2019-01-28</date>.</p></publicationStmt>
+
          <sourceDesc>
             <!-- converted from TextGrid (textgrid:qx55.0) via Kallimachos: +214+ -->
             <bibl type="copyText">

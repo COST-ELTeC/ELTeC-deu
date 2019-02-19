@@ -2,7 +2,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Sibilla Dalmar</title>
+            <title>Sibilla Dalmar: ELTeC Edition</title>
             <author ref="http://d-nb.info/gnd/pnd:11852643X">Dohm,
                Hedwig</author>
             <respStmt>
@@ -13,10 +13,8 @@
          <extent>
             <measure unit="words">97252</measure><measure unit="pages"
                >374</measure>
-         </extent>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
+         </extent><publicationStmt><p>Veröffentlicht als ein Teil von ELTeC <date>2019-01-28</date>.</p></publicationStmt>
+
          <sourceDesc>
             <!-- converted from TextGrid (textgrid:mh3s.0) via Kallimachos: +71+ -->
             <bibl type="copyText">

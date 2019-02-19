@@ -2,7 +2,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Die letzte Reckenburgerin</title>
+            <title>Die letzte Reckenburgerin: ELTeC edition</title>
             <author ref="http://d-nb.info/gnd/pnd:118692577">François, Louise
                von</author>
             <respStmt>
@@ -13,11 +13,7 @@
          <extent>
             <measure unit="words">108600</measure><measure unit="pages"
                >382</measure>
-         </extent>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
+         </extent><publicationStmt><p>Veröffentlicht als ein Teil von ELTeC <date>2019-01-28</date>.</p></publicationStmt>        <sourceDesc>
             <!-- converted from TextGrid (textgrid:n24t.0) via Kallimachos: +127+ -->
             <bibl type="copyText">
                <title>Die letzte Reckenburgerin</title>

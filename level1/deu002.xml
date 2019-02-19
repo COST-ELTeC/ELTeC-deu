@@ -2,7 +2,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Weisse Sclaven oder die Leiden des Volkes</title>
+            <title>Weisse Sclaven oder die Leiden des Volkes: ELTeC Edition</title>
             <author ref="http://d-nb.info/gnd/pnd:11739467X">Willkomm, Ernst
                Adolf</author>
             <respStmt>
@@ -13,10 +13,8 @@
          <extent>
             <measure unit="words">321518</measure><measure unit="pages"
                >1737</measure>
-         </extent>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
+         </extent><publicationStmt><p>Veröffentlicht als ein Teil von ELTeC <date>2019-01-28</date>.</p></publicationStmt>
+
          <sourceDesc>
             <!-- converted from TextGrid (textgrid:x9j6.0) via Kallimachos: +445+ -->
             <bibl type="copyText">

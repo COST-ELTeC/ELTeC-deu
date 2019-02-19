@@ -2,7 +2,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Kampf um Rom</title>
+            <title>Kampf um Rom: ELTeC Edition</title>
             <author ref="http://d-nb.info/gnd/pnd:118523392">Dahn,
                Felix</author>
             <respStmt>
@@ -13,10 +13,8 @@
          <extent>
             <measure unit="words">265076</measure><measure unit="pages"
                >774</measure>
-         </extent>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
+         </extent><publicationStmt><p>Veröffentlicht als ein Teil von ELTeC <date>2019-01-28</date>.</p></publicationStmt>
+
          <sourceDesc>
             <!-- converted from TextGrid (textgrid:m531.0) via Kallimachos: +62+ -->
             <bibl type="copyText">

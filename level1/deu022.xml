@@ -2,7 +2,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Lotti, die Uhrmacherin</title>
+            <title>Lotti, die Uhrmacherin: ELTeC Edition</title>
             <author ref="http://d-nb.info/gnd/pnd:118528661">Ebner-Eschenbach,
                Marie von</author>
             <respStmt>
@@ -13,10 +13,8 @@
          <extent>
             <measure unit="words">41588</measure><measure unit="pages"
                >96</measure>
-         </extent>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
+         </extent><publicationStmt><p>Veröffentlicht als ein Teil von ELTeC <date>2019-01-28</date>.</p></publicationStmt>
+
          <sourceDesc>
             <!-- converted from TextGrid (textgrid:mks5.0) via Kallimachos: +79+ -->
             <bibl type="copyText">

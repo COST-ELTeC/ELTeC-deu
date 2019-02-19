@@ -2,7 +2,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Die verlorene Handschrift</title>
+            <title>Die verlorene Handschrift: ELTeC Edition</title>
             <author ref="http://d-nb.info/gnd/pnd:118535455">Freytag,
                Gustav</author>
             <respStmt>
@@ -13,10 +13,8 @@
          <extent>
             <measure unit="words">307789</measure><measure unit="pages"
                >867</measure>
-         </extent>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
+         </extent><publicationStmt><p>Veröffentlicht als ein Teil von ELTeC <date>2019-01-28</date>.</p></publicationStmt>
+
          <sourceDesc>
             <!-- converted from TextGrid (textgrid:n2k5.0) via Kallimachos: +135+ -->
             <bibl type="copyText">

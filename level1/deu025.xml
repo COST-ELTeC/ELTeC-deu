@@ -2,7 +2,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Im alten Eisen</title>
+            <title>Im alten Eisen: ELTeC Edition</title>
             <author ref="http://d-nb.info/gnd/pnd:118597442">Raabe,
                Wilhelm</author>
             <respStmt>
@@ -13,10 +13,8 @@
          <extent>
             <measure unit="words">64408</measure><measure unit="pages"
                >169</measure>
-         </extent>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
+         </extent><publicationStmt><p>Veröffentlicht als ein Teil von ELTeC <date>2019-01-28</date>.</p></publicationStmt>
+
          <sourceDesc>
             <!-- converted from TextGrid (textgrid:t911.0) via Kallimachos: +321+ -->
             <bibl type="copyText">

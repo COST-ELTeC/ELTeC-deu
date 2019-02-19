@@ -2,7 +2,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Casanovas Heimfahrt</title>
+            <title>Casanovas Heimfahrt: ELTeC Edition</title>
             <author ref="http://d-nb.info/gnd/pnd:118609807">Schnitzler,
                Arthur</author>
             <respStmt>
@@ -13,10 +13,8 @@
          <extent>
             <measure unit="words">43407</measure><measure unit="pages"
                >93</measure>
-         </extent>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
+         </extent><publicationStmt><p>Veröffentlicht als ein Teil von ELTeC <date>2019-01-28</date>.</p></publicationStmt>
+
          <sourceDesc>
             <!-- converted from TextGrid (textgrid:v3t9.0) via Kallimachos: +355+ -->
             <bibl type="copyText">
