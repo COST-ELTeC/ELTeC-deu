@@ -4,7 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>Der Stechlin</title>
-            <author ref="http://d-nb.info/gnd/pnd:118534262">Fontane, Theodor</author>
+            <author ref="http://d-nb.info/gnd/118534262">Fontane, Theodor (1819-1898)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>
@@ -46,9 +46,9 @@
    </teiHeader>
 
    <text>
-      <front/>
+      
       <body>
-         <div>
+         <div type="chapter">
             <head>Schloß Stechlin</head>
             <div type="chapter">
                <head>Erstes Kapitel</head>
@@ -2216,7 +2216,7 @@
                <pb facs="#"/>
             </div>
          </div>
-         <div>
+         <div type="chapter">
             <head>Kloster Wutz</head>
             <div type="chapter">
                <head>Siebentes Kapitel</head>
@@ -3130,7 +3130,7 @@
                <pb facs="#"/>
             </div>
          </div>
-         <div>
+         <div type="chapter">
             <head>Nach dem »Eierhäuschen«</head>
             <div type="chapter">
                <head>Elftes Kapitel</head>
@@ -4661,7 +4661,7 @@
                <pb facs="#"/>
             </div>
          </div>
-         <div>
+         <div type="chapter">
             <head>Wahl in Rheinsberg-Wutz</head>
             <div type="chapter">
                <head>Sechzehntes Kapitel</head>
@@ -5981,7 +5981,7 @@
                <pb facs="#"/>
             </div>
          </div>
-         <div>
+         <div type="chapter">
             <head>In Mission nach England</head>
             <div type="chapter">
                <head>Einundzwanzigstes Kapitel</head>
@@ -6956,7 +6956,7 @@
                <pb facs="#"/>
             </div>
          </div>
-         <div>
+         <div type="chapter">
             <head>Verlobung, Weihnachtsreise nach Stechlin</head>
             <div type="chapter">
                <head>Fünfundzwanzigstes Kapitel</head>
@@ -8490,7 +8490,7 @@
                <pb facs="#"/>
             </div>
          </div>
-         <div>
+         <div type="chapter">
             <head>Hochzeit</head>
             <div type="chapter">
                <head>Zweiunddreißigstes Kapitel</head>
@@ -9223,7 +9223,7 @@
                <pb facs="#"/>
             </div>
          </div>
-         <div>
+         <div type="chapter">
             <head>Sonnenuntergang</head>
             <div type="chapter">
                <head>Sechsunddreißigstes Kapitel</head>
@@ -10563,7 +10563,7 @@
                <pb facs="#"/>
             </div>
          </div>
-         <div>
+         <div type="chapter">
             <head>Verweile doch. Tod - Begräbnis - Neue Tage</head>
             <div type="chapter">
                <head>Vierzigstes Kapitel</head>

@@ -4,7 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>Der Taifun</title>
-            <author ref="http://d-nb.info/gnd/pnd:118531212">Essig, Hermann</author>
+            <author ref="http://d-nb.info/gnd/118531212">Essig, Hermann (1878-1918)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>
@@ -46,10 +46,10 @@
    </teiHeader>
 
    <text>
-      <front/>
+      
       <body>
-         <div>
-            <div>
+         <div type="chapter">
+            <div type="chapter">
                <!--milestone head_start-->
                <head>Hermann Essig</head>
                <head>Der Taifun</head>

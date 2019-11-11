@@ -4,7 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>Im alten Eisen</title>
-            <author ref="http://d-nb.info/gnd/pnd:118597442">Raabe, Wilhelm</author>
+            <author ref="http://d-nb.info/gnd/118692577">Raabe, Wilhelm (1831-1910)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>
@@ -46,7 +46,7 @@
    </teiHeader>
 
    <text>
-      <front/>
+      
       <body>
          <div type="chapter">
             <head>

@@ -4,7 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>Madam Bäurin</title>
-            <author ref="http://d-nb.info/gnd/pnd:118520555">Christ, Lena</author>
+            <author ref="http://d-nb.info/gnd/118520555">Christ, Lena (1881-1920)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>
@@ -46,7 +46,7 @@
    </teiHeader>
 
    <text>
-      <front/>
+      
       <body>
          <div type="chapter">
             <head>

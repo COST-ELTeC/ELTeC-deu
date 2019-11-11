@@ -4,7 +4,8 @@
       <fileDesc>
          <titleStmt>
             <title>Agave</title>
-            <author ref="http://d-nb.info/gnd/pnd:118528661">Ebner-Eschenbach, Marie von</author>
+            <author ref="http://d-nb.info/gnd/118528661">Ebner-Eschenbach, Marie von
+               (1830-1916)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>
@@ -46,10 +47,9 @@
    </teiHeader>
 
    <text>
-      <front/>
+      
       <body>
-         <div type="chapter">
-            <div>
+         <div type="titlepage">
                <head>
                   <pb facs="#"/> Agave</head>
                <!--milestone hi_start-->
@@ -62,8 +62,6 @@
                <p> Die Kraft eines Lebens, Agave, dahin</p>
                <p> Und stirbst im Erblühen – ein Wunder bist du.</p>
                <!--milestone hi_end-->
-
-            </div>
          </div>
          <div type="chapter">
             <head>1</head>

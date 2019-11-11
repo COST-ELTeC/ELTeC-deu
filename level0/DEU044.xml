@@ -4,7 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>Kampf um Rom</title>
-            <author ref="http://d-nb.info/gnd/pnd:118523392">Dahn, Felix</author>
+            <author ref="http://d-nb.info/gnd/118523392">Dahn, Felix (1834-1912)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>
@@ -44,19 +44,16 @@
          <change when="2019-01-28">Conversion from Kallimachos Kernkorpus</change>
       </revisionDesc>
    </teiHeader>
-
    <text>
-      <front/>
       <body>
-         <div/>
-         <div>
+         <div type="chapter">
             <p>
                <pb facs="#"/> Motto:</p>
             <p> »Wenn etwas ist, gewalt'ger als das Schicksal</p>
             <p> So ist's der Mut, der's unerschüttert trägt.«</p>
             <p> Geibel. </p>
 
-            <div>
+            <div type="chapter">
                <head>Vorwort.</head>
                <p>Die wissenschaftlichen Grundlagen dieser in Gestalt eines Romans gekleideten
                   Bilder aus dem sechsten Jahrhundert enthalten meine in folgenden Werken
@@ -73,7 +70,7 @@
                <p>Felix Dahn.</p>
             </div>
          </div>
-         <div>
+         <div type="chapter">
             <head>Erstes Buch: Theoderich</head>
             <div type="chapter">
                <head>Erstes Kapitel.</head>
@@ -1524,7 +1521,7 @@
                   nicht, und laut aufschreiend warf sich Athalarich über die Leiche.</p>
             </div>
          </div>
-         <div>
+         <div type="chapter">
             <head>Zweites Buch: Athalarich</head>
             <div type="chapter">
                <head>Erstes Kapitel.</head>
@@ -3432,7 +3429,7 @@
                <pb facs="#"/>
             </div>
          </div>
-         <div>
+         <div type="chapter">
             <head>Drittes Buch: Amalaswintha</head>
             <div type="chapter">
                <head>Erstes Kapitel.</head>
@@ -7437,7 +7434,7 @@
                <pb facs="#"/>
             </div>
          </div>
-         <div>
+         <div type="chapter">
             <head>Viertes Buch: Theodahad</head>
             <div type="chapter">
                <head>Erstes Kapitel.</head>
@@ -10488,9 +10485,9 @@
                   der Goten. Ich vollstrecke die Acht.«</p>
             </div>
          </div>
-         <div>
+         <div type="chapter">
             <head>Fünftes Buch: Witichis</head>
-            <div>
+            <div type="chapter">
                <head>1. Abteilung</head>
                <div type="chapter">
                   <head>Erstes Kapitel.</head>
@@ -14505,7 +14502,7 @@
                   <pb facs="#"/>
                </div>
             </div>
-            <div>
+            <div type="chapter">
                <head>2. Abteilung</head>
                <div type="chapter">
                   <head>Erstes Kapitel.</head>
@@ -15739,7 +15736,7 @@
                   <p>»Nach Rom,« widerhallte das Zelt. »Nach Rom!«</p>
                </div>
                <div type="chapter">
-                  <div>
+                  <div type="chapter">
                      <head>Sechstes Kapitel.</head>
                      <p>Inzwischen schickte sich Belisar an, mit der Hauptmacht seines Heeres die
                         Stadt zu verlassen: Johannes hatte er deren Bewachung übertragen.</p>

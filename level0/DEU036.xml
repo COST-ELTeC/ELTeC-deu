@@ -4,7 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>Der grüne Heinrich2 [Zweite Fassung]</title>
-            <author ref="http://d-nb.info/gnd/pnd:11856109X">Keller, Gottfried</author>
+            <author ref="http://d-nb.info/gnd/11856109X">Keller, Gottfried (1819-1890)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>
@@ -46,9 +46,9 @@
    </teiHeader>
 
    <text>
-      <front/>
+      
       <body>
-         <div>
+         <div type="chapter">
             <head>Erster Band</head>
             <div type="chapter">
                <head>Erstes Kapitel</head>
@@ -4861,7 +4861,7 @@
                <pb facs="#"/>
             </div>
          </div>
-         <div>
+         <div type="chapter">
             <head>Zweiter Band</head>
             <div type="chapter">
                <head>Erstes Kapitel</head>
@@ -9438,7 +9438,7 @@
                <pb facs="#"/>
             </div>
          </div>
-         <div>
+         <div type="chapter">
             <head>Dritter Band</head>
             <div type="chapter">
                <head>Erstes Kapitel</head>
@@ -10302,7 +10302,7 @@
                   genommen!«</p>
             </div>
             <div type="chapter">
-               <div>
+               <div type="chapter">
                   <head>Fünftes Kapitel</head>
                   <head>Torheit des Meisters und des Schülers</head>
                   <p>Nach acht Tagen kehrte ich zur Stadt zurück und nahm meine Arbeit bei Römer
@@ -10575,7 +10575,7 @@
                   <p>Nach einem Monate erhielt ich von Römer folgenden Brief aus Paris:</p>
 
                </div>
-               <div>
+               <div type="chapter">
                   <head>»Mein werter junger Freund!</head>
                   <p>Ich bin Ihnen eine Nachricht über mein Befinden schuldig, da ich gern annehme,
                      mich Ihrer ferneren Teilnahme und Freundschaft erfreuen zu dürfen. Bin ich
@@ -15589,7 +15589,7 @@
                <pb facs="#"/>
             </div>
          </div>
-         <div>
+         <div type="chapter">
             <head>Vierter Band</head>
             <div type="chapter">
                <head>Erstes Kapitel</head>
@@ -19815,7 +19815,7 @@
                <pb facs="#"/>
             </div>
             <div type="chapter">
-               <div>
+               <div type="chapter">
                   <head>Zwölftes Kapitel</head>
                   <head>Der gefrorne Christ</head>
                   <p>Auf der Nordseite des Schlosses bezeichnete ein höheres Fenster den Raum, in
@@ -20358,7 +20358,7 @@
 
 
                </div>
-               <div>
+               <div type="chapter">
                   <head>›Man muß sich überschwenken</head>
 
                   <l>Mensch! wo du deinen Geist schwingst über Ort und Zeit,</l>
@@ -20370,7 +20370,7 @@
 
 
                </div>
-               <div>
+               <div type="chapter">
                   <head>›Der Mensch, ist Ewigkeit</head>
 
                   <l>Ich selbst bin Ewigkeit, wann ich die Zeit verlasse</l>
@@ -20382,7 +20382,7 @@
 
 
                </div>
-               <div>
+               <div type="chapter">
                   <head>›Die Zeit ist Ewigkeit</head>
 
                   <l>Zeit ist wie Ewigkeit und Ewigkeit wie Zeit,</l>

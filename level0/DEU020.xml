@@ -4,7 +4,8 @@
       <fileDesc>
          <titleStmt>
             <title>Sibylle</title>
-            <author ref="http://d-nb.info/gnd/">Hahn-Hahn, Ida Gräfin von</author>
+            <author ref="http://d-nb.info/gnd/118544918">Hahn-Hahn, Ida Gräfin von
+               (1805-1880)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>
@@ -46,9 +47,9 @@
    </teiHeader>
 
    <text>
-      <front/>
+      
       <body>
-         <div>
+         <div type="chapter">
             <head>
                <pb facs="#"/> Erster Band</head>
             <head>An Fürst Fritz Schwarzenberg</head>
@@ -4873,8 +4874,8 @@
                muß nur seinen Platz und seine Bestimmung erkennen und dann – ruhig sein.</p>
             <pb facs="#"/>
          </div>
-         <div>
-            <div>
+         <div type="chapter">
+            <div type="chapter">
                <head>
                   <pb facs="#"/> Zweiter Band</head>
                <p>Aber ich war nicht ruhig – nur stumpf. Ich mied Würzburg und eilte nach Engelau

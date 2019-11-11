@@ -4,7 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>Heidis Lehr- und Wanderjahre</title>
-            <author ref="http://d-nb.info/gnd/pnd:118616455">Spyri, Johanna</author>
+            <author ref="http://d-nb.info/gnd/118616455">Spyri, Johanna (1827-1901)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>
@@ -46,7 +46,7 @@
    </teiHeader>
 
    <text>
-      <front/>
+      
       <body>
          <div type="chapter">
             <head>

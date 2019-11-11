@@ -4,7 +4,8 @@
       <fileDesc>
          <titleStmt>
             <title>Von Paul zu Pedro</title>
-            <author ref="http://d-nb.info/gnd/pnd:118600044">Reventlow, Franziska Gräfin zu</author>
+            <author ref="http://d-nb.info/gnd/118600044">Reventlow, Franziska Gräfin zu
+               (1871-1918)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>
@@ -46,7 +47,7 @@
    </teiHeader>
 
    <text>
-      <front/>
+      
       <body>
          <div type="chapter">
             <head>

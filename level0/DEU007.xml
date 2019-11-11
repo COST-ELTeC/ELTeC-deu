@@ -4,7 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>Die Mappe meines Urgroßvaters</title>
-            <author ref="http://d-nb.info/gnd/pnd:118618156">Stifter, Adalbert</author>
+            <author ref="http://d-nb.info/gnd/118618156">Stifter, Adalbert (1805-1868)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>
@@ -46,7 +46,7 @@
    </teiHeader>
 
    <text>
-      <front/>
+      
       <body>
          <div type="chapter"/>
          <div type="chapter">

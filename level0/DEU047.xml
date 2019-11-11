@@ -4,7 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>Judith die Kluswirtin</title>
-            <author ref="http://d-nb.info/gnd/pnd:118692577">François, Louise von</author>
+            <author ref="http://d-nb.info/gnd/118692577">François, Louise von (1817-1893)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>
@@ -46,9 +46,9 @@
    </teiHeader>
 
    <text>
-      <front/>
+      
       <body>
-         <div>
+         <div type="chapter">
             <head>
                <pb facs="#"/> Rückblick</head>
             <p>Man ist es gewöhnt, preisend oder spottend, die altsassische Landschaft zwischen
@@ -311,7 +311,7 @@
                ja, über welchem das Gewässer sich am stillsten bewegt, bis jäh ein Wettersturm die
                in der Tiefe verborgenen Schätze oder Schrecken zutage wirbelt.</p>
          </div>
-         <div>
+         <div type="chapter">
             <head>Vorboten</head>
             <p>Jahr um Jahr war auch über dieser neuesten Wandlung des Klushofes hingegangen, die
                Maienzeit wiedergekehrt; die Natur hatte in lachenden Festgewändern ihre
@@ -657,7 +657,7 @@
                Verlaufe seines Lebens auch zu der weiteren Erkenntnis gelangt, nach welcher ein
                rechtes Wort zu unrechter Zeit allemal eine Niete ist.</p>
          </div>
-         <div>
+         <div type="chapter">
             <head>Gesichte</head>
             <p>Judith schloß das Tor und ging nach dem Hofe zurück. Sie würde nicht die planvolle
                Hausregentin gewesen sein, die sie war, wenn sie den Widerspruch mit ihren
@@ -926,7 +926,7 @@
             <p>Die alte Sachsenwirtin nannte den mörderischen Namen nicht. »Hilf Gott, hilf Gott!«
                röchelte sie und stürzte tot zu Boden in der Tochter Arme.</p>
          </div>
-         <div>
+         <div type="chapter">
             <head>Erweckung</head>
             <p>So still war es noch zu keiner Zeit in der stillen Klus gewesen als während der
                Stunden, welche diesem Schreckensende folgten. Ja, Totenstille! Kein Laut der Klage
@@ -1374,7 +1374,7 @@
                pflücken. Nach einigen stummen Minuten hob die Kluswirtin gesammelt und mit sicherer
                Stimme ihre Mitteilung an.</p>
          </div>
-         <div>
+         <div type="chapter">
             <head>Enthüllung</head>
             <p>»Schon ehe ich auf der Welt war, ist Simon Lauter auf dem Klushofe heimisch gewesen
                wie ein eignes Kind. Sein Vater, der von Bergleuten aus dem Schwabenlande abstammte
@@ -2170,7 +2170,7 @@
                Mir klingt's wie Auferweckung, saug ich ihn ein. Auferweckung der toten Herzen,
                Auferweckung auch der lebenden! Voran, voran, und Gott mit dir, mein Kind!«</p>
          </div>
-         <div>
+         <div type="chapter">
             <head>Ein Blick</head>
             <p>Der Pfarrherr hatte sich von seiner Begleiterin nahe einer Lichtung getrennt, aus
                welcher sie in früheren Jahren das Waldhaus oftmals mit freudigem Herzen hatte
@@ -2495,7 +2495,7 @@
                Tür des lutherischen Hauses in Stücke getreten; Judith sah sich inmitten eines
                drängenden, ringenden, ächzenden, schreienden Getümmels.</p>
          </div>
-         <div>
+         <div type="chapter">
             <head>Licht</head>
             <p>Nach Art so gewaltsamer Phänomene währte der jähe Sturz kaum Minuten lang. Die
                Windsbraut fegte die Wolken auseinander, und Blitze zuckten, Donnerschläge grollten
@@ -2742,7 +2742,7 @@
                Bruder, der Elende, der – der, o, du weißt es ja, Judith! ich sehe es an deinem
                Schauder, – dein Bruder, der Mörder!« –</p>
          </div>
-         <div>
+         <div type="chapter">
             <head>Irrlicht</head>
             <p>So war es denn Tag geworden über der dunklen Tat, Tag für die Unschuld, und Mitleid
                mit Abscheu, Blutesliebe <pb facs="#"/> mit Weibesliebe, Sieg mit Vernichtung rangen
@@ -3022,7 +3022,7 @@
                Leute ohne Zweifel, die zurückkehrten. Sie verließ das Zimmer, dessen Tür sie hinter
                sich verschloß.</p>
          </div>
-         <div>
+         <div type="chapter">
             <head>Nacht</head>
             <p>Das am Morgen so stattlich ausstaffierte Liebespaar war es in der Tat, das jetzt, bis
                auf Kapsel- und Pudelmütze durchweicht und zerzaust, von seinem Meßgange heimkehrte.
@@ -3568,8 +3568,8 @@
                dem Toten gelegen, erklärte auf dem Heimwege mit großer Fassung, daß er Priester
                werden wolle.</p>
          </div>
-         <div>
-            <div>
+         <div type="chapter">
+            <div type="chapter">
                <head>Klärung</head>
                <p>In der Mittagsstunde, welche jenem stillen Begräbnismorgen folgte, betrat ein
                   trauerndes Weib die Zelle des Gefangenen Simon Lauter. Er saß, mit dem Rücken der

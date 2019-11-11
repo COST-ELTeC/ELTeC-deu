@@ -4,7 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>Jons und Erdme</title>
-            <author ref="http://d-nb.info/gnd/pnd:118619853">Sudermann, Hermann</author>
+            <author ref="http://d-nb.info/gnd/118619853">Sudermann, Hermann (1857-1928)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>
@@ -46,7 +46,7 @@
    </teiHeader>
 
    <text>
-      <front/>
+      
       <body>
          <div type="chapter">
             <head>1</head>

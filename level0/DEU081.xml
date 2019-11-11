@@ -4,7 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>Und Friede auf Erden!</title>
-            <author ref="http://d-nb.info/gnd/pnd:118818651">May, Karl</author>
+            <author ref="http://d-nb.info/gnd/118818651">May, Karl (1842-1912)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>
@@ -46,9 +46,9 @@
    </teiHeader>
 
    <text>
-      <front/>
+      
       <body>
-         <div>
+         <div type="chapter">
             <div type="chapter">
                <head>
                   <pb facs="#"/> Erstes Kapitel</head>
@@ -2398,7 +2398,7 @@
                <pb facs="#"/>
             </div>
          </div>
-         <div>
+         <div type="chapter">
             <div type="chapter">
                <head>Zweites Kapitel</head>
 
@@ -4680,7 +4680,7 @@
                <pb facs="#"/>
             </div>
          </div>
-         <div>
+         <div type="chapter">
             <div type="chapter">
                <head>Drittes Kapitel</head>
 
@@ -8171,7 +8171,7 @@
                <pb facs="#"/>
             </div>
          </div>
-         <div>
+         <div type="chapter">
             <div type="chapter">
                <head>Viertes Kapitel</head>
 
@@ -11520,7 +11520,7 @@
                <pb facs="#"/>
             </div>
          </div>
-         <div>
+         <div type="chapter">
             <div type="chapter">
                <head>Fünftes Kapitel</head>
 

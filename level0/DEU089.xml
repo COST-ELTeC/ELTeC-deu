@@ -4,7 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>Die Abendburg</title>
-            <author ref="http://d-nb.info/gnd/pnd:11863318X">Wille, Bruno</author>
+            <author ref="http://d-nb.info/gnd/11863318X">Wille, Bruno (1860-1928)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>
@@ -44,11 +44,9 @@
          <change when="2019-01-28">Conversion from Kallimachos Kernkorpus</change>
       </revisionDesc>
    </teiHeader>
-
    <text>
-      <front/>
       <body>
-         <div>
+         <div type="chapter">
             <head>
                <pb facs="#"/> Das erste Abenteuer</head>
             <head>Handelt von Fürzeichen und</head>
@@ -888,7 +886,7 @@
                Fieberschauern an, also daß er sich zu Bette legen mußte, worauf die Gäste nach Hause
                kehreten, mit traurigem Bedenken, wie es wohl am Ende kommen werde.</p>
          </div>
-         <div>
+         <div type="chapter">
             <head>
                <pb facs="#"/> Das andere Abenteuer</head>
             <head>Das Johanniskind will den winkenden</head>
@@ -1891,7 +1889,7 @@
                will ich nicht weiter vorgreifen, sondern der Reihe nach von diesen Abenteuern
                Bericht geben.</p>
          </div>
-         <div>
+         <div type="chapter">
             <head>
                <pb facs="#"/> Das dritte Abenteuer</head>
             <head>Hexlein Schlangenglatt</head>
@@ -2680,7 +2678,7 @@
                In meiner Stube angelangt, packte ich meine Habe zusammen und verließ Schmirsels
                Haus.</p>
          </div>
-         <div>
+         <div type="chapter">
             <head>
                <pb facs="#"/> Das vierte Abenteuer</head>
             <head>Wie Gold gemacht wird</head>
@@ -2966,7 +2964,7 @@
                himmlischen Kleide und war dessen sicher, daß es sich weben lasse aus Waldhäusers
                Weisheit.</p>
          </div>
-         <div>
+         <div type="chapter">
             <head>
                <pb facs="#"/> Das fünfte Abenteuer</head>
             <head>Die Gräfin vom Böhmerschloß</head>
@@ -3825,7 +3823,7 @@
                sie jetzo grüßen könnte mit der heimlichen Seelenmagie! Thekla! Frei bin ich – und
                alles will ich dransetzen, auch dich zu befreien – meine Braut!</p>
          </div>
-         <div>
+         <div type="chapter">
             <head>
                <pb facs="#"/> Das sechste Abenteuer</head>
             <head>Wie die Jungfer zu mir sagte</head>
@@ -4911,7 +4909,7 @@
                fassen gekriegt, war er nun resolvieret, mit unserer Stadt aufzuräumen, um nicht
                länger vor den Blicken ganz Europiens am Narrenseile herumgeführet zu werden.</p>
          </div>
-         <div>
+         <div type="chapter">
             <head>
                <pb facs="#"/> Das siebente Abenteuer</head>
             <head>Die Magdeburgische Bluthochzeit</head>
@@ -6414,7 +6412,7 @@
                ankämpfte, sank mir doch immer wieder das Kinn auf die Brust, bis mich die Mattigkeit
                ganz überwältigte.</p>
          </div>
-         <div>
+         <div type="chapter">
             <head>
                <pb facs="#"/> Das achte Abenteuer</head>
             <head>Wie die kaum Getrauten sich</head>
@@ -7139,7 +7137,7 @@
 
             <pb facs="#"/>
          </div>
-         <div>
+         <div type="chapter">
             <head>Das neunte Abenteuer</head>
             <head>Wie das Lichtreich aus der Goldhöhle kam</head>
             <pb facs="#"/>
@@ -8776,7 +8774,7 @@
                war jener Mutter gleich, die das kalte Gold der Abendburg gehoben, ihren
                Herzensschatz aber verloren hatte.</p>
          </div>
-         <div>
+         <div type="chapter">
             <head>
                <pb facs="#"/> Das zehnte Abenteuer</head>
             <head>Wie die Goldburg zusammenbrach und einer von neuem geboren ward</head>
@@ -10374,7 +10372,7 @@
                werden solle für das wahrhaftige neue Reich, so da ist ein Reich des Lichtes, der
                Unschuld und Liebe in Ewigkeit.</p>
          </div>
-         <div>
+         <div type="chapter">
             <head>
                <pb facs="#"/> Das eilfte Abenteuer</head>
             <head>»Wessen wird sie im Himmelreiche sein?«</head>
@@ -12462,7 +12460,7 @@
                lassen. Gewiß, das tust Du, fromme Seele, und so wirst Du nach Versuchungen und
                Schmerzen als Sieger vereinigt werden mit Deiner Dich segnenden Hirtin Thekla.«</p>
          </div>
-         <div>
+         <div type="chapter">
             <head>
                <pb facs="#"/> Das letzte Abenteuer</head>
             <head>Vom Frieden der Abendburg</head>

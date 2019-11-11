@@ -4,7 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>Der Amerika-Müde</title>
-            <author ref="http://d-nb.info/gnd/118567764">Kürnberger, Ferdinand</author>
+            <author ref="http://d-nb.info/gnd/118567764">Kürnberger, Ferdinand (1823-1879)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>
@@ -44,11 +44,9 @@
          <change when="2019-01-28">Conversion from Kallimachos Kernkorpus</change>
       </revisionDesc>
    </teiHeader>
-
    <text>
-      <front/>
       <body>
-         <div>
+         <div type="chapter">
             <head> Erstes Buch. </head>
             <pb n="[1]" facs="#"/>
             <div type="chapter">
@@ -7957,7 +7955,7 @@
             </div>
          </div>
          <pb n="[257]" facs="#"/>
-         <div>
+         <div type="chapter">
             <head> Zweites Buch. </head>
             <pb n="[258]" facs="#"/>
             <pb n="[259]" facs="#"/>
@@ -8039,7 +8037,7 @@
                <p>Das schien uns in Kürze die nothwendigste Verständigung, die wir den nachfolgenden
                   Blättern vorauszuschicken hatten. Mögen wir uns gestimmt finden, ihnen mit Antheil
                   und Aufmerksamkeit zu folgen.</p>
-               <div>
+               <div type="chapter">
                   <head> Mo'orfeld's Reisetagebuch von Newyork nach Ohio. </head>
                   <p>Nach Philadelphia. — Die Locomotive braust durch New-Jersey. Das Land ist flach
                      und bietet dem Auge wenig Beschäftigung. So weit von den Alleghanen und so nahe
@@ -13520,7 +13518,7 @@
          </div>
          <pb n="[442]" facs="#"/>
          <pb n="[443]" facs="#"/>
-         <div>
+         <div type="chapter">
             <head> Drittes Buch. </head>
             <pb n="[444]" facs="#"/>
             <pb n="[445]" facs="#"/>
@@ -15298,107 +15296,5 @@
             </div>
          </div>
       </body>
-      <back>
-         <div type="corrigenda">
-            <head> Druckfehler. </head>
-            <p>Seite 48 Zeile 8 v. o. statt Iotuition lies: Intuition.</p>
-            <p>„ 158 „ 7 „ „ „ verschobene l. verschrobene.</p>
-            <p>„ 161 „ 4 „ „ „ überraschte l. überrasche.</p>
-            <p>„ 175 „ 11 „ „ „ fernen l. ferneren.</p>
-            <p>„ 181 „ 4 „ u. „ müßte l. mußte.</p>
-            <p>„ 183 „ 6 „ „ „ obersten Erker l. oberen Ecken.</p>
-            <p>„ 187 „ 10 „ o. „ überraschte l. überrasche.</p>
-            <p>„ 189 „ 14 „ „ „ Miß l. Mistreß.</p>
-            <p>„ 192 „ 4 „ u. „ Habitue l. Habitué.</p>
-            <p>„ 195 „ 7 „ „ „ Dandy's l. Dandie's.</p>
-            <p>„ 206 „ 6 „ „ „ die Art für die Gattung l. die Gattung füür die Art.</p>
-            <p>„ 212 „ 18 „ „ „ Castel l. Castle.</p>
-            <p>„ 231 „ 11 „ o. „ Cölestinens l. Cölestens.</p>
-            <p>„ 236 nach der letzten Zeile unten lies: Phantasie wird eine schwache Voorstellung
-               jener Tempelhalle haben, der schönsten, welche je ddie Natur an irgend einem Punkte
-               der Erde sich.</p>
-            <p>„ 259 Zeile 6 v. o. statt Griswald lies Griswold.</p>
-            <p>„ 261 „ 12 „ „ „ gestigen l. geistigen.</p>
-            <p>„ 269 „ 7 „ „ „ doch l. noch.</p>
-         </div>
-         <div type="advertisement">
-            <p>Im Verlage von J. P. Diehl in Darmstadt ist erschienen und durch alle Buchhandlungen
-               zu erhalten:</p>
-            <p> Geschichte der englischen Poesie. </p>
-            <p>Dr. Alexander Büchner. </p>
-            <p>50 Bogen in 2 Thln., broschürt, Rthlr. 2. oder fl. 3. 36 kr.</p>
-            <p>Der Verfasser, durch seine Uebersetzung von Byron's Childe Harold rühnhmlichst
-               bekannt, schildert in vorstehend angezeigtem Werke mit ebensoviel Gründlichkeit und
-               Klarheit als zweckmäßiger Kürze den Charakter der einzelnen Epochen, der Dichter und
-               ihrer Werke so lichtvoll, anziehend und belehrend und theilt den Inhalt der
-               Dichtungen so unterhaltend und bezeichnend mit, daß den Lesern sich in frischer
-               Lebendigkeit ein Bild der englischen Poesie darstellt, das Ueberblick und Urtheil in
-               vollem Maaße gestattet.</p>
-            <p>Im Verlage von Victor v. Zabern in Mainz erschien soeben die z zzweite vermehrte und
-               genau revidirte Auflage von:</p>
-            <p> Jac. Moleschott, der Kreislauf des Lebens. </p>
-            <p>Liebig's chemische Briefe. 32 Bogen eleg. geheftet fl. 3. 54 kr. oder Rthlr. 2. 8
-               gr.</p>
-            <p> Inhaltsverzeichniß.</p>
-            <p>An Justus Liebig.</p>
-            <p>1. Brief: Offenbarung und Naturgesetz.</p>
-            <p>2. " Erkenntnißquellen des Menschen.</p>
-            <p>3. " Unsterblichkeit des Stoffs.</p>
-            <p>4. " Das Wachsthum von Pflanzen und Thieren.</p>
-            <p>5. " Die Erde als Werkzeug der Schöpfung von Pflanzen und Thieren.</p>
-            <p>6. " Kreislauf des Stoffs.</p>
-            <p>7. " Die Pflanze und der Boden.</p>
-            <p>8. " Pflanzen und Thiere.</p>
-            <p>9. " Ernährung und Athmung.</p>
-            <p>10. " Entwicklung der Nahrung im Thierkörper.</p>
-            <p>11. " Asche der Thiere und Menschen.</p>
-            <p>12. " Rückbildung im Thier.</p>
-            <p>13. " Rückbildung in der Pflanze.</p>
-            <p>14. " Die Wärme von Pflanzen und Thieren.</p>
-            <p>15. " Die allmählige Entwicklung des Stoffs.</p>
-            <p>16. " Der Stoff regiert den Menschen.</p>
-            <p>17. " Kraft und Stoff.</p>
-            <p>18. " Der Gedanke.</p>
-            <p>19. " Der Wille</p>
-            <p>20. " Für's Leben.</p>
-            <p>Anmerkungen.</p>
-         </div>
-         <div type="advertisement">
-            <head>Im Verlag von Hermann Costenoble in Leipzig erschien:</head>
-            <p> Nach Amerika! Ein Volksbuch von Friedrich Gerstäcker. Illustrirt von Theodor
-               Hosemann. In 12 Heften. Jedes Heft mit 2 Illustrationen. Preis für jedes Heft 16
-               Sgr.</p>
-            <p>Alljährlich verlassen mehr und mehr Deutsche aus allen Ländern das Vaterland um „Nach
-               Amerika“ zu gehen und sich dort eine neue Heimath zu gründen; es gibt jetzt fast
-               keine Familie, von der nicht irgend ein Glied in der neuen Welt sein Heil gesucht,
-               wenn auch nicht immer gefunden hätte.</p>
-            <p>Das Interesse für Amerika, wie für das Schicksal unserer Landsleute dort, wächst
-               dadurch fast täglich in allen Kreisen des Vaterlandes, und doch ist dies Interesse
-               noch recht selten zur Unterhaltung, Belehrung und Aufklärung des deutschen Publikums
-               benutzt werden.</p>
-            <p>Der allgemein beliebte und an eignen interessanten Erlebnissen unzweifelhaft reichste
-               und dazu geeignetste Schriftsteller Deutschlands hat es deßhalb unternommen, uns eine
-               treue Schilderung von Personen und Zuständen aus allen Klassen der Gesellschaft, in
-               unterhaltender erzählender Form zu geben, welche aus den verschiedenartigsten Gründen
-               das Vaterland verließen.</p>
-            <p>Wir werden diese Leute mit ihren sich oft kreuzenden Interessen aus der Heimath in
-               die deutsche Hafenstadt und auf das Schiff begleiten, um sie endlich in den häufig
-               entgegengesetztesten Situationen und Verhältnissen in Amerika wieder zu finden. Wir
-               werden sie begleiten mit unserer Aufmerksamkeit bis in den fernen Westen Amerika's,
-               auf ihre Farm, in die stille Werkstatt des Handwerkers, in die geräuschvolle
-               Fabrikstadt der Union, oder wohin sonst unsere Landsleute das Schicksal und ihre
-               eigne Handlungsweise sie führen werden.</p>
-            <p>In der Dieterichschen Buchhandlung in Göttingen ist erschienen und als
-               Weihnachtsgeschenk besonders zu empfehlen:</p>
-            <p> Hogarth's Werke von H. Riepenhausen. Neue Ausgabe von H. Lödel. Mit Lichtenberg's
-               Text. Liefrg. 1–12. Subscriptionspreis 10 Rthlr.</p>
-            <p>Die reichen, charaktervollen, ewig wahren Lebensbilder dieses Seelen-Malers werden
-               überall lebhaftes Interesse erregen. Die gefällige Ausstattung und der mäßige Preis
-               macht die Werke Hogarth's zu einem Gemeingut der gebildeten Welt.</p>
-         </div>
-         <div type="imprint">
-            <p>August Osterrieth in Frankfurt a. M.</p>
-         </div>
-      </back>
    </text>
 </TEI>

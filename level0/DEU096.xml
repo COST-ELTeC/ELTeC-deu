@@ -4,7 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>Der Golem</title>
-            <author ref="http://d-nb.info/gnd/pnd:118582046">Meyrink, Gustav</author>
+            <author ref="http://d-nb.info/gnd/118582046">Meyrink, Gustav (1868-1932)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>
@@ -46,7 +46,7 @@
    </teiHeader>
 
    <text>
-      <front/>
+      
       <body>
          <div type="chapter">
             <head>

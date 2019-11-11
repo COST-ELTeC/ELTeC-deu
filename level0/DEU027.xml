@@ -4,7 +4,8 @@
       <fileDesc>
          <titleStmt>
             <title>Bozena</title>
-            <author ref="http://d-nb.info/gnd/pnd:118528661">Ebner-Eschenbach, Marie von</author>
+            <author ref="http://d-nb.info/gnd/118528661">Ebner-Eschenbach, Marie von
+               (1830-1916)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>
@@ -46,7 +47,7 @@
    </teiHeader>
 
    <text>
-      <front/>
+      
       <body>
          <div type="chapter">
             <head>
@@ -2496,7 +2497,7 @@
          </div>
          <div type="chapter">
             <pb facs="#"/>
-            <div>
+            <div type="chapter">
                <head>11</head>
                <p>Der Poststellwagen, der Mansuet nach Weinberg zurückbrachte, fuhr im selben
                   Augenblick durch das Tor, in dem der stattliche Zug, der Heißenstein zur letzten
@@ -2834,7 +2835,7 @@
          </div>
          <div type="chapter">
             <pb facs="#"/>
-            <div>
+            <div type="chapter">
                <head>12</head>
                <p>Nun waren sie allein, die altgeborene Regel, die unverwüstlich junge Božena und
                   das immer fröhliche Röschen; wohl selten würfelt »seine Majestät der Zufall«
@@ -3360,7 +3361,7 @@
          </div>
          <div type="chapter">
             <pb facs="#"/>
-            <div>
+            <div type="chapter">
                <head>14</head>
                <p>Ernst und von langer Dauer war die Unterredung, zu der am nächsten Tage Fräulein
                   Heißenstein Herrn Doktor Wenzel geladen hatte. Es wurde die gewichtige Frage
@@ -3982,7 +3983,7 @@
          </div>
          <div type="chapter">
             <pb facs="#"/>
-            <div>
+            <div type="chapter">
                <head>16</head>
                <p>Die Eisenbahnfahrt dauerte nur wenige Stunden. Schon um zwölf Uhr mittags waren
                   die Reisenden auf der Station angelangt, wo der Wagen aus Rondsperg ihrer wartete

@@ -4,7 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>Paralyse</title>
-            <author ref="http://d-nb.info/gnd/pnd:118750607">Sack, Gustav</author>
+            <author ref="http://d-nb.info/gnd/118750607">Sack, Gustav (1885-1916)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>
@@ -46,9 +46,9 @@
    </teiHeader>
 
    <text>
-      <front/>
+      
       <body>
-         <div>
+         <div type="chapter">
             <head>
                <pb facs="#"/> Das Turkosgrab</head>
             <p>Vier Thujabäume lispeln mürrisch, rauschen à la Byron und stehen gelangweilt tagaus
@@ -220,7 +220,7 @@
                über die Nebellachen rollt, die sich schwer und trag über die Lechauen gelagert haben
                und aus denen die Baumwipfel hervorlugen wie Klippen alten Basalts.</p>
          </div>
-         <div>
+         <div type="chapter">
             <head>Das Heiligenbild</head>
             <p>Ich hatte es meiner geraden Figur und dem Teufel, der mich unter euch hat geboren
                werden lassen, zu verdanken, daß ich zu einer achtwöchentlichen Übung eingezogen war,
@@ -707,7 +707,7 @@
             <p>Da schüttelte ich eilends Traum und Spuk von mir und trank mit vollen Lungen die
                Morgenluft, die herb und klar unter dem golddunstigen Himmel lag.</p>
          </div>
-         <div>
+         <div type="chapter">
             <head>Berberitzen</head>
             <p>Der Tag war hell und heiß gewesen, jetzt lag ich in einem Bach nackt und kühl und
                ließ seine Wellen über mich springen. Forellen lebten in ihm und neben ihm standen
@@ -839,7 +839,7 @@
                wird die Sonne durch den blauen Himmel wie durch ein Brennglas auf uns glühen. Still!
                still – die Nacht ist still – – –</p>
          </div>
-         <div>
+         <div type="chapter">
             <head>Intermezzo</head>
             <p>Ich gleite über einer Tiefe, die so klar und zärtlich grün ist, daß das Verlangen, in
                sie hinab zu stürzen, zu einer schmerzlichen <pb facs="#"/> Qual wird, und deren
@@ -863,7 +863,7 @@
                Versuchungen und niedere Ruhestiegen zu der rauschlosen Reinheit, zu der mein Wagen
                weiter donnert.</p>
          </div>
-         <div>
+         <div type="chapter">
             <head>Die Stadt und der Wahnsinn</head>
             <p>Lebewohl! mein zottiger Weggenosse! Vierzehn Tage hocktest du auf meinem Rücken und
                sprangst, wenn wir unser beider Last und Langerweile müde waren, fröhlich herunter,

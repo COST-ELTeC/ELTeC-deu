@@ -4,7 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>Weisse Sclaven oder die Leiden des Volkes</title>
-            <author ref="http://d-nb.info/gnd/pnd:11739467X">Willkomm, Ernst Adolf</author>
+            <author ref="http://d-nb.info/gnd/11739467X">Willkomm, Ernst Adolf (1810-1886)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>
@@ -44,16 +44,13 @@
          <change when="2019-01-28">Conversion from Kallimachos Kernkorpus</change>
       </revisionDesc>
    </teiHeader>
-
    <text>
-      <front/>
       <body>
-         <div>
+         <div type="chapter">
             <head>Erster Theil</head>
-            <div>
+            <div type="chapter">
                <head>Erstes Buch</head>
                <div type="chapter">
-                  <div>
                      <head>Erstes Kapitel.</head>
                      <head>Der Haidekretscham.</head>
                      <p>Ein ansehnlicher Theil der beiden Lausitzen, namentlich die früher unter
@@ -550,7 +547,7 @@
                         Euch!«</p>
                      <p>Er drückte seinen Gästen nochmals die Hand und ging dann ohne Licht, wie die
                         Uebrigen, in die an die Wohnstube stoßende Schlafkammer.</p>
-                  </div>
+                  
                </div>
                <div type="chapter">
                   <head>
@@ -2128,10 +2125,9 @@
                   <pb facs="#"/>
                </div>
             </div>
-            <div>
+            <div type="chapter">
                <head>Zweites Buch</head>
                <div type="chapter">
-                  <div>
                      <head>Erstes Kapitel.</head>
                      <head>Die letzte Spinte.</head>
                      <p>Ehe noch Adrian mit seinen Gästen das Haus am See erreichte, zeigte das
@@ -2374,8 +2370,8 @@
                         Tisch.</p>
                      <p>Haideröschen begann:</p>
 
-                  </div>
-                  <div>
+                  
+                  <div type="chapter">
                      <head>Das Mährchen von den andächtigen Sängern. Dies und die folgenden kurzen
                         Mährchen sind wörtlich dem trefflichen Werke ›Volkslieder der Ober-und
                         Niederlausitz‹ von Haupt und Schmaler herausgegeben entlehnt. </head>
@@ -2446,7 +2442,7 @@
                         strahlenden Augen Clemens zu und begann abermals:</p>
 
                   </div>
-                  <div>
+                  <div type="chapter">
                      <head>Die Geschichte vom armen Manne, der die vielen Kinder hatte.</head>
                      <p>»Es war aber einmal ein Vater und eine Mutter, die hatten eine große Schaar
                         Kinder. Da fuhr der Vater einmal in die Stadt und kaufte ein Viertel
@@ -2552,7 +2548,7 @@
                         von</p>
 
                   </div>
-                  <div>
+                  <div type="chapter">
                      <head>Diter Bernhard.</head>
                      <p>»Es war aber einmal ein vornehmer, frommer Herr mit Namen Diter Bernhard, so
                         fromm, daß er seine Kleidung in die Sonnenstäubchen hängen konnte, ohne zu
@@ -4292,7 +4288,6 @@
                      –</p>
                </div>
                <div type="chapter">
-                  <div>
                      <head>
                         <pb facs="#"/> Siebentes Kapitel.</head>
                      <head>Die Gesindestube.</head>
@@ -4827,7 +4822,7 @@
                      <p>Und ungehindert, nicht einmal von dem unschlüssigen Voigt begleitet, verließ
                         der Maulwurffänger die Gesindestube mit ihrer aufgeregten, im Herzen
                         heimlich gegen Magnus erbitterten Gesellschaft.</p>
-                  </div>
+                  
                </div>
                <div type="chapter">
                   <head>
@@ -5145,9 +5140,9 @@
                </div>
             </div>
          </div>
-         <div>
+         <div type="chapter">
             <head>Zweiter Theil</head>
-            <div>
+            <div type="chapter">
                <head>Drittes Buch</head>
                <div type="chapter">
                   <head>Erstes Kapitel.</head>
@@ -8469,7 +8464,7 @@
                   <pb facs="#"/>
                </div>
             </div>
-            <div>
+            <div type="chapter">
                <head>Viertes Buch</head>
                <div type="chapter">
                   <head>Erstes Kapitel.</head>
@@ -8935,7 +8930,6 @@
                      durchsausten Haide.</p>
                </div>
                <div type="chapter">
-                  <div>
                      <head>
                         <pb facs="#"/> Zweites Kapitel.</head>
                      <head>Geheimnisse.</head>
@@ -9315,7 +9309,7 @@
                      <p>Nun fühlte sich die junge Frau so beunruhigt, daß sie den Rest des Abends
                         für nichts mehr Sinn hatte und die ganze Nacht theils schlaflos, theils von
                         fürchterlichen Träumen geängstigt, zubrachte.</p>
-                  </div>
+                  
                </div>
                <div type="chapter">
                   <head>
@@ -10107,7 +10101,6 @@
                      Ganges stand. Als die Thür zufiel, sank sie Enma still weinend in die Arme.</p>
                </div>
                <div type="chapter">
-                  <div>
                      <head>
                         <pb facs="#"/> Fünftes Kapitel.</head>
                      <head>Der Aufstand.</head>
@@ -10401,7 +10394,7 @@
                            <pb facs="#"/> Hinter den Räubern in dicht gedrängten Schaaren folgten
                         die Leibeigenen, ihre Angehörigen dem Schutz der vereideten Söhne der Haide
                         überlassend.</p>
-                  </div>
+                  
                </div>
                <div type="chapter">
                   <head>
@@ -11065,9 +11058,9 @@
                </div>
             </div>
          </div>
-         <div>
+         <div type="chapter">
             <head>Dritter Teil</head>
-            <div>
+            <div type="chapter">
                <head>Fünftes Buch</head>
                <div type="chapter">
                   <head>Erstes Kapitel.</head>
@@ -12679,7 +12672,6 @@
                      Gehirn. Er trägt das Wappen meines Hauses!«</p>
                </div>
                <div type="chapter">
-                  <div>
                      <head>
                         <pb facs="#"/> Fünftes Kapitel.</head>
                      <head>Bianca.</head>
@@ -13629,7 +13621,7 @@
                         hauchte einen Kuß auf ihre Stirn.</p>
                      <p>Ein Wagen fuhr vor. Gilbert meldete, daß Alles bereit sei. Ein paar Secunden
                         später rollte die Droschke mit Aurel, Bianca und Gilbert nach der Stadt.</p>
-                  </div>
+                  
                </div>
                <div type="chapter">
                   <head>
@@ -14091,10 +14083,9 @@
                   <pb facs="#"/>
                </div>
             </div>
-            <div>
+            <div type="chapter">
                <head>Sechstes Buch</head>
-               <div type="chapter">
-                  <div>
+                  <div type="chapter">
                      <head>Erstes Kapitel.</head>
                      <head>Eine Offenbarung.</head>
                      <p>Vier Tage nach dem Besuche Sloboda's und Heinrichs auf dem ehemaligen
@@ -14564,7 +14555,7 @@
                         Kretscham und ging durch das längst in tiefem Schlaf versunkene Dorf nach
                         seinem kleinen, verschuldeten Häuschen zurück.</p>
                   </div>
-               </div>
+               
                <div type="chapter">
                   <head>
                      <pb facs="#"/> Zweites Kapitel.</head>
@@ -15032,7 +15023,6 @@
                      Sträubens bleiben mußten.</p>
                </div>
                <div type="chapter">
-                  <div>
                      <head>
                         <pb facs="#"/> Drittes Kapitel.</head>
                      <head>Dokumente.</head>
@@ -15256,7 +15246,7 @@
                         am Tage mit feierlicher Miene das Rathhaus wieder verließen, wollte man
                         wissen, daß sie den Hochweisen ein höchst wichtiges Staatsgeheimniß, wo
                         nicht gar eine Verschwörung entdeckt hätten.</p>
-                  </div>
+                  
                </div>
                <div type="chapter">
                   <head>
@@ -16499,12 +16489,11 @@
                </div>
             </div>
          </div>
-         <div>
+         <div type="chapter">
             <head>Vierter Theil</head>
-            <div>
+            <div type="chapter">
                <head>Siebentes Buch</head>
                <div type="chapter">
-                  <div>
                      <head>Erstes Kapitel.</head>
                      <head>Des Armen Weihnachten.</head>
                      <p>Sechs heisere Glockenschläge verhallen langsam in der eiskalten Luft. Auf
@@ -16896,7 +16885,7 @@
                      <p>»Ich dachte es, daß es ihn fürchterlich erschüttern würde,« murmelte der
                         Maulwurffänger für sich, »Gott Lob, daß ich ihn nicht die volle Wahrheit
                         sagte! Sie hätte ihn getödtet.«</p>
-                  </div>
+                  
                </div>
                <div type="chapter">
                   <head>
@@ -17281,7 +17270,6 @@
                      nach Hamburg, den er seinem Kammerdiener zu schneller Besorgung übergab.</p>
                </div>
                <div type="chapter">
-                  <div>
                      <head>
                         <pb facs="#"/> Drittes Kapitel.</head>
                      <head>Rückblicke.</head>
@@ -17924,7 +17912,7 @@
                         in's Nebenzimmer und – stand Elvire und Bianka gegenüber. Ihr Begleiter war
                         der alte gutmüthige pedantische Schulmeister Gregor, der ehrliche Bruder des
                         Maulwurffängers.</p>
-                  </div>
+                  
                </div>
                <div type="chapter">
                   <head>
@@ -19555,10 +19543,9 @@
                   <pb facs="#"/>
                </div>
             </div>
-            <div>
+            <div type="chapter">
                <head>Achtes Buch</head>
                <div type="chapter">
-                  <div>
                      <head>Erstes Kapitel.</head>
                      <head>Entdeckungen.</head>
                      <p>Im hohen Bogenfenster des Balconzimmers auf dem Zeiselhofe saßen Herta und
@@ -19953,7 +19940,7 @@
                         <pb facs="#"/> Aurel schlug ein, und am nächsten Tage verließen zwei
                         sogenannte Rennschlitten den Zeiselhof. Der Kapitän und der Maulwurffänger
                         saßen in dem ersten, den zweiten nahmen Sloboda und Paul ein.</p>
-                  </div>
+                  
                </div>
                <div type="chapter">
                   <head>
@@ -21751,9 +21738,9 @@
                </div>
             </div>
          </div>
-         <div>
+         <div type="chapter">
             <head>Fünfter Theil</head>
-            <div>
+            <div type="chapter">
                <head>Neuntes Buch</head>
                <div type="chapter">
                   <head>Erstes Kapitel.</head>
@@ -23244,7 +23231,6 @@
                      weiches Lager bestieg und schnell sanft und ruhig entschlummerte.</p>
                </div>
                <div type="chapter">
-                  <div>
                      <head>
                         <pb facs="#"/> Fünftes Kapitel.</head>
                      <head>Die Torfhütte.</head>
@@ -23798,7 +23784,7 @@
                      <p>Da hörte man ein Krachen, wie von zerberstenden Brettern, und eine
                         unsichtbare Gewalt ergriff hinterrücks den Mörder und schleuderte ihn mit
                         Riesenkraft gegen die Diele.</p>
-                  </div>
+                  
                </div>
                <div type="chapter">
                   <head>
@@ -24247,7 +24233,7 @@
                   <pb facs="#"/>
                </div>
             </div>
-            <div>
+            <div type="chapter">
                <head>Zehntes Buch</head>
                <div type="chapter">
                   <head>Erstes Kapitel.</head>
@@ -26776,7 +26762,6 @@
                      Greisenhaupt Traugotts einen verklärenden Heiligenschein.</p>
                </div>
                <div type="chapter">
-                  <div>
                      <head>
                         <pb facs="#"/> Zehntes Kapitel.</head>
                      <head>Der letzte Geburtstag.</head>
@@ -27084,8 +27069,8 @@
                         trug den aufmerksam Lauschenden folgende mährchenhafte altwendische
                         Erzählung vor.</p>
 
-                  </div>
-                  <div>
+                  
+                  <div type="chapter">
                      <head>Lipskulijans Bett.</head>
                      <p>»Es war aber ein armer Mann, der sich fast nicht mehr ernähren konnte und
                         doch hatte man ihm noch große Abgaben auf sein Haus gelegt. Und er mußte

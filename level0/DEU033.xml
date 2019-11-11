@@ -4,7 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>Die Geschichte meines Urgroßvaters</title>
-            <author ref="http://d-nb.info/gnd/pnd:118692577">François, Louise von</author>
+            <author ref="http://d-nb.info/gnd/118692577">François, Louise von (1817-1893)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>
@@ -46,7 +46,7 @@
    </teiHeader>
 
    <text>
-      <front/>
+      
       <body>
          <div type="chapter">
             <head>

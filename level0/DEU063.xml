@@ -4,7 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>Wie Frauen werden</title>
-            <author ref="http://d-nb.info/gnd/pnd:11852643X">Dohm, Hedwig</author>
+            <author ref="http://d-nb.info/gnd/11852643X">Dohm, Hedwig (1831-1919)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>
@@ -46,10 +46,9 @@
    </teiHeader>
 
    <text>
-      <front/>
+      
       <body>
-         <div>
-            <div>
+            <div type="chapter">
                <head>Hedwig Dohm</head>
                <head>Wie Frauen werden</head>
                <p>
@@ -3112,7 +3111,7 @@
                   nahm aber keinen Anstoß daran – die Gesellschaft. Käthe wurde, wie die Andern
                   auch, Eine vom Dutzend, auch ein armer Abel, den ein Kain getödtet – die Welt.</p>
             </div>
-         </div>
+         
       </body>
    </text>
 </TEI>

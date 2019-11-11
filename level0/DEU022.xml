@@ -4,7 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>Clemens Brentanos Frühlingskranz</title>
-            <author ref="http://d-nb.info/gnd/pnd:118504185">Arnim, Bettina von</author>
+            <author ref="http://d-nb.info/gnd/118572393">Arnim, Bettina von (1785-1859)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>
@@ -44,38 +44,25 @@
          <change when="2019-01-28">Conversion from Kallimachos Kernkorpus</change>
       </revisionDesc>
    </teiHeader>
-
    <text>
-      <front/>
       <body>
-         <div>
+         <div type="titlepage">
             <head>Bettina von Arnim</head>
             <head>Clemens Brentanos</head>
             <head>Frühlingskranz</head>
-            <div>
                <head>Aus Jugendbriefen ihm geflochten, wie er selbst</head>
                <head>schriftlich verlangte</head>
-               <p>
-                  <pb facs="#"/> Und liebes Kind, bewahre meine Briefe, lasse sie nicht
+               <p><pb facs="#"/> Und liebes Kind, bewahre meine Briefe, lasse sie nicht
                   verlorengehen, sie sind das Frömmste, Liebevollste, was ich in meinem Leben
                   geschrieben, ich will sie einstens wieder lesen, und in ihnen in ein verschloßnes
-                  Paradies zurückkehren. Die Deinigen sind</p>
-
-               <!--milestone hi_start-->
-               <p>mir heilig!</p>
+                  Paradies zurückkehren. Die Deinigen sind mir heilig!</p>
                <p>Heidelberg 1805</p>
-               <!--milestone hi_end-->
-
                <p>Verliere keinen meiner Briefe, halte sie heilig, sie sollen mich einst an mein
                   besseres Selbst erinnern, wenn mich Gespenster verfolgen, und wenn ich tot bin, so
                   flechte sie mir in einen Kranz.</p>
-
-               <p>Holland 1808<pb facs="#"/>
-               </p>
-               <p> Sr. Königlichen Hoheitdem Prinzen Waldemar von Preußen<pb facs="#"/>
-               </p>
-            </div>
-            <div>
+               <p>Holland 1808<pb facs="#"/></p>
+               <p> Sr. Königlichen Hoheitdem Prinzen Waldemar von Preußen<pb facs="#"/></p>
+            <div type="letter">
                <head>Lieber Prinz Waldemar</head>
                <p>So weit ist's gekommen zwischen uns beiden, daß ich diese letzte Anrede wage und
                   lieber und naturgemäßer sie finde als die auf der ersten Seite. Ich stehe auf
@@ -113,7 +100,7 @@
                <p> Bettine </p>
 
             </div>
-            <div>
+            <div type="letter">
                <head>
                   <pb facs="#"/>
                   <pb facs="#"/>Liebe Bettine!</head>
@@ -141,7 +128,7 @@
                <p> Dein Clemens </p>
 
             </div>
-            <div>
+            <div type="letter">
                <head>Lieber Clemens!</head>
                <p>Dein freundlich Abschiedsblättchen hat mir die Großmama nicht gegeben, ich hätte
                   es vielleicht nie erhalten, wär ich nicht durch Zufall an den Ort gekommen, wo es
@@ -177,7 +164,7 @@
                <p> Deine Bettine </p>
 
             </div>
-            <div>
+            <div type="letter">
                <head>Liebe Bettine!</head>
                <p>Daß die Großmutter Dir den kleinen Brief nicht gab, ist mir sehr leid, es wäre
                   schön von ihr gewesen, hätte sie Dich gebeten, daß Du ihr ihn lesen lassest, das
@@ -227,7 +214,7 @@
                   vielleicht unbedeutend erscheint, nie unbedeutend sein kann, solange es die in
                   überquellender Lebenslust unverwirrten unverwickelten Gedanken hervorsprudeln.</p>
             </div>
-            <div>
+            <div type="letter">
                <head>An Clemens</head>
                <p> Clemente! Zu Ostern willst Du kommen? Heute haben wir den 22. März! – Nein, es
                   sind beinah noch vier Wochen. Aber es wird dann schon sehr schön im Garten sein.
@@ -268,7 +255,7 @@
                <p> Deine Bettine </p>
 
             </div>
-            <div>
+            <div type="letter">
                <head>Liebe Bettine!</head>
                <p>Ich komme in ein paar Wochen wenigstens auf einige Tage nach Frankfurt, und Du
                   bist eigentlich die Ursache, freue Dich darauf und habe mir recht viel zu sagen. –
@@ -299,7 +286,7 @@
                <p> Dein Clemens </p>
 
             </div>
-            <div>
+            <div type="letter">
                <head>Lieber Clemens!</head>
                <p> Clemens, Du hast mich mit Deinem Brief übereilt; ich wollte Dir ja noch mehr
                   schreiben, letzt am Donnerstag gab ich den Brief so schnell auf die Post, weil
@@ -396,7 +383,7 @@
                <p> Deine Bettine </p>
 
             </div>
-            <div>
+            <div type="letter">
                <head>Liebe Bettine!</head>
                <p>Ich kann für Deinen lieben Brief Dir nicht besser danken, als wenn ich Dir sage,
                   daß ich die Woche nach Ostern bei Dir in Offenbach bin, Du kannst <pb facs="#"/>
@@ -494,7 +481,7 @@
                   auch wieder heimkommen sehen. Aber in der Zwischenzeit kannst Du schreiben bei
                   Deinem Strauß, den Du doch gewiß im Glas stehen hast.</p>
             </div>
-            <div>
+            <div type="letter">
                <head>Lieber Clemens!</head>
                <p>Wenn man aber auf den Barbara-Tag Reiser von den Obstbäumen abschneidet und die
                   ins Wasser stellt, dann blühen sie im März, und das hab ich getan, und sie blühen
@@ -644,7 +631,7 @@
                <p> Deine Bettine </p>
 
             </div>
-            <div>
+            <div type="letter">
                <head>An Bettine</head>
                <!--milestone head_start-->
                <p>Frankfurt</p>
@@ -786,7 +773,7 @@
                <p> Dein Clemens </p>
 
             </div>
-            <div>
+            <div type="letter">
                <head>An Clemens</head>
                <p> Clemente! Die Sonne hat Kräuter und Sträucher in sich verliebt gemacht, sie
                   schwellen vor Verlangen und werden ehestens in Blüte ausbrechen, eine Knospe
@@ -856,7 +843,7 @@
                <p> Deine BettineGöttingen</p>
 
             </div>
-            <div>
+            <div type="letter">
                <head>Liebe Schwester!</head>
                <p>Ich öffne wie eine Pflanze mein Herz und rolle alle Blätter auseinander, wenn Du
                   herüberscheinst. Dein Brief ist mir von Marburg aus zuvorgeeilt und hat mich hier
@@ -889,7 +876,7 @@
                <p> Dein Clemens </p>
 
             </div>
-            <div>
+            <div type="letter">
                <head>An Clemens</head>
                <p> Clemente! Hättest Du das letzte nicht geschrieben, so hätte ich Dir das erste
                   nachgesehen, daß Du mich vernünftig machen willst für die Welt – und denn am Rand,
@@ -988,7 +975,7 @@
                <p> Deine Bettine </p>
 
             </div>
-            <div>
+            <div type="letter">
                <head>An Bettine</head>
                <!--milestone head_start-->
                <p>Am Rhein, Rüdesheim</p>
@@ -1141,7 +1128,7 @@
                <p> Clemens </p>
 
             </div>
-            <div>
+            <div type="letter">
                <head>An Clemens</head>
                <p>Liebster Clemens, ich hab was von meinen Klosterarbeiten hervorgesucht, ein
                   Sträußchen von Seide gewickelt, die alte Laienschwester Monika, wie die das
@@ -1262,7 +1249,7 @@
                <p> Bettine </p>
 
             </div>
-            <div>
+            <div type="letter">
                <head>An Bettine</head>
                <p>Ich sollte schon bei Dir sein, liebe Bettine, ich hatte mir gelobt, daß ich nicht
                   wolle nach den Pfingsttagen hier verweilen, und war auch schon in Mainz, und jetzt
@@ -1391,7 +1378,7 @@
 
 
             </div>
-            <div>
+            <div type="letter">
                <head>An Bettine</head>
                <!--milestone head_start-->
                <p>Mainz</p>
@@ -1447,7 +1434,7 @@
                <p> Dein Clemens </p>
 
             </div>
-            <div>
+            <div type="letter">
                <head>Liebe Bettine!</head>
                <p>Madame de Gachet bringt Dir einen offnen Brief von mir, ich habe aber manches
                   währenddem gedacht. – Herzlich offenbaren kannst Du Dich ihr, denn sie versteht
@@ -1463,7 +1450,7 @@
                <p>Schreibe mir nach Jena bei Friedrich Schlegel, aber bald, in einigen Wochen bin
                   ich in Marburg.</p>
             </div>
-            <div>
+            <div type="letter">
                <head>Liebe Bettine!</head>
                <p>Und immer noch von dieser de Gachet, aber Gott weiß, es jagt mich wieder aus dem
                   Bette heraus, ich muß Dir noch einmal von ihr sprechen, denn es kann bei ihr viel
@@ -1520,7 +1507,7 @@
                <pb facs="#"/>
 
             </div>
-            <div>
+            <div type="letter">
                <head>An Clemens</head>
                <p>Geliebter Clemens! Was ist doch alles widerfahren in diesen wenigen Tagen, die Du
                   der Bettine nennst! – Ein Südwind auf brennenden Sohlen, in einer Wirbelwolke von
@@ -1648,7 +1635,7 @@
                   wahr, jetzt bist Du nicht mehr eifersüchtig auf den Bettelmann!</p>
 
             </div>
-            <div>
+            <div type="letter">
                <head>Liebe Bettine!</head>
                <p>Ich danke von ganzer Seele für den beruhigenden Klang Deines Briefes, in dem sich
                   Selbstgefühl und Liebe so schön durchdringen. Ich weiß nun mehr über die de
@@ -1747,7 +1734,7 @@
                <p> Dein Clemens </p>
 
             </div>
-            <div>
+            <div type="letter">
                <head>Lieber Clemens!</head>
                <p>Jetzt schreib ich gleich weiter von allem, was ich über Deine Warnungssorgen
                   vergessen hatte. Diese Frau hat mich in einem fortwährenden Schauerriesel
@@ -1943,7 +1930,7 @@
                <p> Bettine </p>
 
             </div>
-            <div>
+            <div type="letter">
                <head>An Clemens</head>
                <p>Es ist aus mit den Blumen, die letzten Asternsträuße waren die, womit wir in
                   voriger Woche die Blumenurnen schmückten, und die wegen der Batterie vor die Tür
@@ -2001,7 +1988,7 @@
                <p> Bettine </p>
 
             </div>
-            <div>
+            <div type="letter">
                <head>Liebe Bettine!</head>
                <p>Deine Briefe erquicken meine Seele und nähren sie, der Winter ist hier so traurig,
                   und Savigny tief in den Studien, überwintert die Saat seiner großen Zukunft unter
@@ -2192,7 +2179,7 @@
                <p> Clemens </p>
 
             </div>
-            <div>
+            <div type="letter">
                <head>An Clemens</head>
                <p> Clemente, Du warst bei der de Gachet und nicht zu Hause im Stübchen, und jetzt
                   klagst Du über Deine Einsamkeit, wo Du kaum den Fuß auf die Schwelle gesetzt hast.
@@ -2372,7 +2359,7 @@
                <p> Deine Bettine </p>
 
             </div>
-            <div>
+            <div type="letter">
                <head>Liebe Bettine!</head>
                <p>Ich habe Deinen Brief mit vieler Rührung gelesen, sei versichert, daß ich bald
                   umständlich schreibe, heute ist keine Zeit, ich füge Dir einen Brief bei, den ich
@@ -2438,7 +2425,7 @@
                <p> Dein Clemens </p>
 
             </div>
-            <div>
+            <div type="letter">
                <head>An Clemens</head>
                <p>Lieber Clemens! Am Neujahrstag haben wir unser Ballett aufgeführt, es ist holter
                   die polter durcheinander gangen, es ist alles verkehrt gangen. Mein Neunzehner war
@@ -2636,7 +2623,7 @@
                <p> Deine Schwester Bettine </p>
 
             </div>
-            <div>
+            <div type="letter">
                <head>Liebes Kind!</head>
                <p>Ich fühle mich in eine ganz wunderliche Lage hineingeschoben durch Deine
                   ausgreifenden und wieder tief im Lebensschacht herumwühlenden Mitteilungen. Oft
@@ -2741,7 +2728,7 @@
                   machen, sticke, nähe irgend etwas; es ist Ritter, der Naturphilosoph, der Freund
                   der Gachet, denke was Hübsches aus, sage niemand, für wen.</p>
             </div>
-            <div>
+            <div type="letter">
                <head>Liebe Bettine!</head>
                <p>Du schreibst mir nicht, dies martervolle Schweigen ertrage ich nun sechs Wochen.
                   Dein letzter Brief erregte mir Zweifel, die mich ungeduldig auf den folgenden
@@ -3029,7 +3016,7 @@
                   liebt uns.</l>
 
             </div>
-            <div>
+            <div type="letter">
                <head>An Clemens</head>
                <p>Der verminderte Septakkord hat seinen Satz auf dem Leitton des Grundtons.</p>
                <p>Kleine 3.</p>
@@ -3157,7 +3144,7 @@
                   die Urne seines Geistesstromes ergießt.</p>
                <p> Deine Bettine </p>
             </div>
-            <div>
+            <div type="letter">
                <head>
                   <pb facs="#"/> Liebe Bettine!</head>
                <p>Ich habe Deinen lieben lieblichen Brief vor zwei Minuten erhalten; ich hab ihn
@@ -3170,7 +3157,7 @@
                <p> Dein Clemens </p>
 
             </div>
-            <div>
+            <div type="letter">
                <head>An Clemens</head>
                <p>Ich habe geglaubt, Du würdest kommen, so sind nun schon vierzehn Tage herum, wo
                   ich jeden Tag Dir entgegensehe und deswegen auch nicht schrieb, und noch wegen
@@ -3469,7 +3456,7 @@
                   Du denken. – Kaum fing er an zu werden, so hatte der Schlapphut eine Schlange drum
                   geringelt, und der Töpfer Adam und Eva drunter gestellt. – –</p>
             </div>
-            <div>
+            <div type="letter">
                <head>An Bettine</head>
                <p>Wer kann auf Deine Briefe antworten, mein Kind, da es so kalt ist hier und so
                   einsam, wenn Dein liebes Bild nicht neben mir stände und alle Deine Liebe ruhig
@@ -3668,7 +3655,7 @@
                   allein er sagt partout nichts. –</p>
 
             </div>
-            <div>
+            <div type="letter">
                <head>Lieber Clemens!</head>
                <p>Der Savigny kann wohl ruhig Dir zusehen, wie Du schwärmst für ein Bildchen, das
                   zwar nur gemalt auf ein kleines Brettchen doch Deine Schwester Dir lieblicher ins
@@ -3776,7 +3763,7 @@
                <p> Bettine </p>
 
             </div>
-            <div>
+            <div type="letter">
                <head>An Bettine</head>
                <p>Liebes Mädchen! Hier ohne Dich zu wohnen, wenn ich das aushalte, so darf ich mich
                   meiner Stärke rühmen. – Ach, wo ist's in der Welt wieder so schön als hier in
@@ -3922,7 +3909,7 @@
                <p>Sollte die Günderode Dir einen sehr wunderbaren Brief von mir zeigen, so verwundre
                   Dich nicht, ich bin begierig, was sie darauf spricht.</p>
             </div>
-            <div>
+            <div type="letter">
                <head>An Clemens</head>
                <p>Es geht schlecht mit meinem Witz, Dein Brief ist wie der Blitz in mich
                   eingeschlagen, und ich kann Dir Neues davon sagen, wie das einem tut! – Gar nicht
@@ -4050,7 +4037,7 @@
                <p> Bettine </p>
 
             </div>
-            <div>
+            <div type="letter">
                <head>
                   <pb facs="#"/> Meine liebe Bettine!</head>
                <p>Da ich vermute, daß Dich ein kleiner Ärger weiter nicht ins Grab stürzen wird, so
@@ -4165,7 +4152,7 @@
                   seinen ordentlichen Respekt davor haben. –</p>
 
             </div>
-            <div>
+            <div type="letter">
                <head>Lieber Clemens!</head>
                <p>Liebe Günderode! Denn, lieber Clemens, ich muß doch gewiß einen haben, bei dem ich
                   Dich verklage, Dir ins Gesicht kann ich's nicht alles sagen, was ich Schlimmes von
@@ -4345,7 +4332,7 @@
                   –</p>
 
             </div>
-            <div>
+            <div type="letter">
                <head>Liebe Bettine!</head>
                <p>Ich gebe Dir in wenig Worten eine recht erfreuliche Antwort auf Deinen lieben,
                   tollen, wunderlichen Brief, der wie alle Deine Briefe nicht zu beantworten ist.
@@ -4485,7 +4472,7 @@
                   Tage in Frankfurt und Offenbach zugebracht hatten.</p>
 
             </div>
-            <div>
+            <div type="letter">
                <head>Liebe Bettine!</head>
                <p>Der Frühling war so schön, der Rhein trug mich so gastfrei. Arnim hat mich so
                   lieb. Da trat ich hierher in meine Jugend, die mich rings umfing. – Ach, und ich
@@ -4505,7 +4492,7 @@
                <pb facs="#"/>
 
             </div>
-            <div>
+            <div type="letter">
                <head>An Clemens</head>
                <p>»Schreib mir gleich«, das kann geschehen, da bin ich mit der Feder in der Hand! –
                   »Schreibe auch an sie ein paar Zeilen dazu!« – Ei, Clemens, Du bist nicht recht
@@ -4575,7 +4562,7 @@
                <p> Deine barbarische Schwester. </p>
 
             </div>
-            <div>
+            <div type="letter">
                <head>An Clemens</head>
                <p>Lieber Clemens! Es wird mir bange, daß Du nicht schreibst, und eine Zeile kannst
                   Du schreiben! Bist Du wieder ruhig? Mein unartiger Brief wird doch kein
@@ -4602,7 +4589,7 @@
                   verliere, so schicke mir ein Fernglas. Schreib, ich soll Dir zulieb es tun, gib
                   mir ein Lebenszeichen! –</p>
             </div>
-            <div>
+            <div type="letter">
                <head>An Bettine</head>
                <p>Wer diesen Brief von mir erhält, weiß ich nicht! Welchem von meinen Freunden
                   schreibe ich, und wer ist mein Freund? Ich bin schon acht Tage in der
@@ -4764,7 +4751,7 @@
                <p> Clemens </p>
 
             </div>
-            <div>
+            <div type="letter">
                <head>
                   <pb facs="#"/> Liebe Bettine!</head>
                <p>Ich habe zu viel die ganze Zeit an Dich gedacht, und mein Gemüt saß zu gleicher
@@ -4795,7 +4782,7 @@
                   Zweifels wird.</p>
 
             </div>
-            <div>
+            <div type="letter">
                <head>Lieber Clemens!</head>
                <p>Dein fliegend Blatt ist mit dem Morgenwind nicht zum Fenster herein–, sondern
                   hinausgeflogen. Eben hatte ich meinen Sitz zum Schreiben zurechtgerückt, so macht
@@ -4958,7 +4945,7 @@
                <p> Bettine </p>
 
             </div>
-            <div>
+            <div type="letter">
                <head>Liebe Bettine!</head>
                <p>Während ich Deinen Brief las, donnerte und blitzte es rings im Tale, nun ist es
                   ruhig, aber ich kann Dir nicht heute ruhig antworten, es ist keine Zeit, wahrlich,
@@ -4999,7 +4986,7 @@
                   Vorzug gab. Denn es will gewiß gleich teilen zwischen mir und ihm, und wir vier
                   gehören ja alle einander an.</p>
             </div>
-            <div>
+            <div type="letter">
                <head>An Bettine</head>
                <!--milestone head_start-->
                <p>Düsseldorf</p>
@@ -5042,7 +5029,7 @@
                <p> Clemens </p>
 
             </div>
-            <div>
+            <div type="letter">
                <head>Lieber Clemens!</head>
                <p>Ich will gleich anfangen mit dem, was mich zuletzt frappiert in Deinem Brief! –
                   Ich hab Angst, die Musik wird schlecht zu Deiner Oper. – Warum? – Weil Du eine so
@@ -5267,7 +5254,7 @@
                   kein charmanter Ebel mehr! –</p>
 
             </div>
-            <div>
+            <div type="letter">
                <head>Fortsetzung des historischen Briefes</head>
                <p>Am Samstag sind wir um neun Uhr nach Frankfurt gefahren! Der erste, der am
                   Kornfeld von Sachsenhausen uns begegnet, war die Empusa; sie hatte sich nicht mehr
@@ -5359,7 +5346,7 @@
                <p> Bettine </p>
 
             </div>
-            <div>
+            <div type="letter">
                <head>Liebe Bettine!</head>
                <p>Dein letzter Brief hat mich mehr als je ein vorhergehender erfreut, er ist recht
                   fröhlich, ohne alle Melancholie, und Du hast eine große Darstellungsgabe; immer
@@ -5521,7 +5508,7 @@
                <p> Dein Clemens </p>
 
             </div>
-            <div>
+            <div type="letter">
                <head>An Bettine</head>
                <!--milestone head_start-->
                <p>Düsseldorf</p>
@@ -5542,7 +5529,7 @@
                   schreib, Du glaubst nicht, wie es mich manchmal packt, als könne diese reine
                   Freude an Dir mir verdorben werden. –</p>
             </div>
-            <div>
+            <div type="letter">
                <head>Lieber Clemens!</head>
                <p>Ich sitze hier schon eine halbe Stunde und besinne mich, – nicht was ich Dir
                   schreiben soll; denn ich hab genug zu sagen, aber wo ich anfangen soll! Das
@@ -5709,7 +5696,7 @@
                <p> BettineDüsseldorf</p>
 
             </div>
-            <div>
+            <div type="letter">
                <head>Liebe Bettine!</head>
                <p>Du wirst Arnims Brief für Dich und Gundel erhalten haben, heute erhielt ich Dein
                   liebes Schreiben und danke Dir herzlich. Ich hoffe von Dir einen Brief in Marburg
@@ -5957,7 +5944,7 @@
                <p> Clemens </p>
 
             </div>
-            <div>
+            <div type="letter">
                <head>An Bettine</head>
                <!--milestone head_start-->
                <p>Marburg, am Mittwoch</p>
@@ -5976,7 +5963,7 @@
                <p> Clemens </p>
 
             </div>
-            <div>
+            <div type="letter">
                <head>Lieber Clemens!</head>
                <p>Es ist wohl wahr, daß ich Dir lange nicht geschrieben habe; denn mein letzter
                   Brief, in dem ich wie ein ungebärdig Kind mich allem widerstemme, was Du mir
@@ -6121,7 +6108,7 @@
                <l>Einen Gruß von Gundel. </l>
 
             </div>
-            <div>
+            <div type="letter">
                <head>An Bettine</head>
                <p>Ich habe einmal eine Geschichte gelesen von zwei Liebenden, die mutterselig allein
                   in einem Walde saßen, aus dem sie nicht mehr herauskonnten. Diese Leute wandten
@@ -6194,7 +6181,7 @@
                   zweiten, aber schweige und schicke ihn zurück.</p>
                <pb facs="#"/>
             </div>
-            <div>
+            <div type="letter">
                <head>Clemens!</head>
                <p>Sehr viel Ärger wird Dir alles machen, was ich eben im Begriff bin, Dir zu
                   schreiben. Ich spür schon, daß ich sehr alles das sein werde, was Du im ganzen ein
@@ -6257,7 +6244,7 @@
                   aber der Sklavenmarkt der Gesellschaft ist dazu nicht. – Wohin fliehen! – Überall
                   triffst Du auf einen Boden, der der Saat der Drachenzähne nicht günstig ist.</p>
             </div>
-            <div>
+            <div type="letter">
                <head>An Bettine</head>
                <p>Meine liebe Schwester, Dein letzter Brief hat mir einen recht traurigen Tag
                   gemacht, weil ich so etwas nicht erwartete. Der Brief, den ich Dir anvertraute,
@@ -6347,7 +6334,7 @@
                   wir alle aus dem Paradies des Vertrauens herausgeworfen sind, und keiner findet
                   irgendeinen Schleichweg dahin zurück. –</p>
             </div>
-            <div>
+            <div type="letter">
                <head>An Clemens</head>
                <p>Die Weck- und Schreckposaune! Ist aber nichtsdestoweniger das Kämpfende. Achtes
                   Kapitel, sechster Vers: Jakob hatte lange mit dem ihm unbekannten Manne gerungen;
@@ -6460,7 +6447,7 @@
                <p> Bettine </p>
 
             </div>
-            <div>
+            <div type="letter">
                <head>Lieber Clemens!</head>
                <p>Eben ist mein Brief schon fort, und da kommt George mit einem nachträglichen
                   Anliegen an Dich. Am 19. März ist dem Clausner sein Geburtstag; George will, daß
@@ -6472,7 +6459,7 @@
                   beisammen sind und die Dekorationen malen und die Figuren dazu; und mach fort,
                   schüttel's aus dem Ärmel!</p>
             </div>
-            <div>
+            <div type="letter">
                <head>An Bettine</head>
                <p>Ich kann Dir nur ein paar Worte schreiben, da die Post spät ankam. Dein Brief hat
                   mich recht gerührt, schreib mir doch ausführlicher und hüte Dich vor aller
@@ -6501,7 +6488,7 @@
                <p> Clemens </p>
 
             </div>
-            <div>
+            <div type="letter">
                <head>Liebe Bettine!</head>
                <p>Ich erhalte Deinen kleinen Brief wieder zu spät, um viel zu schreiben, grad noch
                   fünf Minuten. Kannst Du's mir genauer noch beschreiben, das Geburtsfest
@@ -6513,7 +6500,7 @@
                <p> Clemens </p>
 
             </div>
-            <div>
+            <div type="letter">
                <head>Liebe Bettine!</head>
                <p>Euer Fest auf Claudinens Geburtstag liegt mir so am Herzen, daß ich wünschte, Ihr
                   möchtet etwas recht Schönes und Edles vorstellen, das Euch Ehre machte, Du weißt,
@@ -6598,7 +6585,7 @@
                <p> Clemens </p>
 
             </div>
-            <div>
+            <div type="letter">
                <head>Liebe Bettine!</head>
                <p>Du hast mir einen schönen Ofenschirm geschickt, er entzückt alle Leute, die ihn
                   betrachten, und ist jetzt der größte Schatz meines Mobiliarvermögens, außer Deinem
@@ -6617,7 +6604,7 @@
                   jetzt habe! – Adieu!</p>
                <p> Clemens </p>
             </div>
-            <div>
+            <div type="letter">
                <head>An Clemens</head>
                <p>Unser Teetisch hat sich in eine Pappfabrik verwandelt, George führt den englischen
                   Phaëton aus mit Jockey und Pferden. Franz macht die Dekorationen, ich wollte die
@@ -6669,7 +6656,7 @@
                <p> Bettine </p>
 
             </div>
-            <div>
+            <div type="letter">
                <head>Liebe Bettine!</head>
                <p>Soeben hab ich Deinen Brief erhalten; es freut mich, daß meine schlechte Arbeit
                   Euch genügte; die Kürze der Zeit usw. – Beiliegenden Brief gib am Morgen ihres
@@ -6691,7 +6678,7 @@
                   besonders ob sich Schwab erfreute.</p>
 
             </div>
-            <div>
+            <div type="letter">
                <head>Am Geburtstage einer Freundin von</head>
                <head>Clemens Brentano,</head>
                <head>den 19. März</head>
@@ -6830,7 +6817,7 @@
 
 
             </div>
-            <div>
+            <div type="letter">
                <head>Liebe Bettine!</head>
                <p>Diesem Brief tue nicht so viel Ehre an als allen meinen vorhergehenden, denn ich
                   schreibe in einer wunderlichen Stimmung und scheine mir gar nicht vernünftig zu
@@ -6875,7 +6862,7 @@
                   acht Tage nach Empfang meines Briefes.</p>
 
             </div>
-            <div>
+            <div type="letter">
                <head>Liebe Bettine!</head>
                <p> Claudinens Brief war mir die schönste Belohnung, und doch ist mir ein ganz
                   gewöhnlicher von Dir immer viel lieber als ein solcher ungewöhnlicher. Daß Du mir
@@ -6902,7 +6889,7 @@
                <p> Clemens </p>
 
             </div>
-            <div>
+            <div type="letter">
                <head>
                   <pb facs="#"/> Lieber Clemens!</head>
                <p>Hier ein Brief von Md. Mereau, der an mich adressiert war; Du hast sie vielleicht
@@ -6969,7 +6956,7 @@
                <p> Bettine </p>
 
             </div>
-            <div>
+            <div type="letter">
                <head>An Bettine</head>
                <!--milestone head_start-->
                <p>Weimar bei Friedrich Meier </p>
@@ -7270,7 +7257,7 @@
 
 
             </div>
-            <div>
+            <div type="letter">
                <head>Lieber Clemens!</head>
                <p>Dein Brief hat einen Eindruck auf mich gemacht, wie ungefähr das Licht wirken muß
                   auf einen, der lange blind gewesen oder im Dunklen herumtappte. – Du gingst von
@@ -7403,7 +7390,7 @@
                <p> Bettine </p>
 
             </div>
-            <div>
+            <div type="letter">
                <head>
                   <pb facs="#"/> Liebe Bettine!</head>
                <p>Ich bin sehr betrübt, daß Du mir gar nicht schreibst, ich bin immer in Ängsten, Du
@@ -7457,7 +7444,7 @@
                <p> Dein Clemens, bei Doktor Fr. Mayer </p>
 
             </div>
-            <div>
+            <div type="letter">
                <head>Liebe Seele!</head>
                <p>Schon viele Tage war ich sehr betrübt, gar keinen Brief von Dir zu haben, ich war
                   oft recht ängstlich, Du mögest mich nicht mehr recht lieben, und ich wäre doch so
@@ -7527,7 +7514,7 @@
 
 
             </div>
-            <div>
+            <div type="letter">
                <head>Lieber Clemens!</head>
                <p>Eins hab ich ganz vergessen Dir zu sagen, daß Marianne ihr Gedicht von mir
                   empfangen hat! Ich war so sehr betäubt, als ich Dir das letztemal schrieb, wie es
@@ -7576,7 +7563,7 @@
                <p> Bettine <pb facs="#"/>
                </p>
             </div>
-            <div>
+            <div type="letter">
                <head>An Bettine</head>
                <p>Du hast nun wohl meinen letzten Brief, der mit dem Deinigen sich gekreuzt hat, und
                   ich hoffe, er hat Dir einen ruhigen, ja glücklichen Eindruck gemacht, damit die
@@ -7684,7 +7671,7 @@
                   Jäger!</p>
 
             </div>
-            <div>
+            <div type="letter">
                <head>Der Jäger an den Hirten!</head>
 
                <l>Durch den Wald mit raschen Schritten</l>
@@ -7799,7 +7786,7 @@
                <p> ClemensWeimar, 23. Juli 1803</p>
 
             </div>
-            <div>
+            <div type="letter">
                <head>Liebe Bettine!</head>
                <p>Gestern abend war ich bei Sophien, sie war ungewöhnlich schwermütig, auch ich war
                   nicht vergnügt, der Gedanke an Deine zärtliche Angst um mich versetzt uns beide
@@ -7822,7 +7809,7 @@
                <p> Clemens </p>
 
             </div>
-            <div>
+            <div type="letter">
                <head>An Clemens</head>
                <p>Was uns nah ist, lieben wir innig im Leben, was uns näher ist, können wir nicht
                   genug lieben! Wer liebend auf seinem Weg weiter geht bis ans Ende, der hat die
@@ -7894,7 +7881,7 @@
                <p> Bettine </p>
 
             </div>
-            <div>
+            <div type="letter">
                <head>Liebe Bettine!</head>
                <p>Deinen unendlich liebevollen, seelenvollen Brief habe ich heute morgen im Bette
                   erhalten, er hat mich aufgeweckt, und ich habe ihn gebetet. Sei zufrieden, mein
@@ -7931,7 +7918,7 @@
                <l>Freitag, den 4. August.</l>
 
             </div>
-            <div>
+            <div type="letter">
                <head>Lieber Clemens!</head>
                <p>Nur ein Wort, ich bin in Schlangenbad und habe soeben Deinen Brief bekommen, ich
                   kann Dir nur erzählen, daß ich morgen ausführlich schreiben will, wenn der Genuß,
@@ -8022,7 +8009,7 @@
                <p> Bettine </p>
 
             </div>
-            <div>
+            <div type="letter">
                <head>Liebe Bettine!</head>
                <p>Du bist ein närrisches Mädchen, nun bist Du in Deinem letzten Brief wieder lustig,
                   und wir waren grade sehr traurig wegen Dir. Sophie weint oft tagelang, sie glaubt,
@@ -8237,7 +8224,7 @@
                   Wär's denn nicht höchst intressant, einen kleinen Katechismus Deiner religiösen
                   Begriffe zu geben?</p>
             </div>
-            <div>
+            <div type="letter">
                <head>An Clemens</head>
                <p>Endlich komme ich dazu, laut zu sagen, was ich heimlich oft dachte. Du siehst im
                   Zauberspiegel die Bettine, wie sie sein könnte, aber nicht ist! –</p>
@@ -8344,7 +8331,7 @@
                <p> Marburg</p>
 
             </div>
-            <div>
+            <div type="letter">
                <head>Liebe Bettine!</head>
                <p>Ich bin seit wenigen Tagen wieder hier. Meinen Brief, in dem ich Dir sage, daß ich
                   Sophien nicht heirate, hast Du wohl erhalten? Ich hoffe auf Antwort; – unterdessen
@@ -8487,7 +8474,7 @@
                   denkt und beschließt, und ihr werde ich antworten. –</p>
                <pb facs="#"/>
             </div>
-            <div>
+            <div type="letter">
                <head>An Clemens</head>
                <p> Clemente, gestern erhielt ich Deinen Brief in Schlangenbad! Ich hätte sehr gern
                   ihn dem Herzog von Gotha vorgelesen oder lesen lassen, allein er war schon am
@@ -8593,7 +8580,7 @@
                <p> Bettine </p>
 
             </div>
-            <div>
+            <div type="letter">
                <head>Lieber Clemens!</head>
                <p>In wenig Tagen gehn wir von hier ab. Ich weiß nicht, ob wir uns in Wiesbaden
                   aufhalten. Du mußt meinen letzten Brief nicht erhalten haben, weil ich nichts von
@@ -8658,7 +8645,7 @@
                <p> Bettine </p>
 
             </div>
-            <div>
+            <div type="letter">
                <head>Liebe Schwester!</head>
                <p>Deinen letzten Brief von Schlangenbad, in dem Du Deine baldige Abreise angezeigt,
                   nebst der Fluggeschichte erhielt ich eine Minute später, als mein Brief an Dich

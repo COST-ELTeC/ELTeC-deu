@@ -4,7 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>Die Mandanenwaise</title>
-            <author ref="http://d-nb.info/gnd/pnd:118784412">Möllhausen, Balduin</author>
+            <author ref="http://d-nb.info/gnd/118784412">Möllhausen, Balduin (1825-1905)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>
@@ -46,12 +46,12 @@
    </teiHeader>
 
    <text>
-      <front/>
+      
       <body>
-         <div>
+         <div type="chapter">
             <head>Erste Abtheilung: Am Rhein</head>
             <div type="chapter">
-               <div>
+               <div type="chapter">
                   <head>Erstes Capitel.</head>
                   <head>Einleitung.</head>
                   <p>Es war im Winter des Jahres 1852, als ich von einem Jagdtrupp von
@@ -688,7 +688,7 @@
                </div>
             </div>
             <div type="chapter">
-               <div>
+               <div type="chapter">
                   <head>Zweites Capitel.</head>
                   <head>Am Mineralbrunnen.</head>
                   <p>Der eisige Novembersturm streift die letzten braunen Blätter von den Bäumen und
@@ -1261,7 +1261,7 @@
                </div>
             </div>
             <div type="chapter">
-               <div>
+               <div type="chapter">
                   <head>Drittes Capitel.</head>
                   <head>Die Weissagung.</head>
                   <p>Ich las also in ihren holden Zügen eine freundliche Gewährung meines noch nicht
@@ -2372,7 +2372,7 @@
 
             </div>
             <div type="chapter">
-               <div>
+               <div type="chapter">
                   <head>
                      <pb facs="#"/>
                      <pb facs="#"/>Fünftes Capitel.</head>
@@ -6268,7 +6268,7 @@
                   daran denken – – –</p>
             </div>
             <div type="chapter">
-               <div>
+               <div type="chapter">
                   <head>Dreizehntes Capitel.</head>
                   <head>Ein freund in der Noth.</head>
                   <p>Das war eine lustige Nacht in dem Dorfe, welches gleich oberhalb des
@@ -10003,7 +10003,7 @@
                <p>Ende der ersten Abtheilung.</p>
             </div>
          </div>
-         <div>
+         <div type="chapter">
             <head>Zweite Abtheilung: Am Missouri</head>
             <div type="chapter">
                <head>Erstes Capitel.</head>

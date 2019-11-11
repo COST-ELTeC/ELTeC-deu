@@ -4,7 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>Schloß Hubertus</title>
-            <author ref="http://d-nb.info/gnd/pnd:118537490">Ganghofer, Ludwig</author>
+            <author ref="http://d-nb.info/gnd/118537490">Ganghofer, Ludwig (1855-1920)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>
@@ -46,9 +46,9 @@
    </teiHeader>
 
    <text>
-      <front/>
+      
       <body>
-         <div>
+         <div type="chapter">
             <head>Erstes Buch</head>
             <div type="chapter">
                <head>1</head>
@@ -3222,7 +3222,7 @@
                   lächelte boshaft vor sich hin.</p>
             </div>
             <div type="chapter">
-               <div>
+               <div type="chapter">
                   <head>10</head>
                   <p>Graf Egge und Schipper waren schon längst in den Latschen verschwunden, und
                      noch immer stand Franzl auf dem gleichen Fleck, totenbleich, an allen Gliedern
@@ -7338,7 +7338,7 @@
                <pb facs="#"/>
             </div>
          </div>
-         <div>
+         <div type="chapter">
             <head>Zweites Buch</head>
             <div type="chapter">
                <head>1</head>

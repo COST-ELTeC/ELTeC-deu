@@ -4,7 +4,8 @@
       <fileDesc>
          <titleStmt>
             <title>Auch Einer 1</title>
-            <author ref="http://d-nb.info/gnd/11862721X">Vischer, Friedrich Theodor</author>
+            <author ref="http://d-nb.info/gnd/11862721X">Vischer, Friedrich Theodor
+               (1807-1887)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>
@@ -46,10 +47,10 @@
    </teiHeader>
 
    <text>
-      <front/>
+      
       <body>
          <pb n="[1]" facs="#"/>
-         <div>
+         <div type="chapter">
             <head> Auch Einer </head>
             <p>von denjenigen nemlich — — — kurz, man versteht mich.</p>
             <p>Wer es darf, hebe den ersten Stein gegen ihn auf! Ich meinestheils gedenke es nicht
@@ -2244,7 +2245,7 @@
          </div>
          <pb n="[126]" facs="#"/>
          <pb n="[127]" facs="#"/>
-         <div>
+         <div type="chapter">
             <head> Der Besuch. Eine Pfahldorfgeschichte von A. E. </head>
             <p>Wir blicken durch eine kleine Fensteröffnung in eine Hütte, die uns gar dürftig
                erscheinen müßte, wenn wir uns nicht Bau, Ausstattung, Schmuck unserer Räume aus dem
@@ -6246,7 +6247,7 @@
                vorzuführen das Tanzspiel:</p>
             <pb n="344" facs="#"/>
          </div>
-         <div>
+         <div type="chapter">
             <head> Hu — hu — brum — brum — hu — hu! oder Entbehrung ist Entbärung, </head>
             <p>erfunden und in Szene gesetzt</p>
             <p>von</p>
@@ -6509,7 +6510,7 @@
                mit dem Dufte mischten, der aus den Kochkesseln emporstieg. — Und nun mag denn die
                Beschreibung ihres reichen Inhalts folgen.</p>
             <pb n="[359]" facs="#"/>
-            <div>
+            <div type="chapter">
                <head> Anmerkungen. </head>
                <p> Ad I, 2. Daß die Menschen der Steinzeit große Liebhaber von Mark waren, geht aus
                   der Menge gespaltener Knochen hervor, die man in ihren Niederlassungen findet. In

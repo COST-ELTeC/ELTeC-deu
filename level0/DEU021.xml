@@ -4,7 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>Jenny</title>
-            <author ref="http://d-nb.info/gnd/pnd:118572393">Lewald, Fanny</author>
+            <author ref="http://d-nb.info/gnd/118572393">Lewald, Fanny (1811-1889)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>
@@ -46,14 +46,13 @@
    </teiHeader>
 
    <text>
-      <front/>
+      
       <body>
-         <div>
-            <div>
+            <div type="titlepage">
                <head>Fanny Lewald</head>
                <head>Jenny</head>
             </div>
-            <div>
+            <div type="chapter">
                <head>Von der Verfasserin von Clementine</head>
                <p>
                   <pb facs="#"/> Bei Gerhard, dem ersten Restaurant einer großen deutschen
@@ -8205,8 +8204,8 @@
                   eines Sehers, um eine Zeit zu erblicken, in der keine solche Opfer auf dem Altare
                   der Vorurtheile bluten! Wir wollen leben, um eine freie Zukunft, um die
                   Emancipation unsers Volkes zu sehen!</p>
+            
             </div>
-         </div>
       </body>
    </text>
 </TEI>

@@ -4,7 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>Der Lautenbacher</title>
-            <author ref="http://d-nb.info/gnd/pnd:11865103X">Auerbach, Berthold</author>
+            <author ref="http://d-nb.info/gnd/11865103X">Auerbach, Berthold (1812-1882)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>
@@ -46,11 +46,9 @@
    </teiHeader>
 
    <text>
-      <front/>
+      
       <body>
-         <div>
             <div type="chapter">
-               <head>II.</head>
                <head>Der Lautenbacher.</head>
                <pb facs="#"/>
                <pb facs="#"/>
@@ -2620,7 +2618,7 @@
                <l>Mit freudigem Ernste wurde das Ehebündniß geschlossen. – Es sei gesegnet.</l>
 
             </div>
-         </div>
+         
       </body>
    </text>
 </TEI>

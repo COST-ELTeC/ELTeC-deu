@@ -4,7 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>Problematische Naturen. Erste Abtheilung</title>
-            <author ref="http://d-nb.info/gnd/pnd:118616196">Spielhagen, Friedrich</author>
+            <author ref="http://d-nb.info/gnd/118616196">Spielhagen, Friedrich (1823-1911)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>
@@ -46,7 +46,7 @@
    </teiHeader>
 
    <text>
-      <front/>
+      
       <body>
          <div type="chapter">
             <head>
@@ -1852,7 +1852,7 @@
                Tische wiederfinden konnte.</p>
          </div>
          <div type="chapter">
-            <div>
+            <div type="chapter">
                <head>Zehntes Capitel</head>
                <p>Die Unterhaltung an der Mittagstafel, die in einem kühlen, schattigen Zimmer, das
                   auf einen etwas kahlen und sehr sonnigen Garten sah, angerichtet war, wurde bald
@@ -2095,7 +2095,7 @@
                <p>Bitte!</p>
 
             </div>
-            <div>
+            <div type="chapter">
                <head>An einen Maikäfer, der auf dem Rücken lag.</head>
 
                <l>O Du Bacchant der lust'gen Maiennacht!</l>
@@ -7257,7 +7257,7 @@
             <p>Wollen Sie nicht näher treten, Herr Geometer?</p>
          </div>
          <div type="chapter">
-            <div>
+            <div type="chapter">
                <head>Neunundzwanzigstes Capitel</head>
                <p>Der, welcher dieser Aufforderung des Barons sofort folgend, in das Zimmer trat,
                   war ein junger Mann von vielleicht fünfundzwanzig Jahren, obgleich die frische
@@ -7824,7 +7824,7 @@
                   Verse gemacht und fühlte mich gedrungen, sie Ihnen verzulesen. Hören Sie zu!</p>
 
             </div>
-            <div>
+            <div type="chapter">
                <head>Sie liebt mich!</head>
                <p>Der Anfang ist weniger originell, als wahr. Aber Sie werden mir zugeben, daß man
                   ein so uraltes Thema nicht immer wieder neu behandeln kann. Also:</p>

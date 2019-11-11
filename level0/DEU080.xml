@@ -4,7 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>Dumala</title>
-            <author ref="http://d-nb.info/gnd/pnd:118561812">Keyserling, Eduard von</author>
+            <author ref="http://d-nb.info/gnd/118561812">Keyserling, Eduard von (1855-1918)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>
@@ -46,10 +46,10 @@
    </teiHeader>
 
    <text>
-      <front/>
+      
       <body>
-         <div>
-            <div>
+         <div type="chapter">
+            <div type="chapter">
 
                <head>Eduard von Keyserling</head>
                <head>Dumala</head>

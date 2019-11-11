@@ -4,7 +4,8 @@
       <fileDesc>
          <titleStmt>
             <title>Herrn Dames Aufzeichnungen</title>
-            <author ref="http://d-nb.info/gnd/pnd:118600044">Reventlow, Franziska Gräfin zu</author>
+            <author ref="http://d-nb.info/gnd/118600044">Reventlow, Franziska Gräfin zu
+               (1871-1918)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>
@@ -44,9 +45,7 @@
          <change when="2019-01-28">Conversion from Kallimachos Kernkorpus</change>
       </revisionDesc>
    </teiHeader>
-
    <text>
-      <front/>
       <body>
          <div type="chapter">
             <head>
@@ -605,7 +604,6 @@
             <p>Damit trennten wir uns.</p>
          </div>
          <div type="chapter">
-            <div>
                <head>4</head>
                <!--milestone head_start-->
                <p> 20.... </p>
@@ -679,8 +677,8 @@
                   Stein der Weisen gefunden hätte. Und mir ist, seit ich hier bin, zumut, als ob ich
                   nur in Rätseln sprechen höre und mich zwischen lauter Rätseln bewege. Ich fühle
                   mich ziemlich unglücklich, und in meinem Kopf ist es wirr und dunkel.</p>
-            </div>
-            <div>
+            
+            <div type="notes">
                <head>Anmerkung</head>
                <p>Hier sind mehrere Seiten herausgerissen, und statt dessen findet sich eine Anzahl
                   fast unleserlicher Zettel mit Bleistiftnotizen. Dann folgt quer über die Seiten
@@ -723,7 +721,6 @@
             </div>
          </div>
          <div type="chapter">
-            <div>
                <head>5</head>
                <!--milestone head_start-->
                <p> 10. Januar </p>
@@ -770,8 +767,8 @@
                   Paket auf – und Ihr Schnurrbart?«</p>
                <p>Sie sieht mir ins Gesicht...</p>
 
-            </div>
-            <div>
+            
+            <div type="notes">
                <head>Anmerkung</head>
                <p>Herr Dame geht manchmal unvermittelt in die erste Person über – aber falls er
                   seinen Roman wirklich jemals geschrieben hätte, würde er es sicher korrigiert
@@ -1149,7 +1146,6 @@
                »denn die größere Hälfte verstehe ich ja doch wieder nicht.«</p>
          </div>
          <div type="chapter">
-            <div>
                <head>7</head>
                <p>Mir ist, als müßte ich mein Gehirn auseinandernehmen und wieder neu
                   zusammensetzen. Die Art, wie es bisher funktioniert hat, die mir geläufigen und
@@ -1173,8 +1169,8 @@
                <p>Ja, und einstweilen muß es wohl noch dahingestellt bleiben, ob ich selbst dieser
                   schweren Aufgabe gewachsen bin.</p>
 
-            </div>
-            <div>
+            
+            <div type="notes">
                <head>Anmerkung</head>
                <p>Wir nehmen an, daß Herr Dame die einliegenden, anscheinend aus seinem Notizbuch
                   kopierten Blätter gemeint und nur seine Absicht, sie in das Tagebuch einzutragen,
@@ -1183,7 +1179,7 @@
                   Inhalt Ihnen, sowie etwaigen Lesern, leichter verständlich als uns.</p>
 
             </div>
-            <div>
+            <div type="chapter">
                <head>
                   <pb facs="#"/> Nachtgespräch mit dem Philosophen</head>
                <head>in der Jahreszeitenbar</head>
@@ -1781,7 +1777,6 @@
                außerdem war ich einmal verheiratet, und das ist eben nicht dasselbe.«</p>
          </div>
          <div type="chapter">
-            <div>
                <head>9</head>
                <!--milestone head_start-->
                <p> 10. Februar </p>
@@ -1873,8 +1868,8 @@
                   Umwelt sich widerspiegelt. Mag der Spiegel noch so anspruchslos und schlicht
                   gerahmt sein – wenn man ihn verhängt oder aus dem Zimmer trägt, wirft er kein Bild
                   mehr zurück.)</p>
-            </div>
-            <div>
+            
+            <div type="notes">
                <head>Anmerkung</head>
                <p>Sie finden hier, verehrter Gönner und Freund, aus Herrn Dames eigenem Munde die
                   Bestätigung unserer Wir-Theorie, auf die wir auch in unserem Begleitschreiben
@@ -2383,7 +2378,6 @@
                und sich dann allmählich in erhitzte und ermattete Einzelgestalten auflöste.</p>
          </div>
          <div type="chapter">
-            <div>
                <head>12</head>
                <!--milestone head_start-->
                <p> Zwei Tage später... </p>
@@ -2558,8 +2552,8 @@
                   keine oder nur geringe kosmische Substanz und ist dem Molochitischen leicht
                   zugänglich.</p>
 
-            </div>
-            <div>
+            
+            <div type="notes">
                <head>Anmerkung</head>
                <p>Wir sind hier an einem der Punkte angelangt, verehrter Freund, die vielleicht
                   eines Kommentars bedürfen – ob nämlich die Zauberhoffnungen Wahnmochings,

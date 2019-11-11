@@ -4,7 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>Mathias Bichler</title>
-            <author ref="http://d-nb.info/gnd/pnd:118520555">Christ, Lena</author>
+            <author ref="http://d-nb.info/gnd/118520555">Christ, Lena (1881-1920)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>
@@ -46,9 +46,9 @@
    </teiHeader>
 
    <text>
-      <front/>
+      
       <body>
-         <div>
+         <div type="chapter">
             <head>
                <pb facs="#"/> Im Weidhof</head>
             <p>Meine Kostmutter hat mir gesagt, daß ich am vierten Sonntag nach der Erscheinung des
@@ -200,7 +200,7 @@
                jedem eine andere Stimme lieh und ein anderes Temperament, gerade so, wie ich es an
                den Festtagen auf dem Kirchplatz von Sonnenreuth gesehen und gehört hatte.</p>
          </div>
-         <div>
+         <div type="chapter">
             <head>Die Wallfahrt</head>
             <p>Zu meiner Kinderzeit hat man in Sonnenreuth den Schulzwang noch nicht gekannt; daher
                auch der Weidhofer, mein Kostvater, seine Pfleglinge, um an Schulgeld zu sparen, kaum
@@ -496,7 +496,7 @@
                Gebet Stimme und stöhnte laut und lauter: »Herrgott hilf! Maria hilf!«, bis mein
                Haupt abermals, der Sinne beraubt, zurückfiel ins Wasser.</p>
          </div>
-         <div>
+         <div type="chapter">
             <head>Im Waldhaus</head>
             <p>Da ich wieder erwachte, sah ich über mir einen bemalten Betthimmel; die gekrönte
                Jungfrau blickte auf mich hernieder, und lustige Engel umschwebten sie und hielten
@@ -744,7 +744,7 @@
                im Hause; doch weiß ich nicht, ob er wegen der geknüpften Nestel oder wegen des
                bitteren Weins ausblieb; wo er aber hinkam, schalt er laut über die Hexe.</p>
          </div>
-         <div>
+         <div type="chapter">
             <head>Lieb und Tod</head>
             <p>Die Zeit ging hin, und ich war unversehens so ein halb, dreiviertel Jahr im Haus der
                alten Irscherin gewesen und hatte dort vieles gesehen und auch gar manches gelernt,
@@ -1037,7 +1037,7 @@
                ihre Kammer traue, worauf ich wieder mein Bett mit ihr teilte und die halbe Nacht mit
                ihr redete und sie unterhielt, bis uns endlich beiden die Augen zufielen.</p>
          </div>
-         <div>
+         <div type="chapter">
             <head>Die Hexenjungfer</head>
             <p>Es war schon heller Tag, als ich erwachte und mich nach dem Kathreinl umsah; doch ihr
                Platz war leer, und ich hörte sie schon draußen vor dem Haus am Brunnen werken und
@@ -1306,7 +1306,7 @@
                ein Andenken. Von dem Schelmen, dem Ambros, aber war nichts mehr zu hören und zu
                sehen, und es schien, als habe er die Gegend verlassen.</p>
          </div>
-         <div>
+         <div type="chapter">
             <head>Das Vermächtnis</head>
             <p>Etliche Tage nach diesem Ereignis erschien der Gemeindeschreiber oder, wie er zu
                Sonnenreuth hieß, der Aktenlippel, im Weidhof und fragte nach dem Kathreinl von Amts
@@ -1528,7 +1528,7 @@
                schwitzten und die Kathrein droben in ihrer Stube am Spinnrocken saß und tagein,
                tagaus spann und einen Flachswickel um den andern zum feinen Faden drehte.</p>
          </div>
-         <div>
+         <div type="chapter">
             <head>Die Herrische</head>
             <p>Nun hatte sich also der Weidhofer, mein Ziehvater, wie ein rechter, guter Christ der
                Jungfer Kathrein angenommen, hatte ihr in der Erbsache wohl geraten und auch ihr Geld
@@ -1624,7 +1624,7 @@
                angenehm und in willfährigen Händen; wofür ihm die Jungfer groß dankte und fünfzig
                Gulden dorthin brachte.</p>
          </div>
-         <div>
+         <div type="chapter">
             <head>Von Mathäi zu Laurenzi</head>
             <p>Nach diesen Ereignissen kam die Erntezeit; ein jedes im Weidhof hatte vollauf zu
                werken, und auch ich mußte nun meine Glieder fleißig brauchen; der Ziehmutter
@@ -1767,7 +1767,7 @@
                in eine fremde Welt hinausjagte.</p>
             <pb facs="#"/>
          </div>
-         <div>
+         <div type="chapter">
             <head>Kindlnot und Brautschau</head>
             <p>Es schickte sich um Laurenzi desselben Jahres, da ich wieder auf der Alm saß, daß
                unsere Schwaigerin, die Hosennandl, über allerhand Beschwernisse und Gebresten klagte
@@ -2148,7 +2148,7 @@
                während der Weidhofer jedem einen Krug Most an seinen Platz stellte und einen blanken
                Silbergulden darunterlegte.</p>
          </div>
-         <div>
+         <div type="chapter">
             <head>Kindstauf und Einstand</head>
             <p>Etwan eine Woch nach diesem kam die Mutter Nandl und trug ihr Kindlein in einem
                dicken Pack von Kissen und Tüchern auf dem Arm; hatte ihm auch etliche Rosenkränz,
@@ -2440,7 +2440,7 @@
             <p>Große Freud glangt nit weit.</p>
 
          </div>
-         <div>
+         <div type="chapter">
             <head>Brautfahrt</head>
             <p>Des Weidhofers alter Hund heulte in langgezogenen Klaglauten, als ich mich an jenem
                Morgen aus meinem Traum gähnte und mich noch lebend und wohlauf fand, obgleich mich
@@ -2626,7 +2626,7 @@
                dahin, indes vom Turm alle Glocken läuteten und vom Berg die Böller krachten.</p>
             <pb facs="#"/>
          </div>
-         <div>
+         <div type="chapter">
             <head>Hochzeit</head>
             <p>Unter dem Vordach der Kirche stand schon der alte Pfarrer mit meinem Ziehvater, dem
                Meßmer, als wir aus den Fuhrwerken stiegen und in den Gottsacker traten.</p>
@@ -2977,7 +2977,7 @@
                meinen herzguten Ziehvater in sich begrub.</p>
             <pb facs="#"/>
          </div>
-         <div>
+         <div type="chapter">
             <head>Alle Herrlichkeit des Menschen ist wie Staub</head>
 
             <l>In einem Augenblick</l>
@@ -3087,7 +3087,7 @@
             <p>Freund in der Not gehn hundert auf ein Lot.</p>
             <pb facs="#"/>
          </div>
-         <div>
+         <div type="chapter">
             <head>Um zwei Gulden</head>
             <p>Da nun die Toten in Frieden ruhten, auch der Brandplatz gesäubert war, erscholl eines
                Tags schon früh am Morgen die Glocke des Gemeindeschreibers durch die Gassen, und der
@@ -3223,7 +3223,7 @@
             <p>Ich dankte ihr mit frohem Herzen und machte mich darnach wieder auf den Weg, der mich
                in ein neues Leben und in die weite Welt hineinführen sollt.</p>
          </div>
-         <div>
+         <div type="chapter">
             <head>Der Bildlmacher</head>
             <p>Fand mich also der zwanzigst Oktober des Jahres eintausendachthundertzwei, der Tag
                vor dem Kirchweihfest, auf der Landstraße, die über Trach und Stauden nach Geitau
@@ -3533,7 +3533,7 @@
             <p>Und aus dieser Ursach geschah es auch, daß ich, eh ichs recht bedacht, jenem Esel
                glich, der, wenn's ihm zu wohl wird, aufs Eis geht.</p>
          </div>
-         <div>
+         <div type="chapter">
             <head>Das Tiroler Katherl</head>
             <p>Mocht also ein guts Jahr bei dem Bildlmacher gewesen sein, als mir auf einmal das
                Rahmerlschneiden und Geißlmelken nimmer gefiel; konnt auch die ewig Fastenkost nicht
@@ -3735,7 +3735,7 @@
                Undank.</p>
             <pb facs="#"/>
          </div>
-         <div>
+         <div type="chapter">
             <head>Die Marktreis</head>
             <p>Da wir durch Bayrischzell wanderten, war es eben um die neunte Morgenstund; die
                Glocken des alten Klosterkirchleins läuteten zusammen, und gegen den Gottsacker hin
@@ -4004,7 +4004,7 @@
 
 
          </div>
-         <div>
+         <div type="chapter">
             <head>Allerhand um fünf Kreuzer</head>
             <p>Gemach wurd es nun in unserer Herberg auch lebendig; der eine hustete, der ander
                krigelte, der dritt seufzte, und der viert drehte sich raunzend um. Vor der Kammertür
@@ -4214,7 +4214,7 @@
                durch die Marktreihen, besah mir dies und erhandelte das und wartete mit großem
                Verlangen auf den Abend, da die wundersame Aufführung sein sollte.</p>
          </div>
-         <div>
+         <div type="chapter">
             <head>Komedie</head>
             <p>Gemach ging der Tag hin; um die Berge zogen dichte Nebelschwaden, und die Marktgäst
                zündeten ihre Laternen an und trieben ihr Vieh heim mit schwankendem Tritt und
@@ -4374,7 +4374,7 @@
             <p>Dann entschlief ich.</p>
             <pb facs="#"/>
          </div>
-         <div>
+         <div type="chapter">
             <head>Falsche Lieb</head>
             <p>Ein harter Schlag von der Pratze des Bären, der auf dem Markt getanzt hatte und mir
                nun in meinen Träumen die liebliche Jungfer aus der Komödie, da ich sie eben in
@@ -4667,7 +4667,7 @@
 
 
          </div>
-         <div>
+         <div type="chapter">
             <head>Auf der Landstraße</head>
             <p>Also stand ich an jenem Tag, es war im Erntemond des Jahres 1804, nachdenklich auf
                der Innbrucken und wußte nicht, wo aus und was tun, als drei Handwerksburschen die
@@ -5078,7 +5078,7 @@
                Papieren und machte, daß ich mich in diesem Augenblick elender fühlte als zu jener
                Stund, da ich alles verloren hatte.</p>
          </div>
-         <div>
+         <div type="chapter">
             <head>Johannes Schröckh</head>
             <p>Mit zitternden Fingern und großer Kümmernis und Angst im Herzen schnallte ich mein
                Ränzl ab und holte umständlich die Kundschaft und das Wanderbuch heraus, unsere liebe
@@ -5561,7 +5561,7 @@
                auslöffeln.</p>
             <pb facs="#"/>
          </div>
-         <div>
+         <div type="chapter">
             <head>Im Turm</head>
             <p>Die Frau Meisterin hatte mir grad noch eine extrige Butterbretzel zu meinem
                Kaffeeweckl gelegt, nachdem ich ihr und dem Meister als erster einen guten Morgen
@@ -6008,7 +6008,7 @@
                expediert wurde, wo er aber leider nicht lang verblieb und eines Tags zu Berlin als
                ein Hochstapler ins Zuchthaus wanderte.</p>
          </div>
-         <div>
+         <div type="chapter">
             <head>Lehrjahre und glückhafte Zeit</head>
             <p>Ich war also nun wieder frei und ledig, brauchte nimmer einen Bauernbuben und
                Viehhüter, auch nimmer einen Malergesellen zu machen, sondern zog ein in das Haus des
@@ -6225,7 +6225,7 @@
                Grabgeleit und zog alsdann auf mein dringliches Bitten als mein alleiniger Hort ein
                in die Stube seines seligen Freundes.</p>
          </div>
-         <div>
+         <div type="chapter">
             <head>Heimkehr</head>
             <p>Nun hatte ich also, wie man gemeiniglich sagt, mein Sach wohl bestellt, und es
                mangelte mir schier nichts mehr zu einem geruhigen, glückhaften Leben.</p>
@@ -6392,7 +6392,7 @@
                und, die Augen mit der Hand beschattend, mir nachsah, bis das Gefährt hinter der
                Kirche um die Ecke bog und aus dem Markt fuhr.</p>
          </div>
-         <div>
+         <div type="chapter">
             <head>Abend</head>
             <p>Es war im Erntemonat desselben Jahres, als mein väterlicher Freund und lieber
                Hausgenoß eines Morgens nicht, wie gewohnt, erschien; und da ich in seine Stube trat,

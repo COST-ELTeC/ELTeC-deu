@@ -4,7 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>Vor dem Sturm</title>
-            <author ref="http://d-nb.info/gnd/pnd:118534262">Fontane, Theodor</author>
+            <author ref="http://d-nb.info/gnd/118534262">Fontane, Theodor (1819-1898)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>
@@ -46,9 +46,9 @@
    </teiHeader>
 
    <text>
-      <front/>
+      
       <body>
-         <div>
+         <div type="chapter">
             <head>Erster Band</head>
             <div type="chapter">
                <head>Erstes Kapitel</head>
@@ -3774,7 +3774,7 @@
                </p>
             </div>
          </div>
-         <div>
+         <div type="chapter">
             <head>Zweiter Band</head>
             <div type="chapter">
                <head>Erstes Kapitel</head>
@@ -4165,7 +4165,7 @@
                   von Schloß Guse waren.</p>
             </div>
             <div type="chapter">
-               <div>
+               <div type="chapter">
                   <head>Drittes Kapitel</head>
                   <head>Allerlei Freunde</head>
                   <p>Die »allerlei Freunde« bildeten einen weiteren und einen engeren Kreis. Der
@@ -4451,7 +4451,7 @@
                      folgendem Verse benutzt worden war:</p>
 
                </div>
-               <div>
+               <div type="chapter">
                   <head>Cedo majori</head>
 
                   <l>Als des Barones Podagra</l>
@@ -8980,7 +8980,7 @@
                <pb facs="#"/>
             </div>
          </div>
-         <div>
+         <div type="chapter">
             <head>Dritter Band</head>
             <div type="chapter">
                <head>Erstes Kapitel</head>
@@ -11195,7 +11195,7 @@
                <pb facs="#"/>
             </div>
             <div type="chapter">
-               <div>
+               <div type="chapter">
                   <head>Siebentes Kapitel</head>
                   <head>Kastalia</head>
                   <p>Lewin ging zu Tisch. In dem sackgassenartig verbauten Teil der Taubenstraße,
@@ -11502,7 +11502,7 @@
                      ohne weitere Störung:</p>
 
                </div>
-               <div>
+               <div type="chapter">
                   <head>»General Seydlitz</head>
 
                   <l>In Büchern und auf Bänken,</l>
@@ -14846,7 +14846,7 @@
                <pb facs="#"/>
             </div>
          </div>
-         <div>
+         <div type="chapter">
             <head>Vierter Band</head>
             <div type="chapter">
                <head>Erstes Kapitel</head>

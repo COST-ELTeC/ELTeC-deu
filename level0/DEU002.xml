@@ -4,7 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>Der Lehnhold</title>
-            <author ref="http://d-nb.info/gnd/pnd:11865103X">Auerbach, Berthold</author>
+            <author ref="http://d-nb.info/gnd/11865103X">Auerbach, Berthold (1812-1882)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>
@@ -46,9 +46,9 @@
    </teiHeader>
 
    <text>
-      <front/>
+      
       <body>
-         <div>
+         <div type="chapter">
             <head>Ab der Landstraße.</head>
             <p>Ab der Landstraße, die durch das rauschende Waldthal führt, zieht sich ein Fahrweg
                bergan durch den Wald und dann zwischen lebendigen Buchenhecken nach einem einsamen
@@ -176,7 +176,7 @@
                eine soldatische Haltung verräth, geht wieder nach dem Hofe zurück, nimmt den
                Dreschflegel zur Hand und fällt taktmäßig in die Schläge ein.</p>
          </div>
-         <div>
+         <div type="chapter">
             <head>Im Hofe.</head>
             <p>Im Hofe, in dessen Mitte der große mit Stangen eingezäunte Düngerhaufen, daran eine
                Jauchenpumpe sich befindet, ist reiche lebendige Bewegung: da wird Korn auf einen
@@ -318,7 +318,7 @@
                Gedanken wie einen Felsen mit den Wurzeln festhaltend und helle Flammen in sich
                bergend.</p>
          </div>
-         <div>
+         <div type="chapter">
             <head>Ein Knecht mit verschiedenen Anliegen.</head>
             <p>Nach geraumer Weile tritt Dominik der Oberknecht ein und stellt sich ruhig wartend an
                den Tisch des Sattlers. Der Bauer liest noch ein wenig weiter, dann sagt er
@@ -439,7 +439,7 @@
                denn er lacht ihn innerlich aus, er ist ja doch kein Bauernsohn und hat noch einen
                über sich.</p>
          </div>
-         <div>
+         <div type="chapter">
             <head>Nächtige Rückerinnerung.</head>
             <p>Noch als das Licht gelöscht war, hatte der Bauer seiner Frau gesagt, daß er auch
                hoffe, morgen für das Ameile einen rechten Bräutigam aufzubringen, die Frau hatte
@@ -575,7 +575,7 @@
                Eintracht; sie war eine kluge und behagliche Frau, die die Freude des heutigen Tages
                nicht mit Kummer um kommende Zeiten verscheuchte.</p>
          </div>
-         <div>
+         <div type="chapter">
             <head>Der Völkerfrühling und ein flammendes Jünglingsherz.</head>
             <p>Zu Lichtmeß 1848 kehrte Alban wieder auf den väterlichen Hof zurück. Die Mutter hatte
                ihre Freude an dem schönen Burschen und betrachtete ihn oft, als wäre er ein Fremder.
@@ -765,7 +765,7 @@
                es für ihn, als er zum Erstenmal im Leben seine Stimme abgab. Vinzenz hatte dem Vater
                willfahrt und darauf verzichtet.</p>
          </div>
-         <div>
+         <div type="chapter">
             <head>Freies Gut, freies Brod, und ein Blitz vom Himmel.</head>
             <p>Im Laufe des Sommers kam ein Ereigniß, das auch den alten Furchenbauer plötzlich für
                die neue Zeit <pb facs="#"/> gewann. Der Furchenhof war noch von Altersher ein
@@ -926,7 +926,7 @@
                aufgehalten.</p>
             <pb facs="#"/>
          </div>
-         <div>
+         <div type="chapter">
             <head>Von kleinen Leuten und schweren Gedanken.</head>
             <p>Des Menschen Herz ist, wie es heißt, trotzig und verzagt und unerforschlich in seinen
                Widersprüchen. Weil Alban vor aller Welt der unsichtbaren väterlichen Gewalt sich
@@ -1040,8 +1040,7 @@
                Pächter in Reichenbach saß, sagte er oft: »Der Alban braucht gar nichts; der Bauer,
                dem ich den Alban für seine Tochter gebe, der muß mir noch Geld herauszahlen.«</p>
          </div>
-         <div>
-            <div>
+         <div type="chapter">
                <head>Die Zügel in fremder Hand.</head>
                <p>Am Ostersonntag fuhr der Furchenbauer mit seiner Frau, den beiden Söhnen und
                   Ameile nach der über<pb facs="#"/> eine Stunde entfernten Kirche. Auf dem Heimweg,
@@ -1141,9 +1140,9 @@
                   seiner Frau:</p>
                <p>»Wenn ich ein' einzige Tochter hätt' und wüßt einen Burschen wie den Alban, ich
                   thät nicht ruhen, bis er mein Schwiegersohn wär'.«</p>
-            </div>
+            
          </div>
-         <div>
+         <div type="chapter">
             <head>Die Brautfahrt.</head>
             <p>Alban fuhr indeß mit dem Spitzgäbele, einem lustigen alten Männchen mit lauter Falten
                im Gesicht, ruhig die Pferde lenkend den abschüssigen Weg hinab, dabei hörte er die
@@ -1369,7 +1368,7 @@
                eine mit Betheuerungen und allerlei Zubehör untermischte Auskunft war nicht nach
                seinem Geschmack. Er blieb beim Ordnungsmäßigen.</p>
          </div>
-         <div>
+         <div type="chapter">
             <head>Nachrede und Lärm in der Welt.</head>
             <p>Ein von der Reise Ankommender ist so zu sagen körperlich und geistig eine Zeitlang
                ungelenk in der Mitte derer, die in der Gewohnheit des häuslichen Lebens verharrten,
@@ -1596,7 +1595,7 @@
                es war ihm doch lieb, ihn in der Unruhe bei sich zu haben, wie man bei einem
                drohenden Gewitter gern alle Angehörigen wach und um sich versammelt hat.</p>
          </div>
-         <div>
+         <div type="chapter">
             <head>Der Sturm bricht los.</head>
             <p>Alban mußte gehört haben, daß sich das Gefährte nahe und der Furchenbauer hob
                mehrmals die Peitsche hoch, um ihm zu winken, ja er knallte; aber Alban schaute nicht
@@ -1767,7 +1766,7 @@
                Macht ....</p>
             <pb facs="#"/>
          </div>
-         <div>
+         <div type="chapter">
             <head>Ein Sohn und ein Knecht.</head>
             <p>Heute waren alle die stürmischen und trüben Erinnerungen in der Seele der Mutter
                erwacht, und als sie endlich eingeschlafen, schrak sie plötzlich auf und rief laut
@@ -1857,7 +1856,7 @@
                zog ja ihre Botschaft zu ihrem Alban, denn sie hoffte, daß Dominik dem Willen des
                Bauern ungetreu über Reichenbach fahren werde.</p>
          </div>
-         <div>
+         <div type="chapter">
             <head>Ein nächtiger Gang bis daß es tagt.</head>
             <p>Der Kühbub hatte Dominik zur Zeit geweckt und Dominik war bald zur Abfahrt bereit, er
                war aber entschlossen, mindestens auf dem Hinweg dem ausdrücklichen Befehl des Bauern
@@ -2173,7 +2172,7 @@
                Zeit und in der That war er einer der Ersten an dem Wirthhaus zum Apostel in
                Wellendingen.</p>
          </div>
-         <div>
+         <div type="chapter">
             <head>Festgefahren.</head>
             <p>Der Furchenbauer war noch nicht da. Heitern Sinnes war er am Morgen mit seiner
                Tochter ausgefahren. Er war festtäglich gekleidet, er trug seinen schwarzsammtnen,
@@ -2306,7 +2305,7 @@
                bewillkommte.</p>
             <pb facs="#"/>
          </div>
-         <div>
+         <div type="chapter">
             <head>Ein officielles Volksfest, eine exotische und eine wilde Blüthe.</head>
             <p>Seitdem wieder jede freie und natürliche Strömung des Volkslebens gebunden ist, seit
                die Verzweiflung an der Macht des rein sittlichen Gedankens immer allgemeiner zu
@@ -2468,7 +2467,7 @@
             <p>Dominik rief ihm noch nach, das Ameile sei auch da, aber Alban hörte schon nicht
                mehr.</p>
          </div>
-         <div>
+         <div type="chapter">
             <head>Eine neue Freundschaft geknüpft und eine alte Liebe zerrissen.</head>
             <p>Im obern Saale des Apostels hielt unterdeß der Domänenrath eine sehr geschickte Rede;
                er sagte, es sei noch ein wichtiger Gegenstand auf der Tagesordnung zu erledigen, er
@@ -2649,7 +2648,7 @@
             <p>»Mit Hunden hetz' ich dir deinen Dominik aus dem Haus,« knirschte er vor sich
                hin.</p>
          </div>
-         <div>
+         <div type="chapter">
             <head>Zweckesser, Hofmetzger und Nachtisch.</head>
             <p>Man hat in den letzten Jahren so oft gepredigt, daß England der Musterstaat sei; die
                Beamten haben wenigstens so viel davon angenommen, daß sie das erste Glas mit
@@ -2890,7 +2889,7 @@
                den Wagen stieg, küßte die Oberamtmännin sie herzlich; aber Ameile war <pb facs="#"/>
                trotz des wiederhergestellten Friedens traurig. Sie ahnte Unheimliches.</p>
          </div>
-         <div>
+         <div type="chapter">
             <head>Zwei Söhne sind heim und fremd.</head>
             <p>Alban hatte das Reitpferd, das er mitgebracht, hinten an den Wagen gehängt, um es in
                Reichenbach abzugeben. Jetzt saß er vor dem Vater und der Schwester und lenkte die
@@ -3021,7 +3020,7 @@
                ging nach der Kammer wo Vinzenz schon schlief und wo sein Bett noch stand von alten
                Zeiten. Hinter ihm drein war der Vater geschlichen und lauschte an der Thür.</p>
          </div>
-         <div>
+         <div type="chapter">
             <head>Heimliche Verabredungen.</head>
             <p>Als Alban seinen Bruder Vinzenz aus dem Schlafe weckte, rief dieser um sich
                schlagend: »Thu mir nichts, du darfst mir nichts thun.« Alban war erschreckt von
@@ -3163,7 +3162,7 @@
             <p>Er schleppte Ameile nach ihrer Kammer, schloß sie ein und nahm den Schlüssel zu
                sich.</p>
          </div>
-         <div>
+         <div type="chapter">
             <head>Ein armes Kind im Elternhaus.</head>
             <p>Ein gut gestelltes Hauswesen geht ordnungsmäßig fort, ohne täglich frisch aufgezogen
                zu werden. Der rasche Taktschlag der Drescher war schon laut, als Dominik ärgerlich
@@ -3514,7 +3513,7 @@
                ausbreiten, um ihn an's Herz zu schließen.</p>
             <pb facs="#"/>
          </div>
-         <div>
+         <div type="chapter">
             <head>Ein reiches Kind im Elternhaus.</head>
             <p>Am selben Morgen, an dem Dominik den Furchenhof verlassen, war es im Hause wirr
                hergegangen. Natürlich konnte sich Ameile nicht am Fenster und nicht an der Thüre
@@ -3736,7 +3735,7 @@
                daß der arme Mann <pb facs="#"/> nichts habe als seine Ehre und sein heiteres Gemüth,
                und eben darum um so eifriger auf deren Erhaltung bedacht sein müsse.</p>
          </div>
-         <div>
+         <div type="chapter">
             <head>Bruder und Enkelkind.</head>
             <p>Nächsten Montag war der Vater siebzig Jahre alt. Am Samstag Morgen wurde Alban in
                aller Frühe mit den beiden Fuchsen nach Siebenhöfen geschickt, um die kleine Tochter
@@ -3876,7 +3875,7 @@
                dem Schwager veruneinigt. Heute war Alles friedlich und wie mit einer Alles
                lindernden Milde gesalbt.</p>
          </div>
-         <div>
+         <div type="chapter">
             <head>Ein Kirchgang am Morgen und eine Beichte in der Nacht.</head>
             <p>Am Sonntagmorgen wurde den Pferden das neue Geschirr angelegt, und die Menschen
                zeigten sich alle in ihren besten Kleidern. In zwei Wagen fuhr die ganze Familie nach
@@ -4037,7 +4036,7 @@
             <p>Wie ganz anders erwachte Alban. Eine innere Beseligung durchströmte sein ganzes Sein
                und er trat in die gewohnte Welt mit geweihtem prophetengleich geklärtem Herzen.</p>
          </div>
-         <div>
+         <div type="chapter">
             <head>Feldumgang und Sonnenwende.</head>
             <p>Der Oheim Dekan war unwohl und erklärte den Markungsumgang nicht mitmachen zu können;
                der Vater und Vinzenz standen indeß dazu bereit und gewaffnet, denn Jeder trug im
@@ -4198,7 +4197,7 @@
                zwischen seinen beiden Söhnen dem Hause zu. Er dankte kaum dem Gruße seiner
                Dienstleute.</p>
          </div>
-         <div>
+         <div type="chapter">
             <head>Alles zerstiebt in's Weite und Einer bleibt in der Enge.</head>
             <p>Der Furchenbauer hackte seine Handaxt in die Thürpfoste, daß die Wand dröhnte, dann
                ging er hinein in's Haus. Die Mutter und Ameile standen in der Küche am prasselnden
@@ -4444,7 +4443,7 @@
                vollkommen. Wer über solch ein Thun nachdenken mag, wird wissen was das zu bedeuten
                hat.</p>
          </div>
-         <div>
+         <div type="chapter">
             <head>Flüchtig und eingeholt und abermals davon.</head>
             <p>Als Ameile mit dem Kind an der Hand in die Stube trat, wie erstaunte sie, den Dominik
                hier zu sehen; er stand neben Vinzenz, grade dort an der Kammerthür, wo sie im Ringen
@@ -4570,7 +4569,7 @@
             <p>Als ihm Dominik den gutmeinenden Plan des Vinzenz darlegte, lachte er vor sich
                hin.</p>
          </div>
-         <div>
+         <div type="chapter">
             <head>Verhetzt und in den Abgrund gestürzt.</head>
             <p>Der Tag graute kaum, als Alban einen der Fuchsen gesattelt aus dem Stall zog, er
                schwang sich behend auf und ritt im Nebel zum Thor hinaus und davon. Ohne Aufhalt wie
@@ -4688,7 +4687,7 @@
                Geländer da, und fest einander umklammernd stürzten die Beiden den Felsen hinab und
                der Bach spritzte auf.</p>
          </div>
-         <div>
+         <div type="chapter">
             <head>Wo ist dein Bruder!</head>
             <p>Dunkle stille Nacht war's, als Alban erwachte. Er griff um sich und schaudernd
                prallte er zurück, er faßte ein Menschenantlitz. Die Erinnerung tauchte in ihm auf,
@@ -4850,7 +4849,7 @@
                hat nie etwas Bestimmtes darüber erfahren.</p>
             <pb facs="#"/>
          </div>
-         <div>
+         <div type="chapter">
             <head>Der neue Lehnhold.</head>
             <p>Aus der zerrissenen Erde sprießt die Saat, aus den Gräbern wachsen Blumen. Trübe
                Schwermuth lagerte auf dem Gemüth des Dominik wie Ameile's. Die Oberamtmännin war

@@ -4,7 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>Anna</title>
-            <author ref="http://d-nb.info/gnd/pnd:11880510X">Schopenhauer, Adele</author>
+            <author ref="http://d-nb.info/gnd/11880510X">Schopenhauer, Adele (1797-1849)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>
@@ -46,9 +46,9 @@
    </teiHeader>
 
    <text>
-      <front/>
+      
       <body>
-         <div>
+         <div type="chapter">
             <head>Erster Theil</head>
             <div type="chapter"/>
             <div type="chapter">
@@ -4337,10 +4337,10 @@
                <pb facs="#"/>
             </div>
          </div>
-         <div>
+         <div type="chapter">
             <head>Zweiter Theil</head>
             <div type="chapter">
-               <div>
+               <div type="chapter">
                   <head>1822</head>
                   <p>
                      <pb facs="#"/>
@@ -8212,7 +8212,7 @@
                      dann ging er hinein, auf lange Abschied von ihr zu nehmen.</p>
 
                </div>
-               <div>
+               <div type="chapter">
                   <head>Lied.</head>
 
                   <l>O nur kein Wort, kaum ein Gedanke!</l>

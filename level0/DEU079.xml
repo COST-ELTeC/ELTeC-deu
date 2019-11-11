@@ -4,7 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>Die Aufzeichnungen des Malte Laurids Brigge</title>
-            <author ref="http://d-nb.info/gnd/pnd:118601024">Rilke, Rainer Maria</author>
+            <author ref="http://d-nb.info/gnd/118601024">Rilke, Rainer Maria (1875-1926)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>
@@ -46,9 +46,9 @@
    </teiHeader>
 
    <text>
-      <front/>
+      
       <body>
-         <div>
+         <div type="chapter">
             <head>Rainer Maria Rilke</head>
             <head>Die Aufzeichnungen</head>
             <head>des Malte Laurids Brigge</head>

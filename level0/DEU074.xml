@@ -4,7 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>Fanny Förster</title>
-            <author ref="http://d-nb.info/gnd/pnd:118662473">Boy-Ed, Ida</author>
+            <author ref="http://d-nb.info/gnd/118662473">Boy-Ed, Ida (1852-1928)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>
@@ -46,7 +46,7 @@
    </teiHeader>
 
    <text>
-      <front/>
+      
       <body>
          <div type="chapter"/>
          <div type="chapter">

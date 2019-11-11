@@ -4,7 +4,8 @@
       <fileDesc>
          <titleStmt>
             <title>Auch Einer 2</title>
-            <author ref="http://d-nb.info/gnd/11862721X">Vischer, Friedrich Theodor</author>
+            <author ref="http://d-nb.info/gnd/11862721X">Vischer, Friedrich Theodor
+               (1807-1887)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>
@@ -46,9 +47,8 @@
    </teiHeader>
 
    <text>
-      <front/>
+      
       <body>
-         <div>
             <pb n="[1]" facs="#"/>
             <p> In der Pfahldorfgeschichte hat der geneigte Leser das Manuskript kennen gelernt, das
                mir aus Venedig zukam. Der zwei Bedingungen, an welche die Vollmacht zum Abdruck
@@ -1168,10 +1168,9 @@
 
             <p>Hierauf folgt die Eintheilung und lautet also: </p>
             <pb n="64" facs="#"/>
-            <div>
                <div type="chapter">
-                  <p> I. Hauptarten der Teufel. </p>
-                  <div>
+                  <head> I. Hauptarten der Teufel. </head>
+  
                      <p> A. Innere Teufel. </p>
                      <p>Schleimhäute. Zunge. Kehle. Lunge. Zwerchfell. Magen. Gedärme. Blase.
                         Gelenke. Sehnen. Nerven. Gehirn. Augen. Nase. Ohren. Haut. Hals. Rücken.
@@ -1198,16 +1197,15 @@
                         da die Zunge aufgeführt ist, so haben wir allerdings das Material beisammen,
                         um erwarten zu können, daß dann in der betreffenden Rubrik der entsprechende
                         Zufallsakt, also z. B. närrisches Vernennen, nicht fehlen sollte.</p>
-                  </div>
-                  <div>
+ 
+
                      <p> B . Aeußere Teufel. </p>
-                     <div>
                         <p> a. Unorganisches und abgestorbene organische Stoffe.</p>
                         <p>Luft. Wind. Licht. Finsterniß. Nebel. Wasser. Regen. Schnee. Eis. Erde.
                            Morast. Pfützen. Staub. Sand. Steine. Gruben. Holzpflöcke. Strohhalme.
                            Dorne. Härchen. Schreibfedern. Sägmehl. Eisenfeilspähne.</p>
-                     </div>
-                     <div>
+                     
+
                         <p> b. Artefakte. </p>
                         <p>Brillen. Haken. Nägel. Uhren. Zündhölzchen. Kerzen. Lampen. Münzen.
                            Stiefelknechte. Schnüre. Bändel. Beinkleider. Hosenträger. Knöpfe.
@@ -1216,18 +1214,18 @@
                            Anderem. Papier. Tinte. Böden, besonders Parketböden. Treppen. Thüren.<pb
                               n="66" facs="#"/>Schlösser. Wände. Fenster. Kandeln. Fußbänke. Wägen,
                            speziell Eisenbahnwägen.</p>
-                     </div>
-                     <div>
+                     
+
                         <p> c. Pflanzen. </p>
                         <p>Blatt. Stengel. Zweig. Ast. Stamm. Wurzeln. Kirsch- und Trauben- und
                            andere Kerne. Erbsen. Bohnenfasern. Spitzgras. Brennnesseln.</p>
-                     </div>
-                     <div>
+                     
+
                         <p> d. Thiere. </p>
                         <p>Insekten. Vögel. Mäuse. Rind. Pferd. Hunde. Katzen. Hasen. Rehe. Hirsche.
                            Roß. Elephant. Würmer. Fische. Gräten.</p>
-                     </div>
-                     <div>
+                     
+
                         <p> e. Menschen. </p>
                         <p>Kinder. Frauen. Männer. Greise. Stände: besonders vornehme.</p>
                         <p>An dieser Stelle wimmelte es von Korrekturen und Durchstrichen. Man sah
@@ -1241,13 +1239,12 @@
                            aufgezählt werden, die im Zusammenstoß aller dieser Dinge den
                            leidensfähigen Theil mehr oder minder empfindlich treffen. Dieß bringt
                            die nächste Haupteintheilung: </p>
-                     </div>
-                  </div>
+                     
+                  
                </div>
                <pb n="67" facs="#"/>
                <div type="chapter">
                   <p> II. Aktionen. </p>
-                  <div>
                      <p> A. Der inneren Teufel. </p>
                      <p>Kratzen. Kitzeln. Niesen. Husten. Schleimen überhaupt. Tröpfchen an der
                         Nase. Rasseln. Orgeln. Pfeifen. Raspeln. Schnarchen. Sich verschlucken.
@@ -1257,8 +1254,6 @@
                         Fehlgreifen. Fehlschlagen. Fehltreten. Hühneraugenstich. Ueberschlagen (der
                         Stimme). Fehlsprechen. Sich vernennen. Bock schießen. Vergessen. Mit sich
                         reden. Im Schlaf sprechen. Verwechseln.</p>
-                  </div>
-                  <div>
                      <p> B. Der äußeren Teufel. </p>
                      <p>Hier hat es denn, wie wir vorbereitend schon bei I. bemerkt haben, dem
                         Verfasser große Schwierigkeiten gemacht, daß er Vieles, was der Rubrik I. B.
@@ -1287,9 +1282,8 @@
                         Verlöschen, ausgehen. Dazwischen rennen, reden u. s. f.</p>
                      <p>Nun fügte er zu den Aktionen A. der inneren, B. der äußeren Teufel noch eine
                         Rubrik und zwar:</p>
-                  </div>
+                  
                   <pb n="69" facs="#"/>
-                  <div>
                      <p> C. Kombinirte Aktionen oder Häufungen. </p>
                      <p>Man versteht, daß hier das Zusammentreffen von zwei oder mehreren Unfällen
                         an die Reihe kommt. Hier war denn aufzuführen z. B. Husten und Hexenschuß
@@ -1305,11 +1299,10 @@
                         vereinigt. Welche Schwierigkeiten sich hier einer den andern Theilen
                         parallel entsprechenden Anordnung entgegenstemmten, werden wir sehen; erst
                         müssen wir alles Material beisammen haben.</p>
-                  </div>
+                  
                </div>
 
-            </div>
-            <div>
+               <div type="chapter">
                <p>Der Verfasser begnügte sich nicht mit den bisher aufgereihten Rubriken. Als Mann
                   von Geist mußte er diese nackte Aufzählung von Mißgeschicken, die großentheils nur
                   sinnlicher Art sind, doch ungesalzen finden.<pb n="70" facs="#"/>Es fehlte noch
@@ -1449,14 +1442,12 @@
                <p>Gesondert vom Uebrigen theile ich ferner die unvollendete Skizze eines Singspiels
                   mit, die mir beim Blättern in die Hände fiel. Die Ueberschrift bezeichnet dieß
                   Produkt als Singtragödie.</p>
-            </div>
-            <div>
-               <div>
-                  <p> Akt I. </p>
-                  <div>
-                     <p> Szene 1. Schreibzimmer. </p>
+               </div>
+            <div type="chapter">
+                  <head> Akt I. </head>
+                  <p> Szene 1. Schreibzimmer. </p>
 
-                     <p> Personen:</p>
+                     <l> Personen:</l>
                      <l>Ein Härchen.</l>
                      <l>Tinte.</l>
                      <l>Eine Schreibfeder.</l>
@@ -1471,10 +1462,10 @@
                         über dem Schreibtisch. Kichernde Antwort von Geistern in der Tinte. Duett
                         von Tinte und Buch vereinigt sich mit Härchen und Feder zu einem gefühlten
                         Quartett.</p>
-                  </div>
-                  <div>
-                     <p> Szene 2. </p>
-                     <p> Personen: </p>
+                  
+               <div type="chapter">
+                     <head> Szene 2. </head>
+                     <l> Personen: </l>
                      <l>Hilario, schöner Jüngling.</l>
                      <l>Die Vorhergehenden.</l>
 
@@ -1492,9 +1483,9 @@
                         der Geliebten im Park zu begegnen, will wagen, sie anzureden. Ab. Hinter ihm
                         her höllischer Lach-Chor genannter Personen der ersten Szene.</p>
                   </div>
-                  <div>
-                     <p> Szene 3. Park. </p>
-                     <p> Personen:</p>
+               <div type="chapter">
+                     <head> Szene 3. Park. </head>
+                     <l> Personen:</l>
                      <l>Eine Pfütze.</l>
                      <l>Ein Hühnerauge.</l>
 
@@ -1505,12 +1496,12 @@
                         harter, friktiv brennender Ton. Text offenbart teuflische Absichten.</p>
                      <p>Verschwörungsduett zwischen Beiden.</p>
                   </div>
-               </div>
-               <div>
-                  <p> Akt II. </p>
-                  <div>
-                     <p> Szene 1. </p>
-                     <p> Personen:</p>
+               
+               <div type="chapter">
+                  <head> Akt II. </head>
+                  <div type="chapter">
+                     <head> Szene 1. </head>
+                     <l> Personen:</l>
                      <l>Die Vorhergehenden.</l>
                      <l>Hilario.</l>
                      <l>Adelaide, selbstbewußte Jungfrau.</l>
@@ -1529,9 +1520,9 @@
                         zu erringen, eineselige Stunde werde ihm in Aussicht gestellt; dann folgt
                         noch eine um Weniges ausgeführtere Szene:</p>
                   </div>
-                  <div>
-                     <p> Szene X. Apotheke. </p>
-                     <p> Personen:</p>
+                  <div type="chapter">
+                     <head> Szene X. Apotheke. </head>
+                     <l> Personen:</l>
                      <l>Ein Kolben mit Mandelmilchsyrup.</l>
                      <l>Eine junge Katze.</l>
                      <l>Ein junger Apotheker.</l>
@@ -1551,7 +1542,7 @@
                </div>
 
             </div>
-            <div>
+            <div type="chapter">
                <p>Hier brach das Fragment mit einem wilden Fahrstriche der Feder ab, die dann wie
                   toll in kratzigen, borstigen Linien auf dem Papier umhergewüthet haben, hierauf
                   etliche Male senkrecht aufgestaucht worden sein mußte; dieß bewiesen starke, von
@@ -2067,8 +2058,8 @@
                   und ihn reicher beschenkt, als er versprochen hatte.</p>
                <pb n="[109]" facs="#"/>
             </div>
-            <div>
-               <p> Tagebuch . </p>
+            <div type="chapter">
+               <head> Tagebuch . </head>
                <pb n="[110]" facs="#"/>
                <pb n="[111]" facs="#"/>
                <p> Also ein Amt! Kann wirken! Recht! Frisch dran! Viel zu ordnen! Will drein fahren!
@@ -7538,8 +7529,7 @@
                   die Tage der Schlachten jenes Sommers sind noch eingetragen, zuletzt der
                   Entscheidungstag von Sedan.</p>
             </div>
-         </div>
+         
       </body>
-      <back/>
    </text>
 </TEI>

@@ -4,7 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>Ardistan und Dschinnistan II</title>
-            <author ref="http://d-nb.info/gnd/pnd:118818651">May, Karl</author>
+            <author ref="http://d-nb.info/gnd/118818651">May, Karl (1842-1912)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>
@@ -44,16 +44,11 @@
          <change when="2019-01-28">Conversion from Kallimachos Kernkorpus</change>
       </revisionDesc>
    </teiHeader>
-
    <text>
-      <front/>
       <body>
-         <div>
             <div type="chapter">
                <head>Erstes Kapitel</head>
                <!--milestone line-->
-            </div>
-            <div type="chapter">
                <head>Mit der Natur im Bunde</head>
                <p>Als wir die Offiziere der Dschunub überholt hatten, befanden wir uns bereits im
                   geologischen Gebiete der Landenge. Der Sand wechselte mit festem Gestein.
@@ -2125,13 +2120,10 @@
                   nach – – Dschinnistan – – –!«</p>
                <pb facs="#"/>
             </div>
-         </div>
-         <div>
+         
             <div type="chapter">
                <head>Zweites Kapitel</head>
                <!--milestone line-->
-            </div>
-            <div type="chapter">
                <head>In der Höhle des Löwen</head>
                <p>Es war etwas über zwei Monate später. Dschunubistan hatte sich fügen müssen. Der
                   Dschirbani stand mit seinem stark vermehrten Heere nun an der Grenze von
@@ -3671,13 +3663,10 @@
                   –</p>
                <pb facs="#"/>
             </div>
-         </div>
-         <div>
+         
             <div type="chapter">
                <head>Drittes Kapitel</head>
                <!--milestone line-->
-            </div>
-            <div type="chapter">
                <head>Weihnacht</head>
                <p>Während wir jetzt nun weiterritten, hörten wir den Mir einige Male halblaut vor
                   sich hinlachen. Er war wohl bei guter Laune. Er freute sich über die Art und
@@ -5253,13 +5242,10 @@
                <p>Dann ging er hinaus. – –</p>
                <pb facs="#"/>
             </div>
-         </div>
-         <div>
+         
             <div type="chapter">
                <head>Viertes Kapitel</head>
                <!--milestone line-->
-            </div>
-            <div type="chapter">
                <head>Nach der »Stadt der Toten«</head>
                <p>Die Wirkung unserer Weihnachtsfeier war eine gewaltige. Wer da war, wollte nicht
                   wieder fort. Die Menschheit, die in und um Ard lagerte, vermehrte sich von Tag zu
@@ -9410,13 +9396,10 @@
                   –</p>
                <pb facs="#"/>
             </div>
-         </div>
-         <div>
+         
             <div type="chapter">
                <head>Fünftes Kapitel</head>
                <!--milestone line-->
-            </div>
-            <div type="chapter">
                <head>Wieder frei</head>
                <p>Als ich hinunterkam, war Halef mit der Zubereitung des Essens nach lange nicht
                   fertig. Er nahm sich heute Zeit. Dieses Abendmahl sollte eine kulinarische
@@ -10954,13 +10937,10 @@
                   um die, denen wir entgegenritten, so bald wie möglich zu erreichen. – – –</p>
                <pb facs="#"/>
             </div>
-         </div>
-         <div>
+         
             <div type="chapter">
                <head>Sechstes Kapitel</head>
                <!--milestone line-->
-            </div>
-            <div type="chapter">
                <head>Gegenzüge</head>
                <p>Am Abend dieses Tages ging es am Maha-Lama-See ganz anders her, als in der früher
                   und auch noch jüngst verflossenen Zeit. Der Herr von Ardistan hatte seine Residenz
@@ -12319,13 +12299,10 @@
                   erfüllte: Er war wieder da – wieder da! – – –</p>
                <pb facs="#"/>
             </div>
-         </div>
-         <div>
+         
             <div type="chapter">
                <head>Siebentes Kapitel</head>
                <!--milestone line-->
-            </div>
-            <div type="chapter">
                <head>Die Schlacht am Dschebel Allah</head>
                <p>Der Einzug des Mir war vorüber. Nichts, aber auch gar nichts hatte ihn gestört,
                   obwohl wir wenigstens auf sporadische Ausdrücke oder Ausbrüche der Unzufriedenheit
@@ -14142,13 +14119,10 @@
                   hierauf im fliegenden Galopp. – – –</p>
                <pb facs="#"/>
             </div>
-         </div>
-         <div>
+         
             <div type="chapter">
                <head>Achtes Kapitel</head>
                <!--milestone line-->
-            </div>
-            <div type="chapter">
                <head>Nach der Grenze empor</head>
                <p>Man denke sich El Hadd als ein immerwährend ansteigendes Bergland, welches im
                   Süden an Ardistan im weiteren Sinne und im Norden an Dschinnistan stößt. Früher
@@ -15415,7 +15389,7 @@
                   Pässe der Weg nach Dschinnistan führte, und unsrem hohen, weiteren Ziele zu. – –
                   –</p>
             </div>
-         </div>
+         
       </body>
    </text>
 </TEI>

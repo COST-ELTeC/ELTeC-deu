@@ -4,7 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>Meister Timpe</title>
-            <author ref="http://d-nb.info/gnd/118715917">Kretzer, Max</author>
+            <author ref="http://d-nb.info/gnd/118715917">Kretzer, Max (1854-1941)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>
@@ -46,7 +46,7 @@
    </teiHeader>
 
    <text>
-      <front/>
+      
       <body>
          <pb n="[1]" facs="#"/>
          <div type="chapter">
@@ -6897,41 +6897,5 @@
             <p> Ende. </p>
          </div>
       </body>
-      <back>
-         <div type="copyright">
-            <p>Berlin, Druck von W. Büxenstein.</p>
-         </div>
-         <div type="advertisement">
-            <head> Hervorragende Novität. </head>
-            <p>In demselben Verlage erschien soeben:</p>
-            <p> Fedor Dostojewski </p>
-            <p> Der Hahnrei </p>
-            <p>Ein Psychologischer Roman.</p>
-            <p> Eleg. geh. Mk. 3,50 , eleg. geb. Mk. 4,50. </p>
-            <p>„Der Hahnrei“ ist eins der reifsten Produkte aus der Feder des großen russischen
-               Romanciers. Der Typus des hintergangenen Gatten ist kaum jemals in packenderer,
-               psychologisch feinerer Weise gezeichnet worden. Der Roman zeichnet sich durch eine,
-               bei aller Tiefe der Darstellung von Kapitel zu Kapitel wachsende Spannung aus.</p>
-         </div>
-         <div type="advertisement">
-            <p> In demselben Verlage erschienen soeben:</p>
-            <p> Henrik Ibsen, Kaiser und Galiläer. </p>
-            <p>Weltgeschichtliches Schauspiel in 2 Theilen Mk. 3,00.</p>
-            <p> Mit einem Portrait des Dichters und einer biographischen Skizze von Otto Brahm. </p>
-            <p> Henrik Ibsen, Rosmersholm. </p>
-            <p>Schauspiel in 4 Akten „ 1,00.</p>
-            <p> Henrik Ibsen, Die Wildente. </p>
-            <p>Schauspiel in 5 Akten „ 1,00.</p>
-            <p> Emilie Zola, Therese Raquin. </p>
-            <p>Drama in 4 Akten „ 1,00.</p>
-            <p> Emilie Zola, Ren é e. </p>
-            <p>Drama in 5 Akten „ 1,00.</p>
-            <p> Tolstoi, Graf Leo, Die Macht der Finsterniß. </p>
-            <p>Drama in 5 Akten „ 1,00.</p>
-         </div>
-         <div type="copyright">
-            <p>Berlin, Druck von W. Büxenstein</p>
-         </div>
-      </back>
    </text>
 </TEI>

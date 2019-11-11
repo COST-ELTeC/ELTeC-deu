@@ -4,7 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>Witiko</title>
-            <author ref="http://d-nb.info/gnd/pnd:118618156">Stifter, Adalbert</author>
+            <author ref="http://d-nb.info/gnd/118618156">Stifter, Adalbert (1805-1868)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>
@@ -46,10 +46,10 @@
    </teiHeader>
 
    <text>
-      <front/>
+      
       <body>
-         <div/>
-         <div>
+         
+         <div type="chapter">
             <head>
                <pb facs="#"/> Vorwort</head>
             <p>In meiner Kindheit traten mir schon öfter Spuren eines Geschlechtes entgegen, das im
@@ -71,7 +71,7 @@
             <p>Linz, im Christmonate 1864. </p>
             <p>Adalbert Stifter</p>
          </div>
-         <div>
+         <div type="chapter">
             <head>Erster Band</head>
             <div type="chapter">
                <head>1</head>
@@ -7909,7 +7909,7 @@
                <p>Und noch in der Dunkelheit setzte sich der Zug nach Prag in Bewegung.</p>
             </div>
          </div>
-         <div>
+         <div type="chapter">
             <head>Zweiter Band</head>
             <div type="chapter">
                <head>1</head>
@@ -16315,7 +16315,7 @@
                   Veste Znaim vorwärts.</p>
             </div>
          </div>
-         <div>
+         <div type="chapter">
             <head>Dritter Band</head>
             <div type="chapter">
                <head>1</head>

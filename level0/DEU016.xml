@@ -4,7 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>Die Regulatoren in Arkansas. Aus dem Waldleben Amerikas</title>
-            <author ref="http://d-nb.info/gnd/pnd:118538810">Gerstäcker, Friedrich</author>
+            <author ref="http://d-nb.info/gnd/118538810">Gerstäcker, Friedrich (1816-1872)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>
@@ -46,7 +46,7 @@
    </teiHeader>
 
    <text>
-      <front/>
+      
       <body>
          <div type="chapter">
             <head>
@@ -109,7 +109,6 @@
                Uebrigen aussöhnen mögen.</p>
          </div>
          <div type="chapter">
-            <div>
                <head>
                   <pb facs="#"/> 1.</head>
                <head>Der Leser macht die Bekanntschaft von vier würdigen Leuten und erfährt etwas
@@ -680,7 +679,7 @@
                   sich hoch auf, strich die vorgefallenen Haare aus der Stirn, warf noch einen
                   prüfenden Blick umher und verschwand auf der entgegengesetzten Seite von da, wo er
                   den Platz zuerst betreten hatte, im Dickicht.</p>
-            </div>
+            
          </div>
          <div type="chapter">
             <head>
@@ -989,7 +988,6 @@
                Mannes einen großten Vorsprung gewonnen hatte.</p>
          </div>
          <div type="chapter">
-            <div>
                <head>3.</head>
                <head>Der Indianer und der Methodist. – Die Einladung zur Hochzeit.</head>
                <p>Assowaum, der befiederte Pfeil, gehörte zu einem der nördlichen Stämme Missouris
@@ -1433,7 +1431,7 @@
                <p>Der alte Mann öffnete schnell die Pforte, und Brown folgte ihm hinaus, die Reiter
                   zu begrüßen, die jetzt in kurzem Trab den breiten Weg zwischen den Feldern von
                   westwärts herkamen.</p>
-            </div>
+            
          </div>
          <div type="chapter">
             <head>
@@ -1729,7 +1727,6 @@
                werden wir denn schwerlich wieder zusammenkommen.«</p>
          </div>
          <div type="chapter">
-            <div>
                <head>5.</head>
                <head>Brown und Marion.</head>
                <p>Rowson war fortgeritten, um, wie er sagte, »das Wort des Herrn in einer andern
@@ -2142,10 +2139,9 @@
                   sie endlich ihr Lager suchte, netzte sie mit unzähligen Thränen das schneeweiße
                   Kissen und schlief, wie ein vom Weinen ermüdetes Kind, mit gefalteten Händen und
                   den Namen des theuern Mannes auf den Lippen, ein.</p>
-            </div>
+            
          </div>
          <div type="chapter">
-            <div>
                <head>
                   <pb facs="#"/> 6.</head>
                <head>Die Bärenhetze. – Der sonderbare Fund. – Des Indianers Scharfsinn.</head>
@@ -2627,10 +2623,9 @@
                      völliger<pb facs="#"/> Dunkelheit die Fuhrt des Petite-Jeanne, an dessen
                   anderem Ufer die kleine Hütte des alten Bahrens stand, der den nicht gerade
                   ehrenhaften Beinamen »Lügen-Bahrens« in der Nachbarschaft trug.</p>
-            </div>
+            
          </div>
          <div type="chapter">
-            <div>
                <head>
                   <pb facs="#"/> 7.</head>
                <head>Zwei ächte Backwoodsmen. – Bahren's und Harper's Erzählungen.</head>
@@ -3054,10 +3049,9 @@
                   aufsprang und mit wildem Fluchen sämtliche Hunde hinaustrieb. Diese hatten sich
                   nämlich, einer nach dem andern, hereingeschlichen und sich auf und neben die am
                   Boden ausgestreckten Jäger gelagert.</p>
-            </div>
+            
          </div>
          <div type="chapter">
-            <div>
                <head>
                   <pb facs="#"/> 8.</head>
                <head>Der Morgen in der Blockhütte. – Das Aufsuchen der am vorigen Abend gefundenen
@@ -3379,10 +3373,9 @@
                   überzeugt hatte, daß nichts seiner Aufmerksamkeit entgangen war, die Büchse und
                   drang in einer der, welche die Jäger eingeschlagen, entgegengesetzten Richtung in
                   den dichten Wald.</p>
-            </div>
+            
          </div>
          <div type="chapter">
-            <div>
                <head>
                   <pb facs="#"/> 9.</head>
                <head>Das vierblätterige Kleeblatt verhandelt eine Geschäftssache. – Rowson's
@@ -3629,10 +3622,9 @@
                   geschehen sein wird, ist die Hochzeit. – Sei mein gutes Kind, wie Du es immer
                   gewesen bist, und Du wirst so glücklich werden, wie Du es verdienst.« Marion lag
                   an der Mutter Halfe und schluchzte laut.</p>
-            </div>
+            
          </div>
          <div type="chapter">
-            <div>
                <head>
                   <pb facs="#"/> 10.</head>
                <head>Die Sheriffswahl in Pettyville. – Die Verfolger sind auf den Fährten.</head>
@@ -4168,7 +4160,7 @@
                   durchdringender Staubregen fing an niederzufallen. Wenn er aber auch nach und nach
                   die Kleider der Männer durchnäßte, vertilgte er doch bis jetzt noch nicht die
                   Spuren.</p>
-            </div>
+            
          </div>
          <div type="chapter">
             <head>
@@ -4466,7 +4458,6 @@
                die Hüte zum Zeichen des glücklichen Gelingens hinüber nach den Kameraden.</p>
          </div>
          <div type="chapter">
-            <div>
                <head>
                   <pb facs="#"/> 12.</head>
                <head>List der Pferdediebe. – Die Ueberraschung. – Alapaha und Rowson.</head>
@@ -4735,7 +4726,7 @@
                   lockeren Kiesel hinweg, und wenige Secunden darauf glitten die Boote mit den
                   schnaubenden und keuchenden Pferden hinein in die auf dem Wasser lagernde
                   Dunkelheit.</p>
-            </div>
+            
          </div>
          <div type="chapter">
             <head>
@@ -6224,7 +6215,6 @@
                entfernten Wohnung Harper's zu.</p>
          </div>
          <div type="chapter">
-            <div>
                <head>
                   <pb facs="#"/> 17.</head>
                <head>Das Begräbniß der Indianerin.</head>
@@ -6463,7 +6453,7 @@
                   Stimm' im Grabe.Unten – untenDeine leisen – leisen Klagen,Und sie rufenMahnend auf
                   zur Rache. – Lieb', ich folge!«</p>
 
-            </div>
+            
          </div>
          <div type="chapter">
             <head>
@@ -9196,7 +9186,6 @@
                Frauen nicht länger warten zu lassen.</p>
          </div>
          <div type="chapter">
-            <div>
                <head>26.</head>
                <head>Die Regulatorenversammlung. – Jones befindet sich in einer höchst unangenehmen
                   Lage. – List gegen List.</head>
@@ -9711,7 +9700,7 @@
                   gemeinschaftlich, theils ihren Plan für den Abend zu bereden, theils der Ruhe zu
                   pflegen und mit Sonnenuntergang zu neuen Anstrengungen gestärkt und gekräftigt zu
                   sein.</p>
-            </div>
+            
          </div>
          <div type="chapter">
             <head>
@@ -12139,7 +12128,6 @@
                Schlachtschrei der Odjibewas höre.«</p>
          </div>
          <div type="chapter">
-            <div>
                <head>35.</head>
                <head>List und Gegenlist. – Der Ueberfall – Indianer und Methodist.</head>
                <p>»Spart Eure Kugeln!« sagte Cotton ärgerlich, als Rowson auf den
@@ -12676,7 +12664,7 @@
                   sie, wie Assowaum erst ängstlich zu seinem Opfer niederschaute, sich jedoch gleich
                   darauf wieder mit triumphirendem Blick aufrichtete und schnell, wie von keiner
                   Last beschwert, weiter schritt. – Der Methodist lebte noch.</p>
-            </div>
+            
          </div>
          <div type="chapter">
             <head>
@@ -13125,7 +13113,6 @@
                regungslos haltenden Thiere – unter seinem Galgen.</p>
          </div>
          <div type="chapter">
-            <div>
                <head>37.</head>
                <head>Roberts' Haus.</head>
                <p>Stille Trauer herrschte indessen, während auf dem Felshügel des Fourche la fave
@@ -13285,7 +13272,7 @@
                <p>In diesem Augenblick sprengten die beiden Männer heran, warfen sich von den
                   Pferden, übersprangen die Fenz und begrüßten mit herzlichem Wort und Händedruck
                   die Freunde.</p>
-            </div>
+            
          </div>
          <div type="chapter">
             <head>

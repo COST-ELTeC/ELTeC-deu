@@ -4,7 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>Adam Mensch</title>
-            <author ref="http://d-nb.info/gnd/pnd:118669923">Conradi, Hermann</author>
+            <author ref="http://d-nb.info/gnd/118669923">Conradi, Hermann (1862-1890)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>
@@ -36,7 +36,7 @@
          <textDesc>
             <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
             <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
-            <canonicity xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
+            <canonicity xmlns="http://distantreading.net/eltec/ns" key="medium"/>
             <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
          </textDesc>
       </profileDesc>
@@ -46,7 +46,7 @@
    </teiHeader>
 
    <text>
-      <front/>
+      
       <body>
          <div type="chapter"/>
          <div type="chapter">

@@ -4,7 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>Die Günderode</title>
-            <author ref="http://d-nb.info/gnd/pnd:118504185">Arnim, Bettina von</author>
+            <author ref="http://d-nb.info/gnd/118504185">Arnim, Bettina von (1785-1859)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>
@@ -46,9 +46,9 @@
    </teiHeader>
 
    <text>
-      <front/>
+      
       <body>
-         <div>
+         <div type="chapter">
             <head>
                <pb facs="#"/> Den Studenten</head>
             <p>Die Ihr gleich goldnen Blumen auf zertretnem Feld wieder aufsprosset zuerst! In
@@ -91,7 +91,7 @@
             <pb facs="#"/>
             <pb facs="#"/>
          </div>
-         <div>
+         <div type="chapter">
             <head>
                <pb facs="#"/>
                <pb facs="#"/>Erster Teil</head>
@@ -99,7 +99,7 @@
 
             <pb facs="#"/>
             <pb facs="#"/>
-            <div>
+            <div type="chapter">
                <head>An die Günderode</head>
                <p>Der Plaudergeist in meiner Brust hat immerfort geschwätzt mit Dir, durch den
                   ganzen holperigen Wald bis auf den Trages, wo alles schon schlief, sie wachten auf
@@ -153,7 +153,7 @@
                <p> Bettine </p>
 
             </div>
-            <div>
+            <div type="chapter">
                <head>An die Bettine</head>
                <p>Ich habe die Zeit über recht oft an Dich gedacht, liebe Bettine. Vor einigen
                   Nächten träumte mir, Du seist gestorben, ich weinte sehr darüber und hatte den
@@ -187,7 +187,7 @@
                   Briefe, ich wollt, ich könnt das lernen.</p>
 
             </div>
-            <div>
+            <div type="chapter">
                <head>Die Manen</head>
                <p>SCHÜLER. Weiser Meister! Ich war in den Katakomben der Schwedenkönige, ich nahte
                   mich dem Sarg des Gustav Adolf mit sonderbarem schmerzlichem Gefühl, seine Taten
@@ -289,7 +289,7 @@
                   machen.</p>
 
             </div>
-            <div>
+            <div type="chapter">
                <head>An die Günderode</head>
                <p>Du weißt, daß der Bostel hier ist, – der läuft mir immer nach und sagt: »Bettine,
                   warum sind Sie so unliebenswürdig?« – Ich frag: »Wie soll ich's machen, um
@@ -408,7 +408,7 @@
                <p> Bettine </p>
 
             </div>
-            <div>
+            <div type="chapter">
                <head>An die Bettine</head>
                <p>Es kömmt mir bald zu närrisch vor, liebe Bettine, daß Du Dich so feierlich für
                   meinen Schüler erklärst, ebenso könnte ich mich für den Deinen halten wollen, doch
@@ -498,7 +498,7 @@
                <l>Wenn Du Muße findest, so schreib bald wieder.</l>
 
             </div>
-            <div>
+            <div type="chapter">
                <head>Beilage zum Brief der Günderode</head>
                <!--milestone head_start-->
                <p>(Ein apokalyptisches Fragment)</p>
@@ -572,7 +572,7 @@
                   und ist Zeit und Ewigkeit zugleich und sichtbar und unsichtbar, bleibend im
                   Wandel, ein unendliches Leben.</p>
             </div>
-            <div>
+            <div type="chapter">
                <head>An die Günderode</head>
                <p>Wie wir hier leben, das will ich Dir erzählen. Morgens kommen wir alle im
                   Schlafzimmer von Savignys zusammen. Da wird gegalert und als ein bißchen Krieg mit
@@ -750,7 +750,7 @@
                <p> Bettine </p>
 
             </div>
-            <div>
+            <div type="chapter">
                <head>Beilage zum Brief der Bettine</head>
                <!--milestone head_start-->
                <p>Der Aufsatz, der im Hemsterhuis lag</p>
@@ -811,7 +811,7 @@
                   aus dieser Zeit und steigt in der Vernunft zur Ewigkeit, und der Mensch wird durch
                   die Vernunft aus einem Irdischen ein Himmlisches.</p>
             </div>
-            <div>
+            <div type="chapter">
                <head>
                   <pb facs="#"/> An die Bettine</head>
                <!--milestone head_start-->
@@ -902,7 +902,7 @@
                <p> Karoline </p>
 
             </div>
-            <div>
+            <div type="chapter">
                <head>Beilage zum Brief der Günderode</head>
                <head>Wandel und Treue</head>
                <head>Violetta</head>
@@ -913,7 +913,7 @@
 
 
             </div>
-            <div>
+            <div type="chapter">
                <head>Narziß</head>
 
                <l>Es hat Natur mich also lieben lehren:</l>
@@ -922,7 +922,7 @@
 
 
             </div>
-            <div>
+            <div type="chapter">
                <head>Violetta</head>
 
                <l>So ist dein Lieben wie dein Leben, wandern!</l>
@@ -932,7 +932,7 @@
 
 
             </div>
-            <div>
+            <div type="chapter">
                <head>Narziß</head>
 
                <l>In höh'rem Reiz Betrachtung dann versinket</l>
@@ -940,7 +940,7 @@
 
 
             </div>
-            <div>
+            <div type="chapter">
                <head>Violetta</head>
 
                <l>Und traurig wird die Blume dann vergehen,</l>
@@ -948,7 +948,7 @@
 
 
             </div>
-            <div>
+            <div type="chapter">
                <head>Narziß</head>
 
                <l>O nein! Es hat die Sonne sie geküßt.</l>
@@ -964,14 +964,14 @@
 
 
             </div>
-            <div>
+            <div type="chapter">
                <head>Violetta</head>
 
                <l>Was ist denn Liebe, hat sie kein Bestehen?</l>
 
 
             </div>
-            <div>
+            <div type="chapter">
                <head>
                   <pb facs="#"/> Narziß</head>
 
@@ -983,7 +983,7 @@
 
 
             </div>
-            <div>
+            <div type="chapter">
                <head>Violetta</head>
 
                <l>So will ich deine Lieb als Gast empfangen;</l>
@@ -992,7 +992,7 @@
 
 
             </div>
-            <div>
+            <div type="chapter">
                <head>Narziß</head>
 
                <l>O sieh den Frühling! Gleicht er nicht der Liebe?</l>
@@ -1007,14 +1007,14 @@
 
 
             </div>
-            <div>
+            <div type="chapter">
                <head>Violetta</head>
 
                <l>Hast du die heil'ge Treue nie gekennet?</l>
 
 
             </div>
-            <div>
+            <div type="chapter">
                <head>Narziß</head>
 
                <l>Mir ist nicht Treue, was ihr also nennet,</l>
@@ -1031,14 +1031,14 @@
 
 
             </div>
-            <div>
+            <div type="chapter">
                <head>Violetta</head>
 
                <l>Gibt's keine Liebe denn, die dich bezwinge?</l>
 
 
             </div>
-            <div>
+            <div type="chapter">
                <head>Narziß</head>
 
                <l>Ich liebe Menschen nicht und nicht die Dinge,</l>
@@ -1064,7 +1064,7 @@
 
 
             </div>
-            <div>
+            <div type="chapter">
                <head>An die Günderode</head>
                <p>Den ersten Tag, als wir ankamen, war's so heiß, daß es mehr wie unerträglich war;
                   wir warfen unsere Nankingreisejacken aus und legten uns in den Unterkleidern, in
@@ -1752,7 +1752,7 @@
                <p> Bettine </p>
 
             </div>
-            <div>
+            <div type="chapter">
                <head>Beilage zum Brief an die Günderode</head>
                <head>Immortalita</head>
                <head>Personen</head>
@@ -1854,7 +1854,7 @@
                   daß ihr noch lebt nach eurem Leben, ist ihr Werk.</p>
 
             </div>
-            <div>
+            <div type="chapter">
                <head>Chor der Schatten</head>
 
                <l>Stille führet uns der Nachen</l>
@@ -1869,7 +1869,7 @@
                <p> Sie fahren weg. </p>
 
             </div>
-            <div>
+            <div type="chapter">
                <head>Die vorige Szene</head>
                <!--milestone head_start-->
                <p> Charons Nachen landend. Erodion springt ans Ufer. Immortalita im Hintergrund. </p>
@@ -1982,7 +1982,7 @@
                   Unsterblichkeit zu leben, das Sichtbare dem Unsichtbaren zu opfern Mut hatte.</p>
 
             </div>
-            <div>
+            <div type="chapter">
                <head>Von der Hand des Herzogs Emil August von Gotha auf das Manuskript der
                   Immortalita geschrieben.</head>
                <p>Es ist eine Kleinigkeit, die deiner Aufmerksamkeit nicht wert ist, daß ich es ein
@@ -2003,7 +2003,7 @@
                <p> Emil August </p>
 
             </div>
-            <div>
+            <div type="chapter">
                <head>An die Bettine</head>
                <p>Dein Brief, liebe Bettine, ist wie der Eingang zu einem lieblichen Roman, ich habe
                   ihn genippt wie den Becher des Lyäus, der ein Sorgenbrecher ist, es tat mir auch
@@ -2129,7 +2129,7 @@
                   kleinen Paradiesgarten, in dem alles so schön ist und kein Baum, von dem man die
                   Äpfel nicht essen darf.</p>
             </div>
-            <div>
+            <div type="chapter">
                <head>An die Günderode</head>
                <p>Mit der einen Hand hab ich meinen Brief dem Bot' gereicht, mit der andern Deinen
                   genommen, wir kamen eben von unserm Sonnenaufgang zurück, so sah ich den Bot'
@@ -2894,7 +2894,7 @@
                   Natur nahen und still und stumm ihre Vorbereitungen mit ansehen und wie sie weiht
                   und reinigt in feierlicher Nachtstille.</p>
             </div>
-            <div>
+            <div type="chapter">
                <head>An die Günderode</head>
                <!--milestone head_start-->
                <p>Offenbach, Mai 1805</p>
@@ -2969,7 +2969,7 @@
                   aber's Lüftchen, das nach ihm sucht im Gebüsch, kehrt wieder und hat ihn nicht
                   gefunden und schweigt und regt sich nicht mehr, so muß ich auch stumm sein.</p>
             </div>
-            <div>
+            <div type="chapter">
                <head>An die Bettine</head>
                <p>Dein Brief macht mir Freude, es ist ein gesundes, munteres Leben darin, das ich
                   immer lieb in Dir gehabt habe. Du führst eine Sprache, die man Stil nennen könnte,
@@ -2993,7 +2993,7 @@
                <p> Karoline </p>
 
             </div>
-            <div>
+            <div type="chapter">
                <head>An die Günderode</head>
                <p>Geld liegt im Pult am großen Spiegel, in der dritten Schublad links, in den andern
                   Schubladen liegt aber auch vielleicht noch, zieh alle Schubladen ganz heraus, ob
@@ -3170,7 +3170,7 @@
                   Unverstand loszuwinden.</p>
                <pb facs="#"/>
             </div>
-            <div>
+            <div type="chapter">
                <head>An die Bettine</head>
                <p>Halte doch noch eine Weile aus mit Deinem Geschichtslehrer; daß er Dir möglichst
                   kurz die Physiognomien der Völkerschaften umschreibt, ist ganz wesentlich. Du
@@ -3283,7 +3283,7 @@
                <p> Karoline </p>
 
             </div>
-            <div>
+            <div type="chapter">
                <head>An die Günderode</head>
                <p>Du strahlst mich an mit Deinem Geist, Du Muse, und kommst, wo ich am Weg sitze,
                   und streust mir Salz auf mein trocken Brot. – Ich hab Dich lieb! Pfeif in der
@@ -3493,7 +3493,7 @@
                   wieder mich auf die Bank setzen vor die Hoftür, es ist Vollmond, geht gleich auf,
                   ich will ihn steigen sehen. Gute Nacht.</p>
             </div>
-            <div>
+            <div type="chapter">
                <head>An die Bettine</head>
                <p>Dein buntes Füllhorn fröhlicher Verschwendung erlöst mich vom Übel. – Gedanken
                   sind mir oft lästig in der Nacht, die mir am Tage einen trüben Nachklang geben, so
@@ -3562,7 +3562,7 @@
                <p> Karoline </p>
 
             </div>
-            <div>
+            <div type="chapter">
                <head>An die Günderode</head>
                <p>Drei Uhr morgens! – Hier bin ich – auf der Terrasse am Main, ich wollt als immer
                   einmal hergehn in der Früh, wenn der Tag noch nicht auf den Beinen ist und Lärm
@@ -3706,7 +3706,7 @@
                   muß ich immer das Gewaltsposaunenregister mit Gewalt mit der sanften vox humana
                   unterdrücken.</p>
             </div>
-            <div>
+            <div type="chapter">
                <head>An die Bettine</head>
                <p>Mit dem Clemens versteh ich Dich, oder ahne doch wie es zusammenhängt, ich hab
                   auch gar nicht die Idee, daß es anders sein solle, nur über das, was er von Dir
@@ -3815,7 +3815,7 @@
                   Clair liebt Dich, die Lotte meinte, Du habest letzt auf der Gerbermühl eine so
                   lange Unterhaltung heimlich mit ihm gepflogen.</p>
             </div>
-            <div>
+            <div type="chapter">
                <head>An die Günderode</head>
                <p>Vor ein paar Jahren wohnte hier nebenan in dem jetzt leerstehenden Haus ein Mann,
                   der war aus der Fremde gekommen, ich glaub, es war die Schweiz, der tat Wunder mit
@@ -4133,7 +4133,7 @@
                   hättest Du an mir, wenn ich nicht lernte Dir meine Seele geben, nackt und bloß.
                   Freundschaft! Das ist Umgang der Geister, nackt und bloß. –</p>
             </div>
-            <div>
+            <div type="chapter">
                <head>An die Bettine</head>
                <p>Liebe Bettine! – Du drückst mir die Schreibefinger zusammen, daß ich kaum atme,
                   noch weniger aber es wage zu denken, denn aus Furcht, ich könne willkürliche
@@ -4292,7 +4292,7 @@
                   er nahm, ohne ein Wort zu sagen, seinen Hut und ging, und ich sah, daß ihm die
                   Tränen in den Augen standen, Deinem Ritter.</p>
             </div>
-            <div>
+            <div type="chapter">
                <head>An Clemens</head>
 
                <l>Die Hirten lagen auf der Erde</l>
@@ -4326,7 +4326,7 @@
 
 
             </div>
-            <div>
+            <div type="chapter">
                <head>An die Günderode</head>
                <p>Ich hab mir's nicht gedacht, daß ich so sein könnt in diesen schönen Tagen. In
                   Deinem Brief, Zeile für Zeile, lese ich nichts Trauriges und doch macht er mich
@@ -4440,7 +4440,7 @@
                   wieder wohl wird – ein Sein mit Gott – Dein Mahomet hat's mit ein paar Ritt in den
                   Himmel auch zuwege gebracht. – Ein bißchen Spazierenreiten in den Himmel.</p>
             </div>
-            <div>
+            <div type="chapter">
                <head>An die Günderode</head>
                <p>Gestern hab ich vergessen Dir zu schreiben, daß ich Dein Gedicht an den Clemens
                   geschickt hab nach Marburg, ich hab mir's aber erst abgeschrieben, ich wollt Dir
@@ -4556,7 +4556,7 @@
                   Mittel seiner Zwecke macht, wie die alt Nonn in Fritzlar. Siehst Du den St. Clair?
                   – Grüß ihn.</p>
             </div>
-            <div>
+            <div type="chapter">
                <head>An die Bettine</head>
                <p>Oder am besten können wir sagen: Denken ist Beten, damit ist gleich was Gutes
                   ausgerichtet, wir gewinnen Zeit, das Denken mit dem Beten, und das Beten mit dem
@@ -4647,7 +4647,7 @@
                <p> Karoline </p>
 
             </div>
-            <div>
+            <div type="chapter">
                <head>An die Günderode</head>
                <p>Ach lasse doch ja nicht zur Ader, aus tausend Gründen, denn (vielleicht): wenn
                   einer nur einmal zur Ader gelassen hat, so kann er kein Soldat mehr sein, kein
@@ -4809,7 +4809,7 @@
                   gestellt, es erholt sich. – Ich bin so dumm, ich schreib so einfältig Zeug – der
                   arme Gärtner. –</p>
             </div>
-            <div>
+            <div type="chapter">
                <head>An die Günderode</head>
                <p>Der Jud kommt heut um fünf Uhr und sagt, er hatt den Brief heut morgen im Stift
                   abgegeben und hat nichts von Dir gehört, der ungeheure Esel mußte heute wie ein
@@ -5102,7 +5102,7 @@
                   – Gute Nacht – das ist der vierte Tag, wo ich nichts von Dir weiß, jetzt, wenn
                   morgen kein Brief kommt, so frag Dich doch selber, was ich dann denken soll. –</p>
             </div>
-            <div>
+            <div type="chapter">
                <head>An die Bettine</head>
                <p>Gestern abend kam ich von Hanau, wo ich drei Tage in prosaischen
                   Geschäftsaufträgen verbrachte. Deine zwei Briefe lagen auf meinem Kopfkissen, und
@@ -5164,7 +5164,7 @@
                   Aschenkraut aufsetzest, das muß gar gut stehen, der Moritz will Dir einen Strauß
                   schicken. Heut haben wir Samstag, am Mittwoch also, wenn Du nicht abschreibst.</p>
             </div>
-            <div>
+            <div type="chapter">
                <head>An die Günderode</head>
                <p>Ich schreib nicht den Ball ab, ich freu mich recht drauf, ich bin jetzt schon vier
                   Wochen recht vergnügt hier und will auch durchaus noch bei der Großmama bleiben,
@@ -5859,7 +5859,7 @@
                   Augen still bewahren wolle. – Der St. Clair ist wieder zurück, hat mir die Tonie
                   gesagt. War er bei Dir? – Was hat er vom Hölderlin erzählt? –</p>
             </div>
-            <div>
+            <div type="chapter">
                <head>An die Bettine</head>
                <p>Der St. Clair war bei mir, er kam von Mainz, heut erst geht er nach Homburg,
                   bleibt acht Tage oder länger dort, wenn er zurückkommt, das wird am Sonntag sein,
@@ -5894,7 +5894,7 @@
                   gedrückt, wenn ich mein Verstummen konnt erklingen lassen.</p>
 
             </div>
-            <div>
+            <div type="chapter">
                <head>Des Wandrers Niederfahrt</head>
                <p>
                   <l> Wandrer </l>
@@ -6205,7 +6205,7 @@
 
 
             </div>
-            <div>
+            <div type="chapter">
                <head>An die Günderode</head>
                <p>Warum Du aufs Landgut grade gehst, wie wir im besten Verkehr sind, das begreif ich
                   nicht, es war schon als hätt ich Wurzel gefaßt in diesem schönen Briefleben, wie
@@ -6385,7 +6385,7 @@
                   wollt ich nicht Leid tun, er hatte schöne feine Hemdärmel und mein Schnupftuch um
                   den Hals geknüpft.</p>
             </div>
-            <div>
+            <div type="chapter">
                <head>An die Günderode nach Würzburg</head>
                <p>Weil ich jetzt weiß, daß Du außer der Welt bist, so hab ich ein ganz ander Leben
                   angefangen, und mein Sinn hat sich ganz geändert. – Ich möcht auch fort in die
@@ -7092,7 +7092,7 @@
                <p> Bettine </p>
 
             </div>
-            <div>
+            <div type="chapter">
                <head>An die Bettine</head>
                <p>Ich habe Deine Briefe erhalten, die Du seit meiner Abreise mir schreibst. Ich muß
                   mich kalt machen, daß Dein Flammen mich nicht angreifen, doch such ich Dir
@@ -7135,7 +7135,7 @@
                   hatte Dein Emigrantenverkehr Einfluß; ich weiß nicht wie.</p>
                <p>Ist St. Clair noch nicht zurückgekehrt? War er bei Dir? –</p>
             </div>
-            <div>
+            <div type="chapter">
                <head>Beilage</head>
                <head>Die Pilger</head>
                <p>
@@ -7352,7 +7352,7 @@
 
                </p>
             </div>
-            <div>
+            <div type="chapter">
                <head>Der Kuß im Traum</head>
 
                <l>Es hat ein Kuß mir Leben eingehaucht,</l>
@@ -7382,7 +7382,7 @@
 
                <pb facs="#"/>
             </div>
-            <div>
+            <div type="chapter">
                <head>An die Günderode</head>
                <p>Schon zehn Tage bist Du fort, alle Tag kommt der Jud mit dem leeren Sack, ich ließ
                   ihn heut den Sack um und um kehren, weil ich dacht, es müsse sich Dein Brief drin
@@ -7624,7 +7624,7 @@
                   in meinen Sinnen, und in mein Denken strömt es Licht. –</p>
                <pb facs="#"/>
             </div>
-            <div>
+            <div type="chapter">
                <head>Anhang</head>
                <head>Gedichte der Günderode</head>
                <!--milestone hi_start-->
@@ -7632,7 +7632,7 @@
                <!--milestone hi_end-->
 
             </div>
-            <div>
+            <div type="chapter">
                <head>Darthula nach Ossian</head>
 
                <l>Nathos schiffet durch den Sturm der Wogen,</l>
@@ -7956,7 +7956,7 @@
                <p>II</p>
 
             </div>
-            <div>
+            <div type="chapter">
                <head>Don Juan</head>
 
                <l>Es ist der Festtag nun erschienen,</l>
@@ -8186,7 +8186,7 @@
                <pb facs="#"/>
             </div>
          </div>
-         <div>
+         <div type="chapter">
             <head>Zweiter Teil</head>
             <pb facs="#"/>
             <pb facs="#"/>
@@ -8200,7 +8200,7 @@
                es auf, selbst wenn jener es nicht in sich ahnt. </p>
             <pb facs="#"/>
             <pb facs="#"/>
-            <div>
+            <div type="chapter">
                <head>Die Günderode im Jahr 4</head>
                <head>Mahomets Traum in der Wüste</head>
 
@@ -8332,7 +8332,7 @@
 
 
             </div>
-            <div>
+            <div type="chapter">
                <head>An die Günderode</head>
                <!--milestone head_start-->
                <p>Frankfurt</p>
@@ -8478,7 +8478,7 @@
                   kann, wo ich zu mir selbst komme; es ist mir so fremd. –</p>
                <p> Bettine </p>
             </div>
-            <div>
+            <div type="chapter">
                <head>An die Bettine</head>
                <p>Liebe Bettine, so wie Dein Brief anfängt mit den tausend Grüßen von Clemens, so
                   beantworte sie ihm doch auch in meinem Namen, es tut mir auch recht leid, daß ich
@@ -8521,7 +8521,7 @@
                   die Sommer und Herbst auseinander donnern. –</p>
 
             </div>
-            <div>
+            <div type="chapter">
                <head>An die Günderode</head>
                <p>Du führst eine heilige Sprache, Du bist heilig, wenn Du sprichst; in Dir fühl ich
                   den Rhythmus, der deinen Geist trägt zu höherer Erkenntnis; – und ich fühl, daß
@@ -8571,14 +8571,14 @@
                   schlafe! Was willst Du mehr? </p>
                <pb facs="#"/>
             </div>
-            <div>
+            <div type="chapter">
                <head>An die Bettine</head>
                <p>Denn; wie auch das Allebendige sich berühre, es entsteigt Wahrheit aus ihm, aus
                   dem chaotischen Wogen und Schwanken entstieg die Welt als Melodie? –</p>
                <p> Caroline </p>
 
             </div>
-            <div>
+            <div type="chapter">
                <head>An die Günderode</head>
                <p>Ja! Und alle Sterne sind Melodien, die im Strom der Harmonie schwimmen,
                   Weltseelen, die den Geist Gottes hervorblühen, Töne, die mit verwandten Tönen
@@ -8588,7 +8588,7 @@
                   Harmonie werden – Poesie Gottes – nehm's nicht zu genau und gib es deutlicher
                   wieder, als ich's sagen kann.</p>
             </div>
-            <div>
+            <div type="chapter">
                <head>An die Bettine</head>
                <p>So wär der Menschengeist durch sein Fassen, Begreifen befähigt, Geistesallheit,
                   Philosophie zu werden, also die Gottheit selbst? – Denn wär Gott unendlich, wenn
@@ -8597,7 +8597,7 @@
                <p> Caroline </p>
 
             </div>
-            <div>
+            <div type="chapter">
                <head>An die Günderode</head>
                <p>Ja! Das beweist die Musik, jeder Ton spricht seinen Akkord aus, jeder Akkord
                   spricht seine Verwandtschaften aus, und durch alle Verwandtschaft strömt der ewig
@@ -8630,7 +8630,7 @@
                <p> Bettine </p>
 
             </div>
-            <div>
+            <div type="chapter">
                <head>An die Bettine</head>
                <p>Du meinst, wenn Du taumelst und ein bißchen trunken bist, das wär
                   unaussprechlicher Geist? – Und Du besäufst Dich aber auch gar zu leicht, – weil Du
@@ -8689,7 +8689,7 @@
                <p>Mit Dir kann ich so sprechen, Du verstehst es, kein andrer wahrscheinlich. – Oder
                   wer müßte das sein? –</p>
             </div>
-            <div>
+            <div type="chapter">
                <head>An die Günderode</head>
                <p>Ich war heut drauß bei der Großmama, sie war allein, den ganzen Nachmittag, und
                   wir sprachen erst von Dir, die Großmama war einen Augenblick beschäftigt, so lief
@@ -8789,7 +8789,7 @@
                   umwandelt. Ich zwar träume den Frühling in deinem Schatten, und mir deucht von
                   Unnennbarem widerhallen zu hören rings die Wälder und die Hügel.</p>
             </div>
-            <div>
+            <div type="chapter">
                <head>An die Günderode</head>
                <p>Ich lese Deinen Brief und schäme mich vor Dir, wie Du so edel und einfach mein
                   verwirrtes Denken zurechtrichtest, und ich kann nicht ans Antworten denken, weil
@@ -8921,7 +8921,7 @@
                <p>Und ich will gern wieder leben mit euch allen, ihr Bäume, die ihr trinkt segnende
                   Ströme vom Himmel und fröhlich wieder säuselt im Wind.</p>
             </div>
-            <div>
+            <div type="chapter">
                <head>An die Günderode</head>
                <p>Heut morgen wach ich auf vom Rufen der Italiener, die Parapluies feiltragen, die
                   wahre Lockstimme für mich, – unwiderstehlich, ich denk gleich, der Italiener mag
@@ -9285,7 +9285,7 @@
                <p>Es ist hier alles beschäftigt mit dem Empfang von Bonaparte, es wird ein großer
                   Triumphbogen erbaut auf dem Rabenstein, wo der Galgen gestanden hat. –</p>
             </div>
-            <div>
+            <div type="chapter">
                <head>An die Bettine</head>
                <p>Was Du von Arenswalds außerordentlichem Heißhunger nach der Natur schreibst, so
                   daß er darüber sich selbst zu speisen vergißt, dauert mich sehr, versäum's nicht,
@@ -9351,7 +9351,7 @@
                <p> Caroline </p>
 
             </div>
-            <div>
+            <div type="chapter">
                <head>An die Günderode</head>
                <p> Buonaparte ist durch und hat seinen Tempel nicht gesehen, der Galgen ist
                   abgeschlagen worden und auf das alte Postament ein Tempel gebaut, ich glaube gar
@@ -9552,7 +9552,7 @@
                   Diwan für uns zurechtpolstern.</p>
                <p> Bettine </p>
             </div>
-            <div>
+            <div type="chapter">
                <head>An die Günderode</head>
                <p>Schon die dritte Woch ist's, und ich hab noch nicht geschrieben und Du auch nicht,
                   was ist schuld dran? – Ich hab in der Zeit die neugierig Gegend rund um mich
@@ -9865,7 +9865,7 @@
                <p> Bettine <pb facs="#"/>
                </p>
             </div>
-            <div>
+            <div type="chapter">
                <head>An die Bettine</head>
                <p>Meine Abwesenheit von Frankfurt hat gedauert bis im Anfang dieser Woche, ich
                   dachte sicher Briefe von Dir zu finden und bin etwas besorgt, doch sagt mir ein
@@ -9915,7 +9915,7 @@
                <p> Caroline </p>
 
             </div>
-            <div>
+            <div type="chapter">
                <head>An die Günderode</head>
                <p>Lieber Widerhall, ich hab Dir was zu sagen von meiner schmerzlichen Langenweil,
                   die ich bei allem empfinde, weil ich immer noch nichts von Dir weiß, ich mein,
@@ -10432,7 +10432,7 @@
                <p> Bettine </p>
 
             </div>
-            <div>
+            <div type="chapter">
                <head>An die Bettine</head>
                <p>Wenn Du recht behalten willst, so hast Du gewiß recht, ich will auch nicht noch
                   einmal wiederholen, daß ich scherzte, denn dies ist ja grade doppelte Sünde, weil
@@ -10598,7 +10598,7 @@
                   Juden?</l>
 
             </div>
-            <div>
+            <div type="chapter">
                <head>An die Günderode</head>
                <p>Das Wetter hat sich geändert, der grüne Bergrasen lacht das bißchen Schnee aus,
                   was Winter sein will, ich bin den ganzen Tag nicht zu Haus. Die Sonn und der Mond
@@ -10887,7 +10887,7 @@
                <p> Bettine </p>
 
             </div>
-            <div>
+            <div type="chapter">
                <head>An die Günderode</head>
                <p>Ich habe große Liebe zu den Gestirnen, ich glaub, daß alle Gedanken, die meine
                   Seel belehren, mir von ihnen kommen. Auf die Warte zu gehen möchte ich keine Nacht
@@ -11115,7 +11115,7 @@
                <p> Bettine </p>
 
             </div>
-            <div>
+            <div type="chapter">
                <head>An die Bettine</head>
                <p>Du wirst mir doch nicht übel deuten, daß ich mich ein wenig vor Dir fürchte? – Und
                   machst mir auch Furcht vor mir selber! – und dann fürchte ich auch für Dich, nimm
@@ -11217,7 +11217,7 @@
                   Lager suchend, taumelnd in die Höhle war geraten, wo die Löwin ihre Jungen säugte.
                </p>
             </div>
-            <div>
+            <div type="chapter">
                <head>An die Günderode</head>
                <p>Hab ich Dir denn nicht vom Koch erzählt, der mich wöchentlich zweimal kreuzigt mit
                   dem Generalbaßunterricht? – und daß er mir alles korrigiert, was ich komponiere? –
@@ -11471,7 +11471,7 @@
                <p> Bettine <pb facs="#"/>
                </p>
             </div>
-            <div>
+            <div type="chapter">
                <head>An die Günderode</head>
                <p>Dem Clemens hab ich geschrieben, einen langen Brief, und ihm auch von Dir gesagt,
                   daß Du ihm gut bist, und daß ich Dir lange Briefe schreibe, auf die Du nur kurz
@@ -11569,7 +11569,7 @@
                   hattest, aber ich las doch in den zwei Zeilen, wie Du gestimmt warst, zutunlich.
                   –</p>
             </div>
-            <div>
+            <div type="chapter">
                <head>An die Bettine</head>
                <p>Deine Briefe haben mir viele Freude gemacht, zweifle nicht daran, liebe Bettine,
                   weil ich Dir selbst so sparsam geschrieben habe, aber Du weißt, viel denken und
@@ -11656,7 +11656,7 @@
                   langgehegten Begehrens. –</p>
                <p>Schreibe mir ein bißchen ordentlich über das Chaos Deiner Verwirrungen.</p>
             </div>
-            <div>
+            <div type="chapter">
                <head>An die Günderode</head>
                <p>Die Frankfurter haben mir geschrieben und haben mich schon ausgepelzt mit allerlei
                   verwunderlichen Prophezeiungen. – Erstens: ich soll mir häusliche Tugenden
@@ -11861,7 +11861,7 @@
                <p>Noch eins setz ich hier hin: alles, was Dir geschieht, soll Dein Geistesleben
                   befördern, – so, auf die Weise begreif meinen Umgang mit dem Juden.</p>
             </div>
-            <div>
+            <div type="chapter">
                <head>An die Günderode</head>
                <p>Ein mathematischer Vergleich vom Jud: Begeisterung ist ein Reich des Seins, das
                   wir zwar aus der Wirklichkeit verbannt haben, aber in dem wir seine Gewißheit
@@ -12168,7 +12168,7 @@
                   ganz Leben glaub ich, hat keinen andern Zweck. –</p>
                <p>Die Sterne haben mir's gesagt für Dich. –</p>
             </div>
-            <div>
+            <div type="chapter">
                <head>An die Günderode</head>
                <p>Es ist ja noch gar nicht so lang, daß Du mir geschrieben hast, es sind jetzt
                   vierzehn Tage, und wenn ich Deinen Schreibetag hinzurechne und die Reise und das
@@ -12787,7 +12787,7 @@
                   gehöre zu Dir, wenn Du sein gehörst. –</p>
                <p> Bettine </p>
             </div>
-            <div>
+            <div type="chapter">
                <head>An die Bettine</head>
                <p>Ich mußte abreisen und konnte Dir nicht einmal ausführlich schreiben. Eine
                   Schwester, die schon länger unwohl ist und jetzt nach mir verlangte. Das wird mich
@@ -12922,7 +12922,7 @@
                <p> Caroline <pb facs="#"/>
                </p>
             </div>
-            <div>
+            <div type="chapter">
                <head>An die Günderode</head>
                <p>Ich hab einmal tief aufgeatmet. Dein Brief ist da! Weißt Du, was ich getan hab?
                   Drei Tag hab ich mich hingelegt und mich gestreckt und geruht, als wär ich einer
@@ -13116,7 +13116,7 @@
                <p>Adieu und der Lulu hab ich versprochen, daß ich mit nach Kassel geh, sie schreibt:
                   nur auf drei Wochen. –</p>
             </div>
-            <div>
+            <div type="chapter">
                <head>An die Günderode</head>
                <p>Ich bin heut auf mancherlei Weise beglückt, erstlich hab ich heut wirklich einen
                   Rosenstock in meinem Zimmer stehen, den mir einer heimlich hereingestellt hat, mit
@@ -13286,7 +13286,7 @@
                <p> Bettine <pb facs="#"/>
                </p>
             </div>
-            <div>
+            <div type="chapter">
                <head>Anhang</head>
                <head>Der Franke in Ägypten</head>
 

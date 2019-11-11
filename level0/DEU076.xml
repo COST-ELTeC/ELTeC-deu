@@ -4,7 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>Caspar Hauser</title>
-            <author ref="http://d-nb.info/gnd/pnd:118629387">Wassermann, Jakob</author>
+            <author ref="http://d-nb.info/gnd/1014784077">Wassermann, Jakob (1873-1934)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>
@@ -46,12 +46,11 @@
    </teiHeader>
 
    <text>
-      <front/>
+      
       <body>
-         <div/>
-         <div>
+         <div type="chapter">
             <head>Erster Teil</head>
-            <div>
+            <div type="chapter">
                <head>Der fremde Jüngling</head>
                <p>In den ersten Sommertagen des Jahres 1828 liefen in Nürnberg sonderbare Gerüchte
                   über einen Menschen, der im Vestnerturm auf der Burg in Gewahrsam gehalten wurde
@@ -345,7 +344,7 @@
                   zurückkehrte in den Bezirk, von wo er kam, und eine Kunde brachte, dergleichen
                   kein Ohr je vernommen.</p>
             </div>
-            <div>
+            <div type="chapter">
                <head>
                   <pb facs="#"/> Bericht Caspar Hausers, von Daumer aufgezeichnet</head>
                <p>Soweit Caspar sich entsinnen konnte, war er immer in einem dunkeln Raum gewesen,
@@ -550,7 +549,7 @@
                <p>An diesem Tag aber begann schon die Peinigung, die er von den vielen Menschen
                   auszustehen hatte.</p>
             </div>
-            <div>
+            <div type="chapter">
                <head>Eine hohe amtliche Person wird Zeuge eines Schattenspiels</head>
                <p>Natürlich hatte es wochenlang gedauert, bis Professor Daumer einen so
                   vollständigen Einblick in die Vergangenheit des Jünglings gewonnen hatte. Dies
@@ -903,7 +902,7 @@
                   planvoll erschien.</p>
                <p>Am Abend befand sich Caspar in der Wohnung Daumers.</p>
             </div>
-            <div>
+            <div type="chapter">
                <head>Der Spiegel spricht</head>
                <p>Das Daumersche Haus lag neben dem sogenannten Annengärtlein auf der Insel Schütt;
                   es war ein altes Gebäude mit vielen Winkeln und halbfinstern Kammern, doch erhielt
@@ -1367,7 +1366,7 @@
                   selbstvergessen, ganz vom Willen des Suchens erfüllt, bis die Brust auf dem Sims
                   lag und seine Stirn in die Nacht hinaus tauchte.</p>
             </div>
-            <div>
+            <div type="chapter">
                <head>
                   <pb facs="#"/> Caspar träumt</head>
                <p>Am andern Morgen übergab Daumer das unheimliche Papier der Polizeibehörde. Es
@@ -1712,7 +1711,7 @@
                   Gewißheit von einer Sache fester als die Meinung seines Lehrers. Das zu empfinden,
                   bereitete ihm keine Genugtuung, sondern Bedauern.</p>
             </div>
-            <div>
+            <div type="chapter">
                <head>Religion, Homöopathie, Besuch von allen Seiten</head>
                <p>So war es Dezember geworden, und eines Morgens fiel der erste Schnee des
                   verspäteten Winters.</p>
@@ -2296,7 +2295,7 @@
                   Caspar den Menschen aus Geist sah? Noch steht es zu bezweifeln.</p>
                <p>Ein Gedankengang, der nicht frei von ahnungsvoller Betrübnis war.</p>
             </div>
-            <div>
+            <div type="chapter">
                <head>Daumer stellt die Metaphysik auf die Probe</head>
                <p>Der Präsident blieb länger als eine Woche in der Stadt. Während dieser Zeit kam er
                   entweder ins Daumersche Haus, um Caspar zu, sprechen, oder er ließ den Jüngling zu
@@ -2795,7 +2794,7 @@
                   und die Kräfte des Geistes nur dort zu opfern, wo im Frieden der Erkenntnis und
                   des Forschens jede Gabe sichtbar bezahlt wird.</p>
             </div>
-            <div>
+            <div type="chapter">
                <head>Eine vermummte Person tritt auf</head>
                <p>Caspar war in den Garten gegangen. Er lief über den feuchten Boden bis zum Zaun
                   und schaute gegen den Fluß hinüber. Ein bleifarbener Dunst umkleidete die Türmchen
@@ -3360,7 +3359,7 @@
                   am nächsten Morgen sieht die Welt weit annehmbarer aus als am gestrigen, reichlich
                   verstimmten Abend.</p>
             </div>
-            <div>
+            <div type="chapter">
                <head>Das Amselherz</head>
                <p>Vierundzwanzig Stunden später hält eine Kutsche vor dem Daumerschen Haus, und Frau
                   Behold selber kommt, um Caspar zu holen. Wirklich, Frau Behold hat sichs etwas
@@ -3753,7 +3752,7 @@
                   unordentlich aus. Caspar schaute in ihr fahles Gesicht, er sah sie lange an, fast
                   so matt und bewegt, wie er den toten Vogel angesehen.</p>
             </div>
-            <div>
+            <div type="chapter">
                <head>Botschaft aus der Ferne</head>
                <p>Es war aber von da an nicht mehr auszuhalten mit Frau Behold. Wahrscheinlich
                   bereitete sich in dieser Zeit schon der furchtbare Gemütszustand vor, der
@@ -4227,7 +4226,7 @@
                   still für sich hin. Herr von Tucher saß am Tisch und ließ den schönen Stein des
                   Rings nachdenklich im Sonnenlicht spielen.</p>
             </div>
-            <div>
+            <div type="chapter">
                <head>Der englische Graf</head>
                <p>In den Nachmittagsstunden eines der letzten Apriltage rollte ein vornehmer
                   Reisewagen vor die Einfahrt des Hotels zum wilden Mann, und alsbald verließ ein
@@ -4628,7 +4627,7 @@
                   allen Seiten peinlich überwacht und behorcht war. Er mußte sich entschließen zu
                   handeln.</p>
             </div>
-            <div>
+            <div type="chapter">
                <head>Die geheimnisvolle Mission und was ihrer Ausführung im Wege steht</head>
                <p>Schon lange hieß es an allen Wirtshaustischen, der Lord wolle Caspar Hauser an
                   Sohnes Statt annehmen. In der Tat stellte Stanhope Mitte Juni den förmlichen
@@ -5237,9 +5236,9 @@
                <pb facs="#"/>
             </div>
          </div>
-         <div>
+         <div type="chapter">
             <head>Zweiter Teil</head>
-            <div>
+            <div type="chapter">
                <head>Gespräch zwischen einem, der maskiert bleibt, und einem, der sich
                   enthüllt</head>
                <p>Es regnete in Strömen, als die Kalesche des Lords am späten Abend über den
@@ -5834,7 +5833,7 @@
                   seine baldige Ankunft in der Residenz und ersuchte um Reiseurlaub.</p>
                <p>Alle drei Briefe ließ er zur Stunde mit expresser Post aufgeben.</p>
             </div>
-            <div>
+            <div type="chapter">
                <head>Nacht wird sein</head>
                <p>Stanhope hatte dem Kutscher befohlen, vorauszufahren, und ging zu Fuß durch die
                   menschenleeren Gassen, in denen sein Schritt wie in einer Kirche widerhallte. Er
@@ -6038,7 +6037,7 @@
                   soll verstummen, und auf die Nacht, denn Nacht wird sein, soll keine Frühe
                   folgen.</p>
             </div>
-            <div>
+            <div type="chapter">
                <head>Ein Kapitel in Briefen</head>
                <p>Freiherr von Tucher an Lord Stanhope:</p>
 
@@ -6797,7 +6796,7 @@
                   und lenkbar wie ein frommes Pferd. Wie alle Deutschen hat er Prinzipien, die sein
                   Selbstvertrauen hervorbringen. Gott befohlen, die Nacht will ihren Schlaf.</p>
             </div>
-            <div>
+            <div type="chapter">
                <head>Anbetung der Sonne</head>
                <p>Am Morgen nach Caspars Ankunft blieb der Lord länger als gewöhnlich in seinen
                   Zimmern. Auch dann vermied er es noch, Caspar rufen zu lassen, und machte erst die
@@ -7168,7 +7167,7 @@
                   Fliesen, und Caspar, sehr zufrieden, meinte, die Sonne hätte ihm damit auf ihre
                   Weise eine Antwort erteilt.</p>
             </div>
-            <div>
+            <div type="chapter">
                <head>Man erfährt einiges über Herrn Quandt sowie über eine vorläufig noch ungenannte
                   Dame</head>
                <p>Die Übersiedlung Caspars ins Lehrerhaus fand ohne Zwischenfälle statt.</p>
@@ -7692,7 +7691,7 @@
                   so gewaltig in sein Inneres gewuchtet, daß er tagelang danach sich in der
                   schmerzlichsten Verwirrung befand.</p>
             </div>
-            <div>
+            <div type="chapter">
                <head>Joseph und seine Brüder</head>
                <p>Als Abschiedsgabe erhielt Caspar vom Lord zwei Paar Schuhe, eine Schachtel mit
                   Brüsseler Spitzen und sechs Meter feinen Stoff zu einem Anzug. Nachdem er schon
@@ -7934,7 +7933,7 @@
                   die Worte des Lehrers hinzielten, und er kam zu der Ansicht, daß Quandt der
                   rätselhafteste Mensch sei, dem er je begegnet.</p>
             </div>
-            <div>
+            <div type="chapter">
                <head>Schloß Falkenhaus</head>
                <p>Der Präsident traf erst am Dreikönigstag, nach fast vierwöchiger Abwesenheit,
                   wieder in der Stadt ein. Die ihm nahestehenden Personen wollten eine bedeutende
@@ -8363,7 +8362,7 @@
                <p>Ganz hübsch, daß sie mich grüßen läßt, dachte Caspar, während er seinen Weg
                   fortsetzte, aber was kann es nutzen? Was solls mir nutzen?</p>
             </div>
-            <div>
+            <div type="chapter">
                <head>Quandt begibt sich auf ein heikles Gebiet</head>
                <p>Kaum war Caspar zu Haus in die Wohnstube getreten, so merkte er, daß etwas
                   Besonderes los sein mußte. Quandt saß am Tisch und korrigierte mit finsterer Miene
@@ -8645,7 +8644,7 @@
                   dahinterkommen.</p>
                <p>Die Begebenheiten halfen Quandt, rascher dahinterzukommen, als er gehofft.</p>
             </div>
-            <div>
+            <div type="chapter">
                <head>
                   <pb facs="#"/> Eine Stimme ruft</head>
                <p>Eines Nachmittags im Hochsommer erschien Hickel und reichte Caspar einen an ihn,
@@ -9165,7 +9164,7 @@
                   auch die Stimme ließ sich nicht mehr vernehmen. Flur und Stiege erleuchtet, alle
                   Türen zu, kein Mensch zu sehen, kein Laut zu hören.</p>
             </div>
-            <div>
+            <div type="chapter">
                <head>Es wird eine Reise beschlossen</head>
                <p>Eines Nachmittags im Dezember sahen erstaunte Nachbarn den Lehrer Quandt wie
                   besessen aus seinem Haus und gegen die Neustadt stürmen, wo die Wohnung des
@@ -9677,7 +9676,7 @@
                   Feuerbachs Stirn senkte sich plötzlich eine Wolke ahnungsvoller Sorge. »Gehen
                   Sie«, befahl er kurz.</p>
             </div>
-            <div>
+            <div type="chapter">
                <head>
                   <pb facs="#"/> Die Reise wird angetreten</head>
                <p>Am selben Abend suchte Hickel den Lehrer auf und teilte ihm mit, daß der Soldat
@@ -10013,7 +10012,7 @@
                   Wagen verschwunden war, dann drehte sie sich wortlos um und schritt gegen das
                   Haus.</p>
             </div>
-            <div>
+            <div type="chapter">
                <head>Schildknecht</head>
                <p>Der Mai brachte viel Regen. Wenn das Wetter es irgend erlaubte, wanderten Caspar
                   und Frau von Kannawurf ganze Nachmittage lang durch die Umgegend. Caspar
@@ -10404,7 +10403,7 @@
                   es wie schlechtes Gewissen, und langsam, den Entschluß zur Tat und Sühne weckend,
                   zur viel zu späten Tat und Sühne, entstand eine erste Ahnung der Wahrheit.</p>
             </div>
-            <div>
+            <div type="chapter">
                <head>Ein unterbrochenes Spiel</head>
                <p>Im Verlauf der folgenden Wochen gab es in den Salons und Bürgerstuben der Stadt
                   allerlei sonderliche Dinge zu munkeln. Ohne daß das Gerede bestimmte Formen
@@ -10807,7 +10806,7 @@
                   ging, versprach Frau von Imhoff, ihm eine Zeichnung von dem Bild anfertigen zu
                   lassen. Er war so zerstreut, daß er nicht einmal dankte.</p>
             </div>
-            <div>
+            <div type="chapter">
                <head>Quandt unternimmt den letzten Sturm auf das Geheimnis</head>
                <p>Obwohl eine Zeitlang von einer Strafversetzung Hickels die Rede war, verlautete
                   darüber nichts Näheres, und die Sache schien allmählich in Vergessenheit zu
@@ -11255,7 +11254,7 @@
                   abzugeben. Um drei Uhr kehrte Caspar mit der Nachricht zurück, der Polizeileutnant
                   habe einen mehrtägigen Urlaub genommen und sei verreist.</p>
             </div>
-            <div>
+            <div type="chapter">
                <head> Aenigma sui temporis </head>
                <p>Es geschah am übernächsten Tage, einem Freitag, als Caspar kurz nach zwölf das
                   Gerichtsgebäude verlassen wollte, daß er im Korridor vor der unteren Treppe von

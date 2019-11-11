@@ -4,7 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>Fragment eines Romans</title>
-            <author ref="http://d-nb.info/gnd/pnd:117208612">Weerth, Georg</author>
+            <author ref="http://d-nb.info/gnd/117208612">Weerth, Georg (1822-1856)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>
@@ -46,10 +46,8 @@
    </teiHeader>
 
    <text>
-      <front/>
+      
       <body>
-         <div>
-            <div>
                <head>Georg Weerth</head>
                <head>Fragment eines Romans</head>
                <p>
@@ -4638,8 +4636,8 @@
                   Kampf zwischen Arbeitern und Herren einst schwanken sollte – aber wahrscheinlich
                   werden die Weiber gar nicht zu helfen brauchen, die Männer werden die Sache schon
                   alleine machen!«</p>
-            </div>
-         </div>
+            
+         
       </body>
    </text>
 </TEI>

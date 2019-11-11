@@ -4,7 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>Vittoria Accorombona</title>
-            <author ref="http://d-nb.info/gnd/pnd:12989432X">Tieck, Ludwig</author>
+            <author ref="http://d-nb.info/gnd/12989432X">Tieck, Ludwig (1773-1853)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>
@@ -46,11 +46,11 @@
    </teiHeader>
 
    <text>
-      <front/>
+      
       <body>
-         <div>
+         <div type="chapter">
             <head>Erster Teil</head>
-            <div>
+            <div type="chapter">
                <head>Vorwort</head>
                <p>Schon vor vielen Jahren fiel mir der Name dieser Dichterin, sowie ihr sonderbares
                   Schicksal als merkwürdig auf. Es war im Jahre 1792, als ich in Dodsley's
@@ -96,7 +96,7 @@
 
                <pb facs="#"/>
             </div>
-            <div>
+            <div type="chapter">
                <head>Erstes Buch</head>
                <div type="chapter">
                   <head>Erstes Kapitel</head>
@@ -1703,7 +1703,7 @@
                   <pb facs="#"/>
                </div>
             </div>
-            <div>
+            <div type="chapter">
                <head>Zweites Buch</head>
                <div type="chapter">
                   <head>Erstes Kapitel</head>
@@ -3452,7 +3452,7 @@
                   <pb facs="#"/>
                </div>
             </div>
-            <div>
+            <div type="chapter">
                <head>Drittes Buch</head>
                <div type="chapter">
                   <head>Erstes Kapitel</head>
@@ -5316,9 +5316,9 @@
                </div>
             </div>
          </div>
-         <div>
+         <div type="chapter">
             <head>Zweiter Teil</head>
-            <div>
+            <div type="chapter">
                <head>Viertes Buch</head>
                <div type="chapter">
                   <head>
@@ -7078,7 +7078,7 @@
                   <pb facs="#"/>
                </div>
             </div>
-            <div>
+            <div type="chapter">
                <head>Fünftes Buch</head>
                <div type="chapter">
                   <head>Erstes Kapitel</head>

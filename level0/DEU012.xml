@@ -4,7 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>Aus dem Leben einer Frau</title>
-            <author ref="http://d-nb.info/gnd/pnd:118650769">Aston, Louise</author>
+            <author ref="http://d-nb.info/gnd/118650769">Aston, Louise (1814-1871)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>
@@ -46,7 +46,7 @@
    </teiHeader>
 
    <text>
-      <front/>
+      
       <body>
          <div type="chapter">
             <head>

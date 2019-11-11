@@ -4,7 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>Der Sonnenwirt</title>
-            <author ref="http://d-nb.info/gnd/pnd:118778277">Kurz, Hermann</author>
+            <author ref="http://d-nb.info/gnd/118778277">Kurz, Hermann (1813-1873)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>
@@ -46,11 +46,10 @@
    </teiHeader>
 
    <text>
-      <front/>
+      
       <body>
-         <div>
+         <div type="chapter">
             <head>Erster Teil</head>
-            <div type="chapter">
                <head>1</head>
                <p>»Nun, Meister Schwan, für diesmal ist Er christlich durchgekommen, straf mich
                   Gott! Ohne Willkomm und Abschied! Herr Gott von Dinkelsbühl, tut mir fast leid,
@@ -455,7 +454,7 @@
                   Der Tag begann sich eben zu neigen, da breitete sich das Ziel ihrer Reise, ein
                   beträchtlicher Flecken, <pb facs="#"/> in angenehmer Talweite zwischen den Anhöhen
                   wohlgelegen, freundlich und heimatlich vor ihren Augen aus.</p>
-            </div>
+            
             <div type="chapter">
                <head>2</head>
                <p>»Frau Sonnenwirtin, jetzt ist's an mir!« rief der ältere von zwei Männern in
@@ -5025,9 +5024,8 @@
                <pb facs="#"/>
             </div>
          </div>
-         <div>
+         <div type="chapter">
             <head>Zweiter Teil</head>
-            <div type="chapter">
                <head>15</head>
                <p>Christinens Brief war immer noch nicht fertig, und ihr Vater hatte den Weg zum
                   Pfarrer und Chirurgus gleichfalls noch nicht gefunden, da verbreitete sich eines
@@ -5350,7 +5348,7 @@
                   Ruhetag aus ihm zu machen, wenigstens was das Bartschaben betrifft.«</p>
                <p>Er ging, und Magdalene sah ihm seufzend nach. Dieser Seufzer mochte wohl
                   mancherlei zu bedeuten haben.</p>
-            </div>
+            
             <div type="chapter">
                <head>16</head>
                <p>Kaum war es am nächsten Tage Abend geworden, als im Bäckerhause jemand eilfertig
@@ -10298,9 +10296,9 @@
                <pb facs="#"/>
             </div>
          </div>
-         <div>
-            <head>Dritter Teil</head>
-            <div type="chapter">
+         <div type="chapter">   
+         <head>Dritter Teil</head>
+            
                <head>30</head>
                <p>»Gesegnete Mahlzeit beieinander! Das ist ja schön, daß man die Ahne und die Kinder
                   bei der Gottesgabe findet, die Leib und Seel zusammenhält.«</p>
@@ -10561,7 +10559,7 @@
                <p>Sie warf sich zu Boden und raufte ihre Haare. Diesmal war ihr Schreien und Heulen
                   ernstlich gemeint. »Jetzt hab ich mein Stecken und Stab verloren!« jammerte
                   sie.</p>
-            </div>
+            
             <div type="chapter">
                <head>31</head>
                <p>»Paß auf, Beck!« sagte der obere Müller, mit seinem Knecht eintretend, im Hausgang

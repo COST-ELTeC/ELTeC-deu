@@ -4,7 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>Die verlorene Handschrift</title>
-            <author ref="http://d-nb.info/gnd/pnd:118535455">Freytag, Gustav</author>
+            <author ref="http://d-nb.info/gnd/118535455">Freytag, Gustav (1816-1895)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>
@@ -46,13 +46,13 @@
    </teiHeader>
 
    <text>
-      <front/>
+      
       <body>
-         <div>
+         <div type="chapter">
             <head>Erster Theil</head>
-            <div>
+            <div type="chapter">
                <head>Erstes Buch</head>
-               <div>
+               <div type="chapter">
                   <div type="chapter">
                      <head>1.</head>
 
@@ -607,7 +607,7 @@
                         Römer und über das Büchlein des seligen Frater Tobias.</p>
                   </div>
                </div>
-               <div>
+               <div type="chapter">
                   <div type="chapter">
                      <head>2.</head>
 
@@ -1142,7 +1142,7 @@
                         guter Gewalten.</p>
                   </div>
                </div>
-               <div>
+               <div type="chapter">
                   <div type="chapter">
                      <head>3.</head>
 
@@ -1703,7 +1703,7 @@
                         pflichtmäßige Ausdauer, was im Anfange ein frisches Wagen war.</p>
                   </div>
                </div>
-               <div>
+               <div type="chapter">
                   <div type="chapter">
                      <head>4.</head>
 
@@ -2294,7 +2294,7 @@
                         Morgengesang anstimmten.</p>
                   </div>
                </div>
-               <div>
+               <div type="chapter">
                   <div type="chapter">
                      <head>5.</head>
 
@@ -2963,7 +2963,7 @@
                         kräftig durch die Adern.</p>
                   </div>
                </div>
-               <div>
+               <div type="chapter">
                   <div type="chapter">
                      <head>
                         <pb facs="#"/> 6.</head>
@@ -3488,7 +3488,7 @@
                         Kennerblicken, wie die Braunen anzogen.</p>
                   </div>
                </div>
-               <div>
+               <div type="chapter">
                   <div type="chapter">
                      <head>7.</head>
 
@@ -4042,7 +4042,7 @@
                         gestohlen wurden.</p>
                   </div>
                </div>
-               <div>
+               <div type="chapter">
                   <div type="chapter">
                      <head>8.</head>
 
@@ -4514,7 +4514,7 @@
                         Ursache der heillosen Verwirrung – gegen die Handschrift des Tacitus.</p>
                   </div>
                </div>
-               <div>
+               <div type="chapter">
                   <div type="chapter">
                      <head>9.</head>
 
@@ -5085,7 +5085,7 @@
                         zu sehr gegen alle Gesetze ruhiger geschichtlicher Entwicklung.</p>
                   </div>
                </div>
-               <div>
+               <div type="chapter">
                   <div type="chapter">
                      <head>10.</head>
 
@@ -5460,7 +5460,7 @@
                         Strumpf anhatte.</p>
                   </div>
                </div>
-               <div>
+               <div type="chapter">
                   <div type="chapter">
                      <head>11.</head>
 
@@ -5951,7 +5951,7 @@
                         Schnurrbart!</p>
                   </div>
                </div>
-               <div>
+               <div type="chapter">
                   <div type="chapter">
                      <head>
                         <pb facs="#"/> 12.</head>
@@ -6189,9 +6189,9 @@
                   </div>
                </div>
             </div>
-            <div>
+            <div type="chapter">
                <head>Zweites Buch</head>
-               <div>
+               <div type="chapter">
                   <div type="chapter">
                      <head>1.</head>
 
@@ -6651,7 +6651,7 @@
                         Und Ilse hörte unten den innigen Dank für ihren Besuch.</p>
                   </div>
                </div>
-               <div>
+               <div type="chapter">
                   <div type="chapter">
                      <head>2.</head>
 
@@ -7077,7 +7077,7 @@
                         verstehen, was du verstehst.«</p>
                   </div>
                </div>
-               <div>
+               <div type="chapter">
                   <div type="chapter">
                      <head>3.</head>
 
@@ -7645,7 +7645,7 @@
                         kalten Blicken und feindlichen Empfindungen betrachtet.</p>
                   </div>
                </div>
-               <div>
+               <div type="chapter">
                   <div type="chapter">
                      <head>
                         <pb facs="#"/> 4.</head>
@@ -8329,7 +8329,7 @@
                      <p>Und Magister Knips lächelte über die Welt.</p>
                   </div>
                </div>
-               <div>
+               <div type="chapter">
                   <div type="chapter">
                      <head>5.</head>
 
@@ -9069,7 +9069,7 @@
                         Nachbarhäuser.</p>
                   </div>
                </div>
-               <div>
+               <div type="chapter">
                   <div type="chapter">
                      <head>6.</head>
 
@@ -9609,7 +9609,7 @@
                         daß es ein Jammer ist.«</p>
                   </div>
                </div>
-               <div>
+               <div type="chapter">
                   <div type="chapter">
                      <head>7.</head>
 
@@ -10059,7 +10059,7 @@
                         der Völker dachte.</p>
                   </div>
                </div>
-               <div>
+               <div type="chapter">
                   <div type="chapter">
                      <head>
                         <pb facs="#"/> 8.</head>
@@ -10692,11 +10692,11 @@
                </div>
             </div>
          </div>
-         <div>
+         <div type="chapter">
             <head>Zweiter Theil</head>
-            <div>
+            <div type="chapter">
                <head>Drittes Buch</head>
-               <div>
+               <div type="chapter">
                   <div type="chapter">
                      <head>1.</head>
 
@@ -11427,7 +11427,7 @@
                         den Marzipan ein und trug ihn in der Tasche nach Hause.</p>
                   </div>
                </div>
-               <div>
+               <div type="chapter">
                   <div type="chapter">
                      <head>
                         <pb facs="#"/> 2.</head>
@@ -11959,7 +11959,7 @@
                         Stelle gebracht, noch Dank werden, den sie sich nicht begehrten.</p>
                   </div>
                </div>
-               <div>
+               <div type="chapter">
                   <div type="chapter">
                      <head>
                         <pb facs="#"/> 3.</head>
@@ -12883,7 +12883,7 @@
                         nicht ist?</p>
                   </div>
                </div>
-               <div>
+               <div type="chapter">
                   <div type="chapter">
                      <head>4.</head>
 
@@ -13559,7 +13559,7 @@
                         war dem Prinzen gegenüber stiller als gewöhnlich.</p>
                   </div>
                </div>
-               <div>
+               <div type="chapter">
                   <div type="chapter">
                      <head>5.</head>
 
@@ -14074,7 +14074,7 @@
                         sah traurig auf die leere Stelle.</p>
                   </div>
                </div>
-               <div>
+               <div type="chapter">
                   <div type="chapter">
                      <head>
                         <pb facs="#"/> 6.</head>
@@ -14641,9 +14641,9 @@
                   </div>
                </div>
             </div>
-            <div>
+            <div type="chapter">
                <head>Viertes Buch</head>
-               <div>
+               <div type="chapter">
                   <div type="chapter">
                      <head>1.</head>
 
@@ -15252,7 +15252,7 @@
                         nicht zu früh verlassen.«</p>
                   </div>
                </div>
-               <div>
+               <div type="chapter">
                   <div type="chapter">
                      <head>2.</head>
 
@@ -15681,7 +15681,7 @@
                         eine thörichte Schwäche, Felix, sie ist vorüber.«</p>
                   </div>
                </div>
-               <div>
+               <div type="chapter">
                   <div type="chapter">
                      <head>
                         <pb facs="#"/> 3.</head>
@@ -16645,7 +16645,7 @@
                         ich im Vortheil war.«</p>
                   </div>
                </div>
-               <div>
+               <div type="chapter">
                   <div type="chapter">
                      <head>
                         <pb facs="#"/> 4.</head>
@@ -17473,7 +17473,7 @@
                         seufzte und wischte den Schweiß von seinen Schläfen.</p>
                   </div>
                </div>
-               <div>
+               <div type="chapter">
                   <div type="chapter">
                      <head>5.</head>
 
@@ -17952,7 +17952,7 @@
                         noch einmal mein Geld dazu geben.«</p>
                   </div>
                </div>
-               <div>
+               <div type="chapter">
                   <div type="chapter">
                      <head>6.</head>
 
@@ -18560,7 +18560,7 @@
                      <p>»Es klang von der Straße,« versetzte der Obersthofmeister.</p>
                   </div>
                </div>
-               <div>
+               <div type="chapter">
                   <div type="chapter">
                      <head>
                         <pb facs="#"/> 7.</head>
@@ -19168,7 +19168,7 @@
                      <p>»Sie mögen heut auch zu Tische kommen,« befahl Herr Hummel gnädig.</p>
                   </div>
                </div>
-               <div>
+               <div type="chapter">
                   <div type="chapter">
                      <head>8.</head>
 
@@ -19933,7 +19933,7 @@
                         welche ihr den Leib erschütterten.</p>
                   </div>
                </div>
-               <div>
+               <div type="chapter">
                   <div type="chapter">
                      <head>9.</head>
 
@@ -20447,7 +20447,7 @@
                         sah, welche er in der Hand hielt.</p>
                   </div>
                </div>
-               <div>
+               <div type="chapter">
                   <div type="chapter">
                      <head>10.</head>
 
@@ -21188,7 +21188,7 @@
                         und die Rechnung sei bezahlt.«</p>
                   </div>
                </div>
-               <div>
+               <div type="chapter">
                   <div type="chapter">
                      <head>11.</head>
 
@@ -22012,9 +22012,9 @@
                   </div>
                </div>
             </div>
-            <div>
+            <div type="chapter">
                <head>Fünftes Buch</head>
-               <div>
+               <div type="chapter">
                   <div type="chapter">
                      <head>1.</head>
 
@@ -22683,7 +22683,7 @@
                         Schmerzensruf einer Menschenstimme in die dämmrige Ferne gescheucht.</p>
                   </div>
                </div>
-               <div>
+               <div type="chapter">
                   <div type="chapter">
                      <head>2.</head>
 
@@ -23161,7 +23161,7 @@
                         Herr ruhig; »ich eile, ihn davon zu benachrichtigen.«</p>
                   </div>
                </div>
-               <div>
+               <div type="chapter">
                   <div type="chapter">
                      <head>3.</head>
 
@@ -23875,7 +23875,7 @@
                         diene, und mir ist leicht im Herzen.«</p>
                   </div>
                </div>
-               <div>
+               <div type="chapter">
                   <div type="chapter">
                      <head>4.</head>
 
@@ -24112,7 +24112,7 @@
                         wie der sanfte Laut eines schlafenden Vogels.</p>
                   </div>
                </div>
-               <div>
+               <div type="chapter">
                   <div type="chapter">
                      <head>
                         <pb facs="#"/> 5.</head>

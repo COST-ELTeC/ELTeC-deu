@@ -1,101 +1,101 @@
-id,author-name,book-title,subgenre,year,year-cat,canon-cat,gender-cat,length,length-cat,counter
-DEU001,"Willkomm, Ernst Adolf",Weisse Sclaven oder die Leiden des Volkes,foo,1845,T1,low,m,322371,long,1
-DEU002,"Auerbach, Berthold",Der Lehnhold,foo,1854,T1,low,m,66067,medium,1
-DEU003,"Ruppius, Otto",Der Pedlar,foo,1857,T1,low,m,89800,medium,1
-DEU004,"Otto, Louise",Nürnberg. Zweiter Band,foo,1858,T1,low,f,56702,medium,1
-DEU005,"Kurz, Hermann",Der Sonnenwirt,foo,1854,T1,high,m,216063,long,1
-DEU006,"Weerth, Georg",Fragment eines Romans,foo,1846,T1,low,m,60551,medium,1
-DEU007,"Stifter, Adalbert",Die Mappe meines Urgroßvaters,foo,1841,T1,high,m,82220,medium,1
-DEU008,"Auerbach, Berthold",Der Lautenbacher,foo,1843,T1,low,m,31603,short,1
-DEU009,"Ruppius, Otto",Das Vermächtnis des Pedlars,foo,1859,T1,low,m,97300,medium,1
-DEU010,"Aston, Louise",Lydia,foo,1848,T1,low,f,61819,medium,1
-DEU011,"Freytag, Gustav",Soll und Haben,foo,1855,T1,high,m,344948,long,1
-DEU012,"Aston, Louise",Aus dem Leben einer Frau,foo,1847,T1,high,f,27975,short,1
-DEU013,"Auerbach, Berthold",Barfüßele,foo,1856,T1,low,m,76008,medium,1
-DEU014,"Tieck, Ludwig",Vittoria Accorombona,foo,1840,T1,high,m,123077,long,1
-DEU015,"Arnim, Bettina von",Die Günderode,foo,1840,T1,high,f,176011,long,1
-DEU016,"Gerstäcker, Friedrich",Die Regulatoren in Arkansas. Aus dem Waldleben Amerikas,foo,1846,T1,low,m,183061,long,1
-DEU017,"Stifter, Adalbert",Die Narrenburg,foo,1843,T1,medium,m,41879,short,1
-DEU018,"Schopenhauer, Adele",Anna,foo,1845,T1,low,f,105286,long,1
-DEU019,"Stifter, Adalbert",Zwei Schwestern,foo,1846,T1,medium,m,58315,medium,1
-DEU020,"Hahn-Hahn, Ida Gräfin von",Sibylle,foo,1846,T1,low,f,131733,long,1
-DEU021,"Lewald, Fanny",Jenny,foo,1843,T1,low,f,111473,long,1
-DEU022,"Arnim, Bettina von",Clemens Brentanos Frühlingskranz,foo,1844,T1,high,f,108645,long,1
-DEU023,"Stifter, Adalbert",Feldblumen,foo,1841,T1,high,m,43934,short,1
-DEU024,"Gutzkow, Karl",Der Zauberer von Rom,foo,1858,T1,low,m,894081,long,1
-DEU025,"Kürnberger, Ferdinand",Der Amerika-Müde,foo,1855,T1,low,m,81837,medium,1
-DEU026,"Vischer, Friedrich Theodor",Auch Einer 2,foo,1879,T2,high,m,96548,medium,1
-DEU027,"Ebner-Eschenbach, Marie von",Bozena,foo,1876,T2,high,f,76679,medium,1
-DEU028,"François, Louise von",Die letzte Reckenburgerin,foo,1871,T2,medium,f,108606,long,1
-DEU029,"Raabe, Wilhelm",Alte Nester,foo,1879,T2,low,m,97670,medium,1
-DEU030,"Freytag, Gustav",Die verlorene Handschrift,foo,1864,T2,high,m,307798,long,1
-DEU031,"Raabe, Wilhelm",Der Schüdderump,foo,1869,T2,high,m,135524,long,1
-DEU032,"Meyer, Conrad Ferdinand",Jürg Jenatsch,foo,1876,T2,high,m,83873,medium,1
-DEU033,"François, Louise von",Die Geschichte meines Urgroßvaters,foo,1868,T2,low,f,37948,short,1
-DEU034,"Vischer, Friedrich Theodor",Auch Einer 1,foo,1879,T2,high,m,98067,medium,1
-DEU035,"Fontane, Theodor",Vor dem Sturm,foo,1878,T2,high,m,269471,long,1
-DEU036,"Keller, Gottfried",Der grüne Heinrich2 [Zweite Fassung],foo,1879,T2,low,m,287409,long,1
-DEU037,"Marlitt, Eugenie",Das Heideprinzeßchen,foo,1871,T2,low,f,148356,long,1
-DEU038,"Raabe, Wilhelm",Der Hungerpastor,foo,1863,T2,high,m,166341,long,1
-DEU039,"Spielhagen, Friedrich",Problematische Naturen. Erste Abtheilung,foo,1861,T2,low,m,225971,long,1
-DEU040,"Marlitt, Eugenie",Goldelse,foo,1866,T2,high,f,118440,long,1
-DEU041,"Marlitt, Eugenie",Das Geheimnis der alten Mamsell,foo,1867,T2,low,f,105854,long,1
-DEU042,"Möllhausen, Balduin",Die Mandanenwaise,foo,1865,T2,low,m,223715,long,1
-DEU043,"Spielhagen, Friedrich",Hammer und Amboß,foo,1869,T2,low,m,324738,long,1
-DEU044,"Dahn, Felix",Kampf um Rom,foo,1876,T2,high,m,265086,long,1
-DEU045,"Stifter, Adalbert",Witiko,foo,1865,T2,high,m,337846,long,1
-DEU046,"Fontane, Theodor",Grete Minde,foo,1879,T2,high,m,39821,short,1
-DEU047,"François, Louise von",Judith die Kluswirtin,foo,1862,T2,low,f,54773,medium,1
-DEU048,"Freytag, Gustav",Die Ahnen,foo,1872,T2,high,m,715658,long,1
-DEU049,"Raabe, Wilhelm","Die Leute aus dem Walde, ihre Sterne, Wege und Schicksale",foo,1863,T2,low,m,149073,long,1
-DEU050,"Raabe, Wilhelm",Abu Telfan oder Die Heimkehr vom Mondgebirge,foo,1867,T2,medium,m,136330,long,1
-DEU051,"Fontane, Theodor",Unterm Birnbaum,foo,1885,T3,high,m,40316,short,1
-DEU052,"Spyri, Johanna",Heidis Lehr- und Wanderjahre,foo,1880,T3,high,f,61406,medium,1
-DEU053,"Fontane, Theodor",Graf Petöfy,foo,1884,T3,high,m,71428,medium,1
-DEU054,"May, Karl",Am Jenseits,foo,1899,T3,high,m,186082,long,1
-DEU055,"Bahr, Hermann",Die gute Schule,foo,1890,T3,low,m,64346,medium,1
-DEU056,"Conradi, Hermann",Adam Mensch,foo,1889,T3,medium,m,117914,long,1
-DEU057,"Dohm, Hedwig",Sibilla Dalmar,foo,1896,T3,low,f,97263,medium,1
-DEU058,"Ebner-Eschenbach, Marie von","Lotti, die Uhrmacherin",foo,1880,T3,high,f,41591,short,1
-DEU059,"Fontane, Theodor","Irrungen, Wirrungen",foo,1887,T3,high,m,63334,medium,1
-DEU060,"Janitschek, Maria",Die Amazonenschlacht,foo,1897,T3,low,f,21931,short,1
-DEU061,"Bleibtreu, Karl",Größenwahn,foo,1888,T3,low,m,294270,long,1
-DEU062,"Polenz, Wilhelm von",Der Büttnerbauer,foo,1895,T3,high,m,140675,long,1
-DEU063,"Dohm, Hedwig",Wie Frauen werden,foo,1894,T3,low,f,38398,short,1
-DEU064,"Christen, Ada",Jungfer Mutter,foo,1892,T3,low,f,47731,short,1
-DEU065,"Spielhagen, Friedrich",Zum Zeitvertreib,foo,1897,T3,low,m,67471,medium,1
-DEU066,"Fontane, Theodor",Der Stechlin,foo,1897,T3,high,m,154063,long,1
-DEU067,"Ganghofer, Ludwig",Schloß Hubertus,foo,1895,T3,high,m,198887,long,1
-DEU068,"Spitteler, Carl",Conrad,foo,1898,T3,low,m,52176,medium,1
-DEU069,"Kretzer, Max",Meister Timpe,foo,1888,T3,low,m,92656,medium,1
-DEU070,"Fontane, Theodor",Schach von Wuthenow,foo,1882,T3,high,m,50542,medium,1
-DEU071,"Fontane, Theodor",Cécile,foo,1887,T3,high,m,67507,medium,1
-DEU072,"Raabe, Wilhelm",Im alten Eisen,foo,1887,T3,high,m,64386,medium,1
-DEU073,"Dohm, Hedwig",Schicksale einer Seele,foo,1899,T3,low,f,104561,long,1
-DEU074,"Boy-Ed, Ida",Fanny Förster,foo,1889,T3,low,f,84303,medium,1
-DEU075,"Janitschek, Maria",Ninive,foo,1896,T3,low,f,56550,medium,1
-DEU076,"Wassermann, Jakob",Caspar Hauser,foo,1907,T4,high,m,156760,long,1
-DEU077,"Reventlow, Franziska Gräfin zu",Ellen Olestjerne,foo,1903,T4,medium,f,73402,medium,1
-DEU078,"Essig, Hermann",Der Taifun,foo,1919,T4,low,m,118751,long,1
-DEU079,"Rilke, Rainer Maria",Die Aufzeichnungen des Malte Laurids Brigge,foo,1910,T4,high,m,70411,medium,1
-DEU080,"Keyserling, Eduard von",Dumala,foo,1907,T4,low,m,37961,short,1
-DEU081,"May, Karl",Und Friede auf Erden!,foo,1904,T4,high,m,210053,long,1
-DEU082,"Braun, Lily",Lebenssucher,foo,1915,T4,low,f,142219,long,1
-DEU083,"Sack, Gustav",Paralyse,foo,1913,T4,low,m,23323,short,1
-DEU084,"May, Karl",Ardistan und Dschinnistan II,foo,1909,T4,high,m,205246,long,1
-DEU085,"Ganghofer, Ludwig",Der Ochsenkrieg,foo,1914,T4,high,m,212235,long,1
-DEU086,"Meysenbug, Malwida Freiin von",Himmlische und irdische Liebe,foo,1905,T4,low,f,45345,short,1
-DEU087,"Heyking, Elisabeth von","Briefe, die ihn nicht erreichten",foo,1903,T4,low,f,56322,medium,1
-DEU088,"Fontane, Theodor",Mathilde Möhring,foo,1906,T4,high,m,40323,short,1
-DEU089,"Wille, Bruno",Die Abendburg,foo,1909,T4,low,m,178800,long,1
-DEU090,"Reventlow, Franziska Gräfin zu",Von Paul zu Pedro,foo,1912,T4,high,f,25015,short,1
-DEU091,"Schnitzler, Arthur",Casanovas Heimfahrt,foo,1918,T4,high,m,43407,short,1
-DEU092,"Sudermann, Hermann",Jons und Erdme,foo,1917,T4,low,m,48607,short,1
-DEU093,"Christ, Lena",Madam Bäurin,foo,1920,T4,high,f,42418,short,1
-DEU094,"Schnitzler, Arthur",Der Weg ins Freie,foo,1907,T4,high,m,144932,long,1
-DEU095,"Ball, Hugo",Flammetti,foo,1918,T4,low,m,58233,medium,1
-DEU096,"Meyrink, Gustav",Der Golem,foo,1913,T4,high,m,90790,medium,1
-DEU097,"Keyserling, Eduard von",Wellen,foo,1911,T4,high,m,54745,medium,1
-DEU098,"Reventlow, Franziska Gräfin zu",Herrn Dames Aufzeichnungen,foo,1913,T4,high,f,41778,short,1
-DEU099,"Christ, Lena",Mathias Bichler,foo,1914,T4,high,f,81921,medium,1
-DEU100,"Ebner-Eschenbach, Marie von",Agave,foo,1903,T4,high,f,51704,medium,1
+id,author-name,book-title,subgenre,year,year-cat,canon-cat,gender-cat,length,length-cat,counter,Author-birth,Author-death,GND
+DEU001,"Willkomm, Ernst Adolf",Weisse Sclaven oder die Leiden des Volkes,foo,1845,T1,low,m,322371,long,1,1810,1886,http://d-nb.info/gnd/11739467X
+DEU002,"Auerbach, Berthold",Der Lehnhold,foo,1854,T1,low,m,66067,medium,1,1812,1882,http://d-nb.info/gnd/11865103X
+DEU003,"Ruppius, Otto",Der Pedlar,foo,1857,T1,low,m,89800,medium,1,1819,1864,http://d-nb.info/gnd/116708859
+DEU004,"Otto, Louise",Nürnberg. Zweiter Band,foo,1858,T1,low,f,56702,medium,1,1819,1895,http://d-nb.info/gnd/118590901
+DEU005,"Kurz, Hermann",Der Sonnenwirt,foo,1854,T1,high,m,216063,long,1,1813,1873,http://d-nb.info/gnd/118778277
+DEU006,"Weerth, Georg",Fragment eines Romans,foo,1846,T1,low,m,60551,medium,1,1822,1856,http://d-nb.info/gnd/117208612
+DEU007,"Stifter, Adalbert",Die Mappe meines Urgroßvaters,foo,1841,T1,high,m,82220,medium,1,1805,1868,http://d-nb.info/gnd/118618156
+DEU008,"Auerbach, Berthold",Der Lautenbacher,foo,1843,T1,low,m,31603,short,1,1812,1882,http://d-nb.info/gnd/11865103X
+DEU009,"Ruppius, Otto",Das Vermächtnis des Pedlars,foo,1859,T1,low,m,97300,medium,1,1819,1864,http://d-nb.info/gnd/116708859
+DEU010,"Aston, Louise",Lydia,foo,1848,T1,low,f,61819,medium,1,1814,1871,http://d-nb.info/gnd/118650769
+DEU011,"Freytag, Gustav",Soll und Haben,foo,1855,T1,high,m,344948,long,1,1816,1895,http://d-nb.info/gnd/118535455
+DEU012,"Aston, Louise",Aus dem Leben einer Frau,foo,1847,T1,high,f,27975,short,1,1814,1871,http://d-nb.info/gnd/118650769
+DEU013,"Auerbach, Berthold",Barfüßele,foo,1856,T1,low,m,76008,medium,1,1812,1882,http://d-nb.info/gnd/11865103X
+DEU014,"Tieck, Ludwig",Vittoria Accorombona,foo,1840,T1,high,m,123077,long,1,1773,1853,http://d-nb.info/gnd/12989432X
+DEU015,"Arnim, Bettina von",Die Günderode,foo,1840,T1,high,f,176011,long,1,1785,1859,http://d-nb.info/gnd/118504185
+DEU016,"Gerstäcker, Friedrich",Die Regulatoren in Arkansas. Aus dem Waldleben Amerikas,foo,1846,T1,low,m,183061,long,1,1816,1872,http://d-nb.info/gnd/118538810
+DEU017,"Stifter, Adalbert",Die Narrenburg,foo,1843,T1,medium,m,41879,short,1,1805,1868,http://d-nb.info/gnd/118618156
+DEU018,"Schopenhauer, Adele",Anna,foo,1845,T1,low,f,105286,long,1,1797,1849,http://d-nb.info/gnd/11880510X
+DEU019,"Stifter, Adalbert",Zwei Schwestern,foo,1846,T1,medium,m,58315,medium,1,1805,1868,http://d-nb.info/gnd/118618156
+DEU020,"Hahn-Hahn, Ida Gräfin von",Sibylle,foo,1846,T1,low,f,131733,long,1,1805,1880,http://d-nb.info/gnd/118544918
+DEU021,"Lewald, Fanny",Jenny,foo,1843,T1,low,f,111473,long,1,1811,1889,http://d-nb.info/gnd/118572393
+DEU022,"Arnim, Bettina von",Clemens Brentanos Frühlingskranz,foo,1844,T1,high,f,108645,long,1,1785,1859,http://d-nb.info/gnd/118572393
+DEU023,"Stifter, Adalbert",Feldblumen,foo,1841,T1,high,m,43934,short,1,1805,1868,http://d-nb.info/gnd/118618156
+DEU024,"Gutzkow, Karl",Der Zauberer von Rom,foo,1858,T1,low,m,894081,long,1,1811,1878,http://d-nb.info/gnd/118543830
+DEU025,"Kürnberger, Ferdinand",Der Amerika-Müde,foo,1855,T1,low,m,81837,medium,1,1823,1879,http://d-nb.info/gnd/118567764
+DEU026,"Vischer, Friedrich Theodor",Auch Einer 2,foo,1879,T2,high,m,96548,medium,1,1807,1887,http://d-nb.info/gnd/11862721X
+DEU027,"Ebner-Eschenbach, Marie von",Bozena,foo,1876,T2,high,f,76679,medium,1,1830,1916,http://d-nb.info/gnd/118528661
+DEU028,"François, Louise von",Die letzte Reckenburgerin,foo,1871,T2,medium,f,108606,long,1,1817,1893,http://d-nb.info/gnd/118692577
+DEU029,"Raabe, Wilhelm",Alte Nester,foo,1879,T2,low,m,97670,medium,1,1831,1910,http://d-nb.info/gnd/118597442
+DEU030,"Freytag, Gustav",Die verlorene Handschrift,foo,1864,T2,high,m,307798,long,1,1816,1895,http://d-nb.info/gnd/118535455
+DEU031,"Raabe, Wilhelm",Der Schüdderump,foo,1869,T2,high,m,135524,long,1,1831,1910,http://d-nb.info/gnd/118692577
+DEU032,"Meyer, Conrad Ferdinand",Jürg Jenatsch,foo,1876,T2,high,m,83873,medium,1,1825,1898,http://d-nb.info/gnd/118581775
+DEU033,"François, Louise von",Die Geschichte meines Urgroßvaters,foo,1868,T2,low,f,37948,short,1,1817,1893,http://d-nb.info/gnd/118692577
+DEU034,"Vischer, Friedrich Theodor",Auch Einer 1,foo,1879,T2,high,m,98067,medium,1,1807,1887,http://d-nb.info/gnd/11862721X
+DEU035,"Fontane, Theodor",Vor dem Sturm,foo,1878,T2,high,m,269471,long,1,1819,1898,http://d-nb.info/gnd/118534262
+DEU036,"Keller, Gottfried",Der grüne Heinrich2 [Zweite Fassung],foo,1879,T2,low,m,287409,long,1,1819,1890,http://d-nb.info/gnd/11856109X
+DEU037,"Marlitt, Eugenie",Das Heideprinzeßchen,foo,1871,T2,low,f,148356,long,1,1825,1887,http://d-nb.info/gnd/1014122880
+DEU038,"Raabe, Wilhelm",Der Hungerpastor,foo,1863,T2,high,m,166341,long,1,1831,1910,http://d-nb.info/gnd/118692577
+DEU039,"Spielhagen, Friedrich",Problematische Naturen. Erste Abtheilung,foo,1861,T2,low,m,225971,long,1,1823,1911,http://d-nb.info/gnd/118616196
+DEU040,"Marlitt, Eugenie",Goldelse,foo,1866,T2,high,f,118440,long,1,1825,1887,http://d-nb.info/gnd/1014122880
+DEU041,"Marlitt, Eugenie",Das Geheimnis der alten Mamsell,foo,1867,T2,low,f,105854,long,1,1825,1887,http://d-nb.info/gnd/1014122880
+DEU042,"Möllhausen, Balduin",Die Mandanenwaise,foo,1865,T2,low,m,223715,long,1,1825,1905,http://d-nb.info/gnd/118784412
+DEU043,"Spielhagen, Friedrich",Hammer und Amboß,foo,1869,T2,low,m,324738,long,1,1823,1911,http://d-nb.info/gnd/118616196
+DEU044,"Dahn, Felix",Kampf um Rom,foo,1876,T2,high,m,265086,long,1,1834,1912,http://d-nb.info/gnd/118523392
+DEU045,"Stifter, Adalbert",Witiko,foo,1865,T2,high,m,337846,long,1,1805,1868,http://d-nb.info/gnd/118618156
+DEU046,"Fontane, Theodor",Grete Minde,foo,1879,T2,high,m,39821,short,1,1819,1898,http://d-nb.info/gnd/118534262
+DEU047,"François, Louise von",Judith die Kluswirtin,foo,1862,T2,low,f,54773,medium,1,1817,1893,http://d-nb.info/gnd/118692577
+DEU048,"Freytag, Gustav",Die Ahnen,foo,1872,T2,high,m,715658,long,1,1816,1895,http://d-nb.info/gnd/118535455
+DEU049,"Raabe, Wilhelm","Die Leute aus dem Walde, ihre Sterne, Wege und Schicksale",foo,1863,T2,low,m,149073,long,1,1831,1910,http://d-nb.info/gnd/118692577
+DEU050,"Raabe, Wilhelm",Abu Telfan oder Die Heimkehr vom Mondgebirge,foo,1867,T2,medium,m,136330,long,1,1831,1910,http://d-nb.info/gnd/118692577
+DEU051,"Fontane, Theodor",Unterm Birnbaum,foo,1885,T3,high,m,40316,short,1,1819,1898,http://d-nb.info/gnd/118534262
+DEU052,"Spyri, Johanna",Heidis Lehr- und Wanderjahre,foo,1880,T3,high,f,61406,medium,1,1827,1901,http://d-nb.info/gnd/118616455
+DEU053,"Fontane, Theodor",Graf Petöfy,foo,1884,T3,high,m,71428,medium,1,1819,1898,http://d-nb.info/gnd/118534262
+DEU054,"May, Karl",Am Jenseits,foo,1899,T3,high,m,186082,long,1,1842,1912,http://d-nb.info/gnd/118818651
+DEU055,"Bahr, Hermann",Die gute Schule,foo,1890,T3,low,m,64346,medium,1,1836,1934,http://d-nb.info/gnd/118505955
+DEU056,"Conradi, Hermann",Adam Mensch,foo,1889,T3,medium,m,117914,long,1,1862,1890,http://d-nb.info/gnd/118669923
+DEU057,"Dohm, Hedwig",Sibilla Dalmar,foo,1896,T3,low,f,97263,medium,1,1831,1919,http://d-nb.info/gnd/11852643X
+DEU058,"Ebner-Eschenbach, Marie von","Lotti, die Uhrmacherin",foo,1880,T3,high,f,41591,short,1,1830,1916,http://d-nb.info/gnd/118528661
+DEU059,"Fontane, Theodor","Irrungen, Wirrungen",foo,1887,T3,high,m,63334,medium,1,1819,1898,http://d-nb.info/gnd/118534262
+DEU060,"Janitschek, Maria",Die Amazonenschlacht,foo,1897,T3,low,f,21931,short,1,1859,1927,http://d-nb.info/gnd/117078719
+DEU061,"Bleibtreu, Karl",Größenwahn,foo,1888,T3,low,m,294270,long,1,1859,1928,http://d-nb.info/gnd/118663909
+DEU062,"Polenz, Wilhelm von",Der Büttnerbauer,foo,1895,T3,high,m,140675,long,1,1861,1903,http://d-nb.info/gnd/118803336
+DEU063,"Dohm, Hedwig",Wie Frauen werden,foo,1894,T3,low,f,38398,short,1,1831,1919,http://d-nb.info/gnd/11852643X
+DEU064,"Christen, Ada",Jungfer Mutter,foo,1892,T3,low,f,47731,short,1,1839,1901,http://d-nb.info/gnd/1014783895
+DEU065,"Spielhagen, Friedrich",Zum Zeitvertreib,foo,1897,T3,low,m,67471,medium,1,1823,1911,http://d-nb.info/gnd/118616196
+DEU066,"Fontane, Theodor",Der Stechlin,foo,1897,T3,high,m,154063,long,1,1819,1898,http://d-nb.info/gnd/118534262
+DEU067,"Ganghofer, Ludwig",Schloß Hubertus,foo,1895,T3,high,m,198887,long,1,1855,1920,http://d-nb.info/gnd/118537490
+DEU068,"Spitteler, Carl",Conrad,foo,1898,T3,low,m,52176,medium,1,1845,1925,http://d-nb.info/gnd/118616277
+DEU069,"Kretzer, Max",Meister Timpe,foo,1888,T3,low,m,92656,medium,1,1854,1941,http://d-nb.info/gnd/118715917
+DEU070,"Fontane, Theodor",Schach von Wuthenow,foo,1882,T3,high,m,50542,medium,1,1819,1898,http://d-nb.info/gnd/118534262
+DEU071,"Fontane, Theodor",Cécile,foo,1887,T3,high,m,67507,medium,1,1819,1898,http://d-nb.info/gnd/118534262
+DEU072,"Raabe, Wilhelm",Im alten Eisen,foo,1887,T3,high,m,64386,medium,1,1831,1910,http://d-nb.info/gnd/118692577
+DEU073,"Dohm, Hedwig",Schicksale einer Seele,foo,1899,T3,low,f,104561,long,1,1831,1919,http://d-nb.info/gnd/11852643X
+DEU074,"Boy-Ed, Ida",Fanny Förster,foo,1889,T3,low,f,84303,medium,1,1852,1928,http://d-nb.info/gnd/118662473
+DEU075,"Janitschek, Maria",Ninive,foo,1896,T3,low,f,56550,medium,1,1859,1927,http://d-nb.info/gnd/117078719
+DEU076,"Wassermann, Jakob",Caspar Hauser,foo,1907,T4,high,m,156760,long,1,1873,1934,http://d-nb.info/gnd/1014784077
+DEU077,"Reventlow, Franziska Gräfin zu",Ellen Olestjerne,foo,1903,T4,medium,f,73402,medium,1,1871,1918,http://d-nb.info/gnd/118600044
+DEU078,"Essig, Hermann",Der Taifun,foo,1919,T4,low,m,118751,long,1,1878,1918,http://d-nb.info/gnd/118531212
+DEU079,"Rilke, Rainer Maria",Die Aufzeichnungen des Malte Laurids Brigge,foo,1910,T4,high,m,70411,medium,1,1875,1926,http://d-nb.info/gnd/118601024
+DEU080,"Keyserling, Eduard von",Dumala,foo,1907,T4,low,m,37961,short,1,1855,1918,http://d-nb.info/gnd/118561812
+DEU081,"May, Karl",Und Friede auf Erden!,foo,1904,T4,high,m,210053,long,1,1842,1912,http://d-nb.info/gnd/118818651
+DEU082,"Braun, Lily",Lebenssucher,foo,1915,T4,low,f,142219,long,1,1865,1916,http://d-nb.info/gnd/11867353X
+DEU083,"Sack, Gustav",Paralyse,foo,1913,T4,low,m,23323,short,1,1885,1916,http://d-nb.info/gnd/118750607
+DEU084,"May, Karl",Ardistan und Dschinnistan II,foo,1909,T4,high,m,205246,long,1,1842,1912,http://d-nb.info/gnd/118818651
+DEU085,"Ganghofer, Ludwig",Der Ochsenkrieg,foo,1914,T4,high,m,212235,long,1,1855,1920,http://d-nb.info/gnd/118537490
+DEU086,"Meysenbug, Malwida Freiin von",Himmlische und irdische Liebe,foo,1905,T4,low,f,45345,short,1,1861,1903,http://d-nb.info/gnd/1014784034
+DEU087,"Heyking, Elisabeth von","Briefe, die ihn nicht erreichten",foo,1903,T4,low,f,56322,medium,1,1861,1925,http://d-nb.info/gnd/104359080
+DEU088,"Fontane, Theodor",Mathilde Möhring,foo,1906,T4,high,m,40323,short,1,1819,1898,http://d-nb.info/gnd/118534262
+DEU089,"Wille, Bruno",Die Abendburg,foo,1909,T4,low,m,178800,long,1,1860,1928,http://d-nb.info/gnd/11863318X
+DEU090,"Reventlow, Franziska Gräfin zu",Von Paul zu Pedro,foo,1912,T4,high,f,25015,short,1,1871,1918,http://d-nb.info/gnd/118600044
+DEU091,"Schnitzler, Arthur",Casanovas Heimfahrt,foo,1918,T4,high,m,43407,short,1,1862,1931,http://d-nb.info/gnd/118609807
+DEU092,"Sudermann, Hermann",Jons und Erdme,foo,1917,T4,low,m,48607,short,1,1857,1928,http://d-nb.info/gnd/118619853
+DEU093,"Christ, Lena",Madam Bäurin,foo,1920,T4,high,f,42418,short,1,1881,1920,http://d-nb.info/gnd/118520555
+DEU094,"Schnitzler, Arthur",Der Weg ins Freie,foo,1907,T4,high,m,144932,long,1,1862,1931,http://d-nb.info/gnd/118609807
+DEU095,"Ball, Hugo",Flammetti,foo,1918,T4,low,m,58233,medium,1,1886,1927,http://d-nb.info/gnd/118506234
+DEU096,"Meyrink, Gustav",Der Golem,foo,1913,T4,high,m,90790,medium,1,1868,1932,http://d-nb.info/gnd/118582046
+DEU097,"Keyserling, Eduard von",Wellen,foo,1911,T4,high,m,54745,medium,1,1855,1918,http://d-nb.info/gnd/118561812
+DEU098,"Reventlow, Franziska Gräfin zu",Herrn Dames Aufzeichnungen,foo,1913,T4,high,f,41778,short,1,1871,1918,http://d-nb.info/gnd/118600044
+DEU099,"Christ, Lena",Mathias Bichler,foo,1914,T4,high,f,81921,medium,1,1881,1920,http://d-nb.info/gnd/118520555
+DEU100,"Ebner-Eschenbach, Marie von",Agave,foo,1903,T4,high,f,51704,medium,1,1830,1916,http://d-nb.info/gnd/118528661

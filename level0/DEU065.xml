@@ -4,7 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>Zum Zeitvertreib</title>
-            <author ref="http://d-nb.info/gnd/pnd:118616196">Spielhagen, Friedrich</author>
+            <author ref="http://d-nb.info/gnd/118616196">Spielhagen, Friedrich (1823-1911)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>
@@ -46,7 +46,7 @@
    </teiHeader>
 
    <text>
-      <front/>
+      
       <body>
          <div type="chapter">
             <head>

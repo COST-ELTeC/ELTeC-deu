@@ -4,7 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>Hammer und Amboß</title>
-            <author ref="http://d-nb.info/gnd/pnd:118616196">Spielhagen, Friedrich</author>
+            <author ref="http://d-nb.info/gnd/118616196">Spielhagen, Friedrich (1823-1911)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>
@@ -46,9 +46,9 @@
    </teiHeader>
 
    <text>
-      <front/>
+      
       <body>
-         <div>
+         <div type="chapter">
             <head>Erster Theil</head>
             <div type="chapter">
                <head>
@@ -13172,7 +13172,7 @@
                </p>
             </div>
          </div>
-         <div>
+         <div type="chapter">
             <head>Zweiter Theil</head>
             <div type="chapter">
                <head>Erstes Capitel.</head>

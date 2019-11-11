@@ -4,7 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>Ninive</title>
-            <author ref="http://d-nb.info/gnd/pnd:117078719">Janitschek, Maria</author>
+            <author ref="http://d-nb.info/gnd/117078719">Janitschek, Maria (1859-1927)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>
@@ -46,7 +46,7 @@
    </teiHeader>
 
    <text>
-      <front/>
+      
       <body>
          <div type="chapter">
             <head>

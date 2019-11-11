@@ -4,7 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>Soll und Haben</title>
-            <author ref="http://d-nb.info/gnd/pnd:118535455">Freytag, Gustav</author>
+            <author ref="http://d-nb.info/gnd/118535455">Freytag, Gustav (1816-1895)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>
@@ -46,13 +46,11 @@
    </teiHeader>
 
    <text>
-      <front/>
+      
       <body>
-         <div>
-            <p>
-               <pb facs="#"/> Seiner Hoheit </p>
-
-            <div>
+         <div type="chapter">
+            <head>
+               <pb facs="#"/> Seiner Hoheit </head>
                <head>Ernst II.</head>
                <!--milestone head_start-->
                <p> Herzoge zu Sachsen-Coburg-Gotha </p>
@@ -104,10 +102,9 @@
                <p> Gustav Freytag <pb facs="#"/>
                </p>
             </div>
-         </div>
-         <div>
+         
+         <div type="chapter">
             <head>Erstes Buch</head>
-            <div type="chapter">
                <head>1</head>
                <p>Ostrau ist eine kleine Kreisstadt unweit der Oder, bis nach Polen hinein berühmt
                   durch ihr Gymnasium und süße Pfefferkuchen, welche dort noch mit einer Fülle von
@@ -305,7 +302,7 @@
                   desselben in die Hand des Vormundes, übergab sein Gepäck einem Fuhrmann und fuhr
                   durch das Tor des Städtchens auf die Hauptstadt zu, den Brief seines Vaters an den
                   Kaufmann in der Tasche.</p>
-            </div>
+            
             <div type="chapter">
                <head>2</head>
                <p>Schon welkte das frischgemähete Wiesengras in der Mittagssonne, als Anton dem
@@ -4150,9 +4147,8 @@
                <pb facs="#"/>
             </div>
          </div>
-         <div>
+         <div type="chapter">
             <head>Zweites Buch</head>
-            <div type="chapter">
                <head>1</head>
                <p>An einem Sonntagmorgen las Anton emsig in dem letzten Mohikaner von Cooper,
                   während vor dem Fenster die ersten Schneeflocken ihren Kriegstanz tanzten und sich
@@ -4936,7 +4932,7 @@
                   war's, daß sein Hausgeist, die gelbe Katze, sich auf ihrem Postament hoch
                   aufrichtete und den Kopf schüttelte über den langen Zug fremdartiger Bilder und
                   Gefühle, welche in der friedlichen Stube eingekehrt waren.</p>
-            </div>
+            
             <div type="chapter">
                <head>2</head>
                <p>Seit diesem großen Abend hatte die Tanzstunde regelmäßigen Verlauf. Als Anton das
@@ -9578,9 +9574,8 @@
                <pb facs="#"/>
             </div>
          </div>
-         <div>
+         <div type="chapter">
             <head>Drittes Buch</head>
-            <div type="chapter">
                <head>1</head>
                <p>Ein böses Jahr kam über das Land, ein plötzlicher Kriegslärm alarmierte die
                   deutschen Grenzländer im Osten, darunter auch unsere Provinz. Die furchtbaren
@@ -10209,7 +10204,7 @@
                <p>»Sie ist ein furchtsames Mädchen«, sagte der Kaufmann lächelnd. »Indes, da Sie so
                   freundschaftlich darauf bestehen, mag es sein. Wir reisen zusammen; rufen Sie den
                   Wirt und lassen Sie uns die Reisegelegenheit besprechen.«</p>
-            </div>
+            
             <div type="chapter">
                <head>2</head>
                <p>Es war noch dämmrige Nacht, als Anton vor die Tür der Schenke trat. Ein dichter
@@ -14844,9 +14839,8 @@
                <pb facs="#"/>
             </div>
          </div>
-         <div>
+         <div type="chapter">
             <head>Viertes Buch</head>
-            <div type="chapter">
                <head>1</head>
                <p>An einem kalten Oktobertage fuhren zwei Männer bei dem Torgitter der Stadt Rosmin
                   vorüber in die Ebene, welche sich einförmig und endlos vor ihnen ausbreitete.
@@ -15317,7 +15311,7 @@
                   Fledermäuse aus ihrer Wohnung im Schornstein, daß sie schlaftrunken um die Zinnen
                   des Turms flatterten; und die Käuze im Mauerritz schüttelten ihren dicken Kopf und
                   stöhnten über die neue Zeit.</p>
-            </div>
+            
             <div type="chapter">
                <head>2</head>
                <p>Wer immer in den gebahnten Wegen des Lebens fortgegangen ist, begrenzt durch das
@@ -18372,9 +18366,8 @@
                <pb facs="#"/>
             </div>
          </div>
-         <div>
+         <div type="chapter">
             <head>Fünftes Buch</head>
-            <div type="chapter">
                <head>1</head>
                <p>Die Güter des Freiherrn lagen in einer Ecke des Rosminer Kreises. Nördlich hinter
                   dem Walde das deutsche Bauerndorf Neudorf, und weiter ab im Osten Kunau. Durch
@@ -19130,7 +19123,7 @@
                <p>»Er ist reich, er kommt her, um zu kaufen«, sagte sich der Freiherr im stillen.
                   »Dieser Wohlfart hat seinem Freund gemeldet, daß hier ein Geschäft zu machen ist,
                   die Spekulation fängt an, nur vorsichtig!«</p>
-            </div>
+            
             <div type="chapter">
                <head>2</head>
                <p>Es war ein sonniger Morgen im April. Einer von den schönen Tagen, wo eine feuchte
@@ -21899,9 +21892,8 @@
                <pb facs="#"/>
             </div>
          </div>
-         <div>
+         <div type="chapter">
             <head>Sechstes Buch</head>
-            <div type="chapter">
                <head>1</head>
                <p>Traurige Tage kamen über das Schloß, schwer zu tragen für jeden, der in seinen
                   Mauern wohnte. In der Familie des Freiherrn saß das Siechtum, wie der Wurm in
@@ -22769,7 +22761,7 @@
                   Pferde, die ihn seiner Heimat zuführten, und sagte zu sich selbst: »Vorwärts! ich
                   bin frei, und mein Weg ist jetzt klar.«</p>
                <pb facs="#"/>
-            </div>
+            
             <div type="chapter">
                <head>2</head>
                <p>Unterdes stand Antons Hausgeist, die lederfarbene Katze, traurig auf ihrem

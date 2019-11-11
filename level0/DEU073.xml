@@ -4,7 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>Schicksale einer Seele</title>
-            <author ref="http://d-nb.info/gnd/pnd:11852643X">Dohm, Hedwig</author>
+            <author ref="http://d-nb.info/gnd/11852643X">Dohm, Hedwig (1831-1919)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>
@@ -46,9 +46,9 @@
    </teiHeader>
 
    <text>
-      <front/>
+      
       <body>
-         <div>
+         <div type="chapter">
             <head>
                <pb facs="#"/> Vorwort</head>
             <p>In drei Romanen wollte ich drei Frauengenerationen des 19. Jahrhunderts schildern,
@@ -80,7 +80,7 @@
                bist.«</p>
             <pb facs="#"/>
          </div>
-         <div>
+         <div type="chapter">
             <head>[Schicksale einer Seele]</head>
             <p>Monatelang nun ohne Dich geliebtester Freund! Freund! Das Wort klingt fast hart,
                deckt sich nicht mit dem Begriff. Starkes und Zartes, eine ganze Milchstraße von

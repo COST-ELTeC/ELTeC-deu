@@ -4,7 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>Casanovas Heimfahrt</title>
-            <author ref="http://d-nb.info/gnd/pnd:118609807">Schnitzler, Arthur</author>
+            <author ref="http://d-nb.info/gnd/118609807">Schnitzler, Arthur (1862-1931)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>
@@ -46,9 +46,9 @@
    </teiHeader>
 
    <text>
-      <front/>
+      
       <body>
-         <div>
+         <div type="chapter">
             <head>
                <pb facs="#"/> Arthur Schnitzler</head>
             <head>Casanovas Heimfahrt</head>
@@ -2904,7 +2904,7 @@
                Jahren der Verbannung den ersten, so lang ersehnten Heimatschlaf zu tun, der endlich,
                bei anbrechendem Morgen, traumlos und dumpf, sich des alten Abenteurers erbarmte.</p>
 
-            <div>
+            <div type="chapter">
                <head>Anmerkung</head>
                <p>Ein Besuch Casanovas bei Voltaire in Ferney hat tatsächlich stattgefunden, doch
                   alle in der vorstehenden Novelle daran geknüpften Folgerungen, wie insbesondre
