@@ -47,11 +47,11 @@
    </teiHeader>
 
    <text>
-
+      
       <body>
          <div type="chapter">
-            <p>
-               <pb/> 1</p>
+            <head>
+               <pb facs="#"/> 1</head>
             <p>Ja, nun sind Sie wieder fort, lieber Freund – Sie fehlen mir sehr, und ich denke mit
                einiger Wehmut an unser Beisammensein, vor allem an unsere ›Teegespräche‹ zurück.</p>
             <p>Es war doch recht hübsch, wenn wir uns aus Regen und Wind in den Tea-room flüchteten
@@ -69,8 +69,9 @@
                mir jetzt auch brieflich nicht zu seriös werden und mich nicht wieder als ›Problem‹
                behandeln – ich bin keines –, sonst prophezeie ich unserer Korrespondenz einen frühen
                Tod.</p>
-            <p>Einstweilen bin ich noch recht schreibselig aufgelegt, es <pb/> ist gar so fad,
-               allein in einer fremden Stadt zu sitzen, wenn es regnet, ununterbrochen regnet.</p>
+            <p>Einstweilen bin ich noch recht schreibselig aufgelegt, es <pb facs="#"/> ist gar so
+               fad, allein in einer fremden Stadt zu sitzen, wenn es regnet, ununterbrochen
+               regnet.</p>
             <p>Das vielbesprochene Abenteuer, dem ich mein Hiersein verdanke, ist zu Ende. Es lag ja
                schon in den letzten Zügen, als Sie herkamen. Sie waren wohl etwas mit schuld daran –
                er wurde mir so langweilig, er war auch wirklich und wahrhaftig langweilig, aber im
@@ -92,10 +93,10 @@
                wie eine Verpflichtung zu irgend etwas Ungeheuerlichem. – Aber schließlich löste ich
                mich in Tränen auf und sagte doch nein.</p>
             <p>
-               <pb/> Wir sind uns nachher noch oft auf der Straße begegnet, haben aber nie wieder
-               miteinander gesprochen. Er hat mich nur stumm und leidenschaftlich angesehen. Das war
-               eigentlich recht guter Stil, er bekam dadurch eine Art Nimbus für mich, und ich
-               verzieh ihm die sechs Kinder, die mich erst so entsetzt hatten.</p>
+               <pb facs="#"/> Wir sind uns nachher noch oft auf der Straße begegnet, haben aber nie
+               wieder miteinander gesprochen. Er hat mich nur stumm und leidenschaftlich angesehen.
+               Das war eigentlich recht guter Stil, er bekam dadurch eine Art Nimbus für mich, und
+               ich verzieh ihm die sechs Kinder, die mich erst so entsetzt hatten.</p>
             <p>Aber denken Sie nur, wenn ich damals Romantik und schauervolle Wirklichkeit
                verwechselt hätte, wie es mir leider späterhin noch manchmal passiert ist...</p>
             <p>Nein, ich war meinem Abenteurer hier in der Regenstadt von Herzen dankbar, daß er
@@ -114,31 +115,32 @@
                zwei, drei Stunden zu Tode langweilt und nie im Leben ein richtiges Teegespräch
                führen könnte.</p>
             <p>
-               <pb/> Aber Sie dürfen eigentlich ganz damit einverstanden sein, ich meine, es hat
-               sich doch immer alles aufs schönste ergänzt. Mir schien auch, daß Sie sich in Ihrer
-               diesmaligen Rolle als ›Konversationsliebe‹ ganz wohl fühlten. Zu Ihnen flüchtete ich
-               mich immer wieder, wenn er gar zu stumpfsinnig wurde. Nur, wenn wir einmal unseren
-               richtigen Platz nicht bekamen und Sie, fern vom Kamin, zu tiefgründig waren – dann
-               bekam ich wieder Sehnsucht nach ihm und stahl mich ans Telefon. Zum Beispiel, als Sie
-               verlangten, ich sollte Hölderlins Hyperion lesen – oder wollen Sie immer noch nicht
-               zugeben, daß Ihr Ansinnen deplaciert war? Im Süden und wenn man gerade romantisch
-               aufgelegt ist – mit Vergnügen. Aber bei dem Regen und unter diesen Umständen – ich
-               hab's ja versucht, aber das einzige, was mir Eindruck machte, war die Stelle: »Guter
-               Junge! es regnet.« Und das gab meine Empfindungen so erschöpfend wieder, daß ich ganz
-               glücklich war. Aber ich glaube, das haben weder Sie noch er begriffen.</p>
+               <pb facs="#"/> Aber Sie dürfen eigentlich ganz damit einverstanden sein, ich meine,
+               es hat sich doch immer alles aufs schönste ergänzt. Mir schien auch, daß Sie sich in
+               Ihrer diesmaligen Rolle als ›Konversationsliebe‹ ganz wohl fühlten. Zu Ihnen
+               flüchtete ich mich immer wieder, wenn er gar zu stumpfsinnig wurde. Nur, wenn wir
+               einmal unseren richtigen Platz nicht bekamen und Sie, fern vom Kamin, zu tiefgründig
+               waren – dann bekam ich wieder Sehnsucht nach ihm und stahl mich ans Telefon. Zum
+               Beispiel, als Sie verlangten, ich sollte Hölderlins Hyperion lesen – oder wollen Sie
+               immer noch nicht zugeben, daß Ihr Ansinnen deplaciert war? Im Süden und wenn man
+               gerade romantisch aufgelegt ist – mit Vergnügen. Aber bei dem Regen und unter diesen
+               Umständen – ich hab's ja versucht, aber das einzige, was mir Eindruck machte, war die
+               Stelle: »Guter Junge! es regnet.« Und das gab meine Empfindungen so erschöpfend
+               wieder, daß ich ganz glücklich war. Aber ich glaube, das haben weder Sie noch er
+               begriffen.</p>
             <p>Denken Sie darüber nach, lieber Freund, und leben Sie für heute recht wohl.</p>
          </div>
          <div type="chapter">
-            <p>2</p>
+            <head>2</head>
             <p>Ich fürchte, ich werde mich nie daran gewöhnen, meine Briefe zu datieren. Tue ich es
                einmal, weil ich denke, es müßte sein, so ist das Datum gewöhnlich falsch. Man weiß
                es gerade nicht, hat keine Lust erst nachzusehen und schreibt irgendein beliebiges
-               hin, weil es doch ganz gleichgültig ist, ob mein Brief am dritten oder am zehnten
-               <pb/> November geschrieben wurde. Ich datiere eigentlich nur, wenn ich einen Brief
-               verbummelt habe und meine Nachlässigkeit beschönigen will. Und dann schreibt man
-               natürlich absichtlich ein falsches Datum. Ich halte das, wie so viele kleine Lügen,
-               für eine liebenswürdige Rücksicht, durch die man anderen ein ärgerliches Gefühl
-               erspart.</p>
+               hin, weil es doch ganz gleichgültig ist, ob mein Brief am dritten oder am zehnten <pb
+                  facs="#"/> November geschrieben wurde. Ich datiere eigentlich nur, wenn ich einen
+               Brief verbummelt habe und meine Nachlässigkeit beschönigen will. Und dann schreibt
+               man natürlich absichtlich ein falsches Datum. Ich halte das, wie so viele kleine
+               Lügen, für eine liebenswürdige Rücksicht, durch die man anderen ein ärgerliches
+               Gefühl erspart.</p>
             <p>Bei den ersten Jugendlieben schrieb ich immer ein pathetisches Datum: sieben Uhr
                morgens – die Vögel zwitschern schon vor meinem Fenster; – ob sie wirklich
                zwitscherten, weiß ich heute nicht mehr zu sagen, aber es machte sich so hübsch.
@@ -154,8 +156,8 @@
                Objekt umsonst gewesen? Ich fürchte: Ja – Sie werden stets von neuem beklagen, daß
                gerade die Frauen, die man am meisten schätzt, so ›furchtbar wahllos‹ sind. – Und ich
                habe gar keine Lust, Ihnen immer wieder etwas vorzuleben, damit Sie zur Einsicht
-               kommen. Ich müßte mich denn zur Abwechselung einmal <pb/> nach Ihrem Geschmack
-               richten, und das – nein, das ist zuviel verlangt.</p>
+               kommen. Ich müßte mich denn zur Abwechselung einmal <pb facs="#"/> nach Ihrem
+               Geschmack richten, und das – nein, das ist zuviel verlangt.</p>
             <p>Übrigens behauptet fast jeder Mann, man sei wahllos. Der eine begreift nicht, daß man
                sich in einen Friseurtypus oder Tenor verlieben kann, und würde Naturburschen
                verzeihlicher finden. Der andere hat keine Auffassung dafür, daß exotischer Typ und
@@ -176,9 +178,9 @@
                mögliche sein, verheiratet oder Junggeselle, Leutnant, Ingenieur, junger Arzt,
                Afrikareisender – es kommt auch vor, daß er gar keinen Beruf hat.</p>
             <p>
-               <pb/> Manchmal ist er auch ›drüben‹ geboren, dann nennt er sich Pablo und rollt das R
-               – vorausgesetzt, daß der Vorname stimmt, was merkwürdigerweise oft, aber natürlich
-               nicht immer der Fall ist.</p>
+               <pb facs="#"/> Manchmal ist er auch ›drüben‹ geboren, dann nennt er sich Pablo und
+               rollt das R – vorausgesetzt, daß der Vorname stimmt, was merkwürdigerweise oft, aber
+               natürlich nicht immer der Fall ist.</p>
             <p>Man lernt ihn in Sommerfrischen, in Hotels und auf Reisen kennen; an einem festen
                Wohnort – nein, ich glaube kaum, höchstens wenn er sich vorübergehend dort aufhält.
                Zu Paul gehören immer Koffer und Kellner, irgendeine momentane und geräuschvolle
@@ -196,10 +198,10 @@
             <p>Und Sie denken jetzt wohl: Gott sei Dank, daß ich nicht Paul bin. Sie haben nicht
                ganz unrecht – Paul wird in der Regel bald langweilig, und man entflieht in den
                Tea-room. </p>
-            <pb/>
+            <pb facs="#"/>
          </div>
          <div type="chapter">
-            <p>3</p>
+            <head>3</head>
             <p>Gestern habe ich lebhaft an Sie denken müssen. O Regenstadt – o Tea-room – o
                Teegespräch!</p>
             <p>Ich habe inzwischen verschiedene Leute kennengelernt, und diese verschiedenen Leute
@@ -221,8 +223,8 @@
                und große Tragik, wenn es zu Ende geht – so etwa schienen diese Gerechten es sich
                vorzustellen – nein, das möchte wirklich zu weit führen.</p>
             <p>
-               <pb/> Die Frau wolle doch wenigstens die Illusion haben, daß sie liebt, wenn sie
-               einem Manne angehört – meinte jemand, und die anderen stimmten ihm bei.</p>
+               <pb facs="#"/> Die Frau wolle doch wenigstens die Illusion haben, daß sie liebt, wenn
+               sie einem Manne angehört – meinte jemand, und die anderen stimmten ihm bei.</p>
             <p>Das ist hart, sehr hart. Schon das diktatorische: die Frau, der Mann. Wer sind diese
                Frau und dieser Mann?</p>
             <p>Warum wohl überhaupt diese Sucht, diese schöne Vielfältigkeit des Lebens und all
@@ -241,8 +243,8 @@
             <p>Und Liebe? Unter Liebe verstehe ich – nun, eine seriöse Dauersache. Aber Sie dürfen
                mir diesen Begriff nicht zu optimistisch auffassen. Dauersache ist alles, was – sagen
                wir, was monatelang dauert – seriöse Dauersache, wenn es viele Monate sind; über ein
-               Jahr – dann wird es schon Verhängnis mit einem Stich ins Ewige. Natürlich gibt es
-               <pb/> auch Dauersachen mit Unterbrechung und viele andere Variationen.</p>
+               Jahr – dann wird es schon Verhängnis mit einem Stich ins Ewige. Natürlich gibt es <pb
+                  facs="#"/> auch Dauersachen mit Unterbrechung und viele andere Variationen.</p>
             <p>Damit war meine gestrige Gesellschaft durchaus nicht einverstanden, und man versuchte
                mich mit vielen Fragen in die Enge zu treiben. Aber dann mache ich mir's bequem und
                verstumme. Ich habe überhaupt nicht viel Sinn für theoretische Fragen, außer, wenn es
@@ -261,8 +263,8 @@
                nichts mit erotischer Attraktion zu tun hat. Wenn mir jemand gefällt, frage ich doch
                den Teufel danach, wie es mit seinem inneren Wert bestellt ist. Kommt beides zufällig
                zusammen – tant mieux. Dann ist es natürlich auch etwas anderes als die bloße
-               Aventiure, die keine Fortsetzungen verträgt, weil der Partner einem als <pb/> Mensch
-               ganz gleichgültig ist und man nichts mehr mit ihm anzufangen weiß.</p>
+               Aventiure, die keine Fortsetzungen verträgt, weil der Partner einem als <pb facs="#"
+               /> Mensch ganz gleichgültig ist und man nichts mehr mit ihm anzufangen weiß.</p>
             <p>Geht es um Ernstliches, so muß allerdings irgend etwas dasein, was für mich
                persönlich Wert hat, mir erfreulich, wohltuend, unentbehrlich erscheint oder mir
                imponiert, kurz, was ich haben möchte. An denen, die man liebt, will man wohl irgend
@@ -280,10 +282,10 @@
                nebeneinander und durcheinander abspielten, so fügt sich für mein Empfinden alles
                ganz von selbst zur schönsten Harmonie zusammen. Auch wenn – cher ami, das gilt Ihnen
                mit – andere Leute so oft etwas daran auszusetzen haben.</p>
-            <pb/>
+            <pb facs="#"/>
          </div>
          <div type="chapter">
-            <p>4</p>
+            <head>4</head>
             <p>Ganz richtig, das ist sonderbar – gerade wir bösen, unbeständigen Menschenkinder
                werden oft so ungemein ernsthaft geliebt, wie man nur unbescholtene junge Mädchen und
                ›anständige‹ Frauen lieben sollte. Zumeist wohl von den ›dummen Jungen‹, und das ist
@@ -303,14 +305,14 @@
                imstande sei, unser zerflattertes Liebesleben einzufangen und auf einen Hauptpunkt,
                nämlich auf sich selbst zu konzentrieren. Er findet, es sei ein Jammer, daß wir uns
                zeitlebens so weggeworfen haben, an so viele, die es nicht wert waren (darin würden
-               Sie sich also <pb/> ganz gut mit ihm verstehen) – ja, wenn wir nur einmal an den
-               Rechten gekommen wären – wie anders, Gretchen! Der Retter hält sich – das liegt auf
-               der Hand – für den, der es selbst jetzt noch vermöchte, das Wunder zu vollbringen.
-               Dabei ist er trotz allem: wie schade um diese Frau – merkwürdig tolerant gegen unsere
-               Vergangenheit, empfindet sie mehr als Verirrung: ihr ist viel vergeben, denn sie hat
-               viel geliebt. Sie hat keinen Halt in sich selbst und keinen an anderen gehabt, hat
-               sich von ihrem Temperament hinreißen lassen, und das haben die schlechten Männer sich
-               zunutze gemacht.</p>
+               Sie sich also <pb facs="#"/> ganz gut mit ihm verstehen) – ja, wenn wir nur einmal an
+               den Rechten gekommen wären – wie anders, Gretchen! Der Retter hält sich – das liegt
+               auf der Hand – für den, der es selbst jetzt noch vermöchte, das Wunder zu
+               vollbringen. Dabei ist er trotz allem: wie schade um diese Frau – merkwürdig tolerant
+               gegen unsere Vergangenheit, empfindet sie mehr als Verirrung: ihr ist viel vergeben,
+               denn sie hat viel geliebt. Sie hat keinen Halt in sich selbst und keinen an anderen
+               gehabt, hat sich von ihrem Temperament hinreißen lassen, und das haben die schlechten
+               Männer sich zunutze gemacht.</p>
             <p>Ja, er läßt es an Verständnis nicht fehlen und ist überzeugt, man habe jeden, dem man
                sich ›hingegeben‹, glühend und tief geliebt, aber er war es natürlich in den
                seltensten Fällen wert. Der Retter sagt gerne: ›armes Kind‹ und streicht einem dabei
@@ -325,11 +327,11 @@
                wird – oder, wenn man sich gerade mit jemand anders gezankt hat. Man fällt ihm bei
                irgendeiner Gelegenheit in die Arme.</p>
             <p>Der Retter will kein Philister sein – Gott bewahre. Er verwirft auch die illegitimen
-               Liebesfreuden an sich durchaus nicht, faßt sie nur viel zu ernst auf und sucht <pb/>
-               ihnen eine ethische Weihe zu verleihen. Er betrachtet jede Schäferstunde als Anlaß zu
-               ernsten Gesprächen und zu heillosem Ausfragen – besonders in bezug auf Zahlen und
-               Daten (und man rechnet doch so ungerne und sagt nie die Wahrheit – der Retter würde
-               sie auch nicht vertragen).</p>
+               Liebesfreuden an sich durchaus nicht, faßt sie nur viel zu ernst auf und sucht <pb
+                  facs="#"/> ihnen eine ethische Weihe zu verleihen. Er betrachtet jede
+               Schäferstunde als Anlaß zu ernsten Gesprächen und zu heillosem Ausfragen – besonders
+               in bezug auf Zahlen und Daten (und man rechnet doch so ungerne und sagt nie die
+               Wahrheit – der Retter würde sie auch nicht vertragen).</p>
             <p>Trotz der schlagendsten Gegenbeweise hält er an dem Dogma von der monogamen
                Veranlagung der Frau fest.</p>
             <p>Er ist unbequem und nimmt es übel, wenn man nicht viel Zeit für ihn übrig hat. So
@@ -346,11 +348,11 @@
                Vergangenheit, in der schönen Zeit unseres Dreiecks.</p>
             <p>Mit dem Retter dauert es übrigens meist nicht lange. Er wünscht selbstredend eine
                seriöse Dauersache, und man lehnt tragisch ab: zu spät – man kennt sich selbst zu gut
-               – leider – es bringt niemandem Glück, mich zu lieben<pb/> – besser, man geht seinen
-               dornenvollen Pfad alleine weiter, bis es ein Ende mit Schrecken nimmt. Oft wünscht
-               der Retter sich ein Kind – gerade von dieser Frau – ich weiß nicht warum, vielleicht
-               weil sie dann in seinen Augen ›ganz anders dastehen würde‹ – und er nimmt es übel,
-               wenn sie lieber darauf verzichtet.</p>
+               – leider – es bringt niemandem Glück, mich zu lieben<pb facs="#"/> – besser, man geht
+               seinen dornenvollen Pfad alleine weiter, bis es ein Ende mit Schrecken nimmt. Oft
+               wünscht der Retter sich ein Kind – gerade von dieser Frau – ich weiß nicht warum,
+               vielleicht weil sie dann in seinen Augen ›ganz anders dastehen würde‹ – und er nimmt
+               es übel, wenn sie lieber darauf verzichtet.</p>
             <p>In diesem Fall würde er sie als Ehrenmann selbstverständlich heiraten, sie dürfte
                auch um des Kindes willen nicht nein sagen. Einer von meinen Rettern wollte mich auch
                ohne Kind heiraten; er war verlobt, als wir uns kennenlernten, und löste dann seine
@@ -368,15 +370,15 @@
                wieder – ich erinnere mich deutlich an einen Ball im Elternhause, wo ich zum
                erstenmal mittanzen durfte und meine Gefühle in großer Verwirrung waren. Ich war
                vierzehn Jahre alt, die Tänzer behandelten mich wie eine erwachsene Dame, nannten
-               mich Sie und sagten <pb/> mir schöne Sachen. Und in drei von ihnen war ich zum
-               Sterben verliebt. Ich sehe sie noch vor mir, alle drei waren sehr elegant und trugen
-               die modernsten Stehkragen – ich weiß nicht, warum gerade die Kragen mir so viel
-               Eindruck machten. Zwei waren brünett und einer blond. Die beiden Brünetten gefielen
-               mir beinah noch besser, aber ich liebte auch den Blonden. Und ich weiß noch so gut,
-               wie ich damals dachte, daß man doch immer nur einen Mann heiraten könnte; wenn man
-               nun aber dreie liebt – was dann? Die Frage hat mir viel Kopfzerbrechen gemacht. –
-               Übrigens trugen sie alle drei Zwicker – ich hätte mich dazumal nie in einen Mann ohne
-               Zwicker verliebt, er wäre mir nicht ganz vollständig vorgekommen.</p>
+               mich Sie und sagten <pb facs="#"/> mir schöne Sachen. Und in drei von ihnen war ich
+               zum Sterben verliebt. Ich sehe sie noch vor mir, alle drei waren sehr elegant und
+               trugen die modernsten Stehkragen – ich weiß nicht, warum gerade die Kragen mir so
+               viel Eindruck machten. Zwei waren brünett und einer blond. Die beiden Brünetten
+               gefielen mir beinah noch besser, aber ich liebte auch den Blonden. Und ich weiß noch
+               so gut, wie ich damals dachte, daß man doch immer nur einen Mann heiraten könnte;
+               wenn man nun aber dreie liebt – was dann? Die Frage hat mir viel Kopfzerbrechen
+               gemacht. – Übrigens trugen sie alle drei Zwicker – ich hätte mich dazumal nie in
+               einen Mann ohne Zwicker verliebt, er wäre mir nicht ganz vollständig vorgekommen.</p>
             <p>Sehen Sie, all diese armen Leute mit dem vollen Glück werden doch nur einmal wirklich
                glücklich, und wir werden und sind es so oft. Daß wir es nicht ewig bleiben – nun,
                daran glaube ich auch bei den anderen nicht recht. Der Rausch verfliegt, und was
@@ -386,10 +388,10 @@
                bald wie möglich wieder entrinnen möchte. Also – ich entrinne hiermit Ihnen, den
                Rettern und dem Briefschreiben. Hätte ich doch immer einen so guten Vorwand, wenn ich
                nicht mehr schreiben mag.</p>
-            <pb/>
+            <pb facs="#"/>
          </div>
          <div type="chapter">
-            <p>5</p>
+            <head>5</head>
             <p>Ich bitte Sie, liebster Doktor, schelten Sie nicht schon wieder über meine
                Zerstreutheit – gerade Sie haben verhältnismäßig wenig darunter zu leiden gehabt, ich
                verwechsele Sie schon längst nicht mehr mit anderen Bekannten – ich weiß immer, wer
@@ -412,14 +414,14 @@
                Veranlassung Trübsal blasen sehe. Und ich habe den edlen Vorsatz, Sie ein wenig zu
                trösten.</p>
             <p>
-               <pb/> Wären Sie hier, dann könnte ich Ihnen doch wenigstens die Falten von der Stirn
-               streichen oder – je vous donnerais une de ces heures, qu'un homme n'oublie jamais.
-               (Diese hübsche Wendung ist leider ein Plagiat, ich habe sie irgendwo gelesen.) Aber
-               Sie sind nicht da und grollen nur irgendwo in der Ferne, weil ich Frau N... gegenüber
-               einen so heillosen faux pas begangen habe. – Schade, daß Sie nicht dabei waren, wie
-               ich sie im Vorbeigehen leutselig auf die Schulter tippte: ja, Lily, wie kommen Sie
-               denn hierher? – Doktor R... ist schon fort! Das Gesicht, mit dem sie sich da
-               umdrehte, werde ich nie vergessen.</p>
+               <pb facs="#"/> Wären Sie hier, dann könnte ich Ihnen doch wenigstens die Falten von
+               der Stirn streichen oder – je vous donnerais une de ces heures, qu'un homme n'oublie
+               jamais. (Diese hübsche Wendung ist leider ein Plagiat, ich habe sie irgendwo
+               gelesen.) Aber Sie sind nicht da und grollen nur irgendwo in der Ferne, weil ich Frau
+               N... gegenüber einen so heillosen faux pas begangen habe. – Schade, daß Sie nicht
+               dabei waren, wie ich sie im Vorbeigehen leutselig auf die Schulter tippte: ja, Lily,
+               wie kommen Sie denn hierher? – Doktor R... ist schon fort! Das Gesicht, mit dem sie
+               sich da umdrehte, werde ich nie vergessen.</p>
             <p>Es ist auch ein Kreuz, daß sie ganz genau weiß, um wen es sich handelt, und jetzt
                natürlich glaubt, ›jene Person‹ sei mit Ihnen hiergewesen. Was tun? Soll ich ihr
                einen Besuch machen und Ihre Schuldlosigkeit dartun? Ich fürchte, es würde nur das
@@ -432,10 +434,10 @@
                auf Persönlichkeiten und Begebnisse sei zeitweilig überbürdet worden und habe dadurch
                gelitten. Sie geriet denn auch manchmal in eine Art somnambulen Zustand, verwechselte
                alles und alle – Situationen, Personalien, Erlebnisse, Namen, Gesichter – und schuf
-               sich und anderen manches Herzeleid. Eben diese Dame reiste viel herum und, wie <pb/>
-               es nun einmal zum Reisen gehört, mit verschiedenen Begleitern und unter verschiedenen
-               Namen. Dabei geschah es des öfteren, daß sie den gegenwärtigen Zustand mit
-               irgendeinem früheren verwechselte, zum Beispiel von Bukarest nach Konstantinopel
+               sich und anderen manches Herzeleid. Eben diese Dame reiste viel herum und, wie <pb
+                  facs="#"/> es nun einmal zum Reisen gehört, mit verschiedenen Begleitern und unter
+               verschiedenen Namen. Dabei geschah es des öfteren, daß sie den gegenwärtigen Zustand
+               mit irgendeinem früheren verwechselte, zum Beispiel von Bukarest nach Konstantinopel
                telegraphierte: Komme mir bis Salzburg entgegen – und einen Namen darunter, den der
                Betreffende noch nie gehört hatte. Oder wenn sie mit Sir John auf dem Starnberger See
                eine Segelpartie machte, sagte sie plötzlich aus tiefem Sinnen heraus: »Du – Hans,
@@ -453,9 +455,9 @@
                einen Abend mit ihm verbrachte, ging sie, nicht ohne innere Bewegung, durch sämtliche
                Räume seiner Wohnung und feierte Wiedersehen mit allen vertrauten Gegenständen. Dabei
                blieb sie plötzlich in der offenen Tür zum Schlafzimmer stehen, betrachtete
-               nachdenklich das breite englische Messingbett <pb/> und sagte: »Du – die Seide an dem
-               Bett war doch immer rot – warum hast du es jetzt in Grün machen lassen? Und wo ist
-               der Kranich geblieben?«</p>
+               nachdenklich das breite englische Messingbett <pb facs="#"/> und sagte: »Du – die
+               Seide an dem Bett war doch immer rot – warum hast du es jetzt in Grün machen lassen?
+               Und wo ist der Kranich geblieben?«</p>
             <p>Ja, und dann konnte sie zuerst nicht begreifen, warum diese harmlose Äußerung ihn so
                verstimmte – die Seide war immer grün gewesen und grün geblieben, aber es gab genau
                dasselbe Bett in Rot, und das stand in der Wohnung eines ihrer gemeinsamen Bekannten.
@@ -474,8 +476,8 @@
                Vergnügen beobachtet haben, wie sie den ganzen Abend irgendein langweiliges oder
                unausstehliches vis-a-vis aus reiner Gedankenlosigkeit überaus seelenvoll ansah. Das
                unausstehliche vis-a-vis glaubte schon eine ganze Welt von Empfindung in ihr geweckt
-               zu haben, aber sie hatte nur an jemand <pb/> anders gedacht und war höchst erstaunt,
-               wenn es Konsequenzen daraus ziehen wollte.</p>
+               zu haben, aber sie hatte nur an jemand <pb facs="#"/> anders gedacht und war höchst
+               erstaunt, wenn es Konsequenzen daraus ziehen wollte.</p>
             <p>Sie haben mir auch erzählt, wie Sie diese Ihre Freundin eines Abends abholten – sie
                stand vor einem Schrank und suchte endlos nach ihren Handschuhen. Sie halfen ihr
                suchen, und dabei kam es zu einigen liebenswürdigen Annäherungen Ihrerseits, die sie
@@ -493,10 +495,10 @@
                Sie ja noch gar nicht.</p>
             <p>Leben Sie wohl – es ist spät, und wenn ich noch weiterschreibe, könnte ich vielleicht
                zu indiskret werden.</p>
-            <pb/>
+            <pb facs="#"/>
          </div>
          <div type="chapter">
-            <p>6</p>
+            <head>6</head>
             <p>Dankend quittiert, cher ami. </p>
             <p>Ihre Niederträchtigkeiten sind mir viel lieber als Ihre sentimentalen
                Anwandlungen.</p>
@@ -518,10 +520,10 @@
                Jungen gesehen wird, oder wenn ein Jugendfreund in Velvethosen uns anspricht. Man
                dürfte sich nur mit solchen sehen lassen, die einem stehen oder die man sich gerne
                nachsagen läßt.</p>
-            <p>Bedenken Sie nur, wie viele Schwierigkeiten sich daraus <pb/> ergeben und was für
-               komplizierte Schiebungen manchmal notwendig sind. Es gab eine Zeit – zu meinem
-               Leidwesen muß ich es erwähnen – wo ich mich in einer solchen Lebensekstase, in einem
-               so fortgesetzten Herzenstumult befand, daß ich wenig oder gar keinen Blick für
+            <p>Bedenken Sie nur, wie viele Schwierigkeiten sich daraus <pb facs="#"/> ergeben und
+               was für komplizierte Schiebungen manchmal notwendig sind. Es gab eine Zeit – zu
+               meinem Leidwesen muß ich es erwähnen – wo ich mich in einer solchen Lebensekstase, in
+               einem so fortgesetzten Herzenstumult befand, daß ich wenig oder gar keinen Blick für
                dergleichen Äußerlichkeiten hatte. Es wird mir in der Erinnerung wirklich schwer,
                mich da hineinzudenken, aber ich weiß es als historische Tatsache. Und dazumal habe
                ich wohl mein Renommee schon so übel zugerichtet, daß es sich nie wieder ganz erholt
@@ -540,8 +542,8 @@
                sich auch nicht abgewöhnen, denn er befindet sich ganz wohl dabei. Es würde mir
                sicher Vergnügen machen, einen Abend mit ihm zusammen im Cafe zu sitzen – mein Ruf
                verbietet es mir. Der Schlapphut würde sofort zu meinen Intimen gerechnet, und das
-               <pb/> lasse ich nicht gerne auf mir sitzen. Auch wenn es ein noch so wertvoller
-               Mensch ist, lieber Doktor.</p>
+                  <pb facs="#"/> lasse ich nicht gerne auf mir sitzen. Auch wenn es ein noch so
+               wertvoller Mensch ist, lieber Doktor.</p>
             <p>In M... gab es in alten Zeiten ein verschwiegenes und entlegenes Weinrestaurant, das
                ich zu solchen Zwecken kultivierte. Ich will Ihnen die Adresse gern verraten und
                auch, daß ich manche meiner männlichen Bekannten dort getroffen habe – wenn sie mit
@@ -562,8 +564,8 @@
                nicht mehr.</p>
             <p>Nach diesem Inserat wurde der Jüngling dann benannt und eingereiht.</p>
             <p>Bei mir war gerade saison morte, ich hatte eine Herzensangelegenheit, die mich sehr
-               in Anspruch nahm und in jeder Beziehung ganz nach Wunsch war, bis auf <pb/> eine
-               pathologische Vorliebe für farbenfrohe Krawatten. Ich machte es mir zur
+               in Anspruch nahm und in jeder Beziehung ganz nach Wunsch war, bis auf <pb facs="#"/>
+               eine pathologische Vorliebe für farbenfrohe Krawatten. Ich machte es mir zur
                Lebensaufgabe, ihn davon zu heilen. Wie oft, ach, wie oft saßen wir stundenlang im
                Laden und ließen uns Krawatten, immer nur Krawatten vorlegen. Ich bot all meinen
                Einfluß auf, aber selbst wenn nach schwerem Kampf eine annähernd glückliche Wahl
@@ -583,7 +585,7 @@
                vielleicht schrecklich auf die Nerven gefallen, aber so wie alles lag, erholte ich
                mich, während er friedlich fortlamentierte, von allen stürmischen Gefühlen und von
                den Krawattenhalluzinationen, die mich sonst verfolgten.</p>
-            <pb/>
+            <pb facs="#"/>
             <p>Manchmal mußte ich ihn auch an Lily ausleihen, wenn sie irgendwo besonderen Eindruck
                machen wollte, wie bei ihren Theateragenten oder beim Schneider. Die arme Lily war
                damals gerade etwas reduziert und brauchte in jeder Beziehung Kredit.</p>
@@ -604,14 +606,14 @@
             <p>Man nimmt es uns förmlich übel, wenn wir uns zu ordentlich benehmen, ärgert sich, daß
                wir so durchaus salonfähig sind und die Hoffnung auf ganz besondere Sensationen nicht
                erfüllen. – Gehörst du einmal zum Zirkus, so spring durch Reifen und schlage
-               Purzelbäume – ja, aber wir haben manchmal gar keine Lust, <pb/> wir wollen zur
-               Abwechslung auch einmal Zuschauer sein, in der Loge sitzen und Konversation machen.
-               Hier und da ist es wirklich ein großes Vergnügen, nur langweilig und korrekt zu
-               sein.</p>
+               Purzelbäume – ja, aber wir haben manchmal gar keine Lust, <pb facs="#"/> wir wollen
+               zur Abwechslung auch einmal Zuschauer sein, in der Loge sitzen und Konversation
+               machen. Hier und da ist es wirklich ein großes Vergnügen, nur langweilig und korrekt
+               zu sein.</p>
             <p>Darüber ließe sich noch vieles sagen, aber ein andermal...</p>
          </div>
          <div type="chapter">
-            <p>7</p>
+            <head>7</head>
             <p>Ihr Brief – mein lieber Freund, wer wollte noch behaupten, daß wir keine Ideale
                haben? Zuviel, immer noch zuviel! Ihre ›Beziehung‹ zu Yvonne – Yvonne, die es gar
                nicht gibt – und vielleicht gibt es sie doch und Sie begegnen ihr eines Tages auf der
@@ -626,9 +628,9 @@
                Und auf der anderen Seite – ihn ganz laufen zu lassen, um mit einem alten Landarzt
                glücklich zu werden? Das ist mindestens ebenso unverzeihlich.</p>
             <p>Überhaupt – der fremde Mann muß in erster Linie ein Gentleman sein, sehr elegant,
-               sehr comme il faut und <pb/> mit dem ›infamen Charme‹ – aber doch um Gottes willen
-               nicht ein Schiffskapitän mit Zuchthaustendenzen. Es wäre deshalb eigentlich richtiger
-               zu sagen: der fremde Herr.</p>
+               sehr comme il faut und <pb facs="#"/> mit dem ›infamen Charme‹ – aber doch um Gottes
+               willen nicht ein Schiffskapitän mit Zuchthaustendenzen. Es wäre deshalb eigentlich
+               richtiger zu sagen: der fremde Herr.</p>
             <p>Und er darf niemals zur Beziehung werden, muß in der Versenkung verschwinden, ehe das
                in Betracht kommen könnte. Er tut es auch, sonst ist er eben nicht echt gewesen.</p>
             <p>Etwas davon liegt wohl im ersten Anfang jedes Minnehandels – es ist ja immer schade,
@@ -647,13 +649,13 @@
             <p>Der fremde Herr legt seine Zeitung weg, ganz langsam, ganz ruhig. – Ich gehe zum Lift
                – er auch. Das Hotel ist sehr groß, hat sehr viele Stockwerke, ist sehr überfüllt. –
                Wir sind beide stehengeblieben, stehen uns gegenüber. – Er ist sehr hoch, sieht mir
-               von oben herunter in die Augen. – Der Lift gleitet, hält an jeder Etage und <pb/>
-               Zwischenetage, denn der Boy ist verschlafen und scheint zu meinen, daß überall jemand
-               aussteigt. – Wir haben auch das Gefühl, daß der kleine Raum immer leerer wird, immer
-               einsamer. – Unsere Augen lassen sich nicht los – der fremde Herr sagt kein Wort,
-               beugt sich langsam zu mir herunter – wir sehen uns immer noch in die Augen – unsere
-               Lippen ›finden sich‹. – Der Lift geht durch eine ganze Ewigkeit. – Kein Wort wird
-               gesprochen – der Lift hält.</p>
+               von oben herunter in die Augen. – Der Lift gleitet, hält an jeder Etage und <pb
+                  facs="#"/> Zwischenetage, denn der Boy ist verschlafen und scheint zu meinen, daß
+               überall jemand aussteigt. – Wir haben auch das Gefühl, daß der kleine Raum immer
+               leerer wird, immer einsamer. – Unsere Augen lassen sich nicht los – der fremde Herr
+               sagt kein Wort, beugt sich langsam zu mir herunter – wir sehen uns immer noch in die
+               Augen – unsere Lippen ›finden sich‹. – Der Lift geht durch eine ganze Ewigkeit. –
+               Kein Wort wird gesprochen – der Lift hält.</p>
             <p>Und ich mache hier eine Pause, lieber Freund.</p>
             <p>Der Herr im Lift ist der Idealfall – der erfüllte Traum. Nicht immer sind die Götter
                so neidlos. Manchmal lernt man ihn auch kennen, sieht sich wieder, dann ist natürlich
@@ -669,14 +671,14 @@
                sich, daß er mich nie bei Tage aufsuchen konnte. Auf die Länge ließ sich das
                natürlich nicht vermeiden, aber dann machte es auch keinen Eindruck mehr, daß er
                einen Namen und eine Position im Leben hatte. Er blieb der fremde Mann. Es war zur
-               Tradition geworden, daß wir jede nähere persönliche Bekanntschaft, <pb/> jedes
-               Übergreifen unserer Beziehungen auf unser sonstiges Dasein vermieden. Und ich muß
-               sagen, daß wir es wirklich verstanden, diese Tradition zu kultivieren. Unser Verkehr
-               blieb immer zeremoniell, unpersönlich und voller Distanz. Wir haben uns nie auch nur
-               für einen Moment geduzt, sind nie zusammen ausgegangen oder dergleichen. Trafen wir
-               uns doch einmal, im Theater oder bei ähnlichen Gelegenheiten, so grüßten wir uns aus
-               der Ferne. War es nicht zu vermeiden, so ließ er sich mir auch vorstellen, und wir
-               wechselten einige höfliche Redensarten.</p>
+               Tradition geworden, daß wir jede nähere persönliche Bekanntschaft, <pb facs="#"/>
+               jedes Übergreifen unserer Beziehungen auf unser sonstiges Dasein vermieden. Und ich
+               muß sagen, daß wir es wirklich verstanden, diese Tradition zu kultivieren. Unser
+               Verkehr blieb immer zeremoniell, unpersönlich und voller Distanz. Wir haben uns nie
+               auch nur für einen Moment geduzt, sind nie zusammen ausgegangen oder dergleichen.
+               Trafen wir uns doch einmal, im Theater oder bei ähnlichen Gelegenheiten, so grüßten
+               wir uns aus der Ferne. War es nicht zu vermeiden, so ließ er sich mir auch
+               vorstellen, und wir wechselten einige höfliche Redensarten.</p>
             <p>Er hatte immer meine Adresse und meine Schlüssel, bei jedem Wechsel meiner Wohnung
                oder meiner Lebenslage verfehlte ich nicht, ihm diese beiden Dinge zuzustellen. (Sie
                können sich wohl denken, daß seine Schlüsselsammlung mit der Zeit beträchtlich
@@ -690,13 +692,13 @@
                wieder fort, ehe der graue Alltag das Leben wieder wahrscheinlich machte.</p>
             <p>Manchmal kam er auch erst gegen Morgen, wenn ich längst schlief, stand auf einmal mit
                dem Zylinder in der Hand da – das schätzte ich ganz besonders. – Oder ich glaubte nur
-               von ihm geträumt zu haben und fand dann <pb/> beim Aufwachen Blumen, die nur von ihm
-               sein konnten – er brachte immer Blumen mit. Solche Erinnerungen liebe ich sehr – auch
-               noch manche andere – wenn wir in der Morgendämmerung am Fenster Kaffee tranken und
-               uns korrekt und gebildet unterhielten. Wenn er dann die Straße entlang ging, sah ich
-               ihm nach, und es hatte so viel Reiz, gar keine greifbare Vorstellung von seinem Leben
-               zu haben, keine Ahnung von seiner Umgebung, nicht zu wissen, mit was für Menschen er
-               verkehrt und wie er mit ihnen ist.</p>
+               von ihm geträumt zu haben und fand dann <pb facs="#"/> beim Aufwachen Blumen, die nur
+               von ihm sein konnten – er brachte immer Blumen mit. Solche Erinnerungen liebe ich
+               sehr – auch noch manche andere – wenn wir in der Morgendämmerung am Fenster Kaffee
+               tranken und uns korrekt und gebildet unterhielten. Wenn er dann die Straße entlang
+               ging, sah ich ihm nach, und es hatte so viel Reiz, gar keine greifbare Vorstellung
+               von seinem Leben zu haben, keine Ahnung von seiner Umgebung, nicht zu wissen, mit was
+               für Menschen er verkehrt und wie er mit ihnen ist.</p>
             <p>Andere Frauen – das hat mich eigentlich nie interessiert. Ich habe späterhin aus
                verschiedenen Andeutungen kombiniert, daß er eine ›himmlische Liebe‹ hatte, eine sehr
                unglückliche. Bei anderen Männern habe ich das manchmal etwas dumm gefunden, aber bei
@@ -710,11 +712,11 @@
                würde; und meine sonstigen Bekannten haben sich immer gewundert, warum ich bei jeder
                Neujahrsfeier geheimnisvoll vom Schauplatz verschwand, sobald es zwölf Uhr geschlagen
                hatte.</p>
-            <p>Doch am Ende die ›große Leidenschaft‹, die Sie in meinem <pb/> Dasein so schmerzlich
-               vermissen und die immer noch entdeckt werden soll? – Gott bewahre, gerade zur Zeit
-               der glücklichsten und intensivsten Lieben schätze ich ihn am meisten und hatte
-               förmlich Sehnsucht nach ihm, wenn ich ihn lange nicht sah. Und war er zeitweilig
-               nicht vorhanden, so wurde ich auch gegen die anderen kühler.</p>
+            <p>Doch am Ende die ›große Leidenschaft‹, die Sie in meinem <pb facs="#"/> Dasein so
+               schmerzlich vermissen und die immer noch entdeckt werden soll? – Gott bewahre, gerade
+               zur Zeit der glücklichsten und intensivsten Lieben schätze ich ihn am meisten und
+               hatte förmlich Sehnsucht nach ihm, wenn ich ihn lange nicht sah. Und war er
+               zeitweilig nicht vorhanden, so wurde ich auch gegen die anderen kühler.</p>
             <p>Töricht genug von den anderen, daß sie samt und sonders eine starke Abneigung gegen
                den ›großen Unbekannten‹ hatten und nie begreifen wollten, daß Eifersucht in diesem
                Fall ganz sinnlos war.</p>
@@ -724,7 +726,7 @@
                verwöhne.</p>
          </div>
          <div type="chapter">
-            <p>8</p>
+            <head>8</head>
             <p>Also auch Sie, Brutus – neigen zu eifersüchtigen Betrachtungen, wenn Sie des fremden
                Mannes gedenken. Wie dumm von Ihnen – Verzeihung für das harte Wort, aber ich bin so
                daran gewöhnt, daß Sie immer intelligent sind.</p>
@@ -732,7 +734,8 @@
                für Eifersucht – das ist mir schon häufig wie ein schwerer Defekt vorgehalten
                worden.</p>
             <p>»Dann haben Sie noch nie wirklich geliebt« – wie oft habe ich das zu hören bekommen –
-               und nichts darauf <pb/> geantwortet. A quoi bon? – Das weiß doch nur Gott allein.</p>
+               und nichts darauf <pb facs="#"/> geantwortet. A quoi bon? – Das weiß doch nur Gott
+               allein.</p>
             <p>Richtiger gesagt wäre wohl: nie lange genug geliebt. Für mich dauert jede Liebe, auch
                die ganz ernsthafte, nur so lange, wie ich eben die stärkste Attraktion für den in
                Frage kommenden Mann bin. Dann hört sie ganz von selbst auf. Und daß er meine
@@ -752,10 +755,10 @@
                Herz und weckt wahres Gefühl – ein junger Knabe lockt uns zu einem romantischen
                Frühlingserlebnis – dann gibt es wieder jemand, mit dem man sich nur amüsiert, oder
                es läuft zufällig und geschwind irgendein heiteres Abenteuer über den Weg... Doktor,
-               ich kann Ihnen beim besten Willen nicht alle die vielen <pb/> bunten Möglichkeiten an
-               den Fingern herzählen, aber Sie werden zugeben, daß sie sich schwerlich in einem
-               einzelnen Menschen beisammenfinden. Und im Leben lassen sie sich auch nicht so hübsch
-               der Reihe nach anordnen. Es gerät immer alles durcheinander.</p>
+               ich kann Ihnen beim besten Willen nicht alle die vielen <pb facs="#"/> bunten
+               Möglichkeiten an den Fingern herzählen, aber Sie werden zugeben, daß sie sich
+               schwerlich in einem einzelnen Menschen beisammenfinden. Und im Leben lassen sie sich
+               auch nicht so hübsch der Reihe nach anordnen. Es gerät immer alles durcheinander.</p>
             <p>Sie haben mir einmal einen Vortrag über ›typische Erlebnisse‹ gehalten. Ich glaube,
                der andere, die anderen sind von jeher mein typisches Erlebnis gewesen. Und deshalb
                kam ich nie dazu, einem treu zu bleiben. Schon allein der fremde Mann hat es auch in
@@ -775,7 +778,7 @@
                zu sagen: ich habe mich gestern in A... verliebt – leben Sie wohl!</p>
             <p>Am meisten Kopfzerbrechen hat mir die Frage gemacht, welcher von ihnen nun eigentlich
                der andere war.</p>
-            <pb/>
+            <pb facs="#"/>
             <p>Und das ist immerhin noch ein einfacher Fall, die Sache kann auch komplizierter
                liegen.</p>
             <p>Nein, guter Freund, es ist, weiß Gott, nicht immer leicht, seinen ›erotischen
@@ -798,10 +801,10 @@
                er aus eigenem Antrieb von ihr. Man tut am besten, ergriffen zu schweigen.</p>
             <p>Die irdische Liebe kann natürlich wechseln, die himmlische bleibt im allgemeinen
                dieselbe. Ich bin, soweit ich mich erinnern kann, immer nur die irdische gewesen. Man
-               hat mir erzählt, daß die irdische manchmal sehr <pb/> böse wird, weil die andere ihm
-               in seelischer Beziehung mehr bedeutet. Ach du liebe Zeit, seelische Eifersucht ist
-               nun vollends nicht meine Sache. Man lasse doch seine Seele unvermählt! – Im
-               Gegenteil, man denkt nicht ohne Vergnügen, die himmlische hätte allen Grund
+               hat mir erzählt, daß die irdische manchmal sehr <pb facs="#"/> böse wird, weil die
+               andere ihm in seelischer Beziehung mehr bedeutet. Ach du liebe Zeit, seelische
+               Eifersucht ist nun vollends nicht meine Sache. Man lasse doch seine Seele unvermählt!
+               – Im Gegenteil, man denkt nicht ohne Vergnügen, die himmlische hätte allen Grund
                eifersüchtig zu sein. Sie ist es auch gewiß.</p>
             <p>Die himmlische Liebe ist meistens eine verheiratete Frau. Entweder ist sie mit ihrem
                Mann nicht glücklich geworden und hat dann erst den anderen kennengelernt. Oder sie
@@ -819,8 +822,8 @@
                bei dieser Gelegenheit fällt mir aufs Herz, daß mein blanker Schild doch wohl einen
                Flecken aufzuweisen hat. Einmal – ja, einmal hat eine himmlische Liebe mich zu Fall
                gebracht. Sie war zu stark, und er fühlte sich dem Zwiespalt nicht mehr gewachsen,
-               konnte mir nicht länger angehören, weil er <pb/> immer an diese Frau dachte, die ihm
-               nie angehören würde.</p>
+               konnte mir nicht länger angehören, weil er <pb facs="#"/> immer an diese Frau dachte,
+               die ihm nie angehören würde.</p>
             <p>Das teilte er mir sehr betrübt mit, und für mein einfaches Gemüt war es entschieden
                zu kompliziert. Ich gab mir alle Mühe, es tragisch zu nehmen, denn ich hatte ihn sehr
                gern, aber ich empfand im Grunde doch nur etwas Ähnliches wie: Guter Junge! es
@@ -829,7 +832,7 @@
                am Ende doch Eifersucht war?</p>
          </div>
          <div type="chapter">
-            <p>9</p>
+            <head>9</head>
             <p>Mir geht es ebenso, lieber Doktor – weder Ihnen noch mir selbst weiß ich das Rätsel
                zu lösen, warum ich so lange in der Regenstadt hängengeblieben bin.</p>
             <p>Ich konnte mich einfach nicht wieder fortfinden. Das passiert mir eben hier und da. –
@@ -840,10 +843,10 @@
                – etwas von Abgeschiedenheit und Klosterfrieden.</p>
             <p>Ja, das war es wohl – ich habe es so oft bedauert, daß es nicht mehr Mode ist, von
                Zeit zu Zeit ins Kloster zu gehen und eine Retraite zu machen wie in früheren Zeiten.
-               Denken Sie, wie schön es sein muß, wenn man <pb/> müde vom sündigen Welttreiben, tief
-               verschleiert und in tiefes Schwarz gekleidet, aus dem Wagen steigt, an der
-               Klosterpforte läutet und von einer milden Äbtissin empfangen wird – um ein paar
-               Wochen gründlich auszuschlafen.</p>
+               Denken Sie, wie schön es sein muß, wenn man <pb facs="#"/> müde vom sündigen
+               Welttreiben, tief verschleiert und in tiefes Schwarz gekleidet, aus dem Wagen steigt,
+               an der Klosterpforte läutet und von einer milden Äbtissin empfangen wird – um ein
+               paar Wochen gründlich auszuschlafen.</p>
             <p>Die Regenstadt war so eine Art Retraite für mich – wenigstens in den letzten Wochen.
                Aber jetzt hat sie lange genug gedauert – ich bekomme manchmal sentimentalische
                Anwandlungen.</p>
@@ -868,7 +871,7 @@
                Gewohnheit, bei jeder Abreise meine jeweilige Daseinsform aufs gründlichste
                aufzulösen, und muß mich dann bei der Rückkehr von neuem ›etablieren‹. Dazu bin ich
                jetzt nicht aufgelegt – absolut nicht.</p>
-            <pb/>
+            <pb facs="#"/>
             <p>Wissen Sie auch, Doktor, daß es verschiedene Heimwehs gibt? Eines nach der wirklichen
                Heimat, vorausgesetzt, daß man eine gehabt hat – das ist recht zwecklos und gibt sich
                auch mit der Zeit. Dann ein Gewohnheitsheimweh, nach dem Ort oder den Orten, wo man
@@ -890,10 +893,10 @@
             <p>Und trösten Sie sich, lieber Freund, daß ich einstweilen noch nicht auf der
                Bildfläche erscheine – vielleicht finden Sie inzwischen Yvonne – und wenn Sie gar
                nichts finden – kommen Sie mir nach.</p>
-            <pb/>
+            <pb facs="#"/>
          </div>
          <div type="chapter">
-            <p>10</p>
+            <head>10</head>
             <p>Nun bin ich fort – die Regenstadt liegt in weiter Ferne, die Klosterpforte hat sich
                hinter mir geschlossen, bis zur nächsten Retraite – die Äbtissin... die Äbtissin war
                sehr liebenswürdig und hofft – machen wir drei Kreuze hinter ihre Hoffnungen.</p>
@@ -914,12 +917,12 @@
                zusammen bis Verona, und es half mir nichts – zur Strafe für den Schwindel mußte ich
                ihm versprechen: auf der Rückreise einen Tag Venedig.</p>
             <p>An diese Reise denke ich heute noch mit Vergnügen. Italien und ich flogen so einander
-               vorbei, es hat mir <pb/> noch nie so gut gefallen. Den Tag im Coupe, die Nacht im
-               Schlafwagen – ein paar Stunden Rom, ein paar in Neapel, vierundzwanzig Stunden in dem
-               gottverlassenen Brindisi – gerade genug für Wiedersehen und Abschied. Dann wieder
-               Eisenbahn, Eisenbahn – übernächtig, glücklich und etwas wehmütig – irgendwann um
-               Mitternacht in Venedig – auf dem Kanal, auf dem Markusplatz, im Hotel – mit dem
-               entfernten Bekannten.</p>
+               vorbei, es hat mir <pb facs="#"/> noch nie so gut gefallen. Den Tag im Coupe, die
+               Nacht im Schlafwagen – ein paar Stunden Rom, ein paar in Neapel, vierundzwanzig
+               Stunden in dem gottverlassenen Brindisi – gerade genug für Wiedersehen und Abschied.
+               Dann wieder Eisenbahn, Eisenbahn – übernächtig, glücklich und etwas wehmütig –
+               irgendwann um Mitternacht in Venedig – auf dem Kanal, auf dem Markusplatz, im Hotel –
+               mit dem entfernten Bekannten.</p>
             <p>Genau sechs Tage nach der Abfahrt saß ich wieder bei Ihnen und hab' Ihnen zur Strafe
                recht wenig erzählt. Denn Sie mokierten sich weidlich über meinen Ritt ins
                romantische Land und hatten allerlei schwarze Verdächtigungen. Daß ich wirklich aus
@@ -935,11 +938,11 @@
             <p>Wir waren damals, was man einen animierten Kreis nennt, und S..., der Held meiner
                Geschichte, gehörte mit zu diesem Kreise. Ein Freund von ihm war mein sehr guter
                Freund, mit dem ich gerade auf Reisen gehen wollte. Man war noch mitten in den
-               Flitterwochen. Wir brauchten volle zwei Monate, um endlich fortzukommen, <pb/>
-               derweil lebten und wohnten wir zwischen unzähligen Koffern, die immer wieder aus- und
-               eingepackt wurden, zwischen Flinten, Sattelzeug und wissenschaftlichen Apparaten, die
-               uns alle begleiten sollten, und feierten unaufhörlich Abschiedsfeste, denn jeder Tag
-               konnte der letzte sein. Es war eine beständige Konfusion von Wohnungen,
+               Flitterwochen. Wir brauchten volle zwei Monate, um endlich fortzukommen, <pb facs="#"
+               /> derweil lebten und wohnten wir zwischen unzähligen Koffern, die immer wieder aus-
+               und eingepackt wurden, zwischen Flinten, Sattelzeug und wissenschaftlichen Apparaten,
+               die uns alle begleiten sollten, und feierten unaufhörlich Abschiedsfeste, denn jeder
+               Tag konnte der letzte sein. Es war eine beständige Konfusion von Wohnungen,
                Hausschlüsseln und improvisierten Nachtquartieren, woraus sich viele schwierige und
                heitere Situationen und eine angenehm sündhafte Atmosphäre ergaben. Wir – S... und
                ich – waren uns von Anfang an sympathisch und flirteten weidlich miteinander; aber
@@ -956,10 +959,11 @@
                ließe, die pünktlich im gegebenen Moment uns die Hand auf die Schulter legten: bis
                hierher und nicht weiter.</p>
             <p>Ich erinnere mich vor allem an einen Abend, wo er siegesfroh bei mir zum Souper
-               erschien. Wir waren beide etwas verlegen und dachten:... ja... nun... Aber es <pb/>
-               klingelte, und eine Freundin kam – ebenfalls mit Souperabsichten. Das wäre ja an sich
-               noch nicht so schlimm gewesen – wir soupierten also zu dreien mit vieler Heiterkeit.
-               S... wollte sie dann heimbegleiten – ein Blick: ich komme wieder...</p>
+               erschien. Wir waren beide etwas verlegen und dachten:... ja... nun... Aber es <pb
+                  facs="#"/> klingelte, und eine Freundin kam – ebenfalls mit Souperabsichten. Das
+               wäre ja an sich noch nicht so schlimm gewesen – wir soupierten also zu dreien mit
+               vieler Heiterkeit. S... wollte sie dann heimbegleiten – ein Blick: ich komme
+               wieder...</p>
             <p>Fünf Minuten später kamen alle beide die Treppe wieder herauf – der Schlüssel war in
                der Haustür abgebrochen. Es gab also wieder einmal Nachtquartier in der Mehrzahl, das
                die ironische Vorsehung schon so oft über uns verhängt hatte. Gute Miene und böses
@@ -977,12 +981,12 @@
                und Hand schon anderweitig in Anspruch genommen. – »Warum kommen Sie gerade jetzt? –
                Dienstag vor vierzehn Tagen...« Und war bei mir eine Vakanz, die ich gern vergeben
                hätte, so war er gerade in Spanien, um irgendeinen alten Meister zu entdecken, oder
-               ging ernstlich damit um, ein <pb/> junges Mädchen aus guter Familie zu heiraten. Das
-               letztemal, als wir uns zufällig in Berlin trafen, meinte er förmlich erbittert: es
-               sei allmählich höchste Zeit, daß diese Angelegenheit, die sich nun schon so lange wie
-               ein roter Faden durch unser beider Leben ziehe, einmal ausgetragen würde. Von jetzt
-               an sei es an mir, den Wink zu geben. Wir haben dann ausgemacht, daß ich ihm, wenn der
-               geeignete Zeitpunkt käme, einen roten Faden zuschicken sollte.</p>
+               ging ernstlich damit um, ein <pb facs="#"/> junges Mädchen aus guter Familie zu
+               heiraten. Das letztemal, als wir uns zufällig in Berlin trafen, meinte er förmlich
+               erbittert: es sei allmählich höchste Zeit, daß diese Angelegenheit, die sich nun
+               schon so lange wie ein roter Faden durch unser beider Leben ziehe, einmal ausgetragen
+               würde. Von jetzt an sei es an mir, den Wink zu geben. Wir haben dann ausgemacht, daß
+               ich ihm, wenn der geeignete Zeitpunkt käme, einen roten Faden zuschicken sollte.</p>
             <p>Zwei oder drei Monate später lag der rote Faden bereit – es war sogar eine schöne,
                dicke seidene Schnur – er lag schon kuvertiert in meinem Schreibtisch, und es war nur
                Bummelei, daß ich ihn noch nicht abgeschickt hatte – da bekam ich wieder eine
@@ -998,10 +1002,10 @@
             <p>Legt die Vorsehung wieder ihr Veto ein, so wird es langweilig. Drückt sie aber
                diesmal ein Auge zu, so verliert die Geschichte vom roten Faden erst recht ihren
                Reiz.</p>
-            <pb/>
+            <pb facs="#"/>
          </div>
          <div type="chapter">
-            <p>11</p>
+            <head>11</head>
             <p>Falsch geraten – ich bin in Rom, und S... ist nach Norwegen gefahren.</p>
             <p>Ein hoffnungsloser Fall – der arme Kerl strebt im Grunde seines Herzens doch nur
                danach, wieder zu heiraten. Für seine Bekannten ist ein Trost dabei: er ist immer am
@@ -1020,7 +1024,7 @@
                er zeigte sich recht besorgt um meine finanzielle Gegenwart und Zukunft, gab mir
                viele gute Ratschläge und machte mich noch telegraphisch mit einem seiner vielen und
                merkwürdigen Auslandsfreunde bekannt, der gerade in Rom ist und mich denn auch mit
-               fürstlichen <pb/> Ehren empfangen hat. Man nennt ihn einfachheitshalber den
+               fürstlichen <pb facs="#"/> Ehren empfangen hat. Man nennt ihn einfachheitshalber den
                Sizilianer, weil er meist in Sizilien lebt und seine Nationalität etwas verwickelt
                ist. Er ist in Madagaskar geboren, aber ich glaube, aus spanischer Fanlilie, also
                immerhin reizvoll international – gebrochenes Deutsch – nun, man wird ja sehen.</p>
@@ -1043,18 +1047,18 @@
                recht gut, mancher wieder sehr mittelmäßig, und es gab auch Zeiten, wo das Bild nur
                mit Reißnägeln an die Wand geheftet war.</p>
             <p>
-               <pb/> Ja, ja – und wie S... mir auch wieder vorhielt – ich hätte alle möglichen
-               Chancen haben können. Aber was wollen Sie? – die legitimen? Gott soll mich bewahren –
-               und er hat mich bewahrt. Wenn ich eine gute Partie machen konnte, hatte ich immer
-               gerade keine Lust zu heiraten, und das eine Mal, wo ich dann doch heiratete, wurde
-               der Mann erst eine gute Partie, als ich schon wieder über alle Berge war (Sie wissen
-               ja, wie lange meine Ehe gedauert hat). Jetzt hat er eine glänzende Stellung, und ich
-               hätte sie auch. Aber was täte ich damit? Ach, und der Mann liebte mich – in der Ehe
-               könnte ich das auf die Länge nicht aushalten. Höchstens eine Distanzehe mit sehr viel
-               Geld, so daß jeder seinen eigenen Flügel bewohnte, seinen eigenen Train und seinen
-               Verkehr für sich hätte. Zu den Mahlzeiten träfe man sich in großer Toilette und mit
-               vielem Zeremoniell, will er mich außerdem noch sehen, so läßt er sich durch seinen
-               Kammerdiener melden:</p>
+               <pb facs="#"/> Ja, ja – und wie S... mir auch wieder vorhielt – ich hätte alle
+               möglichen Chancen haben können. Aber was wollen Sie? – die legitimen? Gott soll mich
+               bewahren – und er hat mich bewahrt. Wenn ich eine gute Partie machen konnte, hatte
+               ich immer gerade keine Lust zu heiraten, und das eine Mal, wo ich dann doch
+               heiratete, wurde der Mann erst eine gute Partie, als ich schon wieder über alle Berge
+               war (Sie wissen ja, wie lange meine Ehe gedauert hat). Jetzt hat er eine glänzende
+               Stellung, und ich hätte sie auch. Aber was täte ich damit? Ach, und der Mann liebte
+               mich – in der Ehe könnte ich das auf die Länge nicht aushalten. Höchstens eine
+               Distanzehe mit sehr viel Geld, so daß jeder seinen eigenen Flügel bewohnte, seinen
+               eigenen Train und seinen Verkehr für sich hätte. Zu den Mahlzeiten träfe man sich in
+               großer Toilette und mit vielem Zeremoniell, will er mich außerdem noch sehen, so läßt
+               er sich durch seinen Kammerdiener melden:</p>
             <p>Der gnädige Herr läßt fragen, ob sein Besuch heute abend angenehm wäre? – Der gnädige
                Herr ist immer willkommen.</p>
             <p>Habe ich Gäste, die sich für ihn eignen, so lade ich ihn ein. Seine Stellung als
@@ -1064,8 +1068,8 @@
             <p>Das wäre die einzige Möglichkeit, auf die ich heiraten möchte – schade, schade, daß
                Sie nicht Geld genug haben, wir könnten es vielleicht versuchen. – Ich habe auch
                sicher in einem früheren Leben schon eine solche Ehe geführt, mir kommen alle Details
-               so durchaus vertraut vor, auch die Art der Beziehungen und das Wesen des <pb/>
-               Eheherrn. Aber kehren wir zu unseren moutons zurück – die illegitimen Chancen? –
+               so durchaus vertraut vor, auch die Art der Beziehungen und das Wesen des <pb facs="#"
+               /> Eheherrn. Aber kehren wir zu unseren moutons zurück – die illegitimen Chancen? –
                sehen Sie, unsere Freunde denken im allgemeinen, wir täten uns so leicht damit – man
                brauchte nur zu wollen, so hätte man, was man wollte.</p>
             <p>Nein, ich glaube, auf diesem Gebiet spielt der Zufall uns so willkürlich mit wie auf
@@ -1085,9 +1089,9 @@
             <p>Wenn man auf diesem Wege Karriere machen will und nicht ganz besonderen Dusel hat,
                muß man vor allem eiserne Nerven und eiserne Ausdauer haben. Und, wie beim Theater,
                möglichst früh anfangen, damit die Schattenseiten des Metiers zur Gewohnheit werden.
-               Hat man sich erst daran gewöhnt zu tun und zu lassen, <pb/> was man eben gerne tun
-               und lassen möchte, ja, dann ist man zu verwöhnt. L'art pour l'art ist sicher schöner,
-               erfreulicher, aber unrentabel.</p>
+               Hat man sich erst daran gewöhnt zu tun und zu lassen, <pb facs="#"/> was man eben
+               gerne tun und lassen möchte, ja, dann ist man zu verwöhnt. L'art pour l'art ist
+               sicher schöner, erfreulicher, aber unrentabel.</p>
             <p>Nerven und Ausdauer, also im Grunde etwa dieselben Qualitäten wie für die Ehe.
                Stellen Sie sich eine Dauersache mit Finanzhintergrund vor – auf einmal hat man keine
                Lust mehr, möchte ich ihn eine Zeitlang nicht mehr sehen – aber er kommt unweigerlich
@@ -1106,8 +1110,8 @@
                Ausdauer ist nun einmal vergessen worden, und ohne die geht es in keiner Branche.</p>
             <p>Übrigens habe ich immer wieder die Beobachtung gemacht, daß die Mädchen, die aus
                unteren Schichten heraufkommen, viel energischer und zielbewußter danach streben,
-               Karriere zu machen. Sie wollen um jeden Preis <pb/> nach oben kommen und reüssieren
-               deshalb auch viel eher. Wir anderen – ich zum Beispiel, bin sehr verwöhnt
+               Karriere zu machen. Sie wollen um jeden Preis <pb facs="#"/> nach oben kommen und
+               reüssieren deshalb auch viel eher. Wir anderen – ich zum Beispiel, bin sehr verwöhnt
                aufgewachsen, die äußeren Annehmlichkeiten waren einfach da und erschienen mir nie
                als etwas Außerordentliches. Das bleibt im Gefühl – hätte ich von heute auf morgen
                Haus und Hof, Equipage, Dienerschaft und so weiter – es würde mir nur
@@ -1127,10 +1131,10 @@
                Lieber, Sie haben Ihre Freude daran, wenn ich auf dem Diwan liege und aus tiefster
                Seele sage: man sollte eigentlich... und doch um keinen Preis aufstehen würde, um
                das, was man ›eigentlich sollte‹, in Angriff zu nehmen...</p>
-            <pb/>
+            <pb facs="#"/>
          </div>
          <div type="chapter">
-            <p>12</p>
+            <head>12</head>
             <p>Nicht so ungeduldig, mein Freund – ich weiß sehr wohl, daß es sich gehört, Briefe
                fertig zu schreiben, aber ›das Leben nahm mir die Feder aus der Hand‹, und ich war
                seither nicht in Teestimmung. So hab' ich ihn als Fragment abgeschickt, um Sie nicht
@@ -1151,11 +1155,11 @@
             <p>Erschrecken Sie nicht, ich möchte sogar gelassen aussprechen, daß für mein Gefühl der
                Handel in seiner direktesten Form immer noch die beste Möglichkeit wäre und
                eigentlich auch die anständigste. Ein fremder Herr (schon die Fremdheit... Sie wissen
-               ja...), der spurlos <pb/> wieder in der Versenkung verschwindet – was für eine
-               Ersparnis an Nervenkraft gegenüber dem festen Utilitätsverhältnis, das vorsichtig
-               gehandhabt und geduldig ertragen werden muß. Aber auf diesem Gebiet ist ja leider
-               alles so mangelhaft organisiert, so gesellschaftlich unmöglich gemacht... verlassen
-               wir es lieber...</p>
+               ja...), der spurlos <pb facs="#"/> wieder in der Versenkung verschwindet – was für
+               eine Ersparnis an Nervenkraft gegenüber dem festen Utilitätsverhältnis, das
+               vorsichtig gehandhabt und geduldig ertragen werden muß. Aber auf diesem Gebiet ist ja
+               leider alles so mangelhaft organisiert, so gesellschaftlich unmöglich gemacht...
+               verlassen wir es lieber...</p>
             <p>Der Sizilianer ist gerade zur rechten Zeit aufgetaucht, und sein Auto ist gut. Warum
                ist er Ihnen nicht ›ganz geheuer‹? Ein ›Rasta‹, mit dem ich arg hereinfallen werde,
                meinen Sie – sicher ist er ein Rasta, aber das ist ja gerade sein Hauptcharme, ich
@@ -1172,8 +1176,8 @@
                Zeitlang festhalten. Er umwandelt mich einstweilen auf Freiersfüßen und demonstriert
                mir vor, wie angenehm das Leben sich an seiner Seite leben läßt.</p>
             <p>Wenn ich zum Frühstück komme, sitzt er schon da, eine Blume im Knopfloch, dieselbe
-               Blume als Strauß an meinem Platz – etwas ungeduldig, denn ich komme immer <pb/> eine
-               Stunde zu spät, und sein Chauffeur tyrannisiert ihn.</p>
+               Blume als Strauß an meinem Platz – etwas ungeduldig, denn ich komme immer <pb
+                  facs="#"/> eine Stunde zu spät, und sein Chauffeur tyrannisiert ihn.</p>
             <p> Madame... – Handkuß – ces fleurs... dann kommt, was die Blumen des heutigen Tages
                mir sagen sollen. Darin ist er erfinderisch. Gott, muß es anstrengend sein, sich
                jeden Morgen etwas anderes auszudenken!</p>
@@ -1195,8 +1199,8 @@
                Vesuv spazierenginge.</p>
             <p>Der letzte Montag, an dem ich dieses Handschreiben begann, war der Vorabend großer
                Ereignisse. Soll ich Ihnen ›alles‹ erzählen? – Nein, ich erzähle nie alles, und Sie
-               verdienen noch Strafe für den Rasta und für Ihre <pb/> Zweifel – also bekommen Sie
-               heute nur einen Auszug...</p>
+               verdienen noch Strafe für den Rasta und für Ihre <pb facs="#"/> Zweifel – also
+               bekommen Sie heute nur einen Auszug...</p>
             <p>Ein Situationsbild... wir sitzen spät abends am Kolosseum. Ich habe eine glühende
                Schilderung der Gladiatorenkämpfe ohne Zucken über mich ergehen lassen. Der Chauffeur
                wandert grollend in irgendeinem Stockwerk des ›immortale Amfiteatro‹ auf und ab, er
@@ -1217,7 +1221,7 @@
                etwas für ihn... meine Hand ruht zwischen seinen beiden Händen... sehr gute Hände mit
                schönen Nägeln und einem breiten, sonderbaren Ring.</p>
             <p>
-               <pb/> Es scheint also, daß wir einig sind... aber auf ein mal wird er sehr
+               <pb facs="#"/> Es scheint also, daß wir einig sind... aber auf ein mal wird er sehr
                merkwürdig... schweigt... verfinstert sich... Stumm, gewaltsam drückt er mir die
                Hand, beide Hände, steht auf, pfeift dem Chauffeur. Wir steigen ein und fahren
                langsam, sehr langsam noch ein Stück aus der Stadt hinaus.</p>
@@ -1232,7 +1236,7 @@
                – eben etwas zu glücklich.</p>
          </div>
          <div type="chapter">
-            <p>13</p>
+            <head>13</head>
             <p>Armer Freund, Sie haben es in letzter Zeit schlecht gehabt – Fragmente,
                Ansichtskarten und leere Versprechungen, aber heute abend bin ich nur für Sie
                vorhanden und gedenke es wieder gutzumachen.</p>
@@ -1240,9 +1244,9 @@
                sich so liebenswürdig mit dem ›Rasta‹ ausgesöhnt haben. Wer weiß, ob Sie ihn nicht
                demnächst unter die Wertvollen einreihen.</p>
             <p>Auch in meinen Augen hat er immer mehr gewonnen. Es hängt viel davon ab, wie ein Mann
-               die ersten Schritte <pb/> gestaltet, und das hat er sehr hübsch gemacht, erst
-               allmählich und diskret, dann dramatisch und flammend. Wie angenehm, daß man als Frau
-               dieser Mühe überhoben ist – es muß gar nicht so leicht sein, den rechten Ton zu
+               die ersten Schritte <pb facs="#"/> gestaltet, und das hat er sehr hübsch gemacht,
+               erst allmählich und diskret, dann dramatisch und flammend. Wie angenehm, daß man als
+               Frau dieser Mühe überhoben ist – es muß gar nicht so leicht sein, den rechten Ton zu
                finden, und einige fangen es denn auch recht dumm an – so der Siegertypus, der beim
                ersten leisen Zeichen von Wohlwollen mit einer großen Gebärde die Tür schließt: Nun
                bist du mein!</p>
@@ -1261,8 +1265,8 @@
                Sir John mit einem jugendlichen Begleiter – und im gleichen Augenblick der
                haßerfüllte Chauffeur, um zu melden, daß sein Herr mich draußen erwartet. Nur gerade
                Zeit zu einem ungeheuren Händeschütteln, Vorstellung des Begleiters und einer raschen
-               Verabredung, dann stürzte ich meinen Verpflichtungen <pb/> nach und hörte nur noch
-               ein etwas verwundertes: O I say! hinter mir herklingen.</p>
+               Verabredung, dann stürzte ich meinen Verpflichtungen <pb facs="#"/> nach und hörte
+               nur noch ein etwas verwundertes: O I say! hinter mir herklingen.</p>
             <p>Wir trafen uns denn auch nächster Tage, in einem Tea-room natürlich. Keine Wehmut,
                mein Freund, wenn Sie hier wären – nein, doch nicht – es würde jetzt kein gutes
                Dreieck geben.</p>
@@ -1283,8 +1287,8 @@
                übelzunehmen, wenn er sagt: Sie müssen sich unbedingt für heute abend frei machen,
                denn übermorgen treffe ich eine Frau, die ich sehr liebe, aber es ist eine etwas
                tragische Sache, und ich werde dann ein paar Tage Melancholie haben. Ebenso wird er
-               dieser Frau sagen, sie <pb/> müsse einen Tag warten, denn er wolle vorher noch mit
-               einer anderen sehr vergnügt sein.</p>
+               dieser Frau sagen, sie <pb facs="#"/> müsse einen Tag warten, denn er wolle vorher
+               noch mit einer anderen sehr vergnügt sein.</p>
             <p>Er erzählt viel von seinen Amouren, taktvoll und aus wirklich tiefem Interesse, denkt
                über jede einzelne sehr ernsthaft nach, hat auch gerne, wenn man ihm erzählt, und
                denkt ebenso ernst darüber nach.</p>
@@ -1307,9 +1311,10 @@
                Gründlichkeit, während der Dichter und ich draußen in der Sonne saßen und uns
                unterhielten.</p>
             <p>
-               <pb/> Sir John hat uns beide vorsorglich gewarnt, wir sollten nicht miteinander in
-               love fallen; mich: er sei noch gar so jung und grün – und ihn: ich dürfe mir die
-               berühmten Chancen nicht durch eine überflüssige Amourette verderben.</p>
+               <pb facs="#"/> Sir John hat uns beide vorsorglich gewarnt, wir sollten nicht
+               miteinander in love fallen; mich: er sei noch gar so jung und grün – und ihn: ich
+               dürfe mir die berühmten Chancen nicht durch eine überflüssige Amourette
+               verderben.</p>
             <p>Das Spiel ist ungefährlich, ich würde mich schwerlich mehr in einen Dichter
                verlieben. In früheren Zeiten ist es schon vorgekommen, aber es war immer sehr
                anstrengend. Man mußte so viel posieren, sonst wird der Dichter ernüchtert – muß ihn
@@ -1327,10 +1332,10 @@
                sich schon denken, welche Art Leute ich meine.</p>
             <p>Der Knabe, mit dem ich hier über alten Gräbern wandle, scheint übrigens nicht zu
                dieser Sorte zu gehören. Ich interviewte ihn recht gründlich darüber, und er wurde
-               ganz unglücklich. Er habe nun einmal Talent und <pb/> das Schreiben mache ihm Freude,
-               während er sich mit einem bürgerlichen Beruf schwer abfinden würde. Aber Dichter –
-               ja, es sei eine peinliche Bezeichnung, das fände er selbst, und es wäre ja trostlos,
-               wenn die Frauen einem deshalb davonliefen.</p>
+               ganz unglücklich. Er habe nun einmal Talent und <pb facs="#"/> das Schreiben mache
+               ihm Freude, während er sich mit einem bürgerlichen Beruf schwer abfinden würde. Aber
+               Dichter – ja, es sei eine peinliche Bezeichnung, das fände er selbst, und es wäre ja
+               trostlos, wenn die Frauen einem deshalb davonliefen.</p>
             <p>»Oh, ich bin Ihnen noch nicht davongelaufen – und wie war's denn mit den
                anderen?«</p>
             <p>»Ach, die Frauen, die ich bis jetzt – geliebt habe, waren eigentlich alle
@@ -1353,8 +1358,8 @@
                pardon, es klingt so...«</p>
             <p>»Nur weiter.«</p>
             <p>
-               <pb/> »Also, er sagte, ich sollte mir keine Illusionen machen, Sie seien sozusagen in
-               festen Händen...«</p>
+               <pb facs="#"/> »Also, er sagte, ich sollte mir keine Illusionen machen, Sie seien
+               sozusagen in festen Händen...«</p>
             <p>Ich mußte so lachen, daß er ganz bestürzt war:</p>
             <p>»Ist es am Ende nicht wahr?«</p>
             <p>»Doch, es ist wahr, das heißt – ich bin eigentlich nie in sehr festen Händen...«</p>
@@ -1368,7 +1373,7 @@
                nur dummes Zeug.</p>
          </div>
          <div type="chapter">
-            <p>14</p>
+            <head>14</head>
             <p>Mir ist in den letzten Tagen, wenn ich mich mit dem Dichter unterhielt, etwas
                aufgefallen, nämlich, daß man doch immer eine ganze Menge verschiedener Ansichten
                über ein und dieselbe Sache hat. Sie hängen ganz davon ab, mit wem man gerade
@@ -1377,14 +1382,14 @@
                lieber ins Cafe. Ergo: man hat überhaupt keine Ansichten, und es ist auch sicher
                überflüssig.</p>
             <p>Aber glauben Sie deshalb bitte nicht, daß unsere Gespräche sich immer um Ansichten
-               drehen. Der Dichter <pb/> ist, wie ich schon ahnend voraussah, sehr wißbegierig
-               geworden, und wir rätselraten miteinander wie bei einem Gesellschaftsspiel. Ich
-               erzähle ihm Schwänke aus meinem Leben und gehe um das allzu Persönliche möglichst
-               herum. Zum Beispiel, die ersehnte Aufklärung über Sir John wird ihm beharrlich
-               vorenthalten – ob es einmal war – wann es war, und wie wir jetzt zueinander stehen.
-               Ich fühle, daß ihn dies alles brennend interessiert, er möchte doch ›das Leben
-               kennenlernen‹. Aber ich habe immer das Prinzip gehabt, daß jeder Mann so wenig wie
-               möglich von dem anderen wissen soll – für alle Eventualitäten.</p>
+               drehen. Der Dichter <pb facs="#"/> ist, wie ich schon ahnend voraussah, sehr
+               wißbegierig geworden, und wir rätselraten miteinander wie bei einem
+               Gesellschaftsspiel. Ich erzähle ihm Schwänke aus meinem Leben und gehe um das allzu
+               Persönliche möglichst herum. Zum Beispiel, die ersehnte Aufklärung über Sir John wird
+               ihm beharrlich vorenthalten – ob es einmal war – wann es war, und wie wir jetzt
+               zueinander stehen. Ich fühle, daß ihn dies alles brennend interessiert, er möchte
+               doch ›das Leben kennenlernen‹. Aber ich habe immer das Prinzip gehabt, daß jeder Mann
+               so wenig wie möglich von dem anderen wissen soll – für alle Eventualitäten.</p>
             <p>Mit dem Sizilianer liegt es anders, die ganze Sache ist zu offiziell. Ich habe das
                eigentlich nicht gern, es ist immer etwas mauvais genre. Aber hier in Rom, mit dem
                vulkanischen Pedro, dem Auto und dem Chauffeur war es einfach nicht zu vermeiden. –
@@ -1402,7 +1407,7 @@
             <p>»Und Ihr Sizilianer?«</p>
             <p>»Ist eine zufällige Verbindung von angenehm und nützlich.«</p>
             <p>
-               <pb/> »Aber Sie lieben ihn doch nicht wirklich?«</p>
+               <pb facs="#"/> »Aber Sie lieben ihn doch nicht wirklich?«</p>
             <p>»Wie man es nehmen will.«</p>
             <p>»Und Sir John? Als ich Sie gestern abend bei ihm traf...«</p>
             <p>»Junger Mann, seinen Sie vorsichtig – das ist noch gar kein Beweis.«</p>
@@ -1427,7 +1432,7 @@
             <p>»Nein. Sie liegt mir auch nicht, und ich kann sie mir beim besten Willen nicht
                vorstellen.«</p>
             <p>
-               <pb/> »Lieber Gott, Sie müssen doch ungeheuer zufrieden mit Ihrem Schicksal
+               <pb facs="#"/> »Lieber Gott, Sie müssen doch ungeheuer zufrieden mit Ihrem Schicksal
                sein.«</p>
             <p>»Sicher, ich bin ganz verliebt in mein Schicksal. In dieser Beziehung benahm es sich
                tadellos, aber dafür habe ich in anderen Dingen unerhörtes Pech.«</p>
@@ -1452,7 +1457,7 @@
             <p>»Schön, also Bobby – oder ist das Sir Johns Privilegium? Bobby klingt ganz hübsch –
                verzogen und aus guter Familie...«</p>
             <p>
-               <pb/> Der Dichter küßt mir die Hand. – Pause.</p>
+               <pb facs="#"/> Der Dichter küßt mir die Hand. – Pause.</p>
             <p>»Darf ich noch etwas fragen?«</p>
             <p>»Bitte...«</p>
             <p>»Warum sind Sie nicht irgend etwas anderes geworden? Sie haben doch so viele
@@ -1477,8 +1482,8 @@
             <p>Und darauf muß ich auch Sie heute vertrösten, lieber Doktor. Pedro wartet immer – es
                ist, weiß Gott, auch das ein hartes Brot!</p>
             <p>
-               <pb/> Das war Montag – erst heute komme ich dazu weiterzuschreiben. Ich hoffe, Sie
-               gewöhnen sich allmählich daran.</p>
+               <pb facs="#"/> Das war Montag – erst heute komme ich dazu weiterzuschreiben. Ich
+               hoffe, Sie gewöhnen sich allmählich daran.</p>
             <p>Eben habe ich die ganze Gesellschaft spazieren geschickt. Die ganze Gesellschaft? –
                Ja, wir sind neuerdings zum Ensemble geworden. Es ist ein ganz wohltuender Zustand.
                Wie ich Ihnen schon einmal sagte – ich fing in der letzten Zeit an, mich mit meinem
@@ -1498,8 +1503,8 @@
                Bildfläche zu verschwinden und mit Johns Gesellschaft, die noch vollzählig beisammen
                war, in die Campagna zu flüchten.</p>
             <p>Als ich diesmal nach Hause kam, fand ich ihn wieder vor, aber blaß und melancholisch.
-               Der Chauffeur dagegen <pb/> stand mit gütiger Miene an der Haustür. Beide hatten wohl
-               gedacht, ich sei endgültig verschwunden.</p>
+               Der Chauffeur dagegen <pb facs="#"/> stand mit gütiger Miene an der Haustür. Beide
+               hatten wohl gedacht, ich sei endgültig verschwunden.</p>
             <p>Wir versöhnten uns wieder, und ich habe alles, was sich für seine Ohren eignete,
                gestanden. Daraufhin eine neue Kalamität, er wollte meine Freunde kennenlernen.</p>
             <p>Ich liebe es gar nicht, meine verschiedenen Bekannten miteinander zu vermählen. Sie
@@ -1518,10 +1523,10 @@
                Abend, wo wir alle Johns Gäste waren. Und so ging es ein paar Tage fort.</p>
             <p>Lieber Doktor, ich bin noch zu schläfrig, daß ich es bis auf weiteres vorziehe, Ihnen
                Lebewohl und gute Nacht zu sagen.</p>
-            <pb/>
+            <pb facs="#"/>
          </div>
          <div type="chapter">
-            <p>15</p>
+            <head>15</head>
             <p>Ihren Brief habe ich hier vorgefunden, o nein, ich bin nicht für immer entschlafen –
                seit meinem letzten Brief aus Rom. Aber ich will gerne glauben, daß er etwas
                übernächtig ausgefallen ist.</p>
@@ -1542,9 +1547,9 @@
                Ahnungslosigkeit, und er schloß mir dann auch sein Herz auf.</p>
             <p>In erster Linie Geld-, in zweiter Linie Brautverlegenheiten. Man wünscht, daß er sie
                heiratet. Das war ja eigentlich vorauszusehen, aber er scheint es sich nicht genügend
-               <pb/> klargemacht zu haben. Wir haben in den letzten Wochen wohl alle etwas
-               vergessen, um was es sich handelt. Lieber Doktor, das ist immer der glücklichste
-               Zustand, und ›wir‹ waren auch wirklich alle sehr glücklich.</p>
+                  <pb facs="#"/> klargemacht zu haben. Wir haben in den letzten Wochen wohl alle
+               etwas vergessen, um was es sich handelt. Lieber Doktor, das ist immer der
+               glücklichste Zustand, und ›wir‹ waren auch wirklich alle sehr glücklich.</p>
             <p>Weiter: die Braut ist seine Cousine, folglich ihr Vater sein Onkel, und von diesem
                Onkel scheint er pekuniär ziemlich abhängig zu sein. Das Nähere hab' ich natürlich
                vergessen, ich höre nie zu, wenn man mir ›Näheres‹ auseinandersetzt, und das ist
@@ -1562,8 +1567,8 @@
                Momenten – ich hab' ihn doch wirklich ganz gern.</p>
             <p>Übrigens scheint es, daß wir in Rom beträchtliche Schulden gemacht haben. Ich riet
                deshalb zum Umzug nach Neapel, das heißt, die römische Wohnung sollte er behalten,
-               Chauffeur und Auto zur Beruhigung der Gemüter <pb/> noch eine Zeitlang dort lassen
-               und dann von hier aus einen Besuch in Sizilien machen.</p>
+               Chauffeur und Auto zur Beruhigung der Gemüter <pb facs="#"/> noch eine Zeitlang dort
+               lassen und dann von hier aus einen Besuch in Sizilien machen.</p>
             <p>Meine Ratschläge in solchen Angelegenheiten sind immer gut. Wieder einmal muß ich
                hervorheben, daß ich viel Sinn dafür habe, jede Lebenslage tunlichst harmonisch zu
                gestalten. Sie fanden deshalb auch dieses Mal Anklang und bewährten sich. Man hat uns
@@ -1584,8 +1589,8 @@
                Leute, und wir kommen uns sehr respektabel vor. Mit dem Dichter muß ich mich vor der
                Öffentlichkeit duzen, wir haben ihn für meinen Stiefsohn ausgegeben. Sein Ursprung
                verträgt zwar eigentlich keine nähere Beleuchtung, denn Pedro sieht kaum alt genug
-               aus, daß <pb/> er für eine Jugendsünde von ihm gelten könnte. Aber Stiefsohn klingt
-               so überzeugend. Und Sir John ist einfach ›ein Schwager‹.</p>
+               aus, daß <pb facs="#"/> er für eine Jugendsünde von ihm gelten könnte. Aber Stiefsohn
+               klingt so überzeugend. Und Sir John ist einfach ›ein Schwager‹.</p>
             <p>Bobby kann mich nicht recht begreifen, daß ich Pedro habe fahren lassen.</p>
             <p>Aber was wäre, wenn ich ihn festgehalten hätte? Brouilliert er sich mit seinen
                Leuten, so wird er sehr auf dem trocknen sitzen und ich mit. Liebe in einer Hütte
@@ -1605,8 +1610,8 @@
             <p>»Ach, es ist, weiß Gott, ein bitteres Los, Ihr Stiefsohn zu sein, und Ihre
                Lebensweisheit...«</p>
             <p>»Ist tiefer, als Sie in Ihrem Unverstand meinen. Hören Sie also weiter, Bobby – wenn
-               man eine Sache mit Begeisterung und Kraftaufwand betrieben hat, ist es eigentlich
-               <pb/> immer eine Erleichterung, wenn sie nicht zustande kommt. Ich bin nie
+               man eine Sache mit Begeisterung und Kraftaufwand betrieben hat, ist es eigentlich <pb
+                  facs="#"/> immer eine Erleichterung, wenn sie nicht zustande kommt. Ich bin nie
                glücklicher als in dem Moment, wo ich müßig und bewundernd meine Werke untergehen
                sehe. Dann kann doch wieder etwas Neues kommen.«</p>
             <p>»Und wenn nun etwas viel Schlechteres kommt?«</p>
@@ -1628,7 +1633,7 @@
                aufgelegt, gingen immer wieder auf und ab durch die Straßen. Es war schon beinahe
                Morgen.</p>
             <p>»Nein, Bobby... Sie sind mein Stiefsohn, das streift die antike Tragödie...«</p>
-            <pb/>
+            <pb facs="#"/>
             <p>Wir kamen an eine Straßenecke, an der Mauer steht mit Kreide ein großes deutliches:
                Ja geschrieben – auf deutsch. Das ist sehr merkwürdig, wir bleiben stehen und wundern
                uns darüber.</p>
@@ -1638,7 +1643,7 @@
             <p>Ja, lieber Freund – der arme Bobby ist nun auch abergläubisch geworden...</p>
          </div>
          <div type="chapter">
-            <p>16</p>
+            <head>16</head>
             <p>Ich denke ja nach, Doktor, ich denke nach, ich habe noch nie so viel nachgedacht wie
                jetzt. Alles vereinigt sich, um mich nachdenklich zu stimmen. Ihr Brief und etliche
                längere Gespräche mit Sir John – es besteht eher die Gefahr, daß ich vor lauter
@@ -1651,9 +1656,9 @@
             <p>Es war so heiß in der letzten Zeit, und wir sind träge und geschwätzig aufgelegt.
                Nachmittags bin ich gewöhnlich allein bei Sir John: ich auf dem Sofa, er in einem
                tiefen bequemen Sessel, zwischen uns ein kleiner Tisch mit Kaffee und Zigaretten. So
-               hielten wir es auch früher schon, in seiner Wohnung – in L... – nur daß <pb/> er dann
-               immer in seinem Klubsessel saß – ich betone seinem, denn zwischen dem Klubsessel und
-               ihm bestand eine ganz besondere Zusammengehörigkeit.</p>
+               hielten wir es auch früher schon, in seiner Wohnung – in L... – nur daß <pb facs="#"
+               /> er dann immer in seinem Klubsessel saß – ich betone seinem, denn zwischen dem
+               Klubsessel und ihm bestand eine ganz besondere Zusammengehörigkeit.</p>
             <p>Also beinah wie mit Ihnen – nein, ich bin Ihnen sehr treu, es ist ganz anders, und
                eine Kaffeezwiesprache ist durchaus verschieden vom Teegespräch.</p>
             <p>Nur eine entfernte Ähnlichkeit – Sir John vertieft sich manchmal mit großem Ernst in
@@ -1673,8 +1678,8 @@
                wie einen Beruf. O ja, John ging streng mit mir ins Gericht – er behauptete, wenn
                einmal alles glücklich soweit sei, dann ließe ich es liegen und machte mich
                erleichtert aus dem Staube (auch das mußte ich zugeben). Und lieber ließe ich die
-               unangenehmsten <pb/> Konsequenzen über mich ergehen – andere Leute hielten das
-               irrtümlich für Seelenstärke –, als daß ich mich rechtzeitig aufraffte, um sie zu
+               unangenehmsten <pb facs="#"/> Konsequenzen über mich ergehen – andere Leute hielten
+               das irrtümlich für Seelenstärke –, als daß ich mich rechtzeitig aufraffte, um sie zu
                vermeiden. Ja, aus lauter Energielosigkeit legte ich manchmal eine auffallende
                Energie an den Tag.</p>
             <p>Er teilte mir das alles mit wie ein Forscher, der jahrelang an einer wichtigen
@@ -1696,14 +1701,14 @@
                Bobbys Talent. Ja, wirklich, ich fühle mich jetzt endlich entdeckt, verstanden,
                gerechtfertigt.</p>
             <p>
-               <pb/> Und das Laufende? Von Pedro kommen viele Briefe – ungeduldig, vulkanisch,
-               todunglücklich – er weiß nicht, was er tun und was werden soll. Ich weiß es auch
-               nicht, aber ich bin nicht unglücklich.</p>
+               <pb facs="#"/> Und das Laufende? Von Pedro kommen viele Briefe – ungeduldig,
+               vulkanisch, todunglücklich – er weiß nicht, was er tun und was werden soll. Ich weiß
+               es auch nicht, aber ich bin nicht unglücklich.</p>
             <p>Sir John sagt, es sei mein Unglück, daß ich immer so glücklich bin. Oh, Sir John ist
                ein großer Weiser...</p>
          </div>
          <div type="chapter">
-            <p>17</p>
+            <head>17</head>
             <p>Heute morgen wollte ich gerade anfangen Ihnen zu schreiben, da setzte sich ein
                liebenswürdiger alter Herr, den wir bei Tisch kennengelernt haben, zu mir und fragte
                mich im Vertrauen, ob der Dichter wirklich mein Stiefsohn sei.</p>
@@ -1717,10 +1722,10 @@
                und ich begriff, daß man uns doch wohl durchschaut (o weh – wenn Pedro noch lange
                fortbleibt, möchte die Situation am Ende doch peinlich werden), und daß der
                ehrwürdige Greis mir eine zarte Warnung geben wollte.</p>
-            <p>Mein Brief blieb liegen, ich frühstückte mit dem alten <pb/> Herrn, und wir haben uns
-               ganz gut unterhalten. Er ist witzig und amüsant, wußte mir mit väterlicher Güte
-               allerlei Geständnisse zu entlocken und erinnerte sich mit sichtlichem Vergnügen an
-               die galanten Faiblessen seiner Jugend.</p>
+            <p>Mein Brief blieb liegen, ich frühstückte mit dem alten <pb facs="#"/> Herrn, und wir
+               haben uns ganz gut unterhalten. Er ist witzig und amüsant, wußte mir mit väterlicher
+               Güte allerlei Geständnisse zu entlocken und erinnerte sich mit sichtlichem Vergnügen
+               an die galanten Faiblessen seiner Jugend.</p>
             <p>Sie wissen, ältere Herren, die noch in Betracht kommen, sind nicht mein Fall, aber
                die noch älteren, die nicht mehr in Betracht kommen, können manchmal sehr reizend
                sein. Und ich habe heute gedacht, solche wirklich charmante alte Leute sind
@@ -1739,9 +1744,9 @@
                andere geht irgendwie von selbst, aber mit Unmöglichkeiten muß man sich zu
                arrangieren versuchen.</p>
             <p>Kranksein – das läßt sich vielleicht noch bedingungsweise ausnehmen. Unter angenehmen
-               Verhältnissen <pb/> kann es möglich, manchmal sogar ganz lustig sein – gute Freunde,
-               viele Blumen, sympathische Ärzte und das große Gegenpläsier, wieder gesund zu
-               werden.</p>
+               Verhältnissen <pb facs="#"/> kann es möglich, manchmal sogar ganz lustig sein – gute
+               Freunde, viele Blumen, sympathische Ärzte und das große Gegenpläsier, wieder gesund
+               zu werden.</p>
             <p>Aber die beiden anderen? Der Tod – warum hat man wohl so viel Angst davor? Ich habe
                sie auch, aber dann denke ich wieder, es ist vielleicht ganz überflüssig, wir wissen
                doch noch gar nicht, ob es unangenehm sein wird. Es mag verdreht sein, aber ich
@@ -1760,9 +1765,9 @@
                a very disagreeable one, wie Sir John sagt. Wir saßen kürzlich alle drei bei ihm auf
                dem Sofa, der vorwitzige Bobby zupfte seinem Mentor drei graue Haare aus und sagte:
                »Meister, wir werden alt.« Mehr als die drei fanden wir nicht, und John lachte. Aber
-               mir wurde doch ganz kalt, und ich dachte: wenn ich nun <pb/> einmal dasitze und neben
-               mir ein junger Dichter, der mir drei graue Haare auszupft! (Nun, in dem Nebenumstand
-               könnte ja noch etwas Tröstliches liegen.)</p>
+               mir wurde doch ganz kalt, und ich dachte: wenn ich nun <pb facs="#"/> einmal dasitze
+               und neben mir ein junger Dichter, der mir drei graue Haare auszupft! (Nun, in dem
+               Nebenumstand könnte ja noch etwas Tröstliches liegen.)</p>
             <p>Übrigens glaube ich gar nicht unbedingt daran, daß das ›erste graue Haar, die erste
                Falte‹ ein so überwältigender Eindruck ist. Eher noch der Abschied von der
                allerersten Jugend, von der verwegenen Sicherheit, in jedem Zustand und jeder
@@ -1782,9 +1787,10 @@
             <p>Ich möchte gern wissen, ob man sich überhaupt genieren wird, alt zu sein? Vor den
                anderen vielleicht nicht, sie sind ja daran gewöhnt, daß es alte Leute gibt, und
                finden nichts Auffälliges daran. Aber vor sich selbst – denken Sie nur, als alte Dame
-               aufzustehen und sich im <pb/> Spiegel zu sehen: guten Morgen – o Gott, aber du bist
-               ja alt – was willst du denn noch? Ja, besonders in der Früh muß es deprimierend sein,
-               im Laufe des Tages wird man sich wohl irgendwie in seine Rolle hineinleben.</p>
+               aufzustehen und sich im <pb facs="#"/> Spiegel zu sehen: guten Morgen – o Gott, aber
+               du bist ja alt – was willst du denn noch? Ja, besonders in der Früh muß es
+               deprimierend sein, im Laufe des Tages wird man sich wohl irgendwie in seine Rolle
+               hineinleben.</p>
             <p>Ich stelle mir bei allen Lebenslagen, die mir peinlich sind, gerne vor, daß ich nur
                eine Rolle spiele, eben jetzt diese oder jene spielen muß, die mir nicht recht liegt.
                Zum Beispiel bei unangenehmen Auseinandersetzungen: du bist ja nur auf der Bühne – o
@@ -1803,11 +1809,11 @@
                werden. Wird man alt, so treibt man sich noch eine Weile als Zuschauer auf der Welt
                herum, braucht sich wenigstens nicht mehr zu Taten aufzuraffen. Und die Erinnerungen,
                die im Alter eine so bedeutende Rolle spielen sollen? Nun, bei allen guten Dingen
-               wird man sich freuen, daß sie da waren, und <pb/> bei den schlechten, daß sie vorbei
-               sind. Die beste Vorsorge fürs Alter ist jedenfalls, daß man sich jetzt nichts
-               entgehen läßt, was Freude macht, so intensiv wie möglich lebt. Dann wird man dermal
-               einst die nötige Müdigkeit haben und kein Bedauern, daß die Zeit um ist. Für all die
-               Leute mit verfehltem Leben, versäumter Jugend, überhaupt mit vielen
+               wird man sich freuen, daß sie da waren, und <pb facs="#"/> bei den schlechten, daß
+               sie vorbei sind. Die beste Vorsorge fürs Alter ist jedenfalls, daß man sich jetzt
+               nichts entgehen läßt, was Freude macht, so intensiv wie möglich lebt. Dann wird man
+               dermal einst die nötige Müdigkeit haben und kein Bedauern, daß die Zeit um ist. Für
+               all die Leute mit verfehltem Leben, versäumter Jugend, überhaupt mit vielen
                Unterlassungssünden – für die muß es schrecklich sein, alt zu werden.</p>
             <p>Nein, wenn ich mich überhaupt darauf einlasse, mein eigenes Alter mitzuerleben (was
                mir noch sehr fraglich ist) – in dieser Beziehung habe ich mir wenig vorzuwerfen und
@@ -1822,10 +1828,10 @@
                Yvonne und dem fremden Mann – und, wenn Sie boshaft aufgelegt sind, von Paul. Ja,
                dann wird das Teegespräch erst seine höchste Blüte erreichen.</p>
             <p>Danken wir Gott, daß es noch nicht soweit ist...</p>
-            <pb/>
+            <pb facs="#"/>
          </div>
          <div type="chapter">
-            <p>18</p>
+            <head>18</head>
             <p>O Freund, o Doktor – das war eine schicksalsvolle Woche, und ich flüchte mich wie
                einst in der Regenstadt zu Ihnen, um mein müdes Haupt – nein, das geht nicht – um
                Ihnen mein Herz – nein, das geht auch nicht – also, einfach um Ihnen zu
@@ -1846,8 +1852,8 @@
                entschieden ab. Wer weiß, ob er nicht als Kellner in Chicago endet – für ihn ist's
                doch sicher besser, er heiratet die Cousine.</p>
             <p>Montag abend schicken wir ein unentschiedenes Telegramm ab. Nachher bin ich sehr
-               traurig, es tut mir leid, <pb/> wenn ich ihn nun vielleicht nie wiedersehe. Bobby
-               freut sich und wird schlecht behandelt.</p>
+               traurig, es tut mir leid, <pb facs="#"/> wenn ich ihn nun vielleicht nie wiedersehe.
+               Bobby freut sich und wird schlecht behandelt.</p>
             <p>Mittwoch: nicht etwa Pedro, sondern sein Onkel tritt auf. Man meldet mir, Signor
                Alfaro wünsche mich zu sprechen – derselbe Name – ich will die Treppe hinunter und in
                seine Arme stürzen – der liebenswürdige alte Herr erscheint und warnt mich.</p>
@@ -1867,7 +1873,8 @@
                als ich mich im Spiegel sah. John war außer sich vor Vergnügen und wollte uns nun in
                allerlei ›merkwürdige Lokale‹ führen.</p>
             <p>Wir gingen also unter seiner Leitung in allerlei merkwürdige Lokale – davon erzähle
-               ich Ihnen noch gelegentlich<pb/> – und kamen erst in der Morgendämmerung heim.</p>
+               ich Ihnen noch gelegentlich<pb facs="#"/> – und kamen erst in der Morgendämmerung
+               heim.</p>
             <p>Ich konnte zu dieser Stunde unmöglich in meine Behausung zurück, hätte mich
                wenigstens erst umziehen müssen, und die Rückverwandlung in meinen vorigen Zustand
                war ziemlich zeitraubend. So überließ John mir sein Schlafzimmer – er hat noch einen
@@ -1887,11 +1894,11 @@
                – der Knabenanzug – und es tat mir furchtbar leid, den armen Pedro so empfangen zu
                müssen.</p>
             <p>Wie es sich dann weiter entwickelte? Immerhin noch ›harmonischer‹, als man hätte
-               annehmen sollen. Wenn ich ein schlechtes Gewissen habe (schlechtes Gewissen <pb/> ist
-               das Gefühl, einem anderen etwas Unangenehmes getan zu haben), kommen immer meine
-               schönsten Herzenseigenschaften zum Vorschein. Ich hätte es nicht über mich gebracht,
-               mich in Bösem von ihm zu trennen. Es war dieses Mal eine phantastisch schwere
-               Aufgabe, aber sie ist gelöst worden.</p>
+               annehmen sollen. Wenn ich ein schlechtes Gewissen habe (schlechtes Gewissen <pb
+                  facs="#"/> ist das Gefühl, einem anderen etwas Unangenehmes getan zu haben),
+               kommen immer meine schönsten Herzenseigenschaften zum Vorschein. Ich hätte es nicht
+               über mich gebracht, mich in Bösem von ihm zu trennen. Es war dieses Mal eine
+               phantastisch schwere Aufgabe, aber sie ist gelöst worden.</p>
             <p>Pedro und ich fuhren noch denselben Abend nach Amalfi und nahmen dort drei Tage lang
                Abschied.</p>
             <p>Wir haben uns auf vorläufige Trennung geeinigt. Mit dem Durchbrennen wäre es ohne des
@@ -1909,14 +1916,14 @@
                einquartiert. Sie kennen meine Gewohnheit, nach jeder Katastrophe vor allem gründlich
                auszuschlafen – so habe ich mich auch diesmal gleich in mein Zimmer zurückgezogen und
                von Montag bis Donnerstag immer nur geschlafen. John und Bobby besuchten mich von
-               Zeit zu Zeit und waren sehr besorgt um Wohlergehen und Seelenzustand. Sie <pb/>
-               wußten eben noch nichts vom Katastrophenschlaf, und ich konnte sie erst darüber
-               belehren, als er zu Ende war.</p>
+               Zeit zu Zeit und waren sehr besorgt um Wohlergehen und Seelenzustand. Sie <pb
+                  facs="#"/> wußten eben noch nichts vom Katastrophenschlaf, und ich konnte sie erst
+               darüber belehren, als er zu Ende war.</p>
             <p>Und jetzt? Ja, das weiß ich noch nicht, jetzt muß ich mich erst wieder vom vielen
                Schlafen erholen...</p>
          </div>
          <div type="chapter">
-            <p>19</p>
+            <head>19</head>
             <p>Vorausgesehen – Sie tun sich leicht, lieber Freund. Wenn etwas geschieht oder
                geschehen ist, brauchen Sie nur den Epilog zu machen. Und Pedros Grabrede war
                allerdings eine Ihrer Glanzleistungen.</p>
@@ -1932,8 +1939,8 @@
                Brief, den ich Ihnen von hier aus schreibe. Die nächste Programmnummer wird heißen:
                ›Bobbys Insel‹.</p>
             <p>Sir John will uns in Bälde nachkommen. Dann wollen wir den ganzen Sommer in der Sonne
-               liegen und Bobby <pb/> zum mondänen Dichter erziehen. John hat ja sozusagen die
-               Verantwortung übernommen, daß etwas aus ihm wird, und er meinte, für diesen Typus
+               liegen und Bobby <pb facs="#"/> zum mondänen Dichter erziehen. John hat ja sozusagen
+               die Verantwortung übernommen, daß etwas aus ihm wird, und er meinte, für diesen Typus
                würde er sich am besten eignen.</p>
             <p>Die beiden haben noch viel mit ihren Reisevorbereitungen zu tun und sind meist in der
                Stadt. Ich habe auf der Terrasse einen traumhaft bequemen Schaukelstuhl und verbringe
@@ -1951,9 +1958,9 @@
             <p>Vor allem aber: was ich auch tue, beginne und plane, unweigerlich kommt dabei das
                Gegenteil heraus. Das kann doch nicht nur Zufall sein. Unternehme ich etwas ungemein
                Nützliches und Wohlüberlegtes, so gibt es sicher den größten Unsinn. Tue ich aber
-               gänzlich unzweckmäßige und unüberlegte Dinge, dann kommt etwas <pb/> Vernünftiges
-               zustande. Kurz, ich ernte nie, was ich gesäet habe, sondern jedesmal ewas ganz
-               Überraschendes.</p>
+               gänzlich unzweckmäßige und unüberlegte Dinge, dann kommt etwas <pb facs="#"/>
+               Vernünftiges zustande. Kurz, ich ernte nie, was ich gesäet habe, sondern jedesmal
+               ewas ganz Überraschendes.</p>
             <p>Und die Moral: wem das Los so fällt wie mir, nämlich umgekehrt, der suche eben
                umgekehrt zu leben, immer von vornherein das Umgekehrte zu tun – dann muß es sich
                wieder ausgleichen.</p>

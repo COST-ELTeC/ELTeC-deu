@@ -46,11 +46,11 @@
    </teiHeader>
 
    <text>
-
+      
       <body>
          <div type="chapter">
-            <p>
-               <pb/> Vorbemerkung des Verfassers</p>
+            <head>
+               <pb facs="#"/> Vorbemerkung des Verfassers</head>
             <p>Unter ›Darstellung‹ verstehe ich eine besondere Kunstform der Prosa-Erzählung mit
                eigentümlichem Ziel und mit besondern Stilgesetzen, welche diesem Ziel als Mittel
                dienen. Das Ziel heißt: denkbar innigstes Miterleben der Handlung. Die Mittel dazu
@@ -74,13 +74,13 @@
                noch ein abschließender Anhang als notwendig, um die Handlung von allen Seiten
                ausklingen zu lassen, so wird der abschließende Anhang aus der Perspektive einer
                überlebenden zweiten Hauptperson nach den nämlichen Gesetzen gearbeitet.</p>
-            <pb/>
-            <pb/>
+            <pb facs="#"/>
+            <pb facs="#"/>
 
          </div>
          <div type="chapter">
             <!--milestone cat-->
-            <p>Conrad der Leutnant</p>
+            <head>Conrad der Leutnant</head>
             <p>Der junge Conrad Reber aus dem ›Pfauen‹ in Herrlisdorf, der Leutnant, strich durch
                den Stall, hinter den Gäulen vorbei, welche bei seiner Ankunft den Hals
                emporschleuderten und sich polternd zurechtstellten. Aber die rote Lissi, zuhinterst
@@ -102,8 +102,8 @@
                unter dem Bauch durch, daß sie aufjuckten wie die Forellen beim Gewitter.</p>
             <p>»Friede in des heiligen Dreiteufels Namen!« herrschte er. »Muß denn in diesem
                zänkischen Hause sogar das vierfüßige Vieh hadern?«</p>
-            <p>Und nachdem er ihnen nachträglich noch ein paar feine <pb/> Zwicker um die Knie
-               verabreicht, zum Vorrat für später, verblieb er mit ausholendem Arm, bis die
+            <p>Und nachdem er ihnen nachträglich noch ein paar feine <pb facs="#"/> Zwicker um die
+               Knie verabreicht, zum Vorrat für später, verblieb er mit ausholendem Arm, bis die
                Aufregung sich gelegt hatte und ein gleichmäßiges Mampfen aus sämtlichen Krippen
                knusperte. Hierauf schob er sich mit unhörbaren Schritten nach der Fensternische und
                hängte die Geißel an den Nagel, behielt jedoch den Griff in der Hand, die er erst
@@ -128,14 +128,15 @@
                Zielscheibe für jedermanns üble Laune! Meister! Ich der Meister!«</p>
             <p>Sie lehnte sich besänftigend an ihn. »Du solltest mit dem Vater ein bißchen mehr
                Geduld haben, Conrad«, schmeichelte sie.</p>
-            <p>Da brauste er auf: »Wenn ich nicht Geduld hätte, viel Geduld, <pb/> sehr, sehr viel
-               Geduld, meinst, ich wäre nicht längst schon dreingefahren? Und wie! Übrigens handelt
-               es sich keineswegs bloß um Geduld oder nicht Geduld. Ich bin vierundzwanzigjährig,
-               stimmfähig, Militär und sogar Offizier, außerdem Kommandant der Feuerwehr. Meine
-               Kameraden haben ihre Freiheit, ihren Willen, ihre selbständige Tätigkeit, einige
-               sogar Amt und Familie. Ich dagegen werde von meinem Alten wie ein Bube geschurigelt.
-               Wer aber im eigenen Hause nichts gilt, der ist auch in der Gemeinde nichts wert. Das
-               ists, was mich wurmt, das ists, was ich nicht verwinde.«</p>
+            <p>Da brauste er auf: »Wenn ich nicht Geduld hätte, viel Geduld, <pb facs="#"/> sehr,
+               sehr viel Geduld, meinst, ich wäre nicht längst schon dreingefahren? Und wie!
+               Übrigens handelt es sich keineswegs bloß um Geduld oder nicht Geduld. Ich bin
+               vierundzwanzigjährig, stimmfähig, Militär und sogar Offizier, außerdem Kommandant der
+               Feuerwehr. Meine Kameraden haben ihre Freiheit, ihren Willen, ihre selbständige
+               Tätigkeit, einige sogar Amt und Familie. Ich dagegen werde von meinem Alten wie ein
+               Bube geschurigelt. Wer aber im eigenen Hause nichts gilt, der ist auch in der
+               Gemeinde nichts wert. Das ists, was mich wurmt, das ists, was ich nicht
+               verwinde.«</p>
             <p>Sie schwieg ein Weilchen, die Augen niederschlagend, während sie zerstreut mit den
                Schellen eines Pferdekumts tändelte. Endlich, nach langem Zögern, warf sie halblaut
                hin:</p>
@@ -157,8 +158,8 @@
                Wasser etwas Lebendiges sich regen sähe. Teilnehmend bückte er sich und liebkoste
                tröstend ihren Scheitel. »Anna«, beschwichtigte er.</p>
             <p>
-               <pb/> »Meinst du denn, einzig nur du allein habest Schweres zu tragen?« stieß sie
-               hervor.</p>
+               <pb facs="#"/> »Meinst du denn, einzig nur du allein habest Schweres zu tragen?«
+               stieß sie hervor.</p>
             <p>»Was ist? Wollen sie dir deinen Doktor nicht geben?«</p>
             <p>»Der Vater schon, hingegen die Mutter nicht.«</p>
             <p>»Ich habe den Vater, und du hast die Mutter«, urteilte er finster.</p>
@@ -184,9 +185,9 @@
                den Bissen besser verdaue, goß sie drei Tröpfchen Humor nach: »Ich wollte, du hättest
                sie sehen können, wie sie miteinander anrückten, Arm in Arm, unter einem urweltlichen
                Regenschirm, wackelig wie die liebe alte Zeit und ausgelassen wie jährige
-               Osterhäslein. Den <pb/> Vater haben sie vor lauter Übermut an der Nase gezupft, stell
-               dir das einmal vor! Gegenwärtig zanken sie sich weidlich in der Küche herum. In aller
-               Wohlmeinenheit natürlich.«</p>
+               Osterhäslein. Den <pb facs="#"/> Vater haben sie vor lauter Übermut an der Nase
+               gezupft, stell dir das einmal vor! Gegenwärtig zanken sie sich weidlich in der Küche
+               herum. In aller Wohlmeinenheit natürlich.«</p>
             <p>Wirklich brachte sie ihn zum Lächeln. Nicht über den Humor des Bildes, da er als
                Willensmensch wenig Empfänglichkeit für Humor besaß, sondern über dessen
                Freundlichkeit. Denn sieben Kinderjahre grüßten ihn aus ihren Runzeln. »Wenn nur die
@@ -209,11 +210,11 @@
                – oder eine halbe!«</p>
 
             <p>Draußen auf dem weiten Dorfplatze im grellen Vormittagssonnenschein unterhielten sich
-               Gruppen steifgekleideter Sonntagsbauern, <pb/> das Kirchengesangbuch in der Hand.
-               Ohne sich zu rühren, glotzten sie ihn an. »Prächtiges Kirschenwetter heute«, rief
-               Conrad im Vorübergehen leutselig. Antwort erhielt er keine. Da runzelte er die Stirn.
-               »Mach dich gemein, laß dich herab, sei freundlich und zuvorkommend, sofort lassen sie
-               dichs büßen.«</p>
+               Gruppen steifgekleideter Sonntagsbauern, <pb facs="#"/> das Kirchengesangbuch in der
+               Hand. Ohne sich zu rühren, glotzten sie ihn an. »Prächtiges Kirschenwetter heute«,
+               rief Conrad im Vorübergehen leutselig. Antwort erhielt er keine. Da runzelte er die
+               Stirn. »Mach dich gemein, laß dich herab, sei freundlich und zuvorkommend, sofort
+               lassen sie dichs büßen.«</p>
             <p>An der Hausecke des Pfauen, gegen die Terrasse, balgten sich unter wieherndem
                Gelächter der Portier und Benedikt, der Kutscher. Der Portier, die Mütze schief auf
                dem Hinterkopf, schlenkerte das Bein gegen Benedikt, das dieser zu packen trachtete.
@@ -236,8 +237,8 @@
                unter einem Strohwisch. Nur von der Küche, aus verwinkelter Ferne drang der Zank der
                Basen an sein Ohr.</p>
             <p>Aber wenn das einen ›wohlmeinenden‹ Zank bedeutete, wie lautete dann ein
-               ›übelmeinender‹? Ein Duett, als ob zwei tropfnasse <pb/> Katzen mit verknoteten
-               Schwänzen durch einen Affenkäfig gepeitscht würden.</p>
+               ›übelmeinender‹? Ein Duett, als ob zwei tropfnasse <pb facs="#"/> Katzen mit
+               verknoteten Schwänzen durch einen Affenkäfig gepeitscht würden.</p>
             <p>Belustigt, mit der Wonne des Gemaßregelten, wenn seine Zuchtmeister aneinander
                geraten, weidete er sich an dem Konzert. »Jetzt laßt sehen, wer wird Meister? die
                Hexenbase oder die Rosinenbase?«, und er ließ mit erhobenen Händen die Zeigefinger
@@ -260,11 +261,11 @@
                sich hin zu pfeifen. Wie er indessen an der Wohnstube vorübergeriet, zuckte er
                zusammen, verstummte und schlich sich verstohlen ans nächste Fenster hinüber. Er
                hatte durch die klaffende Lücke der nur zu Dreivierteln geschlossenen Tür die Gestalt
-               des Vaters wahrgenommen, der drinnen <pb/> in der Wohnstube im Lehnstuhl saß. Nur
-               einen Augenblick, allein es hatte ihn wie ein Faustschlag getroffen. Und nun schwebte
-               ihm das verhaßte Bild, von der Phantasie vergrößert, in ungeheuerlichen Umrissen
-               nach, riesenhaft und schwarz. Dabei drehte sich etwas in ihm um, feindselige Gefühle
-               an die Oberfläche fördernd; und mit klopfenden Pulsen, die Stirn an eine
+               des Vaters wahrgenommen, der drinnen <pb facs="#"/> in der Wohnstube im Lehnstuhl
+               saß. Nur einen Augenblick, allein es hatte ihn wie ein Faustschlag getroffen. Und nun
+               schwebte ihm das verhaßte Bild, von der Phantasie vergrößert, in ungeheuerlichen
+               Umrissen nach, riesenhaft und schwarz. Dabei drehte sich etwas in ihm um, feindselige
+               Gefühle an die Oberfläche fördernd; und mit klopfenden Pulsen, die Stirn an eine
                Fensterscheibe gedrückt, starrte er auf die Terrasse hinab.</p>
             <p>Da, während er also ziellos hinbrütete, tauchte unversehens der frevelhafte Spruch
                seiner Schwester in seinem Gedächtnis auf. »Wer weiß denn, wie lange er überhaupt
@@ -286,7 +287,7 @@
                schnellte er den seinigen erblassend zurück, während der Vater geräuschvoll
                schnurfelnd ausspuckte.</p>
             <p>
-               <pb/> »Männlein, was sinnst?« rannte ihm die Schwester ins Ohr.</p>
+               <pb facs="#"/> »Männlein, was sinnst?« rannte ihm die Schwester ins Ohr.</p>
             <p>Da fuhr er wie ein bleichsüchtiges Mädchen schreckhaft zusammen, daß ihm das Herz
                stille stand.</p>
             <p>Sie aber beschrieb mit ihren seelenvollen Händen eine wischende Bewegung vor seiner
@@ -316,7 +317,7 @@
 
 
 
-            <pb/>
+            <pb facs="#"/>
             <l>Januar und Februar:</l>
             <l>Gotts Segen ins Jahr.</l>
             <l>Im März und April</l>
@@ -353,8 +354,9 @@
             <p>Dann kreiste ihm eine Hand übers Gesicht. »Solch eine vorsintflutliche Patsche hat
                einzig in der Welt Brigitte«, erklärte er.</p>
             <p>
-               <pb/> »Betrug!« verkündete ein empörter Ausruf. »Er sieht uns im Fenster.« Und sofort
-               zerstreute sich der Schwarm. Dagegen erschien jetzt seine Schwester neben ihm.</p>
+               <pb facs="#"/> »Betrug!« verkündete ein empörter Ausruf. »Er sieht uns im Fenster.«
+               Und sofort zerstreute sich der Schwarm. Dagegen erschien jetzt seine Schwester neben
+               ihm.</p>
             <p>»Nun denn, was sagst du jetzt dazu?« forschte sie.</p>
             <p>»Wozu?«</p>
             <p>»So sperr doch endlich deine Guckaugen auf, Tolpatsch!«</p>
@@ -378,9 +380,9 @@
             <p>»Also wahrscheinlich Bäbeli oder Marianneli«, machte er plötzlich, indem er
                unvermutet vor sie hintrat, so nahe, daß seine Stirn beinahe die ihrige berührte,
                damit sie ihm weiche.</p>
-            <p>Sie hielt ihm jedoch trotzig Stand, mit zusammengezogenen <pb/> Brauen. »Weder Bäbeli
-               noch Marianneli, sondern Cathri«, erwiderte sie barsch und wich ihm nicht um Zolles
-               Breite.</p>
+            <p>Sie hielt ihm jedoch trotzig Stand, mit zusammengezogenen <pb facs="#"/> Brauen.
+               »Weder Bäbeli noch Marianneli, sondern Cathri«, erwiderte sie barsch und wich ihm
+               nicht um Zolles Breite.</p>
             <p>»Von Langnau oder von Signau?« stocherte er weiter.</p>
             <p>»Ich an Eurer Stelle«, rief sie hitzig, »wenn ich mich aufs Raten nicht besser
                verstände, ließe es bleiben. Von Melchdorf bin ich.«</p>
@@ -406,10 +408,10 @@
             <p>Und beide streckten sich herausfordernd auf den Zehen, halb im Spaß, halb im
                Ernst.</p>
             <p>
-               <pb/> »Nicht so«, schalt Josephine, »sondern rechtschaffen, Rücken an Rücken, wie es
-               Brauch ist.« Hiermit drehte sie keckerhand die beiden um, drängte sie an die Wand und
-               stieß sie rücklings zusammen. »Einen Schemel, ein Lineal und einen Bleistift her!«
-               befahl sie. »Schnell!«</p>
+               <pb facs="#"/> »Nicht so«, schalt Josephine, »sondern rechtschaffen, Rücken an
+               Rücken, wie es Brauch ist.« Hiermit drehte sie keckerhand die beiden um, drängte sie
+               an die Wand und stieß sie rücklings zusammen. »Einen Schemel, ein Lineal und einen
+               Bleistift her!« befahl sie. »Schnell!«</p>
             <p>Allein Anna unterbrach das Spiel. »Zur Suppe«, mahnte sie, mit einladender, singender
                Stimme, einen Blick mütterlicher Huld auf das Paar hinübersendend. »Zur Suppe«,
                wiederholten lustig die Mädchen, indem sie den ziehenden Ton in der Nachahmung
@@ -431,10 +433,10 @@
                verpülvert, das dritte Mal die Pferde in Heinis Garten gelassen und so weiter, was
                weiß ich. Aber so sind die Menschen. Wenn einer einen Unsinn gemacht hat und nachher
                löffeln muß, was er eingebrockt hat – –«</p>
-            <p>»Guten Tag, Base«, hemmte er den Erguß. »Übrigens hatte <pb/> ich heute bereits das
-               Vergnügen, wenn auch nur aus der Ferne. Alle Achtung, das muß man dir lassen: du bist
-               eine tapfere Base, ein wahrer St. Georg. Nur so mir nichts, dir nichts aus dem Hause
-               gejagt? eins, zwei, drei? die arme Rosinenbase? was?«</p>
+            <p>»Guten Tag, Base«, hemmte er den Erguß. »Übrigens hatte <pb facs="#"/> ich heute
+               bereits das Vergnügen, wenn auch nur aus der Ferne. Alle Achtung, das muß man dir
+               lassen: du bist eine tapfere Base, ein wahrer St. Georg. Nur so mir nichts, dir
+               nichts aus dem Hause gejagt? eins, zwei, drei? die arme Rosinenbase? was?«</p>
             <p>Sie schickte einen bösen Blick in die Luft, an die Adresse der Rosinenbase, und
                klappte die Kiefer zusammen, wie der Dachshund, wenn er eine Ratte verschluckt hat:
                »Es kann nur einer im Hause regieren, nicht zwei«, posaunte sie.</p>
@@ -455,9 +457,9 @@
             <p>Keine Antwort.</p>
             <p>»Eine Staatssuppe«, urteilte er nach einer Weile. »Alle Achtung vor dem, der sie
                gekocht hat.«</p>
-            <p>Die Base betrachtete ihn hämisch von der Seite und meckerte <pb/> vor sich hin.
-               Endlich versetzte sie: »Aber, gelt, nicht wahr, wenn du gewußt hättest, ich habe sie
-               gekocht, so hättest du sie schlecht befunden?«</p>
+            <p>Die Base betrachtete ihn hämisch von der Seite und meckerte <pb facs="#"/> vor sich
+               hin. Endlich versetzte sie: »Aber, gelt, nicht wahr, wenn du gewußt hättest, ich habe
+               sie gekocht, so hättest du sie schlecht befunden?«</p>
             <p>Nach einigem Abwarten versuchte ers zum drittenmal.</p>
             <p>»Ein Prachtwetter heute, kein Wölklein am Himmel.«</p>
             <p>»Ja, das Wetter wäre schon recht«, keifte die Base, »wenn nur auch die Menschen recht
@@ -481,8 +483,8 @@
                hätte er gesagt ›Uniform‹. Man brauchte ihr bloß statt Messer und Gabel einen Schild
                und Lanze zu reichen, so war sie die vollendetste Helvetia auf einem silbernen
                Fünffrankentaler oder eine geflügelte Allegorienfigur auf dem Reklamezettel einer
-               Landesausstellung. Ackerbau und Volksfleiß, so etwas. Schaute <pb/> man sich nicht
-               unwillkürlich nach dem Alpenglühen um, wenn man sie sah?</p>
+               Landesausstellung. Ackerbau und Volksfleiß, so etwas. Schaute <pb facs="#"/> man sich
+               nicht unwillkürlich nach dem Alpenglühen um, wenn man sie sah?</p>
             <p>So unterhielt er seine Blicke. Die Mädchen ihrerseits guckten zu ihm herüber, und so
                entwickelte sich ein munteres Augenspiel hin und her mit Blinkern und Zwinkern.
                Darüber juckte ihn die Zunge und kitzelte ihn der Übermut.</p>
@@ -507,8 +509,9 @@
             <p>Aber Cathri hatte die Zunge geläufiger als die Gebärde: »Das ist einer vom
                Exerzierplatz«, urteilte sie wegwerfend.</p>
             <p>»Wohl, dann will ich Euch mit Eurem Kanton Bern aufwarten. Ich fürchte nur eines: es
-               könnte Euch ein wenig zu hoch sein, <pb/> denn jetzt geht es die obersten Stufen der
-               Bildungstreppe steil bergan. Also: Welche Rose gedeiht im Kanton Bern am besten?«</p>
+               könnte Euch ein wenig zu hoch sein, <pb facs="#"/> denn jetzt geht es die obersten
+               Stufen der Bildungstreppe steil bergan. Also: Welche Rose gedeiht im Kanton Bern am
+               besten?«</p>
             <p>»Die Rose der Liebe«, flötete geschwind Helene.</p>
             <p>»Der unumwundenen Offenheit und Lauterkeit«, verbesserte Cathri selbstgefällig, indem
                sie sich vor Rassebewußtsein ordentlich brüstete und blähte.</p>
@@ -530,8 +533,8 @@
                doch kein Mann sein, denn sonst wäre es ja kein Hahn; drittens könnte man bei
                Benedikt unmöglich fragen: ›Warum?‹ Man braucht ihn ja bloß anzusehen, um zu wissen,
                warum. Sondern Brigitte, weil sie eine Gans ist.«</p>
-            <p>Brigitte, um den Empfang zu bescheinigen, verübte eine Grimasse, <pb/> zischte
-               Josephine an, gab die Zunge aus dem Munde und blökte.</p>
+            <p>Brigitte, um den Empfang zu bescheinigen, verübte eine Grimasse, <pb facs="#"/>
+               zischte Josephine an, gab die Zunge aus dem Munde und blökte.</p>
             <p>Jetzt aber ertrug die Base nicht mehr länger diese nichtsnutzigen Späße. Schon öfters
                hatte sie geräuschvolle Zeichen des Mißfallens kundgegeben, geknurrt, gebrummt,
                gehustet, mit den Füßen gescharrt, den Stuhl geschoben, die Löffel und Teller
@@ -556,8 +559,8 @@
                Base ihrerseits den Verleider.</p>
             <p>Stumm und verdrossen schlich nunmehr die Mahlzeit voran, mit heftigem Schlingen und
                endlosen, unausstehlichen Pausen. Draußen aber in der Wiese pfiff ein Vogel
-               unaufhörlich einen <pb/> nämlichen sägenden Doppelton des Jubels, tüitü, als könnte
-               er des Maienglücks nicht genug erzählen.</p>
+               unaufhörlich einen <pb facs="#"/> nämlichen sägenden Doppelton des Jubels, tüitü, als
+               könnte er des Maienglücks nicht genug erzählen.</p>
             <p>Die Köchin, die alte treue Lisabeth, nachdem sie das Gemüse aufgetragen, blieb bei
                der Base hangen, zischelnd, mit gehässigen Blicken nach der Bernerin.</p>
             <p>Die Base wulstete die Lippen. »Jedes Tierchen hat sein Pläsierchen«, grölte sie
@@ -582,8 +585,8 @@
                Euch daher in ihrem Namen höflich, zu bleiben und Euch durch keine Schnödigkeiten
                Unberufener irre machen zu lassen.«</p>
             <p>Da setzte sie sich gelassen nieder. »Steht es so«, sagte sie, »dann steht es gut. Ihr
-               seid der Meister, an Euer Wort halte <pb/> ich mich. Was andere dagegen reden, das
-               schätze ich weniger als das Klappern einer Mühle.«</p>
+               seid der Meister, an Euer Wort halte <pb facs="#"/> ich mich. Was andere dagegen
+               reden, das schätze ich weniger als das Klappern einer Mühle.«</p>
             <p>Die Base jedoch vermochte ihre Niederlage nicht zu verwinden. Nach öfteren
                unartikulierten Anläufen platzte sie gegen Conrad los: »Du gehörst scheints auch zu
                den vielen, es braucht bloß ein paar ziegelrote Bäcklein, so verdrehen sie schon
@@ -609,7 +612,7 @@
                Teufel, ich kann doch nicht euch zu Gefallen zeitlebens mit einer Saugflasche
                umherwandeln; oder was verlangt ihr denn eigentlich von mir?«</p>
             <p>
-               <pb/> Als hätte er nichts gesagt, spann sie ihren grauen Faden fort, mit
+               <pb facs="#"/> Als hätte er nichts gesagt, spann sie ihren grauen Faden fort, mit
                beschuldigendem Seufzen: »Du lieber Gott, wie manches Mal bist du mir auf dem Schoß
                gesessen.«</p>
             <p>Dieser unaufhaltsame Quark von Dummheit und Ungerechtigkeit reizte ihn wieder.</p>
@@ -637,8 +640,8 @@
                und die Tücher ängstlich übers Ohr ziehend mit ihren dünnen, bleichen
                Leidensfingern.</p>
             <p>
-               <pb/> Die Base ergänzte zustimmend: »Die Amseln in Hutzlisbühl haben auch bereits
-               schon um vier Uhr morgens wüst getan.«</p>
+               <pb facs="#"/> Die Base ergänzte zustimmend: »Die Amseln in Hutzlisbühl haben auch
+               bereits schon um vier Uhr morgens wüst getan.«</p>
             <p>Conrad biß sich auf die Lippen und starrte mit großen Augen nach der Zimmerdecke.
                »Die Amseln wüst getan«, wiederholte er mechanisch, »Amseln, die wüst getan haben.
                ›Amsel‹ – und wüst tun.« Plötzlich übermannte ihn ein unbändiges Gelächter, das
@@ -661,8 +664,8 @@
                soweit gesund sind, und keine Sorgen, und zu essen genug – und man gebärdet sich, als
                ob der Tod eingeschlagen hätte. Das ist nicht recht, das ist ein Undank, das heißt
                die Schonung, die einem das Schicksal gewährt, nicht verdienen!«</p>
-            <p>Da war Anna hinter ihm, er wußte nicht wie, und rüttelte <pb/> ihm heftig den Arm.
-               »Conrad«, schalt sie gedämpft, »bist du von Sinnen?«</p>
+            <p>Da war Anna hinter ihm, er wußte nicht wie, und rüttelte <pb facs="#"/> ihm heftig
+               den Arm. »Conrad«, schalt sie gedämpft, »bist du von Sinnen?«</p>
             <p>»Nein, ich bin nicht von Sinnen«, rief er noch lauter, »sondern ich sage eine
                vernünftige ernste Wahrheit und sage sie noch einmal. Das Glück besitzen und die
                Maske des Unglücks vorlegen, aus eitler Jammersucht und Wehwichtigkeit, das ist nicht
@@ -690,9 +693,9 @@
                berührten sie gleichwohl nicht, sondern steckten die Hände meuterisch unter die
                Schürze.</p>
             <p>
-               <pb/> Da humpelte ihnen die Base entgegen, packte die Bratenschüssel und gab ihr
-               einen schleudernden Ruck. »Fressen!« schnob sie, »nachdems doch einmal da ist! bevors
-               kalt wird.«</p>
+               <pb facs="#"/> Da humpelte ihnen die Base entgegen, packte die Bratenschüssel und gab
+               ihr einen schleudernden Ruck. »Fressen!« schnob sie, »nachdems doch einmal da ist!
+               bevors kalt wird.«</p>
             <p>Böse Blicke aus glühenden Gesichtern flammten ihr zurück. Josephine zischte
                Verwünschungen; Brigitte fletschte die Zähne; Helene und Bertha weinten vor Ärger.
                Keine rührte einen Finger. Außer Cathri, die überhaupt gemächlich sitzen geblieben
@@ -716,7 +719,7 @@
             <p>Conrad empfing sie mit einer wohlvorbereiteten Rüge, nicht zu scharf und nicht zu
                stumpf, kühl und gemessen:</p>
             <p>»Du, Base«, sagte er, »unsere Verwandtschaft in Ehren und allen schuldigen Dank für
-               deine uneigennützige Hilfe – aber <pb/> daß du uns die bewährtesten, wägsten
+               deine uneigennützige Hilfe – aber <pb facs="#"/> daß du uns die bewährtesten, wägsten
                Kellnerinnen mir nichts, dir nichts vergelsterst, ohne den mindesten Grund und Anlaß,
                das ist wohl schwerlich die Meinung meiner Eltern!«</p>
             <p>»So geh doch! geh nur!« kollerte sie, »geh, geh, nimm sie um den Hals und schmatze
@@ -742,9 +745,9 @@
             <p>Die Mädchen aber erteilten ihr einen üblen Abschied: »Glück zur Abreise! komm niemals
                wieder!« – »Boshafte Hexe.« – »Erlöse uns von allem Bösen« und dergleichen mehr.</p>
             <p>
-               <pb/> Doch Conrad verwies ihnen das mit einer kurzen Handbewegung. Er hatte sie halt
-               trotz allem doch lieb, die Hexenbase, denn sie war vor Zeiten sehr, sehr gut gegen
-               ihn gewesen.</p>
+               <pb facs="#"/> Doch Conrad verwies ihnen das mit einer kurzen Handbewegung. Er hatte
+               sie halt trotz allem doch lieb, die Hexenbase, denn sie war vor Zeiten sehr, sehr gut
+               gegen ihn gewesen.</p>
 
             <p>Noch zitterte die Türklinke, und aller Augen hafteten an der Wand, hinter welcher die
                Base verschwunden war, da brach mit wuchtigem Elefantentritt die schreckliche
@@ -766,8 +769,9 @@
             <p>Der Alte drang auf sie ein: »Und Ihr«, knurrte er, »Ihr dünkt Euch offenbar zu
                vornehm, mit Euren hoffärtigen Kettelein und verwöhnten Fingerchen.«</p>
             <p>Sie wies durchs Fenster. »Neun Kellnerinnen auf ein einziges schmächtiges, schäbiges
-               Bäuerlein, das ist schon mehr als genug.« <pb/> Und da er ihr einen entsetzlichen
-               Blick zuschleuderte, schüttelte sie lachend die Hände vor seinen Augen.</p>
+               Bäuerlein, das ist schon mehr als genug.« <pb facs="#"/> Und da er ihr einen
+               entsetzlichen Blick zuschleuderte, schüttelte sie lachend die Hände vor seinen
+               Augen.</p>
             <p>»Herr Reber, ob Ihr schon ein Unflat seid, mir macht Ihr keineswegs bange. Nämlich
                ich habe zu Hause einen Vater, gegen den seid Ihr ein harmloses Kind.«</p>
             <p>Er betrachtete sie eine geraume Weile, mehr und mehr besänftigt, brummte allerlei
@@ -792,9 +796,9 @@
                verzehren, der Mutter zu Gefallen, ohne zu schmecken, was er schluckte.</p>
             <p>Unterdessen wandelte Anna mit Cathri kameradschaftlich im Zimmer auf und ab, Hand in
                Hand und einen Arm um die Hüfte der andern geschlungen, wie die Kinder, wenn sie
-               Offizierschritt <pb/> spielen. So oft sie an Conrad vorbeikamen, tauschten sie
-               verstohlene Blicke, flüsterten und kicherten ausgelassen. Endlich hielten sie an und
-               küßten einander.</p>
+               Offizierschritt <pb facs="#"/> spielen. So oft sie an Conrad vorbeikamen, tauschten
+               sie verstohlene Blicke, flüsterten und kicherten ausgelassen. Endlich hielten sie an
+               und küßten einander.</p>
             <p>»Gelt, möchtest gerne mithalten?« neckte Anna, indem sie sich schelmisch die Lippen
                leckte. Dann machte sie sich an ihn heran, lehnte sich über seine Schulter und rannte
                ihm zu: »Spürst dus? Tuts weh? Schadet nichts, geschieht dir recht. Tust oft genug
@@ -817,8 +821,8 @@
             <p>»Den Tanzsaal ausräumen? Wie kann ich denn wissen, daß heute getanzt wird, wenn
                niemand sich die Mühe nimmt, mirs mitzuteilen?«</p>
             <p>»Sollte man etwa zuvor den gnädigen Herrn Leutnant untertänig um Erlaubnis angehen?
-               Selbstverständlich wird heute getanzt, <pb/> wie jedes Jahr. Oder hast du vielleicht
-               etwas dagegen einzuwenden?«</p>
+               Selbstverständlich wird heute getanzt, <pb facs="#"/> wie jedes Jahr. Oder hast du
+               vielleicht etwas dagegen einzuwenden?«</p>
             <p>»Das würde ich mir niemals getrauen.«</p>
             <p>Der Vater rückte ihm näher. »Niemals getrauen? Getrau dich, es frißt dich niemand
                auf.«</p>
@@ -845,8 +849,8 @@
             <p>»Es ist durchaus kein Anlaß, solch eine überlegene Miene aufzusetzen«, drohte der
                Pfauenwirt. »So gescheit sind wir natürlich auch noch, um zu wissen, daß
                Oberwagginger und Niederwagginger nicht zusammen passen, daß die einen konservativ
-               <pb/> sind und die andern liberal. Und daß es niemand eingefallen ist, sie
-               gleichzeitig einzuladen, soviel Hirnschmalz könntest du mir immerhin auch noch
+                  <pb facs="#"/> sind und die andern liberal. Und daß es niemand eingefallen ist,
+               sie gleichzeitig einzuladen, soviel Hirnschmalz könntest du mir immerhin auch noch
                zutrauen, ob ich schon nicht Leutnant bin, sondern bloß Wachtmeister. Zuerst hat man
                natürlich bei den Oberwaggingern angefragt, die haben abgesagt, dann haben die
                Niederwagginger zugesagt und gestern die Oberwagginger nachträglich ebenfalls. So
@@ -875,10 +879,10 @@
                tückisch. Gränzer Falschlenzer.«</p>
             <p>Jetzt verlor aber der Pfauenwirt die Geduld.</p>
             <p>
-               <pb/> »Stehe ich denn eigentlich vor dem Staatsanwalt«, schäumte er, »daß ich mich
-               von dir verhören lassen muß wie ein Angeklagter? Kurz, ich habe beschlossen, daß
-               getanzt wird, und darum wird getanzt, mit oder ohne deine Erlaubnis. Das scheint mir
-               klar und einfach. Oder hast dus etwa noch nicht begriffen?«</p>
+               <pb facs="#"/> »Stehe ich denn eigentlich vor dem Staatsanwalt«, schäumte er, »daß
+               ich mich von dir verhören lassen muß wie ein Angeklagter? Kurz, ich habe beschlossen,
+               daß getanzt wird, und darum wird getanzt, mit oder ohne deine Erlaubnis. Das scheint
+               mir klar und einfach. Oder hast dus etwa noch nicht begriffen?«</p>
             <p>»Ich habe es vollkommen begriffen.«</p>
             <p>»Gut, so schweig und halts Maul!«</p>
             <p>»Du brauchst mir das nicht so brutal zu sagen, nachdem du mich doch selber zum Reden
@@ -902,8 +906,8 @@
             <p>»Doch, ich wags. Ich meine: ›allein in einem Zimmer‹, es kommt alles darauf an, wie
                und wann, und wo mit wem.« Dabei schaute er dem Vater bedeutsam ins Auge.</p>
             <p>
-               <pb/> »Wie meinst du das?« keuchte dieser mit erstickter Stimme, indem sein Gesicht
-               sich schwarzrot verfärbte.</p>
+               <pb facs="#"/> »Wie meinst du das?« keuchte dieser mit erstickter Stimme, indem sein
+               Gesicht sich schwarzrot verfärbte.</p>
             <p>»Ich meine«, entgegnete der Junge, »mit mir darf jedes Mädchen ohne Furcht allein in
                einem Zimmer weilen.«</p>
             <p>Jetzt wankte der Pfauenwirt mit schwerem Tritt, daß der Boden bebte, an den Tisch,
@@ -927,13 +931,13 @@
                weiblicher Stimmen Conrads Sieg markierte, schwenkte der Alte unversehens in die
                Wohnstube, ohne ein abschließendes Drohwort, mit unheimlichem Schweigen.</p>
             <p>Conrad aber, augenblicklich ernüchtert, blieb tief erschrocken stehen. Was hatte er
-               nur getan! Er, der, soweit seine Erinnerung <pb/> reichte, niemals gewagt hatte,
-               seinem Vater zu widersprechen, geschweige denn sich gegen seinen Willen aufzulehnen,
-               hatte ihm jetzt getrotzt, Mann gegen Mann und Feind gegen Feind, und ihm dabei seinen
-               angesammelten Abscheu verraten, mit Blicken und Tönen, die man einem nie mehr
-               verzeiht. Beabsichtigt hatte er es nicht, es war ihm nur so entwischt, in der Hitze
-               der Empörung. Allein geschehen war es nun doch. Und mit zagendem Geiste sah er eine
-               furchtbare Woge Unheil sich heranwälzen, wogegen der bisherige Zustand, der ihm
+               nur getan! Er, der, soweit seine Erinnerung <pb facs="#"/> reichte, niemals gewagt
+               hatte, seinem Vater zu widersprechen, geschweige denn sich gegen seinen Willen
+               aufzulehnen, hatte ihm jetzt getrotzt, Mann gegen Mann und Feind gegen Feind, und ihm
+               dabei seinen angesammelten Abscheu verraten, mit Blicken und Tönen, die man einem nie
+               mehr verzeiht. Beabsichtigt hatte er es nicht, es war ihm nur so entwischt, in der
+               Hitze der Empörung. Allein geschehen war es nun doch. Und mit zagendem Geiste sah er
+               eine furchtbare Woge Unheil sich heranwälzen, wogegen der bisherige Zustand, der ihm
                unleidlich geschienen, sich nun wie die schöne alte Zeit ausnahm, so daß er sich gar
                nicht mit der Vorstellung daranwagte. Da, in der Not, tat er einen verzweifelten
                Gedankensprung in die Zukunft. Er sah den Alten, vom Schlage gerührt, auf dem
@@ -951,8 +955,8 @@
                nach der Schlafstube der Mutter. Er gedachte ihr ein gutes Wort zu bieten, eingedenk
                der Mahnung seiner Schwester.</p>
             <p>Im Treppenhaus trat eben der Vater zufällig aus der Wohnstube. Sie prallten vor
-               einander weg, wie zwei Bären, die sich <pb/> unvermutet im Zwinger begegnen. Der
-               Vater schoß in die Stube zurück, der Sohn zog still fürbaß, die Treppe hinan.</p>
+               einander weg, wie zwei Bären, die sich <pb facs="#"/> unvermutet im Zwinger begegnen.
+               Der Vater schoß in die Stube zurück, der Sohn zog still fürbaß, die Treppe hinan.</p>
             <p>Die Schlafstube der Mutter war stockfinster, weil dicht mit Vorhängen verhüllt.</p>
             <p>»Seht, da ist es ihn ja selber«, empfing ihn eine grölende Stimme aus dem Dunkel, die
                Stimme der Base. Und den Satz begleitete ein häßliches Lachen, das ihm höhnisch
@@ -975,10 +979,10 @@
                auf einem Tisch im Schatten eines Oleanders und pendelte mit den Füßen. Doch er war
                nicht bei seinen Augen; er war bei seinem Zorn, so daß er hin und wieder die Faust
                ballte. »Artillerieleutnant, das kann man noch nicht ungeraten nennen«, murrte er
-               finster. Und nach einer Weile: »Wer weiß, es wäre wohl manch eine Mutter <pb/> froh,
-               ihr Sohn wäre, was ich bin und wie ich bin.« Hierüber blieb er am Fenster kleben,
-               nicht weil er hier bleiben wollte, sondern weil er doch irgendwo sein mußte und
-               anderswohin nicht eher gehörte als hierhin.</p>
+               finster. Und nach einer Weile: »Wer weiß, es wäre wohl manch eine Mutter <pb facs="#"
+               /> froh, ihr Sohn wäre, was ich bin und wie ich bin.« Hierüber blieb er am Fenster
+               kleben, nicht weil er hier bleiben wollte, sondern weil er doch irgendwo sein mußte
+               und anderswohin nicht eher gehörte als hierhin.</p>
             <p>Während dessen stapfte die Base die Treppe herunter, in Hut und Schal, eine
                Ledertasche in der Hand.</p>
             <p>»So, jetzt gehe ich denn«, krähte sie, als sie ihn gewahrte. »Bist du nun
@@ -1001,9 +1005,9 @@
                zahnlosen Mund zu nehmen. Leb wohl! Kannst ja viel ungestörter um sie
                herumschwänzeln, nachdem ich fort bin. Sei doch nicht so grausam, laß sie doch nicht
                so lange auf dich warten. Sie verzappelt ja vor Ungeduld. Also leb wohl denn, leb
-               wohl! <pb/> nichts für ungut. Und hoffentlich gibts dasmal kein Unglück, weil die
-               Hexenbase da war. Verdient hättest dus zwar. Also leb wohl denn, du siehst mich
-               wahrscheinlich im Leben zum letztenmal.«</p>
+               wohl! <pb facs="#"/> nichts für ungut. Und hoffentlich gibts dasmal kein Unglück,
+               weil die Hexenbase da war. Verdient hättest dus zwar. Also leb wohl denn, du siehst
+               mich wahrscheinlich im Leben zum letztenmal.«</p>
             <p>Da ließ er sie ziehen.</p>
             <p>Aber nach einigen Schritten drehte sie sich um: »Ich hatte dir eigentlich auch ein
                Krämlein mitgebracht; es liegt bei der Mutter, sie soll dirs morgen geben, wenn du
@@ -1025,8 +1029,8 @@
                heraus. Oder meint Ihr etwa, Euer Vater wäre zeitlebens so gewesen? Er hätte niemals
                Maien auf den Hut gesteckt und Jauchzer losgelassen? Ich kann mirs nicht anders
                zurechtlegen, als es sitzt den Alten ein Skorpion in der Leber, der sie beständig
-               zwackt, so daß sie gallig werden und <pb/> keinem Menschen mehr ein gutes Wort geben
-               können, ob sies noch so gerne möchten.«</p>
+               zwackt, so daß sie gallig werden und <pb facs="#"/> keinem Menschen mehr ein gutes
+               Wort geben können, ob sies noch so gerne möchten.«</p>
             <p>Conrad verfiel ins Nachsinnen. »Sonderbar, das ist mir nie eingefallen. Überhaupt,
                mir ist, wenn Ihr immer bei mir wäret, ich würde manches leichter ertragen.« Und da
                sie ob diesem Wort ein wenig rot wurde, berichtigte er angelegentlich: »Verzeiht, ich
@@ -1049,12 +1053,13 @@
                Schnödigkeiten der Base?«</p>
             <p>Cathri lachte. »Warum nicht gar? Dergleichen dringt mir nicht einmal durch die Haut,
                geschweige denn ins Herz. Du lieber Himmel, da habe ich schon andere Dinge
-               geschluckt, daheim, vom Vater. Überhaupt, wehe tun einem ja nur die Eigenen. <pb/>
-               Ein ganzer Suppenlöffel voll Gift von fremden Leuten brennt weniger als ein Tropfen
-               daheim. Darum bin ich draus, aus und davon, aus dem Feuer. Und seit ich fort bin, ist
-               mir wohl, ob es schon nicht lauter Rosen sind, was mir die Menschen streuen, wenn man
-               das Geld selber verdienen muß, Fränklein um Fränklein, während man daheim im Dorf die
-               reiche Cathri hieß und die Erste war und des Präsidenten Tochter.«</p>
+               geschluckt, daheim, vom Vater. Überhaupt, wehe tun einem ja nur die Eigenen. <pb
+                  facs="#"/> Ein ganzer Suppenlöffel voll Gift von fremden Leuten brennt weniger als
+               ein Tropfen daheim. Darum bin ich draus, aus und davon, aus dem Feuer. Und seit ich
+               fort bin, ist mir wohl, ob es schon nicht lauter Rosen sind, was mir die Menschen
+               streuen, wenn man das Geld selber verdienen muß, Fränklein um Fränklein, während man
+               daheim im Dorf die reiche Cathri hieß und die Erste war und des Präsidenten
+               Tochter.«</p>
             <p>Sie hatte das mehr für sich gesprochen, in sich hineinschauend; doch Conrad fühlte es
                mit, so daß er andächtig schwieg, nachdem sie geendigt hatte. Dafür gönnte sie ihm
                nun ihrerseits etwas Teilnahme, und zum ersten Male klang ihre Stimme nicht völlig
@@ -1075,10 +1080,10 @@
                niedergeschlagen, »heute am allerwenigsten.«</p>
             <p>»Warum nicht?«</p>
             <p>Er wurde ärgerlich: »Warum nicht? Ihr seid doch sonst nicht so schwerfällig von
-               Begriffen. Warum nicht? Darum nicht, weil <pb/> heute Sonntag ist, weil wir am
-               Nachmittag das Haus voll Gäste haben werden, weil am Abend getanzt wird, kurz, weil
-               ich nicht kann. Oder meint Ihr, wir hätten umsonst ein halbes Dutzend Kellnerinnen
-               mehr aufgeboten?«</p>
+               Begriffen. Warum nicht? Darum nicht, weil <pb facs="#"/> heute Sonntag ist, weil wir
+               am Nachmittag das Haus voll Gäste haben werden, weil am Abend getanzt wird, kurz,
+               weil ich nicht kann. Oder meint Ihr, wir hätten umsonst ein halbes Dutzend
+               Kellnerinnen mehr aufgeboten?«</p>
             <p>»Ja, ist es denn besser, Ihr zankt Euch mit dem Vater und der Mutter und der Base und
                womit weiß ich noch herum? Es tut heute nicht geheuer im Pfauen von Herrlisdorf. Es
                sitzt ein Teufel auf dem Dach. Glaubt mirs, Herr Reber, ich verstehe mich auf derlei
@@ -1102,8 +1107,8 @@
             <p>»Schon recht«, entgegnete sie, »aber es ist nicht bloß das. Es ist wie verschworen,
                wie mit einer Salbe angestrichen. Jeder von euch sagt etwas anderes, als er möchte;
                keines von allen meint es mit dem andern bös, und jedes treibt dem andern spitzige
-               Nägel <pb/> ins Herz. Das beweist doch, daß der Teufel oder etwas Ähnliches auf dem
-               Dach sitzt? oder nicht?«</p>
+               Nägel <pb facs="#"/> ins Herz. Das beweist doch, daß der Teufel oder etwas Ähnliches
+               auf dem Dach sitzt? oder nicht?«</p>
             <p>Erst spielte noch ein Lächeln um seine Lippen, dann ward ihm allmählich ernst und
                schwer. Lange Zeit blickte er sinnend auf seine Füße, während er mit der Schuhspitze
                im Kies wühlte. »Was denn tun?« fragte er gedämpft, ohne den Kopf zu erheben.</p>
@@ -1127,9 +1132,9 @@
                eine Handvoll vom Boden raffte.</p>
             <p>Da wetterte ihm Conrad wie der Sturmwind entgegen: »Wenn ich etwas befehle, so
                pressiert es immer«, erklärte er. Damit packte er ihn mit grausamen Fingern am
-               Ohrläppchen wie mit einer Zange und zerrte ihn schonungslos an den Stuhl, daß <pb/>
-               ihm die prahlerische Mütze vom Kopfe taumelte. »Meinst, ich werde dich pressieren
-               lehren? meinst, ich bringe es zustande?«</p>
+               Ohrläppchen wie mit einer Zange und zerrte ihn schonungslos an den Stuhl, daß <pb
+                  facs="#"/> ihm die prahlerische Mütze vom Kopfe taumelte. »Meinst, ich werde dich
+               pressieren lehren? meinst, ich bringe es zustande?«</p>
             <p>Jetzt gehorchte der Portier greinend. Doch unter der Haustüre angelangt, warf er den
                Stuhl von sich, fing an zu plärren und drehte sich mit einer rachedrohenden Grimasse
                nach dem Meister um, ehe er verschwand.</p>
@@ -1155,8 +1160,8 @@
                ganzen Welt versuchen«, schrie er zurück, mit einer Stimme, die über die Dächer
                schallte.</p>
             <p>
-               <pb/> Siehe, da bewegten sich in der Schlafstube der Mutter die Vorhänge. Das wirkte
-               auf ihn wie ein Mirakel, so daß er sich augenblicklich bezwang. Der Vater
+               <pb facs="#"/> Siehe, da bewegten sich in der Schlafstube der Mutter die Vorhänge.
+               Das wirkte auf ihn wie ein Mirakel, so daß er sich augenblicklich bezwang. Der Vater
                seinerseits, nachdem er umsonst auf eine Herausforderung gewartet hatte, zog endlich
                langsam den Kopf wieder einwärts. Das Klappfenster schloß sich geräuschvoll, dann
                ward alles wieder stumm.</p>
@@ -1183,7 +1188,7 @@
                und in Ordnung.</p>
             <p>»Benedikt«, forschte er strenge, »wer hat Euch geheißen, die Lissi anspannen?«</p>
             <p>
-               <pb/> »Euer Vater, der Pfauenwirt selber.«</p>
+               <pb facs="#"/> »Euer Vater, der Pfauenwirt selber.«</p>
             <p>»Gut. So spannt das Rößlein wieder aus und sattelt es. Ich will ausreiten.«</p>
             <p>»Euer Vater ist mein Meister, und Ihr seid ebenfalls mein Meister. Ich habe nichts
                als einfach zu gehorchen. Befiehlt man mir anzuspannen, so spanne ich an, befiehlt
@@ -1207,11 +1212,11 @@
             <p>»Ich reite aus.« Und eilte die Treppe hinauf nach dem zweiten Stock in seine
                Mansardenkammer, verriegelte die Tür und zog sich gemächlich um, ohne sich im
                mindesten zu sputen. Knappe Lederhosen, gespornte Wadenstiefel, Samtwams und eine
-               dunkelblaue Halsbinde, die er kunstgerecht zu einer losen<pb/> Schleife schürzte.
-               Hierauf prüfte er sich oberflächlich im Spiegel, ob er bestehe, ob nichts mangle und
-               nichts gebreche, ringelte sein kleines Schnäuzchen, damit es keck in die Welt schaue,
-               und stolzierte dann mit schallendem Gesang über die Schwelle. Denn der flotte,
-               saubere Reiterstaat hatte ihm Leibesmut und Lebenslust aufgefrischt.</p>
+               dunkelblaue Halsbinde, die er kunstgerecht zu einer losen<pb facs="#"/> Schleife
+               schürzte. Hierauf prüfte er sich oberflächlich im Spiegel, ob er bestehe, ob nichts
+               mangle und nichts gebreche, ringelte sein kleines Schnäuzchen, damit es keck in die
+               Welt schaue, und stolzierte dann mit schallendem Gesang über die Schwelle. Denn der
+               flotte, saubere Reiterstaat hatte ihm Leibesmut und Lebenslust aufgefrischt.</p>
             <p>Vor der Mansardentür empfing ihn seine Schwester mit Schmeicheln und Bitten.
                »Conrad«, flehte sie, »treibs nicht zum Äußersten. Tus mir zuliebe. Was verschlägt es
                dir, ob du heute ausreitest oder ein anderes Mal?«</p>
@@ -1233,8 +1238,8 @@
             <p>»O nein«, erwiderte er kalt, indem er vorüberschritt, »bloß selber ein bißchen leben,
                nachdem ich doch einmal auf der Welt bin, und nicht durch meine Schuld. Das heißt,
                vorausgesetzt, daß man das überhaupt noch ein Leben nennen kann, wenn man einem jede
-               Lebenslust verleidet, jede Freude verdirbt, <pb/> jedes Lachen, jede freie Bewegung,
-               jedes harmlose Wort zum Verbrechen stempelt.«</p>
+               Lebenslust verleidet, jede Freude verdirbt, <pb facs="#"/> jedes Lachen, jede freie
+               Bewegung, jedes harmlose Wort zum Verbrechen stempelt.«</p>
             <p>Auf dem Weg nach dem Telephonstübchen, wo er die Reitpeitsche hangen hatte, hörte er
                den Vater in der Wohnstube toben. »Ich bring' ihn um. Ich schlage ihn tot wie einen
                tollen Hund.«</p>
@@ -1260,7 +1265,7 @@
             <p>»Vater, versündige dich nicht! Denk an Gott und den Heiland!«</p>
             <p>»Conrad, wie kannst du das vor uns und deinem Gewissen verantworten!«</p>
             <p>
-               <pb/> Ratlose Gestalten, in sinnloser Angst die Hände verwerfend, huschten
+               <pb facs="#"/> Ratlose Gestalten, in sinnloser Angst die Hände verwerfend, huschten
                unentschlossen vorwärts und rückwärts, mit dem schüchternen Bestreben, sich zwischen
                Vater und Sohn einzuschieben. Darob wurde jedoch die Lissi unruhig, begann zu tanzen
                und machte Miene, zu steigen und auszuschlagen.</p>
@@ -1286,12 +1291,12 @@
                schon völlig danach aus, als ob Cathri im Pfauen regierte.«</p>
 
             <p>
-               <pb/> Er lenkte zum Dorf hinaus, planlos dem Weg folgend, den Rain hinab durch die
-               Kirschenallee nach der Eisenbahn, wo er den Schienenübergang gesperrt fand. »Ihr mögt
-               noch bequem hinüber, Herr Reber«, knurrte freundlich der Bahnwärter und hob die
-               Schranken. Jenseits des Geleises aber kam ihm Conrad zuvor, indem er mit dem Pferde
-               schlank über den Balken setzte, in zwiefältigem Ruck, jäh in die Höhe, zurückhaltend
-               hinab.</p>
+               <pb facs="#"/> Er lenkte zum Dorf hinaus, planlos dem Weg folgend, den Rain hinab
+               durch die Kirschenallee nach der Eisenbahn, wo er den Schienenübergang gesperrt fand.
+               »Ihr mögt noch bequem hinüber, Herr Reber«, knurrte freundlich der Bahnwärter und hob
+               die Schranken. Jenseits des Geleises aber kam ihm Conrad zuvor, indem er mit dem
+               Pferde schlank über den Balken setzte, in zwiefältigem Ruck, jäh in die Höhe,
+               zurückhaltend hinab.</p>
             <p>Dann strebte er weiter, zwischen Station und Stations-Pintenwirtschaft hindurch. Von
                rechts her warf ihm der Stationsvorsteher einen launigen Gruß nach, den er im selben
                Stil erwiderte: »Glückliche Reise, Herr Batteriekommandant.« »Viel Vergnügen, Herr
@@ -1311,33 +1316,34 @@
                fehlten zur Hauderin nur die bloßen Füße.</p>
             <p>Er vermied geflissentlich, die eine oder die andere zu grüßen, sondern trieb
                abgewandten Blickes vorüber. Endlich vorn auf der Landstraße angekommen, in welche
-               sein Weg mündete, <pb/> schlug er einen Trab an, in der Richtung nach dem Kurbad.
-               Bald indessen verkürzte er die Zügel. Denn seine Gedanken waren daheim geblieben, und
-               die holten ihn nun wie mit langen Hacken ein. Wozu auch vorwärts trotten? Irgendwohin
-               begehrte er nicht; und nachdem er bewiesen, daß über die Lissi er allein zu verfügen
-               habe, war sein Zweck erfüllt. Die Hauptsache aber war: die Gefahr, die seiner zu
-               Hause wartete, zog ihn an. Er spürte: was ein rechter Mann ist, schiebt die
-               Schwierigkeiten nicht in die Zukunft und weicht dem Kampf nicht aus, sondern stellt
-               ihn. Er kehrte also um, den zurückgelegten Weg eilends wieder auflesend, so daß er in
-               wenigen Minuten abermals den Bahnübergang erreichte. Diesmal war soeben ein Zug
-               eingefahren, ein zweiter von unübersehbarer Länge hielt auf der Talseite vor der
-               Signalstange, auf das Zeichen zur Einfahrt harrend. Da schöpfte er einen ansehnlichen
-               Vorrat Geduld, verlängerte die Zügel und wartete vor dem Schlagbaum, wobei die Lissi
-               mit schmunzelnden Nüstern neugierig nach dem Wagenfenster schnupperte, als wollte sie
-               sagen: ›Kann mir vielleicht einer von euch ein Schnupftuch leihen?‹ Es war ein Wagen
-               zweiter Klasse. Gelangweilte Gesichter stierten ihm daraus entgegen, stumm und
-               mürrisch, als ob sie nächstens bellen wollten. Nein, ganz unparteiisch, die Lissi
-               hatte entschieden ein menschlicheres Gesicht. Nebenan aus der dritten Klasse lärmte
-               Fußstampfen, Gejohl und Blechmusik. Köpfe bockten durch die Fenster aus und ein, mit
-               heftigen, überschüssigen, unzweckmäßigen Bewegungen; verdutzte Rudel schossen die
-               Treppe auf und nieder, wobei sich Zusammenstöße ergaben. Allmählich aber hefteten
-               sich alle Blicke auf ihn, den einsam ragenden Reiter, um die zehntausendjährige
-               Neuigkeit zu bestaunen, daß ein Zweibein auf einem Vierbein sitzt. Da er jedoch nicht
-               aufgelegt war, sich von dem müßigen Reisevolk wie ein Jahrmarktswunder anglotzen zu
-               lassen, drehte er sein Pferd um, das Hinterteil dem Wagen zugekehrt.</p>
+               sein Weg mündete, <pb facs="#"/> schlug er einen Trab an, in der Richtung nach dem
+               Kurbad. Bald indessen verkürzte er die Zügel. Denn seine Gedanken waren daheim
+               geblieben, und die holten ihn nun wie mit langen Hacken ein. Wozu auch vorwärts
+               trotten? Irgendwohin begehrte er nicht; und nachdem er bewiesen, daß über die Lissi
+               er allein zu verfügen habe, war sein Zweck erfüllt. Die Hauptsache aber war: die
+               Gefahr, die seiner zu Hause wartete, zog ihn an. Er spürte: was ein rechter Mann ist,
+               schiebt die Schwierigkeiten nicht in die Zukunft und weicht dem Kampf nicht aus,
+               sondern stellt ihn. Er kehrte also um, den zurückgelegten Weg eilends wieder
+               auflesend, so daß er in wenigen Minuten abermals den Bahnübergang erreichte. Diesmal
+               war soeben ein Zug eingefahren, ein zweiter von unübersehbarer Länge hielt auf der
+               Talseite vor der Signalstange, auf das Zeichen zur Einfahrt harrend. Da schöpfte er
+               einen ansehnlichen Vorrat Geduld, verlängerte die Zügel und wartete vor dem
+               Schlagbaum, wobei die Lissi mit schmunzelnden Nüstern neugierig nach dem Wagenfenster
+               schnupperte, als wollte sie sagen: ›Kann mir vielleicht einer von euch ein
+               Schnupftuch leihen?‹ Es war ein Wagen zweiter Klasse. Gelangweilte Gesichter stierten
+               ihm daraus entgegen, stumm und mürrisch, als ob sie nächstens bellen wollten. Nein,
+               ganz unparteiisch, die Lissi hatte entschieden ein menschlicheres Gesicht. Nebenan
+               aus der dritten Klasse lärmte Fußstampfen, Gejohl und Blechmusik. Köpfe bockten durch
+               die Fenster aus und ein, mit heftigen, überschüssigen, unzweckmäßigen Bewegungen;
+               verdutzte Rudel schossen die Treppe auf und nieder, wobei sich Zusammenstöße ergaben.
+               Allmählich aber hefteten sich alle Blicke auf ihn, den einsam ragenden Reiter, um die
+               zehntausendjährige Neuigkeit zu bestaunen, daß ein Zweibein auf einem Vierbein sitzt.
+               Da er jedoch nicht aufgelegt war, sich von dem müßigen Reisevolk wie ein
+               Jahrmarktswunder anglotzen zu lassen, drehte er sein Pferd um, das Hinterteil dem
+               Wagen zugekehrt.</p>
             <p>
-               <pb/> »Conrad«, rief ihn eine bekannte Stimme aus einem der hintersten Wagen an:
-               »Bist du heute abend gegen sechs Uhr daheim?«</p>
+               <pb facs="#"/> »Conrad«, rief ihn eine bekannte Stimme aus einem der hintersten Wagen
+               an: »Bist du heute abend gegen sechs Uhr daheim?«</p>
             <p>Es war Leutolf, der Leutnant der Waldishofer Feuerwehr. Sein silberner Helm mit dem
                purpurroten Haarbusch glitzerte weithin; neben ihm kamen messingene Helme in großer
                Zahl zum Vorschein.</p>
@@ -1362,8 +1368,9 @@
             <p>»Zählen macht Kopfweh!« grölte sie.</p>
             <p>Der Zug geriet inzwischen ins Laufen. »Also du kommst?« schloß er ab: »Du hast mirs
                versprochen?«</p>
-            <p>»Wir wollen dann sehen, wenns finster ist«, gackerte sie aus <pb/> Leibeskräften. Und
-               mit äußerster Anstrengung, den Oberkörper aus dem Fenster biegend, schrie sie:</p>
+            <p>»Wir wollen dann sehen, wenns finster ist«, gackerte sie aus <pb facs="#"/>
+               Leibeskräften. Und mit äußerster Anstrengung, den Oberkörper aus dem Fenster biegend,
+               schrie sie:</p>
             <p>»Paß jetzt nur auf, daß es diesmal nicht wieder ein Unglück gibt.«</p>
             <p>Dann reichten ihre Stimmen nicht mehr. Nun winkten sie sich zu, solange sie einander
                zu unterscheiden vermochten, sogar noch ein Weilchen länger, ledig der Richtung nach.
@@ -1388,7 +1395,7 @@
             <p>Schmunzelnd trippelte die Neuberin herbei, mit überschwenglichen Freudenbezeugungen
                ihn bewillkommnend, ein breitspuriges Gerede von unverhoffter Ehre anhebend.</p>
             <p>
-               <pb/> »Und so weiter, trallala!« unterbrach er sie.</p>
+               <pb facs="#"/> »Und so weiter, trallala!« unterbrach er sie.</p>
             <p>»Jucunde!« belferte sie freudig in den Hausgang, »Jucunde, rate einmal, wer uns die
                Ehre schenkt! – Die wird die Augen aufsperren! Wenn Ihr nur wüßtet, wie sie Euch
                nachschaut im geheimen, jedesmal, wenn Ihr vorbereitet! Das einfältige Affending, als
@@ -1412,11 +1419,11 @@
                voraus ins Gärtchen, beständig sich umschauend, ob er auch wirklich leibhaft folge.
                Und da ihr immer neue Tränen nachrieselten, wischte sie lachend den Arm über Mund und
                Nase.</p>
-            <p>»Ihr müßt nichts für ungut nehmen, Herr Reber«, entschuldigte <pb/> sie sich, »ich
-               bin halt ein gar unglaublich einfältiges Geschöpf. Wollt Ihr im Hüttchen Platz
-               nehmen? oder in der Laube? oder vielleicht dort in der Ecke unter dem Kastanienbaum?«
-               Dabei scheuchte sie händeklatschend ein Huhn weg, das auf einem der Tische
-               lustwandelte.</p>
+            <p>»Ihr müßt nichts für ungut nehmen, Herr Reber«, entschuldigte <pb facs="#"/> sie
+               sich, »ich bin halt ein gar unglaublich einfältiges Geschöpf. Wollt Ihr im Hüttchen
+               Platz nehmen? oder in der Laube? oder vielleicht dort in der Ecke unter dem
+               Kastanienbaum?« Dabei scheuchte sie händeklatschend ein Huhn weg, das auf einem der
+               Tische lustwandelte.</p>
             <p>Er wählte die freie Mitte, wo der Kastanienbaum noch knapp mit seinem Schatten
                reichte und wo er zugleich den Pfauen im Auge hatte, der vom Hügel herunterschaute
                wie eine Burg von einer Schanze.</p>
@@ -1437,9 +1444,9 @@
                weitläufigen Breite: links der Gasthof, in der Mitte die gemauerte Terrasse mit den
                kugelrunden Akazienbäumchen in Reih und Glied, die freilich um diese Jahreszeit noch
                gar dürftig belaubt waren, hinter der Terrasse der Tanzsaal, endlich zur Rechten, wo
-               die Terrassenmauer auslief, der Holzschuppen und die Kegelbahn. <pb/> Den luftigen
-               Zwischenraum kreuzten Schwalben, steigend und fallend wie Steinwürfe, hoch oben in
-               der Himmelskrone schwammen leichte Flockenwölklein.</p>
+               die Terrassenmauer auslief, der Holzschuppen und die Kegelbahn. <pb facs="#"/> Den
+               luftigen Zwischenraum kreuzten Schwalben, steigend und fallend wie Steinwürfe, hoch
+               oben in der Himmelskrone schwammen leichte Flockenwölklein.</p>
             <p>Allein das alles sah er nur so beiläufig, weil er es schlechterdings nicht übersehen
                konnte. Etwas anderes suchte sein Blick dort oben, jemand, nach welchem sein Haß
                begehrte, und da der Blick nicht reichte – denn der Abstand war zu weit –, erreichten
@@ -1463,9 +1470,9 @@
                gefürchtet. Niemand, der sich fortan unterstehen wird, ihm einen Verweis zu erteilen.
                Was ihm belieben wird, wird er befehlen, und was er befehlen wird, wird
                geschehen!</p>
-            <p>Und gierig ergriffen nun seine Blicke Besitz von dem väterlichen <pb/> Eigentum,
-               Stück um Stück, Acker für Acker, Baum für Baum, jubelnd und grimmig, wie der Habicht,
-               der die Faust um die Lerche krallt.</p>
+            <p>Und gierig ergriffen nun seine Blicke Besitz von dem väterlichen <pb facs="#"/>
+               Eigentum, Stück um Stück, Acker für Acker, Baum für Baum, jubelnd und grimmig, wie
+               der Habicht, der die Faust um die Lerche krallt.</p>
             <p>Aber von dem Anschauen des farbenstrotzenden Hügels geriet er allmählich ins Sinnen
                und vom Sinnen ins Träumen. Ein Bild stieg vor ihm auf. Eine Festhütte unten am Hügel
                in der Au, worin er die gesamte Mannschaft seiner Batterie freihielt, Offiziere und
@@ -1488,8 +1495,8 @@
                in seiner überlegenen Besserwisserei. Denn, seine Wissenschaft in Ehren, und durchaus
                nicht das mindeste gegen den zukünftigen Schwager, aber sonderlich begabt war er nun
                einmal nicht, der Doktor, das hätte er selber zugestehen müssen, wenn er nicht ein
-               bißchen zu beschränkt dazu gewesen wäre. Und die Schwester antwortete <pb/> aus ihren
-               schönen klugen Augen: ›Jedenfalls etwas Unpraktisches.‹ Man ist ja immer
+               bißchen zu beschränkt dazu gewesen wäre. Und die Schwester antwortete <pb facs="#"/>
+               aus ihren schönen klugen Augen: ›Jedenfalls etwas Unpraktisches.‹ Man ist ja immer
                ›unpraktisch‹, im Urteil der Weiber. Er aber zog gelassen eine Urkunde aus der Tasche
                und reichte sie den beiden hin. Da rieselten der Schwester die Freudentränen in den
                offenen Mund, so daß sie ihm nicht einmal gleich zu danken vermochte. Und der Doktor
@@ -1513,8 +1520,8 @@
                Beim Kuckuck, warum auch sollte man nicht mit jemand, der einem zusagt und der einem
                Gutes getan, plötzlich Freundschaft schließen? Freundschaft ist doch kein Mostapfel,
                daß sie nur allmählich reifte! Plötzlich lächelte er vor sich hin, als ob er in etwas
-               Leckeres <pb/> gebissen hätte. Es war ihm nämlich eingefallen, daß Cathri eine ledige
-               Jungfrau war und er ein heiratsfähiger Bursch, woraus sich verlockende
+               Leckeres <pb facs="#"/> gebissen hätte. Es war ihm nämlich eingefallen, daß Cathri
+               eine ledige Jungfrau war und er ein heiratsfähiger Bursch, woraus sich verlockende
                Möglichkeitsbilder entwickelten, denen er träumerisch nachhing.</p>
             <p>Jucunde erschien mit dem Wein, in einem Atem sich lästerlich anklagend und
                angelegentlich entschuldigend wegen der sträflichen Vernachlässigung, während sie ihm
@@ -1538,8 +1545,8 @@
                früher als später, am liebsten auf der Stelle.</p>
 
             <p>Ein roher Lärm tobte durch den Hausgang, untermischt mit festlichen Jauchzern, und
-               gleich einem Feuerläufer kam der <pb/> Knecht aufgeregt um die Ecke gesprungen: »Die
-               Niederwagginger sind da«, meldete er mit wichtiger Miene.</p>
+               gleich einem Feuerläufer kam der <pb facs="#"/> Knecht aufgeregt um die Ecke
+               gesprungen: »Die Niederwagginger sind da«, meldete er mit wichtiger Miene.</p>
             <p>»Jucunde, schnell! Flaschen und Gläser, soviel da sind!« gellte die Neuberin, hüpfend
                vor Freuden.</p>
             <p>Zu spät. Schon ward das Gärtchen von einer Rotte ungeschlachten Volkes erobert, das
@@ -1563,8 +1570,8 @@
             <p>Conrad hatte keine Zeit gefunden, sich vor dem ungestümen Menschenschwall
                zurückzuziehen; infolgedessen sah er sich auf seinem Platz festgepreßt, so daß ihm
                nichts übrig blieb, als sich so schmal wie möglich zu zwängen. Das ertrug er zwar
-               ergeben, <pb/> wie man ein Naturereignis erträgt, allein in der übelsten Laune.
-               Plötzlich juckte er auf und sträußte die Ohren. Nämlich die Worte ›Pfauen‹,
+               ergeben, <pb facs="#"/> wie man ein Naturereignis erträgt, allein in der übelsten
+               Laune. Plötzlich juckte er auf und sträußte die Ohren. Nämlich die Worte ›Pfauen‹,
                ›Kellnerinnen‹, ›karessieren‹ hatten ihn getroffen. Und wie er den Kopf danach
                wandte, gewahrte er einen langen Lümmel mit einem schiefen Karpfenmaul und
                abstehenden Ohren, schlüpfrig wie ein Regenwurm, dem ers etwa zutraute. In der Tat,
@@ -1588,12 +1595,12 @@
                noch beherrscht.</p>
             <p>»Ein Maul braucht deshalb noch lange nicht schmutzig zu sein, weil es Schwarzbrot ißt
                statt Weißbrot. Es gibt Mäuler, die Hühnchen fressen und sind doch schmutzig.« Und
-               ferner: <pb/> »Wenn einer schon reich ist und ein Rößlein im Stall hat und eine
-               Uniform im Schrank, so hat er deswegen nicht nötig, solch einen hochmütigen Ton mit
-               dem Volke anzuschlagen wie mit einem unsinnigen Stück Vieh.« Dann wieder nach einer
-               Weile: »Er kommandiert auch nicht immer so laut, der Herr Leutnant. Daheim im Pfauen,
-               dem Vater gegenüber, redet er einen sanfteren Violinschlüssel, vorausgesetzt, daß er
-               überhaupt zu reden wagt.«</p>
+               ferner: <pb facs="#"/> »Wenn einer schon reich ist und ein Rößlein im Stall hat und
+               eine Uniform im Schrank, so hat er deswegen nicht nötig, solch einen hochmütigen Ton
+               mit dem Volke anzuschlagen wie mit einem unsinnigen Stück Vieh.« Dann wieder nach
+               einer Weile: »Er kommandiert auch nicht immer so laut, der Herr Leutnant. Daheim im
+               Pfauen, dem Vater gegenüber, redet er einen sanfteren Violinschlüssel, vorausgesetzt,
+               daß er überhaupt zu reden wagt.«</p>
             <p>Ein höllischer Pfiff durch die Finger schrillte Alarm. »die Oberwagginger!« scholl es
                wie Kriegsruf.</p>
             <p>»Wo?« brüllten Dutzende von weinheisern Kehlen.</p>
@@ -1615,12 +1622,12 @@
                zurechtzulegen, sondern, sich ertappt fühlend, die Flucht ergriff, im Gewühl
                untertauchend, die Arme zum Schutz über den Kopf gekreuzt wie ein Schulbube. Er flugs
                ihm nach, mitten durch den Haufen, den er gewaltsam teilte. Am Gartenpförtchen hatte
-               <pb/> er ihn, packte ihn am Kragen und schmiß ihn mit einem Fußtritt auf die Straße.
-               Es war sonst nicht seine Gewohnheit, der Fußtritt. Allein diesmal überkam es ihn wie
-               eine Offenbarung; diesem mußte er einen Fußtritt verabfolgen, seiner Schwester zu
-               Ehren und dem schiefen Maul zuliebe. Nachher spürte er sofort eine wohltuende
-               Zufriedenheit, so daß er ruhig den Aufmarsch der feindlichen Bauernheere besichtigen
-               mochte, als Zuschauer.</p>
+                  <pb facs="#"/> er ihn, packte ihn am Kragen und schmiß ihn mit einem Fußtritt auf
+               die Straße. Es war sonst nicht seine Gewohnheit, der Fußtritt. Allein diesmal überkam
+               es ihn wie eine Offenbarung; diesem mußte er einen Fußtritt verabfolgen, seiner
+               Schwester zu Ehren und dem schiefen Maul zuliebe. Nachher spürte er sofort eine
+               wohltuende Zufriedenheit, so daß er ruhig den Aufmarsch der feindlichen Bauernheere
+               besichtigen mochte, als Zuschauer.</p>
             <p>Die Niederwagginger waren bereits sämtlich draußen auf der Straße, gefolgt von dem
                Weibertrupp, der teils abmahnend, teils mit neugieriger Abenteuerlust sich anhängte,
                alle ohne Ausnahme mit erhöhtem Respekt vor den gewalttätigen Knaben. Erst hielten
@@ -1642,11 +1649,11 @@
                mißhandelten Propheten.</p>
 
             <p>
-               <pb/> Wie er durch das verwüstete und vereinsamte Gärtchen, wo Bruch und Brocken
-               umherlagen, nach seinem Platze zurücksteuerte, seufzte ihm Jucunde entgegen und warf
-               sich erschöpft neben ihn auf einen Stuhl. Wie sie aussah! Zerzaust und zerrissen, mit
-               Wein übergossen, die Lippen hängend, das Auge glanzlos, und der Schweiß troff ihr von
-               der Stirne.</p>
+               <pb facs="#"/> Wie er durch das verwüstete und vereinsamte Gärtchen, wo Bruch und
+               Brocken umherlagen, nach seinem Platze zurücksteuerte, seufzte ihm Jucunde entgegen
+               und warf sich erschöpft neben ihn auf einen Stuhl. Wie sie aussah! Zerzaust und
+               zerrissen, mit Wein übergossen, die Lippen hängend, das Auge glanzlos, und der
+               Schweiß troff ihr von der Stirne.</p>
             <p>Das war nun also die verführerische Jucunde, welche das Gerücht wie die leibhaftige
                Todsünde ausmalte! Eine klägliche Todsünde! Das wenigste, was man von einer Todsünde
                verlangen kann – nicht wahr? – ist doch, daß sie zum mindesten appetitlich sei. Pfui,
@@ -1668,9 +1675,9 @@
                nicht mehr gram seid?«</p>
             <p>»Was bin ich schuldig?« heischte er kalt und wollte sich erheben.</p>
             <p>Da fiel sie laut aufjammernd über ihn her und drückte ihn nieder: »Nein, nein, nein«,
-               wehklagte sie erbärmlich, indem <pb/> sie ihn verzweifelt umklammerte, »nein, jetzt
-               geht Ihr nicht schon wieder fort. Jetzt, wo wir endlich allein sind, jetzt, wo ich
-               Euch zum ersten Mal in meinem Leben habe.«</p>
+               wehklagte sie erbärmlich, indem <pb facs="#"/> sie ihn verzweifelt umklammerte,
+               »nein, jetzt geht Ihr nicht schon wieder fort. Jetzt, wo wir endlich allein sind,
+               jetzt, wo ich Euch zum ersten Mal in meinem Leben habe.«</p>
             <p>Es schrie so viel wahrhaftige Herzensnot aus ihrer Stimme, aus ihren Augen, aus ihren
                Mienen, daß es ihn erweichte. Schließlich, nach Hause kam er immer noch reichlich
                früh genug für das, was ihn Liebliches dort erwartete.</p>
@@ -1693,14 +1700,14 @@
                kommt mir zugute; ich hätte nie zu hoffen gewagt, daß Ihr jemals zu uns kämet, so ein
                stolzer Herr zu so geringem Volk.« Mit einem Male jedoch trübte sich ihr Auge, und
                sie sah ihn vorwurfsvoll an, als ob er ihr etwas gestohlen hätte. »Das ist wohl eine
-               Freundin Eurer Schwester, die Bernerin, die heute zur Aushilfe gekommen <pb/> ist?
-               Schön ist sie, das ist wahr, sehr schön sogar; so Schöne gibt es hierzulande keine
-               außer höchstens Eure Schwester. Und einen prächtigen Staat hat sie ebenfalls. Ist sie
-               denn reich? Aber wenn sie reich ist, warum dient sie denn? Man sagt, sie sei sonst
-               für den Sommer im Kurbad, als Büfettdame. Ich kann es begreifen. So ein Paradiesvogel
-               zieht natürlich alle Männer an. Es heißt, sie lasse sich vom Badewirt selber den Hof
-               machen. Freilich, er ist ja seit zwei Jahren Witwer. Aber den wird sie doch
-               hoffentlich nicht nehmen! So viele Körbe, wie der schon erhalten hat, trotz all
+               Freundin Eurer Schwester, die Bernerin, die heute zur Aushilfe gekommen <pb facs="#"
+               /> ist? Schön ist sie, das ist wahr, sehr schön sogar; so Schöne gibt es hierzulande
+               keine außer höchstens Eure Schwester. Und einen prächtigen Staat hat sie ebenfalls.
+               Ist sie denn reich? Aber wenn sie reich ist, warum dient sie denn? Man sagt, sie sei
+               sonst für den Sommer im Kurbad, als Büfettdame. Ich kann es begreifen. So ein
+               Paradiesvogel zieht natürlich alle Männer an. Es heißt, sie lasse sich vom Badewirt
+               selber den Hof machen. Freilich, er ist ja seit zwei Jahren Witwer. Aber den wird sie
+               doch hoffentlich nicht nehmen! So viele Körbe, wie der schon erhalten hat, trotz all
                seinem Vermögen. Puh, der Greuel. Übrigens, so schön sie ist, wenn ich ein Mann wäre
                und die Wahl hätte: ich fände Euere Schwester doch noch schöner. Es kommt ja nicht
                einzig alles auf die Regelmäßigkeit an, sondern auch ein wenig auf den ›Ausdruck‹,
@@ -1721,8 +1728,9 @@
                Leuten war nicht seine Schwäche. Nach kurzem Bedenken rückte er vielmehr noch etwas
                näher an sie heran. Da strahlte sie wie ein Sommermorgen.</p>
             <p>
-               <pb/> »Wie mich das freut«, hauchte sie, »in die innerste Seele hinein freut, daß Ihr
-               Euch meiner nicht schämt.« Und jeder Vorübergehende frischte ihren Blick auf.</p>
+               <pb facs="#"/> »Wie mich das freut«, hauchte sie, »in die innerste Seele hinein
+               freut, daß Ihr Euch meiner nicht schämt.« Und jeder Vorübergehende frischte ihren
+               Blick auf.</p>
             <p>Hierauf sagte sie nichts mehr, sondern stemmte beide Ellenbogen auf den Tisch, legte
                den Kopf in die Hände und schaute ihm mit ihren übergroßen Rehaugen unverwandt ins
                Gesicht, um seine Gegenwart gründlich auszukosten.</p>
@@ -1746,10 +1754,10 @@
                gleicherweise Düfte lockten, nur andere. Man roch es wachsen. Eine hochschwebende,
                schneeweiße Schönwetterwolke schwamm herbei, um gleich einer Insel die Sonne
                wegzutragen, die Scheibe verhüllend, bloß an den Rändern einen blitzenden
-               Strahlenkranz erlaubend. Darunter saßen sie nun wie unter <pb/> einem Baldachin oder
-               einem mit farbigen Gazen gedämpften Kronleuchter, kurz, unter etwas Großem, Hohem und
-               Holdem, das sie vereinte und segnete. Sie urteilte offenbar nicht so strenge über die
-               Jucunde wie die Menschen, die Sonne.</p>
+               Strahlenkranz erlaubend. Darunter saßen sie nun wie unter <pb facs="#"/> einem
+               Baldachin oder einem mit farbigen Gazen gedämpften Kronleuchter, kurz, unter etwas
+               Großem, Hohem und Holdem, das sie vereinte und segnete. Sie urteilte offenbar nicht
+               so strenge über die Jucunde wie die Menschen, die Sonne.</p>
             <p>Ein paar Dutzend große silberne Tropfen sprühten aus der Wolke herab in weiten
                Zwischenständen wie durch ein Sieb. Obgleich sie augenblicklich verdunsteten, so daß
                sie kaum die Erde erreichten, wurden sie doch von sämtlichen Amseln des Tales mit
@@ -1772,8 +1780,8 @@
                sie auf seinen Stuhl, daß er sich niedersetze. Er gehorchte, wenn auch zögernd.
                Hernach war alles wieder beim alten, außer daß sie von Zeit zu Zeit mit innigem
                Entzücken die verletzte Hand betrachtete, als wollte sie rufen: »Das hab' ich von
-               Euch, als Geschenk, zum Andenken, <pb/> wenn Ihr nicht mehr da seid«, und daß er
-               mitunter einen bedauernden Blick zu ihr hinübersandte, wobei sie jedesmal von
+               Euch, als Geschenk, zum Andenken, <pb facs="#"/> wenn Ihr nicht mehr da seid«, und
+               daß er mitunter einen bedauernden Blick zu ihr hinübersandte, wobei sie jedesmal von
                erneutem Glück aufleuchtete, heiter und lustig.</p>
 
             <p>Benedikt, der Kutscher von daheim aus dem »Pfauen«, guckte über den Hag, sich
@@ -1797,8 +1805,9 @@
                Ihr Euch nicht lieber in eine Galerie zurückziehen möchtet.«</p>
             <p>»Durchaus nötig ists nicht«, erwiderte er trocken, »aber angenehm. Übrigens hat der
                Platz den Vorteil, daß er jeden Vorwand nimmt, auszustreuen, wir täten etwas
-               Heimliches im Verborgenen. Sagt das meiner Schwester und einen freundlichen <pb/>
-               Gruß dazu. – Wie stehts im Pfauen? Viele Gäste auf der Terrasse, wie es scheint?«</p>
+               Heimliches im Verborgenen. Sagt das meiner Schwester und einen freundlichen <pb
+                  facs="#"/> Gruß dazu. – Wie stehts im Pfauen? Viele Gäste auf der Terrasse, wie es
+               scheint?«</p>
             <p>»Es wimmelt! Man vermißt Euch schmerzlich an allen Ecken. Ja, und daß ich es nicht
                vergesse, Euer Vater hat darum herumgeredet, es würde Euch wahrscheinlich auch nicht
                das Leben kosten, wenn Ihr heimkämet und ein bißchen bei der Aufsicht behilflich
@@ -1823,7 +1832,7 @@
                vorgefallen sein, von denen er Nachricht wünschte. »Wißt Ihr zufällig etwas von der
                Mutter, wie es ihr geht? Ist sie immer noch oben, in der Schlafstube?«</p>
             <p>
-               <pb/> »Man hat sie ins Dorf zur Großmutter getan, damit sie aus dem Geschäft
+               <pb facs="#"/> »Man hat sie ins Dorf zur Großmutter getan, damit sie aus dem Geschäft
                herauskomme, wo sie sich doch nur unnütz selber aufregt und andern Leuten hinderlich
                ist. Die Bernerin, die Cathri, hat darauf gedrungen.«</p>
             <p>»Ein gescheiter Einfall das, der von der Cathri. Wenn etwas Vernünftiges geschieht,
@@ -1849,7 +1858,7 @@
                trübsinnig. »Ich spüre es. Und kommt dann nie, nie mehr zu mir. Das ist das erste und
                letztemal gewesen.«</p>
             <p>
-               <pb/> »Niemand kann voraus wissen, ob etwas das letztemal gewesen ist.«</p>
+               <pb facs="#"/> »Niemand kann voraus wissen, ob etwas das letztemal gewesen ist.«</p>
             <p>»Doch, das kann man voraus wissen. Ich weiß, es ist das erste und letztemal gewesen.
                Sonst wäret Ihr nicht aus bloßem Versehen zu mir gekommen, aus eitel Trotz und
                Widerspruchsgeist, weil es zufällig daheim Verdruß gegeben hatte. Das weiß ich jetzt,
@@ -1873,9 +1882,9 @@
                woher der Schall kam. Dadurch stockten die Gespräche, und nur abgebrochene Sätze
                wurden laut, gedämpften Tones, als fürchteten sie, die Musik zu beeinträchtigen. Bis
                allmählich, bei längerer Weile und Wiederholung des Rhythmus, die Unterhaltung wieder
-               aufwachte. <pb/> Aber die Gedanken blieben an den musikalischen Tanzboden gebunden,
-               so daß sich jede Rede an langer Leine um den Pfauen drehte wie ein Pferd in der
-               Reitschule.</p>
+               aufwachte. <pb facs="#"/> Aber die Gedanken blieben an den musikalischen Tanzboden
+               gebunden, so daß sich jede Rede an langer Leine um den Pfauen drehte wie ein Pferd in
+               der Reitschule.</p>
             <p>Eine bedächtige Bauernstimme sagte in lehrhaftem Ton: »Wenn man überdenkt, wenn man
                vergleicht, was der Pfauen vor zwanzig, dreißig Jahren war, ehe ihn der alte Reber
                übernahm, und was er jetzt ist! Und alles ganz aus sich selber, ohne Unterstützung,
@@ -1898,11 +1907,11 @@
                besser ging, hat man sie ein paar Jahr lang in den Bädern herumgeschleppt. Jetzt lebt
                sie, soviel ich weiß, seit Jahr und Tag daheim im Hause. Aber mit der Schwermut ist
                es immer noch beim alten, seufzt den ganzen Tag, schafft sich Sorgen über jede
-               Kleinigkeit, macht sich und der Umgebung das Leben zur Qual und redet beständig <pb/>
-               von nichts als vom Sterben. Gütiger Himmel, wenn man einem das vorausgesagt hätte,
-               vor dreißig Jahren! So kann sich der Mensch ändern! Ein Glück, daß der Alte so
-               geduldig mit ihr ist, so ein Wüterich, als er sonst sein mag. Es ist geradezu
-               rührend, wie sanft er mit ihr umgeht, alt und krank, wie er selber ist.«</p>
+               Kleinigkeit, macht sich und der Umgebung das Leben zur Qual und redet beständig <pb
+                  facs="#"/> von nichts als vom Sterben. Gütiger Himmel, wenn man einem das
+               vorausgesagt hätte, vor dreißig Jahren! So kann sich der Mensch ändern! Ein Glück,
+               daß der Alte so geduldig mit ihr ist, so ein Wüterich, als er sonst sein mag. Es ist
+               geradezu rührend, wie sanft er mit ihr umgeht, alt und krank, wie er selber ist.«</p>
             <p>Conrad erbleichte, in ernste Gedanken versunken, indem er sich vornüber lehnte, um
                kein Wort zu verlieren. Das weckte Jucundens Eifersucht. »Wollen wir nicht lieber
                einen andern Platz aufsuchen, wo man ungestört ist?« schlug sie übellaunig vor.</p>
@@ -1925,11 +1934,11 @@
             <p>»Ich habe Euch noch etwas Wichtiges mitzuteilen«, entgegnete sie ernst, mit
                rätselhaftem Ton, »aber Ihr müßt Euch erst setzen.«</p>
             <p>
-               <pb/> Hierauf, nachdem er sich widerstrebend niedergelassen, wandte sie ihm plötzlich
-               ihr Gesicht zu, mit riesengroßen Augen, die ihn drohend anstarrten, wie die Mündung
-               eines gewaltigen Doppelgeschützes, in dessen Innerem Feuer und Schwefel wohnt. Und
-               während er betroffen herumriet, was das bedeute, schob sich hinterlistig ein Bein
-               über das seinige. »Bleibt diesen Abend bei mir«, flüsterte sie.</p>
+               <pb facs="#"/> Hierauf, nachdem er sich widerstrebend niedergelassen, wandte sie ihm
+               plötzlich ihr Gesicht zu, mit riesengroßen Augen, die ihn drohend anstarrten, wie die
+               Mündung eines gewaltigen Doppelgeschützes, in dessen Innerem Feuer und Schwefel
+               wohnt. Und während er betroffen herumriet, was das bedeute, schob sich hinterlistig
+               ein Bein über das seinige. »Bleibt diesen Abend bei mir«, flüsterte sie.</p>
             <p>Sein Blut geriet in Aufruhr. Doch tat er sich Gewalt an, blickte weg und nickte ein
                verneinendes Zeichen.</p>
             <p>»Ich will aber, daß Ihr bleibt. Ich will es einfach«, zischelte sie dringender und
@@ -1950,11 +1959,11 @@
                Beispiel morgen.«</p>
             <p>Aber wieder schüttelte er verneinend den Kopf.</p>
             <p>Nun gab sie alle Hoffnung endgültig auf und fügte sich: »So nützt denn alles, alles
-               nichts?« schmollte sie verzweifelt. »So <pb/> muß ich Euch denn wirklich ziehen
-               lassen? Immerhin, es hat mich innig, innig gefreut. Daran werde ich nun noch lange,
-               lange zehren, wochenlang, monatelang, vielleicht noch länger.« Hiermit ergriff sie
-               mit beiden Händen seine Rechte und drückte sie zärtlich, aber fest an ihr Herz, ließ
-               sie auch nicht mehr los.</p>
+               nichts?« schmollte sie verzweifelt. »So <pb facs="#"/> muß ich Euch denn wirklich
+               ziehen lassen? Immerhin, es hat mich innig, innig gefreut. Daran werde ich nun noch
+               lange, lange zehren, wochenlang, monatelang, vielleicht noch länger.« Hiermit ergriff
+               sie mit beiden Händen seine Rechte und drückte sie zärtlich, aber fest an ihr Herz,
+               ließ sie auch nicht mehr los.</p>
             <p>So zogen sie durch den Hausgang, unbequem, weil eines des andern Schritte hemmte, bis
                vor die Haustür.</p>
             <p>»Leb wohl, Jucunde«, grüßte er. Sie erteilte ihm keine Antwort, gab ihn auch nicht
@@ -1976,8 +1985,9 @@
                wollte, sie hatte ihn halt doch lieb, auf ihre Art. Und der weite, reine Frühling um
                ihn her kam ihm jetzt, wie soll ich sagen, nüchtern, gewissermaßen herzlos vor, so
                daß ihn beinahe sein Sieg gereuen wollte.</p>
-            <p>In der Tat zauderte er, vor der Eisenbahnlinie angekommen, <pb/> indem er nach hinten
-               schielte, ob sie nicht vielleicht nachträglich unter der Haustür stände.</p>
+            <p>In der Tat zauderte er, vor der Eisenbahnlinie angekommen, <pb facs="#"/> indem er
+               nach hinten schielte, ob sie nicht vielleicht nachträglich unter der Haustür
+               stände.</p>
             <p>Sie stand nicht dort. Und wie gesagt, er hatte ja den Waldishofern sein Wort
                verpfändet.</p>
             <p>Da raffte er sich auf und schlich niedergeschlagen über das Geleise, als ob er einen
@@ -1989,8 +1999,8 @@
                hatte und etwa noch tun würde.</p>
 
             <p>
-               <pb/> Er wählte den Pfad durch die Matte, um abzukürzen, dann auf halbem Wege
-               verlangsamte er den Schritt, um später einzutreffen. Denn man sollte nicht etwa
+               <pb facs="#"/> Er wählte den Pfad durch die Matte, um abzukürzen, dann auf halbem
+               Wege verlangsamte er den Schritt, um später einzutreffen. Denn man sollte nicht etwa
                meinen, er hätte Eile, sich auf Befehl einzustellen.</p>
             <p>»Hier muß mir eine Hecke hin«, murmelte er stirnrunzelnd, als er das Gras neben dem
                Weg zertreten sah.</p>
@@ -2013,8 +2023,8 @@
                mit dem Kinn.</p>
             <p>Diensteifrig eilte sie herbei:</p>
             <p>»Ihr habt Euch keine langen Ferien gegönnt, Herr Reber«, grüßte sie ihm entgegen.</p>
-            <p>Er ging auf diese Bemerkung nicht ein. »Cathri, wir sind <pb/> Euch alle zu großem
-               Dank verpflichtet«, begann er feierlich und ein wenig befangen.</p>
+            <p>Er ging auf diese Bemerkung nicht ein. »Cathri, wir sind <pb facs="#"/> Euch alle zu
+               großem Dank verpflichtet«, begann er feierlich und ein wenig befangen.</p>
             <p>»Wofür?«</p>
             <p>»Nun, heute morgen. Ihr wißt ja. – Zwischen mir und dem Vater. – Tut doch nicht, als
                ob Ihr nichts wüßtet! – Mit dem Peitschenstock. – Ihr habt uns möglicherweise vor
@@ -2038,9 +2048,9 @@
             <p>Da schauten Cathri und Conrad einander verständnisvoll an, mit einem ausdrucksvollen
                Doppelblick, welcher sagte: ›Ich begreife, und du?‹ – ›Ich ebenfalls.‹ – ›Es soll ihr
                aber doch nicht gelingen, uns zu entzweien, gelt?‹ – ›Im Gegenteil, jetzt halten wir
-               um so fester zusammen.‹ So vereinigte sie der Trennungsbefehl <pb/> enger, als wenn
-               sie einen langen Winter sämtliche Hochzeiten des Kantons miteinander durchgetanzt
-               hätten. Hierauf begab sich Cathri vergnügt nach dem Tanzsaal.</p>
+               um so fester zusammen.‹ So vereinigte sie der Trennungsbefehl <pb facs="#"/> enger,
+               als wenn sie einen langen Winter sämtliche Hochzeiten des Kantons miteinander
+               durchgetanzt hätten. Hierauf begab sich Cathri vergnügt nach dem Tanzsaal.</p>
             <p>Helene jedoch zauderte, als ob ihr nachträglich etwas einfiele: »War das vielleicht
                Euere Braut, Herr Reber?« heuchelte sie, »die Jungfrau, mit welcher Ihr im
                Stationsgärtchen zusammensaßet?«</p>
@@ -2066,18 +2076,18 @@
                wenigstens einstweilen.</p>
 
             <p>Über ihm, jenseits der Mauerkrone der Terrasse, ging es zu wie in einer Volksszene
-               auf dem Theater. Eine grüne Bühne voll <pb/> Menschen und kein Leben. Eine Menge von
-               Köpfen, behutete und barhäuptige, bärtige und glatte, männliche und weibliche, lugten
-               über die Rampe, wie abgeschnitten und zum Verkauf ausgestellt. Und alle, ohne
-               Unterschied, Stadtvolk wie Landvolk, schnitten wichtige Gesichter, um für bedeutend
-               zu gelten. Es fehlte zur vollendeten Stumpfheit bloß noch ein Jägerchor. Obgleich sie
-               sämtlich zu schweigen schienen, erhob sich doch aus ihrer Mitte ein Getöse wie von
-               hundert schwatzenden Stimmen. Dazwischen schossen die Kellnerinnen unwirsch kreuz und
-               quer, verfolgt von den grimmigen Blicken des Alten, der ihnen, wenn er ihnen nahekam,
-               was freilich bei seiner Schwerfälligkeit nur durch Wegelagerei gelang, verstohlen
-               einen schimpflichen Ausputzer zuraunte, zwischen zwei süßlichen Lächeln an die Gäste.
-               Die einen von ihnen wischten sich hastig die Augen, ehe sie ihre
-               Ballettänzerfreundlichkeit wieder gewannen, andere maulten wütend vor sich hin.
+               auf dem Theater. Eine grüne Bühne voll <pb facs="#"/> Menschen und kein Leben. Eine
+               Menge von Köpfen, behutete und barhäuptige, bärtige und glatte, männliche und
+               weibliche, lugten über die Rampe, wie abgeschnitten und zum Verkauf ausgestellt. Und
+               alle, ohne Unterschied, Stadtvolk wie Landvolk, schnitten wichtige Gesichter, um für
+               bedeutend zu gelten. Es fehlte zur vollendeten Stumpfheit bloß noch ein Jägerchor.
+               Obgleich sie sämtlich zu schweigen schienen, erhob sich doch aus ihrer Mitte ein
+               Getöse wie von hundert schwatzenden Stimmen. Dazwischen schossen die Kellnerinnen
+               unwirsch kreuz und quer, verfolgt von den grimmigen Blicken des Alten, der ihnen,
+               wenn er ihnen nahekam, was freilich bei seiner Schwerfälligkeit nur durch Wegelagerei
+               gelang, verstohlen einen schimpflichen Ausputzer zuraunte, zwischen zwei süßlichen
+               Lächeln an die Gäste. Die einen von ihnen wischten sich hastig die Augen, ehe sie
+               ihre Ballettänzerfreundlichkeit wieder gewannen, andere maulten wütend vor sich hin.
                Helene drückte jedesmal beim Vorbeigehen einen neidischen Blick wegen der Radler
                gegen Josephine ab. Anna, welche im Gewühl besonnen der Ordnung wartete, sah oft zu
                ihm herunter, tat aber, als ob sie ihn nicht erkennte. Neben ihr auf einer Bank
@@ -2090,10 +2100,10 @@
                angenehmer und man werde weniger von dem Tanz-Gedudel belästigt.</p>
             <p>Jene gehorchten geräuschvoll der Einladung, und als ob das ein maßgebendes Beispiel
                gewesen wäre, brach allsofort ein weiteres Häufchen von der Terrasse auf, um sich
-               unten niederzulassen. Andere folgten wieder ihrem Vorbild, so daß der Umzug <pb/>
-               allmählich in eine förmliche Auswanderung ausartete. Ein Tisch nach dem anderen mit
-               Dutzenden von Stühlen mußte in die Matte geschleppt, eine zweite, hierauf eine dritte
-               Kellnerin Josephine zur Aushilfe beigeordnet werden.</p>
+               unten niederzulassen. Andere folgten wieder ihrem Vorbild, so daß der Umzug <pb
+                  facs="#"/> allmählich in eine förmliche Auswanderung ausartete. Ein Tisch nach dem
+               anderen mit Dutzenden von Stühlen mußte in die Matte geschleppt, eine zweite, hierauf
+               eine dritte Kellnerin Josephine zur Aushilfe beigeordnet werden.</p>
             <p>Die Durchbrechung der hergebrachten Platzregel aber, mit ihrer Unordnung, mit ihren
                Zwischenfällen, wie sie Unvorhergesehenheit und Ratlosigkeit im Gefolge zu haben
                pflegen, bewirkte eine knabenhafte Ferienstimmung, so daß die Gesellschaft ihre
@@ -2117,11 +2127,11 @@
                »Es angelt ja niemand nach ihnen«, rief Conrad zurück, »und mit Gewalt kann ich sie
                doch nicht zurücktreiben.«</p>
             <p>
-               <pb/> Bei alledem machte jedoch keiner dem andern sein Volk abspenstig; dazu waren
-               sie beide zu geschult und zu klug. Im Gegenteil, sie halfen sich aus und spielten
-               sich in die Hände. Mit der Zeit, als der Raum unten allmählich anfing knapp zu
-               werden, füllte sichs auch oben wieder, so daß schließlich ein ebenmäßiger Ausgleich
-               stattfand.</p>
+               <pb facs="#"/> Bei alledem machte jedoch keiner dem andern sein Volk abspenstig; dazu
+               waren sie beide zu geschult und zu klug. Im Gegenteil, sie halfen sich aus und
+               spielten sich in die Hände. Mit der Zeit, als der Raum unten allmählich anfing knapp
+               zu werden, füllte sichs auch oben wieder, so daß schließlich ein ebenmäßiger
+               Ausgleich stattfand.</p>
             <p>Wie sie nun so gemeinschaftlich einheitlicher Arbeit pflogen, jeder auf seinem
                Posten, rückte der innere Herzensgegensatz bis auf weiteres in den Hintergrund. Eine
                Art Achtung voreinander gewann die Oberhand. Mitunter, nachdem der Alte einen
@@ -2143,9 +2153,9 @@
             <p>»Dann basta! Fertig! Zum drittenmal sage ich ihms nicht.«</p>
             <p>Doch nach einer Weile beunruhigte ihn seine Verantwortlichkeit gleichwohl wieder:
                »Josephine«, bat er, »sagt dem Vater, es tue mir aufrichtig leid, zum drittenmal
-               darauf zurückzukommen; <pb/> allein es lasse mir in Gottes Namen keine Ruhe. Um sechs
-               Uhr gehe es los. Nach meiner Meinung müßte man für ein paar Dutzend handfester
-               Burschen sorgen.«</p>
+               darauf zurückzukommen; <pb facs="#"/> allein es lasse mir in Gottes Namen keine Ruhe.
+               Um sechs Uhr gehe es los. Nach meiner Meinung müßte man für ein paar Dutzend
+               handfester Burschen sorgen.«</p>
             <p>Diesmal kehrte Josephine laut schluchzend zurück. »Euer Vater ist ein Ungeheuer. So
                lasse ich mich nicht behandeln!«</p>
             <p>»Was hat er gesagt?«</p>
@@ -2167,11 +2177,11 @@
             <p>»Warum?« schien Anna zu fragen, denn hören konnte man ihre leise Frage von unten
                nicht.</p>
             <p>»Darum!« wetterte Cathri. Hernach entfuhr es ihr: »Weil es Schweine sind!«</p>
-            <p>Der Pfauenwirt, der dabeistand, lüpfte verächtlich die Schultern, <pb/> Helene, in
-               der Nähe wirtschaftend, rümpfte spöttisch den Mund, und Anna maß die Bernerin
-               mißtrauisch von oben bis unten. »Es wird wohl noch ein anderer Grund dabei sein«,
-               entgegnete sie anzüglich, mit erhobener, langsamer Stimme, damit es der Bruder höre:
-               »Ihr bedientet wohl lieber an einem andern Ort.« Damit blinzelte sie zu ihm
+            <p>Der Pfauenwirt, der dabeistand, lüpfte verächtlich die Schultern, <pb facs="#"/>
+               Helene, in der Nähe wirtschaftend, rümpfte spöttisch den Mund, und Anna maß die
+               Bernerin mißtrauisch von oben bis unten. »Es wird wohl noch ein anderer Grund dabei
+               sein«, entgegnete sie anzüglich, mit erhobener, langsamer Stimme, damit es der Bruder
+               höre: »Ihr bedientet wohl lieber an einem andern Ort.« Damit blinzelte sie zu ihm
                herunter.</p>
             <p>»Zwingen kannst du sie nicht«, vermittelte Conrad, an die Mauer tretend.</p>
             <p>»Wie soll ich dann einer andern zumuten, was sie verweigert«, rief sie gereizt
@@ -2194,8 +2204,8 @@
             <p>Kaum vernahm Brigitte die trauten Töne ihres Namens, so begriff sie sofort, daß sie
                damit gemeint sei, denn sie verstand ihren Namen und ihre Person geschickt
                aufeinander zu beziehen.</p>
-            <p>»Was!« plärrte sie aufgebracht. Es dauerte eine Weile, bis <pb/> man ihr beigestoßen,
-               worum es sich handle. Dann zuckte sie überlegen die Schultern:</p>
+            <p>»Was!« plärrte sie aufgebracht. Es dauerte eine Weile, bis <pb facs="#"/> man ihr
+               beigestoßen, worum es sich handle. Dann zuckte sie überlegen die Schultern:</p>
             <p>»Die Wagginger sind so gut Menschen wie andere Leute«, erklärte sie entrüstet, mit
                einem anzüglichen Blick auf Cathri. »Deswegen sind sie noch lange keine Schweine,
                weil sie zufällig zwei Beine haben, statt vier, wie mancher andere.« Und ohne
@@ -2220,11 +2230,11 @@
             <p>»Man geht nicht in die Pinte«, verwies sie strenge, »man sitzt nicht neben der
                Jucunde.«</p>
             <p>
-               <pb/> Conrad fuhr auf. »Du«, erwiderte er, »du tätest auch besser, auf dich selber zu
-               achten, als meinen Pestalozzi zu spielen. Der blaue Doktor verschlingt dich ja mit
-               den Augen, daß sogar ein Blinder es bemerken muß. Solange ihr noch nicht öffentlich
-               verlobt seid, solltet ihr soviel Takt besitzen, euch weniger auffällig zu benehmen.
-               Nimm mirs nicht übel.«</p>
+               <pb facs="#"/> Conrad fuhr auf. »Du«, erwiderte er, »du tätest auch besser, auf dich
+               selber zu achten, als meinen Pestalozzi zu spielen. Der blaue Doktor verschlingt dich
+               ja mit den Augen, daß sogar ein Blinder es bemerken muß. Solange ihr noch nicht
+               öffentlich verlobt seid, solltet ihr soviel Takt besitzen, euch weniger auffällig zu
+               benehmen. Nimm mirs nicht übel.«</p>
             <p>Anna schluckte und verstummte.</p>
             <p>»Bah«, warf Cathri nachlässig hin, »einem jungen, unverheirateten Burschen ist alles
                erlaubt.«</p>
@@ -2247,9 +2257,9 @@
                gebieterisch zurück, zu dreien Malen, und jedesmal drohender, bis sie sich endlich
                herbeifügte.</p>
             <p>»Ihr habt Euch für heute bei uns in Dienst verpflichtet«, erklärte er, »folglich seid
-               Ihr uns nicht bloß Gehorsam, sondern <pb/> auch Untergebenheit und Bescheidenheit
-               schuldig, mir und meiner Schwester. Morgen könnt Ihr dann wieder grob sein, wenn Ihr
-               wollt.«</p>
+               Ihr uns nicht bloß Gehorsam, sondern <pb facs="#"/> auch Untergebenheit und
+               Bescheidenheit schuldig, mir und meiner Schwester. Morgen könnt Ihr dann wieder grob
+               sein, wenn Ihr wollt.«</p>
             <p>Und da sie vor Zorn ungeduldig zappelte, als ob der Boden unter ihr brennte, stellte
                er sie geflissentlich noch länger:</p>
             <p>»Beiläufig«, hub er an, »was ich Euch fragen wollte: Ihr habt also oben im Tanzsaal
@@ -2273,8 +2283,8 @@
                dienten, hätte er ebenfalls anders gewünscht, wenns einmal ans Wünschen ginge. Zwei
                Augen, so kalt und nüchtern, als ob man durch lauteres Quellwasser den hölzernen
                Brunnentrog sähe.</p>
-            <p>Aber sie war nun einmal wie ein Stück von ihm, seit heute <pb/> morgen. Und wenn sie
-               frostig war, ein Grund nicht, ihr ein Büschel Strahlen aus seinem Herzen
+            <p>Aber sie war nun einmal wie ein Stück von ihm, seit heute <pb facs="#"/> morgen. Und
+               wenn sie frostig war, ein Grund nicht, ihr ein Büschel Strahlen aus seinem Herzen
                hinüberzusenden, um sie zu wärmen. Übrigens: Mängel, Fehler, was schadet das? Seine
                eigenen Fehler darf man doch lieb haben, nicht wahr? Warum also nicht auch die Fehler
                derer, die zu einem gehören?</p>
@@ -2298,11 +2308,11 @@
             <p>Und tüchtig, weiß Gott, war sie auch. Wie sie bediente! In dieser Beziehung hätte ihr
                selbst die grämliche Hexenbase die Anerkennung nicht versagen können. Ruhig und
                selbstbewußt in der heftigsten Bedrängnis wie ein geschulter Soldat im Feuer. Nichts
-               von dem kopflosen Umherstürmen der andern, jammernd <pb/> und scheltend, als ob man
-               ihnen die Jungen geraubt hätte. Und was er ganz besonders schätzte: sie bediente
-               vollkommen unparteiisch. Nicht wie die empfindsame Josephine, welche bei jedem
-               fleischprotzigen Turner hangen blieb, oder wie die ideale Helene, welche Hören und
-               Sehen vergaß, wenn ein Männerchor anstimmte, mit säuselnden Bässen und himmelnden
+               von dem kopflosen Umherstürmen der andern, jammernd <pb facs="#"/> und scheltend, als
+               ob man ihnen die Jungen geraubt hätte. Und was er ganz besonders schätzte: sie
+               bediente vollkommen unparteiisch. Nicht wie die empfindsame Josephine, welche bei
+               jedem fleischprotzigen Turner hangen blieb, oder wie die ideale Helene, welche Hören
+               und Sehen vergaß, wenn ein Männerchor anstimmte, mit säuselnden Bässen und himmelnden
                Tenören, oder wie die läppische Brigitte, welche auf den Tod die Alten nicht
                ausstehen konnte, so daß sie den ehrwürdigsten Nationalrat verdrießlich aufsuchte,
                als besorgte sie einen Heiratsantrag von ihm. Cathri bediente jedermann gleich, sei
@@ -2325,9 +2335,10 @@
                Geist ehrerbietigster Zurückhaltung ein, der ihre jeweilige Umgebung vornehm
                stempelte.</p>
             <p>
-               <pb/> Während er so seinen Betrachtungen nachhing, stupfte ein fremder Ellenbogen den
-               seinigen. »Herr Reber, schlaft Ihr? oder studiert Ihr über einen Feldzugsplan?« Und
-               wie er nachschaute, war es Cathri selber gewesen, die lachend enteilte.</p>
+               <pb facs="#"/> Während er so seinen Betrachtungen nachhing, stupfte ein fremder
+               Ellenbogen den seinigen. »Herr Reber, schlaft Ihr? oder studiert Ihr über einen
+               Feldzugsplan?« Und wie er nachschaute, war es Cathri selber gewesen, die lachend
+               enteilte.</p>
             <p>»Die verflixten Weiber!« murmelte er belustigt, »ist es nicht, als ob sie einem alle
                Gedanken an der Stirne abläsen?«</p>
             <p>Der Portier torkelte im Zickzack heran, wie ein erratischer Block, unterwegs die
@@ -2351,8 +2362,8 @@
             <p>Auf der Terrasse angelangt, sah er unter dem Volk einen Tisch voll Uniformen glänzen.
                Bei diesem Anblick ward ihm wohl ums Herz, innig und dankbar wohl, als ob ihn jemand
                aus einem tiefen Nebelsumpf, in dem er bis zum Halse steckte, in trockenen
-               Sonnenschein gehoben hätte. Ehre, Ansehen und <pb/> Freundschaft grüßten ihn aus den
-               goldenen Knöpfen, aus den blinkenden Säbeln, und darüber wölbte sich wie ein
+               Sonnenschein gehoben hätte. Ehre, Ansehen und <pb facs="#"/> Freundschaft grüßten ihn
+               aus den goldenen Knöpfen, aus den blinkenden Säbeln, und darüber wölbte sich wie ein
                verklärter Himmel ein großer, schwungvoller Gedankenbogen, der von Genf bis
                Schaffhausen und von Basel bis Chiasso reichte.</p>
             <p>Während er so mit leuchtenden Augen frei und stramm auf den Offizierstisch
@@ -2376,10 +2387,10 @@
                und die Stirn glättend. Kaum, daß sie vermieden, sich zu berühren. Aber den Blick
                richteten sie nach verschiedenen Seiten.</p>
             <p>Der Oberst verglich die beiden, vergnügt und beifällig. »Nun, was meint ihr, Kinder?«
-               wandte er sich zu den Kameraden, <pb/> »wenn wir lauter Mannschaften von diesem
-               Schlage hätten? Donnerwetter, das gäbe eine Truppe! Hm? Was meint ihr? Da lernt mans
-               glauben, daß sie die Pferde mitsamt den Reitern kopfüber schmissen, die alten
-               Eidgenossen!«</p>
+               wandte er sich zu den Kameraden, <pb facs="#"/> »wenn wir lauter Mannschaften von
+               diesem Schlage hätten? Donnerwetter, das gäbe eine Truppe! Hm? Was meint ihr? Da
+               lernt mans glauben, daß sie die Pferde mitsamt den Reitern kopfüber schmissen, die
+               alten Eidgenossen!«</p>
             <p>Hierauf nahm er den Alten besonders vor. »Ja, ja, mein Teuerster, die Söhne, die
                Söhne, die Söhne! Das ist unsere Zukunft, das sind unsere Totengräber.«</p>
             <p>Bei diesen Worten nahm er die goldberänderte Mütze vom Kopf und strich fröhlich mit
@@ -2401,8 +2412,8 @@
                Ansehen der Familie zuliebe. Allein auf die Länge war die Stellung nicht haltbar. Auf
                der einen Seite der Oberst, der sie in seiner Einfalt zusammenschweißte, auf der
                andern ihre krampfhaften Bemühungen, sich weder zu berühren noch anzublicken, und
-               herum die beobachtenden<pb/> Offiziere. Deshalb spähten sie bänglich nach einem
-               erlösenden Zwischenfall.</p>
+               herum die beobachtenden<pb facs="#"/> Offiziere. Deshalb spähten sie bänglich nach
+               einem erlösenden Zwischenfall.</p>
             <p>Conrad entdeckte ihn: »Verzeihen Sie, Herr Oberst«, ersuchte er höflich, »ich sehe
                die Feuerwehr von Waldishofen anrücken, zwanzig Mann hoch, und ich als der
                Herrlisdörfer Feuerhauptmann –«</p>
@@ -2426,9 +2437,9 @@
             <p>Über Conrads Gesicht flog ein Strahl der Freude. »Ah, ich weiß!« rief er lebhaft und
                wollte mit der Schwester aufbrechen, die Damen zu begrüßen.</p>
             <p>Da gewahrte er Cathri jenseits des Mäuerleins, kaum drei Meter entfernt, steif wie
-               eine Säule und die funkelnden Augen <pb/> drohend auf ihn gerichtet. Ohne Zweifel
-               hatte sie den Bericht der Schwester mitangehört und erriet, was auf dem Spiele
-               stand.</p>
+               eine Säule und die funkelnden Augen <pb facs="#"/> drohend auf ihn gerichtet. Ohne
+               Zweifel hatte sie den Bericht der Schwester mitangehört und erriet, was auf dem
+               Spiele stand.</p>
             <p>»Ich glaube fast, sie zählen ein wenig darauf, daß du sie an den Bahnhof begleitest«,
                fuhr Anna fort, im Begriff, ihn mitzunehmen.</p>
             <p>Allein er war stehen geblieben. Eigentlich wäre er zwar gerne zu den Damen gegangen
@@ -2451,9 +2462,9 @@
                entschied er, »allein ich muß durchaus meine Waldishofer in Empfang nehmen.«</p>
             <p>»Jedenfalls wirst du ihnen wenigstens schnell einen guten Abend wünschen,
                selbstverständlich«, warf die Schwester hitzig ein, mit erhobener Stimme.</p>
-            <p>Er schüttelte verneinend den Kopf und entfernte sich mit beschleunigtem <pb/>
-               Schritt, als besorge er, es möchte ihn gereuen. Und unwillkürlich nahm er dabei einen
-               nachlässigeren Gang an als gewöhnlich.</p>
+            <p>Er schüttelte verneinend den Kopf und entfernte sich mit beschleunigtem <pb facs="#"
+               /> Schritt, als besorge er, es möchte ihn gereuen. Und unwillkürlich nahm er dabei
+               einen nachlässigeren Gang an als gewöhnlich.</p>
             <p>»Aber das ist ja geradezu eine Unhöflichkeit, eine Beleidigung«, rief sie ihm empört
                nach. Doch er verschloß die Ohren.</p>
             <p>Cathri erwartete ihn an der Mauerecke. Ihr Auge schillerte falsch und noch etwas
@@ -2477,9 +2488,9 @@
                leichten Schrittes flüchtig getroffen, zugleich mit dem farbigen Eindruck ihrer
                Kleidung, hell und fröhlich, aber weich und gedämpft wie ein Mollakkord.</p>
             <p>Das übrige ergänzte seine aufgeregte Erinnerung. Gewaltsam beharrte er auf dem Fleck
-               und hütete sich, daß er sich nicht <pb/> rührte, damit er sie nicht sehe. Erst
-               nachdem er vollkommen sicher war, daß sie sich weit entfernt hatte, atmete er auf,
-               mit dem erhebenden Gefühl, auf etwas verzichtet zu haben, worauf er sich keinen
+               und hütete sich, daß er sich nicht <pb facs="#"/> rührte, damit er sie nicht sehe.
+               Erst nachdem er vollkommen sicher war, daß sie sich weit entfernt hatte, atmete er
+               auf, mit dem erhebenden Gefühl, auf etwas verzichtet zu haben, worauf er sich keinen
                Anspruch erlauben sollte und durfte.</p>
             <p>Endlich, als er Anna einsam zurückkommen sah, nahte er erleichtert seinen
                Waldishofern.</p>
@@ -2505,8 +2516,8 @@
             <p>Leutolf hatte sich inzwischen in seinen Arm gehängt und drehte ihn jetzt mit sich in
                halber Wendung um:</p>
             <p>
-               <pb/> »Was für eine unmenschliche Masse Volkes wieder einmal bei euch im Pfauen ist!«
-               rief er bewundernd, mit Augenzwinkern.</p>
+               <pb facs="#"/> »Was für eine unmenschliche Masse Volkes wieder einmal bei euch im
+               Pfauen ist!« rief er bewundernd, mit Augenzwinkern.</p>
             <p>»Und was für ein wundervoller Abend«, ergänzte Conrad ablenkend.</p>
             <p>»Glückspilz!« fuhr Leutolf fort, Conrads Arm schüttelnd, »wenns bei dir einmal ans
                Erben geht!« Dabei pfiff er mit den Lippen.</p>
@@ -2529,9 +2540,9 @@
                dahin.« Dann nach dem wüsten Gejohl im Tanzsaal horchend: »Was hast du denn da für
                einen absonderlichen Harmonieverein aufgelesen? Soll das etwa den Furienchor aus dem
                ›Orpheus‹ vorstellen? Die singen ja wie kastrierte Lämmergeier.«</p>
-            <p>»Oder wie mondsüchtige Seehunde«, meinte der Wachtmeister. <pb/> Und indem jeder, des
-               Beifalls zum voraus sicher, einen neuen Vergleich aus dem zoologischen Garten zum
-               besten gab, lauschten sie belustigt dem schauerlichen Geheul.</p>
+            <p>»Oder wie mondsüchtige Seehunde«, meinte der Wachtmeister. <pb facs="#"/> Und indem
+               jeder, des Beifalls zum voraus sicher, einen neuen Vergleich aus dem zoologischen
+               Garten zum besten gab, lauschten sie belustigt dem schauerlichen Geheul.</p>
             <p>»Den heisern Fistelstimmen nach zu urteilen, sollte man fast glauben, es wären die
                Wagginger«, riet eine Stimme.</p>
             <p>Und da Conrad nickte, erhob sich die Frage: »Die Oberwagginger oder die
@@ -2556,16 +2567,17 @@
                Flammenbündel entsandte.</p>
             <p>Eine treue Seele, Papa Allegri, dachte Conrad. Harmlos wie ein Kind. War das ein
                gehörnter Einfall, ihn und den Vater zusammenzuflechten, ohne die entfernteste
-               Ahnung, wie schlimm <pb/> es zwischen ihnen stand! Welch eine unmögliche Lage! Er
-               bemühte sich, dieselbe nachträglich possierlich zu finden, doch tief innen bewegte
-               ihn Rührung. Eine geraume Weile friedlich neben dem Vater gestanden zu haben, ohne
-               etwas Böses von ihm zu erleiden, sich gegenseitig unterstützt, einander entschuldigt,
-               vor den Fremden gedeckt zu haben, – ein unerhörtes Vorkommnis. Gewiß, es war ja bloß
-               im Zwange der Not geschehen, nach außen hin, der Leute wegen. Gleichviel, es ergriff
-               ihn dennoch. Beinahe hätte er seinen Vater darum liebhaben können. Und wie wenig, wie
-               wenig brauchte es doch, damit er es wirklich vermochte! Ein halbwegs freundliches
-               Benehmen, ein Ton, der ihn nicht durch seine Roheit reizte, eine Anrede, die ihn
-               nicht beleidigte. Mehr nicht. Und sollte denn das so unendlich schwierig sein?</p>
+               Ahnung, wie schlimm <pb facs="#"/> es zwischen ihnen stand! Welch eine unmögliche
+               Lage! Er bemühte sich, dieselbe nachträglich possierlich zu finden, doch tief innen
+               bewegte ihn Rührung. Eine geraume Weile friedlich neben dem Vater gestanden zu haben,
+               ohne etwas Böses von ihm zu erleiden, sich gegenseitig unterstützt, einander
+               entschuldigt, vor den Fremden gedeckt zu haben, – ein unerhörtes Vorkommnis. Gewiß,
+               es war ja bloß im Zwange der Not geschehen, nach außen hin, der Leute wegen.
+               Gleichviel, es ergriff ihn dennoch. Beinahe hätte er seinen Vater darum liebhaben
+               können. Und wie wenig, wie wenig brauchte es doch, damit er es wirklich vermochte!
+               Ein halbwegs freundliches Benehmen, ein Ton, der ihn nicht durch seine Roheit reizte,
+               eine Anrede, die ihn nicht beleidigte. Mehr nicht. Und sollte denn das so unendlich
+               schwierig sein?</p>
             <p>Er seufzte tief, und sein Gesicht verfinsterte sich. Immerhin sah er nun wieder einen
                blassen, winzigen Hoffnungsschimmer. Es dünkte ihn hinfort nicht mehr so gänzlich
                unmöglich, daß sich alles noch leidlich fügen könnte, auch ohne die entsetzliche
@@ -2585,17 +2597,18 @@
                abkehrte, den Schmerz verbeißend.</p>
 
             <p>
-               <pb/> Das weinselige Geheul im Saal hatte sich mittlerweile von den Pausen in die
-               Tänze hinübergeschleppt, die Musik lähmend und bald auch stillestellend, nicht durch
-               die Macht der Stimmen, sondern durch die Zähigkeit des Mißklangs, die allmählich
-               jeden Rhythmus entmutigte. Statt der wackelnden Paare taumelten jetzt krakeelende
-               Häuflein über die Bildfläche, welche, um ihre träge flackernde Kühnheit anzumachen,
-               die Fäuste durch die Fenster wiesen oder das Publikum hänselten oder mit heiserem
-               ›Haraus‹ die Welt in die Schranken forderten. Nachdem der Umzug sich eine Weile
-               vergnügt hatte, beliebte eine Abwechslung: die lebenden Bilder verschwanden, dafür
-               kamen aus dem unsichtbaren Innern Speisebrocken geflogen: Käserinden, Schinkenfett,
-               Wurstzipfel, zuerst spärlich, gleichsam zur Andeutung, später aber als üppiger
-               Mannaregen, endlich mitsamt den Tellern, welche unten klirrend zerschellten.</p>
+               <pb facs="#"/> Das weinselige Geheul im Saal hatte sich mittlerweile von den Pausen
+               in die Tänze hinübergeschleppt, die Musik lähmend und bald auch stillestellend, nicht
+               durch die Macht der Stimmen, sondern durch die Zähigkeit des Mißklangs, die
+               allmählich jeden Rhythmus entmutigte. Statt der wackelnden Paare taumelten jetzt
+               krakeelende Häuflein über die Bildfläche, welche, um ihre träge flackernde Kühnheit
+               anzumachen, die Fäuste durch die Fenster wiesen oder das Publikum hänselten oder mit
+               heiserem ›Haraus‹ die Welt in die Schranken forderten. Nachdem der Umzug sich eine
+               Weile vergnügt hatte, beliebte eine Abwechslung: die lebenden Bilder verschwanden,
+               dafür kamen aus dem unsichtbaren Innern Speisebrocken geflogen: Käserinden,
+               Schinkenfett, Wurstzipfel, zuerst spärlich, gleichsam zur Andeutung, später aber als
+               üppiger Mannaregen, endlich mitsamt den Tellern, welche unten klirrend
+               zerschellten.</p>
             <p>Mißbilligende Rufe, klägliche wie entrüstete, protestierten gegen solchen schmutzigen
                Proviant, man flüchtete insgemein aus dem Bereich der klebrigen Geschosse; worauf der
                Alte, zornig die Hände verwerfend, nach dem Saal emporeiferte, jedoch ohne Frucht und
@@ -2609,11 +2622,11 @@
                droschen, übrigens, dem Anscheine nach, ohne sonderliche Wirkung. Schier
                verwunderlich aber dünkte es Conrad, an welchem Merkmal der einzelne in dem Gewimmel
                einen liberalen Schädel von einem konservativen auseinanderzulesen vermochte. – Der
-               Klumpen kam und ging und kehrte wieder, verweilte, <pb/> häufte und türmte sich.
-               Gleichzeitig klaffte die Tür, den schwarzen Schlund öffnend, aus welchem kreischende
-               Jungfern flüchteten, mit den Händen in der Luft kletternd und Helfio zeternd. Doch
-               kaum draußen, zwängten sie sich wieder hinein, mit ihrem Gellen den Lärm
-               vermehrend.</p>
+               Klumpen kam und ging und kehrte wieder, verweilte, <pb facs="#"/> häufte und türmte
+               sich. Gleichzeitig klaffte die Tür, den schwarzen Schlund öffnend, aus welchem
+               kreischende Jungfern flüchteten, mit den Händen in der Luft kletternd und Helfio
+               zeternd. Doch kaum draußen, zwängten sie sich wieder hinein, mit ihrem Gellen den
+               Lärm vermehrend.</p>
             <p>»Da hast du die Bescherung!« höhnte Conrad dem Vater zu.</p>
             <p>»Bemühe nur du dich keineswegs«, fauchte dieser, außer sich vor Ärger, daß die
                Wahrheit sich unterfing, ihm unrecht zu geben. »Laß du dich nicht im mindesten bei
@@ -2635,9 +2648,9 @@
                uns einen Merks. – Den Helm ab! den Rock aus! und die Hemdärmel herauf!« befahl er
                vertraulich seiner Mannschaft. Bei diesem Anblick eilten von da und dort
                kampfesmutige Burschen herbei, die Feuerwehr zu verstärken, junge Bauern aus dem
-               Dorf, auch von den Gästen dieser <pb/> und jener, so daß sich Conrad an der Spitze
-               eines erlesenen Gewalthaufens sah, der sich zwar einstweilen enthielt, aber die
-               Ungeduld einzugreifen nur mühsam zügelte.</p>
+               Dorf, auch von den Gästen dieser <pb facs="#"/> und jener, so daß sich Conrad an der
+               Spitze eines erlesenen Gewalthaufens sah, der sich zwar einstweilen enthielt, aber
+               die Ungeduld einzugreifen nur mühsam zügelte.</p>
             <p>Links und rechts hatten die Neugierigsten sich auf die Tische gepflanzt, um über das
                Mäuerlein hinweg besser zu sehen. Sie genossen das Schauspiel schweigend, außer
                Cathri, welche gleich einem Kampfrichter ihr Urteil öffentlich kundgab. »Gott du
@@ -2661,8 +2674,8 @@
             <p>»Sitzen bleiben! Wozu habt ihr sonst das Gesäß?« donnerte der Alte, außer sich über
                den drohenden Verlust, und während die Kellnerinnen wie von Sinnen umherrannten, um
                die Ausreißenden zum Bleiben zu beschwören, machte er Miene, das Treppchen zum
-               Tanzsaal zu erklimmen, woran er jedoch von <pb/> Anna und dem Doktor gehindert wurde,
-               teils durch Zureden, teils mit sanfter Gewalt.</p>
+               Tanzsaal zu erklimmen, woran er jedoch von <pb facs="#"/> Anna und dem Doktor
+               gehindert wurde, teils durch Zureden, teils mit sanfter Gewalt.</p>
             <p>In der Tat hatte die Mehrzahl der Gäste sich erweichen lassen; sie standen zwar, den
                Hut auf dem Kopf, zum endgültigen Abzug bereit, beglichen auch vorläufig die Zeche,
                räumten jedoch nicht die Terrasse. Nur wenn der Tanzboden unheimlicher knackte, wenn
@@ -2686,7 +2699,7 @@
                zu, die übrigen, die standhielten, nahmen hinfort gemütlichen Anteil, als ob sie zur
                Sippe des Pfauen gehörten.</p>
             <p>Bloß die unten in der Wiese hatten nicht gewankt. Doch jetzt schnellte Conrad mit
-               weit geöffneten Armen vor. Nämlich Anna, <pb/> vom Trieb der Selbstbewahrung
+               weit geöffneten Armen vor. Nämlich Anna, <pb facs="#"/> vom Trieb der Selbstbewahrung
                überrascht, hatte ihren Vater kopflos preisgegeben und kam nun von der Mauer herab
                auf einen Tisch gesprungen, auf welchem sie flink wie ein Eichhörnchen bis zum Ende
                huschte, mit zusammengerafften Kleidern, übrigens ohne ein Gerät umzustoßen, dank
@@ -2710,8 +2723,8 @@
             <p>»Immer mehrere zugleich einen einzelnen besonders aufs Korn nehmen, abtrennen und aus
                dem Haufen fördern, nicht wildlings jeder auf eigene Faust. Wir kommen ja nicht als
                Feinde, sondern als überlegene Friedensstifter, und dazu brauchen wir Ordnung und
-               Besonnenheit. Was am Boden liegt, nicht <pb/> anrühren! und vor allem keinen Streich,
-               der nicht unbedingt nötig ist.«</p>
+               Besonnenheit. Was am Boden liegt, nicht <pb facs="#"/> anrühren! und vor allem keinen
+               Streich, der nicht unbedingt nötig ist.«</p>
             <p>Wie sie am Holzschopfe vorbeikamen, griff der Wachtmeister heimlich nach einem
                Sparren. Doch Cathri überholte ihn in fieberhafter Hast:</p>
             <p>»Nichts da«, wehrte sie, sich an seinen Arm hängend, mit der Autorität der Vernunft:
@@ -2735,11 +2748,11 @@
                liege? Wollt ihr mich bei lebendigem Leibe begraben?«</p>
             <p>»Auf die Schultern!« verfügte Conrad. Da hoben sie ihn auf und trugen ihn geschwind
                in den Hausgang. »Anna, hüt ihn, daß er keinen Unfug stiftet«, rief er, »schaff die
-               Flinte weg; laß ihn nicht durchs Fenster.« Hiermit schupfte er die Schwester <pb/>
-               nach, schmetterte die Türe zu und schickte sich an, sie zu verriegeln. Allein die
-               Türe schloß von innen. Da pflanzte er zwei Mann als Wachen davor, zu denen der Doktor
-               eilte. »Ich könnte nötig werden«, murmelte er kopfschüttelnd. »Außen oder innen;
-               niemand weiß, wo und wem.«</p>
+               Flinte weg; laß ihn nicht durchs Fenster.« Hiermit schupfte er die Schwester <pb
+                  facs="#"/> nach, schmetterte die Türe zu und schickte sich an, sie zu verriegeln.
+               Allein die Türe schloß von innen. Da pflanzte er zwei Mann als Wachen davor, zu denen
+               der Doktor eilte. »Ich könnte nötig werden«, murmelte er kopfschüttelnd. »Außen oder
+               innen; niemand weiß, wo und wem.«</p>
             <p>Als Conrad sich nach seinen Kameraden umblickte, hatte sich die Szene verwandelt. Wo
                eben noch eine hitzige Faustschlacht gewütet hatte, herrschte jetzt ein
                ungefährliches Zungengefecht; statt einer gärenden Gesamtmasse brodelten viele
@@ -2760,10 +2773,10 @@
                Sturmböcke gegen die Sieger zurückrammend. Dadurch stockte zunächst die Bewegung,
                indem die Bauern, von drinnen geworfen und draußen an Conrad brandend, zwischen zwei
                Kräften litten, so daß sie von dem Hin-und Widerprall wie von einem Hebel gehoben
-               wurden; aber sobald es Conrad gelungen war, <pb/> den rechten Türpfosten zu fassen,
-               gewann sein Widerstand stetig die Obermacht, und wie er den linken Pfosten ebenfalls
-               hatte, wälzte er mit plötzlichem Ruck und Druck die Menschenlawine vor sich hin,
-               einwärts in den Saal zurück.</p>
+               wurden; aber sobald es Conrad gelungen war, <pb facs="#"/> den rechten Türpfosten zu
+               fassen, gewann sein Widerstand stetig die Obermacht, und wie er den linken Pfosten
+               ebenfalls hatte, wälzte er mit plötzlichem Ruck und Druck die Menschenlawine vor sich
+               hin, einwärts in den Saal zurück.</p>
             <p>Der Wachtmeister war der erste, den er erhaschte. Den packte er an der Gurgel und
                schüttelte ihn, um ihn Gesittung zu lehren. Jener ließ das lammsfromm geschehen, die
                Augen in verliebter Freundschaft rollend und das bärtige Gesicht in stummer
@@ -2785,10 +2798,10 @@
                Wut in Raserei ausartete. Wie ein wildes Tier brüllte er zunächst den wüsten
                Schlachthaufen an, teils um ihn zu überschreien, teils um nicht zu ersticken.</p>
             <p>In diesem Augenblick klingelte der Kronleuchter, getroffen, zersplittert von klobigen
-               Holzwaffen, der neue, kostbare Kronleuchter, <pb/> den der Vater im Dezember um
-               schweres Geld angeschafft, zu Ehren des Offiziersvereinsballes, – der klare Glaston
-               durchzuckte seine Nerven wie die Zündnadel die Granate, und der entfesselte Haß
-               schnellte seine Gelenke zum federnden Angriff; sprang dem Kronleuchter zu,
+               Holzwaffen, der neue, kostbare Kronleuchter, <pb facs="#"/> den der Vater im Dezember
+               um schweres Geld angeschafft, zu Ehren des Offiziersvereinsballes, – der klare
+               Glaston durchzuckte seine Nerven wie die Zündnadel die Granate, und der entfesselte
+               Haß schnellte seine Gelenke zum federnden Angriff; sprang dem Kronleuchter zu,
                rücksichtslos mitten durch das Gemengsel, Freund und Feind gleicherweise überrennend.
                Den ersten, den er ein Stuhlbein schwingen sah, unterlief er mit geducktem Nacken,
                und indem er ihm beim Überfall gleichzeitig die gespreizte Hand übers Gesicht schlug,
@@ -2810,9 +2823,9 @@
                Hernach aber geriet der Sieg ins Stocken, und es entbrannte ein erbitterter Strauß.
                Denn die Wagginger, von der Überraschung sich erholend, vom Anblick der Waldishofer
                ernüchtert und von der Gefahr der verwegenen Würfe geschreckt, sperrten sich
-               verzweifelt, <pb/> Front gegen den gemeinsamen Gegner. Keine unnützen Verwünschungen
-               mehr; nichts als das Keuchen der Lungen, das Strampeln der Füße, das Klopfen der
-               Fäuste.</p>
+               verzweifelt, <pb facs="#"/> Front gegen den gemeinsamen Gegner. Keine unnützen
+               Verwünschungen mehr; nichts als das Keuchen der Lungen, das Strampeln der Füße, das
+               Klopfen der Fäuste.</p>
             <p>Plötzlich juckte Leutolf, während er eben Conrad gegen einen Seitenhieb deckte,
                heftig rückwärts und befühlte seine Wange. Unmittelbar darauf krachten zwei
                Revolverschüsse, donnerten einzeln durch den Saal und rollten gemeinsam längs den
@@ -2835,8 +2848,8 @@
             <p>»Wer ist getroffen? Ist jemand tot?«</p>
             <p>»Wer ist getroffen?« wiederholten mehrere gleich zeitig im Saale.</p>
             <p>
-               <pb/> Aller Blicke wanderten fragend im Kreise und begegneten allerorten andern
-               fragenden Blicken.</p>
+               <pb facs="#"/> Aller Blicke wanderten fragend im Kreise und begegneten allerorten
+               andern fragenden Blicken.</p>
             <p>»Niemand«, versuchte schließlich ein schüchterner Ruf. »Niemand«, bestätigte man von
                allen Seiten.</p>
             <p>»Niemand«, lautete die bestimmte Antwort nach außen. Da verstummte das Angstgeschrei,
@@ -2861,7 +2874,7 @@
             <p>Doch Conrad gebot Stille. »Es soll ihm kein Leid geschehen«, beteuerte er,
                »vorausgesetzt, daß er sich freiwillig meldet.«</p>
             <p>
-               <pb/> Der Fürsprech sah sich fragend um, doch keiner muckte.</p>
+               <pb facs="#"/> Der Fürsprech sah sich fragend um, doch keiner muckte.</p>
             <p>»Die Taschen untersuchen«, meinte ein Feuerwehrmann. Kaum hatte er das ausgesprochen,
                so glitten zahlreiche Stellmesser auf den Boden.</p>
             <p>Hohnlachend schnellte Conrad empor.</p>
@@ -2888,8 +2901,8 @@
                überzeugend zusprach, nahmen sie endlich stillschweigend den schimpflichen Vertrag
                an.</p>
             <p>
-               <pb/> »Es darf sich ja jeder, der sich unschuldig weiß, herzhaft zu dem Spruch
-               bekennen«, ermutigte der Fürsprech.</p>
+               <pb facs="#"/> »Es darf sich ja jeder, der sich unschuldig weiß, herzhaft zu dem
+               Spruch bekennen«, ermutigte der Fürsprech.</p>
             <p>Die Waldishofer bildeten nun eine Gasse nach der Türe wie zum Spießrutenlaufen, durch
                welche die Wagginger einzeln dem Ausgang zuzogen, den verlangten Spruch stammelnd,
                mit erhobenen Händen auf ausdrückliches Geheiß. Wer sich übereilte, ward angehalten,
@@ -2914,7 +2927,7 @@
                Wachtmeister zurück. Da war der Regenwurm gerettet, ob auch ein Igel von Fäusten ihn
                umstarrte, so daß er nur langsam tappend vorwärts gelangte und bei jeder Bewegung an
                einen harten Knöchel stieß; den Spruch der Selbstverdammung mußte er freilich zur
-               Buße immer von neuem bekennen und sich daneben unrühmliche <pb/> Titel,
+               Buße immer von neuem bekennen und sich daneben unrühmliche <pb facs="#"/> Titel,
                Personalschilderungen sowie Anleihen aus seinem Lebenslauf gefallen lassen.</p>
             <p>»Es ist der Matthiesen-Michel von Niederwaggingen, mehr braucht man nicht zu sagen,
                damit jedermann sofort weiß, es ist von allen schlechten Hunden der schlechteste
@@ -2938,9 +2951,9 @@
 
             <p>Conrad aber blieb zurück, um die Verwüstung zu prüfen, wie er sich weismachte, in
                Wahrheit deshalb, weil er das eroberte Schlachtfeld noch nicht verlassen mochte. Hier
-               hatte er endlich geherrscht, hier zum ersten Male seines Lebens die häusliche <pb/>
-               Gewalt ausgeübt. Nun war leider sein Reich zu Ende. Schade! so früh! ehe es nur recht
-               begonnen.</p>
+               hatte er endlich geherrscht, hier zum ersten Male seines Lebens die häusliche <pb
+                  facs="#"/> Gewalt ausgeübt. Nun war leider sein Reich zu Ende. Schade! so früh!
+               ehe es nur recht begonnen.</p>
             <p>Überhaupt, er war noch nicht satt, der Hauptschlag fehlte, der Kampf war in den
                Frieden gekrochen wie der Rhein in den Sand. Freilich, sie hatte es ja herzlich gut
                gemeint, seine Schwester, und vernünftiger war es jedenfalls; nein, ganz gewiß. Und
@@ -2964,9 +2977,9 @@
                Da war nichts mehr zu holen.</p>
             <p>Während er also im Saal verzog, aufgewühlt und unbefriedigt, gleich der Dogge, der
                man die Schüssel vorzeitig weggenommen, traf das lamentierende Spektakeln des Vaters
-               sein Ohr, fern, <pb/> doch unverkennbar. Als ob eine Mine unter ihm geplatzt wäre,
-               fuhr er in die Höhe. Und bei jedem neuen Laut der väterlichen Stimme, der zu ihm
-               drang, juckte er empor.</p>
+               sein Ohr, fern, <pb facs="#"/> doch unverkennbar. Als ob eine Mine unter ihm geplatzt
+               wäre, fuhr er in die Höhe. Und bei jedem neuen Laut der väterlichen Stimme, der zu
+               ihm drang, juckte er empor.</p>
             <p>»Jetzt entweder oder«, knirschte er, »jetzt muß sichs entscheiden«, und
                leidenschaftlich die Arme verwerfend, jagte er mit Gewaltsätzen ins Freie.</p>
             <p>Ein rotgoldener Lichtjubel blendete sein Auge, jauchzendes Beifallrufen sein Ohr.
@@ -2993,10 +3006,10 @@
             <p>»Nimms doch, nimms«, flennte der Alte, »wenn du doch meinen Tod nicht abwarten
                kannst. Nimms alles.«</p>
             <p>
-               <pb/> »Ich verlange keineswegs alles, ich will bloß meinen billigen Teil, damit man
-               mir mit Achtung begegne, damit ich Frieden habe, damit ich meines Lebens froh sein
-               und lachen kann, damit ich nicht meine Mahlzeit mit Ärger hinunterwürgen muß.
-               Entweder du ziehst mit der Mutter in den oberen Stock und ich wohne unten, oder
+               <pb facs="#"/> »Ich verlange keineswegs alles, ich will bloß meinen billigen Teil,
+               damit man mir mit Achtung begegne, damit ich Frieden habe, damit ich meines Lebens
+               froh sein und lachen kann, damit ich nicht meine Mahlzeit mit Ärger hinunterwürgen
+               muß. Entweder du ziehst mit der Mutter in den oberen Stock und ich wohne unten, oder
                umgekehrt, du unten und ich oben.«</p>
             <p>»Ich kann ja meinetwegen mit der Mutter im Stall bei den Pferden wohnen, das kommt
                dich billiger zu stehen. Ohnehin brauchen wir ja nichts weiter mehr als ein Bündel
@@ -3020,8 +3033,8 @@
             <p>Wieder brauste die Entrüstung. Wohin er sich auch wandte, ward er freundschaftlich
                gehemmt, umringt, zurückgedrängt.</p>
             <p>
-               <pb/> Da, unversehens, stürzte der Vater wie ein wildes Tier ans Fenster. »Ja, ja,
-               ja, ja denn!« brüllte er, mit Gebärden, als ob er etwas hinschmisse.</p>
+               <pb facs="#"/> Da, unversehens, stürzte der Vater wie ein wildes Tier ans Fenster.
+               »Ja, ja, ja, ja denn!« brüllte er, mit Gebärden, als ob er etwas hinschmisse.</p>
             <p>Wie Erlösung seufzte es aufatmend durch die Reihen, denn die aufregenden Ereignisse
                hatten alle Anwesenden der Familie angegliedert.</p>
             <p>Nun näherte sich Conrad festen Schrittes dem Vater: »So ists also dein wahrer,
@@ -3045,8 +3058,8 @@
             <p>Jetzt spürte er sich von seiner Schwester innig umarmt, die er tiefbewegt küßte.</p>
             <p>Hernach blieb sein Geist gelähmt. Der nachträgliche Schreck über seine Vermessenheit
                ließ das Bewußtsein seines Erfolges noch nicht aufkommen. Auch die Umstehenden
-               verharrten betäubt. <pb/> Verlegenheit herrschte um und um, die Verlegenheit der
-               Gedankenunzulänglichkeit angesichts einer plötzlichen folgenreichen
+               verharrten betäubt. <pb facs="#"/> Verlegenheit herrschte um und um, die Verlegenheit
+               der Gedankenunzulänglichkeit angesichts einer plötzlichen folgenreichen
                Schicksalswendung. Gewohnheitshalber räumte das Gesinde den Erdboden vom
                überflüssigen Zeug, Matratzen, Kissen, Kleiderfetzen, Hüte und Scherben und was sonst
                noch nicht da her Gehörendes umherlag, in zweckmäßiger, doch unbewußter Arbeit.
@@ -3073,8 +3086,8 @@
             <p>»Wir haben ihn vorläufig in der Scheune verbunden.«</p>
             <p>»Wer pflegt ihn?«</p>
             <p>
-               <pb/> »Die Lisabeth und die Brigitte.« Hiermit entfernte sich der Doktor, der
-               Haustüre zu.</p>
+               <pb facs="#"/> »Die Lisabeth und die Brigitte.« Hiermit entfernte sich der Doktor,
+               der Haustüre zu.</p>
             <p>Danach ward es wieder stille, so stille, daß der Stundenschlag der Kirchturmsglocke,
                der jetzt zufällig tönte, wie ein wichtiges Ereignis wirkte. Automatisch zählte ein
                jeder nach: Eins – zwei – – »sieben Uhr«, lautete der Schluß. »Wie? schon sieben
@@ -3098,8 +3111,8 @@
                von jeder Größe und Beschaffenheit, er wußte gar nicht, wohin zunächst greifen. Die
                eine schüttelte, die andere drückte und quetschte seine Rechte, einige zerrten ihm
                vor Freude beinahe die Schulter aus dem Gelenke, manche wieder legten nur schüchtern
-               die Finger auf, die Gewährung des Grußes <pb/> von ihm erwartend. Der Wachtmeister
-               aber prügelte ihn vor Begeisterung.</p>
+               die Finger auf, die Gewährung des Grußes <pb facs="#"/> von ihm erwartend. Der
+               Wachtmeister aber prügelte ihn vor Begeisterung.</p>
             <p>»Meister«, lächelten die Kellnerinnen, halb furchtsam, halb vertraulich, und ihr Auge
                bat um Verzeihung für Vergangenes, um Nachsicht für Zukünftiges.</p>
             <p>Was tat Conrad? Er umarmte eine jede. Wahrhaftig, er umarmte sie. Und schämte sich
@@ -3123,8 +3136,8 @@
                der Natur im Einklange steht, so steht es gut mit ihm. Er hätte in diesem Augenblick
                Tod und Teufel herausfordern mögen.</p>
             <p>»Anna«, raunte er der Schwester zu, ihr den Schlüsselbund überreichend, »laß vom
-               allerbesten bringen, Chianti, du weißt. <pb/> Und zwar für alle den nämlichen. Und ja
-               nicht damit geizen!«</p>
+               allerbesten bringen, Chianti, du weißt. <pb facs="#"/> Und zwar für alle den
+               nämlichen. Und ja nicht damit geizen!«</p>
             <p>»Herr und Meister«, murmelte er, um sich schauend, um sich der Wirklichkeit zu
                versichern. Mehr vermochte er einstweilen nicht mit dem Geiste zu begreifen; denn die
                Bewegung war zu stark; außen tanzte die Welt, und inwendig hüpfte seine Seele.</p>
@@ -3149,10 +3162,10 @@
                das.«</p>
 
             <p>
-               <pb/> Bald klangen die Becher und rauschte das Bankett. Gläser wurden angestoßen,
-               Gesundheiten ausgerufen, Späße zum besten gegeben und, um den ruhmreichen Sieg wieder
-               zu kosten, einzelne Vorfälle aus dem Tanzsaal geschildert, welche, durch den
-               Festjubel geschaut, sämtlich komisch wirkten. Conrad schritt still von einem zum
+               <pb facs="#"/> Bald klangen die Becher und rauschte das Bankett. Gläser wurden
+               angestoßen, Gesundheiten ausgerufen, Späße zum besten gegeben und, um den ruhmreichen
+               Sieg wieder zu kosten, einzelne Vorfälle aus dem Tanzsaal geschildert, welche, durch
+               den Festjubel geschaut, sämtlich komisch wirkten. Conrad schritt still von einem zum
                andern, nippte aus manchem Glas, pochte auf manche Schulter, drückte jedem seiner
                Waldishofer nochmals die Hand, diesmal von sich aus, außer Leutolf und dem
                Wachtmeister, die ohnehin zu ihm gehörten wie sein eigener Leib. »Heda, ihr
@@ -3173,8 +3186,8 @@
                wie er wieder hinsah, hatte sie ihn von neuem angestarrt. Etwas Mildes, das ihrer
                bisherigen steinernen Härte widersprach, durchgeistigte ihre Gestalt, und er begriff,
                daß das Milde ihm gelte, ihm besonders, ihm ganz allein. Wie eine Rakete schoß es ihm
-               da vom Herzen in den <pb/> Kopf. Erst jagte er ein Glas Wein durch die Kehle, dann
-               steuerte er stracks zu ihr hinüber.</p>
+               da vom Herzen in den <pb facs="#"/> Kopf. Erst jagte er ein Glas Wein durch die
+               Kehle, dann steuerte er stracks zu ihr hinüber.</p>
             <p>Mancherlei Anreden luden ihn unterwegs ein; er ließ sich nicht aufhalten.</p>
             <p>Doch der Portier hängte sich zudringlich an seine Fersen, katzbucklig, die Mütze
                zwischen den Fingern: »Herr Pfauenwirt«, zischelte er, »sie sammeln sich wieder,
@@ -3197,11 +3210,11 @@
             <p>Cathri verharrte wie eine Bildsäule, während er ihr unternehmend entgegeneilte. »Nun
                also, Cathri«, scherzte er, »wo ist der Teufel hingekommen, der heute morgen auf dem
                Dache saß? Der ist wahrscheinlich durch den Blitzableiter in die Hölle gefahren,
-               wohin er auch gehört. Mut und Mann, seht Ihr, das <pb/> ist immer die beste Arzenei
-               gegen den Teufel. Um ihm jedoch auf ewig die Wiederkehr zu verleiden, will ich jetzt
-               einen guten Geist ins Haus führen, einen guten Geist; wißt Ihr, wen ich damit meine?«
-               Und da ihr Atem flatterte wie eine Möwe über dem stürmischen See, streckte er ihr
-               bieder die Rechte dar.</p>
+               wohin er auch gehört. Mut und Mann, seht Ihr, das <pb facs="#"/> ist immer die beste
+               Arzenei gegen den Teufel. Um ihm jedoch auf ewig die Wiederkehr zu verleiden, will
+               ich jetzt einen guten Geist ins Haus führen, einen guten Geist; wißt Ihr, wen ich
+               damit meine?« Und da ihr Atem flatterte wie eine Möwe über dem stürmischen See,
+               streckte er ihr bieder die Rechte dar.</p>
             <p>»Topp, Cathri, heute ist aller guten Dinge Hochzeit! Wollen wirs gleich binden und
                siegeln?«</p>
             <p>Errötend wand und krümmte sie sich. »Was würde Eure Schwester und Eure Mutter von mir
@@ -3224,8 +3237,8 @@
                Kurbad. Bis dahin auf Wiedersehen.« Sprachs und warf ihr einen Blick voll neckischer
                Freundschaft hin, drehte sich auf dem Absatz und entfernte sich, flott und keck. Die
                Sache war im Blei.</p>
-            <p>Da erschien sie an seiner Seite und stupfte seine Hand. »Habt <pb/> Ihr mich denn ein
-               wenig lieb?« schmollte sie, die Augen voll Sonnenschein.</p>
+            <p>Da erschien sie an seiner Seite und stupfte seine Hand. »Habt <pb facs="#"/> Ihr mich
+               denn ein wenig lieb?« schmollte sie, die Augen voll Sonnenschein.</p>
             <p>»Die Antwort will ich Euch morgen offenbaren«, scherzte er, »heute ist das noch ein
                strenges Geheimnis«, und zog sie an der Hand näher an sich, so daß ihre Körper sich
                beim Gehen behinderten.</p>
@@ -3248,9 +3261,9 @@
                Schwester oder Mutter, oder dich tot zu wissen, tausendmal lieber wüßte ich dich tot.
                So bin ich. Ich sage dirs offen und unverhohlen.«</p>
             <p>»Brr«, machte er lachend und schauderte zum Scherz. Eigentlich befremdete es ihn doch
-               ein wenig, daß sie so leichthin seinen <pb/> Tod in die Waagschale warf. Er hatte
-               sich Frauenliebe umgekehrt gedacht, alles andere eher, sogar das Opfer seiner selbst,
-               als den Tod dessen, den man lieb hat. Doch das war nur so ein flüchtiger
+               ein wenig, daß sie so leichthin seinen <pb facs="#"/> Tod in die Waagschale warf. Er
+               hatte sich Frauenliebe umgekehrt gedacht, alles andere eher, sogar das Opfer seiner
+               selbst, als den Tod dessen, den man lieb hat. Doch das war nur so ein flüchtiger
                Gedankenschatten, welcher, kaum daß er ihn gestreift hatte, auch schon vorüber war.
                Cathri aber, indem sie den unterbrochenen Wandel wieder aufnahm, setzte zur Theorie
                das Exempel: »Ich habe es sogar dem Hans auch nie verziehen, daß er seine Braut vor
@@ -3272,9 +3285,9 @@
                harrte, prallten sie auseinander wie zwei auf einem Ehebruch Betroffene.</p>
             <p>Anna sah eins um das andere mit einem nämlichen Blick unsäglichen Leidens an, dann
                hielt sie stumm und ergeben dem Bruder den Waffenrock dar, während dieser sich des
-               zerfetzten Wamses entledigte. Da sie jedoch aus Unaufmerksamkeit den <pb/> linken
-               Ärmel des Waffenrockes zur Erde hangen ließ, ergriff den jetzt Cathri hinterlistig,
-               als ob sie der Jungfer Reber behilflich sein wollte.</p>
+               zerfetzten Wamses entledigte. Da sie jedoch aus Unaufmerksamkeit den <pb facs="#"/>
+               linken Ärmel des Waffenrockes zur Erde hangen ließ, ergriff den jetzt Cathri
+               hinterlistig, als ob sie der Jungfer Reber behilflich sein wollte.</p>
             <p>»Ja, wer bedient jetzt eigentlich meinen Bruder? ich oder jemand anders?« fragte Anna
                tonlos und biß sich auf die Lippen.</p>
             <p>»Herr Reber, wählt, wer soll Euch bedienen?« nahm Cathri die Frage mit fröhlichem
@@ -3298,7 +3311,8 @@
                Herrschermantel nachschleppte, öffnete Anna die bleichen Lippen, die ein krampfhaftes
                Zittern umzuckte, ehe sie das Wort zu gestalten vermochten:</p>
             <p>
-               <pb/> »Und ich?« sagte sie mit entfärbtem Klang, »ich bin nun abgesetzt?«</p>
+               <pb facs="#"/> »Und ich?« sagte sie mit entfärbtem Klang, »ich bin nun
+               abgesetzt?«</p>
             <p>»Du hast ja deinen Doktor«, tröstete er zwischen Scherz und Ernst.</p>
             <p>Und da sie ihm traurig und vorwurfsvoll in die Augen schaute wie ein frierender
                Bettler, dem ein Geiziger statt eines warmen Kittels einen kupfernen Batzen gespendet
@@ -3324,7 +3338,7 @@
                Seufzen und Verstummen überquoll ihr die Stimme. »Er macht mir Sorge«, klagte
                sie.</p>
             <p>
-               <pb/> »Sorge? wieso?« fragte er erstaunt.</p>
+               <pb facs="#"/> »Sorge? wieso?« fragte er erstaunt.</p>
             <p>Sie zauderte mit der Antwort. Doch nachdem sie einmal einen Zipfel der Wahrheit
                abgedeckt, mußte sie sie auch hervorziehen.</p>
             <p>»Es ist nicht recht mit ihm«, gestand sie. »Es reut ihn wieder zur Hälfte. Er
@@ -3352,7 +3366,7 @@
             <p>»Was ist das?« fragte Conrad stirnrunzelnd, mit rollenden Augen, die aus den Höhlen
                strebten.</p>
             <p>
-               <pb/> »Er verflucht dich«, jammerte Anna in wildem Schmerz, der Überlegung
+               <pb facs="#"/> »Er verflucht dich«, jammerte Anna in wildem Schmerz, der Überlegung
                verlustig.</p>
             <p>Conrad erbleichte und bebte. »Wenn er mich verflucht«, preßte er mit eisiger Stimme
                hervor, »so verfluche ich ihn auch. Ich will doch sehen, ob der gerechte Fluch eines
@@ -3379,7 +3393,7 @@
             <p>»Er spürt den Wein«, verlautete eine Stimme mit dem feinen Ton des Verständnisses.
                »Der Chianti ist ein starker Mann.«</p>
             <p>
-               <pb/> »Oder denkt an seine schöne Bernerin«, meinte Bertha.</p>
+               <pb facs="#"/> »Oder denkt an seine schöne Bernerin«, meinte Bertha.</p>
             <p>Indessen, Beobachtung und Seelenkunde entsprachen nicht dem Bedürfnis der Stunde. Man
                umjauchzte, umschrie ihn, zerrte ihn von einem Tisch zum andern, überhäufte ihn mit
                gewaltsamen Ehren- und Freundschaftsbeteuerungen.</p>
@@ -3395,8 +3409,8 @@
                den Fingern zupfte, wandte er sich unwillig ab, er wußte selber nicht, weshalb.</p>
 
             <p>
-               <pb/> Unversehens prasselte ein Steinhagel in die Obstbäume, Blätter und Blüten
-               rasierend, Zweige knickend und das Holzgerippe schändend.</p>
+               <pb facs="#"/> Unversehens prasselte ein Steinhagel in die Obstbäume, Blätter und
+               Blüten rasierend, Zweige knickend und das Holzgerippe schändend.</p>
             <p>»Feiglinge! Heimtückische!« schnob der Aufruhr, und flink wie die Alpenjäger stieß
                ein kleines Hundert rachedurstiger Männer ab, den Überfall zu ahnden. Ihnen kamen die
                Herrlisdorfer Bauern zuvor, welche abseits vom Bankett und näher dem Talgrund auf der
@@ -3420,8 +3434,8 @@
                überschlug ingrimmig den Schaden. Ein nicht eben beträchtlicher, aber
                unverschmerzlicher Teil der Obsternte war dahin, einige Prachtbäume zu Krüppeln
                verunstaltet, ein edler Pfirsichsprößling unheilbar verwundet. Nicht der
-               rechnungsmäßige Sachverlust <pb/> war es, was ihn am meisten wurmte, sondern die
-               Beeinträchtigung des wonnigen Anblicks, die Verletzung der vielen, zarten,
+               rechnungsmäßige Sachverlust <pb facs="#"/> war es, was ihn am meisten wurmte, sondern
+               die Beeinträchtigung des wonnigen Anblicks, die Verletzung der vielen, zarten,
                feinfühligen Pflanzengefüge, die böswillige Vernichtung des Segens, den die Natur
                einem zum Lohne für geduldige, sorgsame Pflege zugedacht hatte.</p>
             <p>Während sein Zorn Stufe für Stufe emporstieg, ohne noch völlig den Höhengleichwert
@@ -3445,9 +3459,9 @@
                ihn fassen wollte, so war die einzige Möglichkeit, ihn von hinten zu nehmen, vom
                Ackerfeld her, um ihm die Fluchtlinie abzuschneiden. Allein lohnte sichs überhaupt?
                Eigentlich ja schon; lohnt es sich doch immer, einen Übeltäter abzustrafen; aber
-               seine Glieder <pb/> waren, offen gestanden, ein wenig tatenmüde, und seine Seele zog
-               ihn nach einer anderen Richtung, nach einem Krieg, der ihm näherging und von wo ihm
-               ärgeres Unheil drohte als Sachschaden.</p>
+               seine Glieder <pb facs="#"/> waren, offen gestanden, ein wenig tatenmüde, und seine
+               Seele zog ihn nach einer anderen Richtung, nach einem Krieg, der ihm näherging und
+               von wo ihm ärgeres Unheil drohte als Sachschaden.</p>
             <p>Da wollte es der Zufall, daß ein erneuter Wurf, noch schwächlicher als die früheren,
                in die Quelle geriet. Der Stein im seichten Wasser klatschte beleidigend wie eine
                Maulschelle. Oder war es die Verunreinigung des klaren, trinkbaren Wassers oder die
@@ -3471,11 +3485,11 @@
                Wohnstube den Vater greinen wie ein von Chirurgen gemartertes Kind. Nun hielt er den
                Fuß und den Atem an, und seine Seele verfinsterte sich. Was sollte nun das wieder
                bedeuten? Galt das etwa ebenfalls ihm? Und wieso denn?</p>
-            <p>Zunächst vermochte er keine Worte zu unterscheiden, denn <pb/> der Doktor redete
-               gleichzeitig auf den Alten ein, so daß die Silben beider, einander deckend, sich in
-               seinem Ohr verwirrten. Endlich lamentierte der Alte einen Augenblick allein. »Den
-               Todesstoß versetzt«, vernahm er. Nichts als diesen Brocken eines Satzes; doch wie ein
-               Blitzstrahl erleuchtete und vernichtete ihn dieses Bruchstück.</p>
+            <p>Zunächst vermochte er keine Worte zu unterscheiden, denn <pb facs="#"/> der Doktor
+               redete gleichzeitig auf den Alten ein, so daß die Silben beider, einander deckend,
+               sich in seinem Ohr verwirrten. Endlich lamentierte der Alte einen Augenblick allein.
+               »Den Todesstoß versetzt«, vernahm er. Nichts als diesen Brocken eines Satzes; doch
+               wie ein Blitzstrahl erleuchtete und vernichtete ihn dieses Bruchstück.</p>
             <p>Also, so war es von nun an gemeint? Märtyrermienen und anklagende Seufzer, Blicke,
                Gebärden, Anspielungen bis ans Ende der Tage? Hernach ein Grabstein, auf dem mit
                ewiger, unauslöschlicher Schrift geschrieben stand: ›Du, mein eigener Sohn, du bist
@@ -3495,16 +3509,17 @@
             <p>Also zog er seines krummen Weges und verschwand um die Hausecke.</p>
 
             <p>Mittlerweile waren die Feuermänner, welche Conrad vermißten, von Cathri über den
-               mutmaßlichen Grund seines Verschwindens <pb/> verständigt worden, so daß sie die
-               Köpfe streckten, um sich an der Abstrafung zu weiden; leichtsinnig gespannt, wie wer
-               einem ergötzlichen Schauspiel entgegensieht. Da der Abend schon merklich düsterte,
-               benutzte Leutolf den Feldstecher, um besser zu beobachten. Um aber den Vorteil seiner
-               bevorzugten Gesichtsbedingungen nicht plumperweise allein zu genießen, teilte er das
-               Ergebnis seiner Beobachtungen mit: »Dort, hinter dem Nußbaum bei der Scheune steckt
-               er – er hat den Arm voll Kieslinge. Aber er ist unsicher, er sucht das Ziel. – Ein
-               langer, schlottriger Schlingel, hat eine Schnauze wie eine Schnecke und Ohren wie ein
-               Elefant. Ich müßte mich sehr täuschen, oder es ist der nämliche Halunke.« – »Der
-               Messerstecher?« »Der Matthiesen-Michel?« fragten empörte Stimmen.</p>
+               mutmaßlichen Grund seines Verschwindens <pb facs="#"/> verständigt worden, so daß sie
+               die Köpfe streckten, um sich an der Abstrafung zu weiden; leichtsinnig gespannt, wie
+               wer einem ergötzlichen Schauspiel entgegensieht. Da der Abend schon merklich
+               düsterte, benutzte Leutolf den Feldstecher, um besser zu beobachten. Um aber den
+               Vorteil seiner bevorzugten Gesichtsbedingungen nicht plumperweise allein zu genießen,
+               teilte er das Ergebnis seiner Beobachtungen mit: »Dort, hinter dem Nußbaum bei der
+               Scheune steckt er – er hat den Arm voll Kieslinge. Aber er ist unsicher, er sucht das
+               Ziel. – Ein langer, schlottriger Schlingel, hat eine Schnauze wie eine Schnecke und
+               Ohren wie ein Elefant. Ich müßte mich sehr täuschen, oder es ist der nämliche
+               Halunke.« – »Der Messerstecher?« »Der Matthiesen-Michel?« fragten empörte
+               Stimmen.</p>
             <p>»Zeig, gib her«, heischte der Wachtmeister und nahm ihm den Feldstecher weg. »Das ist
                ja genau der nämliche glatte, schlüpfrige, bartlose Schuft!« schäumte er, mit den
                Füßen stampfend. Und zornig das Fernglas wegwerfend, fuhr er Leutolf aufgebracht an:
@@ -3522,8 +3537,8 @@
                sie laufen. Solch eine heimtückische, boshafte Hyäne verdient keine Gnade; da ist
                Großmut nichts als Schwäche.«</p>
             <p>
-               <pb/> Damit wandte er sich mißmutig um und verließ grollend die Kameraden, um abseits
-               einsam hin und her zu stiefeln, mit unwilligem Maulen.</p>
+               <pb facs="#"/> Damit wandte er sich mißmutig um und verließ grollend die Kameraden,
+               um abseits einsam hin und her zu stiefeln, mit unwilligem Maulen.</p>
             <p>Inzwischen machte der Feldstecher die Runde; einzig Cathri lehnte ihn hochmütig ab.
                Sie brauche keine Augenkrücken, behauptete sie geringschätzig, sie sähe ohnehin in
                der Welt mehr, als ihr lieb wäre. Plötzlich frohlockte sie wie über ein fröhliches
@@ -3547,9 +3562,9 @@
                Köpfe zusammen wie eine Schafherde?« »Gleichviel! Entrinnen kann er ihm doch nicht.«
                »Endlich, endlich, Gott sei Dank! Hurra! Er hat ihn.« »Hau ihn! streck ihn zu Boden!«
                »Halt, was ist das? Er verliert den Helm.« »Aber der andere purzelt auf den Boden.«
-               »Ja, aber er <pb/> steht wieder auf« »Warum läßt er ihn denn wieder aufstehn?«
-               »Wahrhaftig, nein, es ist nicht zum Ansehn! Weiß Gott, er läßt ihn laufen!« »Punktum!
-               Fertig! eine gefehlte Geschichte.«</p>
+               »Ja, aber er <pb facs="#"/> steht wieder auf« »Warum läßt er ihn denn wieder
+               aufstehn?« »Wahrhaftig, nein, es ist nicht zum Ansehn! Weiß Gott, er läßt ihn
+               laufen!« »Punktum! Fertig! eine gefehlte Geschichte.«</p>
             <p>»Was hab' ich gesagt?« polterte der Wachtmeister. »Hab' ich jetzt recht gehabt oder
                nicht?«</p>
             <p>Und ärgerlich, als ob sie übervorteilt worden wären, setzten sie sich wieder zum
@@ -3573,9 +3588,9 @@
                auf die Erde:</p>
             <p>»Conrad, was fehlt dir?« jammerte sie, ihn angstvoll umklammernd. »Sags, sags mir,
                der Schwester.« Zugleich stieß sie die herbeieilende Bernerin beiseite.</p>
-            <p>Conrads Lippen zitterten: »Ich bin gestochen«, flüsterte er. <pb/> Da entfuhr ihr ein
-               markerschütternder Schrei, der alles Volk aufschreckte. Nur die Musik dudelte
-               weiter.</p>
+            <p>Conrads Lippen zitterten: »Ich bin gestochen«, flüsterte er. <pb facs="#"/> Da
+               entfuhr ihr ein markerschütternder Schrei, der alles Volk aufschreckte. Nur die Musik
+               dudelte weiter.</p>
             <p>Er fuhr fort: »Ich habe den Helm verloren. Er liegt unter dem Nußbaum. Er gehört dem
                Leutolf. Ich mag jetzt doch nicht essen, ich habe keinen Appetit mehr. Wo bleibt denn
                nur die Mutter? Ich wußte ja nicht, daß sie gemütskrank war. Sag ihr das. Der Vater
@@ -3602,12 +3617,12 @@
                und aus allen Kammern des Herzens.</p>
             <p>Andächtig verstummte das Volk vor dem schauerlichen Wohlgesang.</p>
             <p>
-               <pb/> Der Doktor aber fiel auf die Knie, riß sein Besteck aus der Tasche, das er auf
-               die Erde breitete, prüfte dann aufmerksam den Puls, erst am Handgelenk, hierauf, Anna
-               wegschiebend, auch am Herzen. Allmählich zog er eine bedenkliche Miene. Endlich stand
-               er, seine Instrumente einsteckend, langsam auf. Und während alle Augen an seinem
-               Munde hingen, murmelte er gedämpft, als ob er für sich allein spräche: »Hier wird
-               wohl wenig mehr zu operieren sein.«</p>
+               <pb facs="#"/> Der Doktor aber fiel auf die Knie, riß sein Besteck aus der Tasche,
+               das er auf die Erde breitete, prüfte dann aufmerksam den Puls, erst am Handgelenk,
+               hierauf, Anna wegschiebend, auch am Herzen. Allmählich zog er eine bedenkliche Miene.
+               Endlich stand er, seine Instrumente einsteckend, langsam auf. Und während alle Augen
+               an seinem Munde hingen, murmelte er gedämpft, als ob er für sich allein spräche:
+               »Hier wird wohl wenig mehr zu operieren sein.«</p>
             <p>Anna hatte das Wort vernommen und verstanden. Ihr Gesicht ward schlaff, und lautlos
                sank sie hin. Doch ehe noch jemand sie zu stützen vermochte, war sie wieder
                aufgesprungen, die geisterhaften Augen nach dem Hause emporgerichtet.</p>
@@ -3627,8 +3642,8 @@
                Kellnerinnen standen leise weinend im vordersten Kreise, die gefalteten Hände vor dem
                Gesicht, als ob sie die Augen schützen wollten, damit sie die schreckliche Wahrheit
                nicht sähen. »Was das nicht ist!« »Ists auch möglich?« »Wenn ich nur das nie hätte
-               erleben müssen!« »Der arme Meister! <pb/> Und so gut! So herzensgut! Jesus, Jesus!«
-               »Und wenn jetzt der Vater und die Mutter das sehen!«</p>
+               erleben müssen!« »Der arme Meister! <pb facs="#"/> Und so gut! So herzensgut! Jesus,
+               Jesus!« »Und wenn jetzt der Vater und die Mutter das sehen!«</p>
             <p>Cathri, abseits an der Mauer, starrte geistesabwesend ins Leere, mit gerötetem
                Gesicht und bebenden Lippen.</p>
             <p>»Oh, der Elende, der Schurke! – Der beste, bravste, gutmütigste Tropf auf Gottes
@@ -3653,7 +3668,7 @@
                schüttelte er den Kopf wie ein Stier. »Muß er mir denn ewig und ewig nichts als
                Kummer verursachen!« brüllte er.</p>
             <p>
-               <pb/> Da wandte ihm Anna langsam ihr Schmerzensantlitz zu, das welt- und
+               <pb facs="#"/> Da wandte ihm Anna langsam ihr Schmerzensantlitz zu, das welt- und
                toddurchdringende Liebestreue mit überirdischer Schönheit verklärte:</p>
             <p>»Sieh, Vater, das ist jetzt unser Conrad«, sang sie mit sanftem Dulderton, während
                ihr Mund fürchterlich zuckte.</p>
@@ -3676,8 +3691,8 @@
                unsichtbare böse Stelle, der Schatten des Unheils, der von dorther jedes Antlitz
                verdüsterte, die entsetzliche Wahrheit bestätigte, krampfte sie die Finger in das
                Gestein, um nicht zu fallen.</p>
-            <p>Anna flog ihr entgegen, ihr nach bewegte sich schwerfällig <pb/> der Alte, überholt
-               von mitleidigem Gesinde und Nachbarvolk.</p>
+            <p>Anna flog ihr entgegen, ihr nach bewegte sich schwerfällig <pb facs="#"/> der Alte,
+               überholt von mitleidigem Gesinde und Nachbarvolk.</p>
             <p>Sie fiel, aber in befreundete Arme. »Conrad«, winselte sie, »warum hast du mir das
                angetan?«</p>
             <p>Betroffen tauschten die Herumstehenden Blicke. Und Bertha wandte sich zu Cathri um:
@@ -3704,7 +3719,7 @@
                als Stein und Eisen! Ihr, Ihr, und niemand anders, habt ihn auf dem Gewissen! Statt
                ihn zurückzuhalten, habt Ihr ihn noch angestachelt!«</p>
             <p>
-               <pb/> Cathri maß die Gegnerin kaltblütig mit haßerfülltem Blick.</p>
+               <pb facs="#"/> Cathri maß die Gegnerin kaltblütig mit haßerfülltem Blick.</p>
             <p>»Immer noch besser«, entgegnete sie, »ein Unglück im Hause als ein Verbrechen.«</p>
             <p>»Wie meint Ihr das?« kreischte Anna außer sich.</p>
             <p>»Ich meine«, erwiderte Cathri fest, »wenn es doch einmal geschehen mußte, immer noch
@@ -3727,8 +3742,8 @@
                ich: Eure Schuld ists, Eure Schuld und einzig Eure Schuld, nicht meine. Hätte ihm
                nicht jemand Gift eingegeben, daß er inwendig zu tun hatte, niemand hätte ihm das
                mindeste anhaben können. Übrigens, es ist gekommen, wie es kommen mußte. Geschah es
-               heute nicht, so wäre es morgen oder übermorgen geschehen, <pb/> wenn nicht auf diese
-               Art, auf jene und möglicherweise noch schlimmere.«</p>
+               heute nicht, so wäre es morgen oder übermorgen geschehen, <pb facs="#"/> wenn nicht
+               auf diese Art, auf jene und möglicherweise noch schlimmere.«</p>
             <p>Damit warf sie trotzig den Kopf in den Nacken und stolzierte ins Haus nach dem
                Portierstübchen, schleuderte dort das Geldtäschchen weg, setzte den Strohhut auf,
                rückte ihn vor dem Spiegel zurecht und wandte sich abzuziehen.</p>
@@ -3751,8 +3766,8 @@
                der Bahre heimbrachten. Also von doppeltem Leid gleichzeitig überfallen, zersprang
                ihre starke Fassung, so daß ihr das übermäßige Elend in heulendem Tonschwall aus dem
                Herzen stürzte. Und also heulend schritt sie mitten durch die Menge, in der Richtung
-               nach dem Rebberg, wo der Verkehr am spärlichsten war, stolz und bolzaufrecht <pb/>
-               wie immer, und ohne jemandem einen Blick oder Gruß zu verabfolgen.</p>
+               nach dem Rebberg, wo der Verkehr am spärlichsten war, stolz und bolzaufrecht <pb
+                  facs="#"/> wie immer, und ohne jemandem einen Blick oder Gruß zu verabfolgen.</p>
             <p>Erschüttert machte das Volk ihr Platz, mit gemischten Gefühlen, zugleich bewundernd
                und grausend, teilnehmend und verdammend. Es war anzuschauen wie ein Strafgericht und
                doch wieder wie jemand, der in überlegener Unschuld, unberührt von dem Urteil der
@@ -3776,8 +3791,8 @@
                der Stolz hielt sie aufrecht, und der Trotz stieß sie von hinnen. Sie verbarg das
                Gesicht in den Arm und weinte in den Ellbogen.</p>
             <p>
-               <pb/> »Und gerade in einem solchen Augenblick«, schluchzte sie, »wo man meint – wo
-               man glaubt, – wo man das Glück –«</p>
+               <pb facs="#"/> »Und gerade in einem solchen Augenblick«, schluchzte sie, »wo man
+               meint – wo man glaubt, – wo man das Glück –«</p>
             <p>Dann tauchte sie in die Dämmerung, längs dem Rebberg hinab in gleichmäßigem
                Geschwindschritte, den Abend mit dem tiefen, sonoren Wohlklang ihres Trauergeheuls
                erfüllend. Bald aber entstieg dem Schmerze der Zorn. »Warum kommt man denn«, meuterte
@@ -3801,11 +3816,11 @@
                unter vier Augen. Und wenn einmal zwei Worte sich gekreuzt haben, unter
                rechtschaffenen Menschen, so gilt es, auch ohne Ring und Zeugen oder Pfarrer und
                Zivilpfarrer. Mir hat er das Versprechen gegeben, das heißt, auf ehrlich, er gehört
-               mir, mir <pb/> allein, in alle Ewigkeit, tot oder lebendig, und keiner anderen, mag
-               sie noch so sehr einen lächerlichen Abgott aus ihm machen! Daß er mich zuletzt nicht
-               wiedererkannte, das beweist nichts, gar nichts, nicht das mindeste, denn das begreift
-               sich doch: wer mit dem Tode zu kämpfen hat, der hat genug zu tun, er kann nicht den
-               Geist auswärts beschäftigen.«</p>
+               mir, mir <pb facs="#"/> allein, in alle Ewigkeit, tot oder lebendig, und keiner
+               anderen, mag sie noch so sehr einen lächerlichen Abgott aus ihm machen! Daß er mich
+               zuletzt nicht wiedererkannte, das beweist nichts, gar nichts, nicht das mindeste,
+               denn das begreift sich doch: wer mit dem Tode zu kämpfen hat, der hat genug zu tun,
+               er kann nicht den Geist auswärts beschäftigen.«</p>
             <p>Dann kam ein neuer Schub von Jammer, so daß sie laut aufstöhnte; in das Stöhnen aber
                mischte der Zorn bellende Laute. Plötzlich hielt sie an und drehte sich um, das
                Gesicht nach dem Pfauen emporgerichtet.</p>
@@ -3826,14 +3841,14 @@
                reinlicher Blitz ist viel zu sauber für schmutzige Wiedehopfe eurer Gattung. Er würde
                ja zeitlebens stinken, der Blitz, wenn er euch anrührte! – Männer will das
                vorstellen? Männer, dieses krumme, mißgeborene Bastardgezücht, diese siechen Hämlinge
-               ohne Mut, ohne Kraft,<pb/> ohne Muskel, ohne Stimme? Aber getrost. Ich habe es mit
-               eigenen Augen gesehen, wie er ihn gestochen hat und wer ihn gestochen hat, und mit
-               mir hundert andere. Man kennt ihn, und man kann ihn nennen. Der Matthiesen-Michel von
-               Niederwaggingen ists und niemand sonst. Ich habe ihm im Tanzsaal die Hand übers Maul
-               geschlagen, ich werde ihm im Gerichtssaal den Zeigefinger in die Augen stecken und
-               sagen: ›Du bists‹, und ich mache mich anheischig, es eidlich zu beschwören. Und wenn
-               – gesetzt der Fall – die eigene Familie nicht klagen will, so klage ich und gehe zum
-               Staatsanwalt und lasse nicht nach und verlange Recht und Sühne. Und wenn er nicht
+               ohne Mut, ohne Kraft,<pb facs="#"/> ohne Muskel, ohne Stimme? Aber getrost. Ich habe
+               es mit eigenen Augen gesehen, wie er ihn gestochen hat und wer ihn gestochen hat, und
+               mit mir hundert andere. Man kennt ihn, und man kann ihn nennen. Der Matthiesen-Michel
+               von Niederwaggingen ists und niemand sonst. Ich habe ihm im Tanzsaal die Hand übers
+               Maul geschlagen, ich werde ihm im Gerichtssaal den Zeigefinger in die Augen stecken
+               und sagen: ›Du bists‹, und ich mache mich anheischig, es eidlich zu beschwören. Und
+               wenn – gesetzt der Fall – die eigene Familie nicht klagen will, so klage ich und gehe
+               zum Staatsanwalt und lasse nicht nach und verlange Recht und Sühne. Und wenn er nicht
                will, so zwinge ich ihn mit seiner Pflicht und seinem Beruf und mit dem Regierungsrat
                und mit der Zeitung, bis er muß.«</p>
             <p>Und als jetzt zur Warnung ein Kieselsteinchen an ihr vorbeitänzelte, ersprang sie
@@ -3850,11 +3865,11 @@
             <p>»Jawohl«, antwortete sie höhnisch, ohne den Schritt zu verkürzen. Der Fürsprech
                zupfte sie am Rock.</p>
             <p>»Ihr habt ja doch auch ein fühlendes Herz; Ihr werdet gewiß nicht unnötigerweise
-               einen Menschen ins Unglück bringen wollen, <pb/> der vielleicht mehr aus jugendlichem
-               Übermut« – zugleich ließ er ein großes weißes Fünffrankenstück schimmern. Da
-               versetzte sie ihm mit dem Ellenbogen einen Stoß in den Magen, daß das Geldstück auf
-               dem Weggestein klimperte, wonach der Fürsprech schimpfend zurückblieb, um seinen
-               Fünfliber zu fischen.</p>
+               einen Menschen ins Unglück bringen wollen, <pb facs="#"/> der vielleicht mehr aus
+               jugendlichem Übermut« – zugleich ließ er ein großes weißes Fünffrankenstück
+               schimmern. Da versetzte sie ihm mit dem Ellenbogen einen Stoß in den Magen, daß das
+               Geldstück auf dem Weggestein klimperte, wonach der Fürsprech schimpfend zurückblieb,
+               um seinen Fünfliber zu fischen.</p>
             <p>Beim Stationsübergang überstieg sie schlankweg die geschlossene Barriere. »Heda, he!
                halt, halt!« wehrte aufgebracht der Wächter, »es kommt ein Zug.« »Meinetwegen«,
                erwiderte sie kurz und war schon über dem Geleise.</p>
@@ -3877,10 +3892,10 @@
             <p>»Der Zug Nummer zwölf hat überdies zweiundzwanzig Minuten Verspätung«, ergänzte der
                Vorstand verbindlich.</p>
             <p>»Kommt«, drängte die Neuberin. »Sitzt ein wenig ab, Ihr habt Ruhe nötig.«</p>
-            <p>Da ließ sie sich wegführen, über die Straße ins Gärtchen, ins <pb/> Läubchen. »Hier
-               seid Ihr vollkommen ungestört«, tröstete die Neuberin einladend; »Ihr müßt freilich
-               sehr, sehr vorlieb nehmen«, entschuldigte sie, »es ist halt alles gar entsetzlich
-               einfach bei uns, im Vergleich mit Euch im vornehmen Kurbad.«</p>
+            <p>Da ließ sie sich wegführen, über die Straße ins Gärtchen, ins <pb facs="#"/>
+               Läubchen. »Hier seid Ihr vollkommen ungestört«, tröstete die Neuberin einladend; »Ihr
+               müßt freilich sehr, sehr vorlieb nehmen«, entschuldigte sie, »es ist halt alles gar
+               entsetzlich einfach bei uns, im Vergleich mit Euch im vornehmen Kurbad.«</p>
             <p>Aber Cathri stutzte und rümpfte die Nase. Ein unordentliches Weibsbild in schlampigem
                Rock mit ungekämmten Haaren lag drinnen auf den Knien, die Arme auf die Bank gelegt,
                den Strubelkopf zwischen den Armen verborgen, und schluchzte, als hätte sie die ewige
@@ -3903,8 +3918,8 @@
             <p>Cathri verneinte.</p>
             <p>Die Neuberin aber beharrte mit verschränkten Armen auf dem Platze, schweigend, nur ab
                und zu einen Seufzer entladend.</p>
-            <p>»Das ist ein böser Sonntag«, ächzte sie. »Von dem wird man <pb/> wohl noch jahrelang
-               reden, und nicht nur in Herrlisdorf, sondern im ganzen Bezirke.«</p>
+            <p>»Das ist ein böser Sonntag«, ächzte sie. »Von dem wird man <pb facs="#"/> wohl noch
+               jahrelang reden, und nicht nur in Herrlisdorf, sondern im ganzen Bezirke.«</p>
             <p>Dann hub sie an zu förscheln: »Wie ist es denn eigentlich gekommen?« wagte sie
                gedämpft und vertraulich.</p>
             <p>»Das wird sich vor Gericht erweisen!« erwiderte Cathri barsch, den Fragemut
@@ -3929,8 +3944,8 @@
                ihre Hand mit gespreizten Fingern aus, Cathris Arm suchend, den sie krampfhaft
                drückte. So wie Verwandte an der Leiche eines Angehörigen zu tun pflegen, um die
                Gemeinsamkeit des Schmerzes zu bekunden, wenn die Worte versagen. Allein Jucundens
-               Finger waren naß von Schleim und <pb/> Tränen. Cathri riß sich unwillig los, stand
-               auf, und indem sie mit dem Taschentuch angelegentlich die Stellen wischte, wo
+               Finger waren naß von Schleim und <pb facs="#"/> Tränen. Cathri riß sich unwillig los,
+               stand auf, und indem sie mit dem Taschentuch angelegentlich die Stellen wischte, wo
                Jucundens Finger sie beschmutzt hatten: »Ich verbitte mir dergleichen!« erklärte sie
                empört.</p>
             <p>Hierauf setzte sie sich wiederum, indessen noch weiter am äußersten Rand der Bank, so
@@ -3955,9 +3970,9 @@
                ein Geschöpf erbärmlicher weinen könnte. Und doch, wenn sie von Zeit zu Zeit den
                verstörten Blick nach dem Pfauen richtete, dessen weiße Mauern noch durch die
                Spätdämmerung schimmerten, so barsten immer wieder frische Schleusen ihres Leides,
-               daß die Tränen und Schluchzer <pb/> sich jählings verdoppelten. Und unwillkürlich
-               strebten immer von neuem ihre breiten, plumpen Finger nach Cathris Arm, wie ein
-               verstümmeltes Tierchen, das den Stummel vorstreckt, aber ängstlich wieder
+               daß die Tränen und Schluchzer <pb facs="#"/> sich jählings verdoppelten. Und
+               unwillkürlich strebten immer von neuem ihre breiten, plumpen Finger nach Cathris Arm,
+               wie ein verstümmeltes Tierchen, das den Stummel vorstreckt, aber ängstlich wieder
                zurückzieht, weil es erfahren hat, daß es dort außen wehtut.</p>
             <p>Die Neuberin wuselte wichtig heran:</p>
             <p>»Habt Ihrs gehört?« meldete sie außer Atem. »Sie sind noch einmal aneinander geraten,
@@ -3982,8 +3997,9 @@
                tröstet!«</p>
 
             <p>
-               <pb/> In dem Augenblick, da Cathri über die Straße eilte, fuhr ein Chaisechen flink
-               auf leisen Rädern heran, mit klingenden Schellen und trippelndem Rößlein.</p>
+               <pb facs="#"/> In dem Augenblick, da Cathri über die Straße eilte, fuhr ein
+               Chaisechen flink auf leisen Rädern heran, mit klingenden Schellen und trippelndem
+               Rößlein.</p>
             <p>»Ist der Conrad noch in der Pinte, oder ist er wieder daheim?« rief ihr Benedikt
                wohlgemut entgegen.</p>
             <p>Sie hielt sich indessen nicht mit einer Antwort auf, sondern gewann die Station, wo
@@ -4011,7 +4027,7 @@
                Klasse.</p>
             <p>»Fertig, fort!« schnarrte er.</p>
             <p>
-               <pb/> »Wijüh!« bestätigte die Pfeife des Zugführers.</p>
+               <pb facs="#"/> »Wijüh!« bestätigte die Pfeife des Zugführers.</p>
             <p>Und mit mächtigem Stampfen setzte sich der schwere Zug in Bewegung, begleitet von
                Grillengezirp und Sternengeflimmer, hart an der Lissi vorbei, die ihre heimatgierigen
                Nüstern ungeduldig über den Hemmbalken vorschob, und an der Pinte vorüber, wo

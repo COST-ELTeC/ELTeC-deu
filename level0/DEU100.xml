@@ -47,24 +47,24 @@
    </teiHeader>
 
    <text>
-
+      
       <body>
          <div type="titlepage">
-            <p>
-               <pb/> Agave</p>
-            <!--milestone hi_start-->
-            <p> Aus farbloser Hülle, Agave, bist du</p>
-            <p> In Schönheit erstanden, seltsame du,</p>
-            <p> Wie Blumen im Märchen durch Zauber erweckt.</p>
-            <p> Auf zierlichem Schaft, ihn bekränzend, ragst du,</p>
-            <p> Geworden noch kaum, vollendet doch schon.</p>
-            <p> Für einen berauschenden Frühling gibst du</p>
-            <p> Die Kraft eines Lebens, Agave, dahin</p>
-            <p> Und stirbst im Erblühen – ein Wunder bist du.</p>
-            <!--milestone hi_end-->
+               <head>
+                  <pb facs="#"/> Agave</head>
+               <!--milestone hi_start-->
+               <p> Aus farbloser Hülle, Agave, bist du</p>
+               <p> In Schönheit erstanden, seltsame du,</p>
+               <p> Wie Blumen im Märchen durch Zauber erweckt.</p>
+               <p> Auf zierlichem Schaft, ihn bekränzend, ragst du,</p>
+               <p> Geworden noch kaum, vollendet doch schon.</p>
+               <p> Für einen berauschenden Frühling gibst du</p>
+               <p> Die Kraft eines Lebens, Agave, dahin</p>
+               <p> Und stirbst im Erblühen – ein Wunder bist du.</p>
+               <!--milestone hi_end-->
          </div>
          <div type="chapter">
-            <p>1</p>
+            <head>1</head>
             <p>Zu Beginn des Goldenen Zeitalters Italiens lebte im Städtchen Ariccia, unweit von
                Rom, der Töpfer Pietro Venesco. Er war ein kleiner, unscheinbarer Mann, der sein
                mürrisches Wesen nicht einmal seinen besten Kunden gegenüber ablegte. Das brachte
@@ -79,24 +79,24 @@
                fehlen; Antonio hätte seinen Lebensweg mit zertretenen Weiberherzen pflastern können,
                machte indessen von seinen Zauberkräften keinen Gebrauch. Nicht etwa, daß er dem
                jungen Weibervolke aus dem Wege gegangen wäre; er sprach und scherzte und tanzte mit
-               den Schönheiten, an denen <pb/> Ariccia großen Reichtum besaß, erwies aber keiner von
-               ihnen die geringste Bevorzugung. Wenn die Unterhaltung oder der Tanz aus war, wandte
-               er sich von seinen Partnerinnen so gleichgültig ab wie der Marionettenspieler von
-               seinen Püppchen nach dem Ende der Vorstellung. Sehr oft sah man ihn in die
-               Betrachtung einer hübschen Mädchengruppe am Brunnen oder vor der Kirche, der Osteria
-               versunken. Doch war es kein anderes Betrachten als das eines Bildes an der Wand, und
-               die Gegenstände dieser Aufmerksamkeit fühlten sich durch sie eher beleidigt als
-               geschmeichelt. Er täte besser, meinten sie, einen gar nicht anzusehen als mit so
-               schweigsamen Augen. Sie fingen an ihn geringzuschätzen, zu verspotten und ihm
-               nachzusagen, er sei überhaupt kein Mensch, sondern ein Gebilde aus Ton und könne sich
-               nur für das erwärmen, woraus er selbst gemacht sei. Man betrachte ihn doch, wenn er
-               vor seinem Hause sitzt, ein dummes Stück Lehm in seinen Händen, mit dem er spielt,
-               das er knetet und streichelt. Da fährt ihm die Zärtlichkeit aus allen Fingerspitzen,
-               da flammen ihm die Wangen, da sprüht's ihm aus den Augen. Die kleine Cencetta, die
-               Tochter des Winzers Vinutelli, dessen Gehöft an den Garten des Töpferhauses stieß,
-               wollte den verrückten Menschen belauscht haben, als er einen eben fertiggewordenen
-               Krug, der den Kopf eines alten Mannes mit einem Ziegenbart und spitzen Ohren
-               vorstellte, hoch emporhielt und lachend und entzückt zu ihm redete.</p>
+               den Schönheiten, an denen <pb facs="#"/> Ariccia großen Reichtum besaß, erwies aber
+               keiner von ihnen die geringste Bevorzugung. Wenn die Unterhaltung oder der Tanz aus
+               war, wandte er sich von seinen Partnerinnen so gleichgültig ab wie der
+               Marionettenspieler von seinen Püppchen nach dem Ende der Vorstellung. Sehr oft sah
+               man ihn in die Betrachtung einer hübschen Mädchengruppe am Brunnen oder vor der
+               Kirche, der Osteria versunken. Doch war es kein anderes Betrachten als das eines
+               Bildes an der Wand, und die Gegenstände dieser Aufmerksamkeit fühlten sich durch sie
+               eher beleidigt als geschmeichelt. Er täte besser, meinten sie, einen gar nicht
+               anzusehen als mit so schweigsamen Augen. Sie fingen an ihn geringzuschätzen, zu
+               verspotten und ihm nachzusagen, er sei überhaupt kein Mensch, sondern ein Gebilde aus
+               Ton und könne sich nur für das erwärmen, woraus er selbst gemacht sei. Man betrachte
+               ihn doch, wenn er vor seinem Hause sitzt, ein dummes Stück Lehm in seinen Händen, mit
+               dem er spielt, das er knetet und streichelt. Da fährt ihm die Zärtlichkeit aus allen
+               Fingerspitzen, da flammen ihm die Wangen, da sprüht's ihm aus den Augen. Die kleine
+               Cencetta, die Tochter des Winzers Vinutelli, dessen Gehöft an den Garten des
+               Töpferhauses stieß, wollte den verrückten Menschen belauscht haben, als er einen eben
+               fertiggewordenen Krug, der den Kopf eines alten Mannes mit einem Ziegenbart und
+               spitzen Ohren vorstellte, hoch emporhielt und lachend und entzückt zu ihm redete.</p>
             <p>Übrigens durfte Antonio sich nie lange an dem Anblick einer seiner Arbeiten erfreuen.
                Kaum beendet, war sie auch schon verkauft, und es wurden so viele Nachahmungen
                verlangt, daß die Werkstätte Pietros bald nicht mehr ausreichte, um allen Aufträgen
@@ -106,17 +106,17 @@
                ernsten Vorgängen im Leben der Leute von Ariccia.</p>
             <p>Dem Padrone wuchs die Arbeit über den Kopf. Ihm wäre es recht gewesen, wenn sein
                Kundenkreis sich verkleinert hätte, und er meinte das Mittel dazu gefunden zu haben,
-               indem er seine Preise erhöhte. Die Käufer schimpften, feilschten – bezahlten. <pb/>
-               Das Geschäft gedieh, förmlich gegen den Willen seines Besitzers, immer glänzender.
-               Äußerlich stand alles zum besten, im Inneren herrschten Unzufriedenheit und Hader.
-               Der Sohn verlangte hinaus in die Welt, wollte das Handwerk an den Nagel hängen und
-               ein Bildhauer werden oder ein Maler. Der Vater sprach ihm das Talent zum einen und
-               zum andern ab. Es gab Zeiten, in denen sie kein Wort wechselten, dann wieder hörte
-               man Venesco, aufs höchste gereizt durch den kalten Trotz Antonios, bis tief in die
-               Nacht hinein wüten und toben, hörte das Klirren von zerschelltem Geschirr. Am
-               nächsten Morgen lasen die Gesellen die Scherben kostbarer Schüsseln und Schalen vom
-               Boden auf, und Cecilia, die Töpfersfrau, kam noch blasser als gewöhnlich und mit
-               rotgeweinten Augen zur Frühmesse in die Kirche.</p>
+               indem er seine Preise erhöhte. Die Käufer schimpften, feilschten – bezahlten. <pb
+                  facs="#"/> Das Geschäft gedieh, förmlich gegen den Willen seines Besitzers, immer
+               glänzender. Äußerlich stand alles zum besten, im Inneren herrschten Unzufriedenheit
+               und Hader. Der Sohn verlangte hinaus in die Welt, wollte das Handwerk an den Nagel
+               hängen und ein Bildhauer werden oder ein Maler. Der Vater sprach ihm das Talent zum
+               einen und zum andern ab. Es gab Zeiten, in denen sie kein Wort wechselten, dann
+               wieder hörte man Venesco, aufs höchste gereizt durch den kalten Trotz Antonios, bis
+               tief in die Nacht hinein wüten und toben, hörte das Klirren von zerschelltem
+               Geschirr. Am nächsten Morgen lasen die Gesellen die Scherben kostbarer Schüsseln und
+               Schalen vom Boden auf, und Cecilia, die Töpfersfrau, kam noch blasser als gewöhnlich
+               und mit rotgeweinten Augen zur Frühmesse in die Kirche.</p>
             <p>Sie zu fragen, was es wieder gegeben habe, wagte nur noch selten jemand. Cecilia
                wehrte jeden Versuch, sie auszuforschen, so entschieden ab, daß die Neugierigsten
                sich beschämt zurückzogen, fest entschlossen, dem unnahbaren Weibe nie mehr ein
@@ -134,15 +134,15 @@
                allüberwindend wieder erwacht. Und er hatte zum Himmel gerufen: Tu ein Wunder, lasse
                sie mir, und ich will sie halten wie mein treues Weib, und das Kind in ihrem Schoße
                soll mein Kind heißen.</p>
-            <p>An einem schönen Frühlingsabend saß das Ehepaar Vinutelli <pb/> in Gesellschaft des
-               Baders Luigi Fenderigo und einiger anderer Bekannten beim Weine im Garten des
-               Winzers. Fenderigo war eben aus Rom zurückgekehrt und von den Eindrücken, die er dort
-               empfangen hatte, ganz berauscht. Als der Stuhl Petri wieder in der Ewigen Stadt
-               aufgerichtet worden, als mit dem Riesengefolge des katholischen Oberhirten Glanz,
-               Reichtum, Pracht eingezogen waren, hatten sie einen schreienden Kontrast zu dem
-               Trümmerfelde gebildet, auf dem sie sich entfalteten. Nun residierte Oddo Colonna, der
-               erste seit vierzigjähriger Kirchenspaltung einmütig gewählte Papst, als Martin V. im
-               Palaste seines edlen Geschlechtes bei den Santi Apostoli. Kühne und glückliche
+            <p>An einem schönen Frühlingsabend saß das Ehepaar Vinutelli <pb facs="#"/> in
+               Gesellschaft des Baders Luigi Fenderigo und einiger anderer Bekannten beim Weine im
+               Garten des Winzers. Fenderigo war eben aus Rom zurückgekehrt und von den Eindrücken,
+               die er dort empfangen hatte, ganz berauscht. Als der Stuhl Petri wieder in der Ewigen
+               Stadt aufgerichtet worden, als mit dem Riesengefolge des katholischen Oberhirten
+               Glanz, Reichtum, Pracht eingezogen waren, hatten sie einen schreienden Kontrast zu
+               dem Trümmerfelde gebildet, auf dem sie sich entfalteten. Nun residierte Oddo Colonna,
+               der erste seit vierzigjähriger Kirchenspaltung einmütig gewählte Papst, als Martin V.
+               im Palaste seines edlen Geschlechtes bei den Santi Apostoli. Kühne und glückliche
                Condottieri eroberten der Kirche ihren Staat zurück, den Frieden sicherten kluge
                Verträge. Eine große Bautätigkeit war rege, der verfallene Vatikan, die zerstörten,
                geplünderten Gotteshäuser erstanden verjüngt wieder. Gelehrte und Künstler wurden an
@@ -164,8 +164,8 @@
                »Einbildungen!... Der Engel hat Ringellocken wie aus Draht und ein leeres Gesicht und
                Gliedmaßen so dünn und steif wie der Lilienstengel, den er in der Hand hält. Der
                Toskaner – ich habe ihn ja auch gekannt – war glutäugig und seidenweich gelockt – und
-               gebaut! – und eine <pb/> Gestalt! Der heilige Georg Drachentöter hätte sich ihrer
-               nicht zu schämen gebraucht.«</p>
+               gebaut! – und eine <pb facs="#"/> Gestalt! Der heilige Georg Drachentöter hätte sich
+               ihrer nicht zu schämen gebraucht.«</p>
             <p>»Der ganze Antonio«, schaltete Julia ein, indes der Bader lebhaft fortfuhr: »Kann ja
                sein, daß der schöne Pfuscher beabsichtigt hat, uns außer dem lebendigen noch ein
                anderes Abbild seiner selbst zu hinterlassen, gelungen ist es ihm nicht.«</p>
@@ -193,7 +193,7 @@
                nicht hören. Bei der Arbeit stört ihn nichts und nichts! Und wenn ihn noch so viele
                umdrängen, Lernbegierige oder bloßes Gaffervolk ...«</p>
             <p>»Zu welcher Sorte gehörtet Ihr?« fragte Julia, und wieder lachten alle.</p>
-            <pb/>
+            <pb facs="#"/>
             <p>»Es gibt auch Leute, die man Kunstfreunde nennt«, erwiderte der Bader, »und es gibt,
                Gott sei Lob und Dank, noch jugendliche Begeisterung.«</p>
             <p>»Bei Euch doch nicht?«</p>
@@ -221,13 +221,13 @@
                merkwürdig ist sie, so schön, daß es sogar dem Maler, dem nichts auffällt, auffiel
                und daß er neulich, nachdem Antonio sich losgerissen und die Kapelle verlassen hatte,
                gefragt hat, wer der Jüngling sei, der so bescheiden und inbrünstig zur Heiligen
-               bete. Niemand wußte es«, fuhr Fenderigo, immer mehr in Eifer geratend, fort. <pb/>
-               »Da trat ich auf ihn zu, verneigte mich wie vor einem Kardinal im Purpur und sprach:
-               ›Ich kenne ihn, er ist der und der.‹ Und – jetzt staunt! bei meinen Worten fliegt
-               eine sehr liebliche Freundlichkeit über seine Züge. ›Der Töpfer aus Ariccia‹, sagt
-               er, ›der die hübschen Vasen und Schüsseln formt und bemalt?‹ Denkt euch das! Weiß der
-               Masaccio von ihm und – schmeichle ich mir – will gern noch weiteres von ihm erfahren.
-               So gibt ein Wort das andere, und ich erzähle ...«</p>
+               bete. Niemand wußte es«, fuhr Fenderigo, immer mehr in Eifer geratend, fort. <pb
+                  facs="#"/> »Da trat ich auf ihn zu, verneigte mich wie vor einem Kardinal im
+               Purpur und sprach: ›Ich kenne ihn, er ist der und der.‹ Und – jetzt staunt! bei
+               meinen Worten fliegt eine sehr liebliche Freundlichkeit über seine Züge. ›Der Töpfer
+               aus Ariccia‹, sagt er, ›der die hübschen Vasen und Schüsseln formt und bemalt?‹ Denkt
+               euch das! Weiß der Masaccio von ihm und – schmeichle ich mir – will gern noch
+               weiteres von ihm erfahren. So gibt ein Wort das andere, und ich erzähle ...«</p>
             <p>»Das kann man sich vorstellen«, rief das dicke Ehepaar wie aus einem Munde, »was Ihr
                erzählt haben werdet.«</p>
             <p>»Was Gott verboten hat, werdet Ihr erzählt haben«, fiel ein bärtiger Geselle ein,
@@ -251,8 +251,8 @@
                »Einige behaupten – es braucht freilich deshalb nicht wahr zu sein –, daß er seine
                Arbeiten in San Clemente nur deshalb plötzlich abgebrochen hat, weil er sah, daß sie
                den Vergleich mit denen seines Schülers nicht bestanden. Es braucht nicht wahr zu
-               sein – ich wiederhol's! Mir <pb/> aber würde es einleuchten. Was meint Ihr dazu,
-               weiser Vinutelli?«</p>
+               sein – ich wiederhol's! Mir <pb facs="#"/> aber würde es einleuchten. Was meint Ihr
+               dazu, weiser Vinutelli?«</p>
             <p>»Nichts. Ich meine immer ... in derlei Dingen meine ich am liebsten nichts.«</p>
             <p>»Jetzt malt der in Florenz, der Meister Masolino, in der Kapelle der Brancacci bei
                den Karmelitern. An den Gewölben malt er, und Masaccio soll ihm nachfolgen, sobald er
@@ -280,11 +280,11 @@
                Landschaft, meint man, man könnte eintreten in den Tempel, man könnte spazieren in
                der Gasse, in der Landschaft. Es ist genau wie in der wirklichen Welt.«</p>
             <p>
-               <pb/> »Und lauter Unsinn«, sagte Julia. »Ein Bild hat ein Bild zu sein, und es soll
-               niemand in ihm spazierengehen wollen; und die Heiligen sollen nicht so gemalt werden,
-               daß junge Männer, die einen Hausstand gründen könnten, sich in eine farbige Figur
-               verlieben statt in ein lebendiges junges Mädchen. Wohin kämen wir? Lauter Unsinn,
-               Eure neue Kunst.«</p>
+               <pb facs="#"/> »Und lauter Unsinn«, sagte Julia. »Ein Bild hat ein Bild zu sein, und
+               es soll niemand in ihm spazierengehen wollen; und die Heiligen sollen nicht so gemalt
+               werden, daß junge Männer, die einen Hausstand gründen könnten, sich in eine farbige
+               Figur verlieben statt in ein lebendiges junges Mädchen. Wohin kämen wir? Lauter
+               Unsinn, Eure neue Kunst.«</p>
 
             <p>Der Himmel blaute, und die Sonne schien. Aber rauh kam die Tramontana über das
                Apenninische Gebirge herübergestrichen, schüttelte die Blüten von den Apfelbäumen und
@@ -309,18 +309,18 @@
                Beinchen gegen die Brust des Alten.</p>
             <p>Während der Fremde das Bild ansah, wurde er selbst beobachtet. Von seinem Platz am
                Fenster aus hatte Venesco ihn erblickt und fragte sich, wer das sei und was der
-               wollen möge, <pb/> der regungslos im Sturme stehenblieb und einen Krug anlächelte.
-               Ein Händler schien es nicht und auch kein Käufer, am wenigsten ein besonders
-               wünschenswerter. Sein Anzug war ärmlich. Das Barett aus schwarzem Sammet, der braune
-               Mantel aus grobem Mönchstuch zeigten Spuren langer Dienstbarkeit. In dem Äußeren des
-               Mannes lag nichts Gewinnendes. Er war von mittlerer Größe und zart gegliedert. Seine
-               dunklen Haare flossen, hinters Ohr gestrichen, auf den Nacken herab. Die Hagerkeit
-               des Gesichts, der scharfe Schnitt der kurzen, geraden Nase ließen ihn auf den ersten
-               Blick älter erscheinen als er, dem Schmelz der Haut, dem jugendlichen Glanz der
-               tiefblauen Augen nach zu schließen, wohl war. Ihn für einen von den vielen, durch die
-               Wechselfälle der unruhvollen Zeit herabgekommenen Signoris zu halten konnte niemandem
-               einfallen. Zu den geringen Leuten gehörte aber dieser Mensch, der so unscheinbar und
-               ohne Geleite durchs Land zog, gewiß nicht.</p>
+               wollen möge, <pb facs="#"/> der regungslos im Sturme stehenblieb und einen Krug
+               anlächelte. Ein Händler schien es nicht und auch kein Käufer, am wenigsten ein
+               besonders wünschenswerter. Sein Anzug war ärmlich. Das Barett aus schwarzem Sammet,
+               der braune Mantel aus grobem Mönchstuch zeigten Spuren langer Dienstbarkeit. In dem
+               Äußeren des Mannes lag nichts Gewinnendes. Er war von mittlerer Größe und zart
+               gegliedert. Seine dunklen Haare flossen, hinters Ohr gestrichen, auf den Nacken
+               herab. Die Hagerkeit des Gesichts, der scharfe Schnitt der kurzen, geraden Nase
+               ließen ihn auf den ersten Blick älter erscheinen als er, dem Schmelz der Haut, dem
+               jugendlichen Glanz der tiefblauen Augen nach zu schließen, wohl war. Ihn für einen
+               von den vielen, durch die Wechselfälle der unruhvollen Zeit herabgekommenen Signoris
+               zu halten konnte niemandem einfallen. Zu den geringen Leuten gehörte aber dieser
+               Mensch, der so unscheinbar und ohne Geleite durchs Land zog, gewiß nicht.</p>
             <p>Als Venesco auf die Schwelle seines Hauses trat und schroffen Tones fragte: »Was
                steht Euch zu Diensten?« traf ihn ein Blick aus den Augen des Fremden, der ihn
                überraschte – und ihn gewann. Ein merkwürdig leuchtender, in die Tiefe schauender
@@ -339,9 +339,9 @@
                lockigen Scheitel, am Fenster saß. Er war eifrig mit dem Bemalen einer Schüssel
                beschäftigt und hob den Blick nicht beim Eintreten der beiden Männer.</p>
             <p>
-               <pb/> Um so mehr Interesse schenkte der Besucher ihm. Er stand und betrachtete das
-               schöne Menschenbild, das ihm da wie in einen Lichtmantel gehüllt erschien, mit
-               freudigem Wohlgefallen. »Euer Sohn Antonio«, sprach er.</p>
+               <pb facs="#"/> Um so mehr Interesse schenkte der Besucher ihm. Er stand und
+               betrachtete das schöne Menschenbild, das ihm da wie in einen Lichtmantel gehüllt
+               erschien, mit freudigem Wohlgefallen. »Euer Sohn Antonio«, sprach er.</p>
             <p>»Ihr kennt ihn?«</p>
             <p>»Und er mich – fragt ihn nur.«</p>
             <p>Antonio hatte aufgehorcht. Nun sprang er empor. Die Schüssel entsank seinen Händen
@@ -370,10 +370,10 @@
                versprechen mehr, als Ihr ahnt.«</p>
             <p>»Gut, gut, er erfülle die Versprechungen – an anderen Schüsseln und Schalen.«</p>
             <p>
-               <pb/> »Damit Euer Geschäft gedeihe«, fiel Antonio ein, fahl vor Grimm und Qual. »Ob
-               ich darüber zugrunde gehe, danach fragt Ihr nicht ... Aber Ihr, Mutter«, er wandte
-               sich an sie, »Ihr, die mich liebt – helft mir, ich bitte Euch, Mutter, helft!« Ein
-               glücklicher Einfall schien ihm plötzlich gekommen: »Ihr könnt es! Hat er nicht
+               <pb facs="#"/> »Damit Euer Geschäft gedeihe«, fiel Antonio ein, fahl vor Grimm und
+               Qual. »Ob ich darüber zugrunde gehe, danach fragt Ihr nicht ... Aber Ihr, Mutter«, er
+               wandte sich an sie, »Ihr, die mich liebt – helft mir, ich bitte Euch, Mutter, helft!«
+               Ein glücklicher Einfall schien ihm plötzlich gekommen: »Ihr könnt es! Hat er nicht
                neulich gesagt: ›Nimm ihn! Verfüge über ihn! Ich überlasse ihn dir.‹ So verfügt denn,
                Mutter – meine geliebte –«</p>
             <p>»Nicht so, nicht so«, unterbrach sie ihn mit sanftem, inbrünstigem Flehen und
@@ -400,8 +400,8 @@
                Folgen über ihn und dich! Er gehe. Er werde, was zu werden der Teufel ihn treibt, von
                dem er besessen ist. Ein Halber, der sich ein Ganzer dünkt und anderen weismacht, daß
                er es ist ... Ein Gaukler nur und lebt auf Borg, aber gut, Borgen kennt kein Ziel.
-               Die Zukunft zahlt, die große <pb/> Zukunft, die er hat ... Ja der! was der noch
-               leisten wird. Wartet ... wartet nur! Und daraufhin stiehlt er und raubt, stiehlt
+               Die Zukunft zahlt, die große <pb facs="#"/> Zukunft, die er hat ... Ja der! was der
+               noch leisten wird. Wartet ... wartet nur! Und daraufhin stiehlt er und raubt, stiehlt
                Hochachtung und Bewunderung und das Vertrauen der Männer und die Liebe der Frauen
                ...«</p>
             <p>Ein fast unhörbares Wimmern, ein Flehen um Gnade zitterte auf den Lippen seines
@@ -430,10 +430,10 @@
                Erbauer der Porta zu ihren Ahnen, war sie doch eine Pisano und durfte sich rühmen,
                dem Geschlecht zu entstammen, das der Welt die großen Bildhauer und Architekten
                dieses Namens geschenkt hat.</p>
-            <p>Ihre Vermögensverhältnisse waren bescheiden, erlaubten ihr <pb/> aber ausschließend
-               zu sein in der Wahl ihrer Mietsparteien. Sie nahm überhaupt nur Künstler bei sich
-               auf, am liebsten Maler, weil sie diesen so manche launige und sogar wertvolle
-               Ausschmückung ihrer kahlen Stubenwände verdankte.</p>
+            <p>Ihre Vermögensverhältnisse waren bescheiden, erlaubten ihr <pb facs="#"/> aber
+               ausschließend zu sein in der Wahl ihrer Mietsparteien. Sie nahm überhaupt nur
+               Künstler bei sich auf, am liebsten Maler, weil sie diesen so manche launige und sogar
+               wertvolle Ausschmückung ihrer kahlen Stubenwände verdankte.</p>
             <p>Mit Stolz wies Jungfrau Pulcheria auf die Zeugnisse des Aufenthalts berühmter Leute
                unter ihrem Dache hin. In dem großen, gegen Norden gelegenen Raume, der von ihnen als
                Werkstatt benutzt worden, sah man unter vielen anderen Schildereien die ersten
@@ -459,8 +459,8 @@
                befohlen, er aber lachend die Flucht ergriffen. Vor dem Hause war er stehengeblieben,
                hatte zu der Loggia, auf die Pulcheria, ihm nachscheltend, getreten war,
                hinaufgeschielt und laut und hastig ausgerufen: »Was ich vergaß, Euch zu melden:
-               Steckt einen Braten an den Spieß und Euch selbst <pb/> in ein neues Gewand. Macht
-               Euch so schön Ihr könnt, und noch viel schöner. Er kommt.«</p>
+               Steckt einen Braten an den Spieß und Euch selbst <pb facs="#"/> in ein neues Gewand.
+               Macht Euch so schön Ihr könnt, und noch viel schöner. Er kommt.«</p>
             <p>»Wer kommt?«</p>
             <p>»Er. Meister Masolino läßt es Euch sagen.«</p>
             <p>»Wer kommt? frage ich, seid Ihr taub?«</p>
@@ -486,11 +486,11 @@
                Ihre Gedanken wanderten in die Vergangenheit zurück.</p>
             <p>Des Ausflugs erinnerte sie sich, den sie vor Jahren nach Castel San Giovanni di
                Valdarno unternommen hatte. Und wie sie dort vor einem Hause stehengeblieben, auf dem
-               mit Kohle eine staffagenreiche Landschaft gezeichnet war. Im <pb/> Hintergrunde ragte
-               eine Burg empor, und auf den Wegen und Wiesen spazierten Menschen und Tiere, so gut
-               und natürlich ausgeführt, daß man nicht nur einen Mann von einer Frau und eine Kuh
-               von einem Hund, sondern einen Erwachsenen von einem Kind und sogar eine Gans von
-               einem Truthahn unterscheiden konnte.</p>
+               mit Kohle eine staffagenreiche Landschaft gezeichnet war. Im <pb facs="#"/>
+               Hintergrunde ragte eine Burg empor, und auf den Wegen und Wiesen spazierten Menschen
+               und Tiere, so gut und natürlich ausgeführt, daß man nicht nur einen Mann von einer
+               Frau und eine Kuh von einem Hund, sondern einen Erwachsenen von einem Kind und sogar
+               eine Gans von einem Truthahn unterscheiden konnte.</p>
             <p>Pulcheria hielt Nachfrage und erfuhr, daß es in San Giovanni noch mancherlei
                Wandschmuck dieser Art gebe und daß er durch einen der fünf Söhne, die der
                verstorbene Notar Giovanni di Simone Guidi hinterlassen habe, hergestellt werde. Die
@@ -515,8 +515,8 @@
                vielleicht seine ganze Zukunft abhing.</p>
             <p>Nachdenklich hatte er den Maler angesehen, sich gestreckt, die Augenbrauen
                zusammengezogen wie ein Alter ... die Zungenspitze zwischen die Lippen geklemmt wie
-               ein Kind, wenn <pb/> es recht aufmerksam ist ... Es war so lächerlich, Pulcheria
-               hätte weinen können, wenn sie sich entsann, wie lächerlich das war ...</p>
+               ein Kind, wenn <pb facs="#"/> es recht aufmerksam ist ... Es war so lächerlich,
+               Pulcheria hätte weinen können, wenn sie sich entsann, wie lächerlich das war ...</p>
             <p>Du lieber Gott!... Und die Spannung, mit der sie jeder Linie folgte, die Masos kleine
                Hand auf die weiße Fläche hinzog. Und ihr Stolz, als der feierliche Meister ihr
                lächelnd zugenickt: »Ihr habt ganz recht gesehen, Madonna. Respekt vor Eurem Auge!
@@ -544,9 +544,9 @@
                ihn im Aktzeichnen und in der schwierigen Kunst der Verkürzungen.</p>
             <p>Der rastlos Strebende segnete die zwei großen Männer, die sich zu ihm herabneigten
                und ihm Unbezahlbares spendeten aus dem Schatz ihres Könnens und Wissens. Pulcheria
-               hingegen <pb/> verwünschte den Baumeister und den Bildhauer. Sie sündigten auf Masos
-               Genie, diese zwei! Er arbeitete sich zuschanden an den Aufgaben, die er von ihnen
-               heimbrachte.</p>
+               hingegen <pb facs="#"/> verwünschte den Baumeister und den Bildhauer. Sie sündigten
+               auf Masos Genie, diese zwei! Er arbeitete sich zuschanden an den Aufgaben, die er von
+               ihnen heimbrachte.</p>
             <p>Eines frühen Morgens, als sie in die Werkstatt trat, um nachzusehen, ob die Magd
                schon Anstalt getroffen hatte, auch hier ihres Reinigungsamtes zu walten, fand sie
                Maso am Arbeitstisch eingeschlafen. Die Mappe lag vor ihm, er hatte die Ellbogen
@@ -572,8 +572,8 @@
             <p>»Die Säulen, ja, die wohl«, sprach sie kummervoll. »Wenn nur auch du dich verjüngen
                würdest! Wenn du nur so jung sein wolltest, als du wirklich bist ... Du willst nicht,
                du willst dich alt machen vor den Jahren, du tötest dich aus Gier, ein großer Maler
-               zu werden ... Und«, setzte sie lebhaft und eindringlich <pb/> hinzu, »hat man je
-               gehört, daß ein toter Mensch ein großer Maler geworden ist?«</p>
+               zu werden ... Und«, setzte sie lebhaft und eindringlich <pb facs="#"/> hinzu, »hat
+               man je gehört, daß ein toter Mensch ein großer Maler geworden ist?«</p>
             <p>»Deshalb muß ich es früher geworden sein«, erwiderte er, »und wer weiß, wieviel Zeit
                mir dazu gegönnt ist. Laßt das gelten, Mütterchen.«</p>
             <p>Wenn er »Mütterchen« zu ihr sagte, war die alte Jungfrau entwaffnet und widersprach
@@ -602,9 +602,9 @@
                und bei sich ausgemacht: Diesem Götterjüngling würden die Liebesabenteuer aus dem
                Boden sprießen, wie Gras im Frühling sprießt. Sein nur um wenige Jahre älterer Lehrer
                könnte unmöglich gleichgültig bleiben all der Lebensfreude gegenüber, die sich rings
-               um ihn entfalten dürfte. Ein <pb/> Widerschein dieser Lebensfreude müßte farbenhell
-               in seine ernste Seele fallen und den Wunsch in ihm entfachen, auch sein Teil
-               Erdenglück zu erringen.</p>
+               um ihn entfalten dürfte. Ein <pb facs="#"/> Widerschein dieser Lebensfreude müßte
+               farbenhell in seine ernste Seele fallen und den Wunsch in ihm entfachen, auch sein
+               Teil Erdenglück zu erringen.</p>
             <p>Unmut ergriff die Jungfrau Pisano, als sie entdeckte, daß der Schüler von derselben
                Art war wie der Lehrer. Ebenso emsig, ebenso still, ebenso abgewendet von
                Zerstreuungen und Freuden. Zeichen und Wunder! da fanden sich in Italien zwei
@@ -632,10 +632,10 @@
                schon gesprochen und wird nach San Clemente gegangen sein und meine Bilder
                kennengelernt haben.«</p>
             <p>
-               <pb/> Die Unruhe und bange Spannung, die den großen Künstler erfüllten, taten seinem
-               Jünger leid. Alles Lob, alle Bewunderung, die Masaccios Werke ihrem Schöpfer
-               eingetragen hatten, waren vergessen. Von dem Urteil Masolinos schien allein die
-               Entscheidung über ihren Wert oder Unwert abzuhängen.</p>
+               <pb facs="#"/> Die Unruhe und bange Spannung, die den großen Künstler erfüllten,
+               taten seinem Jünger leid. Alles Lob, alle Bewunderung, die Masaccios Werke ihrem
+               Schöpfer eingetragen hatten, waren vergessen. Von dem Urteil Masolinos schien allein
+               die Entscheidung über ihren Wert oder Unwert abzuhängen.</p>
             <p>Inzwischen verbreitete sich in Florenz ein seltsames Gerücht. Filippo Scolari, der im
                Dienst des Königs Sigismund stand und die Würde eines Obergespans von Temesvar
                bekleidete, sollte den berühmten Masolino unter glänzenden Anerbietungen eingeladen
@@ -661,7 +661,7 @@
                seinen Plänen. Sie sprachen nur flüsternd miteinander. Die Verstimmung der beiden
                Meister teilte sich allen mit, lastete auf allen.</p>
             <p>
-               <pb/> Ist er nicht in San Clemente gewesen? fragte sich Masaccio. Das ist ja
+               <pb facs="#"/> Ist er nicht in San Clemente gewesen? fragte sich Masaccio. Das ist ja
                undenkbar. Scheint ihm meine Arbeit nicht der Erwähnung wert? Ist der Eindruck, den
                sie ihm gemacht hat, schon verwischt?</p>
             <p>Er suchte zerstreut nach einer Vorlage in seiner Mappe. Da war ihm, als ob er den
@@ -690,9 +690,9 @@
                größeren, es hat dich!«</p>
             <p>Guidi war wie betäubt, wie geblendet durch einen plötzlich hereinbrechenden
                Lichtstrahl. »Mich«, wiederholte er leise und wie gewürgt, »dem der Lebensnerv der
-               Größe fehlt: Selbstvertrauen? <pb/> Mich, der in allem, was er schafft, nur die
-               Fehler sieht?... Mich elenden Schwächling, der lange nicht mehr dasein wird, wenn Ihr
-               die Welt durch Eure Werke noch in Entzücken versetzen werdet?«</p>
+               Größe fehlt: Selbstvertrauen? <pb facs="#"/> Mich, der in allem, was er schafft, nur
+               die Fehler sieht?... Mich elenden Schwächling, der lange nicht mehr dasein wird, wenn
+               Ihr die Welt durch Eure Werke noch in Entzücken versetzen werdet?«</p>
             <p>Masolino sah ihn an, und etwas ihm bisher Unbekanntes regte sich in ihm: Rührung.</p>
             <p>Sein Ton war weich, und aus seinen strengen Augen brach ein milder Strahl, als er
                sagte: »Sei ruhig, Tommaso, wenn du morgen von uns gingest, für deine Unsterblichkeit
@@ -719,16 +719,16 @@
                führte, erfaßte ihn schon ein fieberhafter Drang, die nächste zu beginnen, in der es
                ihm gelingen müsse, die Unvollkommenheiten der früheren zu vermeiden. Gelegenheit,
                immer Neues zu unternehmen, bot sich ihm reichlich. Kirchenfürsten und weltliche
-               Stifter geizten <pb/> danach, fromme Stätten mit Werken von ihm zu schmücken. Er
-               mußte, um nur die dringendsten Aufträge zu erfüllen, oft monatelang seine Arbeiten in
-               dem Carmine unterbrechen. Wenn er sie dann wiederaufnahm, war der Zugang zur Kapelle
-               mit Schau- und Lernbegierigen umlagert. Die einen vertraten ihm den Weg und sprachen
-               ihn an, um sich rühmen zu können, daß sie einige Worte mit ihm gewechselt hatten; die
-               anderen wiesen ihm ihre Arbeiten vor und hofften, daß er sie annehmen werde als
-               Schüler. Sich so nennen zu dürfen war ein schwer errungenes Glück. Daß es dem
-               Töpferssohn aus Ariccia gleichsam in den Schoß gefallen, daß er zwei Jahre nach
-               seiner Aufnahme schon neben Guidi auf dem Gerüste stehen und Einzelheiten an seinen
-               Fresken ausführen durfte, erregte bei den anderen Kunstbeflissenen Neid und
+               Stifter geizten <pb facs="#"/> danach, fromme Stätten mit Werken von ihm zu
+               schmücken. Er mußte, um nur die dringendsten Aufträge zu erfüllen, oft monatelang
+               seine Arbeiten in dem Carmine unterbrechen. Wenn er sie dann wiederaufnahm, war der
+               Zugang zur Kapelle mit Schau- und Lernbegierigen umlagert. Die einen vertraten ihm
+               den Weg und sprachen ihn an, um sich rühmen zu können, daß sie einige Worte mit ihm
+               gewechselt hatten; die anderen wiesen ihm ihre Arbeiten vor und hofften, daß er sie
+               annehmen werde als Schüler. Sich so nennen zu dürfen war ein schwer errungenes Glück.
+               Daß es dem Töpferssohn aus Ariccia gleichsam in den Schoß gefallen, daß er zwei Jahre
+               nach seiner Aufnahme schon neben Guidi auf dem Gerüste stehen und Einzelheiten an
+               seinen Fresken ausführen durfte, erregte bei den anderen Kunstbeflissenen Neid und
                Feindseligkeit.</p>
             <p>Am giftigsten äußerte sie in seinen Reden und Anspielungen der viel ältere, düstere
                Andrea del Castagno, am übermütigsten trug Filippo Lippi sie zur Schau. Antonio nahm
@@ -747,11 +747,11 @@
                braucht das Verständnis für andere Künste, das den Blick weitet.</p>
             <p>Mühselig lernte er lesen und schreiben, studierte, was es gab an Übersetzungen der
                Alten, wußte ganze Gesänge der Divina commedia und mehr Sonette Petrarcas auswendig
-               als selbst Pulcheria, die sich einer tiefen Kenntnis der Werke des hochgefeierten
-               <pb/> Dichters und Humanisten rühmte. »Wohl hat er seinen Namen«, sagte sie, »und den
-               seiner Laura unsterblich gemacht durch seine Liebesgesänge, aber bloß diese nennen,
-               das wäre, wie wenn man von einem Heros nur wüßte, was er sich ab und zu Schönes
-               träumen ließ.«</p>
+               als selbst Pulcheria, die sich einer tiefen Kenntnis der Werke des hochgefeierten <pb
+                  facs="#"/> Dichters und Humanisten rühmte. »Wohl hat er seinen Namen«, sagte sie,
+               »und den seiner Laura unsterblich gemacht durch seine Liebesgesänge, aber bloß diese
+               nennen, das wäre, wie wenn man von einem Heros nur wüßte, was er sich ab und zu
+               Schönes träumen ließ.«</p>
             <p>Eines Nachmittags war Antonio mit der Vollendung eines Studienkopfes, der ihm
                besonders gelungen schien, beschäftigt, als Pulcheria und Filippo in die Werkstätte
                traten.</p>
@@ -776,9 +776,9 @@
             <p>»Ich will! ich will!« rief er, als hätte plötzlich Begeisterung ihn ergriffen. »Her
                mit dem flammenden Borstenbündel! Her mit dem glorreichen Werkzeug, das einem
                Unsterblichen dient. Etwas von ihm ist darin zurückgeblieben, es durchdringt mich –
-               ich fühl's. Bleibt stehen, Madonna Pulcheria, und seht mich <pb/> an, ich male Euch
-               um, daß Ihr Euch in dieser Fratze nicht mehr erkennt, sondern ausruft: Wer ist die
-               Herrliche? Bin das ich, oder ist es die Venus Anadyomene?«</p>
+               ich fühl's. Bleibt stehen, Madonna Pulcheria, und seht mich <pb facs="#"/> an, ich
+               male Euch um, daß Ihr Euch in dieser Fratze nicht mehr erkennt, sondern ausruft: Wer
+               ist die Herrliche? Bin das ich, oder ist es die Venus Anadyomene?«</p>
             <p>Er tauchte den Pinsel tief in den ersten besten Farbentopf, trat vor die Karikatur
                der Hausfrau und war im Begriff, sie zu übertünchen, als Antonio auf ihn zusprang,
                ihm in den Arm fiel und mit ungewohnter Lebhaftigkeit ausrief: »Laßt das! Laßt das
@@ -807,9 +807,9 @@
                und wissen solle er: ob ihr Sohn als angehender Künstler, ob als Handwerker
                zurückkehre, sie würde ihn mit offenen Armen und mit immer gleicher Liebe
                empfangen.</p>
-            <p>Sie sei schwach und kränklich, erzählten die Kaufleute, und <pb/> Venesco schwer
-               bekümmert. Im Geschäfte ließe sich ein arger Rückgang bemerken; die Borde ständen
-               voll von unverkauftem Geschirr, die Lehrlinge seien entlassen.</p>
+            <p>Sie sei schwach und kränklich, erzählten die Kaufleute, und <pb facs="#"/> Venesco
+               schwer bekümmert. Im Geschäfte ließe sich ein arger Rückgang bemerken; die Borde
+               ständen voll von unverkauftem Geschirr, die Lehrlinge seien entlassen.</p>
             <p>Von alledem ging Antonio nur das wirklich nahe, was sich auf seine Mutter bezog. Er
                bereute, sie so lange ohne einen Gruß, ohne die kleinste Kunde gelassen zu haben, und
                empfand es als Trost und Glück, daß sich ihm nun Gelegenheit bot, sein schweres
@@ -838,10 +838,10 @@
                Wird ihm das Wissen zur Last statt zum Flügel? Bedeutet das Finden eines
                Schönheitsgesetzes ihm nicht ein Wiederfinden?</p>
             <p>
-               <pb/> Der bisher so saumselige Antonio erwartete jetzt mit kaum bezähmbarer Ungeduld
-               die Rückkehr seiner Boten. Als sie eintrafen, überraschte ihn Pulcheria mit der
-               Nachricht, daß sie in eigener Person seine Sendung bestellen wolle. Sie konnte ihrer
-               Sehnsucht, Masaccios Fresken in San Clemente kennenzulernen, nicht länger
+               <pb facs="#"/> Der bisher so saumselige Antonio erwartete jetzt mit kaum bezähmbarer
+               Ungeduld die Rückkehr seiner Boten. Als sie eintrafen, überraschte ihn Pulcheria mit
+               der Nachricht, daß sie in eigener Person seine Sendung bestellen wolle. Sie konnte
+               ihrer Sehnsucht, Masaccios Fresken in San Clemente kennenzulernen, nicht länger
                widerstehen, und »einmal in Rom, will ich denn auch bis nach Ariccia stoßen und«,
                sprach sie, »das Urbild der Tabita, Cecilia Venesco, begrüßen. Ich werde ihr von dem
                lieben Sohne erzählen, der die Bienen an Fleiß, die Fische an Stummheit und alle
@@ -866,14 +866,14 @@
                angenommen wurde.</p>
             <p>Nun war sie da und freudeverklärt, denn Antonio benahm sich gegen sie nicht mehr so
                tonklumpig wie früher. Seine Augen leuchteten und lachten, als er die anmutige
-               Heimatsgenossin <pb/> erblickte. Nicht satt hören konnte er sich an den Botschaften,
-               die sie brachte, aus dem Städtchen, von den Bekannten, den Freunden und vor allem –
-               von seiner Mutter. Entzückt war sie gewesen und gerührt von seinen Zeichnungen und
-               von seinem Briefe. Die Zeichnungen mußte auch der Vater bewundern, tadelte nur den
-               kleinen Maßstab, in dem sie ausgeführt waren. Aber Fenderigo belehrte ihn, in dieser
-               Kleinheit läge eben die größte Kunst. Der gebenedeite Fra Angelico verschmähte nicht,
-               die seine in dieser Art auszuüben und elfenbeinerne Täfelchen und Osterkerzen mit
-               winzigen Figürchen zu bemalen.</p>
+               Heimatsgenossin <pb facs="#"/> erblickte. Nicht satt hören konnte er sich an den
+               Botschaften, die sie brachte, aus dem Städtchen, von den Bekannten, den Freunden und
+               vor allem – von seiner Mutter. Entzückt war sie gewesen und gerührt von seinen
+               Zeichnungen und von seinem Briefe. Die Zeichnungen mußte auch der Vater bewundern,
+               tadelte nur den kleinen Maßstab, in dem sie ausgeführt waren. Aber Fenderigo belehrte
+               ihn, in dieser Kleinheit läge eben die größte Kunst. Der gebenedeite Fra Angelico
+               verschmähte nicht, die seine in dieser Art auszuüben und elfenbeinerne Täfelchen und
+               Osterkerzen mit winzigen Figürchen zu bemalen.</p>
 
             <p>Masaccio vollendete jetzt das Bild des taufenden Petrus auf der rechten Seite der
                Wand, die dem Eingang zur Brancacci-Kapelle gegenüberliegt. Die Komposition war
@@ -895,8 +895,8 @@
                »in hoher Schaffenslust habt Ihr das dargestellt. Herrlich alles, der Apostel, der
                Neophyte, herrlich die Bursche, die warten, daß die Reihe des Getauftwerdens an sie
                komme ... Wie dicht aneinandergepreßt sie sind, und wie doch jeder nur seinen eigenen
-               Raum einnimmt, ihn nicht dem Nachbarn <pb/> wegschnappt ... Das hätte Giotto nicht
-               machen können, den Ihr in den Himmel erhebt.«</p>
+               Raum einnimmt, ihn nicht dem Nachbarn <pb facs="#"/> wegschnappt ... Das hätte Giotto
+               nicht machen können, den Ihr in den Himmel erhebt.«</p>
             <p>»Wohin er gehört«, versetzte Masaccio. »Wo ständen wir ohne diesen Neubegründer
                unserer Kunst? Was wäre ich, wenn sein Ruhmesstern mir nicht vorangeleuchtet
                hätte?«</p>
@@ -924,10 +924,10 @@
                Schönen, Eurem Stande zum Trotz, könntet Ihr freilich nicht malen. Zum Baden und
                Salben hättet Ihr freilich keine Zeit.«</p>
             <p>Antonio, der Schweigsame, der bis zum Stumpfsinn Nachsichtige, raffte sich auf,
-               erteilte eine Zurechtweisung? Durch das <pb/> unerhörte Ereignis gereizt, ließ
-               Filippo seinem Übermut die Zügel schießen. Er sprang aufs Gerüst, faßte den Arglosen
-               von rückwärts an beiden Ohren und rief: »Baden und Salben dünkt dich sträflicher
-               Luxus, Töpferssohn? Du kennst die Reinlichkeit nur vom Hörensagen.«</p>
+               erteilte eine Zurechtweisung? Durch das <pb facs="#"/> unerhörte Ereignis gereizt,
+               ließ Filippo seinem Übermut die Zügel schießen. Er sprang aufs Gerüst, faßte den
+               Arglosen von rückwärts an beiden Ohren und rief: »Baden und Salben dünkt dich
+               sträflicher Luxus, Töpferssohn? Du kennst die Reinlichkeit nur vom Hörensagen.«</p>
             <p>»Euch haben sie schon in der Wiege gesalbt mit Schweinsfett und Ochsenblut; nicht
                wahr, Fleischerssohn?« entgegnete Antonio, und Guidi lachte.</p>
             <p>Da begann Filippo zornglühend den Kopf seines Widersachers wie ein Pendel hin und her
@@ -952,8 +952,8 @@
                anderes von mir, lieber Meister. Zwischen Filippo Lippi und mir gibt es keine
                Versöhnung. Wir hassen einander und wollen ein anderes Gefühl nicht heucheln.«</p>
             <p>
-               <pb/> »Einverstanden!« rief Filippo erleichtert. Auch er scheute die Komödie einer
-               rein äußerlichen Versöhnung.</p>
+               <pb facs="#"/> »Einverstanden!« rief Filippo erleichtert. Auch er scheute die Komödie
+               einer rein äußerlichen Versöhnung.</p>
             <p>Pulcheria hörte mit Vergnügen von der Balgerei zwischen Lippi und ihrem jungen
                Hausgenossen. »Du bist mir heute geboren«, sagte sie zu ihm, »eben erst lebendig
                geworden. Mich freut deine plötzliche Entfaltung, du schöne Menschenknospe. Mich
@@ -980,8 +980,8 @@
                bildeten, prachtvoll die Farbe der wie von innerem Feuer durchschimmerten Haut, das
                reine, feine Oval und jeder Zug, jede Linie des Gesichtes. Im Ausdruck dieser
                siegreichen Schönheit aber nicht die Spur eines Machtgefühls und auch keine von
-               Befangenheit. Die unerwartete Besucherin war gekommen, weil <pb/> man sie geschickt
-               hatte, und naive Zuversicht, kindliches Vertrauen lagen in dem Blicke der
+               Befangenheit. Die unerwartete Besucherin war gekommen, weil <pb facs="#"/> man sie
+               geschickt hatte, und naive Zuversicht, kindliches Vertrauen lagen in dem Blicke der
                schwarzbraunen Augen, die sich groß und leuchtend auf Masaccio richteten.</p>
             <p>»Wahrhaftig, das ist eine Leistung der Natur!... Verzweifle, arme Kunst!« rief Guidi
                plötzlich aus. Seine Stirn verdüsterte sich, sein Ton wurde rauh. »Wer seid Ihr? Was
@@ -1009,11 +1009,11 @@
                ich nicht mehr da bin ...‹« Wieder rang sie mit den Tränen, und wieder siegte ihre
                Willenskraft, und sie weinte nicht. »›Geh nach Florenz‹, sagte meine Mutter, ›dort
                lebt einer, an dem du eine Stütze finden kannst, Tommaso Guidi, der ein berühmter
-               Maler ist <pb/> und reich. Ich habe seine Großmut nie angerufen, in den schwersten
-               Tagen nicht; vielleicht bestimmt ihn das, sie an dir zu üben ... Geh zu ihm, erinnere
-               ihn an Giustina Guidi, die ihr Mittagsbrot mit ihm geteilt hat, wenn er von San
-               Giovanni herüberkam, ein magerer, dürftiger Junge, vaterlos und von der Mutter
-               vernachlässigt ...‹«</p>
+               Maler ist <pb facs="#"/> und reich. Ich habe seine Großmut nie angerufen, in den
+               schwersten Tagen nicht; vielleicht bestimmt ihn das, sie an dir zu üben ... Geh zu
+               ihm, erinnere ihn an Giustina Guidi, die ihr Mittagsbrot mit ihm geteilt hat, wenn er
+               von San Giovanni herüberkam, ein magerer, dürftiger Junge, vaterlos und von der
+               Mutter vernachlässigt ...‹«</p>
             <p>»Weiter«, unterbrach sie Masaccio, »was sagte sie dir noch?«</p>
             <p>»Nichts mehr. Sie meinte nur – habe ich es nicht schon gesagt?... ›Ich habe ihm von
                meinem wenigen gegeben‹, meinte sie, ›vielleicht gibt er dir von seinem Überfluß.‹
@@ -1041,21 +1041,21 @@
                sprach Masaccio. »Und so seid Ihr ohne Dach und Fach ... Was fangen wir mit ihr an,
                Mütterchen Pulcheria?«</p>
             <p>
-               <pb/> Sie überlegte. Guidi wußte nichts davon, daß sie ihr ohnehin nicht mehr
-               schuldenfreies Grundeigentum mit einer neuen Hypothek belastet hatte. Ihrem armen
-               Maso mußten doch wenigstens die dringendsten Gläubiger vom Halse geschafft werden.
-               Der Sorglose gab immer mehr, als er hatte, willfahrte den unverschämtesten Heischern
-               und vergaß, seine eigenen Forderungen einzutreiben. Pulcheria verarmte neben ihm. War
-               es klug, sich unter solchen Umständen eine neue Last aufzubürden? Gewiß nicht. Aber,
-               dachte sie – ich bin zu alt, um mich noch erst lang mit der Klugheit
-               auseinanderzusetzen, und ihr höchster Triumph wäre es doch auch nicht, ein schönes
-               junges Ding wie diese Margherita schutzlos in die Welt hinauszustoßen. Pulcheria
-               seufzte und sprach zu Maso: »Was wir mit ihr anfangen? fragst du. Nun, ich denke, im
-               Hause der Pisano wird sich Platz schaffen lassen für eine heimatlose Guidi. Wir
-               wollen in Gottes Namen unseren ›Überfluß‹ mit ihr teilen, soweit er reicht.«</p>
+               <pb facs="#"/> Sie überlegte. Guidi wußte nichts davon, daß sie ihr ohnehin nicht
+               mehr schuldenfreies Grundeigentum mit einer neuen Hypothek belastet hatte. Ihrem
+               armen Maso mußten doch wenigstens die dringendsten Gläubiger vom Halse geschafft
+               werden. Der Sorglose gab immer mehr, als er hatte, willfahrte den unverschämtesten
+               Heischern und vergaß, seine eigenen Forderungen einzutreiben. Pulcheria verarmte
+               neben ihm. War es klug, sich unter solchen Umständen eine neue Last aufzubürden?
+               Gewiß nicht. Aber, dachte sie – ich bin zu alt, um mich noch erst lang mit der
+               Klugheit auseinanderzusetzen, und ihr höchster Triumph wäre es doch auch nicht, ein
+               schönes junges Ding wie diese Margherita schutzlos in die Welt hinauszustoßen.
+               Pulcheria seufzte und sprach zu Maso: »Was wir mit ihr anfangen? fragst du. Nun, ich
+               denke, im Hause der Pisano wird sich Platz schaffen lassen für eine heimatlose Guidi.
+               Wir wollen in Gottes Namen unseren ›Überfluß‹ mit ihr teilen, soweit er reicht.«</p>
          </div>
          <div type="chapter">
-            <p>2</p>
+            <head>2</head>
             <p>Antonio hatte den Tag in der Brancacci-Kapelle zugebracht mit Filippo Lippi. Dieser
                Sklave seiner Launen war plötzlich von der Lust angewandelt worden, die »Vertreibung
                aus dem Paradiese« zu kopieren. Antonio malte am Sockel unter dem Taufbilde. Sie
@@ -1069,13 +1069,13 @@
                und sich vermaß, die Worte Fra Giovanni Angelicos mit der Anwendung auf sich zu
                wiederholen: »Ich ändere nichts, denn so wie ich's zuerst gemacht habe, so hat es
                Gott gewollt.«</p>
-            <p>Er genoß das Leben, seine Heiterkeit gewann ihm alle <pb/> Herzen, er wurde gesucht
-               und geliebt und ließ sich finden und lieben. Schenkte er hie und da auch der Arbeit
-               einen Tag, lohnte sie ihm dieses karge Ge schenk überreich – um wie vieles reicher
-               als dem unermüdlich strebenden Antonio! Der kannte keine andere als die herbe Wonne
-               des Fleißes; in sie vergrub er, was jung und freudedurstig in ihm war, wie in ein
-               Grab und hatte nur eine Sehnsucht und rang nur nach einem Ziel – nach der Macht eines
-               großen Könnens.</p>
+            <p>Er genoß das Leben, seine Heiterkeit gewann ihm alle <pb facs="#"/> Herzen, er wurde
+               gesucht und geliebt und ließ sich finden und lieben. Schenkte er hie und da auch der
+               Arbeit einen Tag, lohnte sie ihm dieses karge Ge schenk überreich – um wie vieles
+               reicher als dem unermüdlich strebenden Antonio! Der kannte keine andere als die herbe
+               Wonne des Fleißes; in sie vergrub er, was jung und freudedurstig in ihm war, wie in
+               ein Grab und hatte nur eine Sehnsucht und rang nur nach einem Ziel – nach der Macht
+               eines großen Könnens.</p>
             <p>Er war nicht verblendet über sich, er sah: Was ich so heiß begehre, wonach ich
                rastlos jage – der das gemalt hat, der hätte es, sobald er die Hand danach
                ausstreckte ...</p>
@@ -1099,13 +1099,13 @@
             <p>Wie gering war die Beachtung, die er ihr schenkte, und doch wartete sie Tag für Tag
                geduldig auf ihn, um ihm, wenn er kam, einen leisen Gruß zu bieten, der meist
                unerwidert blieb. Heute einmal nicht. Sie hatte, an die Rampe des Halbstockes
-               gelehnt, mit weit ausgestrecktem Arm die kleine Lampe über die <pb/> Stufen gehalten,
-               die er heraufstieg, so langsam, so merkwürdig langsam. Und nun erhob er den Kopf und
-               richtete die Augen auf sie und lächelte sie an, die so demütig und so sehnsüchtig
-               nach einem Blick der Güte von ihm verlangte, wie er nach einem Zeichen der Huld von
-               seiner Göttin. Es war aber ein gar trauriges Lächeln, das ihr ebenso weh tat als
-               wohl. Und doch hätte sie aufgejubelt beim leisesten Ahnen der Gedanken, die ihm in
-               diesem Augenblick durch die Seele schwebten ...</p>
+               gelehnt, mit weit ausgestrecktem Arm die kleine Lampe über die <pb facs="#"/> Stufen
+               gehalten, die er heraufstieg, so langsam, so merkwürdig langsam. Und nun erhob er den
+               Kopf und richtete die Augen auf sie und lächelte sie an, die so demütig und so
+               sehnsüchtig nach einem Blick der Güte von ihm verlangte, wie er nach einem Zeichen
+               der Huld von seiner Göttin. Es war aber ein gar trauriges Lächeln, das ihr ebenso weh
+               tat als wohl. Und doch hätte sie aufgejubelt beim leisesten Ahnen der Gedanken, die
+               ihm in diesem Augenblick durch die Seele schwebten ...</p>
             <p>Du bist jung, Cencetta, hold und gut. Und du bist arm, und vor dir liegt eine
                glanzlose Zukunft wie vor mir. Wär's nicht das beste, wenn wir einander die Hände
                reichen und fortwandern würden, weit weg von dieser Stätte des Ruhmes und des Glückes
@@ -1129,10 +1129,10 @@
                Aufforderung, näherzukommen und am Tische Platz zu nehmen, wiederholen, bevor der
                Jüngling ihr stumm und zögernd gehorchte.</p>
             <p>
-               <pb/> Nun saßen die zwei schönen Menschen dem Maler gegenüber. Das Licht der Lampe
-               fiel auf sie herab, aber nicht von ihm, von ihnen schien der Glanz auszugehen, der
-               die dämmerige Stube erhellte. Masaccio sah das verzückte Staunen, mit dem Antonio die
-               Jungfrau betrachtete; er sah auch – und dabei beschlich ihn ein nie gekanntes,
+               <pb facs="#"/> Nun saßen die zwei schönen Menschen dem Maler gegenüber. Das Licht der
+               Lampe fiel auf sie herab, aber nicht von ihm, von ihnen schien der Glanz auszugehen,
+               der die dämmerige Stube erhellte. Masaccio sah das verzückte Staunen, mit dem Antonio
+               die Jungfrau betrachtete; er sah auch – und dabei beschlich ihn ein nie gekanntes,
                bitteres Gefühl – die Röte, die in Margheritas Wangen stieg, als sie nach einem Blick
                auf Antonio, der kaum weniger Staunen ausdrückte als der seine, die Augen senkte.
                Sie, die eben so zutraulich geschwatzt und kindlich gelacht hatte, wurde plötzlich
@@ -1156,9 +1156,9 @@
                Gast, das ist Margherita Guidi, meine Base. Unterhalte sie, erzähle ihr etwas
                Lustiges. Ich will sie lachen sehen, und so will ich sie malen.«</p>
             <p>»Sie malen?« rief der Jüngling und hatte auf einmal die Sprache wiedergewonnen.
-               »Versucht das nicht, Meister, versucht <pb/> das nicht! Das kann kein irdischer
-               Maler, das könnt nicht einmal Ihr: Sankt Lukas müßte vom Himmel steigen, um diese
-               himmlische Schönheit im Bilde darzustellen.«</p>
+               »Versucht das nicht, Meister, versucht <pb facs="#"/> das nicht! Das kann kein
+               irdischer Maler, das könnt nicht einmal Ihr: Sankt Lukas müßte vom Himmel steigen, um
+               diese himmlische Schönheit im Bilde darzustellen.«</p>
 
             <p>Antonios Warnung erfüllte sich. Das erste Bild, das Maso von seiner Base entwarf,
                mißlang, und mit einem zweiten war er nicht glücklicher. Filippo Lippi geriet in
@@ -1185,9 +1185,9 @@
                spiegelten wonnige, kühne Phantasien ihm vor.</p>
             <p>Arme kleine Cencetta! Während eines flüchtigen Augenblicks hatte er sie an seiner
                Seite und in ihr seine Lebensgefährtin sehen können, als das lang verschmähte Gut,
-               mit dem die Resignation sich endlich bescheidet. An seinem grauen Himmel <pb/> war
-               sie hingezogen wie ein weißes Wölkchen, eine Labe dem in trostlose Eintönigkeit
-               blickenden Auge ...</p>
+               mit dem die Resignation sich endlich bescheidet. An seinem grauen Himmel <pb facs="#"
+               /> war sie hingezogen wie ein weißes Wölkchen, eine Labe dem in trostlose
+               Eintönigkeit blickenden Auge ...</p>
             <p>Jetzt schimmerte der Himmel in allverklärendem Glanze, und die Sonne leuchtete über
                der glücktrunkenen Erde. Wer hätte da noch einen Gedanken für dich übrig, weißes
                Wölkchen, armer Dunst!</p>
@@ -1215,7 +1215,7 @@
                Kunst nicht beschieden.«</p>
             <p>Er hatte wohl recht. Was sie von sich verlangt hatten, war vielleicht wirklich nicht
                Menschensache. Um so mehr Menschensache aber war es, nach dem Besitz des
-               Unnachahmlichen selbst <pb/> zu streben. Die meisten fühlten sich so gut wie
+               Unnachahmlichen selbst <pb facs="#"/> zu streben. Die meisten fühlten sich so gut wie
                berechtigt, für die Niederlage, die sie als Künstler erlitten hatten, als Anbeter und
                Bewerber entschädigt zu werden.</p>
             <p>Filippo Lippi hing, sobald es zu dunkeln begann, sein klösterliches Gewand an den
@@ -1242,9 +1242,9 @@
                erkrankten, und ihr Patengeschenk, ihren größten Schatz, ihr gesticktes Seidentuch,
                zu Gelde gemacht, um ein Kreuz auf das Grab ihrer Mutter setzen zu können.</p>
             <p>Sie mußte an die Tränen denken, mit denen sie sich von diesem kleinen Tuche getrennt
-               hatte, als sie eines Morgens ein <pb/> viel schöneres am Riegel ihrer Zimmertür
-               befestigt fand. Es war reich mit bunter Seide gestickt und mit Goldfäden durchwirkt
-               und hatte lange, seidene Fransen. Als sie es in die Höhe hob, kam ein Paar
+               hatte, als sie eines Morgens ein <pb facs="#"/> viel schöneres am Riegel ihrer
+               Zimmertür befestigt fand. Es war reich mit bunter Seide gestickt und mit Goldfäden
+               durchwirkt und hatte lange, seidene Fransen. Als sie es in die Höhe hob, kam ein Paar
                allerniedlichster Schuhe aus feinem, rotem Leder zum Vorschein, das auf dem Boden
                stand und von den Fransen verdeckt worden war. Margherita stieß einen Schrei des
                Entzückens aus und konnte trotz Cencettas Versicherungen nicht glauben, daß auch die
@@ -1272,9 +1272,9 @@
             <p>Dach und Fach, Vater und Mutter machen es nicht aus. Die kann eines haben und doch
                viel ärmer sein als die arme Margherita.</p>
             <p>
-               <pb/> Die Zeit verging. Der Lerneifer Antonios war allmählich erloschen. Der früher
-               unermüdlich Emsige fand nun täglich einen Vorwand, sich spät bei der Arbeit in der
-               Kapelle einzustellen und sich bald wieder fortzuschleichen. Daß er deshalb nicht
+               <pb facs="#"/> Die Zeit verging. Der Lerneifer Antonios war allmählich erloschen. Der
+               früher unermüdlich Emsige fand nun täglich einen Vorwand, sich spät bei der Arbeit in
+               der Kapelle einzustellen und sich bald wieder fortzuschleichen. Daß er deshalb nicht
                müßig ging, schien dem Meister ausgemacht. Guidi und Pulcheria zweifelten auch nicht
                daran, daß die Beschäftigung, die er hinter dem Rücken Masaccios betrieb, einträglich
                und daß er der Spender der geheimnisvollen Geschenke sei, die der schönen
@@ -1298,12 +1298,13 @@
                Geheimmitteln und – wie er glimpflich sagte – von fazetiösen Bildern.</p>
             <p>In der Via Ginori befand sich sein wohlbekannter Laden, und dort suchte Masaccio ihn
                auf. Der Verdacht, den der Maler gefaßt, als er seinen Schüler in Gesellschaft des
-               Giorgio erblickt hatte, bestätigte sich. Nach einigem Zögern und Hin- und <pb/>
-               Herreden gab der Händler zu, daß Antonio ihm allerlei gangbare Ware für sein stets
-               ausverkauftes Magazin von Ergötzlichkeiten liefere. Er ließ sich sogar herbei,
-               einiges davon vorzuzeigen, kleine, sauber ausgeführte Darstellungen unsauberer
-               Vorgänge. Einzelne Gestalten und Gruppen erinnerten noch an die Schildereien, mit
-               denen der Töpfer von Ariccia dereinst seine Schüsseln und Krüge geschmückt hatte.</p>
+               Giorgio erblickt hatte, bestätigte sich. Nach einigem Zögern und Hin- und <pb
+                  facs="#"/> Herreden gab der Händler zu, daß Antonio ihm allerlei gangbare Ware für
+               sein stets ausverkauftes Magazin von Ergötzlichkeiten liefere. Er ließ sich sogar
+               herbei, einiges davon vorzuzeigen, kleine, sauber ausgeführte Darstellungen
+               unsauberer Vorgänge. Einzelne Gestalten und Gruppen erinnerten noch an die
+               Schildereien, mit denen der Töpfer von Ariccia dereinst seine Schüsseln und Krüge
+               geschmückt hatte.</p>
             <p>Vater Galantuomo schrieb den tiefen Unmut, der sich in Masaccios Zügen aussprach,
                einem andern als seinem wirklichen Grunde zu. »Unser lieber Venesco plündert mich
                aus«, sagte er seufzend, »macht sich sehr kostbar. Wenn aber Ihr, Maestro, mir so ein
@@ -1328,12 +1329,12 @@
                Goldgulden«, sprach er vertraulich zuredend und wollte seine behaarte Hand auf die
                Schulter Guidis legen.</p>
             <p>Der fuhr zurück wie vor der Berührung eines Aussätzigen.</p>
-            <p>Als Antonio ein nächstes Mal wieder vorzeitig Feierabend <pb/> machen wollte, befahl
-               ihm Masaccio zu warten, bis er selbst die Kapelle verlassen werde, und ihn dann zu
-               begleiten. Er habe eine Entdeckung gemacht, die er ihm nicht vorenthalten dürfe,
-               sagte er. Ungewohnte Strenge lag in seinem Tone; Antonio wagte keinen Widerspruch und
-               folgte dem Meister auf dem Weg, den er einschlug und der zum Ponte alla Carraia
-               führte.</p>
+            <p>Als Antonio ein nächstes Mal wieder vorzeitig Feierabend <pb facs="#"/> machen
+               wollte, befahl ihm Masaccio zu warten, bis er selbst die Kapelle verlassen werde, und
+               ihn dann zu begleiten. Er habe eine Entdeckung gemacht, die er ihm nicht vorenthalten
+               dürfe, sagte er. Ungewohnte Strenge lag in seinem Tone; Antonio wagte keinen
+               Widerspruch und folgte dem Meister auf dem Weg, den er einschlug und der zum Ponte
+               alla Carraia führte.</p>
             <p>Es war Nacht geworden, Schirokkoluft wehte atembeklemmend und schwer; träge wälzte
                der Fluß trübe Wellen durch sein halbversandetes Bett. Jenseits des Arno schritten
                die beiden Männer durch die Via Guelfa und weiter an einzelstehenden, armseligen
@@ -1360,9 +1361,9 @@
                flüstert, buhlt und Gifte braut«, erwiderte der Meister und zog ihn unerbittlich
                näher zum Hause.</p>
             <p>
-               <pb/> Auf der Schwelle erschien eine Frau in verschossenem Seidenkleide, Blumen und
-               Goldflitter in der hochaufgetürmten Frisur. Ihre harten, scharfen Züge hatten etwas
-               von der unheimlichen Starrheit einer Larve. Lauernd betrachtete sie die
+               <pb facs="#"/> Auf der Schwelle erschien eine Frau in verschossenem Seidenkleide,
+               Blumen und Goldflitter in der hochaufgetürmten Frisur. Ihre harten, scharfen Züge
+               hatten etwas von der unheimlichen Starrheit einer Larve. Lauernd betrachtete sie die
                Herannahenden. Ein Lächeln blitzte über ihr bemaltes Gesicht, als sie in dem einen
                von ihnen Antonio erkannte. Sie schien reden zu wollen, besann sich aber und deutete
                nur grinsend auf ein buntes Schild, das, von Lampenlicht beleuchtet, über der
@@ -1390,16 +1391,16 @@
                des Putzes? Wenn sie in dem einfachen Kleide ausging, das Pulcheria ihr hatte machen
                lassen, wurde sie dennoch Madamigella und sogar Donzella nobile tituliert, und das
                schmeichelte ihr. Von der Meinung, die Art, in der man ihr in Florenz begegnete, sei
-               auf <pb/> Rechnung der städtischen Gebräuche zu setzen, war sie nach und nach
-               abgekommen, Sie sah, daß weder Cencetta noch andere Mädchen soviel Aufmerksamkeit
-               erweckten wie sie, und hätte stumpfsinnig sein müssen, um sich des Vorzugs, den sie
-               genoß, nicht bald als eines ganz persönlichen bewußt zu werden. Nicht nur die Maler
-               und die Bildhauer blieben stehen und sahen ihr bewundernd nach, wenn sie sich an
-               Pulcherias Seite auf der Straße blicken ließ. Jung und alt, vornehm und gering
-               huldigte ihr, und sie machte sich ein Vergnügen daraus, den Zauber, den sie besaß,
-               mit spielerischer Neugier zu erproben. Sie konnte es gefahrlos tun, denn mehr, als
-               sie mit Blicken anzufunkeln oder anzuschmachten, wagte keiner; die Nähe der alten
-               Jungfrau Pisano bot Schutz und Schirm gegen Zudringlichkeit.</p>
+               auf <pb facs="#"/> Rechnung der städtischen Gebräuche zu setzen, war sie nach und
+               nach abgekommen, Sie sah, daß weder Cencetta noch andere Mädchen soviel
+               Aufmerksamkeit erweckten wie sie, und hätte stumpfsinnig sein müssen, um sich des
+               Vorzugs, den sie genoß, nicht bald als eines ganz persönlichen bewußt zu werden.
+               Nicht nur die Maler und die Bildhauer blieben stehen und sahen ihr bewundernd nach,
+               wenn sie sich an Pulcherias Seite auf der Straße blicken ließ. Jung und alt, vornehm
+               und gering huldigte ihr, und sie machte sich ein Vergnügen daraus, den Zauber, den
+               sie besaß, mit spielerischer Neugier zu erproben. Sie konnte es gefahrlos tun, denn
+               mehr, als sie mit Blicken anzufunkeln oder anzuschmachten, wagte keiner; die Nähe der
+               alten Jungfrau Pisano bot Schutz und Schirm gegen Zudringlichkeit.</p>
             <p>Jeder wußte das, nur Antonio wollte sich davon nicht überzeugen lassen. Er war wie
                auf dem glühenden Roste, wenn er Margherita auswärts vermutete, und stand wie aus dem
                Boden gewachsen vor ihr und warnte vor dem Eintritt in diese oder jene Straße,
@@ -1418,10 +1419,10 @@
                kleidete sich prächtig und kunstvoll, hatte ein hübsches Gesicht mit lebhaften und
                unruhigen Vogelaugen und war hager und schlottrig in seinen zarten Gliedern.</p>
             <p>Dieser Montanini fand alle Augenblicke einen Vorwand, der hochverehrten Pulcheria
-               seine Aufwartung zu machen. Er <pb/> stiefelte hinter ihr her – allerdings nur, wenn
-               sie mit Margherita ausging ... in respektvoller Entfernung, ja! aber doch! – und:
-               »Was hat er hinter Euch herzuklappern, der dürre Laffe?« fragte Antonio so oft und so
-               eindringlich, daß Pulcheria endlich ungeduldig wurde.</p>
+               seine Aufwartung zu machen. Er <pb facs="#"/> stiefelte hinter ihr her – allerdings
+               nur, wenn sie mit Margherita ausging ... in respektvoller Entfernung, ja! aber doch!
+               – und: »Was hat er hinter Euch herzuklappern, der dürre Laffe?« fragte Antonio so oft
+               und so eindringlich, daß Pulcheria endlich ungeduldig wurde.</p>
             <p>»Und was hat es Euch zu kümmern?« erwiderte sie. »Ich kenne ihn, seitdem er auf der
                Welt ist, und seine Mutter noch einmal so lange. Unsre Häuser waren einst befreundet.
                Ich habe keinen Grund, ihm die Tür zu weisen.«</p>
@@ -1446,10 +1447,10 @@
                selben Jahre, an dem in Santa Maria Novella ein Malespino mit einer Schreibers- und
                ein Giacomini mit einer Bäckerstochter getraut wurde.«</p>
             <p>»O Monna Pulcheria!« rief Antonio in Wut und Verzweiflung. »Und so meint Ihr ... Um
-               Gottes und aller <pb/> Heiligen willen, meint nichts dergleichen ... Bernardino und
-               Margherita vor dem Altare – wenn ich das denke ... ich kann es nicht denken. – Das
-               Urbild der Schönheit in diesen dürren Armen, die weiß der Teufel wen schon umfangen
-               haben.«</p>
+               Gottes und aller <pb facs="#"/> Heiligen willen, meint nichts dergleichen ...
+               Bernardino und Margherita vor dem Altare – wenn ich das denke ... ich kann es nicht
+               denken. – Das Urbild der Schönheit in diesen dürren Armen, die weiß der Teufel wen
+               schon umfangen haben.«</p>
             <p>»Basta!« versetzte das Fräulein und erteilte ihm in einem Atem ein Verbot und einen
                Befehl. Das Verbot, in ihrer Gegenwart von unziemlichen Dingen zu sprechen, und den
                Befehl, sie von seinem Anblick zu befreien.</p>
@@ -1477,7 +1478,7 @@
                hatte, ausführen zu können. Auch der Unternehmungstrieb, der so angenehm in ihm
                geprickelt hatte, begann sich zu empfehlen, als die Ersehnten endlich sichtbar
                wurden.</p>
-            <pb/>
+            <pb facs="#"/>
             <p>Pulcheria kam langsam und feierlich einher, wie sie es auf dem Weg zur Kirche
                schicklich fand, und trug nicht ihr leichtsinnig flatterndes Mäntelchen, sondern
                einen würdevollen Mantel aus schwerem dunkelgrünem Sammet.</p>
@@ -1509,8 +1510,8 @@
             <p>Sie griff nach den Rosen, und Bernardino stammelte entzückt: »Himmlische! Ihr wißt,
                was das bedeutet?«</p>
             <p>
-               <pb/> In dem Augenblick hatte Pulcheria sich nach ihrer Begleiterin umgesehen und
-               rief ihr streng und hastig zu: »Halt! halt! Was fällt dir ein?«</p>
+               <pb facs="#"/> In dem Augenblick hatte Pulcheria sich nach ihrer Begleiterin
+               umgesehen und rief ihr streng und hastig zu: »Halt! halt! Was fällt dir ein?«</p>
             <p>Zugleich wurde Bernardino hart angelassen. Der unsichtbare Beschützer hatte sich
                einmal wieder in einen sichtbaren verwandelt. Antonio faßte den Arm des ertappten
                Schlaukopfs. »Sie weiß es nicht«, sprach er, »und schändlich ist es von Euch, sie zu
@@ -1540,8 +1541,8 @@
             <p>»Auf mich?«</p>
             <p>»Auf den Eindruck, den Ihr empfangen habt.«</p>
             <p>
-               <pb/> »Eindruck?« Sie wiegte den Kopf. Ihr Lächeln war voll holden Zaubers und
-               schöner Rätsel.</p>
+               <pb facs="#"/> »Eindruck?« Sie wiegte den Kopf. Ihr Lächeln war voll holden Zaubers
+               und schöner Rätsel.</p>
             <p>»Es kommt darauf an, ob der Frieden Eures Herzens gestört ist, Eure Seelenruhe.«</p>
             <p>»Wenn es darauf ankommt, bin ich nicht in Gefahr gewesen ...« und jetzt lachte sie,
                und Pulcheria pflegte ihr Lachen mit in Musik gesetztem Sonnenschein zu vergleichen,
@@ -1569,8 +1570,8 @@
                Euch, sein Fleiß, seine Ausdauer, sein Ehrgeiz, seine Lust an der Arbeit, alles fort
                ... Nur Ihr seid da, seid für ihn die Welt und alles, was ist und sein wird ...«</p>
             <p>Sie hörte ihm zu in einem seltsamen Gewirr von Gefühlen. Geschmeichelt, wonnig
-               erstaunt, ein wenig bang. Sie hätte seiner <pb/> Stimme ewig lauschen mögen und
-               seinen Worten, und erwartete doch gespannt, daß der Zug der Sbirren ein Ende
+               erstaunt, ein wenig bang. Sie hätte seiner <pb facs="#"/> Stimme ewig lauschen mögen
+               und seinen Worten, und erwartete doch gespannt, daß der Zug der Sbirren ein Ende
                nehme.</p>
             <p>Als er vorüber war und Pulcheria wieder zum Vorschein kam, gab's ein Begrüßen wie
                nach langer Trennung. Margherita bedauerte die Padrona und fegte ihr den Mauerstaub
@@ -1600,10 +1601,10 @@
                gereizt. Auf der Hand pflege sie jedoch nicht zu liegen und am wenigsten sich in der
                Verliebtheit zweier Grasäffchen zu offenbaren. »Jugendliebe – wer hat die
                Kinderkrankheit nicht einmal durchgemacht?« Sie legte den Finger an die Stirn, ein
-               phosphoreszierendes <pb/> Leuchten erglomm in ihren großen grauen Augen. »Und –
-               zweimal!... dreimal!... Und« – nun schlug sie mit der flachen Hand auf ihre Knie,
-               kreuzte dann die Arme, richtete den Kopf empor und schloß: »Und ist doch eine alte
-               Sibylle geworden.«</p>
+               phosphoreszierendes <pb facs="#"/> Leuchten erglomm in ihren großen grauen Augen.
+               »Und – zweimal!... dreimal!... Und« – nun schlug sie mit der flachen Hand auf ihre
+               Knie, kreuzte dann die Arme, richtete den Kopf empor und schloß: »Und ist doch eine
+               alte Sibylle geworden.«</p>
             <p>»Mit einem Sohne«, sagte Masaccio.</p>
             <p>»Mit einem großen Sohne«, wiederholte sie stolz.</p>
             <p>Am nächsten Tage schon nahm die alte Jungfrau Margherita ins Gebet: »Liebst du den
@@ -1630,8 +1631,8 @@
             <p>Das Johannesfest nahte heran. Großartige Vorbereitungen zu der kirchlichen Feier und
                zu den Spielen und den Wagenrennen, die ihr folgen sollten, wurden getroffen. Ganz
                Florenz befand sich in freudiger Aufregung, die Betrübten vergaßen ihr Leid, die
-               Armen ihre Sorgen, gar manche Feinde ihren Haß. <pb/> Eine fröhliche, erwartungsvolle
-               Stimmung war zur Herrschaft gekommen, ergriff alle, riß alle mit.</p>
+               Armen ihre Sorgen, gar manche Feinde ihren Haß. <pb facs="#"/> Eine fröhliche,
+               erwartungsvolle Stimmung war zur Herrschaft gekommen, ergriff alle, riß alle mit.</p>
             <p>Sonnenhell spiegelte sich diese Heiterkeit im Gemüte Margheritas wider. Sie war
                berauscht von den Schilderungen der Dinge, die da kommen sollten, die sie mit
                ansehen, bei denen sie vielleicht eine Rolle spielen würde. Konnte sie sich doch nie
@@ -1664,8 +1665,8 @@
 
 
             <p>
-               <pb/> »Wenn Ihr mich liebtet, bliebt Ihr daheim. Ihr brächtet mir das Opfer«, sagte
-               er.</p>
+               <pb facs="#"/> »Wenn Ihr mich liebtet, bliebt Ihr daheim. Ihr brächtet mir das
+               Opfer«, sagte er.</p>
             <p>»Wenn Ihr mich liebtet, würdet Ihr es nicht von mir verlangen«, sagte sie.</p>
             <p>Er suchte endlich für ihre Weigerung dort Trost, wo er ihn schon lange nicht mehr
                gesucht hatte, bei der Arbeit.</p>
@@ -1691,9 +1692,9 @@
                nun rief sie, er vernahm es deutlich: »Niccolo!« und noch einmal: »Niccolo!«</p>
             <p>Das war ihr Bruder. Was wollte der? Was führte den nach Florenz?</p>
             <p>Antonio stürmte die Treppe hinunter und in den Garten hinaus und rannte mit
-               ausgebreiteten Armen auf den Ankömmling <pb/> zu. »Junge! lieber Junge, willkommen
-               tausendmal! Wie geht's daheim? Wie geht's meiner Mutter?« rief er und wiederholte die
-               Frage, da Niccolo mit der Antwort zögerte.</p>
+               ausgebreiteten Armen auf den Ankömmling <pb facs="#"/> zu. »Junge! lieber Junge,
+               willkommen tausendmal! Wie geht's daheim? Wie geht's meiner Mutter?« rief er und
+               wiederholte die Frage, da Niccolo mit der Antwort zögerte.</p>
             <p>»Deine Mutter ist krank und sehnt sich nach dir«, sprach Masaccio.</p>
             <p>»Ist krank!« wiederholte Antonio bestürzt.</p>
             <p>Niccolo sah ihn voll Teilnahme an: »Der Vater ruft Euch heim. Ihr sollt mit mir
@@ -1720,8 +1721,8 @@
                rechtfertigen zu sollen. »Seht mich nicht so bös an. Es fällt mir nicht ein, Euch
                zurückzuhalten. Gott behüte mich.«</p>
             <p>»Dafür habe ich Euch zu danken«, erwiderte er bitter, ergriff ihre Hand und drückte
-               sie, ohne es zu wissen und zu wollen, so <pb/> fest, daß Margherita halb lachend,
-               halb unwillig aufschrie: »Laßt mich, es tut weh!«</p>
+               sie, ohne es zu wissen und zu wollen, so <pb facs="#"/> fest, daß Margherita halb
+               lachend, halb unwillig aufschrie: »Laßt mich, es tut weh!«</p>
             <p>»Es tut weh, sehr weh«, murmelte er und stieß ihre Hand von sich.</p>
             <p>Neben der großen, schmerzvollen Sorge, die ihn erfüllte, war eine kleinliche Qual
                emporgeschossen und vergiftete ihm die Seele. Die Trennung, die ihm so schwer wurde,
@@ -1748,12 +1749,12 @@
                müßte sterben unterwegs.«</p>
             <p>»Antonio! Antonio!« sprach Niccolo vorwurfsvoll, »das ist nicht Euer Ernst. Sterben!
                Woran denn sterben?«</p>
-            <p>»An einer Herzensqual und Todesangst, vor der dich Gott <pb/> behüte, Niccolo ...
-               Geht, sagt meiner Mutter, daß ich mich sehne, ihre Knie zu umfassen, ihre Hände zu
-               küssen, ihre Füße ... Früher aber muß mein Bild gemalt und meine Braut mein sein ...
-               Und dem alten Manne sagt, daß ich seinen Abschiedssegen nicht vergessen habe, daß er
-               mir im Ohre nachklingt, immer, immer! und daß ich als ein ganzer Künstler
-               wiederkehre.«</p>
+            <p>»An einer Herzensqual und Todesangst, vor der dich Gott <pb facs="#"/> behüte,
+               Niccolo ... Geht, sagt meiner Mutter, daß ich mich sehne, ihre Knie zu umfassen, ihre
+               Hände zu küssen, ihre Füße ... Früher aber muß mein Bild gemalt und meine Braut mein
+               sein ... Und dem alten Manne sagt, daß ich seinen Abschiedssegen nicht vergessen
+               habe, daß er mir im Ohre nachklingt, immer, immer! und daß ich als ein ganzer
+               Künstler wiederkehre.«</p>
             <p>»Was heißt das alles?« fragte Niccolo entrüstet. »Macht nicht soviel Worte und kommt
                mit.«</p>
             <p>Cencetta war vernichtet. Einmal hatte sie zu Antonio hinaufgeblickt in starrem
@@ -1780,9 +1781,9 @@
                hochrot, wie man sie nie gesehen, treppab geeilt und hatte sich atemlos in ihre
                Sänfte sinken lassen.</p>
             <p>
-               <pb/> Welchen Zweck der Besuch gehabt und was sich dabei ereignet, wußte Margherita
-               aufs Haar, denn sie hatte gehorcht trotz aller Ermahnungen der frommen Teresina, die
-               jetzt im Hause die Stelle Cencettas einnahm.</p>
+               <pb facs="#"/> Welchen Zweck der Besuch gehabt und was sich dabei ereignet, wußte
+               Margherita aufs Haar, denn sie hatte gehorcht trotz aller Ermahnungen der frommen
+               Teresina, die jetzt im Hause die Stelle Cencettas einnahm.</p>
             <p>»Horcht nicht! Das ist eine Sünde, das muß man beichten.«</p>
             <p>»So beichte ich's!« war ihre leichtfertige Antwort gewesen.</p>
             <p>Und sie hatte ihr Ohr an das Schlüsselloch gepreßt und sich gewunden vor Lachen und
@@ -1809,7 +1810,7 @@
                lachen und singen und mich freuen, und dann, wenn er mit seinem Bilde fertig sein und
                viel Geld und viele Bestellungen bekommen wird, dann wollen wir in Gottes Namen
                heiraten.«</p>
-            <p>Wenig mehr als eine Woche war seit der Abreise Niccolos <pb/> und Cencettas
+            <p>Wenig mehr als eine Woche war seit der Abreise Niccolos <pb facs="#"/> und Cencettas
                vergangen, Antonio dachte nicht daran, daß ihm schon Nachricht aus Ariccia zukommen
                könne – da traf sie ein.</p>
             <p>Seine Mutter war gestorben, und der Vater sandte ihm seinen Fluch.</p>
@@ -1837,9 +1838,9 @@
                schweigend, den Blick auf ihn gerichtet, ehe sie begann: »Lieber, Liebster, nimm mich
                in deine Arme, nimm mich an dein Herz ... ich bin dein.« Und jetzt kniete sie auf
                ihrem Bänkchen, legte den Kopf an seine Brust, und ihre Stimme schmeichelte zärtlich:
-               »Du sagst immer, daß du mich mehr liebst als ich dich – das ist <pb/> ein Irrtum. Ich
-               liebe dich tausend- und tausendmal mehr. Ich weiß erst, wie ich dich liebe, seitdem
-               du einen so großen Schmerz erfahren hast.«</p>
+               »Du sagst immer, daß du mich mehr liebst als ich dich – das ist <pb facs="#"/> ein
+               Irrtum. Ich liebe dich tausend- und tausendmal mehr. Ich weiß erst, wie ich dich
+               liebe, seitdem du einen so großen Schmerz erfahren hast.«</p>
             <p>»Meine Mutter ist tot«, sagte er. »In Sehnsucht nach mir gestorben. Sie hat mich
                gerufen, und ich bin nicht gekommen. Ich habe sie sterben lassen in Sehnsucht nach
                mir ... Ich wußte nicht, was ich tat, Margherita.«</p>
@@ -1865,11 +1866,11 @@
                gekommen und Leben wieder in seinen Augen erwacht.</p>
             <p>»Nur gut? Es ist herrlich, glaube mir ... Masaccio könnte es nicht besser machen und
                der eingebildete Lippi schon gar nicht«, entschied sie aus tiefster Überzeugung. »Und
-               wenn es <pb/> erst fertig sein wird, Antonio, welcher Stolz, welches Glück!... Es
-               wird sein wie damals – wann war es nur? –, als sie das Bild eines Meisters – wie hieß
-               er doch? – im Triumph aus seiner Werkstatt holten, die Florentiner, und singend und
-               jubelnd durch die Straßen trugen ... O du, mein Liebster, ich seh es kommen! So, ganz
-               so wird es sein!«</p>
+               wenn es <pb facs="#"/> erst fertig sein wird, Antonio, welcher Stolz, welches
+               Glück!... Es wird sein wie damals – wann war es nur? –, als sie das Bild eines
+               Meisters – wie hieß er doch? – im Triumph aus seiner Werkstatt holten, die
+               Florentiner, und singend und jubelnd durch die Straßen trugen ... O du, mein
+               Liebster, ich seh es kommen! So, ganz so wird es sein!«</p>
             <p>Antonio mußte lächeln: »Und der Meister – was wird der Meister sagen?«</p>
             <p>»Das wird er sagen!« Sie breitete die Arme aus und warf sie um seinen Hals, und er
                preßte sie an sich und drückte einen ersten, langen, seligen Kuß auf ihren Mund, der
@@ -1893,12 +1894,12 @@
                könne einen Blick übrighaben für etwas, das keine Handschrift war, hatte die Augen
                von Margherita nicht wenden können und sich auf einmal der guten Freundschaft
                erinnert, die einst zwischen ihm und Pulcheria Pisano bestand, und sie die Hüterin
-               des Kleinods von Florenz <pb/> genannt. »Die edle Montanini aber – ach die! Geblendet
-               beim Anblick Margheritas, geblendet wie eine Kuh, die aus dem finstern Stall ins
-               grelle Sonnenlicht gerät. Ihr niederträchtiger Antrag von neulich, der hat sie arg
-               gereut. Sie hätte sich – ich sah ihr's an – ihr bißchen Haar aus Scham darüber
-               ausraufen mögen ... Gib acht, ob die nicht bald demütig mit einem ganz anderen Antrag
-               zu uns kommt.«</p>
+               des Kleinods von Florenz <pb facs="#"/> genannt. »Die edle Montanini aber – ach die!
+               Geblendet beim Anblick Margheritas, geblendet wie eine Kuh, die aus dem finstern
+               Stall ins grelle Sonnenlicht gerät. Ihr niederträchtiger Antrag von neulich, der hat
+               sie arg gereut. Sie hätte sich – ich sah ihr's an – ihr bißchen Haar aus Scham
+               darüber ausraufen mögen ... Gib acht, ob die nicht bald demütig mit einem ganz
+               anderen Antrag zu uns kommt.«</p>
             <p>Pulcherias Prophezeiung erfüllte sich.</p>
             <p>Von ihrem Bernardino begleitet, erschien die gewichtige Dame, und nach einer kurzen
                Unterredung der beiden mit Monna Pulcheria wurde Margherita gerufen und feierlich
@@ -1921,16 +1922,16 @@
                sie der Bewerbung Montaninis günstig sei, rechnete er genau nach, wie lange sie
                ausblieb. Zu Hause hätte sie dann Rechenschaft geben sollen von jedem Schritt, den
                sie gemacht, von jedem Gruß, den sie empfangen, und ganz genau auch von der Art, in
-               der sie ihn erwidert hatte.<pb/> Wenn sie verdrießlich wurde, war er gekränkt, wenn
-               sie ihn auslachte, war er doppelt gekränkt. Sie sollte überhaupt nicht lachen, da er
-               sich grämte; ihre Heiterkeit verletzte ihn, und diese Heiterkeit war ihr doch
-               angeboren und allen Menschen lieb, sogar dem ernsten Vetter Masaccio. Sie konnte
-               nicht plötzlich ihre Natur verleugnen, sie konnte auch nicht ewig trauern, erklärte
-               sie rundweg, um eine alte Frau, die sie ihr Lebtag nicht gesehen hatte. Da schalt er
-               sie herzlos und verständnislos und wechselte die längste Zeit kein Wort mit ihr. Aber
-               gerade dann trug sie recht absichtlich die größte Munterkeit zur Schau, und wenn
-               Pulcheria mißbilligend sprach: »Du tust ihm weh«, meinte sie achtlos: »Ein andermal
-               tue ich ihm wieder wohl, wie niemand anderer ihm tun könnte.«</p>
+               der sie ihn erwidert hatte.<pb facs="#"/> Wenn sie verdrießlich wurde, war er
+               gekränkt, wenn sie ihn auslachte, war er doppelt gekränkt. Sie sollte überhaupt nicht
+               lachen, da er sich grämte; ihre Heiterkeit verletzte ihn, und diese Heiterkeit war
+               ihr doch angeboren und allen Menschen lieb, sogar dem ernsten Vetter Masaccio. Sie
+               konnte nicht plötzlich ihre Natur verleugnen, sie konnte auch nicht ewig trauern,
+               erklärte sie rundweg, um eine alte Frau, die sie ihr Lebtag nicht gesehen hatte. Da
+               schalt er sie herzlos und verständnislos und wechselte die längste Zeit kein Wort mit
+               ihr. Aber gerade dann trug sie recht absichtlich die größte Munterkeit zur Schau, und
+               wenn Pulcheria mißbilligend sprach: »Du tust ihm weh«, meinte sie achtlos: »Ein
+               andermal tue ich ihm wieder wohl, wie niemand anderer ihm tun könnte.«</p>
             <p>Was in dieser Zeit in ihm vorging, ahnte sie nicht, und es kränkte und empörte ihn,
                daß ihr Herz ihr von dem Märtyrertum, das er im stillen durchlitt, nichts
                verriet.</p>
@@ -1950,13 +1951,14 @@
                sinken mögen, wenn Masaccio ihn freundlich ansprach und fragte: »Wie steht's mit der
                Arbeit? kann ich sie sehen? bist du bald fertig?«</p>
             <p>Und sie, die ihm Trösterin und Vertraute hätte sein sollen, Margherita, die einzige,
-               der seine Seelenpein zu offenbaren ihn <pb/> dürstete, tänzelte neben ihm hin, lachte
-               ihn aus oder schmollte, wenn er ihr mit finsterer Miene entgegentrat. Ihr fiel nicht
-               ein, daß seine Aufregung und seine Verstimmung noch einen anderen Grund haben könne
-               als die Eifersucht, die ihr so lästig war. Immer breiter klaffte der Riß zwischen
-               ihnen, immer mehr Trotz, mehr Anklagen häuften sich in ihren Herzen. Und als er nach
-               einem heftigen Streite unversöhnt fortstürmen wollte, rief sie ihm nach und schwor
-               ihm mit den heiligsten Eiden zu, es sei aus zwischen ihnen – aus für immer.</p>
+               der seine Seelenpein zu offenbaren ihn <pb facs="#"/> dürstete, tänzelte neben ihm
+               hin, lachte ihn aus oder schmollte, wenn er ihr mit finsterer Miene entgegentrat. Ihr
+               fiel nicht ein, daß seine Aufregung und seine Verstimmung noch einen anderen Grund
+               haben könne als die Eifersucht, die ihr so lästig war. Immer breiter klaffte der Riß
+               zwischen ihnen, immer mehr Trotz, mehr Anklagen häuften sich in ihren Herzen. Und als
+               er nach einem heftigen Streite unversöhnt fortstürmen wollte, rief sie ihm nach und
+               schwor ihm mit den heiligsten Eiden zu, es sei aus zwischen ihnen – aus für
+               immer.</p>
             <p>Wieder war Isotta Montanini dagewesen und hatte noch einmal, aber so gewiß als ihre
                eigene Würde und die ihres Sohnes ihr heilig sei – zum letztenmal, die Werbung
                Bernardinos vorgebracht und dem jungen Mädchen eine dreitägige Frist zur Entscheidung
@@ -1980,7 +1982,7 @@
                den letzten Segen meiner Mutter versäumt, den Fluch des Vaters auf mich geladen -um
                sie!... Ich habe sie teuer erkauft, sie gehört mir. Ich gebe sie keinem anderen. Eher
                töte ich sie.«</p>
-            <pb/>
+            <pb facs="#"/>
             <p>»Das kannst du tun, und das täte wohl auch der erste beste Popolano. Ich dachte, du
                wolltest mehr als der erste beste, du wolltest überhaupt das Höchste sein, was ein
                Mensch sein kann: ein Künstler.« Es lohte auf in seinen Augen, als er das Wort in
@@ -2010,15 +2012,16 @@
                und Fehlern. Und wenn eine Krankheit oder das Alter sie entstellt hätten, ich hätte
                sie immer gleich geliebt. Er aber – heute würde er sich von ihr wenden, wenn er sie
                sehen könnte, wie sie sein wird in zehn, in zwanzig Jahren ... Herrgott im Himmel!«
-               brach er plötzlich aus, »tu ein Wunder!... <pb/> Zeige sie ihm, beraubt von dem Glanz
-               ihrer Jugend und ihrer Schönheit. Zeige sie ihm, wie sie in Jahren sein wird, bei ihm
-               geworden, an den sie sich verkauft hat ...« Er stockte, trat einen Schritt zurück und
-               stand wie gelähmt mit erhobenen, vorgestreckten Händen, mit weit geöffneten Augen,
-               die, starr auf einen Punkt gerichtet, Unsichtbares zu erblicken schienen. »Seht,
-               Meister! seht!« stöhnte er leise. Eine durchsichtige Blässe bedeckte sein Angesicht,
-               es schimmerte wie erhellt von einem inneren Lichte. Den Meister überlief's.
-               Unheimlich fast war der Anblick des Jünglings, der in Verzückung dastand. Was sah er?
-               Wenn er malen könnte, was er jetzt sieht, es wäre eine Offenbarung ...</p>
+               brach er plötzlich aus, »tu ein Wunder!... <pb facs="#"/> Zeige sie ihm, beraubt von
+               dem Glanz ihrer Jugend und ihrer Schönheit. Zeige sie ihm, wie sie in Jahren sein
+               wird, bei ihm geworden, an den sie sich verkauft hat ...« Er stockte, trat einen
+               Schritt zurück und stand wie gelähmt mit erhobenen, vorgestreckten Händen, mit weit
+               geöffneten Augen, die, starr auf einen Punkt gerichtet, Unsichtbares zu erblicken
+               schienen. »Seht, Meister! seht!« stöhnte er leise. Eine durchsichtige Blässe bedeckte
+               sein Angesicht, es schimmerte wie erhellt von einem inneren Lichte. Den Meister
+               überlief's. Unheimlich fast war der Anblick des Jünglings, der in Verzückung dastand.
+               Was sah er? Wenn er malen könnte, was er jetzt sieht, es wäre eine Offenbarung
+               ...</p>
             <p>»Antonio!« schrie Masaccio ihn an. Da erwachte er, tat einen tiefen Atemzug und
                drückte wie ein Geblendeter beide Hände vor die Augen. Lange Zeit verging, bevor er
                sie wieder sinken ließ. Dann blickte er um sich, fragend, befremdet. Ein schweres
@@ -2039,11 +2042,11 @@
                dich in unser Haus aufnehmen und seiner Ehren teilhaftig werden lassen.«</p>
             <p>Dergleichen Reden wollten zwar Margherita nicht gefallen, doch sagte sie sich: Wenn
                eine hohe Dame sie hält, werden sie wohl die richtigen sein. Manchmal kamen
-               Streitigkeiten zwischen <pb/> den Brautleuten vor. Die Standesgenossen Bernardinos
-               machten ihm Vorwürfe über die Wahl, die er getroffen hatte, teils aus Hochmut, teils
-               aus Mißgunst. Wie kam der unbedeutende Junge dazu, das schönste Mädchen von Florenz
-               heimzuführen?... Da erschien er tief verstimmt bei seiner Braut und beklagte sich,
-               daß er ihretwegen Tadel und Spott erdulden müsse.</p>
+               Streitigkeiten zwischen <pb facs="#"/> den Brautleuten vor. Die Standesgenossen
+               Bernardinos machten ihm Vorwürfe über die Wahl, die er getroffen hatte, teils aus
+               Hochmut, teils aus Mißgunst. Wie kam der unbedeutende Junge dazu, das schönste
+               Mädchen von Florenz heimzuführen?... Da erschien er tief verstimmt bei seiner Braut
+               und beklagte sich, daß er ihretwegen Tadel und Spott erdulden müsse.</p>
             <p>»So laßt mich stehen und heiratet eine Ebenbürtige«, erwiderte sie beleidigt. »Es
                wird unter den edlen Fräulein doch eine geben, die ebenso schön ist wie ich armes
                Bauernkind.«</p>
@@ -2069,9 +2072,10 @@
                sie den Bräutigam einen kindischen Laffen und versteckte sich manchmal vor ihm in
                einem Winkel des Hauses, warf sich nieder, preßte das Gesicht auf den Boden und
                schluchzte: »Antonio, Antonio, komm zurück! Ich will deine Knie umfassen, und du
-               wirst mir verzeihen oder mich töten, und was du auch tust, ich werde dich <pb/>
-               segnen!« Ein paar Stunden später konnte sie dann wieder neugierig und beinahe
-               vergnügt die Zurüstungen verfolgen, die zu ihrer Hochzeit getroffen wurden.</p>
+               wirst mir verzeihen oder mich töten, und was du auch tust, ich werde dich <pb
+                  facs="#"/> segnen!« Ein paar Stunden später konnte sie dann wieder neugierig und
+               beinahe vergnügt die Zurüstungen verfolgen, die zu ihrer Hochzeit getroffen
+               wurden.</p>
             <p>Madonna Isotta ahnte nichts von den häufigen Zwistigkeiten des Brautpaares. Sie hatte
                sich in den Gedanken verliebt, ihrer Vaterstadt Florenz die Verbindung des Adels und
                des Reichtums mit der Schönheit in einem wunderbaren allegorischen Schaustück
@@ -2097,8 +2101,8 @@
                begriff sie, was seine immer wache, ob zürnend oder schmeichelnd, immer gleich heiße
                Liebe ihr gewesen, und sie meinte: er muß es erraten, sein Herz muß ihm sagen, daß
                sie zur Einsicht gekommen ist ... Er will sie nur warten und schmachten lassen und
-               sie strafen, wie sie es verdient. Im letzten Augenblick daran <pb/> glaubt sie,
-               darauf baut sie – wird er kommen und sie vom Altar wegreißen. Und sie wird ihn
+               sie strafen, wie sie es verdient. Im letzten Augenblick daran <pb facs="#"/> glaubt
+               sie, darauf baut sie – wird er kommen und sie vom Altar wegreißen. Und sie wird ihn
                küssen, wie sie ihn damals zum ersten- und letztenmal geküßt hat, und wird ihm sagen:
                Verzeih! Ich wußte nicht, wie unaussprechlich lieb du mir bist ...</p>
             <p>Kommt er aber nicht, dann ... dann stehle ich mich fort vom Hochzeitsfeste, dachte
@@ -2125,11 +2129,11 @@
                zurückkehren konnte. Dann mußte Pulcheria ihm das Essen in die Kapelle schicken; er
                verschlang es hastig auf dem Gerüst. Wenn er müde und erschöpft heimkam, suchte er
                sogleich sein Lager auf und fiel in einen todähnlichen Schlaf. Sobald der Morgen
-               graute, sprang er auf, kleidete sich rasch an und stürzte <pb/> fort wie gejagt.
-               Seine alte Freundin sah ihm oft seufzend nach. So eilig er ging, es war nicht der
-               geschmeidige Schritt der Jugend, der ihn vorwärts trug, es war ein unsicheres Hasten.
-               Die Gewänder schlotterten an seinem Leibe. In dünn gewordenen Strähnen umflog das
-               wirre Haar seinen mageren Nacken.</p>
+               graute, sprang er auf, kleidete sich rasch an und stürzte <pb facs="#"/> fort wie
+               gejagt. Seine alte Freundin sah ihm oft seufzend nach. So eilig er ging, es war nicht
+               der geschmeidige Schritt der Jugend, der ihn vorwärts trug, es war ein unsicheres
+               Hasten. Die Gewänder schlotterten an seinem Leibe. In dünn gewordenen Strähnen umflog
+               das wirre Haar seinen mageren Nacken.</p>
             <p>An Antonios Stelle war Filippo Lippi von Masaccio als Gehilfe angenommen worden. Sie
                malten zusammen an den Fresken in der Kapelle Brancacci, und Lippi suchte die
                Malweise des Meisters nachzuahmen, was ihm in Einzelheiten überraschend gelang.</p>
@@ -2149,13 +2153,13 @@
                Zinsgroschen.</p>
          </div>
          <div type="chapter">
-            <p>3</p>
+            <head>3</head>
             <p>Eines Morgens fand Masaccio den Platz vor der Kirche del Carmine ungewöhnlich belebt.
                Eine Menschenmenge hatte sich dort angesammelt, und einige Mönche redeten, die einen
                aufreizend, wie es schien, die anderen besänftigend, auf die Leute ein. Als Masaccio
                sich näherte, rief man ihm zu, ein Frevel, ein abscheulicher Frevel sei begangen
-               worden. Er hatte Mühe, aus <pb/> dem Gewirr durcheinanderschreiender Stimmen zu
-               verstehen, daß es sich um ein ärgerniserregendes Bild handle.</p>
+               worden. Er hatte Mühe, aus <pb facs="#"/> dem Gewirr durcheinanderschreiender Stimmen
+               zu verstehen, daß es sich um ein ärgerniserregendes Bild handle.</p>
             <p>»Kommt, Meister! kommt und seht!« rief ihm ein junger Mönch zu. »Seht, was ein
                Kirchenschänder getan hat.«</p>
             <p>»Er hat, wie Euch und Euren frommen Malereien zum Hohne«, fiel ein zweiter Karmeliter
@@ -2186,10 +2190,10 @@
                eilten sie dem Bild entgegen, dessen Gefährdung den Meister mit Herzensangst
                erfüllte.</p>
             <p>
-               <pb/> Jetzt standen sie davor, umgaben es mit einem lebenden Walle und hielten den
-               Volkshaufen von ihm getrennt, dem der alte Mönch ruhig und eindringlich zusprach:
-               »Hört das Urteil auch anderer Künstler, Männer und Frauen von Florenz. Hört das
-               Urteil der Maßgebenden an, bevor ihr das eure vollzieht.«</p>
+               <pb facs="#"/> Jetzt standen sie davor, umgaben es mit einem lebenden Walle und
+               hielten den Volkshaufen von ihm getrennt, dem der alte Mönch ruhig und eindringlich
+               zusprach: »Hört das Urteil auch anderer Künstler, Männer und Frauen von Florenz. Hört
+               das Urteil der Maßgebenden an, bevor ihr das eure vollzieht.«</p>
             <p>Einen Augenblick trat Stille ein. Gespannte Aufmerksamkeit richtete sich auf die
                Gruppe der Maler. Ihre Mienen verrieten die verschiedensten Empfindungen:
                Verblüffung, neidisches Staunen, reines Entzücken.</p>
@@ -2214,10 +2218,10 @@
             <p>Da gellte ein Schrei. Messerscharf durchschnitt er die Luft. »Halt! Schonung!
                Erbarmen!« Ein Mensch – der Schatten eines Menschen – stürzte aus der Kapelle hervor:
                »Martert mich, tötet mich, aber verschont mein Bild!«</p>
-            <p>Erschöpft sank er zu Boden, wie vom Fieber geschüttelt <pb/> zuckten seine Glieder,
-               sein Atem ging schwer, die blanken Zähne klapperten. Das zerknüllte Hemd ließ den
-               hageren Hals, die magere Brust sehen; staubbedeckt und zerrissen hingen die Kleider
-               an ihm.</p>
+            <p>Erschöpft sank er zu Boden, wie vom Fieber geschüttelt <pb facs="#"/> zuckten seine
+               Glieder, sein Atem ging schwer, die blanken Zähne klapperten. Das zerknüllte Hemd
+               ließ den hageren Hals, die magere Brust sehen; staubbedeckt und zerrissen hingen die
+               Kleider an ihm.</p>
             <p>Beim Anblick dieser Jammergestalt waren die Leute zurückgewichen.</p>
             <p>Masaccio hatte, im Zweifel, ob er recht sehe, geschwankt. Nun sprach er tief
                erschüttert: »Antonio!« beugte sich über ihn und sah ihm in die verglasten Augen:
@@ -2243,9 +2247,9 @@
                Hunderte aufgenommen hatten. Die lichte, dünne Gestalt, die sich streckte und auf die
                Fußspitzen stellte und größer zu werden strebte, und die junge Stimme, die reine,
                helle, die da predigte und beschwor – machten Eindruck auf die beweglichen Gemüter,
-               <pb/> besänftigten, gewannen. Der Novize fühlte es, sein Mut wuchs, eine zärtliche
-               Liebe ergriff ihn für diese Aufgeregten, die ihm Gehör schenkten, sich von ihm
-               beschwichtigen ließen.</p>
+                  <pb facs="#"/> besänftigten, gewannen. Der Novize fühlte es, sein Mut wuchs, eine
+               zärtliche Liebe ergriff ihn für diese Aufgeregten, die ihm Gehör schenkten, sich von
+               ihm beschwichtigen ließen.</p>
             <p>»Meine Florentiner!« schmeichelte er. »Kinder meiner Mutter Florentia! Eure Ehre ist
                meine Ehre, eure Schande zerreißt mir das Herz ... Schande wär's, dieses Bild zu
                zerstören. Seht es an, seht seinen Urheber an und glaubt mir – o glaubt! Nicht
@@ -2276,9 +2280,9 @@
             <p>Die sprachlos gespannte Aufmerksamkeit aller war darauf gerichtet. Die Mönche hatten
                die Kirche verlassen.</p>
             <p>
-               <pb/> Masaccio verwandte kein Auge mehr von dem Werke seines Jüngers. »Dein Bild?«
-               sagte er und schüttelte den Kopf. »Dieses Bild, diese drei Bilder, drei Phasen im
-               Leben einer Frau, Morgen, Mittag, Abend, die hast nicht du, die haben Naturkräfte
+               <pb facs="#"/> Masaccio verwandte kein Auge mehr von dem Werke seines Jüngers. »Dein
+               Bild?« sagte er und schüttelte den Kopf. »Dieses Bild, diese drei Bilder, drei Phasen
+               im Leben einer Frau, Morgen, Mittag, Abend, die hast nicht du, die haben Naturkräfte
                gemalt – die Liebe, die Leidenschaft, der Haß ...« Langsam und schwer war die Rede
                seinem wortkargen Munde entquollen, allmählich kam sie in raschen, leichten Fluß:
                »Margherita, die darzustellen in ihrer Schönheit wir alle verzweifelten – da, auf
@@ -2303,8 +2307,9 @@
                vertilgen!«</p>
             <p>»Doch erst, wenn ganz Florenz es gesehen haben wird, nicht wahr, Freunde?« rief
                Filippo. »Greift nur in euer Herz, meine geliebten, schadenfrohen, in Zorn und Tränen
-               noch lachenden Florentiner, das größte Aufsehen wird nicht eures jüngsten <pb/>
-               Meisters erstes, nicht sein zweites, sein drittes Bild wird es erregen!«</p>
+               noch lachenden Florentiner, das größte Aufsehen wird nicht eures jüngsten <pb
+                  facs="#"/> Meisters erstes, nicht sein zweites, sein drittes Bild wird es
+               erregen!«</p>
             <p>Masaccio hatte die Arme verschränkt. Finster und gequält haftete sein Blick auf
                diesem dritten, den Menschen abstoßenden, den Meister zur Bewunderung zwingenden
                Bilde.</p>
@@ -2332,8 +2337,8 @@
                unbekannter Maler mit seinem Erstlingsbilde die Werke der großen Meister übertroffen
                habe. Das Gemälde sei zu Uccello gebracht worden, der ihm in seinem Häuschen eine
                Stube eingeräumt; dort könne man es sehen.</p>
-            <p>Traurig nur und ewig schade, daß dem Schöpfer der erstaunlichen <pb/> Arbeit die
-               ruhmreiche Zukunft nicht blühen werde, die ein solcher Beginn verheiße. Er lag
+            <p>Traurig nur und ewig schade, daß dem Schöpfer der erstaunlichen <pb facs="#"/> Arbeit
+               die ruhmreiche Zukunft nicht blühen werde, die ein solcher Beginn verheiße. Er lag
                sterbend im Kloster der Karmeliter. Jeden Augenblick konnte das Totenglöcklein sein
                Ende verkündigen.</p>
             <p>Der Zudrang zu dem neuen Wunder der Kunst war ungeheuer. Nicht weniger allgemein aber
@@ -2360,9 +2365,9 @@
             <p>Er sah Margherita in dieser Gestalt, reizlos, welk, alt, den Vorsitz führen an seiner
                Tafel, durch seine Säle wandeln, seine Gärten und die Balkone seines Palastes
                verunzieren ... Lachen würde man über ihn, lachen müßte er selbst über sich, der eine
-               <pb/> Popolana um ihrer Schönheit willen heimgeführt hatte. Eine Schönheit, die sich,
-               wer weiß wie bald, in ihr Gegen teil verwandeln und ihm Grauen erwecken würde und
-               Haß.</p>
+                  <pb facs="#"/> Popolana um ihrer Schönheit willen heimgeführt hatte. Eine
+               Schönheit, die sich, wer weiß wie bald, in ihr Gegen teil verwandeln und ihm Grauen
+               erwecken würde und Haß.</p>
             <p>»Mutter – so wird sie werden«, flüsterte er schaudernd. »Und – denkt nur, denkt! –
                sie weiß es, sie hat es mir vorhergesagt ... O Mutter! so wird sie werden und meine
                Frau sein ... O Mutter, warum habt Ihr zugegeben, daß sie meine Frau werde? Ihr
@@ -2389,9 +2394,10 @@
                auflebe und Werke schaffe, die ihm und dem Hause, in dem sie entstanden sind, Ruhm
                bringen.«</p>
             <p>Als er kam, wurde er aufs beste empfangen und gewann die Männer durch seine
-               Anspruchslosigkeit, seinen Ernst, die Frauen <pb/> durch seine Schönheit und durch
-               sein träumerisches und weltfremdes Wesen. Seltsam anziehend sprach etwas aus ihm: Ich
-               war diesem Leben schon entrückt und muß mich erst wieder hineinfinden lernen.</p>
+               Anspruchslosigkeit, seinen Ernst, die Frauen <pb facs="#"/> durch seine Schönheit und
+               durch sein träumerisches und weltfremdes Wesen. Seltsam anziehend sprach etwas aus
+               ihm: Ich war diesem Leben schon entrückt und muß mich erst wieder hineinfinden
+               lernen.</p>
             <p>Der Herzog und seine Gemahlin hatten ihren Hof zu einer Schule feiner Sitten und
                würdiger Geselligkeit gemacht. Sie hatten Gelehrte und Künstler herangezogen und
                ihnen durch großartige Gastfreundschaft gedankt für den Vorzug, sich ihres Umganges
@@ -2417,8 +2423,9 @@
             <p>Munter und laut drangen Zurufe, drang Rosseschnauben und Degenklirren zu den Fenstern
                herauf. Unter ihnen befanden sich die Spielplätze und die Fecht- und Reitschule. Da
                wurde der Ball geschleudert, da wurde nach dem Ziele geschossen, da übten sich die
-               jungen Leute im Wettlauf, im Ringen und Springen, im <pb/> Fechten und in kühnen
-               Reiterkünsten und kämpften um den Sieg im Spiele wie um einen höchsten Triumph.</p>
+               jungen Leute im Wettlauf, im Ringen und Springen, im <pb facs="#"/> Fechten und in
+               kühnen Reiterkünsten und kämpften um den Sieg im Spiele wie um einen höchsten
+               Triumph.</p>
             <p>Lange stand Antonio und betrachtete sie mit einer Teilnahme, die sich bis zum
                Entzücken, bis zu leidenschaftlichem Neide steigerte. Jeder Blutstropfen in ihm
                wallte, seine unverbrauchte Kraft schrie nach Betätigung.</p>
@@ -2445,12 +2452,12 @@
                und nicht mehr verwundbar ist, durch deine verletzte Eitelkeit wirst du leiden. Du
                wirst andere Frauen in meinen Werken verewigt sehen und ermessen, welch ein Glück du
                verscherztest. Über alle Fürstlichkeiten hätte ich dich erhoben, mit dem Erfolg wäre
-               der Reichtum <pb/> mir zugeflossen. Ein Palast, wie dieser ist, wäre deine Wohnung
-               gewesen, ich hätte dich in Sammet und Seide gehüllt. Auf goldgestickten Schuhen
-               wärest du durch Zaubergärten gewandelt, eine Halbgöttin – mein Weib, das Weib des
-               einzigen, der das Geheimnis besaß, deine Schönheit im Bilde wiederzugeben, und sie in
-               allen Gestalten, in denen die Frau auf Erden unsterblich geworden ist, der Nachwelt
-               erhalten hätte: als Venus und Andromache, als Cornelia und Madonna ...</p>
+               der Reichtum <pb facs="#"/> mir zugeflossen. Ein Palast, wie dieser ist, wäre deine
+               Wohnung gewesen, ich hätte dich in Sammet und Seide gehüllt. Auf goldgestickten
+               Schuhen wärest du durch Zaubergärten gewandelt, eine Halbgöttin – mein Weib, das Weib
+               des einzigen, der das Geheimnis besaß, deine Schönheit im Bilde wiederzugeben, und
+               sie in allen Gestalten, in denen die Frau auf Erden unsterblich geworden ist, der
+               Nachwelt erhalten hätte: als Venus und Andromache, als Cornelia und Madonna ...</p>
             <p>Einmal nach langer Zeit nahm er den Stift zur Hand und versuchte wieder die geliebten
                Züge nachzubilden. Aber sie wollten sich nicht gestalten lassen. Am nächsten Tage
                ging es nicht besser und in allen folgenden Tagen nicht, und immer ließ er entmutigt
@@ -2472,10 +2479,10 @@
                ihr. Sie flößte heftige Leidenschaften ein, obwohl sie nicht mehr in der Blüte der
                Jugend stand. Ihre angeborene Liebenswürdigkeit gewann ihr die Herzen im Fluge, ihr
                edles Wesen, ihr Geist sicherten ihr den Besitz der raschen und leichten Eroberungen.
-               In ihrer ersten Ehe hatte sie kein Glück gefunden und eine <pb/> zweite einzugehen
-               sich bisher nicht bewegen lassen. Endlich – kurz vor Antonios Ankunft – schien sie
-               ihren Sinn zugunsten eines neuen Freiers, des ruhmvollen Feldherrn Alfonsos von
-               Aragon, des Grafen Del Nero, geändert zu haben.</p>
+               In ihrer ersten Ehe hatte sie kein Glück gefunden und eine <pb facs="#"/> zweite
+               einzugehen sich bisher nicht bewegen lassen. Endlich – kurz vor Antonios Ankunft –
+               schien sie ihren Sinn zugunsten eines neuen Freiers, des ruhmvollen Feldherrn
+               Alfonsos von Aragon, des Grafen Del Nero, geändert zu haben.</p>
             <p>Ihr Vater, ihr Bruder Camillo, der mit stolzer Zärtlichkeit an der älteren Schwester
                hing, wünschten sehnlich diese glückverheißende Verbindung und begannen schon eine
                beschlossene Sache in ihr zu sehen, als Judith ihr Benehmen gegen den ernsten und
@@ -2500,8 +2507,8 @@
                Nero und ihrem Bruder, und ihr zu Füßen hatte sich Cintia gelagert, ihre
                Lieblingsdame und ihr Widerspiel, klein, schwarzgelockt und lebhaft.</p>
             <p>»Spielen wir Decameron, erlauchte Frau!« rief sie der Fürstin zu. »Ihr seid Pampinea,
-               die Königin, und befehlt einer oder <pb/> einem von uns, eine Novelle zu erzählen; je
-               lustiger, um so besser!«</p>
+               die Königin, und befehlt einer oder <pb facs="#"/> einem von uns, eine Novelle zu
+               erzählen; je lustiger, um so besser!«</p>
             <p>»Das wäre Eure Sache, Graf«, wandte die Fürstin sich lächelnd an Del Nero, der, statt
                auf ihren Scherz einzugehen, ablehnend erwiderte: »Ihr seid vom Gegenteil überzeugt,
                Madonna.«</p>
@@ -2529,8 +2536,8 @@
             <p>»Ich zweifle nicht, noch glaube ich«, sprach er. »Ich bin auch in diesem Punkte ein
                Verzichtender. Mögen die Sterne für Andersgeartete eine Sprache haben, mir schweigen
                sie.«</p>
-            <p>Am nächsten Tage war er abgereist, und kurze Zeit darauf <pb/> kam die Kunde nach
-               Setalla, daß er sich mit einem jungen, schönen Edelfräulein verlobt habe.</p>
+            <p>Am nächsten Tage war er abgereist, und kurze Zeit darauf <pb facs="#"/> kam die Kunde
+               nach Setalla, daß er sich mit einem jungen, schönen Edelfräulein verlobt habe.</p>
             <p>Der Herzog verbarg seine Enttäuschung hinter dem Scheine äußerer Gleichgültigkeit.
                Camillo überhäufte die Schwester mit Vorwürfen. Er verwünschte ihren Wankelmut und
                den Leichtsinn, mit dem sie einen Ehebund von sich gewiesen, der dem Hause zur Ehre
@@ -2558,7 +2565,7 @@
             <p>»Ich wollte, es gäbe an mir nur eines zu bewundern – den Maler. Ich wollte«, brach er
                aus, »ich wäre ein Scheusal und könnte malen wie Masaccio!«</p>
             <p>
-               <pb/> »Habt Ihr ihn nicht schon übertroffen?«</p>
+               <pb facs="#"/> »Habt Ihr ihn nicht schon übertroffen?«</p>
             <p>»Er hat es behauptet, und die andern haben es ihm nachgeredet ... Masaccio
                übertroffen – den Schöpfer einer neuen Welt! Mit einem armen Bilde, einem einzigen,
                bei dem es vielleicht bleiben wird.«</p>
@@ -2586,10 +2593,10 @@
             <p>Das Blut schoß ihm ins Gesicht. Was dieser Blick deutlich sagte, war ihm schon mehr
                als einmal durch den Sinn geflogen als kaum eingestandene Frage, die er mit herber
                Selbstverhöhnung von sich gewiesen.</p>
-            <p>Freude, Stolz, geschmeichelte Eitelkeit flammten in ihm auf. <pb/> Er machte einen
-               raschen Schritt auf die Fürstin zu ... doch schon hatte der Ausdruck ihrer Züge sich
-               verändert. Sie warf den Kopf etwas zurück, sah an Antonio vorüber in den Schatten der
-               Bäume und schien dem zärtlichen Gesang einer Drossel zu lauschen.</p>
+            <p>Freude, Stolz, geschmeichelte Eitelkeit flammten in ihm auf. <pb facs="#"/> Er machte
+               einen raschen Schritt auf die Fürstin zu ... doch schon hatte der Ausdruck ihrer Züge
+               sich verändert. Sie warf den Kopf etwas zurück, sah an Antonio vorüber in den
+               Schatten der Bäume und schien dem zärtlichen Gesang einer Drossel zu lauschen.</p>
             <p>Ihre Stimme hatte wieder den gewohnten tiefen und sicheren Klang, als sie sprach:
                »Setzt Euch zu mir. Wir wollen von ernsten Dingen miteinander reden. Ich habe einen
                Auftrag meines Vaters an Euch zu bestellen. Er fragt durch mich an: Wie steht es mit
@@ -2615,8 +2622,8 @@
                nicht vergessen, Antonio? Vergessen hieße frei sein, wieder erwachen zur
                Schaffensfreude und schwelgen in Schaffenskraft. Vergeßt! Euer Können geht unter in
                Träumen und Sehnen. Vergeßt! Es gibt noch andere Frauen außer Margherita, unkluges
-               <pb/> Kind, das den Himmel haben könnte und immer nur nach einem versunkenen Stern
-               ausblickt.«</p>
+                  <pb facs="#"/> Kind, das den Himmel haben könnte und immer nur nach einem
+               versunkenen Stern ausblickt.«</p>
             <p>»Das den Himmel haben könnte?« wiederholte er und ließ sich auf die Knie vor ihr
                niedergleiten.</p>
             <p>»Den Himmel haben und in den Himmel versetzen, statt zu leiden und leiden zu
@@ -2645,9 +2652,9 @@
             <p>Ein Schauer durchrieselte ihren Leib; mit unaussprechlicher Zärtlichkeit drückte sie
                den Jüngling an ihre Brust: »Er würde dich töten, du mein geliebtes, schönes,
                törichtes Kind!«</p>
-            <p>Und hingerissen und geblendet von seinem unbegreiflichen, <pb/> märchenhaften Glück
-               in den Armen des königlichen Weibes, dachte Antonio mit knabenhaftem Triumphe: Wenn
-               sie wüßte! wenn Margherita wüßte! –</p>
+            <p>Und hingerissen und geblendet von seinem unbegreiflichen, <pb facs="#"/>
+               märchenhaften Glück in den Armen des königlichen Weibes, dachte Antonio mit
+               knabenhaftem Triumphe: Wenn sie wüßte! wenn Margherita wüßte! –</p>
 
             <p>Als die Fürstin am nächsten Tage zur ersten Sitzung in den zur Werkstatt
                umgewandelten Saal kam, wurde die Aufregung, in die ihr Erscheinen den Maler
@@ -2674,10 +2681,10 @@
                sie ihm zu. »Wollt Ihr mich heute schon verraten?«</p>
             <p>Ihre Worte brachten ihn zu sich. Mit dem Aufgebot seiner ganzen Willenskraft begann
                er zu zeichnen. Seine Anfänge kamen ihm in den Sinn, er gedachte seiner ersten
-               Lehrzeit bei Masaccio und hatte die Empfindung eines halbblinden, tastenden <pb/>
-               Lehrlings; er zog seine Linien langsam und – stümperhaft, fühlte er. Der Kopf, der da
-               entstand, war der einer zierlichen Puppe und ähnelte kaum von fern dem edlen Kopfe
-               der Fürstin.</p>
+               Lehrzeit bei Masaccio und hatte die Empfindung eines halbblinden, tastenden <pb
+                  facs="#"/> Lehrlings; er zog seine Linien langsam und – stümperhaft, fühlte er.
+               Der Kopf, der da entstand, war der einer zierlichen Puppe und ähnelte kaum von fern
+               dem edlen Kopfe der Fürstin.</p>
             <p>Sie jedoch, als sie den Entwurf sah, war überschwenglich im Lobe. Sie fand sich zwar
                sehr geschmeichelt, meinte aber: »Ich werde sterben, mein Bildnis wird leben; um so
                besser, wenn das Dauernde die verschönerte Gestalt des Vergänglichen ist.«</p>
@@ -2704,8 +2711,8 @@
                erschienen.</p>
             <p>Und als die höheren und reiferen wurden sie auch von ihr erklärt, die er auf seinen
                Knien verehrte, für die er eine flammende und grenzenlose Dankbarkeit empfand, von
-               der teuren <pb/> Frau, die ihn ins Leben eingeführt hatte, an deren Herzen er
-               herangereift war vom Jüngling zum Manne.</p>
+               der teuren <pb facs="#"/> Frau, die ihn ins Leben eingeführt hatte, an deren Herzen
+               er herangereift war vom Jüngling zum Manne.</p>
             <p>In einem Taumel des Selbstbewußtseins lebte er dahin, schuf hastig Bild auf Bild und
                wies jeden Zweifel, der in ihm aufsteigen wollte, gewaltsam von sich. Die Werkstätte
                hatte sich allmählich in einen Gesellschaftsraum verwandelt, in dem die Fürstin Hof
@@ -2733,8 +2740,8 @@
                und Musik? Es scheint ihm nicht der Mühe wert, seine Kunst bei uns auszuüben; er geht
                hier nur seinen Freuden nach.« Durchdringend blickte er Judith an. »Ich weiß nicht,
                ob es dir angenehm sein wird zu hören, daß heute sein Zimmer leer, sein Bett
-               unberührt gefunden wurde, als ich vor <pb/> Morgengrauen zu ihm schickte und ihn
-               fragen ließ, ob er mit mir zur Jagd nach Cascina ausreiten wolle.«</p>
+               unberührt gefunden wurde, als ich vor <pb facs="#"/> Morgengrauen zu ihm schickte und
+               ihn fragen ließ, ob er mit mir zur Jagd nach Cascina ausreiten wolle.«</p>
             <p>Die Fürstin verfärbte sich, behielt aber ihr stolze Fassung. »Er ist kein Mönch und
                wird Abenteuer haben so gut wie du und wie ihr alle.«</p>
             <p>»Mag er! Nur das Haus zu verunehren hüte er sich.«</p>
@@ -2764,8 +2771,8 @@
                gestrige Stellung wieder einzunehmen. Wir bilden den Zug, wie es bestimmt gewesen,
                und werden dann Gentiles Meinung hören.«</p>
             <p>
-               <pb/> Nun entstand ein lustiges Durcheinander von Stimmen und ein Drängen und
-               Schwirren: »Das war gestern mein Platz!«</p>
+               <pb facs="#"/> Nun entstand ein lustiges Durcheinander von Stimmen und ein Drängen
+               und Schwirren: »Das war gestern mein Platz!«</p>
             <p>»Nein, der meine!«</p>
             <p>»Ich stehe neben der Fürstin!« rief Cintia.</p>
             <p>»Immer Ihr! Gönnt einmal einer anderen den Vorzug!«</p>
@@ -2793,8 +2800,8 @@
             <p>Er ließ einige Rollen, die Antonio an die Wand gelehnt hatte, herbeibringen und auf
                einem Tische vor Gentile ausbreiten.</p>
             <p>Das waren mehr als Entwürfe, es waren mit peinlicher Sorgfalt bis ins kleinste
-               ausgeführte Zeichnungen, figurenreich und <pb/> gedankenarm, leblos und hölzern, eine
-               Frucht, die eigensinniger Fleiß der Ohnmacht abgerungen.</p>
+               ausgeführte Zeichnungen, figurenreich und <pb facs="#"/> gedankenarm, leblos und
+               hölzern, eine Frucht, die eigensinniger Fleiß der Ohnmacht abgerungen.</p>
             <p>Sprachlos betrachtete Gentile die Blätter, und Camillo spottete: »Die Bewunderung
                macht den Meister stumm. Seid stolz, Antonio! Er sucht umsonst nach Worten für sein
                Entzücken und – seine Beschämung. Nicht wahr, Meister Gentile? Ins Feuer mit Eurer
@@ -2822,8 +2829,8 @@
                hatte der Herzog verdecken lassen.</p>
             <p>Gentile stieß einen Schrei aus. »Herrlich!« rief er. »Euer Werk, Venesco?... Aber
                nicht ein früheres, der Herzog scherzt – Euer jüngstes und ein unsterbliches! Von
-               diesen Schildereien <pb/> da«, er beschrieb einen Kreis mit der erhobenen Hand, »ein
-               Sprung, nein, ein Flug ... Venesco – ich beuge mich!«</p>
+               diesen Schildereien <pb facs="#"/> da«, er beschrieb einen Kreis mit der erhobenen
+               Hand, »ein Sprung, nein, ein Flug ... Venesco – ich beuge mich!«</p>
             <p>Alle waren ergriffen durch diese Huldigung, die der große Maler und strenge Richter
                einem jungen Kunstgenossen darbrachte. Der Herzog winkte seiner Tochter.</p>
             <p>»Ich erwarte viel«, sagte er zu ihr, »von dem Einfluß Gentiles auf unsern in die Irre
@@ -2853,12 +2860,12 @@
                und sah den blühenden Jüngling vorwurfsvoll an, der sterben wollte, weil ihm kein
                Bild mehr gelang. »Soll ich Euch raten, Freund? Werft Eure Pinsel in die Ecke, gürtet
                ein Schwert um, nehmt Dienst bei einem siegreichen Feldherrn. Ihr habt als Künstler
-               vollbracht, was Ihr nie mehr <pb/> übertreffen, vermutlich nie mehr erreichen werdet;
-               vollbringt Eure nächsten Taten mit dem Schwerte. Kriegshandwerk und Künstlerschaft
-               sind einander nicht allzu unähnlich, nähren sich beide vom Kampf, sind Kampf ... Der
-               Größte, der je der Kunst gedient, der Gibelline mit der Heldenseele und dem
-               Feuergeist, stand als Soldat im Schlachtgewühl. Bevor Ihr aber Setalla verlaßt, Neues
-               zu beginnen ...«</p>
+               vollbracht, was Ihr nie mehr <pb facs="#"/> übertreffen, vermutlich nie mehr
+               erreichen werdet; vollbringt Eure nächsten Taten mit dem Schwerte. Kriegshandwerk und
+               Künstlerschaft sind einander nicht allzu unähnlich, nähren sich beide vom Kampf, sind
+               Kampf ... Der Größte, der je der Kunst gedient, der Gibelline mit der Heldenseele und
+               dem Feuergeist, stand als Soldat im Schlachtgewühl. Bevor Ihr aber Setalla verlaßt,
+               Neues zu beginnen ...«</p>
             <p>»Ein Kriegsknecht zu werden, meint Ihr –«</p>
             <p>»Blutige Lorbeeren zu pflücken, meine ich, oder, wenn Euch das widerstrebt,
                vielleicht fern vom Weltgetümmel« – Gentile lächelte – »den goldenen Brautkranz um
@@ -2883,8 +2890,8 @@
                unrecht gehabt zu fürchten, daß Gentile den Schüler Tommaso Guidis nicht gelten
                lassen würde. Im Gegenteil, den Nebenbuhler, der sich zu seiner eigenen
                idealisierenden Richtung hinneigte, den künftigen Rivalen, den wollte er aus dem Wege
-               räumen. Kehr um! zu <pb/> deinen Anfängen zurück oder werde ein Söldling ... Vorher
-               aber vertilge, verbrenne, was meine Werke in Schatten stellen könnte!</p>
+               räumen. Kehr um! zu <pb facs="#"/> deinen Anfängen zurück oder werde ein Söldling ...
+               Vorher aber vertilge, verbrenne, was meine Werke in Schatten stellen könnte!</p>
             <p>Er griff sich an den Kopf. Wie sah es darin aus? Wurden Gedanken des Wahnsinns da
                drinnen geboren? Nein, er sah und dachte klar. Mochte Camillo höhnen und Gentile
                schmähen, die Bewunderung einer erhabenen Frau hatte seine Bilder zu ewigem Leben
@@ -2911,8 +2918,8 @@
                ihren Schmelz und jugendwarmen Ton. Auch an das zweite Bild und an das dritte legte
                er die verbessernde Hand. Und dann schien ihm, was er da getan, doch nicht das
                Rechte, und er suchte einzelne Linien, die nun verwischt waren, wiederzufinden und –
-               fand sie nicht. Ein Schleier tanzte ihm vor den <pb/> Augen, in die Hand war ihm Blei
-               gegossen worden; er ließ sie todmüde sinken.</p>
+               fand sie nicht. Ein Schleier tanzte ihm vor den <pb facs="#"/> Augen, in die Hand war
+               ihm Blei gegossen worden; er ließ sie todmüde sinken.</p>
             <p>Stunden waren verronnen, es begann zu dämmern. Antonio zog die Vorhänge von allen
                Fenstern der Kapelle zurück und betrachtete seine Arbeit im letzten Tagesschein. Erst
                meinte er, nicht recht zu sehen. Das falsche Licht trog, täuschte ihm einen
@@ -2940,8 +2947,8 @@
                »Lassen wir ihn, den Narren. Er durchschwelge die Nacht mit seinen herrlichen
                Frauenbildern.« Lustig lachend zogen sie weiter.</p>
             <p>
-               <pb/> Nun war Ruhe, Todesruhe. Nach einer Weile aber klopfte es wieder, diesmal
-               vorsichtig und leise.</p>
+               <pb facs="#"/> Nun war Ruhe, Todesruhe. Nach einer Weile aber klopfte es wieder,
+               diesmal vorsichtig und leise.</p>
             <p>Die vertraute Zofe Judiths drückte die Lippen an die Türspalte und sprach: »Venesco!
                Lieber! Ich habe Speise und Wein gebracht und hierhergestellt, holt sie, wenn Euch
                hungert und dürstet.«</p>
@@ -2968,8 +2975,9 @@
             <p>Stumpfsinnig, einer Art Halbschlaf hingegeben, sah der Maler zu, bis ein rasender
                Schmerz ihn plötzlich durchdrang und aufstachelte. Er stürzte taumelnd bis zur
                Kapelle, streckte die Arme aus und schrie: »Verzeih mir, Margherita!... Im Sterben
-               noch geliebte, verzeih!« Ein Schwindel erfaßte, die Besinnung<pb/> verließ ihn, er
-               vernahm nur noch ein gräßliches Röcheln, das seiner eigenen Brust entstieg.</p>
+               noch geliebte, verzeih!« Ein Schwindel erfaßte, die Besinnung<pb facs="#"/> verließ
+               ihn, er vernahm nur noch ein gräßliches Röcheln, das seiner eigenen Brust
+               entstieg.</p>
             <p>Wachen, die am frühen Morgen die Gänge durchschritten, sahen unter der Tür der
                Werkstätte Rauch hervorquellen. Sie sprengten das Schloß, traten ein und fanden den
                ganzen Raum wie von Nebel erfüllt. Als sie die Fenster öffneten und frische Luft
@@ -2996,10 +3004,10 @@
                war tot; sie gehörten denen, die sie gespendet.</p>
             <p>Als es zu dunkeln begann, trug ein Diener eine Lampe herein, brachte das Abendessen.
                Es geschah schweigend, und schweigend und scheu wandte Antonio sich ab. Er empfand
-               die Anwesenheit eines Menschen als Qual. Oh, wenn es nicht so <pb/> schändlich wäre,
-               das edle Haus, das sich ihm wie ein Vaterhaus geöffnet, mit Selbstmörderblut zu
-               besudeln!... Jetzt, mit gutem Bedacht, würde er getan haben, was zu tun er gestern
-               nahe war.</p>
+               die Anwesenheit eines Menschen als Qual. Oh, wenn es nicht so <pb facs="#"/>
+               schändlich wäre, das edle Haus, das sich ihm wie ein Vaterhaus geöffnet, mit
+               Selbstmörderblut zu besudeln!... Jetzt, mit gutem Bedacht, würde er getan haben, was
+               zu tun er gestern nahe war.</p>
             <p>Er setzte sich an den Tisch, legte das Gesicht auf die gekreuzten Arme und spann sich
                allmählich in stumpfes, ödes Gefühlsdämmern ein.</p>
             <p>Das Geräusch der Tür, die wieder geöffnet und geschlossen wurde, weckte ihn nicht.
@@ -3025,7 +3033,7 @@
                und Antonio kniete vor ihr und hielt sie umfangen. »Du hast gelitten in all den
                Tagen. Ich habe auch gelitten und nachgedacht und mein ganzes Leben an mir
                vorüberziehen lassen. Die Krone dieses Lebens, mein Antonio, sein höchstes Gut ist
-               deine Liebe.« Eine unendliche Zärtlichkeit <pb/> klang aus ihrem Ton und ein
+               deine Liebe.« Eine unendliche Zärtlichkeit <pb facs="#"/> klang aus ihrem Ton und ein
                wehmütiger, scherzender Vorwurf: »Deine am Feuer der meinen entzündete Liebe. Mein
                Tag hat kein Licht ohne sie und mein Dasein keinen Wert. Sie hat meine Jugend, die
                entschwinden wollte, festgebannt, mir den übermütigen Frohsinn der Mädchenjahre
@@ -3055,10 +3063,10 @@
             <p>Ein ächzender Laut drang an ihr Ohr, ein grelles Stöhnen. Antonio verbarg sein
                Angesicht in ihrem Schoße. Er küßte schluchzend ihre Hände, küßte den Saum ihres
                Kleides. Sie verstand ihn wohl; er durfte nicht sagen: Komm!</p>
-            <pb/>
+            <pb facs="#"/>
          </div>
          <div type="chapter">
-            <p>4</p>
+            <head>4</head>
             <p>Monatelang führte Antonio ein planloses Wanderleben. Es brachte ihn endlich in die
                Nähe von Florenz. Sehnsucht nach dem Meister und ein unaussprechliches, zaghaftes
                Bangen vor dem Wiedersehen kämpften in ihm einen qualvollen Kampf. Ratlos trieb er
@@ -3084,10 +3092,10 @@
                Spannung äußern sich in den Gebärden und Mienen der Apostel. Einer steht da, den der
                Heiligenschein nicht umschimmert, seine Züge sind wie aus Erz geformt, wie gehämmert.
                In ruhigem Glanze leuchten die dunkeln Augen, den schmalen Mund umzieht ein Schatten
-               ein <pb/> unterdrücktes herbes Wort scheint auf seinen Lippen gestorben. Es ist der
-               Meister in seiner Hoheit, seiner Güte, seinem Ernst. Der wohlbekannte Mantel aus
-               grobem Mönchstuch hüllt ihn ein, und jede Falte dieses Mantels lebt und spricht zu
-               seinem Schüler.</p>
+               ein <pb facs="#"/> unterdrücktes herbes Wort scheint auf seinen Lippen gestorben. Es
+               ist der Meister in seiner Hoheit, seiner Güte, seinem Ernst. Der wohlbekannte Mantel
+               aus grobem Mönchstuch hüllt ihn ein, und jede Falte dieses Mantels lebt und spricht
+               zu seinem Schüler.</p>
             <p>Masaccio hatte ihn getragen, als er nach Ariccia gekommen war. Die Stunde mit ihrem
                Entzücken und ihrem Leid erwachte wieder in der Erinnerung Antonios, und er sagte
                sich, daß er doch nichts auf Erden bewundert und verehrt hatte wie diesen Reichsten
@@ -3115,7 +3123,8 @@
                »Sie sind fort.«</p>
             <p>»Sie sind fort?« wiederholte er bestürzt. »Wohin?«</p>
             <p>
-               <pb/> »Das weiß man nicht und darf es nicht wissen ... Sie sind entflohen.«</p>
+               <pb facs="#"/> »Das weiß man nicht und darf es nicht wissen ... Sie sind
+               entflohen.«</p>
             <p>»Entflohen ... Vor wem?«</p>
             <p>»Vor den Gläubigern des armen Meisters, ja, ja! Sie ließen ihm keine Ruhe mehr. Seine
                Geschwister machten Schulden auf seinen Namen, und er und Monna Pulcheria sollten
@@ -3143,8 +3152,8 @@
                ungewohnter Stunde – Ihr könnt mir glauben oder nicht –, von einer bösen Ahnung
                heimgetrieben. ›Wo ist Margherita?‹ fragte er, und ich gab ihm zur Antwort: ›Wo soll
                sie sein? Auf ihrer Stube wird sie sein. – Seht nach ...‹ Nun, Messere, sie war nicht
-               auf ihrer Stube, war im ganzen Hause <pb/> nicht ... Sie war fort, und man brauchte
-               nicht erst zu fragen mit wem.«</p>
+               auf ihrer Stube, war im ganzen Hause <pb facs="#"/> nicht ... Sie war fort, und man
+               brauchte nicht erst zu fragen mit wem.«</p>
             <p>Teresina stockte. Der Ausdruck von Antonios Augen schreckte sie.</p>
             <p>»Weiter, weiter! Der erste Schluck des Gifttranks ist getan, hinunter den Rest!«</p>
             <p>»Der Cesare, der Neffe des Fortebraccio, dem der große Condottiere seinen Namen
@@ -3173,13 +3182,13 @@
             <p>»Es ist, wie es ist«, entschied sie. »Da wird eben der Satan aus ihm geredet
                haben.«</p>
             <p>
-               <pb/> Antonio hatte die Spitze seines Stabes in die Erde gebohrt und den Kopf tief
-               auf die Brust gepreßt: »Was ist jetzt mit ihr?« fragte er, vor sich hinstarrend, und
-               zuckte nicht, blieb regungslos und wie versteinert, als er vernahm, daß Margherita,
-               wie man höre, herrlich und in Freuden mit Cesare Braccio lebe in Rom und in Montone
-               und daß Braccio, der sonst nie weniger als ein halbes Dutzend Liebchen auf einmal
-               gehabt, sich mit ihr allein begnüge und ihr zu Füßen liege wie ein gezähmter
-               Löwe.</p>
+               <pb facs="#"/> Antonio hatte die Spitze seines Stabes in die Erde gebohrt und den
+               Kopf tief auf die Brust gepreßt: »Was ist jetzt mit ihr?« fragte er, vor sich
+               hinstarrend, und zuckte nicht, blieb regungslos und wie versteinert, als er vernahm,
+               daß Margherita, wie man höre, herrlich und in Freuden mit Cesare Braccio lebe in Rom
+               und in Montone und daß Braccio, der sonst nie weniger als ein halbes Dutzend Liebchen
+               auf einmal gehabt, sich mit ihr allein begnüge und ihr zu Füßen liege wie ein
+               gezähmter Löwe.</p>
             <p>»Wer weiß, vielleicht heiratet er sie, und wir tanzen noch auf ihrer Hochzeit,
                Teresina«, sagte Antonio, und dabei klang Verzweiflung aus seiner Stimme. Die Augen
                Teresinas füllten sich mit Tränen, und sie jammerte: »Hätte ich doch geschwiegen,
@@ -3202,11 +3211,11 @@
                Pulcheria melden und ganz gewiß sie und den Meister zur baldigen Rückkehr mahnen. Im
                Triumphe würden sie eingeholt werden, das könne er ihr glauben oder nicht.</p>
             <p>
-               <pb/> Tag um Tag, Woche um Woche verrann. Antonio hatte Rom, von dem er bisher nicht
-               mehr gekannt als den Weg von der Porta San Giovanni nach San Clemente, in dem Wahne
-               betreten, daß ihn nur noch Tage, wenige vielleicht, von dem Augenblick trennten, in
-               dem er seinen Meister wiederfinden werde. Bald mußte er einsehen, wie kindisch diese
-               Zuversicht gewesen war.</p>
+               <pb facs="#"/> Tag um Tag, Woche um Woche verrann. Antonio hatte Rom, von dem er
+               bisher nicht mehr gekannt als den Weg von der Porta San Giovanni nach San Clemente,
+               in dem Wahne betreten, daß ihn nur noch Tage, wenige vielleicht, von dem Augenblick
+               trennten, in dem er seinen Meister wiederfinden werde. Bald mußte er einsehen, wie
+               kindisch diese Zuversicht gewesen war.</p>
             <p>Im Kloster von San Clemente, wo er zuerst nach Masaccio gefragt hatte, wußten die
                Mönche nichts von ihm. Sie entsannen sich des jungen Künstlers, der zuerst an der
                Seite seines Lehrers Masolino, später allein mit so heiligem Eifer an dem Stolz ihrer
@@ -3231,9 +3240,9 @@
             <p>Von den verödeten Hügeln, von den Gewölben der Diokletiansthermen, von der
                Trümmerwelt des Palatins hinab schweifte Antonios Blick über »die Stadt«, über ihre
                versunkenen Tempel, ihre durch Söldnerbanden geschändeten Kirchen, ihre unter Sümpfen
-               und üppigem Pflanzenwuchs verschwundenen <pb/> Foren. In Steinbrüche verwandelt die
-               Denkmäler einer Vergangenheit voll unsterblichen Ruhms, in Festungen ihre
-               Riesengrabstätten und die Triumphbogen, auf denen einst die Quadrigen der
+               und üppigem Pflanzenwuchs verschwundenen <pb facs="#"/> Foren. In Steinbrüche
+               verwandelt die Denkmäler einer Vergangenheit voll unsterblichen Ruhms, in Festungen
+               ihre Riesengrabstätten und die Triumphbogen, auf denen einst die Quadrigen der
                Weltbesieger prangten. Am Fuße des Kapitols, rauchend und gähnend, die Kalkgruben, in
                denen Portiken und Säulen, Architrave und Statuen verschwanden.</p>
             <p>Mit einer bis zu physischem Schmerze gesteigerten Seelenpein sah Antonio dem
@@ -3262,9 +3271,9 @@
                letzte Hand an ihr prangendes Werk.</p>
             <p>Der eine war Pisanello, der andere Gentile da Fabriano.</p>
             <p>
-               <pb/> Ja, du dort oben im weißen Malerkittel! Da schwelgte er im Genusse seines
-               großen Könnens, der ihm gesagt hatte: Nehmt Dienst bei einem Condottiere ... Werden
-               wie einer von denen! dachte Antonio, als ein Trupp Söldner Francesco Sforzas,
+               <pb facs="#"/> Ja, du dort oben im weißen Malerkittel! Da schwelgte er im Genusse
+               seines großen Könnens, der ihm gesagt hatte: Nehmt Dienst bei einem Condottiere ...
+               Werden wie einer von denen! dachte Antonio, als ein Trupp Söldner Francesco Sforzas,
                bewaffnet und reich gekleidet, durch das Stadttor geschritten kam. Leicht
                angetrunken, hoffärtiger als je eine Fürstlichkeit, stießen sie mit den Füßen von
                sich, was ihnen im Wege war: die Müßiggänger, die Vagabunden, die in Scharen um die
@@ -3293,9 +3302,9 @@
                Jubel der Feierlichkeiten bei seinem Einzuge in Florenz mißtönend ans Ohr geklungen.
                Schrecken ergriff, da er nun herannahte, die Sänger und ihr dankbares Publikum. Alle
                warfen sich zur Erde, am demütigsten, die am lautesten gewesen waren. Der Blick des
-               Heiligen Vaters glitt <pb/> verächtlich über sie hinweg, um mit Wohlgefallen auf dem
-               Bilderschmuck des zweiten Zion zu ruhen, und segnend erhob er die Rechte, als die
-               Maler bei seinem Anblick auf dem Gerüste niederknieten.</p>
+               Heiligen Vaters glitt <pb facs="#"/> verächtlich über sie hinweg, um mit Wohlgefallen
+               auf dem Bilderschmuck des zweiten Zion zu ruhen, und segnend erhob er die Rechte, als
+               die Maler bei seinem Anblick auf dem Gerüste niederknieten.</p>
 
             <p>Antonios geringe Barschaft war aufgebraucht, er suchte Arbeit und fand sie bei seinem
                Hausherrn, dem der Sinn nach einem schönen, deutungsreichen Schilde stand. Bald sah
@@ -3320,7 +3329,7 @@
                verlieren. Helft mir nur das eine Mal aus ... Es ist gewiß das letztemal.«</p>
             <p>Antonios Herz klopfte heftig. Jetzt eiskalt, jetzt siedendheiß überlief es ihn. Er
                schwang sich über die Brüstung der Loggia und kam mit einem mächtigen Satze auf dem
-               Boden an in dem <pb/> Augenblick, als der Wirt eine alte Frau in flatterndem
+               Boden an in dem <pb facs="#"/> Augenblick, als der Wirt eine alte Frau in flatterndem
                Mäntelchen unsanft über die Schwelle drängte.</p>
             <p>Ein Faustschlag traf ihn, der ihn ein paar Schritte weit zurückwarf; die alte Frau
                aber wurde, ehe sie sich's versah, von zwei kräftigen Armen umfangen. Wie ein
@@ -3354,8 +3363,8 @@
                hielt sich an die Arbeit, malte mit schwindender Kraft, bis er fieberglühend,
                irreredend an der Staffelei zusammenbrach.</p>
             <p>
-               <pb/> Ein kleiner Geldbetrag, den Pulcheria zu erwarten hatte, blieb aus. Der
-               benachbarte Wirt, bei dem sie bisher ihren und ihres Kranken bescheidenen
+               <pb facs="#"/> Ein kleiner Geldbetrag, den Pulcheria zu erwarten hatte, blieb aus.
+               Der benachbarte Wirt, bei dem sie bisher ihren und ihres Kranken bescheidenen
                Lebensunterhalt gefunden, verlor die Geduld, als die pünktliche Zahlerin säumig zu
                werden begann.</p>
             <p>Nun war mit einem Schlage alles verändert. Antonios Guthaben überstieg hundertfach
@@ -3383,8 +3392,8 @@
                Brust geschmiegt das Kind mit den Prophetenaugen. Göttliches Kind, dein Sehen ist ein
                Schauen. Du weißt: das Leiden kommt – die du liebst und erlösest, werden dich geißeln
                und mit Dornen krönen ... Aber dort ...« Er bog sich zurück, seine Glieder streckten
-               sich, »das <pb/> Weltgericht ... Ihr müßt Rechenschaft geben, ihr müßt!... Er kommt,
-               er steht wie ein Fels in Gewittern. Die Heiligen, die Märtyrer erschaudern.
+               sich, »das <pb facs="#"/> Weltgericht ... Ihr müßt Rechenschaft geben, ihr müßt!...
+               Er kommt, er steht wie ein Fels in Gewittern. Die Heiligen, die Märtyrer erschaudern.
                Unerbittlicher, wen richtest du? Die da stürzen? Die da fliegen?... Herr, Herr! für
                zeitliche Schuld die ewige Strafe? Die Posaunen deiner Engel, die himmlischen Gesänge
                übertönen den Verzweiflungsschrei der Verdammten nicht ... O ungeheures, o mehr als
@@ -3412,8 +3421,8 @@
                mit seinen rohen Ergötzlichkeiten zu geben hatte. Trommelwirbel und
                Trompetengeschmetter verkündeten das Nahen des Zuges. Vierzig junge Edelleute, reich
                gekleidet und für die Stierkämpfe ausgerüstet, ritten an seiner Spitze. Diener
-               folgten ihnen, und ihr Putz überstrahlte noch <pb/> den der Herren. Und das Volk von
-               Rom, kaum erstanden aus tiefstem Elend und tiefster Not, belohnte die zur
+               folgten ihnen, und ihr Putz überstrahlte noch <pb facs="#"/> den der Herren. Und das
+               Volk von Rom, kaum erstanden aus tiefstem Elend und tiefster Not, belohnte die zur
                Befriedigung seiner Schaulust entfaltete Pracht durch jubelnde Zurufe und verhöhnte
                und bewarf mit Steinen die Kavaliere, die sich ihm nicht zu Dank geschmückt
                hatten.</p>
@@ -3444,12 +3453,12 @@
                Sarge zu rütteln. Antonio stieß ihn zurück; für und wider ihn bildeten sich
                Parteien.</p>
             <p>
-               <pb/> »Ruhe! Ruhe!« riefen einige, »es ist Ernst.« Aber schon war es zum Handgemenge
-               gekommen. Der Arlecchino stellte einem der Brüder ein Bein, der stolperte, der Sarg
-               mußte niedergelassen werden. Antonio schützte ihn mit seinem Leibe. Der Lärm war
-               ohrenbetäubend, der Kampf immer heftiger geworden, schon gab's blutige Köpfe. Da trat
-               plötzlich Waffenstillstand ein. Ein neues Schauspiel fesselte die Aufmerksamkeit des
-               erregten Gesindels.</p>
+               <pb facs="#"/> »Ruhe! Ruhe!« riefen einige, »es ist Ernst.« Aber schon war es zum
+               Handgemenge gekommen. Der Arlecchino stellte einem der Brüder ein Bein, der
+               stolperte, der Sarg mußte niedergelassen werden. Antonio schützte ihn mit seinem
+               Leibe. Der Lärm war ohrenbetäubend, der Kampf immer heftiger geworden, schon gab's
+               blutige Köpfe. Da trat plötzlich Waffenstillstand ein. Ein neues Schauspiel fesselte
+               die Aufmerksamkeit des erregten Gesindels.</p>
             <p>Man sah eine Schar zerlumpter Männer, Weiber, Kinder und hörte sie schreien: »Geld!
                Geld!«</p>
             <p>Sie liefen neben und hinter einem selten geschauten Prachtstück, einer Karosse, her,
@@ -3471,9 +3480,9 @@
                den Trägern, den Sarg aufzunehmen. Sie hoben ihn, und er gab einen dumpfen Ton. Ein
                schweres Geldstück war gegen ihn angeflogen. Pulcheria wandte sich mit Ekel.</p>
             <p>Empört, mit donnernder Stimme, rief Antonio: »Achtung vor der Leiche Masaccios!«</p>
-            <p>Da drang aus dem Wagen ein Schrei zu ihm. In der Karosse <pb/> hatte sich eine Frau
-               erhoben. Selig überrascht, hangend und bangend, im Begriff, ihm entgegenzustürzen,
-               starrte sie ihn an.</p>
+            <p>Da drang aus dem Wagen ein Schrei zu ihm. In der Karosse <pb facs="#"/> hatte sich
+               eine Frau erhoben. Selig überrascht, hangend und bangend, im Begriff, ihm
+               entgegenzustürzen, starrte sie ihn an.</p>
             <p>Und er bäumte sich auf, seine Augen rollten, auf seine Lippen trat eine Verwünschung.
                Wie von einer grellen Flamme beleuchtet, glühte sein Angesicht. Abwehrend und dräuend
                ballte er die Faust.</p>
@@ -3504,9 +3513,9 @@
                augenscheinlichen Dürftigkeit erzählt und von der Scheu, mit der er ihnen auswich,
                als sie Miene machten, ihn anzureden.</p>
             <p>
-               <pb/> Peruzzi war schon völlig in der schönen Rolle des Erretters eines berühmten
-               Künstlers aus der Not des Lebens aufgegangen, als er die Demütigung erfuhr, zu spät
-               gekommen zu sein und vor dem unwiederbringlich Versäumten zu stehen.</p>
+               <pb facs="#"/> Peruzzi war schon völlig in der schönen Rolle des Erretters eines
+               berühmten Künstlers aus der Not des Lebens aufgegangen, als er die Demütigung erfuhr,
+               zu spät gekommen zu sein und vor dem unwiederbringlich Versäumten zu stehen.</p>
             <p>Ergriffen betrachtete er den armen Sarg, der die Reste des großen Malers barg, und
                mit tiefem Schuldgefühl im Herzen schloß er sich dem Grabgeleite an.</p>
             <p>Pulcheria Pisano hatte kein Wort des Vorwurfs zu ihm gesagt, und mit innigster
@@ -3532,8 +3541,8 @@
                Hause der Pisano zu sterben.«</p>
             <p>»Soll ich Euch geleiten, Mütterchen?«</p>
             <p>»Das sollst du nicht. Ich reise mit Peruzzi; es ist abgemacht. Er möchte mir jetzt
-               die Hände unter die Füße legen. Jajetzt<pb/> ... Wir müssen Abschied nehmen, denn
-               auch du sollst heim.«</p>
+               die Hände unter die Füße legen. Jajetzt<pb facs="#"/> ... Wir müssen Abschied nehmen,
+               denn auch du sollst heim.«</p>
             <p>»Wohin sollt ich da?« fragte er. »Ich habe kein Heim.«</p>
             <p>»Doch!« Ihre Hand legte sich sanft auf seine Rechte. »In Ariccia lebt, wie sie sagen
                in Armut, ein alter Mann, der deine Mutter geliebt hat und gütig für sie war bis zu
@@ -3560,9 +3569,9 @@
                ließ, indes er sich in seinem Ruhme sonnte und in Reichtum schwelgte.</p>
             <p>Fenderigo war's, der Kunstenthusiast und Neuigkeitskrämer, der die Kunde aus Rom
                mitgebracht, daß Antonio in Florenz unglaublichen Erfolg errungen hatte. Kaufherren
-               und Edelleute <pb/> bezahlten seine Bilder mit den höchsten Preisen, Kardinäle
-               überhäuften ihn mit Aufträgen; man sprach davon, daß ihn der Papst demnächst nach Rom
-               bescheiden werde.</p>
+               und Edelleute <pb facs="#"/> bezahlten seine Bilder mit den höchsten Preisen,
+               Kardinäle überhäuften ihn mit Aufträgen; man sprach davon, daß ihn der Papst
+               demnächst nach Rom bescheiden werde.</p>
             <p>Der Barbier war am Tage, an dem er mit dieser Freudenbotschaft von Haus zu Haus lief,
                der Held des Städtchens Ariccia. Nicht nur, daß man dem stillen und sanftmütigen
                Antonio alles Gute gönnte, man gönnte auch dem borstigen Venesco einige
@@ -3589,10 +3598,10 @@
                Werkstatt.«</p>
             <p>»Daß er stirbt, erlebe ich nicht«, sagte dann Venesco und betete: Möge er nicht
                kommen! Herrgott, nur das eine erspare mir!</p>
-            <p>Und nun begab es sich an einem Vorfrühlingsmorgen, daß <pb/> Venesco zum Werktisch
-               trat und am gegenüberliegenden Fenster Antonio auf seinem alten Platze sitzen sah. Er
-               stand auf, als sich der Blick des Vaters mit finsterem Entsetzen auf ihn richtete,
-               und trat heran, sonnverbrannt, in schlechten Kleidern.</p>
+            <p>Und nun begab es sich an einem Vorfrühlingsmorgen, daß <pb facs="#"/> Venesco zum
+               Werktisch trat und am gegenüberliegenden Fenster Antonio auf seinem alten Platze
+               sitzen sah. Er stand auf, als sich der Blick des Vaters mit finsterem Entsetzen auf
+               ihn richtete, und trat heran, sonnverbrannt, in schlechten Kleidern.</p>
             <p>»Du – du?« stammelte der Greis nach langem, erdrückendem Schweigen. »Was willst
                du?«</p>
             <p>Eine gequetschte, bebende Stimme, die er kaum noch erkannte, antwortete ihm: »Ich
@@ -3619,7 +3628,7 @@
                denn?« erwiderte sie mit großer Wichtigkeit: »Von meinen Verehrern.«</p>
             <p>Eine ausführliche Antwort konnte auch die geschickteste Fragerin ihr nicht
                abgewinnen. Die allgemeine Neugier blieb auf die schmale Kost der Vermutungen
-               angewiesen. Daß <pb/> zwischen Antonios Abreise und seiner Heimkehr allerlei
+               angewiesen. Daß <pb facs="#"/> zwischen Antonios Abreise und seiner Heimkehr allerlei
                wundersame Erlebnisse lagen, war außer Zweifel. Jahrelang erhielt sich die Sage, daß
                er ein großer Maler gewesen, ein sündhaftes Bild gemalt habe und, vom Bannstrahl
                bedroht, von Reue gefoltert, zu seinem Handwerk zurückgekehrt sei.</p>
@@ -3647,9 +3656,10 @@
                Reichtums, wie arm fühlte er sich, wie zurückgesetzt! Er war unlängst in Subiaco
                gewesen und hatte vor dem Dornenstrauch gestanden, der, einst von wundertätiger Hand
                berührt, nach Jahrhunderten noch Frühling um Frühling heilbringende Rosen trägt. Das
-               geschah für dich, du Unbewußter, <pb/> dachte er, und für mich Denkenden, Fühlenden
-               und Ringenden gab's nur ein Erblühen, für meinen Schaffenstrieb nur eine unter den
-               Stacheln der Werdensqual entstandene, in Qualen wieder vernichtete Frucht.</p>
+               geschah für dich, du Unbewußter, <pb facs="#"/> dachte er, und für mich Denkenden,
+               Fühlenden und Ringenden gab's nur ein Erblühen, für meinen Schaffenstrieb nur eine
+               unter den Stacheln der Werdensqual entstandene, in Qualen wieder vernichtete
+               Frucht.</p>
             <p>Aus Florenz war ein Brief von Pulcheria Pisano angelangt, der ihn nicht zur Ruhe
                kommen ließ. Endlich, hieß es darin, wird das verdorrte Gras, das der Schnitter
                übersah zur Zeit der Mahd, zu Staub werden. Du erhältst Botschaft, teurer Sohn,
@@ -3676,8 +3686,8 @@
                und war noch königlich schön in dieser stolzen Vernachlässigung. Die Spuren des
                Leidens, der schwere Ernst in ihren Zügen rührten ihn nicht; nur Zorn und Schmerz
                flammten in ihm auf. Die Erinnerung an alles, was er durch sie gelitten hatte, packte
-               ihn, umklammerte ihn wie mit eisernen Griffen. <pb/> Wild und feindselig war der
-               Blick, mit dem er sie anfunkelte und sie festbannte auf die Stelle, die sie beim
+               ihn, umklammerte ihn wie mit eisernen Griffen. <pb facs="#"/> Wild und feindselig war
+               der Blick, mit dem er sie anfunkelte und sie festbannte auf die Stelle, die sie beim
                ersten Schritt betreten.</p>
             <p>»Ich komme nicht aus eigenem Antrieb«, sprach sie, und ihre Stimme hatte einen
                ruhigen, merkwürdig harten Ton. »Ich komme, weil Pulcheria Pisano es gewünscht hat
@@ -3707,8 +3717,9 @@
                es abermals. In die Hand habe ich es ihr schwören müssen, daß ich es tun werde.«
                Margherita seufzte, ihre Lippen zitterten leise. »Ich muß Euch alles sagen, es ist
                ihr Wille.«</p>
-            <p>»Ist es auch der meine, Euch anzuhören?« fuhr er heraus, <pb/> und ein Blitz des
-               Mißtrauens schoß aus seinen Augen. »Seid Ihr sicher, Glauben bei mir zu finden?«</p>
+            <p>»Ist es auch der meine, Euch anzuhören?« fuhr er heraus, <pb facs="#"/> und ein Blitz
+               des Mißtrauens schoß aus seinen Augen. »Seid Ihr sicher, Glauben bei mir zu
+               finden?«</p>
             <p>Nun verriet sich in ihrer Miene doch ein großes Staunen. »Ja – wenn Ihr mir nicht
                glaubt ...« versetzte sie nach einer Pause, »dann muß ich nur wieder fort, und
                Pulcheria wird mir verzeihen.« Sie raffte sich auf, stand frei und gerade und schien
@@ -3735,16 +3746,16 @@
                heraustratet. Ihr wißt, wer Euch damals von weitem folgte ... Ihr könnt Euch denken,
                wer zu ihr gekommen ist, nachdem Ihr fortgegangen waret ... Alles könnt Ihr Euch
                denken, wenn Ihr nur wollt ... Wie mir gewesen ist, als ich Euren Schrei gehört habe
-               und Euch gesehen habe und <pb/> den Sarg ... und Pulcheria in ihrem Mäntelchen ...
-               Oh, das besonders! ganz besonders – das! Und noch jetzt, wenn ich daran denke ... Ihr
-               habe ich es nicht gesagt, denn sie hielt etwas auf ihr Mäntelchen ... Euch aber sage
-               ich: ganz besonders – das! Sie, so arm – und wie sie humpelte hinter dem Sarg, in dem
-               ihr Liebstes lag, und ich – in goldgestickten Kleidern!...« Sie schloß die Augen,
-               lehnte den Kopf zurück, Fieberfrost schüttelte sie. »Wie eine Schlangenhaut,
-               scheußlich gleißend, sind sie mir vorgekommen ... Erst als ich sie in Fetzen von mir
-               gerissen hatte, ist mir wieder ein bißchen wohl geworden ... und dann bei ihr ...« –
-               sie atmete leichter und wie befreit von einer gräßlich beklemmenden Erinnerung –,
-               »als ich ihr habe dienen dürfen.«</p>
+               und Euch gesehen habe und <pb facs="#"/> den Sarg ... und Pulcheria in ihrem
+               Mäntelchen ... Oh, das besonders! ganz besonders – das! Und noch jetzt, wenn ich
+               daran denke ... Ihr habe ich es nicht gesagt, denn sie hielt etwas auf ihr Mäntelchen
+               ... Euch aber sage ich: ganz besonders – das! Sie, so arm – und wie sie humpelte
+               hinter dem Sarg, in dem ihr Liebstes lag, und ich – in goldgestickten Kleidern!...«
+               Sie schloß die Augen, lehnte den Kopf zurück, Fieberfrost schüttelte sie. »Wie eine
+               Schlangenhaut, scheußlich gleißend, sind sie mir vorgekommen ... Erst als ich sie in
+               Fetzen von mir gerissen hatte, ist mir wieder ein bißchen wohl geworden ... und dann
+               bei ihr ...« – sie atmete leichter und wie befreit von einer gräßlich beklemmenden
+               Erinnerung –, »als ich ihr habe dienen dürfen.«</p>
             <p>»Euch ist wohl geworden?« fragte er spöttisch. »Ohne Euern Liebhaber? Wie kann das
                sein?«</p>
             <p>»Er war mein Liebhaber nicht mehr.«</p>
@@ -3765,8 +3776,8 @@
                erfahren: »Gegraut hat Euch vor ihm, der Euch alles brachte, wonach Ihr Euch von
                jeher gesehnt, bei dem Ihr Euer Glück gefunden habt?«</p>
             <p>»Es war kein Glück«, erwiderte sie langsam und völlig verständnislos für seine
-               bittere Ironie. »Ich habe der heiligen <pb/> Muttergottes gedankt, als seine Küsse
-               anfingen weniger heiß zu werden.«</p>
+               bittere Ironie. »Ich habe der heiligen <pb facs="#"/> Muttergottes gedankt, als seine
+               Küsse anfingen weniger heiß zu werden.«</p>
             <p>»Schweigt!« herrschte er ihr zu und wand sich in Qualen. »Schweigt!... Seine Küsse
                ... Oh ...!«</p>
             <p>Sie erhob die Augen. Rätselhaft erschien er ihr. »Was kann Euch jetzt noch daran
@@ -3798,9 +3809,9 @@
                sie, »das ist ja schön.«</p>
             <p>»Schön – Ihr findet wirklich?«</p>
             <p>
-               <pb/> Derselbe Gedanke lebte in beiden auf. Der Gedanke an den Morgen, an dem sie zu
-               ihm gekommen war, zu trösten, und in Entzücken geraten war über sein Bild Die
-               Neugierigen auf der Piazza Santa Maria Novella, und wie er sie in die Arme
+               <pb facs="#"/> Derselbe Gedanke lebte in beiden auf. Der Gedanke an den Morgen, an
+               dem sie zu ihm gekommen war, zu trösten, und in Entzücken geraten war über sein Bild
+               Die Neugierigen auf der Piazza Santa Maria Novella, und wie er sie in die Arme
                geschlossen hatte und wie er aus ihrem Kusse und sie aus dem seinen die Fülle des
                Glückes getrunken.</p>
             <p>Sie hatte seitdem das Leben und alle irdischen Freuden kennengelernt, aber nie eine
@@ -3827,9 +3838,10 @@
             <p>»Ich habe es getan.«</p>
             <p>»Und wollt nun fort? Und gebt Euch keine Rechenschaft davon, warum Pulcheria Euch zu
                mir schickte und wollte, daß Ihr mir alles sagen solltet, alles von Euch?«</p>
-            <p>»Sie dachte vielleicht ...« Margherita sann nach, zuckte die <pb/> Achseln und setzte
-               nach einer Weile ratlos hinzu: »Ich weiß nicht, was sie dachte.« Ihre Hände glitten
-               herab, ihr Haupt neigte sich, Antonio sah ihre gesenkten Lider sich röten.</p>
+            <p>»Sie dachte vielleicht ...« Margherita sann nach, zuckte die <pb facs="#"/> Achseln
+               und setzte nach einer Weile ratlos hinzu: »Ich weiß nicht, was sie dachte.« Ihre
+               Hände glitten herab, ihr Haupt neigte sich, Antonio sah ihre gesenkten Lider sich
+               röten.</p>
             <p>Mitleidige und heiße Zärtlichkeit wallte in ihm empor und riß alle Dämme nieder, die
                er gegen den Glutstrom der höchsten und tiefsten Leidenschaft seines Lebens
                aufgerichtet. Ihm war alles gestorben, er hatte seine Kunst und seinen Ehrgeiz

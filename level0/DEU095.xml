@@ -46,11 +46,12 @@
    </teiHeader>
 
    <text>
-
+      
       <body>
+         <div type="chapter"/>
          <div type="chapter">
-            <pb/>
-            <p>I</p>
+            <pb facs="#"/>
+            <head>I</head>
             <p>Flametti zog die Hosen an, spannte die Hosenträger und brachte durch mehrfaches
                Wippen der Beine die etwas straff ansitzende Hosennaht in die angängigste Lage. Er
                zündete sich eine Zigarette an, stülpte die Hemdärmel auf und trat aus dem
@@ -111,8 +112,8 @@
                und mit aufgestecktem Haar, das wie das Nest einer Rauchschwalbe aussah: Theres, die
                Wirtschafterin.</p>
             <p>Sie schleppte sich zum Tisch, zog die Tischdecke weg und legte sie knurrend zusammen.
-               Schlappte langsam und uninteressiert <pb/> zum Schalter, nahm das Tablett und stellte
-               es auf den Tisch.</p>
+               Schlappte langsam und uninteressiert <pb facs="#"/> zum Schalter, nahm das Tablett
+               und stellte es auf den Tisch.</p>
             <p>Ohne ein Wort gesprochen zu haben, brummte sie wieder hinaus, die Tür lehnte sich
                hinter ihr an, und von draußen schloß sich der Schalter.</p>
             <p>Flametti goß sich Kaffee ein. Er nahm den Hut vom Haken, legte die Joppe an, die über
@@ -135,8 +136,9 @@
             <p>Der Polizist brummte etwas zur Antwort, das etwa »Guten Morgen« heißen sollte. Der
                Gruß war aber nicht eben freundlich. Auch nicht unfreundlich. Vielmehr: verschlafen
                beherrscht. Man kann nicht leugnen, daß sogar Sympathie darin lag, jedoch in
-               wohldosierter Mischung mit einer Art <pb/> Mißtrauen, das auf der Hut ist. Die Gasse,
-               aus der Flametti kam, stand nicht eben im besten ortspolizeilichen Ruf.</p>
+               wohldosierter Mischung mit einer Art <pb facs="#"/> Mißtrauen, das auf der Hut ist.
+               Die Gasse, aus der Flametti kam, stand nicht eben im besten ortspolizeilichen
+               Ruf.</p>
             <p>Der Morgen indessen war viel zu verheißend, als daß Flametti sich hätte die Laune
                verderben lassen. An der Fleischerhalle vorbei, die Kaitreppe hinunter, begab er
                sich, guter Beute gewiß, an den Steg.</p>
@@ -161,8 +163,8 @@
             <p>Fabrikarbeiter kamen vorüber. Sie marschierten zur Bahn.</p>
             <p>»Hoi«, riefen sie hinunter, »gibt's aus?«</p>
             <p>
-               <pb/> »Salü!« drehte sich Flametti um. Sie gestikulierten in Eile vor sich hin und
-               verschwanden.</p>
+               <pb facs="#"/> »Salü!« drehte sich Flametti um. Sie gestikulierten in Eile vor sich
+               hin und verschwanden.</p>
             <p>Das Wasser floß graugrün und undurchsichtig. Die Möwen strichen sehr niedrig und
                zischten über die Brücken hinweg. An der Häuserfront der Schifflände öffnete sich ein
                Fenster, und eine junge Frau sah nach dem Wetter. »Salü!« rief Flametti hinüber.</p>
@@ -187,8 +189,9 @@
             <p>»Was zahlst du?« wischte Flametti sich die Hände ab, um weiterzufischen.</p>
             <p>»Zahlen?« rief sie und schaute dabei unternehmend nach allen Seiten, »erst heraus
                damit!«; was der Dienstmann im blauen Leinenkittel, der sich inzwischen mit seinem
-               Karren an der Ecke der Fleischerhalle versammelt hatte, als den <pb/> besten Witz des
-               bisherigen Morgens verständnisinnig zur Kenntnis nahm und lächelnd quittierte.</p>
+               Karren an der Ecke der Fleischerhalle versammelt hatte, als den <pb facs="#"/> besten
+               Witz des bisherigen Morgens verständnisinnig zur Kenntnis nahm und lächelnd
+               quittierte.</p>
             <p>Flametti hatte Glück. Als die Uhr acht schlug, nahm er seine Büchsen, Angeln und
                Netze und begab sich nach Hause. Auf zehn Kilo schätzte er, was er gefangen hatte.
                Damit ließ sich leben.</p>
@@ -212,8 +215,9 @@
                einem Spaziergänger, der ihnen Brösel zuwarf. Mit langen Schnäbeln haschten sie
                geschickt im Flug.</p>
             <p>
-               <pb/> Flametti war bester Laune. Er schwenkte in eines der kleinen, am Kai liegenden
-               Zigarrengeschäfte und erstand sich eine frische Schachtel ›Philos grün‹.</p>
+               <pb facs="#"/> Flametti war bester Laune. Er schwenkte in eines der kleinen, am Kai
+               liegenden Zigarrengeschäfte und erstand sich eine frische Schachtel ›Philos
+               grün‹.</p>
             <p>Mit Gentlemanpose warf er ein Fünffrankenstück auf den Ladentisch. Er schob das
                Wechselgeld in die Hosentasche, ohne viel nachzuzählen, klimperte, fuhr mit der Hand
                an den Hut, sagte »Salü!« und marschierte weiter. »Salü, Fritz!« rief er, die Hand am
@@ -238,7 +242,7 @@
                gebrochen. Und ein Lärm! Da war Pinke-Pinke!«</p>
             <p>Mit sportsmännischer Nachlässigkeit hielt er den Arm lang ausgestreckt und tippte die
                Zigarettenasche gegen die Gosse.</p>
-            <p>Max war sehr uninteressiert. Die Abenteuer seines schmächtigen, <pb/> für
+            <p>Max war sehr uninteressiert. Die Abenteuer seines schmächtigen, <pb facs="#"/> für
                Zusteckereien allzu empfänglichen Ausbrecherkönigs imponierten ihm nicht.</p>
             <p>»Komm mit!« sagte er unvermittelt und packte den Ausbrecherkönig beim Arm, »trinken
                wir im ›Ochsen‹ 'ne Halbe!«</p>
@@ -265,9 +269,9 @@
                begehrte.</p>
             <p>Diese Brüste! Sie blähten sich auf, quollen über, und nur mit Mühe hielt sie der
                speckige Rand der schwarzen, zusammengehaftelten Kammgarnbluse zurück, sich über die
-               Fensterbank <pb/> auf das holprige Pflaster zu stürzen. Die Sonnenstrahlen vom Giebel
-               des Automatenrestaurants kamen der Bluse zu Hilfe. Steil stellten sie sich – es war
-               Mittag – gegen besagte Fleischesfülle.</p>
+               Fensterbank <pb facs="#"/> auf das holprige Pflaster zu stürzen. Die Sonnenstrahlen
+               vom Giebel des Automatenrestaurants kamen der Bluse zu Hilfe. Steil stellten sie sich
+               – es war Mittag – gegen besagte Fleischesfülle.</p>
             <p>Mutter Dudlinger allein schien nichts zu bemerken vom Widerstreit ihrer Massen im
                Kampf ums Licht. Harmlos und freundlich lag ihre Seele gewissermaßen zwischen Busen
                und Körper mitten inne und schaute, umhegt von sanft hängendem Speck, aus listigen
@@ -290,15 +294,15 @@
                bedenklichen Last, die man Mutter Dudlinger nannte. Unterbau einer Fülle, von der man
                sich von der Straße aus nicht einmal einen Begriff machen konnte.</p>
             <p>Ein Wunder, daß dieser Erker im nächsten Moment nicht krachend zusammenbrach und samt
-               der guten Mutter Dudlinger in eine mysteriöse Tiefe hinunterstürzte. Erstaunlich,
-               <pb/> wenn man's bei Tag besah, daß man in diesem Erker sogar zu dreien sitzen
-               konnte! Und Engel hatte mit Mutter Dudlinger und Mary zu dreien darin gesessen. Man
-               hatte gesprochen vom Krieg, vom Konzert, von den schlechten Zeiten; im Zimmer nebenan
-               hatten die Sektpfropfen geknallt, und Mary hatte gegähnt, weil ihr Kavalier aus
-               Chaux-de-Fonds eine Anspielung machte auf ihre Gesundheit. Da hatte sie sich
-               natürlich zurückgezogen und spielte die Beleidigte. Und Mutter Dudlinger hatte die
-               Blätter der künstlichen Rebe zurechtgebogen und eingesprochen auf Mary. Aber es half
-               nichts. Sie war beleidigt.</p>
+               der guten Mutter Dudlinger in eine mysteriöse Tiefe hinunterstürzte. Erstaunlich, <pb
+                  facs="#"/> wenn man's bei Tag besah, daß man in diesem Erker sogar zu dreien
+               sitzen konnte! Und Engel hatte mit Mutter Dudlinger und Mary zu dreien darin
+               gesessen. Man hatte gesprochen vom Krieg, vom Konzert, von den schlechten Zeiten; im
+               Zimmer nebenan hatten die Sektpfropfen geknallt, und Mary hatte gegähnt, weil ihr
+               Kavalier aus Chaux-de-Fonds eine Anspielung machte auf ihre Gesundheit. Da hatte sie
+               sich natürlich zurückgezogen und spielte die Beleidigte. Und Mutter Dudlinger hatte
+               die Blätter der künstlichen Rebe zurechtgebogen und eingesprochen auf Mary. Aber es
+               half nichts. Sie war beleidigt.</p>
             <p>Als Flametti und Engel oben in die Stube traten, stand die Suppe bereits auf dem
                Tisch. Um den Tisch saßen: Herr und Frau Häsli nebst Tochter, das Jodlerterzett; Herr
                Arista, der Damenimitator; Fräulein Laura, die Soubrette, und Herr Meyer, der
@@ -316,10 +320,10 @@
                an die Tür und begab sich, um den Tisch herum, an seinen frei gebliebenen Platz auf
                dem Sofa.</p>
             <p>Fräulein Rosa stand sogleich auf und griff nach der Terrine, um Suppe nachzufüllen.
-               Fräulein Theres, die Wirtschafterin, <pb/> kam herein, um nach den Bedürfnissen zu
-               sehen. Durch den offenstehenden Bretterverschlag aus dem Nebenzimmer grüßte das
-               Krukru der kichernden Turteltauben, die Flametti für seine Zauberkunststücke
-               pflegte.</p>
+               Fräulein Theres, die Wirtschafterin, <pb facs="#"/> kam herein, um nach den
+               Bedürfnissen zu sehen. Durch den offenstehenden Bretterverschlag aus dem Nebenzimmer
+               grüßte das Krukru der kichernden Turteltauben, die Flametti für seine
+               Zauberkunststücke pflegte.</p>
             <p>»Setz dich, Engel!« rief Flametti gütig dem zögernden Ausbrecherkönig zu, der nicht
                zum Ensemble gehörte, aber darin nach Bedarf gastierte und für tausend wichtige
                Bühnenzwecke bestens verwendbar war.</p>
@@ -342,9 +346,9 @@
                bösartigen Rhythmus auf den Fuß.</p>
             <p>Die Tochter, herausgefordert durch solche forcierte Unverträglichkeit der Mutter,
                puffte ihr mit dem linken Arm in die rechte Seite, anscheinlich, um sie auf die
-               Blamage aufmerksam <pb/> zu machen, in Wahrheit aber mit solch erbittertem Nachdruck,
-               daß jeder Unbefangene merken mußte, sie nütze nur die Gelegenheit aus, ihr eins zu
-               versetzen.</p>
+               Blamage aufmerksam <pb facs="#"/> zu machen, in Wahrheit aber mit solch erbittertem
+               Nachdruck, daß jeder Unbefangene merken mußte, sie nütze nur die Gelegenheit aus, ihr
+               eins zu versetzen.</p>
             <p>Der Pianist, dem Ausbrecherkönig gegenüber, schmunzelte in seinen Teller hinein und
                erwiderte sehr belustigt die Zeichen des mit dem Kopf andeutenden Schlangenmenschen,
                der seinerseits mit Messer und Gabel den Fisch zerhackte, daß sich die Gräten
@@ -368,8 +372,8 @@
                notwendig das Tischtuch heruntergezerrt worden. Also beherrschte er sich und blieb,
                zitternd vor Empörung, in drohendster Pose erstarrt, still sitzen.</p>
             <p>Das war doch die Höhe! Herr Häsli kannte Flametti seit Jahren. Wußte, daß er die
-               Gagen nie schuldig blieb. Wußte, <pb/> daß die Verlegenheit, in der sich Flametti
-               befand, nur momentan war und nichts besagte. Wußte auch, daß die vielen
+               Gagen nie schuldig blieb. Wußte, <pb facs="#"/> daß die Verlegenheit, in der sich
+               Flametti befand, nur momentan war und nichts besagte. Wußte auch, daß die vielen
                Fischgerichte, die Flametti da auftischen ließ, nur seinen guten Willen verrieten,
                durchzuhalten um jeden Preis. Da soll einem nun die Geduld nicht reißen, wenn solch
                obstinates Weibsstück in ihrer spitzigen Kribbeligkeit keine Raison annahm! Man hat
@@ -395,8 +399,8 @@
                leicht in die Stirn. Diese Stirn, eigensinnig, gedrungen, von einer kurzen, nur
                schlecht verheilten Narbe gezeichnet, war nicht eben häßlich.</p>
             <p>
-               <pb/> »Mach' mal 'n bißchen Platz!« rief sie der Tochter zu, um deren Fuß sich unter
-               dem Tisch der Damenimitator lebhaft und dringend bewarb.</p>
+               <pb facs="#"/> »Mach' mal 'n bißchen Platz!« rief sie der Tochter zu, um deren Fuß
+               sich unter dem Tisch der Damenimitator lebhaft und dringend bewarb.</p>
             <p>Frau Häsli gelang es, durch Aufwärtsschieben der Ellbogen ihrem Brustkorb etwas mehr
                Luft zu verschaffen. Toni, die Tochter aber, kam sich ganz persönlich verletzt und
                gepiesackt vor.</p>
@@ -418,10 +422,10 @@
                und her – »so was Feines verdienst du gar nicht! Dankbar solltest du sein, daß man
                dich durchschleppt.«</p>
             <p>Herr Häsli saß noch immer erstarrt in furchtbarer Pose, eine knödelessende
-               Schießbudenfigur. Von der Mutter weg <pb/> wandte er seine Augen zur Tochter. Ohne
-               viel Erfolg. Toni setzte sich zwar wieder hin, konnte sich aber nicht verkneifen, die
-               Mutter darauf aufmerksam zu machen: »Es sind ja gar keine Forellen. Es sind ja
-               Rotaugen.«</p>
+               Schießbudenfigur. Von der Mutter weg <pb facs="#"/> wandte er seine Augen zur
+               Tochter. Ohne viel Erfolg. Toni setzte sich zwar wieder hin, konnte sich aber nicht
+               verkneifen, die Mutter darauf aufmerksam zu machen: »Es sind ja gar keine Forellen.
+               Es sind ja Rotaugen.«</p>
             <p>»Na«, beschwichtigte Jenny, »sie ist ja noch jung. Versöhnt euch! Morgen gibt's
                Paprikabraten mit Spaghetti und Tomatensauce. Kinder! Ein feiner Fraß!« Und sie hob
                den Zeigefinger hoch und ließ einige fettgurgelnde, selige Laute hören.</p>
@@ -443,8 +447,8 @@
             <p>Er senkte den Kopf noch tiefer und blies die Backen auf, um nicht loszuprusten.</p>
             <p>Ihm machte es einen Heidenspaß, wenn das Ehepaar sich »anblies«. Eine bösartige
                Rippe, diese Alte. Der kleine Häsli ein Schlappier, daß er sich das so gefallen ließ.
-               Aber <pb/> ihr Gesang: alle Hochachtung! Das mußte man ihnen lassen. Was Exaktheit,
-               Klangfarbe und Schulung betraf: weit und breit keine Besseren.</p>
+               Aber <pb facs="#"/> ihr Gesang: alle Hochachtung! Das mußte man ihnen lassen. Was
+               Exaktheit, Klangfarbe und Schulung betraf: weit und breit keine Besseren.</p>
             <p>Flametti war mit der Suppe fertig. Ein einziger Fisch lag noch auf der Platte, und
                Engel holte weit aus, um ihn an sich zu bringen.</p>
             <p>Rosa beeilte sich, aufzufüllen. Jenny, gesättigt, nahm ihr offenes Haar aus dem
@@ -470,8 +474,9 @@
             <p>Ferreros ›Damen-Gesangs- und Possen-Ensemble‹ war ›geschätzt‹, ›glänzendst‹,
                ›weltbekannt‹. Aber beliebt? Nein. Bestrenommiert? Nein. Es war ›vornehmst‹, infolge
                der vereinten Eleganz und Reserviertheit seiner Damen. Auch Pfäffers ›Spatzen‹
-               konnten da nicht mit. Sie hatten <pb/> weder jene geheimnisvolle Anziehungskraft, die
-               Flamettis Ensemble eigen war, noch jene gewisse Eigenart und Popularität.</p>
+               konnten da nicht mit. Sie hatten <pb facs="#"/> weder jene geheimnisvolle
+               Anziehungskraft, die Flamettis Ensemble eigen war, noch jene gewisse Eigenart und
+               Popularität.</p>
             <p>Pfäffers ›Spatzen‹ waren, wenn man ihren Wert auf einen Nenner bringen wollte,
                ›altbewährt‹, ›solid‹, ›reichhaltig‹, ›anerkannt‹. Ihre Force: ›dezentes
                Familienprogramm‹, mit ausgeschnittenen Kleidern und Broschen, die, wie Flametti
@@ -494,9 +499,9 @@
                gewissermaßen. Kein Ferrero, der früher mit Lumpen gehandelt hatte. Kein Pfäffer, der
                seinen Weibern zurief: »Kinder, macht's euch bequem!« und dann im Hemd mit ihnen den
                ›Kleinen Kohn‹ einstudierte.</p>
-            <p>Fleiß? Verachtete er. Der echte Artist schläft morgens bis <pb/> gegen elf. Wenn man
-               bis in die Nacht hinein gearbeitet hat, oft die schwierigsten Nummern, kann man nicht
-               in aller Herrgottsfrühe wieder auf den Beinen sein.</p>
+            <p>Fleiß? Verachtete er. Der echte Artist schläft morgens bis <pb facs="#"/> gegen elf.
+               Wenn man bis in die Nacht hinein gearbeitet hat, oft die schwierigsten Nummern, kann
+               man nicht in aller Herrgottsfrühe wieder auf den Beinen sein.</p>
             <p>Proben? Jawohl! Aber mit Maß und Ziel. Es hat keinen Sinn, den Leuten die Lust an der
                Arbeit zu nehmen, sie tot zu hetzen mit Proben. Auf die Eingebung kommt es an. Nicht
                auf den Drill. Wer es nicht in den Fingerspitzen hat, der wird es auch auf der
@@ -519,7 +524,7 @@
             <p>Flamettis Personal war: interessant. Er hatte eine Nase für natürliche Begabung. Auf
                Agenten, Kritiken und Renommage gab er nichts. Selber sehen! Kerle brauchte er,
                Personnagen. Talent kam in zweiter Linie. Mochte das Talent einen Knacks haben, die
-               Stimme einen Knacks, die Figur einen <pb/> Knacks. Wenn nur der Kerl, der
+               Stimme einen Knacks, die Figur einen <pb facs="#"/> Knacks. Wenn nur der Kerl, der
                dahinterstand, etwas zu sagen hatte.</p>
             <p>Flametti hatte einen Blick für die gebrochene Linie. Einen Blick für jenen Moment, in
                dem etwa eine Kabarettistin reif wurde fürs Varieté. Da setzte er ein. Da bemühte er
@@ -545,7 +550,7 @@
                einer anderen Welt. Sind keine Bürger. Aus Unterdrückung werden Artisten. Wo keine
                Defekte sind, sind keine Menschen. Buntheit, Zauber, Exotik: nur aus
                Verzweiflung.</p>
-            <p>Dementsprechend war auch Flamettis Verhältnis zu seinen <pb/> Artisten.
+            <p>Dementsprechend war auch Flamettis Verhältnis zu seinen <pb facs="#"/> Artisten.
                Kameradschaft, nicht Abhängigkeit. Freiheit, nicht Zwang. Vertrauen, keine Verträge.
                Gage muß sein: sowieso. Aber was nützte der beste Vertrag, wenn der Direktor einmal
                nicht zahlen konnte?</p>
@@ -570,8 +575,8 @@
                Jodler das Piston?</p>
             <p>Flametti legte auch keineswegs Wert darauf, jeden Abend zu spielen. Besonders nicht
                in den kleinen Beiseln, wo man um sechs Uhr abends schon auf dem Posten sein mußte,
-               wo das Wasser von der Decke tropfte und die Klaviere <pb/> jämmerliche Drahtkommoden
-               waren, unmöglich, Töne darauf hervorzubringen.</p>
+               wo das Wasser von der Decke tropfte und die Klaviere <pb facs="#"/> jämmerliche
+               Drahtkommoden waren, unmöglich, Töne darauf hervorzubringen.</p>
             <p>Mochte Jenny recht haben: man solle auch die kleinen Geschäfte annehmen; man müsse ja
                auch die Gagen zahlen. Aber man war doch nicht in der Tretmühle! Man war doch nicht
                auf der Welt, um sich abzustrapazieren!</p>
@@ -596,7 +601,7 @@
             <p>»Herr Meyer – zehn Franken. A conto vierten – fünf Franken. A conto achten – fünfzehn
                Franken. A conto zwölften – fünf Franken. Stimmt's?«</p>
             <p>
-               <pb/> »Ja, stimmt. Danke.«</p>
+               <pb facs="#"/> »Ja, stimmt. Danke.«</p>
             <p>»Laura – fünf Franken. A conto, à conto, à conto, à conto.« Flametti zeigte wieder
                die einzelnen Posten auf der Quittung.</p>
             <p>»Ja, stimmt schon«, zögerte die Soubrette, ein wenig verwirrt und enttäuscht.
@@ -621,10 +626,10 @@
                und verschwand.</p>
             <p>»Netter Mensch«, bemerkte Frau Häsli zu seinem Abgang.</p>
             <p>»So bescheiden und lieb!«</p>
-            <p>»Mahlzeit!« sagte Herr Engel, der hier nichts zu erwarten <pb/> hatte, »komme später
-               nochmal vorbei«, und ging ebenfalls; was Fräulein Rosa sehr komisch fand, denn sie
-               bückte sich blitzschnell nach Nettchen, dem Dackel, hob ihn hoch und drehte sich
-               tanzend mit ihm auf dem Absatz.</p>
+            <p>»Mahlzeit!« sagte Herr Engel, der hier nichts zu erwarten <pb facs="#"/> hatte,
+               »komme später nochmal vorbei«, und ging ebenfalls; was Fräulein Rosa sehr komisch
+               fand, denn sie bückte sich blitzschnell nach Nettchen, dem Dackel, hob ihn hoch und
+               drehte sich tanzend mit ihm auf dem Absatz.</p>
             <p>»Wer kommt jetzt?« fragte Flametti geschäftig, aber mit ein wenig verringerter
                Sicherheit. »Richtig: Häsli.« Und beeilte sich, die Summe aufzuzählen.
                »Siebenundzwanzig Franken fünfzig.«</p>
@@ -646,8 +651,8 @@
                dem Schlafzimmer und steckte sich friedlich das Haar auf.</p>
             <p>»Himmelherrgottsakrament!« fluchte jetzt Flametti und schnellte vom Sofa auf. »Was
                gibt's denn? Was paßt euch denn nicht? Was wollt ihr denn? Macht doch den Schnabel
-               <pb/> auf, wenn euch etwas nicht paßt!« Die Zornadern waren ihm angeschwollen. Er sah
-               aus wie ein tanzender Fakir.</p>
+                  <pb facs="#"/> auf, wenn euch etwas nicht paßt!« Die Zornadern waren ihm
+               angeschwollen. Er sah aus wie ein tanzender Fakir.</p>
             <p>Häsli bekam's mit der Angst, schüttelte die Frau ab und meinte kleinlaut: »Max,
                rechn' 's mal vor!«</p>
             <p>»Da ist gar nichts vorzurechnen!« schnitt ihm die Alte das Wort ab. »Gar nicht nötig.
@@ -672,7 +677,7 @@
                an, Mensch!« Mit ausgebreiteten Händen und vorgereckter Stirn stand sie da, im
                Begriff, ihm an die Gurgel zu fahren.</p>
             <p>
-               <pb/> »Mutter!« suchte die Tochter zu beschwichtigen.</p>
+               <pb facs="#"/> »Mutter!« suchte die Tochter zu beschwichtigen.</p>
             <p>»Dummes Weib!« brachte Herr Häsli mit aller Ruhe und Verachtung auf, sah die Alte an,
                als zweifle er an ihrem Verstand, und sah wieder von ihr weg.</p>
             <p>»Na, was wollt ihr also?« schrie Flametti und wühlte krampfhaft und hitzig in seinen
@@ -696,10 +701,10 @@
                niedergeschlagen, baumslang, wenn es drauf ankam. Der Varietéberuf war ihr zu still.
                Mit der ließ sich nicht spaßen.</p>
             <p>Also gab auch Herr Häsli klein bei, und weiter ging's mit der Abrechnung.</p>
-            <p>»Dann am zwölften zweiundzwanzig Franken fünfzig vorgestreckt <pb/> für Zimmer und
-               Konsumation – –« Die Häslis bewohnten zusammen ein Zimmer in einem Gasthof, das sich
-               die Damen selbst ausgesucht hatten, das aber Flametti bezahlte, weil er Verbindungen
-               hatte mit dem Wirt.</p>
+            <p>»Dann am zwölften zweiundzwanzig Franken fünfzig vorgestreckt <pb facs="#"/> für
+               Zimmer und Konsumation – –« Die Häslis bewohnten zusammen ein Zimmer in einem
+               Gasthof, das sich die Damen selbst ausgesucht hatten, das aber Flametti bezahlte,
+               weil er Verbindungen hatte mit dem Wirt.</p>
             <p>»Schon gut, schon gut«, winkte Frau Häsli ab, »ich weiß schon genug. Bleiben
                siebenundzwanzig Franken fünfzig. Stimmt schon. Ja, stimmt schon. Häsli, quittier!
                Wir gehen.«</p>
@@ -714,10 +719,10 @@
             <p>»Salü!« sagte Flametti offiziös und packte seine Sachen ein.</p>
             <p>Auch Herr Meyer und Fräulein Laura gingen. Eigentlich hatten sie um Zulage bitten
                wollen. Die Gelegenheit schien ihnen aber nicht günstig.</p>
-            <pb/>
+            <pb facs="#"/>
          </div>
          <div type="chapter">
-            <p>II</p>
+            <head>II</head>
             <p>»Siehst du die Anarchisten«, sagte Jenny, als alle gegangen waren, »siehst du sie
                jetzt? Brauchst nur mal ein paar Tage kein Geschäft zu haben – gleich werden sie
                üppig. Nur in Verlegenheit braucht man zu kommen – schon laufen sie fort. Forellen
@@ -740,8 +745,8 @@
             <p>Flametti aber hatte beim Abschließen der Schieblade einen Schaden am Schloß gefunden,
                zückte den Hausschlüssel und hämmerte damit am Schlüsselloch.</p>
             <p>
-               <pb/> Es klopfte. Die Türe ging auf, und herein trat Fräulein Lena, vormals Pianistin
-               bei Flametti.</p>
+               <pb facs="#"/> Es klopfte. Die Türe ging auf, und herein trat Fräulein Lena, vormals
+               Pianistin bei Flametti.</p>
             <p>»Grüatzi!« sagte sie und schob sich in drei freundlichen Wellen herein.</p>
             <p>»Tag, Lena!« nickte Jenny, »komm nur herein!«</p>
             <p>»Wenns erlaubt ist!« sagte Lena.</p>
@@ -765,14 +770,14 @@
             <p>»Was haben sie erzählt?« duckte sich Jenny. »So eine Gemeinheit! So eine
                Niedertracht! Hörst du, Max, was sie ausstreuen? Wie sie sich rächen? Ihren Gadsch
                hat sie instruiert, daß er herumgeht und uns das Geschäft verdirbt! So eine Infamie!
-               – Weißt du was, Max? Die wollen selbst <pb/> anfangen. Die laufen uns fort. – Wir,
-               keine Geschäfte mehr! Lena, man läuft sich die Füße wund, daß wir spielen! An der
-               Haustür fängt man uns ab! Wir brauchten nur rübergehen zum ›Krokodil‹! – Du kennst
-               doch das ›Krokodil‹! Eins A, dreihundert Franken Draufgeld! Aber wir wollen nicht,
-               weil wir neu einstudieren. Weißt du: der Braten war bißchen angebrannt. Das hat diese
-               Alte so verbiestert, daß sie jetzt überall ausschreit, sie hätte zu hungern bei uns.
-               Du kennst doch unsere Kost! Warst drei Jahre bei uns. Hast du dich je zu beklagen
-               gehabt? Ist dir je etwas abgegangen?«</p>
+               – Weißt du was, Max? Die wollen selbst <pb facs="#"/> anfangen. Die laufen uns fort.
+               – Wir, keine Geschäfte mehr! Lena, man läuft sich die Füße wund, daß wir spielen! An
+               der Haustür fängt man uns ab! Wir brauchten nur rübergehen zum ›Krokodil‹! – Du
+               kennst doch das ›Krokodil‹! Eins A, dreihundert Franken Draufgeld! Aber wir wollen
+               nicht, weil wir neu einstudieren. Weißt du: der Braten war bißchen angebrannt. Das
+               hat diese Alte so verbiestert, daß sie jetzt überall ausschreit, sie hätte zu hungern
+               bei uns. Du kennst doch unsere Kost! Warst drei Jahre bei uns. Hast du dich je zu
+               beklagen gehabt? Ist dir je etwas abgegangen?«</p>
             <p>Lena schüttelte den Kopf. Nein, sie hatte sich nie zu beklagen gehabt, noch war ihr
                je etwas abgegangen.</p>
             <p>Max hämmerte gewaltsam mit seinem Hausschlüssel am Schiebladenschloß.</p>
@@ -792,10 +797,10 @@
                mich nicht einmal an. Wir gehen zu Grund. Ich seh's ja. Was soll ich nur machen?«</p>
             <p>»Tja«, meinte Lena, »was ist da zu machen?«</p>
             <p>Flametti war dieser ›Summs‹ zuwider. Gewiß, er liebte seine Frau. Sie war ein wenig
-               furchtsam <pb/> von Gemüt und leicht zu Übertreibungen geneigt, wie alle furchtsamen
-               und aufgeregten Gemüter. Aber sie meinte es gut, war keine böse Natur und er hätte
-               ihr gerne ein wenig Gehör schenken dürfen. Doch er schätzte es nicht, seine innersten
-               Geschäfts- und Familiengeheimnisse coram publico verhandelt zu sehen.</p>
+               furchtsam <pb facs="#"/> von Gemüt und leicht zu Übertreibungen geneigt, wie alle
+               furchtsamen und aufgeregten Gemüter. Aber sie meinte es gut, war keine böse Natur und
+               er hätte ihr gerne ein wenig Gehör schenken dürfen. Doch er schätzte es nicht, seine
+               innersten Geschäfts- und Familiengeheimnisse coram publico verhandelt zu sehen.</p>
             <p>Gewiß, das Geschäft ging schlecht. Schlechte Zeiten und keine Schlager.</p>
             <p>Gewiß, ein Ensemble von zehn lebendigen Menschen verlangt, sich standesgemäß zu
                nähren, zu kleiden und zu Triumphen geführt zu werden.</p>
@@ -816,7 +821,7 @@
                den breitkrämpigen Filzhut tief in die Stirne gerückt, froh, seinem häuslichen Glück
                entronnen zu sein, schickte Flametti sich an, einen Gang zu unternehmen durch sein
                Revier.</p>
-            <p>Dieses Revier nannte sich »Fuchsweide« und war der Konzert- <pb/> und
+            <p>Dieses Revier nannte sich »Fuchsweide« und war der Konzert- <pb facs="#"/> und
                Vergnügungsrayon aller lebenslustig-abseitigen Kreise der Stadt. Treffpunkt der
                großen Welt, Schlupfwinkel einiger unsicherer Elemente, zugegeben. Aber alles in
                allem ein Monaco und Monte Carlo im kleinen.</p>
@@ -844,9 +849,9 @@
             <p>Über den ›Mönchsplatz‹ sprang Fräulein Frieda, die Kellnerin, daß die Röcke
                flogen.</p>
             <p>»Servus Flametti!« rief sie. Es war eine Lust zu leben.</p>
-            <p>Die Niedermeyers hatten Umzug heute. Auf ein Rollwägelchen <pb/> hatten sie ihre
-               Sachen gepackt; auch den Kanarienvogel. Der Mann schob. Die Frau half drücken. Die
-               Kinder halfen auch drücken und der kleine Peter hob die Sachen auf, die vom Wagen
+            <p>Die Niedermeyers hatten Umzug heute. Auf ein Rollwägelchen <pb facs="#"/> hatten sie
+               ihre Sachen gepackt; auch den Kanarienvogel. Der Mann schob. Die Frau half drücken.
+               Die Kinder halfen auch drücken und der kleine Peter hob die Sachen auf, die vom Wagen
                herunterfielen.</p>
             <p>»Wo wohnt ihr jetzt?« rief Flametti.</p>
             <p>Und Herr Niedermeyer rief; »Kuttelgasse 33, V.!«</p>
@@ -876,9 +881,9 @@
                denken. Bei scheinbarem Schlendern fand er die besten Entschlüsse.</p>
             <p>Zwei Herren kamen die Straße herunter, geradenwegs auf ihn zu. Verflucht nochmal!</p>
             <p>Der eine elegant, schwarzer Schnurrbart aufgekräuselt, glattes, feistes Gesicht und
-               glänzende Drehaugen. Der andere <pb/> hager, fanatisch, nervös: »Peter und Paul«. Ein
-               Schäferhund, leichte Patten, tief wehender Hängeschwanz, folgte ihnen wippend auf dem
-               Fuß.</p>
+               glänzende Drehaugen. Der andere <pb facs="#"/> hager, fanatisch, nervös: »Peter und
+               Paul«. Ein Schäferhund, leichte Patten, tief wehender Hängeschwanz, folgte ihnen
+               wippend auf dem Fuß.</p>
             <p>Flametti steckte die Hände noch tiefer in seine Taschen, festigte seinen Gang um ein
                Erhebliches und grüßte forciert:</p>
             <p>»Salü!«</p>
@@ -905,9 +910,9 @@
             <p>Einen Moment überlegte Flametti. Sollte er umkehren? Sollte er tun, als habe er sich
                im Lokal geirrt? Sollte er an den Hut fassen und grüßen: »Salü! Komme später«?</p>
             <p>
-               <pb/> Da stand aber Kranemann schon auf, kam auf ihn zu, wie von ungefähr, und sagte:
-               »Ah, Flametti! – was ist mit der Quittung? Wann wird sie eingelöst? Höchster
-               Termin!«</p>
+               <pb facs="#"/> Da stand aber Kranemann schon auf, kam auf ihn zu, wie von ungefähr,
+               und sagte: »Ah, Flametti! – was ist mit der Quittung? Wann wird sie eingelöst?
+               Höchster Termin!«</p>
             <p>»Hoi, hoi, hoi!« bockte der und trat einen Schritt zurück. »Nur langsam! Laß erst mal
                absitzen, damischer Kerl!« Und beschloß jetzt zu bleiben.</p>
             <p>»Nix da!« rief Kranemann und faßte ihn leicht beim Kragen, »heut ist der letzte
@@ -930,8 +935,8 @@
                so!« verstand jetzt der Wirt, »das ist der Kranemann. Ja, so zahl' doch die paar
                Stein! Dann hast du doch Ruhe! Man immer berappen!«</p>
             <p>
-               <pb/> »Siehst du«, kippte Flametti sein Bier, »jetzt erst recht nicht! Jetzt sollen
-               sie sich mal die Beine in den Leib laufen!«</p>
+               <pb facs="#"/> »Siehst du«, kippte Flametti sein Bier, »jetzt erst recht nicht! Jetzt
+               sollen sie sich mal die Beine in den Leib laufen!«</p>
             <p>»Tja«, meinte der Wirt bedenklich, »die verstehen keinen Spaß. Da ist's schon das
                Gescheitste, man gibt nach.« Er lächelte schablonig und strich sich die Hände.
                »Maidche, komm her!« rief Flametti der Kellnerin und zog die Tüte mit den Leckerli
@@ -960,8 +965,8 @@
                und sah nach der Decke, wo er jede Fliege, jeden Schnörkel der Tüncherarbeit
                eingehend verfolgte.</p>
             <p>
-               <pb/> Tiefe kaffeebraune Tränensäcke hingen ihm unter den Augen, und diese Augen
-               selbst blickten in abgründiger Melancholie.</p>
+               <pb facs="#"/> Tiefe kaffeebraune Tränensäcke hingen ihm unter den Augen, und diese
+               Augen selbst blickten in abgründiger Melancholie.</p>
             <p>Horrende Trinkgelder gab er, besaß einen Geldbeutel aus Affenhaut und roch, seiner
                orientalischen Herkunft gemäß, nach Zwiebel, Henna und Kokosnuß.</p>
             <p>Dieser Türke Mechmed trat jetzt ins Lokal, und Flametti verfolgte jede seiner
@@ -985,8 +990,8 @@
                der Straße, ist ja gefunden, ist ja ein Dusel. So sollte er also mal sehen, ob man
                nicht, unter der Hand, vielleicht einen Interessenten fände.</p>
             <p>Und Flametti hatte sich auch umgesehen, seit acht Tagen – Geschäft ist Geschäft!
-               Spitzbuben gibt es hier wie dort!<pb/> – und einen Interessenten gefunden. Aber jetzt
-               wollte er auch wissen, wofür.</p>
+               Spitzbuben gibt es hier wie dort!<pb facs="#"/> – und einen Interessenten gefunden.
+               Aber jetzt wollte er auch wissen, wofür.</p>
             <p>»Siehst du, Mechmed«, begann Flametti, als Mechmed Platz genommen, die Nase
                geschneuzt und sich ein Helles hatte kommen lassen, das er mit den Händen wärmte,
                »ist ja alles schön und gut. Wir kennen uns jetzt seit vierzehn Tagen. Wir haben
@@ -1009,10 +1014,10 @@
             <p>Mechmed wurde plötzlich sehr lebendig. Mit einem Ruck fuhr er auf seinem Stuhle
                herum. Sein Ellbogen auf der Stuhllehne stach spitz gegen die Kellnerin, die mit
                einem geschickten Seitwärtsschwenken der Hüften den Tisch passierte.</p>
-            <p>»Aber«, sagte Flametti und kreuzte die Arme vor sich auf <pb/> dem Tisch, »ich muß
-               nochmal Proben haben und zwei Mille Vorschuß.« Wenn man acht Mille Provision zu
-               erwarten hatte, konnte man wohl zwei Mille Vorschuß verlangen. »Nix Proben!« lehnte
-               Mechmed schwerfällig ab, die Hand am Ohr, um besser folgen zu können.</p>
+            <p>»Aber«, sagte Flametti und kreuzte die Arme vor sich auf <pb facs="#"/> dem Tisch,
+               »ich muß nochmal Proben haben und zwei Mille Vorschuß.« Wenn man acht Mille Provision
+               zu erwarten hatte, konnte man wohl zwei Mille Vorschuß verlangen. »Nix Proben!«
+               lehnte Mechmed schwerfällig ab, die Hand am Ohr, um besser folgen zu können.</p>
             <p>Flametti lächelte.</p>
             <p>»Sei mal vernünftig, Mechmed«, begann er von vorne, »mein Geschäft leidet. Seit acht
                Tagen bin ich nun unterwegs, dir einen Käufer zu suchen. Rechne die Spesen! Man
@@ -1036,10 +1041,10 @@
             <p>Flametti sah den Türken in blaue Fernen entschwinden. Perdu. Futsch. Aus. Ihm
                schwindelte. Aber er versuchte, der Situation gewachsen zu sein.</p>
             <p>»Mechmed«, sagte er, räsonnabel genug, »du bist kein Filz und ich bin kein Ganeff.
-               Ich weiß: es kommt dir nicht darauf <pb/> an, wenn du siehst, daß was läuft. Gut: ich
-               verzichte auf die Proben. Macht fünfzig Franken. Weg damit! Aber die zwei Mille
-               Vorschuß – man muß sich bewegen, auftreten können. Nimm doch Vernunft an! Das ist ja
-               nicht so! Wir sind doch gut Freund! Du verstehst schon!«</p>
+               Ich weiß: es kommt dir nicht darauf <pb facs="#"/> an, wenn du siehst, daß was läuft.
+               Gut: ich verzichte auf die Proben. Macht fünfzig Franken. Weg damit! Aber die zwei
+               Mille Vorschuß – man muß sich bewegen, auftreten können. Nimm doch Vernunft an! Das
+               ist ja nicht so! Wir sind doch gut Freund! Du verstehst schon!«</p>
             <p>Mechmed verstand. Er nickte. Aber dann schüttelte er ablehnend den Kopf – er
                schluckte dabei den Zwiebelsalat –:</p>
             <p>»Nicht zu machen. Gefährliche Sache.« Und musterte jenen mit einem profunden Blick.
@@ -1062,10 +1067,10 @@
                gefaßt hielt, grandenhaft auf den Tisch.</p>
             <p>Flametti raffte die Proben zusammen, steckte sie ein und sprang auf.</p>
             <p>
-               <pb/> »Wieso Merci? Wieso Proben? Weißt du, Mechmed, das ist – – das ist – – –« Seine
-               Augen funkelten. Er schien zu Tätlichkeiten geneigt. »Also weißt du – – –« Aber
-               Mechmed hatte sich, etwas schwach auf den Waden, schon zum Kleiderhaken begeben, nahm
-               Paletot, Hut und Regenschirm herunter; sagte, mit einer einzigen, großen,
+               <pb facs="#"/> »Wieso Merci? Wieso Proben? Weißt du, Mechmed, das ist – – das ist – –
+               –« Seine Augen funkelten. Er schien zu Tätlichkeiten geneigt. »Also weißt du – – –«
+               Aber Mechmed hatte sich, etwas schwach auf den Waden, schon zum Kleiderhaken begeben,
+               nahm Paletot, Hut und Regenschirm herunter; sagte, mit einer einzigen, großen,
                zauberhaften Handbewegung über den Tisch und Flametti wegsegnend zur Kellnerin: »Deux
                francs, l'addition. Bonjour die Herrn!« und wandte sich wackelnd zum Ausgang.
                Flametti stand gebannt und entwaffnet. Und da er die Blicke der Gäste auf sich
@@ -1086,8 +1091,8 @@
             <p>»Das machen Sie gut!« unterbrach sich Flametti mit einer Floskel aus seinem
                Varietéjargon, »freie Luft!«</p>
             <p>Ihm fiel die Konkubinatsstrafe ein. Was wird nun damit geschehen? Nachdem der Türke
-               versagt hat? Kranemann wird <pb/> keinen Pardon mehr geben. In die Wohnung wird er
-               kommen mit dem Arrestbefehl. Mit dem Loch wird er drohen.</p>
+               versagt hat? Kranemann wird <pb facs="#"/> keinen Pardon mehr geben. In die Wohnung
+               wird er kommen mit dem Arrestbefehl. Mit dem Loch wird er drohen.</p>
             <p>Er, Kranemann, ihn, Flametti arretieren! Flametti lachte. Zur Treppe wird er ihn
                spedieren, den Herrn Kranemann. Vors Fenster wird er ihn hängen, wie er die Möbel
                seiner ersten Frau, dieser Xanthippe, vors Fenster gehängt hat:</p>
@@ -1112,7 +1117,7 @@
             <p>»Zahlen!« rief er laut und patzig.</p>
             <p>Als er auf die Straße trat, fielen ihm Jenny und das Geschäft wieder ein.</p>
             <p>
-               <pb/> Hinüber lenkte er zur Filiale des ›Tagblatt‹ und gab eine Annonce auf:
+               <pb facs="#"/> Hinüber lenkte er zur Filiale des ›Tagblatt‹ und gab eine Annonce auf:
                »Lehrmädchen gesucht. Kostenlose Aufnahme und Ausbildung. Flamettis
                Varieté-Ensemble.«</p>
             <p>Kostete drei Franken achtzig. Er nahm die Quittung und seinen Ausweis in Empfang und
@@ -1139,7 +1144,7 @@
                ein altes Trambahnbillett und den in der Frühe gekauften hellblauen Tschibuk.</p>
             <p>»Ist der Beizer da?« Beizer nannte man in der Fuchsweide den Wirt.</p>
             <p>
-               <pb/> »Jawohl, kommt gleich!« sagte die Kellnerin. Die hieß Anna.</p>
+               <pb facs="#"/> »Jawohl, kommt gleich!« sagte die Kellnerin. Die hieß Anna.</p>
             <p>»Gut!« sagte Flametti und nahm einen kräftigen Schluck aus der frischen Halben.</p>
             <p>Der delikatere Teil seiner Aufgabe stand ihm bevor.</p>
             <p>So leicht, wie Jenny sich vorstellte, war es nicht, im ›Krokodil‹ engagiert zu
@@ -1164,15 +1169,15 @@
                war es, von dem Flametti das Heil erwartete.</p>
             <p>Angenommen, der Rotter, alter Bekannter von Max, Stadtgröße, würde sich, nur für ein
                einziges Mal, bestimmen lassen, Flametti ein Ensemble zu schreiben, ein unerhörtes,
-               <pb/> ein buntes, nie dagewesenes Gesangstableau: es würde die Kassen füllen, die
-               Konkurrenz totschlagen, und wäre ein voller Ersatz für den Türken. Freilich: hingehen
-               mußte man, zu ihm, in seine Wohnung; ihn bitten, devotest, um soviel Güte. Aber wer
-               weiß: vielleicht würde er's tun. Ein gutes Ensemble von ihm, exotisch, wild, mit der
-               Streitaxt, brutal – und alles wäre in Ordnung. Herr Schnabel würde nicht Nein sagen
-               können: schon wegen der Konkurrenz. Die Konkubinatsstrafe könnte beglichen werden.
-               Die Schwierigkeit wäre behoben. Flametti hatte, wie gesagt, den Tschibuk aus der
-               Tasche genommen, und was war natürlicher, als daß er dabei an Ersatz für den Türken
-               dachte?</p>
+                  <pb facs="#"/> ein buntes, nie dagewesenes Gesangstableau: es würde die Kassen
+               füllen, die Konkurrenz totschlagen, und wäre ein voller Ersatz für den Türken.
+               Freilich: hingehen mußte man, zu ihm, in seine Wohnung; ihn bitten, devotest, um
+               soviel Güte. Aber wer weiß: vielleicht würde er's tun. Ein gutes Ensemble von ihm,
+               exotisch, wild, mit der Streitaxt, brutal – und alles wäre in Ordnung. Herr Schnabel
+               würde nicht Nein sagen können: schon wegen der Konkurrenz. Die Konkubinatsstrafe
+               könnte beglichen werden. Die Schwierigkeit wäre behoben. Flametti hatte, wie gesagt,
+               den Tschibuk aus der Tasche genommen, und was war natürlicher, als daß er dabei an
+               Ersatz für den Türken dachte?</p>
             <p>»Lauf, hol' mir ein Paket Goldshag!« sagte er zur Kellnerin, die neugierig den
                Tschibuk bewunderte, und gab ihr Geld. Steckte das Rohr des Tschibuks in den Mund,
                blies hindurch, probierte den Zug und besah die Arbeit. Es war die erste stille
@@ -1189,9 +1194,9 @@
             <p>»Nix Mechmed!« beeilte Flametti sich, mit gesundeter Selbstironie hausbacken
                zurückzuweisen. »Orientbazar. Sieben Franken fünfzig.«</p>
             <p>»Ist auch besser so«, meinte Herr Schnabel leichthin und nur halb bei der Sache. Er
-               drehte die Hand in der Hosentasche, verfolgte mit wachsamen Augen den Hausknecht,
-               <pb/> der zapfte; die Kellnerinnen, die sich anschickten, den Saal fürs Konzert
-               herzurichten, und entschwand zum Büfett. Er hatte offenbar viel zu tun.</p>
+               drehte die Hand in der Hosentasche, verfolgte mit wachsamen Augen den Hausknecht, <pb
+                  facs="#"/> der zapfte; die Kellnerinnen, die sich anschickten, den Saal fürs
+               Konzert herzurichten, und entschwand zum Büfett. Er hatte offenbar viel zu tun.</p>
             <p>Flametti war in Verlegenheit. Was sollte er tun?</p>
             <p>Die Kellnerin brachte den Goldshag und Flametti stopfte die Pfeife. Ein glücklicher
                Umstand kam ihm zu statten:</p>
@@ -1216,9 +1221,9 @@
                hochgezogenen Augenbrauen hinunter auf ihren Spangenschuh.</p>
             <p>»Conférencier und Improvisator – Berühmtheit!« versicherte Flametti. »Fünfhundert
                Franken Gage. Karrieremacher. Feiner Kerl!«</p>
-            <p>»Waren ja Freunde, ich und der Rotter«, wandte er sich <pb/> an Madame. »Je Gott!
-               Dort drüben« – er zeigte nach einer Nische – »nebeneinander sind wir gesessen und
-               haben Asti gezecht!«</p>
+            <p>»Waren ja Freunde, ich und der Rotter«, wandte er sich <pb facs="#"/> an Madame. »Je
+               Gott! Dort drüben« – er zeigte nach einer Nische – »nebeneinander sind wir gesessen
+               und haben Asti gezecht!«</p>
             <p>Und wieder zu Herrn Schnabel: »Erinnern Sie sich? Und im ›Bratwurstglöckli‹ z'Basel:
                Sie kennen doch den Rotter, was der für 'nen Appetit hat! – Als der Kaiser nach Bern
                kam: wer hat das Begrüßungsgedicht verfaßt? Erinnern Sie sich?«</p>
@@ -1240,8 +1245,8 @@
                mischte sich in Flamettis unendlich überlegenes Interesse. Er war sich bewußt, seinen
                letzten Trumpf auszuspielen. Jetzt oder nie.</p>
             <p>»Siehst du, Flametti«, sagte Herr Schnabel unvermittelt und setzte sich an den Tisch,
-               »so etwas müßtest du engagieren! <pb/> Mich geht's ja nichts an: aber laß doch den
-               Kram mit dem Türken und such' dir 'nen Schlager!«</p>
+               »so etwas müßtest du engagieren! <pb facs="#"/> Mich geht's ja nichts an: aber laß
+               doch den Kram mit dem Türken und such' dir 'nen Schlager!«</p>
             <p>Flametti klopfte gerade den Tschibuk aus. Er bekam Oberwasser. Das alte, vertrauliche
                ›Du‹ des Herrn Schnabel ehrte ihn. Er steckte die Photographie ein. »Jawohl! Und
                wieviel Draufgeld zahlst du mir?«</p>
@@ -1267,17 +1272,17 @@
                schwitzte Flametti und streckte Herrn Schnabel die Hand zu über den Tisch. »Anna, 'ne
                Halbe!«</p>
             <p>
-               <pb/> Jenny lag schon zu Bett, als Flametti von diesem an Aufregungen reichen Tage
-               nach Hause kam.</p>
+               <pb facs="#"/> Jenny lag schon zu Bett, als Flametti von diesem an Aufregungen
+               reichen Tage nach Hause kam.</p>
             <p>»Na, Max, was ist? Was hast du erreicht?« Sie war sehr besorgt.</p>
             <p>»Engagement im ›Krokodil‹. Fünfzehnten fangen wir an.«</p>
             <p>Jenny setzte sich im Bett auf und strich sich das Haar aus der Stirn. »Aber was
                spielen wir denn?«</p>
             <p>»Morgen geh' ich zum Rotter.«</p>
-            <pb/>
+            <pb facs="#"/>
          </div>
          <div type="chapter">
-            <p>III</p>
+            <head>III</head>
 
             <l>Seltsame Dinge begaben sich im Hause Flamettis. Ein Brief kam an von Mechmed. Darin
                stand:</l>
@@ -1313,8 +1318,8 @@
                ich beurlaubt. Nichts ist's mit dem Jodeln. Ich blase die Trompete, trotz meiner
                Zahnlücke ...‹</p>
             <p>
-               <pb/> »Er blost, er blost«, schrie Frau Häsli und versuchte, den durch die Zahnlücke
-               blasenden Gatten mit schief gezogener Schnauze zu vergegenwärtigen.</p>
+               <pb facs="#"/> »Er blost, er blost«, schrie Frau Häsli und versuchte, den durch die
+               Zahnlücke blasenden Gatten mit schief gezogener Schnauze zu vergegenwärtigen.</p>
             <p>»Ich blase die Trompete und der Hauptmann ist sehr zufrieden mit mir. Strenger
                Dienst, und ich denke Dein in Liebe. Bleibt mir treu ...«</p>
             <p>»Toni, bleib' ihm treu!« schwadronierte die Alte.</p>
@@ -1339,9 +1344,9 @@
             <p>Indem uns Deine Karte sehr gefreut hat, hätt'st auch einen Brief schreiben können.
                Damit man weiß, was ihr bringt en détail. Ich bin bereit, Dich zu akzeptieren für die
                fragliche Zeit und wenn ihr gefällt, dann noch länger. Die Alte kommt zu euch
-               hinübergerutscht für einen Tag, weil sie noch andere <pb/> Affären hat, und dann
-               könnt ihr einig werden. Die Alte läßt grüßen. Grüß auch Jenny und bringt was rechtes
-               mit.</p>
+               hinübergerutscht für einen Tag, weil sie noch andere <pb facs="#"/> Affären hat, und
+               dann könnt ihr einig werden. Die Alte läßt grüßen. Grüß auch Jenny und bringt was
+               rechtes mit.</p>
             <p>Sacré nom du dieu!</p>
 
             <!--milestone hi_start-->
@@ -1372,8 +1377,8 @@
                Aufnähen der Felle auf den roten Biber Kostüme zu fertigen von wilder, unerhörter
                Farbenpracht.</p>
             <p>Und Herr Voegeli revanchierte sich für den liebenswürdigen Empfang so brillant, daß
-               Jennymama in der Lage war, <pb/> sich einen totschicken Abendmantel zu kaufen, den
-               sie zu tragen gedachte zur Premiere.</p>
+               Jennymama in der Lage war, <pb facs="#"/> sich einen totschicken Abendmantel zu
+               kaufen, den sie zu tragen gedachte zur Premiere.</p>
             <p>Und siehe da: zwei junge Damen kamen, aus Bern, zu Fuß, eine schöner als die andre.
                Das waren Fräulein Güssy und Fräulein Traute.</p>
             <p>Fräulein Güssy lang, überlang, so was Langes haben Sie noch nicht gesehen. Vorne
@@ -1400,7 +1405,8 @@
             <p>Und Flametti sagte: »Jaja, Frau Scheideisen!« So hieß Donna Maria Josefa mit ihrem
                Privatnamen.</p>
             <p>
-               <pb/> Und Jenny schob ihr in einem fort Zwieback hin und sagte zu den Töchtern:</p>
+               <pb facs="#"/> Und Jenny schob ihr in einem fort Zwieback hin und sagte zu den
+               Töchtern:</p>
             <p>»Greif zu, Raffaëla! Greif' zu, Lydia!« wie zu alten Bekannten.</p>
             <p>Und Donna Maria Josefa trommelte mit den Fingern, als säße sie bei einer
                Eröffnungs-Gala-Festvor stellung an der Kasse. Und lächelte gemessen, wenn man
@@ -1425,9 +1431,9 @@
             <p>»Jenny, Rosa, Güssy, Traute!« rief er, und die kamen von rechts und links, im
                Unterrock, mit offenen Haaren, mit Lockenschere, Schuhknöpfer und Seifenhänden
                ...</p>
-            <p>»Da ist mein Ensemble«, rief er, und zerrte die Damen <pb/> mit langen Armen zu sich
-               heran, »man arbeitet doch! Man rackert sich ab! Man studiert, simuliert! Man zahlt
-               seine Steuern, man tut sein Möglichstes ...«</p>
+            <p>»Da ist mein Ensemble«, rief er, und zerrte die Damen <pb facs="#"/> mit langen Armen
+               zu sich heran, »man arbeitet doch! Man rackert sich ab! Man studiert, simuliert! Man
+               zahlt seine Steuern, man tut sein Möglichstes ...«</p>
             <p>Aber die Beamten blieben trotz allem skeptisch. Und es ist nicht einmal
                unwahrscheinlich, daß der Anblick so unterschiedlicher Frauenspersonen, in
                Halbtoilette um einen einzigen Mann gruppiert, ihr Mißtrauen noch bestärkte. Sie
@@ -1453,9 +1459,9 @@
                bevor. Wichtige Dinge. Geheimnis tut not, wo Schicksale schweben. Störung ist
                fernzuhalten.</p>
             <p>Noch kannte Flametti von dem neuen Ensemble, das Herr Rotter ihm zugesagt und
-               bestimmtest versprochen hatte, nicht <pb/> viel mehr, als daß die Musik in C-Dur
-               ging; daß es voraussichtlich ›Die Delawaren‹ hieß, und daß er selbst, Flametti, den
-               Häuptling Feuerschein vorstellen würde, mit Lanze, Pfeilen und Tomahawk.</p>
+               bestimmtest versprochen hatte, nicht <pb facs="#"/> viel mehr, als daß die Musik in
+               C-Dur ging; daß es voraussichtlich ›Die Delawaren‹ hieß, und daß er selbst, Flametti,
+               den Häuptling Feuerschein vorstellen würde, mit Lanze, Pfeilen und Tomahawk.</p>
             <p>Aber gerade die letztere Aussicht, die Rolle des Häuptlings Feuerschein, die Flametti
                bevorstand in den Prachtworten, die Herr Rotter sicherlich für ihn finden würde; im
                exotischen Aufputz voller Glut, Farbenpracht und Majestät; – Adlerfedern über den
@@ -1480,9 +1486,10 @@
             <p>Er ließ, im Geist, seine Freunde Revue passieren und beschloß, zu lieben und hassen
                nur noch tödlich. Früher hatte er mit sich reden lassen.</p>
             <p>
-               <pb/> Er beschloß, alle minderen Qualitäten aus seiner Gepflogenheit auszumerzen.
-               Beschloß, seine Gastfreundschaft auszudehnen und selbstverständlicher zu gestalten.
-               Beschloß, mehr zu sitzen, zu liegen. Weniger Aufregung, mehr Schwere und Weihe.</p>
+               <pb facs="#"/> Er beschloß, alle minderen Qualitäten aus seiner Gepflogenheit
+               auszumerzen. Beschloß, seine Gastfreundschaft auszudehnen und selbstverständlicher zu
+               gestalten. Beschloß, mehr zu sitzen, zu liegen. Weniger Aufregung, mehr Schwere und
+               Weihe.</p>
             <p>Seine Leidenschaft für Narkotika und für Alkohol solle befestigt werden. Opium: sehr
                gut. Feuerfressen: sehr gut. Das paßte. Und er beschloß, die Feuernummer von nun an
                wieder öfter und mit mehr Finsternis in der Geste zum Vortrag zu bringen.</p>
@@ -1511,9 +1518,9 @@
                gerollt vor strahlender Lust, und sagte zu Jenny, die neben ihm lag: »Die sollen mich
                kennenlernen!«</p>
             <p>
-               <pb/> Neueinstudierungen wurden angeordnet unter Jennys Leitung, weil Max anderweitig
-               beschäftigt war. Alte Kostüme wurden, unter Beteiligung der Lehrkräfte, repariert und
-               aufgebügelt. Die neuen Kostüme probiert.</p>
+               <pb facs="#"/> Neueinstudierungen wurden angeordnet unter Jennys Leitung, weil Max
+               anderweitig beschäftigt war. Alte Kostüme wurden, unter Beteiligung der Lehrkräfte,
+               repariert und aufgebügelt. Die neuen Kostüme probiert.</p>
             <p>Und auch die Damen Jenny und Laura bekamen jetzt Lanzen, aus Besenstielen, rundum
                bemalt, gelb, grün und blau. Oben eine Spitze aus Goldblech.</p>
             <p>Und damit auch das übrige Ensemble nicht müßig ging, hatten Engel und Bobby
@@ -1542,8 +1549,8 @@
                über und über, mit Ohrringen, Funkelaugen und einer Kette aus Bärenzähnen.</p>
             <p>Darunter aber stand: ›Alleiniges Aufführungsrecht: Flamettis Varieté-Ensemble.‹</p>
             <p>Hinging Max zu Herrn Fournier, dem Vorstand der Eisenbahner-Kapelle, und fragte ihn,
-               ob er bereit sei, mit fünfzig <pb/> Mann Blasorchester zur Stelle zu sein. Und welche
-               Konditionen.</p>
+               ob er bereit sei, mit fünfzig <pb facs="#"/> Mann Blasorchester zur Stelle zu sein.
+               Und welche Konditionen.</p>
             <p>Vorsprach Flametti beim Beizer und legte ihm den Gedanken nahe, um Freinacht und Tanz
                einzugeben bei der Polizei, was Herr Schnabel zwar überrascht, aber bereitwillig
                versprach. Er hatte ja keine Ahnung.</p>
@@ -1568,8 +1575,8 @@
                seines Lohnes wert.«</p>
             <p>»Ah was, Bagatelle!« sagte Herr Rotter und steckte den Schein nachlässig in die
                Rocktasche.</p>
-            <p>Flametti hatte sofort das Gefühl: »der ist das Einheimsen gewohnt!« <pb/> und
-               erinnerte sich jener erstaunlichen Fertigkeit, mit der Herr Rotter im
+            <p>Flametti hatte sofort das Gefühl: »der ist das Einheimsen gewohnt!« <pb facs="#"/>
+               und erinnerte sich jener erstaunlichen Fertigkeit, mit der Herr Rotter im
                Germania-Cabaret die Pausen füllte durch Selbstverkauf seiner ›Gesammelten
                Werke‹.</p>
             <p>Flametti nahm das Ensemble jetzt an sich mit beiden Händen und begann zu lesen.</p>
@@ -1600,8 +1607,8 @@
                sprechen. Mir tut's weh. Mich freut's halt. Akkurat weil du mir die ›Indianer‹
                gemacht hast. Siehst du, ich hätte dir auch einen Hunderter gegeben, wenn du's
                verlangt hätt'st.«</p>
-            <p>Rotter kraulte sich mit dem Taschentuchzipfel im Nasenloch <pb/> und sah über den
-               Kneifer weg Flametti an, als traue er seinen Ohren nicht.</p>
+            <p>Rotter kraulte sich mit dem Taschentuchzipfel im Nasenloch <pb facs="#"/> und sah
+               über den Kneifer weg Flametti an, als traue er seinen Ohren nicht.</p>
             <p>»Wirst mal sehen«, meinte der, »wenn die Beleuchtung dazu kommt, Musik, Reklame, der
                ganze Klimbim!« Und er versuchte, durch gleichzeitige Anspannung aller
                Gesichtsmuskeln, Wackeln der Ohren, vorgeschobenen Unterkiefer, Hochziehen der
@@ -1630,8 +1637,9 @@
             <p>Probierte mit den Mädels, teilte Ohrfeigen aus, rannte Köpfe an die Wand; schrie,
                brüllte und fluchte.</p>
             <p>
-               <pb/> Konnte gar nicht Worte genug finden, sein Erstaunen über die Borniertheit
-               dieser Weiber, Jenny und die Soubrette mit eingeschlossen, kundzugeben.</p>
+               <pb facs="#"/> Konnte gar nicht Worte genug finden, sein Erstaunen über die
+               Borniertheit dieser Weiber, Jenny und die Soubrette mit eingeschlossen,
+               kundzugeben.</p>
             <p>Es ging denn auch rapid vorwärts. Nach drei Tagen saß schon der Text. Nach weiteren
                drei Tagen saßen auch die Bewegungen, Auf- und Umzug des Ensembles auf der Bühne.</p>
             <p>Was hatten die armen Weiber alles für Vorstufen durchzumachen, bis sie wirkliche,
@@ -1654,11 +1662,11 @@
             <p>Unten in der Musik muß es donnern und blitzen: Brwrr, brwrrrr, worgeln und
                tremolieren. Dann muß die rechte Hand höherlaufen. Feuerschein kommt von links, späht
                durch das Kulissenfenster der Bauernstube, drohend, erschrecklich, in hohem,
-               dämonischem Federnschmuck, mit der Lanze. Kommt dann <pb/> heraus auf die Bühne,
-               vorsichtig, schleichend, verfolgt, den Kopf spähend vorgestreckt, die Halsmuskeln
-               gespannt, den Tomahawk mordbereit. Verschwindet unter Donner und Blitz der Musik in
-               der Kulisse rechts. Es beginnt das eigentliche Ensemble. C-Dur. Andante. Mächtig und
-               breit: Auf dem Kriegspfad:</p>
+               dämonischem Federnschmuck, mit der Lanze. Kommt dann <pb facs="#"/> heraus auf die
+               Bühne, vorsichtig, schleichend, verfolgt, den Kopf spähend vorgestreckt, die
+               Halsmuskeln gespannt, den Tomahawk mordbereit. Verschwindet unter Donner und Blitz
+               der Musik in der Kulisse rechts. Es beginnt das eigentliche Ensemble. C-Dur. Andante.
+               Mächtig und breit: Auf dem Kriegspfad:</p>
 
 
             <l>›Die Letzten von dem Stamm der Delawaren,</l>
@@ -1705,15 +1713,15 @@
             <p>Das ideal in der Mitte gelegene ›Hauptgemach‹ erregte zwar den heftigen und
                unverhohlenen Widerspruch der Lieblings- und Hauptfrau, aber Flametti ließ sich nicht
                beirren, und bald hatte er es denn auch dahin gebracht, den Begriff seiner männlichen
-               Würde und Überlegenheit von den Kebsweibern akzeptiert <pb/> zu sehen. Und es war ein
-               zwar ungewöhnlicher, aber in seiner Totalität strammer Anblick für Mutter Dudlinger,
-               eines Tags den Häuptling in vollem Kriegsschmuck zu finden beim Anprobieren der
-               fertigen Fransenhosen, um ihn herum die Haupt- und die Nebenfrauen, hockend mit
-               Herstellung kleiner roter Lämpchen beschäftigt, die dazu bestimmt waren, von den
-               Delawaren auf dem Kriegspfad an langen Schnüren als Beleuchtungskörper geschwungen zu
-               werden. Herr Schnabel, der Wirt, hatte sich nämlich das bengalische Pulver verbeten,
-               des unbändigen Gestanks wegen, den die beiden Feuerwerker schon auf der Probe damit
-               hervorgebracht hatten.</p>
+               Würde und Überlegenheit von den Kebsweibern akzeptiert <pb facs="#"/> zu sehen. Und
+               es war ein zwar ungewöhnlicher, aber in seiner Totalität strammer Anblick für Mutter
+               Dudlinger, eines Tags den Häuptling in vollem Kriegsschmuck zu finden beim
+               Anprobieren der fertigen Fransenhosen, um ihn herum die Haupt- und die Nebenfrauen,
+               hockend mit Herstellung kleiner roter Lämpchen beschäftigt, die dazu bestimmt waren,
+               von den Delawaren auf dem Kriegspfad an langen Schnüren als Beleuchtungskörper
+               geschwungen zu werden. Herr Schnabel, der Wirt, hatte sich nämlich das bengalische
+               Pulver verbeten, des unbändigen Gestanks wegen, den die beiden Feuerwerker schon auf
+               der Probe damit hervorgebracht hatten.</p>
             <p>Solcherlei Zurüstungen konnten der Konkurrenz nicht verborgen bleiben.</p>
             <p>Der Neid war grenzenlos. Die Versuche, Flametti das Wasser abzugraben, gingen ins
                Lächerliche.</p>
@@ -1732,8 +1740,8 @@
                ›Lullu Cruck, König aller Bauchredner! Man lacht, lacht, lacht!‹</p>
             <p>»Krampf!« lachte Flametti, »Macht er ja selbst.«</p>
             <p>Flamettis Selbstgefühl erreichte den Gipfel. Und als eines Tages die Zusage des Herrn
-               Fournier eintraf wegen der fünfzig <pb/> Mann Blechmusik; als Herr Schnabel die
-               Erlaubnis vorzeigte für Freinacht und Tanz; als endlich die Hauptprobe angesetzt
+               Fournier eintraf wegen der fünfzig <pb facs="#"/> Mann Blechmusik; als Herr Schnabel
+               die Erlaubnis vorzeigte für Freinacht und Tanz; als endlich die Hauptprobe angesetzt
                werden konnte, da fand er sogar den Mut, dem Rotter die Spitze zu bieten. Und das war
                gut, denn um ein Haar wäre durch Rotters provozierendes Benehmen noch auf der
                Hauptprobe alles gescheitert.</p>
@@ -1758,8 +1766,8 @@
                Wackeln gerieten. Hochrot wurde er im Gesicht wie ein Puter. Und er schrie mit
                drosselnd erhobenen Händen im Dialekt seiner Heimat über die Rampe hinunter:</p>
             <p>
-               <pb/> »Wellet Se sich nit einen Augenblick auf Ihre vier Buchstaben setzen, Herr
-               Dichter? Nur einen Augenblick, wenn es gefällig ist! Sie seh'n doch, daß hier
+               <pb facs="#"/> »Wellet Se sich nit einen Augenblick auf Ihre vier Buchstaben setzen,
+               Herr Dichter? Nur einen Augenblick, wenn es gefällig ist! Sie seh'n doch, daß hier
                gearbeitet wird.«</p>
             <p>Der Rotter war ganz überrascht. Das war ja eine unglaubliche Frechheit von diesem
                Flametti! Was fiel dem eigentlich ein! Das war doch die Höhe!</p>
@@ -1785,15 +1793,15 @@
                Ich habe genug von Ihnen.«</p>
             <p>Und da Herr Rotter als Antwort hierfür nur ein spöttisches Grinsen hatte, die
                Stirnhaut hochzog, die Ohren bewegte und den Blöden spielte, packte Flametti den
-               Patron am Ärmel und spedierte ihn höchst persönlich durch das Lokal zum Büfett, <pb/>
-               wo Herr Schnabel automatisch und ohne zu fragen sich seiner annahm und ihn im
-               Hinblick auf seine moralische Zweideutigkeit vor die Türe setzte.</p>
+               Patron am Ärmel und spedierte ihn höchst persönlich durch das Lokal zum Büfett, <pb
+                  facs="#"/> wo Herr Schnabel automatisch und ohne zu fragen sich seiner annahm und
+               ihn im Hinblick auf seine moralische Zweideutigkeit vor die Türe setzte.</p>
             <p>Nachdem der Dichter entfernt war, ging alles glatt. Von vorne, von vorne, und nochmal
                von vorne, bis daß es saß.</p>
-            <pb/>
+            <pb facs="#"/>
          </div>
          <div type="chapter">
-            <p>IV</p>
+            <head>IV</head>
             <p>Am siebzehnten fand die Premiere statt. Schon am frühen Morgen herrschte im Hause
                Flametti beträchtliche Aufregung. Es war noch nicht sieben Uhr früh, als sich die
                Frauen aus dem Favoritinnengemach schon stritten um das Vorrecht, für diesen Ehrentag
@@ -1816,9 +1824,9 @@
                begegneten sich Traute und Rosa. Die eine mit den Stiefeln, die andere mit Bürste und
                Crème. Güssy knöpfte sich gerade die Spangenschuhe zu.</p>
             <p>
-               <pb/> »Gib die Stiefel her!« rief Rosa, »sie gehen dich nichts an! Ich bin länger im
-               Hause als ihr!« Sie wollte sich gerade heute ein Vorrecht nicht nehmen lassen, auf
-               das sie früher gerne verzichtete.</p>
+               <pb facs="#"/> »Gib die Stiefel her!« rief Rosa, »sie gehen dich nichts an! Ich bin
+               länger im Hause als ihr!« Sie wollte sich gerade heute ein Vorrecht nicht nehmen
+               lassen, auf das sie früher gerne verzichtete.</p>
             <p>Aber Traute dachte nicht dran, die Stiefel aus der Hand zu geben.</p>
             <p>»Hast du sie gestern gewichst? Hast du sie vorgestern gewichst? Verstehst du
                überhaupt was davon? Fütter' deine Tauben!«</p>
@@ -1843,11 +1851,11 @@
                Musternd sah sie sich im Eßzimmer um. Hier also wohnte Flametti! »Er schläft noch«,
                entschuldigte Rosa und kam, die Druckknöpfe schließend, wieder zum Vorschein. Dann
                vorstellend: »Das ist Fräulein Güssy. Das ist Fräulein Traute!« Die rieb sich mit dem
-               Handtuchzipfel die Schuhcrème aus dem Gesicht. »Noch <pb/> ein bißchen früh. Er steht
-               immer erst auf gegen elf. Heute steht er wohl früher auf, weil wir heut' abend die
-               ›Indianer‹ haben. Aber ich darf ihn nicht wecken.« »Gut, gut!« sagte Frau Schnepfe
-               und stand auf, den Schirm in der Hand. »Ich komme später vorbei. Grüßen Sie ihn! Die
-               Frau Schnepfe war da.«</p>
+               Handtuchzipfel die Schuhcrème aus dem Gesicht. »Noch <pb facs="#"/> ein bißchen früh.
+               Er steht immer erst auf gegen elf. Heute steht er wohl früher auf, weil wir heut'
+               abend die ›Indianer‹ haben. Aber ich darf ihn nicht wecken.« »Gut, gut!« sagte Frau
+               Schnepfe und stand auf, den Schirm in der Hand. »Ich komme später vorbei. Grüßen Sie
+               ihn! Die Frau Schnepfe war da.«</p>
             <p>»Es ist recht«, verbeugte sich Rosa graziös, ihres stellvertretenden Amtes bewußt.
                »Ich werd' es bestellen. Adieu, Frau Schnepfe!«</p>
             <p>»Adieu!« dehnte Frau Schnepfe und ging, nicht ohne im Vorbeigehen einen Blick auch in
@@ -1872,13 +1880,13 @@
                verstand! Das ist doch nur für die Reklame!</p>
             <p>Er hat ein Geschäft, der Flametti. Das ist das Indianerspielen. Das macht ihm Spaß.
                Und wenn er ein Plakat machen läßt, ist's schade, daß es nur ein Brustbild ist; daß
-               nicht auch die Beine drauf sind mit den Fransenhosen, und die Stiefel. Und <pb/> man
-               muß froh sein, wenn man ihm die Stiefel putzen darf, damit er sich freut. Und wenn er
-               manchmal ›verruckt‹ wird und toll zuschlägt, dann ist das auch nicht so schlimm!
-               Weiber brauchen das, sonst werden sie frech. Man sieht's ja. Und wenn er einen
-               anfaßt, dann ist's, als ob einem Hören und Sehen vergeht und man möchte am liebsten
-               zurückschlagen, weil er sich gar nicht geniert und sich nichts draus macht. Das ist
-               schon ein Aas, dieser Flametti.</p>
+               nicht auch die Beine drauf sind mit den Fransenhosen, und die Stiefel. Und <pb
+                  facs="#"/> man muß froh sein, wenn man ihm die Stiefel putzen darf, damit er sich
+               freut. Und wenn er manchmal ›verruckt‹ wird und toll zuschlägt, dann ist das auch
+               nicht so schlimm! Weiber brauchen das, sonst werden sie frech. Man sieht's ja. Und
+               wenn er einen anfaßt, dann ist's, als ob einem Hören und Sehen vergeht und man möchte
+               am liebsten zurückschlagen, weil er sich gar nicht geniert und sich nichts draus
+               macht. Das ist schon ein Aas, dieser Flametti.</p>
             <p>Und sie sagte es ganz laut, ein wenig schmollend und sehr verliebt: »Das ist schon
                ein Aas, dieser Flametti!«</p>
             <p>Rosa krähte vor Übermut und sah die unglücklich im Fensterwinkel sitzende Traute
@@ -1903,7 +1911,7 @@
             <p>»Ach, der!« maulte Rosa gegen Engel, »was der nicht alles weiß!« Und sie
                intonierte:</p>
 
-            <pb/>
+            <pb facs="#"/>
             <p>›Schackerl, Schackerl, trau di net!‹,</p>
 
             <p>was sie auf der Probe gehört hatte, und kopierte dabei Frau Häslis neckische
@@ -1937,10 +1945,10 @@
             <p>»Was ist das?« setzte sich nun auch Jenny auf, indem sie das Hemd über der schönen
                vollen Brust zusammenzog.</p>
             <p>
-               <pb/> »Na, du weißt doch, Jenny«, erklärte Engel, »sie katzen sich doch immer. Und
-               nun ist mir der Häsli schon früh um sieben, wie ich von der Annie kam, auf der Straße
-               begegnet, ganz zerkratzt um die Schnörre herum, und hat mir gesagt, daß er nicht
-               singen will wegen dem ›trau mi net‹. Und er will nicht das Kalb machen.«</p>
+               <pb facs="#"/> »Na, du weißt doch, Jenny«, erklärte Engel, »sie katzen sich doch
+               immer. Und nun ist mir der Häsli schon früh um sieben, wie ich von der Annie kam, auf
+               der Straße begegnet, ganz zerkratzt um die Schnörre herum, und hat mir gesagt, daß er
+               nicht singen will wegen dem ›trau mi net‹. Und er will nicht das Kalb machen.«</p>
             <p>»Gut!« sagte Flametti, »häng' die Plakate aus! Er wird schon singen. Ich werde schon
                sorgen dafür, daß er singt!«</p>
             <p>Und Jenny rief: »Max, geh' rüber zu ihnen! Setz' sie vor die Tür! Hol' dir Ersatz!
@@ -1966,7 +1974,8 @@
             <p>»Ich. Warum?«</p>
             <p>»Weil du auch meine zu putzen hast, wenn sie dabeistehen.«</p>
             <p>
-               <pb/> Und Jenny nahm die Knöpfelschuhe und warf sie der Güssy vor die Füße.</p>
+               <pb facs="#"/> Und Jenny nahm die Knöpfelschuhe und warf sie der Güssy vor die
+               Füße.</p>
             <p>»Na!« maulte Güssy, »ich bin doch keine Dienstmagd hier im Hause! Soll doch die Rosa
                die Stiefel putzen! Ich bin hier als Sängerin engagiert!«</p>
             <p>»Was bist du?« rief Jenny erbost, »Sängerin? Was sagst du? Einsperren werd' ich euch!
@@ -1995,7 +2004,7 @@
                damit in die Küche!«</p>
             <p>Traute hielt fest.</p>
             <p>
-               <pb/> »Gibst du die Teekanne her, du Mensch?« schrie Jenny.</p>
+               <pb facs="#"/> »Gibst du die Teekanne her, du Mensch?« schrie Jenny.</p>
             <p>Sie zerrten sich hin und her, bis die Hand der kräftigeren Jenny mit der Teekanne
                hoch in die Luft fuhr, daß das Wasser spritzte.</p>
             <p>»Ich will dir Locken geben! Du gehst mir nicht aus dem Haus heut, und kommst mir
@@ -2021,8 +2030,8 @@
             <p>»Theres!« jammerte sie, »diese Schlampen haben mir das ganze Handtuch
                eingeschmiert!«</p>
             <p>Jetzt kam auch Fräulein Theres herein. »Mein Gott«, verwunderte sie sich, »was ist
-               denn jetzt das? Aber nein, das <pb/> ist doch zuviel!« und ihr Gesicht wurde lang wie
-               ein Laib Brot.</p>
+               denn jetzt das? Aber nein, das <pb facs="#"/> ist doch zuviel!« und ihr Gesicht wurde
+               lang wie ein Laib Brot.</p>
             <p>»Theres, die bringen mich ganz herunter! Die ärgern mir die Schwindsucht an den
                Hals!«</p>
             <p>»Rosa, jetzt sag mal du«, wandte Jenny sich an die auf das Jammergeschrei hin
@@ -2051,7 +2060,7 @@
                ihn wieder holen .....«</p>
             <p>»Dida holen«, echote die kleine Lotte.</p>
             <p>
-               <pb/> »Dieder holen«, wiederholte Raffaëla phlegmatisch.</p>
+               <pb facs="#"/> »Dieder holen«, wiederholte Raffaëla phlegmatisch.</p>
             <p>»Ach, Raffaëla!« klagte Jenny, »ich bin ganz unglücklich! Gut, daß du kommst. Setz'
                dich, trink' 'ne Tasse Kaffee«!</p>
             <p>»Tasse Taffee!« wiederholte Lotte.</p>
@@ -2078,11 +2087,11 @@
                dir das gefallen?«</p>
             <p>»Was soll ich denn tun? Er kommt mir ja nicht mehr nach Haus! Er läßt sich ja nicht
                mehr blicken! Er verspielt ja das ganze Geld! Sechshundert Franken hatten wir auf der
-               Kasse. Alles ist fort. Auto fährt er mit ihnen. Ins Kino führt er sie. <pb/> Er ist
-               der Häuptling Feuerschein und sie sind seine Trullen. – Mit der Soubrette hat er auch
-               was. Vor zwei Stunden ist er weggegangen. Heut nachmittag kommt er zurück. Und hier
-               geht alles drunter und drüber. Der Engel hat die Plakate noch nicht abgeholt und
-               jetzt ist es zehn. Die Häsli wollen nicht singen heut abend und wir haben doch
+               Kasse. Alles ist fort. Auto fährt er mit ihnen. Ins Kino führt er sie. <pb facs="#"/>
+               Er ist der Häuptling Feuerschein und sie sind seine Trullen. – Mit der Soubrette hat
+               er auch was. Vor zwei Stunden ist er weggegangen. Heut nachmittag kommt er zurück.
+               Und hier geht alles drunter und drüber. Der Engel hat die Plakate noch nicht abgeholt
+               und jetzt ist es zehn. Die Häsli wollen nicht singen heut abend und wir haben doch
                niemanden. Kein Geld läßt er mir für die Haushaltung und mutet den Leuten zu,
                sechsmal Fisch zu essen in der Woche. Natürlich laufen sie weg .....«</p>
             <p>Raffaëla schüttelte den Kopf ob solcher Unglaublichkeiten:</p>
@@ -2107,9 +2116,10 @@
                miteinander. Ich bin nicht eifersüchtig. Ich hab' ihn genommen, weil er ein solcher
                Bauer war. Weil er mir meine Pakete trug.«</p>
             <p>
-               <pb/> »Raffaëla«, sagte sie in plötzlichem Einfall, »du mußt mir helfen. Wir stecken
-               ihn ins Irrenhaus. Dann machen wir zusammen ein Ensemble. Ich hab' die Kostüme. Du
-               und Lydia, ihr tanzt. Leporello (das war Lydias Partner) wird Direktor.«</p>
+               <pb facs="#"/> »Raffaëla«, sagte sie in plötzlichem Einfall, »du mußt mir helfen. Wir
+               stecken ihn ins Irrenhaus. Dann machen wir zusammen ein Ensemble. Ich hab' die
+               Kostüme. Du und Lydia, ihr tanzt. Leporello (das war Lydias Partner) wird
+               Direktor.«</p>
             <p>»Je, Jenny!« meinte Raffaëla, »du phantasierst ja! Beruhig' dich doch!« Und aß
                weiter, als müsse sie selbst sich beruhigen.</p>
             <p>Schritte auf der Treppe ließen sich vernehmen. Flametti kam zurück.</p>
@@ -2134,8 +2144,8 @@
             <p>Zu Mittag kamen auch Herr und Frau Häsli; beide ein wenig zerkratzt und zerbeult,
                aber beide voll Liebe und Güte.</p>
             <p>
-               <pb/> Und daran war nicht zu denken, daß sie das ›Schackerl‹ nicht singen wollten. Im
-               Gegenteil.</p>
+               <pb facs="#"/> Und daran war nicht zu denken, daß sie das ›Schackerl‹ nicht singen
+               wollten. Im Gegenteil.</p>
 
             <p>Und die Fuchsweide dämmerte. Bucklig und winkelig sank sie mit ihrem Halbhundert
                Gassen verschmutzt und im Rauch ihrer Herdfeuer grau in den Abend. Die Giebel
@@ -2160,11 +2170,12 @@
                Zylinderhut. Drei schäbig gekleidete Herren mit Jockeymützen, wollenen Schal um den
                Hals, gaben, beim Gehen leicht ihre Schultern drehend, einer pompaduresk hoch
                aufgeprotzten Dame unerbetenes Geleit.</p>
-            <p>Und höllenhaft, magisch, radauend und zeternd: die Lichtreklame <pb/> des ›Krokodil‹
-               entfaltete ihre chinesisch untereinander geordnete Buchstabenreihe, die vom Dach bis
-               zum Boden reichte. Der ganze ›Mönchsplatz‹ war rot überstrahlt. Die benachbarten
-               Häuserfronten schienen von rotem Licht halb aufgefressen. Die Bummler, Passanten und
-               zeitungslesenden Gruppen der Arbeiter taumelten in einer Flut von Licht.</p>
+            <p>Und höllenhaft, magisch, radauend und zeternd: die Lichtreklame <pb facs="#"/> des
+               ›Krokodil‹ entfaltete ihre chinesisch untereinander geordnete Buchstabenreihe, die
+               vom Dach bis zum Boden reichte. Der ganze ›Mönchsplatz‹ war rot überstrahlt. Die
+               benachbarten Häuserfronten schienen von rotem Licht halb aufgefressen. Die Bummler,
+               Passanten und zeitungslesenden Gruppen der Arbeiter taumelten in einer Flut von
+               Licht.</p>
             <p>Im Nebengebäude negerten los: die Pauke und das Tschinell. Über der Straße drüben
                rupften zwei rivalisierende Damen einander die Federn aus.</p>
             <p>›Ich nehme meinen Zauberstab zum zweitenmal in die Hand!‹ schrie es aus der
@@ -2201,7 +2212,7 @@
             <p>Unschlüssig schwankte das Publikum zwischen ›Große Trommel‹, ›Infernalische
                Leidenschaft‹, ›Kaiser Wilhelm‹ und ›Pariser Eleganz‹.</p>
             <p>Hier war was geboten! Hier kam man auf seine Rechnung! Und was ein richtiger Dandy
-               war, der von der Welt etwas <pb/> verstand, entschloß sich überhaupt nicht,
+               war, der von der Welt etwas <pb facs="#"/> verstand, entschloß sich überhaupt nicht,
                hineinzugehen, sondern die Sache mehr platonisch zu genießen, als Schauspiel
                gewissermaßen, von außen, als Zusammenklang, mit der überlegenen Intelligenz dessen,
                den die Realität nur als Widerspruch nicht mehr enttäuschen kann.</p>
@@ -2230,9 +2241,9 @@
                Naumann, kurzweg der ›Krematoriumfritze‹ genannt, einer von Jennys scharfen
                Verehrern.</p>
             <p>
-               <pb/> Es kamen, sahen und strömten: Fräulein Annie nebst Herrn Engel, welch letzterer
-               seinen schwarzen Gehrock angezogen hatte: »Annie!« sagteer, »es wird großartig!
-               Verlaß dich drauf!«</p>
+               <pb facs="#"/> Es kamen, sahen und strömten: Fräulein Annie nebst Herrn Engel, welch
+               letzterer seinen schwarzen Gehrock angezogen hatte: »Annie!« sagteer, »es wird
+               großartig! Verlaß dich drauf!«</p>
             <p>Es kamen und strömten: Raffaëla und ihre Schwester Lydia, sowie deren
                gemeinschaftliche Mutter Donna Maria Josefa, nebst einer ganzen Anzahl männlicher
                Zirkusmitglieder, die alle nicht zahlten, weil sie Artisten waren.</p>
@@ -2256,10 +2267,11 @@
                gesetzt. Das gab ihr viel Air. Ihre Beine, elastische Sägmehlbeine, baumelten unter
                den Tisch, und sie spielte mit einer der Hängrosenranken. Eine Zigarette rauchte sie.
                Ihr Verhältnis war Eisenbahner; heute hatte er Nachtdienst. Brillanten blitzten an
-               ihren Fingern. Die spitzigen Halbschuhe aus <pb/> feinstem Rindsleder reichten nicht
-               ganz auf den Boden. Auch schien das Strumpfband gerissen: die braunen Wollstrümpfe
-               knäulten sich unter den Waden. Das Hündchen aber auf seiner exponierten Stelle drehte
-               den knappen Popo und konnte sich gar nicht genugtun vor Freude, dabeizusein.</p>
+               ihren Fingern. Die spitzigen Halbschuhe aus <pb facs="#"/> feinstem Rindsleder
+               reichten nicht ganz auf den Boden. Auch schien das Strumpfband gerissen: die braunen
+               Wollstrümpfe knäulten sich unter den Waden. Das Hündchen aber auf seiner exponierten
+               Stelle drehte den knappen Popo und konnte sich gar nicht genugtun vor Freude,
+               dabeizusein.</p>
             <p>Weiter drüben, auf den besten Mittelplätzen, saßen der runzliche ›Totenkopf‹ und
                seine Schwester. Der ›Totenkopf‹ war die berufenste Dame der Fuchsweide. Allabendlich
                Gast des Flametti-Ensembles. Weiß geschminkt, die Augenhöhlen gerötet, saß ihr
@@ -2281,8 +2293,8 @@
                tauchte er auf, gesellte sich andern Furunkeln zu und konnte schon bald den Eindruck
                erwecken, als sei er ein ganz besondrer Furunkel. Annies fixe Idee war, er möchte von
                heute auf morgen am Hals verschwinden und zwischen den Zähnen auftauchen. Drum zog
-               sie die Oberlippe <pb/> stets hoch und die Unterlippe hing ihr vom Munde weg. Doch
-               jener Furunkel tat das nicht.</p>
+               sie die Oberlippe <pb facs="#"/> stets hoch und die Unterlippe hing ihr vom Munde
+               weg. Doch jener Furunkel tat das nicht.</p>
             <p>Der Herr trat näher und sagte verbindlich:</p>
             <p>»Wenn Sie gestatten, Fräulein!«</p>
             <p>»Oh, bitte!« sagte Annie und nahm zugleich mit dem Stuhl ihre Röcke zusammen, um
@@ -2308,9 +2320,9 @@
                die Noten seiner Begleitmusik und probierte, für alle Fälle, das Pedal. Er war auf
                der ganzen Linie für Pedalisierung. Ein Leben ohne Pedal schien ihm scheußlich und
                abgeschmackt. Flametti, den Herrn Farolyi vom Zirkus Donna Maria Josefa mit
-               vorgestreckter Hand fachmännisch begrüßte, wischte <pb/> sich mit dem Sacktuch über
-               die Stirn. Jenny stellte die Kasse nebst Zubehör auf den Künstlertisch. Und Fräulein
-               Traute, den Kopf wippend voll Locken, setzte sich plumpsend daneben.</p>
+               vorgestreckter Hand fachmännisch begrüßte, wischte <pb facs="#"/> sich mit dem
+               Sacktuch über die Stirn. Jenny stellte die Kasse nebst Zubehör auf den Künstlertisch.
+               Und Fräulein Traute, den Kopf wippend voll Locken, setzte sich plumpsend daneben.</p>
             <p>Herr Häsli hatte eben noch Zeit, seine Krawatte zurechtzuzupfen. Frau Häsli, den
                Brustlatz ihrer Tochter zu arrangieren. Dann begann's.</p>
             <p>»Mtata, mtata, umba, umba, umba, umba!«, und Herr Fournier schlug mit dem Taktstock,
@@ -2334,8 +2346,8 @@
                Musik. Sie war angekommen am Ziel. Das Stück war zu Ende.</p>
             <p>Langsamer Beifall erhob sich. Flametti fuhr sich nervös durchs Haar.</p>
             <p>
-               <pb/> Er schob sein Röllchen zurück, nahm einen Schluck Helles. Dann trat er vor und
-               sprach:</p>
+               <pb facs="#"/> Er schob sein Röllchen zurück, nahm einen Schluck Helles. Dann trat er
+               vor und sprach:</p>
             <p>»Meine Damen und Herrn! Ich heiße Sie herzlich willkommen und danke Ihnen für Ihren
                zahlreichen und glänzenden Besuch. Ich gebe mir die Ehre, Ihnen mitzuteilen« –
                lautlose Stille –, »daß es mir gelungen ist, Ihnen heute abend ein ganz besonders
@@ -2362,14 +2374,14 @@
             <p>Wozu haben wir's denn? Na ja!‹«</p>
             <p>Flametti kam in Stimmung. Er zitierte und gab Probegesten ....</p>
             <p>
-               <pb/> »Ich führe Ihnen endlich hier zum erstenmal ›Die Indianer‹ vor, verfaßt von
-               meinem Freunde St. Rotter, Conférencier und Improvisator am Germania-Cabaret. Meine
-               Damen und Herrn! Keine richtigen, echten, wirklichen Indianer. Keine Sioux, Apachen,
-               Komantschen. Keiner wird mit die Ketten rasseln wie auf dem Jahrmarkt, oder auf der
-               Mess' z' Basel. Sie brauchen keine Angst zu haben. Es schreckt nicht. Es passiert
-               Ihnen nichts. Sondern: Sie sehen die Wirklichkeit. Das aussterbende Volk der Indianer
-               auf dem Kriegspfad. Die Rache und die Verklärung. Den Häuptling mache ich
-               selbst.«</p>
+               <pb facs="#"/> »Ich führe Ihnen endlich hier zum erstenmal ›Die Indianer‹ vor,
+               verfaßt von meinem Freunde St. Rotter, Conférencier und Improvisator am
+               Germania-Cabaret. Meine Damen und Herrn! Keine richtigen, echten, wirklichen
+               Indianer. Keine Sioux, Apachen, Komantschen. Keiner wird mit die Ketten rasseln wie
+               auf dem Jahrmarkt, oder auf der Mess' z' Basel. Sie brauchen keine Angst zu haben. Es
+               schreckt nicht. Es passiert Ihnen nichts. Sondern: Sie sehen die Wirklichkeit. Das
+               aussterbende Volk der Indianer auf dem Kriegspfad. Die Rache und die Verklärung. Den
+               Häuptling mache ich selbst.«</p>
             <p>»Ich selbst«, wiederholte Flametti, indem er in Selbstpersiflage komisch an sich
                hinunterstrich. »Die Musik macht Herr Meyer«, und stellte mit einer seitlichen
                Handbewegung den Pianisten vor.</p>
@@ -2387,8 +2399,8 @@
                Herrn Leporello, den Jenny morgens im Gespräch mit Raffaëla als Direktor bezeichnet
                hatte.</p>
             <p>Mister Bobby, der Exzentrikmann, war inzwischen ebenfalls erschienen, in schillerndem
-               Eidechsenkostüm; einen hellbraunen, <pb/> vom Regen verwaschenen Sommerpaletot über
-               den Schultern, Zigarette rauchend.</p>
+               Eidechsenkostüm; einen hellbraunen, <pb facs="#"/> vom Regen verwaschenen
+               Sommerpaletot über den Schultern, Zigarette rauchend.</p>
             <p>Man diskutierte die zart gesetzte Rede Flamettis und stimmte allseits darin überein,
                daß Flametti in solchen sarkastisch-sachlichen Gängen unübertroffen sei.</p>
             <p>Der Ausfall gegen das Jodlerterzett, bei aller Anerkennung der Häslischen Leistungen,
@@ -2413,9 +2425,9 @@
             <p>Die Mädel rannten hinter die Bühne. Flametti stürzte sein Helles hinunter. Der
                Zwergpintscher auf Fräulein Amaliens Busen kläffte, weil ihn Amalie kitzelte. Die
                Rosenlauben schwankten. Das Publikum rückte gespannt auf den Stühlen. Klingelzeichen.
-               Der Vorhang ging auf, und in einer Reihe standen: <pb/> Jenny, Rosa, die Soubrette,
-               Fräulein Güssy und Fräulein Traute; alle in Tangokostümen. Rot, blau, grün, gelb,
-               violett die Schleifen im Haar. Überflutet von Bühnenlicht. Ein zärtlicher
+               Der Vorhang ging auf, und in einer Reihe standen: <pb facs="#"/> Jenny, Rosa, die
+               Soubrette, Fräulein Güssy und Fräulein Traute; alle in Tangokostümen. Rot, blau,
+               grün, gelb, violett die Schleifen im Haar. Überflutet von Bühnenlicht. Ein zärtlicher
                Anblick.</p>
             <p>Die hochgeschminkten Gesichter strahlten. Die fünf Paar Beine in farbigen
                Seidenstrümpfen standen adrett geschlossen, Kadettenbeine. Die duftigen Hänger in
@@ -2444,8 +2456,8 @@
             <p>An der Kasse aber saß einheimsend Jennymama, Silber- und Kleingeld ordnend,
                Fünffrankenscheine wechselnd, die ankommenden Muschelschalen ihrer kassierenden Damen
                so distinguiert in die Kasse kippend, als fürchte sie, sich die Finger zu netzen.</p>
-            <p>Und als Fräulein Amalie mit dem Pintsch so nebenhin fragte: <pb/> »Gutes Geschäft?«
-               erhielt sie die sehr reservierte Antwort: »O ja!«</p>
+            <p>Und als Fräulein Amalie mit dem Pintsch so nebenhin fragte: <pb facs="#"/> »Gutes
+               Geschäft?« erhielt sie die sehr reservierte Antwort: »O ja!«</p>
             <p>Frau Schnepfe, obgleich es ihrem Geschäftsinteresse zuwiderlief, konnte sich nicht
                versagen, anzuerkennen, wie hübsch der Saal arrangiert, wie interessant das Programm
                und wie tüchtig Herr Fournier sei.</p>
@@ -2474,7 +2486,7 @@
                Verlegenheitsspiel mit Amaliens Seidenpintsch.</p>
             <p>Jenny fiel auf, daß die nicht von der Stelle wich.</p>
             <p>
-               <pb/> »Zieh' dich um!« rief sie, »die ›Nixen‹ kommen!«</p>
+               <pb facs="#"/> »Zieh' dich um!« rief sie, »die ›Nixen‹ kommen!«</p>
             <p>»Ist noch Zeit!« flegelte Traute sich hin, »erst kommt ja noch Engel!«</p>
             <p>Kam auch. Mit seiner Ausbrechernummer.</p>
             <p>»Sie sehen hier eine Kiste ...«, rief Flametti auf der Bühne und klopfte mit einem
@@ -2500,10 +2512,10 @@
             <p>Warum kam sie auch so spät?</p>
             <p>Weil sie zu den Eingeweihten zählte. Weil sie wußte, daß vor halb zehn Uhr nichts von
                Belang gegeben wurde, was sie nicht kannte.</p>
-            <p>»Sie selbst, meine Herren«, betonte Flametti mit ingrimmig <pb/> rollenden Augen und
-               einem vielsagenden Blick auf den ›Frauenverein‹, von dem einmal wieder die Störung
-               kam, »sie selbst, meine Herren, haben Gelegenheit, die Kiste zu prüfen, den Deckel
-               daraufzunageln.«</p>
+            <p>»Sie selbst, meine Herren«, betonte Flametti mit ingrimmig <pb facs="#"/> rollenden
+               Augen und einem vielsagenden Blick auf den ›Frauenverein‹, von dem einmal wieder die
+               Störung kam, »sie selbst, meine Herren, haben Gelegenheit, die Kiste zu prüfen, den
+               Deckel daraufzunageln.«</p>
             <p>Jenny winkte Mutter Dudlinger zu, unterdrückt, aber deutlich:</p>
             <p>»Hierher, Mutter Dudlinger, hier gibt es noch Platz!« und deutete dabei auf einen
                freigewordenen Stuhl in der ersten Laube, die an den Künstlertisch grenzte.</p>
@@ -2526,8 +2538,8 @@
                ohne weiteres und im Handumdreh'n das Gehaben finden, das eine Primadonna bestrickt.
                Deren in Fleischeslust bebende Schwanenbrust hatte er längst bemerkt – so mal
                seitwärts –, und wieviele Fünfliver er in der Tasche hatte, wußte er auch.</p>
-            <p>Und Herr Pips wieder seinerseits, der dies mißverstand, suchte <pb/> Herrn Naumann –
-               Friedrich Naumann hieß der Herr Krematoriumfritze, genau wie der deutsche
+            <p>Und Herr Pips wieder seinerseits, der dies mißverstand, suchte <pb facs="#"/> Herrn
+               Naumann – Friedrich Naumann hieß der Herr Krematoriumfritze, genau wie der deutsche
                Nationalökonom – diskret auf Jennymama hinzulenken, ebenfalls mit Gesten. Doch gelang
                es ihm nicht, ein gegenseitiges Verständnis zu erzielen.</p>
             <p>»Sie sehen«, sagte Flametti und stürzte die Kiste, »die Kiste ist völlig
@@ -2552,8 +2564,8 @@
             <p>»Schackerl, Schackerl trau di net!« gingen Mutter und Tochter singend mit neckischem
                Mienenspiel und erhobenem Zeigefinger auf den unglücklich die Mitte behauptenden
                Häsli los.</p>
-            <p>»Trau mi net«, erwiderte Herr Häsli ängstlich und sehr verschüchtert, <pb/> aber mit
-               einem plötzlichen Aufschauen und Horchen, das unsagbar drollig wirkte.</p>
+            <p>»Trau mi net«, erwiderte Herr Häsli ängstlich und sehr verschüchtert, <pb facs="#"/>
+               aber mit einem plötzlichen Aufschauen und Horchen, das unsagbar drollig wirkte.</p>
             <p>»Hoam zu deiner Alten«, sangen Mutter und Tochter, indem sie ihn ausspotteten.</p>
             <p>»Dreahn ma lieber weiter no«, sangen alle drei und faßten sich bei den Händen. Die
                Musik hielt drohend das ›no‹ aus.</p>
@@ -2581,8 +2593,9 @@
                –</p>
             <p>»Die wird di net fressen.«</p>
             <p>»Net fressen«, wiederholte Herr Häsli mit täppischer Sorglosigkeit, begleitet von der
-               magenerschütternd drohenden Baßtrompete, <pb/> die wie der ›Murrer‹ der Alten klang,
-               so daß Herr Häsli entsetzt und mit offenem Mund nach Herrn Fournier stierte.</p>
+               magenerschütternd drohenden Baßtrompete, <pb facs="#"/> die wie der ›Murrer‹ der
+               Alten klang, so daß Herr Häsli entsetzt und mit offenem Mund nach Herrn Fournier
+               stierte.</p>
             <p>Der lächelte. Das Publikum raste. Die Rosenhecken wackelten. Einem Herrn fiel der
                Kneifer herunter. Der ›Totenkopf‹ streckte die Beine weit von sich und hielt sich den
                Leib vor Lachen. Annie bog sich vor Lachen wiehernd auf die Seite zu ihrem Kavalier,
@@ -2610,11 +2623,11 @@
             <p>»Was tu' ich, Lumpenmensch?« knirschte Jenny und packte Traute trotz Publikum und
                Konzert über den Tisch beim Kragen.</p>
             <p>
-               <pb/> »Lassen Sie mich los!« rief Traute. »Ich habe den Auftrag, aufzupassen. Ich
-               habe gesehen, wie Sie dem Pianisten Geld zusteckten. Ich kann aber jetzt auch gehen,
-               wenn Sie wollen. Ich habe keine Lust, mich von Ihnen mißhandeln zu lassen. Sie werden
-               das weitere sehen. Sie sind abgesetzt. Sie machen für uns die Kassiererin solange,
-               bis wir uns eine andere nehmen.«</p>
+               <pb facs="#"/> »Lassen Sie mich los!« rief Traute. »Ich habe den Auftrag,
+               aufzupassen. Ich habe gesehen, wie Sie dem Pianisten Geld zusteckten. Ich kann aber
+               jetzt auch gehen, wenn Sie wollen. Ich habe keine Lust, mich von Ihnen mißhandeln zu
+               lassen. Sie werden das weitere sehen. Sie sind abgesetzt. Sie machen für uns die
+               Kassiererin solange, bis wir uns eine andere nehmen.«</p>
             <p>»Max!« rief Jenny und fegte hinter die Bühne, »Max!« ganz hysterisch. Das war ihr
                zuviel!</p>
             <p>Man wurde aufmerksam, reckte die Hälse. Traute zuckte die Achseln, mitleidig, und
@@ -2641,8 +2654,8 @@
             <p>»Wo ist die Traute?«</p>
             <p>»In der Garderobe.«</p>
             <p>
-               <pb/> »Gut!« sagte Flametti, sehr in Gedanken, und setzte sich, aufgedunsen und
-               abgehetzt, an Donna Maria Josefas Tisch.</p>
+               <pb facs="#"/> »Gut!« sagte Flametti, sehr in Gedanken, und setzte sich, aufgedunsen
+               und abgehetzt, an Donna Maria Josefas Tisch.</p>
             <p>»Das ist ja fabelhaft!« glückwünschte Herr Farolyi, der Kunstreiter, und schob
                Flametti einen Kognak hin. »Na, ihr habt euch ordentlich rausgemacht!«</p>
             <p>»Jo!« meinte Flametti wegwerfend, stürzte den Kognak, stand auf und begrüßte Miß
@@ -2668,8 +2681,8 @@
                einzusteigen.«</p>
             <p>»Umziehen! Indianer!« drängte Flametti vorn bei der Rampe.</p>
             <p>»Jetzt kommt's!« sagte Engel zu Annie, einen Moment über ihren Tisch gebeugt mit
-               aufgestützten Händen und ohne Rücksicht <pb/> auf den zigarettenrauchenden Kavalier.
-               »Na, es ist ein Erfolg!«</p>
+               aufgestützten Händen und ohne Rücksicht <pb facs="#"/> auf den zigarettenrauchenden
+               Kavalier. »Na, es ist ein Erfolg!«</p>
             <p>»Sehen Sie die kleine Soubrette?« sagte Frau Schnepfe zu Mutter Dudlinger, »wie die
                kassiert! Die versteht's! Das ist ein Geschäft!«</p>
             <p>»Geschäft glänzend!« erwiderte Mutter Dudlinger, ganz verfettet, doch freundlich
@@ -2696,8 +2709,8 @@
             <p>»Wir alle kennen die Namen unserer Unterdrücker. Ich brauche sie nicht zu nennen
                ....«</p>
             <p>
-               <pb/> Herr Detektiv Steix, der auch von der Partie war, zog sein Notizbuch heraus und
-               notierte sich etwas.</p>
+               <pb facs="#"/> Herr Detektiv Steix, der auch von der Partie war, zog sein Notizbuch
+               heraus und notierte sich etwas.</p>
             <p>»Wir alle lieben die Freiheit, die Pferde, den Wigwam, den Kriegspfad.</p>
             <p>Das alles sehen Sie in den ›Indianern‹, die unser verehrter Freund Ihnen jetzt
                vorführen wird. Sie sehen sogar noch mehr. Rache und Vergeltung im Jenseits.</p>
@@ -2743,7 +2756,7 @@
 
 
 
-            <pb/>
+            <pb facs="#"/>
             <l>›Wenn man das Letzte uns genommen,</l>
             <l>Wenn unsre Besten umgekommen,</l>
             <l>Ziehn Falkenaug' und Feuerschein</l>
@@ -2779,8 +2792,8 @@
                eine so prachtvolle Apotheose ausgedacht, – er allein stand aufrecht. Die Weiber
                knieten mit gesenkten Köpfen und Lanzen um ihn herum. Dann sprangen alle auf, ganz
                vor an die Rampe in eine Reihe, und drohten mit geschwungenem Tomahawk –, daß auch
-               der stumpfeste Batzenbengel solcher Auffassung Unübertrefflichkeit <pb/> hätte
-               zusprechen müssen. Besonders die Damen hielten sich über Erwarten gut.</p>
+               der stumpfeste Batzenbengel solcher Auffassung Unübertrefflichkeit <pb facs="#"/>
+               hätte zusprechen müssen. Besonders die Damen hielten sich über Erwarten gut.</p>
             <p>Es war ein runder, glatter Erfolg.</p>
             <p>»Flametti! Flametti! Feuerschein!« schrieen die ›Roten Brüder‹, als der Vorhang fiel
                und sich noch einmal hob.</p>
@@ -2807,7 +2820,7 @@
             <p>»Fräulein Raffaëla«, stellte Jenny vor, »Herr Seidel, mein Freund aus Baden; Fräulein
                Amalie, Frau Schnepfe.«</p>
             <p>
-               <pb/> Und Raffaëla, da Jenny gerade damit beschäftigt war, die Kassierung
+               <pb facs="#"/> Und Raffaëla, da Jenny gerade damit beschäftigt war, die Kassierung
                nachzuzählen: »Was für ein Glück!«</p>
             <p>»Ach, Raffaëla«, seufzte Jenny, »wenn du wüßtest!«</p>
             <p>»Was macht er denn?« flüsterte Raffaëla.</p>
@@ -2837,7 +2850,7 @@
                mich revanchieren!«</p>
             <p>Die Soubrette kam an den Tisch.</p>
             <p>
-               <pb/> »Na, Fräulein«, sagte Herr Seidel freundlich, »was trinken Sie?«</p>
+               <pb facs="#"/> »Na, Fräulein«, sagte Herr Seidel freundlich, »was trinken Sie?«</p>
             <p>Die Soubrette zierte sich.</p>
             <p>»Einen Eierkognak?«</p>
             <p>»He, Fräulein!« hielt er die Kellnerin fest, »einen Eierkognak!«</p>
@@ -2863,7 +2876,7 @@
                als säh' er mich nicht.«</p>
             <p>»Stattlicher Mann!« gab Raffaëla sich Mühe. Es schien ihr eine wenig drauf
                anzukommen, Jenny die Ruhe zu nehmen.</p>
-            <p>Aus der Garderobe kam als der letzte Herr Meyer. Er hatte <pb/> die Noten
+            <p>Aus der Garderobe kam als der letzte Herr Meyer. Er hatte <pb facs="#"/> die Noten
                hinaufgetragen. Unschlüssig blieb er stehen, Jennys gespicktes Portemonnaie in der
                Tasche, das ihm bei jedem Schritt wie ein Klotz an den Schenkel schlug.</p>
             <p>»Ach, Herr Meyer«, sagte Jenny und streckte sich über den Stuhl zu ihm hin, »geben
@@ -2894,8 +2907,8 @@
                Ritt durch die Wüste, Komantschen, Bluthunde und Polizei: das alles waren ihr
                spanische Dörfer.</p>
             <p>
-               <pb/> Weltfremd war Jenny und eitel dazu. Sie konnte für möglich halten, das ganze
-               Fest sei nur für sie arrangiert gewesen; Flametti nur für sie, für Jennymama,
+               <pb facs="#"/> Weltfremd war Jenny und eitel dazu. Sie konnte für möglich halten, das
+               ganze Fest sei nur für sie arrangiert gewesen; Flametti nur für sie, für Jennymama,
                geboren, sei es, indem er den Diener machte, wenn sie Karotten einkaufte; sei es,
                indem er Mannderl und Weiberl schnitzte fürs Wetterhäuschen.</p>
             <p>Und ganz besonders: für ›Wigwams‹ hatte sie gar keinen Sinn. Sie hielt das für
@@ -2920,7 +2933,7 @@
                nicht genug?« Eine Prügelszene im Bett stand bevor.</p>
             <p>»Gut!« sagte Jenny, »laß nur!« Sie wußte Bescheid. Heraus sprang sie aus dem Bett,
                warf sich den Schlafrock über und war schon im Lattenverschlag.</p>
-            <pb/>
+            <pb facs="#"/>
             <p>»Traute raus!« schrie sie und packte die schlafende Traute beim Kragen.</p>
             <p>»Pack' deine Sachen zusammen. Vorwärts marsch, marsch! Und heraus aus der
                Wohnung!«</p>
@@ -2949,8 +2962,8 @@
                schoß, ein fauchendes Krokodil mit zwei Reihen Sägezähnen, hervor aus den
                Sofafransen.</p>
             <p>
-               <pb/> Die Mädel kreischten. Flametti, im Hemd, mit haarigen Beinen, drang aus dem
-               Hauptfrauzimmer.</p>
+               <pb facs="#"/> Die Mädel kreischten. Flametti, im Hemd, mit haarigen Beinen, drang
+               aus dem Hauptfrauzimmer.</p>
             <p>»Was gibt's denn da?« riß er die Sklavin der Hauptfrau weg.</p>
             <p>»Hier gibt's eine Kindsleiche, wenn sie nicht rauskommt.«</p>
             <p>»Hilfe! Hilfe!« schrie Traute, als sei ihr der Hals bereits abgeschnitten, und rannte
@@ -2973,10 +2986,10 @@
             <p>Die Mittagstafel war schlecht besucht. Auch die Häslis fehlten. Sie hatten Kontrakt
                gemacht mit Ferrero, gestern noch spät in der Nacht, nach dem ›Schackerl‹, und fanden
                es nicht übertrieben, Flametti Adieus zu ersparen.</p>
-            <pb/>
+            <pb facs="#"/>
          </div>
          <div type="chapter">
-            <p>V</p>
+            <head>V</head>
             <p>Herr Meyer sah aus wie Friedrich Haase als Richard der Dritte. Man fuhr nach Basel.
                Herr Meyer sah aus, als sei er, Herr Meyer, verantwonlich für diese Partie. Man fuhr
                zu Herrn Schnepfe nach Basel, und dieser Herr Meyer sah aus, als sei's eine Fahrt
@@ -3001,9 +3014,9 @@
             <p>»Was wollen Sie?« meinte Flametti, »genügt das nicht?« Er wurde heftig. »Jawohl!
                Werde mir fünf Soubretten engagieren! Zehn Lehrmädel dazu!«</p>
             <p>
-               <pb/> »Feine Stadt, Basel!« rief Jenny mit erhobenem Zeigefinger und entnahm ihrer
-               Handtasche zwei Schinkenbröte. »Gelt, Max, auf die Meß' gehen wir? Und die Kavaliere
-               bringen uns Leckerli?«</p>
+               <pb facs="#"/> »Feine Stadt, Basel!« rief Jenny mit erhobenem Zeigefinger und entnahm
+               ihrer Handtasche zwei Schinkenbröte. »Gelt, Max, auf die Meß' gehen wir? Und die
+               Kavaliere bringen uns Leckerli?«</p>
             <p>»In Basel gibt's doch die Leckerli«, erklärte sie Fräulein Laura, die ebenfalls
                skeptisch schien. »Solchene Tüten bringen sie an!« Sie zeigte eine Tütengröße von
                reichlich einem halben Meter. »Und einen zoologischen Garten gibt es: Wildschweine,
@@ -3030,7 +3043,7 @@
                und drehte an ihrem Ehering. »Guten Tag! Guten Tag! Guten Tag!« und gab jedem
                einzelnen die Hand.</p>
             <p>
-               <pb/> »Salü!« grüßte Flametti, »da sind wir!« und blieb mit Reisetasche und
+               <pb facs="#"/> »Salü!« grüßte Flametti, »da sind wir!« und blieb mit Reisetasche und
                Regenschirm ostentativ inmitten der Wirtsstube stehen, als wolle er sagen: jetzt geht
                der Kontrakt an. Jetzt habt ihr zu sorgen für uns.</p>
             <p>Frau Schnepfe bekam einen gelinden Schreck. Und die Soubrette, als
@@ -3060,8 +3073,8 @@
                süß.</p>
             <p>»Kommt Ersatz!« tröstete Flametti und hing nun auch seine Schirme auf.</p>
             <p>
-               <pb/> »Na, dann zeig' mal die Zimmer!« gebot Herr Schnepfe und zog sich mit einem
-               kommißartigen Ruck die Kellerschürze über den Kopf.</p>
+               <pb facs="#"/> »Na, dann zeig' mal die Zimmer!« gebot Herr Schnepfe und zog sich mit
+               einem kommißartigen Ruck die Kellerschürze über den Kopf.</p>
             <p>»Wollt ihr nicht erst einen Kaffee trinken?«</p>
             <p>Oh, das war eine freundliche Frau Schnepfe! Oh, die war nett!</p>
             <p>»Oh ja«, nickte Jenny mit ihrem süßesten Lächeln und gab der Frau Schnepfe das
@@ -3086,8 +3099,8 @@
                fand man es spielend. Bei einem großen Bankhaus schwenkte man ab nach rechts, in die
                Vorstadt. Vor dem Haus stand ein Brunnen mit großem Bassin voll grasgrünen Wassers.
                Darüber der heilige Bartholomäus, aus Stein gehauen, mit segnenden Händen. An den
-               Fenstern <pb/> hingen Flamettis Plakate. In der Straße, am Abend, schaukelte blau
-               eine Bogenlampe.</p>
+               Fenstern <pb facs="#"/> hingen Flamettis Plakate. In der Straße, am Abend, schaukelte
+               blau eine Bogenlampe.</p>
             <p>Die Zimmer waren ein wenig kalt und schreckend im ersten Moment. Mattscheiben und die
                gekalkten Wände erinnerten barsch an Krankenbaracken in einem Gefängnisbau. Doch
                waren sie teilweise hübsch mit Öfen versehen und geräumig, ebenso wie das
@@ -3112,8 +3125,8 @@
                bieten haben. Nur keine Sorge! Kommt schon.«</p>
             <p>Herr Meyer mußte sich jedenfalls bald überzeugen, daß die ›Indianer‹ auch ohne Güssy
                und Traute gingen.</p>
-            <p>»Sehen Sie«, sagte Flametti, »Basel ist eine ernste Stadt. Religiös. <pb/> Das
-               vornehme Bürgertum klatscht nicht gern. Lassen Sie uns etwas Ernstes bringen, den
+            <p>»Sehen Sie«, sagte Flametti, »Basel ist eine ernste Stadt. Religiös. <pb facs="#"/>
+               Das vornehme Bürgertum klatscht nicht gern. Lassen Sie uns etwas Ernstes bringen, den
                ›Friedhofsdieb‹, und wir haben ein volles Haus.«</p>
             <p>Also bekam Engel die Rolle der Zeugin Emilie Schmidt im ›Friedhofsdieb‹, was Frau
                Häsli früher zu spielen hatte, und lief tagsüber unglücklich zwischen den Tischen und
@@ -3139,9 +3152,9 @@
             <p>Mit ringförmigen Fischaugen saßen sie da, tranken ihr Bier aus, zahlten und gingen.
                Die Soubrette hatte ein wenig Erfolg. Das Ganze schien hoffnungslos.</p>
             <p>
-               <pb/> »Alles nichts«, sagte Jenny, »wir müssen Artisten haben!« Und eines Tags bei
-               Tisch verkündete sie dem erregten Ensemble: »Neue Artisten kommen. Vornehme Artisten.
-               Kinder, da müßt ihr euch fein benehmen!«</p>
+               <pb facs="#"/> »Alles nichts«, sagte Jenny, »wir müssen Artisten haben!« Und eines
+               Tags bei Tisch verkündete sie dem erregten Ensemble: »Neue Artisten kommen. Vornehme
+               Artisten. Kinder, da müßt ihr euch fein benehmen!«</p>
             <p>Zwei Tage später war's auch schon da. Die Tür ging auf. Ankamen die neuen Artisten.
                Herr Leporello und Lydia, Herr Leporello und Lotte, Herr Leporello und Raffaëla,
                nebst vielem Gepäck, darunter auch Eisenstangen.</p>
@@ -3165,10 +3178,10 @@
                Leporellos ›Drehbarer Unterleib‹ weil Lepo zu Mittag infolge der langen Bahnfahrt
                zuviel gegessen hatte.</p>
             <p>
-               <pb/> Aber Raffaëlas ›Matschiche auf dem hohen Seil‹ mit japanischem Schirm und im
-               Himbeertrikot – Teufel, hatte das Frauenzimmer Schenkel! – ermunterte selbst die
-               griesgrämigen Basler. Und als Fräulein Lydia Czardas tanzte – verflucht noch einmal!
-               Sie schlug auf das Tamburin und ging mit pferdhaftem Posterieur stampfend und
+               <pb facs="#"/> Aber Raffaëlas ›Matschiche auf dem hohen Seil‹ mit japanischem Schirm
+               und im Himbeertrikot – Teufel, hatte das Frauenzimmer Schenkel! – ermunterte selbst
+               die griesgrämigen Basler. Und als Fräulein Lydia Czardas tanzte – verflucht noch
+               einmal! Sie schlug auf das Tamburin und ging mit pferdhaftem Posterieur stampfend und
                tänzelnd gegen die grätschende Schwester los –, da gab es auch bei den Baslern keine
                Bedenken mehr: laut und vernehmlich klatschten sie.</p>
             <p>Am nächsten Abend gab es schon Ehrengäste: Herr Bums-die-Lerche, der Komikerkönig,
@@ -3202,8 +3215,8 @@
                Einfältigkeit ab, daß der Kontrast zwischen seinen gespreizten Zirkusposen und dem
                dargestellten Objekt die Zuschauer zu hellem Grinsen entflammte.</p>
             <p>
-               <pb/> Was Wunder, wenn das Geschäft sich hob? Wenn die Zirkusleute mehr und mehr in
-               den Vordergrund traten, auch bei der Direktion?</p>
+               <pb facs="#"/> Was Wunder, wenn das Geschäft sich hob? Wenn die Zirkusleute mehr und
+               mehr in den Vordergrund traten, auch bei der Direktion?</p>
             <p>Ein Feldwebel von der St. Gotthard-Festung kam als Konzertbesucher. Er hatte Urlaub.
                Die Frau war gestorben. Was der Mann alles spendierte! Sogar Leckerli brachte er mit,
                die ersten, die man bei Schnepfes zu sehen bekam.</p>
@@ -3227,9 +3240,9 @@
             <p>Erst im Panoptikum: ›Der Feuerkessel von Tahure‹: da platzten die Bomben! Da staunte
                das Volk! Da streckten die toten Poilus die Beine zum Himmel, wie niedergeknallt auf
                der Hasenjagd!</p>
-            <p>Dann auf der Rutschbahn: zwei Karossen hintereinander: in <pb/> der ersten Flametti
-               und Fräulein Laura. In der zweiten Herr Engel und Meyer. Wie flog man dahin! Wie flog
-               man daher!</p>
+            <p>Dann auf der Rutschbahn: zwei Karossen hintereinander: in <pb facs="#"/> der ersten
+               Flametti und Fräulein Laura. In der zweiten Herr Engel und Meyer. Wie flog man dahin!
+               Wie flog man daher!</p>
             <p>Dann beim ›Jägersalon‹: »Schießen Sie mal, junger Herr!« Und Herr Engel schoß, auf
                den Trommler. Und traf ihn; mitten in die Visage. Der rasselte los. Aber
                unentgeltlich. Man war ja Artist. Es war eine Freude, zu leben!</p>
@@ -3253,8 +3266,9 @@
                und Raffaëla schlappten einher in den Schlafröcken und beschimpften einander.</p>
             <p>Abends aber, während der Vorstellung, saßen die fünf Damen aufgeputzt um Herrn
                Schnepfes Dauerbrandofen wie Papageien auf einem Eisenring um den Dompteur.</p>
-            <p>»Kinder, nein, ist das eine Kälte!« zitterte Lydia mit erfrorener <pb/> Nase und zog
-               ein Gesicht, als sei sie hereingefallen und komme erst jetzt allmählich dahinter.</p>
+            <p>»Kinder, nein, ist das eine Kälte!« zitterte Lydia mit erfrorener <pb facs="#"/> Nase
+               und zog ein Gesicht, als sei sie hereingefallen und komme erst jetzt allmählich
+               dahinter.</p>
             <p>Und zu der Soubrette: »Ihr habt es gut. Ihr habt einen Ofen!«</p>
             <p>Und alle bebten und preßten die Schenkel zusammen.</p>
             <p>»Menschenskind!« tanzte Engel näher heran und rieb sich verbindlich die Hände, »ist
@@ -3281,8 +3295,8 @@
                komplizierteren Balancen, den drehbareren Unterleib. Bobby hatte den besseren
                Hand-Stand, das biegsamere Rückgrat.</p>
             <p>
-               <pb/> Aber Herr Leporello ästimierte ihn nicht. Herr Leporello war ausschließlich
-               Artist. Bobby ging im Nebenberuf zeitweilig ›auf Heizerfahrt‹.</p>
+               <pb facs="#"/> Aber Herr Leporello ästimierte ihn nicht. Herr Leporello war
+               ausschließlich Artist. Bobby ging im Nebenberuf zeitweilig ›auf Heizerfahrt‹.</p>
             <p>Oder Miß Raffaëla den Engel. Sie verlangte von ihm, daß er Einkäufe für sie besorge.
                Sie glaubte, der Bühnenmeister sei hier auch Stiefelputzer. Aber Engel lehnte es ab,
                ›Kommissionen‹ zu machen.</p>
@@ -3306,9 +3320,9 @@
                Schnadahüpfl zur Laute. Man richtete Engel ein Bett her am Ofen, damit er geborgen
                war, wenn die Malaria ihn überfiel.</p>
             <p>
-               <pb/> Und Engel erzählte mit traurig schluckender Stimme von Gudrun, der Baronesse,
-               die ihn geliebt, als er noch Forsteleve in Deutschland war, beim Grafen von
-               Reiffenstein.</p>
+               <pb facs="#"/> Und Engel erzählte mit traurig schluckender Stimme von Gudrun, der
+               Baronesse, die ihn geliebt, als er noch Forsteleve in Deutschland war, beim Grafen
+               von Reiffenstein.</p>
             <p>Das Exil dieser Tage erhielt eine Abwechslung dadurch, daß es plötzlich noch kälter
                wurde.</p>
             <p>Es war jetzt so kalt, daß es wirklich nicht anging, länger zu singen:</p>
@@ -3336,7 +3350,7 @@
                Talar zu erblicken, als Richter vor einem Stoß Aktenmappen. Eine kleine, zierliche
                Knabengestalt, dem Richterstuhl gegenüber, schien prozessiert zu werden.</p>
             <p>
-               <pb/> Es handelte sich um einen Friedhof und einen Topf, der gestohlen war;
+               <pb facs="#"/> Es handelte sich um einen Friedhof und einen Topf, der gestohlen war;
                Blumentopf.</p>
             <p>Auf der Mitte der Bühne stand eine vornehme Dame, wohl eine Baronin, mit Blicken, die
                halb auf den Richter, halb auf den Knaben gerichtet waren. Neben ihr krausköpfig ein
@@ -3376,7 +3390,7 @@
 
 
             <l>
-               <pb/> »Hundsfott!« schrie Flametti, »ist das ein Vers?«</l>
+               <pb facs="#"/> »Hundsfott!« schrie Flametti, »ist das ein Vers?«</l>
 
 
             <l>›Ein Richter ist streng, wenn sich's gebührt‹, berichtigte Engel, zitternd vor
@@ -3417,9 +3431,9 @@
                penibel war. Die Bilder versprach er später zu schicken.</p>
             <p>Herr Graumann war ein Original. Ein wenig glich er dem Wurzelsepp aus der bayrischen
                Bauernkomödie. Die ganze Schweiz bereiste er als Photograph. Mit dem Pappkarton. In
-               <pb/> die entlegensten Dörfer kam er. Und immer zu Fuß. Auch aus dem Tessin war er zu
-               Fuß gekommen. Wind, Wetter, Eis und Schnee vermochten ihm wenig anzuhaben. Es war
-               sein Beruf, zu wandern. Die Geschäfte brachten es mit sich.</p>
+                  <pb facs="#"/> die entlegensten Dörfer kam er. Und immer zu Fuß. Auch aus dem
+               Tessin war er zu Fuß gekommen. Wind, Wetter, Eis und Schnee vermochten ihm wenig
+               anzuhaben. Es war sein Beruf, zu wandern. Die Geschäfte brachten es mit sich.</p>
             <p>Was wußte Herr Graumann für treffliche Schnurren zu erzählen! Manch ernsthaftes
                Abenteuer und Rencontre mit der Polizei. Unter Plattenreißern war er der
                yokerste.</p>
@@ -3446,8 +3460,8 @@
             <p>»Bitte, den Kopf etwas schief! Bitte die Hand etwas höher! Bitte etwas freundlicher,
                sonst kann ich's nicht machen.«</p>
             <p>
-               <pb/> Und schrieb die Bestellung in sein Notizbuch und nahm eine lächerlich kleine
-               Anzahlung. Dann mußte er weiter.</p>
+               <pb facs="#"/> Und schrieb die Bestellung in sein Notizbuch und nahm eine lächerlich
+               kleine Anzahlung. Dann mußte er weiter.</p>
             <p>»Kinder!« rief Raffaëla, »das wird ein Vergnügen! Der Mama schicke ich eins! Eins
                meinem Männe ins Feld! Eins dem Farolyi!«</p>
             <p>Doch als Herr Graumann gegangen war, kehrte die alte Langeweile wieder.</p>
@@ -3472,9 +3486,9 @@
                dieses Meyer strotzender Feder wölbten.</p>
             <p>Jenny und Rosa, ein Stockwerk tiefer, schneiderten orangefarbene Matrosenkostüme für
                ein neues Ensemble, die ›Commis voyageusen‹.</p>
-            <p>Herr Leporello, Parterre, hatte vertrackte politische Disputationen <pb/> mit einem
-               vierzigjährigen zelotischen Schriftsetzer, der selbstverfaßte revolutionäre Verse
-               voller ästhetischen Klangs jeden Nachmittag, eh' er zur Arbeit ging, eine
+            <p>Herr Leporello, Parterre, hatte vertrackte politische Disputationen <pb facs="#"/>
+               mit einem vierzigjährigen zelotischen Schriftsetzer, der selbstverfaßte revolutionäre
+               Verse voller ästhetischen Klangs jeden Nachmittag, eh' er zur Arbeit ging, eine
                Viertelstunde lang, zielbewußt rezitierte.</p>
             <p>Weniger friedlich beschäftigten sich die Damen Raffaëla und Lydia.</p>
             <p>Solange noch Aussicht war auf Einladungen und Unterhaltung, auf Kavaliere und
@@ -3499,9 +3513,9 @@
                kreischend, bis auf die Bühne rannte.</p>
             <p>Als aber die Kavaliere ausblieben und sich auch sonst nichts regte, wandte sich auch
                bei ihnen das Temperament mehr nach innen.</p>
-            <p>Das bißchen Vorstellung, die paar Tänze, der Schnack, das alles <pb/> resorbierte sie
-               nicht. Der Zirkus beschäftigt mehr, fordert mehr Kraftaufwand, bietet indes auch mehr
-               Sensation und Belustigung.</p>
+            <p>Das bißchen Vorstellung, die paar Tänze, der Schnack, das alles <pb facs="#"/>
+               resorbierte sie nicht. Der Zirkus beschäftigt mehr, fordert mehr Kraftaufwand, bietet
+               indes auch mehr Sensation und Belustigung.</p>
             <p>Sie vermißten die nötige Reibung, den Zug, den Elan. Die Verpflanzung bekam ihnen
                nicht. Die Stille reizte sie auf.</p>
             <p>Als man am Mittagstisch saß, kamen zwei Briefe an: einer für Lydia, einer für
@@ -3527,7 +3541,7 @@
             <p>Flametti schimpfte und Lepo zog unter dem Tisch sein Sprungbein an, um einzugreifen,
                falls der Streit peinlichere Dimensionen annehmen sollte.</p>
             <p>
-               <pb/> Jenny allein beschwichtigte:</p>
+               <pb facs="#"/> Jenny allein beschwichtigte:</p>
             <p>»Kinder, na setzt euch! Das Fleisch wird ja kalt!«</p>
             <p>Es wurde schlimmer von Tag zu Tag. Die wahre, die Zirkusnatur kam zum Vorschein.</p>
             <p>Welch ein Schreck für das ganze Ensemble und auch für Herrn Schnepfe, als eines Tags
@@ -3555,7 +3569,8 @@
             <p>Aus dem Schreck kam man nicht mehr heraus. Immer fiel seit diesem Begebnis Raffaëla
                irgendwo herunter.</p>
             <p>
-               <pb/> Von der Bühne fiel sie herunter und hätte sich fast das Bein gebrochen.</p>
+               <pb facs="#"/> Von der Bühne fiel sie herunter und hätte sich fast das Bein
+               gebrochen.</p>
             <p>Von der Treppe fiel sie herunter; polternd kam sie angerutscht. Und man mußte den
                Arzt holen.</p>
             <p>Vom Draht, der jetzt der Länge nach durch das Lokal gespannt war, fiel sie ein
@@ -3583,8 +3598,8 @@
                gezaust und von Lepo zerdroschen, daß es weithin den Gang und das Haus
                durchgellte.</p>
             <p>
-               <pb/> Sogar Jenny, die sich in Wahrheit aufopfernd benahm – sie lieh ihren Protegés
-               das halbe Boudoir aus, Brennschere, Seife, Nachttopf, Benzin –, wurde in
+               <pb facs="#"/> Sogar Jenny, die sich in Wahrheit aufopfernd benahm – sie lieh ihren
+               Protegés das halbe Boudoir aus, Brennschere, Seife, Nachttopf, Benzin –, wurde in
                Mitleidenschaft gezogen.</p>
             <p>»Du, Jenny«, sondierte Raffaëla, als sie an Jennys Namenstag traulichen
                Streuselkuchen zum Kaffee bekam, »wie ist das denn mit der Traute geworden? Schreibt
@@ -3609,10 +3624,11 @@
                des langsam anschwellenden Apachenstücks, gönnte Herr Meyer seiner Inspiration nicht
                Ruhe noch Rast.</p>
             <p>Tag und Nacht saß Herr Meyer, durchstreichend, was er geschrieben, neu ordnend, was
-               sich nicht fügen wollte. Ja, es <pb/> konnte passieren, daß die Inspiration ihn in
-               Momenten heimsuchte, die in der restlosen Hingabe an Fräulein Laura gipfelten; daß es
-               ihn aus dem Schlaf auftrieb inmitten der Nacht. Dann schnellte er aus dem Bett mit
-               gesträubten Haaren, und nicht ließ er locker, bis daß der Gedanke gefesselt war.</p>
+               sich nicht fügen wollte. Ja, es <pb facs="#"/> konnte passieren, daß die Inspiration
+               ihn in Momenten heimsuchte, die in der restlosen Hingabe an Fräulein Laura gipfelten;
+               daß es ihn aus dem Schlaf auftrieb inmitten der Nacht. Dann schnellte er aus dem Bett
+               mit gesträubten Haaren, und nicht ließ er locker, bis daß der Gedanke gefesselt
+               war.</p>
             <p>»Laura«, sagte Flametti, als eines Tags Herr Meyer wieder mit völlig gelähmten
                Augenlidern bei Tisch erschien, »sagen sie doch dem Meyer, er soll sich nicht gar so
                quälen mit seinem Ensemble. Wissen Sie: ›Die Apachen‹ – offen gestanden – gefällt mir
@@ -3638,7 +3654,7 @@
                halt nichts. Die Weiber haben das an sich: sie sind gemein. Niederträchtig alle. Das
                ist es. Sie sind aus Prinzip gegen das ... das ...«</p>
             <p>
-               <pb/> Wieder blieb ihm das Wort aus.</p>
+               <pb facs="#"/> Wieder blieb ihm das Wort aus.</p>
             <p>»Sie sind aus Prinzip dagegen. Leer sind sie und dumm wie der Teufel. Alles ziehen
                sie in den Dreck. – Sie hat mir den Zirkus ins Haus gebracht. Wer weiß, warum.
                Vielleicht nur, weil sie's allein nicht schaffen konnte. Man kommt auf den Hund.«</p>
@@ -3661,10 +3677,10 @@
                zurückkam.</p>
             <p>»Was hab' ich gesagt?« brummte Flametti, »das kannst du dir denken. Es kommt zum
                Prozeß.«</p>
-            <pb/>
+            <pb facs="#"/>
          </div>
          <div type="chapter">
-            <p>VI</p>
+            <head>VI</head>
             <p>Herr Leporello hieß mit Vornamen Emil.</p>
             <p>Er war schlank, lang, geschmeidig. Zwei mächtige Eckzähne, blitzende Augen, ein
                heiserer Baß geben einen Begriff seiner Persönlichkeit. Besonderes Merkmal: steifer,
@@ -3688,8 +3704,8 @@
             <p>Und dann nahm er sein Handköfferchen eines Tags und hatte den Paletot an und den
                Regenschirm in der Hand und verabschiedete sich.</p>
             <p>
-               <pb/> Lydias Augen hingen an ihm wie leere Sonnenblumen im Herbst, auf die es
-               geregnet hat.</p>
+               <pb facs="#"/> Lydias Augen hingen an ihm wie leere Sonnenblumen im Herbst, auf die
+               es geregnet hat.</p>
             <p>»Ach, ihr lieben Leute! Mein guter, lieber Emil! Jetzt geht er dahin und wer weiß, ob
                er wiederkommt.«</p>
             <p>Und sie streckte sich auf den Zehenspitzen, umarmte und küßte ihn, und stellte immer
@@ -3715,7 +3731,7 @@
                Glanz. Hin war die Freude. Verschwunden die Habitués. Verschwunden der ›Totenkopf‹
                und seine Schwester. Verschwunden Fräulein Amalie. Verschwunden Herr Pips.
                Verschwunden der Herr Krematoriumfritze, der all sein Geld verjuckt und mit der Dame
-               in Feldgrau ein von<pb/> der Polizei nicht gern gesehenes Verhältnis auf
+               in Feldgrau ein von<pb facs="#"/> der Polizei nicht gern gesehenes Verhältnis auf
                Gegenseitigkeit unterhalten hatte.</p>
             <p>Dagegen gab es nun in der Fuchsweide ein ›Organ‹: ›Die Zündschnur. Organ gegen die
                Übergriffe der Polizei und des Kapitalismus‹, redigiert von Herrn Dr. Asfalg, einem
@@ -3741,9 +3757,9 @@
             <p>Und Herr Dr. Asfalg erwiderte in der ›Zündschnur‹:</p>
             <p>»Wir kennen die wilden Tiere, Tiger, Füchse und Affen der Polizei. Es bedarf keiner
                Hinweise. Wir werden uns bemühen, sie um die Ecke zu bringen.</p>
-            <p>Wir kennen auch den Schrummbaß der Polizei. Es ist ein <pb/> Instrument, das rasselt,
-               wenn man es auf den Boden stößt. Wir werden dahin wirken, daß auch dies Instrument
-               verschwindet.</p>
+            <p>Wir kennen auch den Schrummbaß der Polizei. Es ist ein <pb facs="#"/> Instrument, das
+               rasselt, wenn man es auf den Boden stößt. Wir werden dahin wirken, daß auch dies
+               Instrument verschwindet.</p>
             <p>Wir stellen uns auf den Boden der nacktesten Wirklichkeit. Wir werden in Unterhosen
                die Nationalhymne singen. Wir werden in Schnurrbartbinden unsre Ensembles aufführen,
                statt uns Masken zu schminken. Wir werden uns Bäuche stopfen und Scheitel ziehen wie
@@ -3769,8 +3785,8 @@
             <p>Gerade der letztere Artikel wurde deshalb von direktorialer Seite sehr angefeindet.
                Sein ironischer Ton war leicht mißzuverstehen.</p>
             <p>
-               <pb/> ›Legt euer Gemüt ab!‹, das konnte auch heißen: Meidet die Vorstellungen! Gebt
-               keine Gelegenheit, euch zu fassen!</p>
+               <pb facs="#"/> ›Legt euer Gemüt ab!‹, das konnte auch heißen: Meidet die
+               Vorstellungen! Gebt keine Gelegenheit, euch zu fassen!</p>
             <p>Das mußte dem Publikum Angst einjagen, es abhalten, zu kommen.</p>
             <p>Der Dr. Asfalg in seinem Fanatismus ging entschieden zu weit, begann der Sache zu
                schaden. Und erreichen, der Polizei gegenüber, konnte er doch nichts. Sie hatte die
@@ -3796,7 +3812,7 @@
                boten.</p>
             <p>Mit einem gerissenen Haken schwenkte Herr Meyer auf dem Klavier:</p>
 
-            <pb/>
+            <pb facs="#"/>
 
             <l>›Da geh'n die Mädchen hin,</l>
             <l>Da sitzt der Jüngling drin,</l>
@@ -3828,7 +3844,7 @@
                Augen.</p>
             <p>Die Sehnsucht verstörte ihr kleines Gehirn. Die Augen flossen ihr aus.</p>
             <p>
-               <pb/> »Ach, Emil! ach, Emil! wer hätte das denken können!«</p>
+               <pb facs="#"/> »Ach, Emil! ach, Emil! wer hätte das denken können!«</p>
             <p>Hinauf lief sie in ihr Zimmer und schleppte die Photographieständer herunter, während
                der Vorstellung, um sie den Gästen zu zeigen.</p>
             <p>»So hat er ausgesehen. Das ist er. Ach, mein guter Emil! Sie haben ihn sicher schon
@@ -3856,9 +3872,9 @@
                der Begabung Leporellos nicht länger leidend, arbeitete sich unter täglichen
                Trainagen und Fräulein Lauras geneigter Assistenz langsam wieder in den
                Vordergrund.</p>
-            <p>Einen wirklichen Knacks aber erlitt die moralische Situation <pb/> des Ensembles, als
-               man dahinterkam, Flametti habe einen Prozeß, und als man erfuhr, um was für einen
-               Prozeß es sich handelte.</p>
+            <p>Einen wirklichen Knacks aber erlitt die moralische Situation <pb facs="#"/> des
+               Ensembles, als man dahinterkam, Flametti habe einen Prozeß, und als man erfuhr, um
+               was für einen Prozeß es sich handelte.</p>
             <p>»Kinder!« rief Raffaëla, und ein Licht ging ihr auf, »habt ihr gehört, was der Alte
                für einen Prozeß hat? Verführung Minderjähriger, das Schwein. Soll man das glauben?
                Schabernackelt hat er mit der Güssy und mit der Traute!«</p>
@@ -3884,9 +3900,9 @@
                Basel. Es ist mir nichts Neues. Im schlimmsten Fall machen wir selbst ein Ensemble.
                Wir sind eins, zwei, drei, vier, fünf, sechs Leute, die alle etwas können. Engel
                macht seine Ausbrechernummer. Bobby macht den Schlangenmenschen. Sie beide tanzen.
-               Ich spiele Klavier. Es müßte <pb/> doch mit dem Teufel zugehen, wenn wir keinen
-               Erfolg hätten. Außerdem habe ich ein Apachenstück geschrieben, glänzend. Das führen
-               wir auf. Aber: Diskretion!«</p>
+               Ich spiele Klavier. Es müßte <pb facs="#"/> doch mit dem Teufel zugehen, wenn wir
+               keinen Erfolg hätten. Außerdem habe ich ein Apachenstück geschrieben, glänzend. Das
+               führen wir auf. Aber: Diskretion!«</p>
             <p>Damit waren alle einverstanden. Leise sprach man, denn die Wände im ›Krokodil‹ waren
                dünn wie Papier. Lattenverschläge waren die Zimmer, mit Tapeten bezogen. Meterlange
                Risse klafften hinter den Betten. Und wenn ein Bekannter Flamettis, etwa der
@@ -3911,7 +3927,7 @@
             <p>»Da ist nichts zu machen«, bedauerte Meyer.</p>
             <p>Er legte Engel die Hand auf die Schulter, sah ihm tief in die Augen und sagte:</p>
             <p>
-               <pb/> »Na schön, Engel, dann nicht. Aber bleiben Sie uns gut Freund.«</p>
+               <pb facs="#"/> »Na schön, Engel, dann nicht. Aber bleiben Sie uns gut Freund.«</p>
             <p>»So weit es an mir liegt«, versicherte der und reichte dem Meyer zitternd vor
                Ergriffenheit die Hand, »ein Mann, ein Wort.«</p>
             <p>Flamettis Prozeß war binnen kurzem stadtbekannt. Und wie es zu gehen pflegt, wenn
@@ -3937,9 +3953,9 @@
             <p>So stand es geschrieben und wenn auch Flamettis Name nicht genannt war, so wußte doch
                jeder, daß der Artikel auf ihn ging.</p>
             <p>
-               <pb/> Beim großen Artistenfest in der ›Weißen Kuh‹ reichte man sich den Artikel von
-               Hand zu Hand, ein klebriges Heiligtum, mit verständnissinnigem Lächeln und
-               unterdrücktem Gezwinker.</p>
+               <pb facs="#"/> Beim großen Artistenfest in der ›Weißen Kuh‹ reichte man sich den
+               Artikel von Hand zu Hand, ein klebriges Heiligtum, mit verständnissinnigem Lächeln
+               und unterdrücktem Gezwinker.</p>
             <p>Da war besonders Herr Köppke, Baritonsolo und Offiziersdarsteller bei Ferrero, der
                laut Partei nahm für die beiden Mädel und die Moralität.</p>
             <p>»Schweinerei von dem Menschen«, erklärte Herr Köppke mit der Resonnanz eines
@@ -3967,10 +3983,10 @@
                Dächer entkam, da schloß Mutter Dudlinger die offene Hand und versagte.</p>
             <p>Lydia und Raffaëla rebellierten jetzt ganz offen.</p>
             <p>
-               <pb/> Geschäft und Auftreten wurden ihnen täglich mehr Nebensache. In der Garderobe
-               saßen sie herum, wenn das Klingelzeichen längst gegeben war. Sie beeilten sich gar
-               nicht sonderlich, sich zu schminken, noch legten sie Wert darauf, pünktlich zur
-               Vorstellung zu erscheinen. Herr Meyer war gezwungen, von Tag zu Tag längere
+               <pb facs="#"/> Geschäft und Auftreten wurden ihnen täglich mehr Nebensache. In der
+               Garderobe saßen sie herum, wenn das Klingelzeichen längst gegeben war. Sie beeilten
+               sich gar nicht sonderlich, sich zu schminken, noch legten sie Wert darauf, pünktlich
+               zur Vorstellung zu erscheinen. Herr Meyer war gezwungen, von Tag zu Tag längere
                Zwischenstücke zu spielen. Andere Nummern mußten eingeschoben werden, weil Raffaëla
                mit ihrer Frisur nicht fertig war für den Drahtseilakt, weil Lydia zum Cakeswalk
                erschien ohne das Zierstöckchen und ohne Knöpfe am Anzug, die ihr die Schwester in
@@ -3995,10 +4011,10 @@
                oder Gemüse, so hatte sie schon die Gabel oder den Löffel zur Hand, und wer sich
                nicht seinerseits sehr beeilte, ging leer aus.</p>
             <p>
-               <pb/> Sie aßen systematisch, überzeugt, mit Absicht. Sie aßen, als gelte es Vorrat zu
-               essen ohne Rücksicht auf diesen geschwollnen Patron, der ihnen durch seinen ganzen
-               Prozeß, durch sein ganzes schuldbewußtes Benehmen die Überzeugung eingab, es komme
-               nun nicht mehr drauf an, Rücksicht walten zu lassen.</p>
+               <pb facs="#"/> Sie aßen systematisch, überzeugt, mit Absicht. Sie aßen, als gelte es
+               Vorrat zu essen ohne Rücksicht auf diesen geschwollnen Patron, der ihnen durch seinen
+               ganzen Prozeß, durch sein ganzes schuldbewußtes Benehmen die Überzeugung eingab, es
+               komme nun nicht mehr drauf an, Rücksicht walten zu lassen.</p>
             <p>Während des Mittagessens aber machte Lottely einen Finger gegen Flametti und drohte
                klug: »Du, du!« schlug mit dem Suppenlöffel auf den Tisch, daß die Körner der
                Reissuppe spritzten; schnellte sich in unbewachten Momenten mit beiden schmutzigen
@@ -4021,8 +4037,8 @@
                wenn sie noch spät nach der Polizeistunde auf der Straße irrte.</p>
             <p>Engbrüstig und schmal war sie von Gestalt, ein Lehrerinnentyp.</p>
             <p>Einen Kneifer trug sie und strich mit dem Fiedelbogen so ausdruckslos freundlich und
-               doch akkurat und energisch ihr Instrument, <pb/> daß man ihr wirklich nicht böse sein
-               konnte.</p>
+               doch akkurat und energisch ihr Instrument, <pb facs="#"/> daß man ihr wirklich nicht
+               böse sein konnte.</p>
             <p>»Soll ich mal was spielen?« fragte sie harmlos.</p>
             <p>»Ja, fiedel mal los!« sagte Raffaëla.</p>
             <p>Aber die Geigen-Marie genierte sich.</p>
@@ -4051,8 +4067,8 @@
             <p>Marie war argwöhnisch geworden.</p>
             <p>»Ihr macht Spaß mit mir!« sagte sie ein wenig rauh und erkältet.</p>
             <p>
-               <pb/> »Nein, nein«, versicherte Raffaëla, »das ist bei uns anders als bei der
-               Heilsarmee. Bei uns gibt es Kavaliere, Lebewelt. Da muß man herzeigen, was man zu
+               <pb facs="#"/> »Nein, nein«, versicherte Raffaëla, »das ist bei uns anders als bei
+               der Heilsarmee. Bei uns gibt es Kavaliere, Lebewelt. Da muß man herzeigen, was man zu
                bieten hat.«</p>
             <p>Flametti fühlte sehr wohl, daß die Frivolität dieser Szene nur gegen ihn gerichtet
                war; daß man sich lustig machte.</p>
@@ -4078,9 +4094,9 @@
                wollen den Verdacht auf den kleinen Bobby lenken. Sie haben einen Dietrich gehabt.
                Das sind Verbrecher. Das läßt du dir nicht bieten!«</p>
             <p>Aber Flametti lächelte, bitter und verlegen: »Wer kann's ihnen beweisen? Die
-               Quittungen sind fort. Ein Eßtisch ist kein <pb/> Kassenschrank. Vielleicht hatte ich
-               nicht abgeschlossen. Vielleicht hab' ich selbst die Blätter in der Aufregung
-               herausgerissen. Laß nur! Die paar Franken tun's auch nicht!«</p>
+               Quittungen sind fort. Ein Eßtisch ist kein <pb facs="#"/> Kassenschrank. Vielleicht
+               hatte ich nicht abgeschlossen. Vielleicht hab' ich selbst die Blätter in der
+               Aufregung herausgerissen. Laß nur! Die paar Franken tun's auch nicht!«</p>
             <p>Und er zahlte die vollen Beträge aus.</p>
             <p>Am Abend aber, in der Garderobe, als er sich Maske schminkte und mit der Soubrette
                allein war, drängte es ihn doch, sich auszusprechen.</p>
@@ -4104,9 +4120,9 @@
             <p>Fräulein Laura eilte zurück zur Schminkschatulle.</p>
             <p>Flametti warf seinen Häuptlingsrock über den Kopf.</p>
             <p>
-               <pb/> »Jenny versucht ja alles. Sie schafft Geld und sie hat sich ihre Aussage so
-               zurechtgelegt, das man den beiden nicht glauben wird ... Wenn der Schwindel glückt
-               ...!«</p>
+               <pb facs="#"/> »Jenny versucht ja alles. Sie schafft Geld und sie hat sich ihre
+               Aussage so zurechtgelegt, das man den beiden nicht glauben wird ... Wenn der
+               Schwindel glückt ...!«</p>
             <p>Er selbst schien nur halb dran zu glauben. Trotzdem konnte er sich nicht verkneifen,
                ein wenig zu renommieren. Im Indianerkostüm ging's wohl nicht anders.</p>
             <p>»Man kennt mich zu gut! Weiß, daß ich ein Gewaltsmensch bin; wen man vor sich hat,
@@ -4133,7 +4149,7 @@
             <p>»Das ist es ja nicht!« zwinkerte er, »sie hat geschrien. Sie hat sich gewehrt. Und
                gerade das hat mich gereizt, verstehen Sie?«</p>
             <p>
-               <pb/> Er drückte sich den Indianerkitt auf die Nasenkante.</p>
+               <pb facs="#"/> Er drückte sich den Indianerkitt auf die Nasenkante.</p>
             <p>Die Soubrette verstand. Und nickte bedenklich.</p>
             <p>»Haben Sie einen Anwalt?«</p>
             <p>»Selbstverständlich!« lächelte Flametti in aller Seelenruhe aus der Kniebeuge; er
@@ -4159,12 +4175,12 @@
                ihrem Tisch stehend, mit souverän-salopper Indifferenz von seinem speckigen
                Gehrockkragen die verirrten Spritzer des Petroleums wischte, das er in langen,
                brausenden Flammen, einem Höllenfürsten vergleichbar, ausgespuckt hatte.</p>
-            <p>Seine Feuernummer liebte Flametti abgöttisch. Ein Pyromante <pb/> und Sadist war er
-               von Natur. Und wenn er, ein wenig angetrunken, oder berauscht von Opium, darauf
-               verzichtete, das Petroleum, das ihm vom Mund tropfte, abzuwischen, dann schimmerten
-               seine wulstigen Lippen in jenem bläulichen Fäulnisschein, der gemischt mit Trauer und
-               Melancholie, jenen Sendboten der Hölle eignet, die in Wahrheit Zeloten des Edelsinns
-               und Verdammte der himmlischen Bourgeoisie sind.</p>
+            <p>Seine Feuernummer liebte Flametti abgöttisch. Ein Pyromante <pb facs="#"/> und Sadist
+               war er von Natur. Und wenn er, ein wenig angetrunken, oder berauscht von Opium,
+               darauf verzichtete, das Petroleum, das ihm vom Mund tropfte, abzuwischen, dann
+               schimmerten seine wulstigen Lippen in jenem bläulichen Fäulnisschein, der gemischt
+               mit Trauer und Melancholie, jenen Sendboten der Hölle eignet, die in Wahrheit Zeloten
+               des Edelsinns und Verdammte der himmlischen Bourgeoisie sind.</p>
             <p>Der Polizeihauptmann Schumm schickte seine Kommissare immer häufiger um Auskünfte,
                Recherchen und Feststellungen.</p>
             <p>Flametti, an unbehelligte Freiheit gewöhnt, riß die Geduld.</p>
@@ -4188,9 +4204,9 @@
             <p>Mutter Dudlinger spendierte zwei Flaschen Asti und man saß oben in Flamettis Stube,
                zu vieren, und feierte Bruderschaft.</p>
             <p>
-               <pb/> Ein alter, eidgenössischer Burschenschaftler war jener Gast, gemütlich, breit,
-               keine Spur von Spitzel oder Detektiv; das Gegenteil davon: ein weinseliger Zecher mit
-               Riesenbizeps und Goliathstirn.</p>
+               <pb facs="#"/> Ein alter, eidgenössischer Burschenschaftler war jener Gast,
+               gemütlich, breit, keine Spur von Spitzel oder Detektiv; das Gegenteil davon: ein
+               weinseliger Zecher mit Riesenbizeps und Goliathstirn.</p>
             <p>Auf streifte er seinen Hemdärmel, ballte die Faust, eine Seele von Mensch, und ließ
                den Muskel schwellen.</p>
             <p>Flametti tat das gleiche. So saß man sich gegenüber auf dem Kanapee und sah sich voll
@@ -4220,8 +4236,8 @@
                Theresens Gesicht war lang geworden, ihre Nase spitz, ihre Augen grell. Die Jahre,
                die so himmelblau und sommerlich begonnen, hatten sich verschwärzt.</p>
             <p>
-               <pb/> Ein verschwärztes Mädchen, saß Fräulein Theres in der verlassenen Stube, wenn
-               ihre Herrschaft zum Konzert gegangen war.</p>
+               <pb facs="#"/> Ein verschwärztes Mädchen, saß Fräulein Theres in der verlassenen
+               Stube, wenn ihre Herrschaft zum Konzert gegangen war.</p>
             <p>Eine Halbe Bier stand vor ihr auf dem Tisch und Fräulein Theres rauchte Stumpen, den
                Arm auf den Tisch gestützt, die müden Glieder nur mit Seufzen hebend, wenn das Gas
                heruntergebrannt war und man ein neues Zwanzigcentimes-Stück in den Automaten werfen
@@ -4248,12 +4264,12 @@
                war der begründeten Meinung, daß in der Fuchsweide viel ärgere Sünder ungeschoren ihr
                Wesen trieben.</p>
             <p>
-               <pb/> »Mach' dir keine Sorge!« sagte sie zu Max, »der Ferrero hat ganz andere Sachen
-               hinter sich. Und der Pfäffer – was der für eine Wirtschaft hatte! Ich weiß doch! Ich
-               war doch Soubrette bei ihm! Die reine Haremsagentur nach Konstantinopel. Das sind ja
-               Falschspieler alle durch die Bank! Seine Lehrmädels müssen mit den Metzgerburschen
-               anbändeln, damit er das Fleisch gratis hat. Das sag' ich dir: wenn wir reinfallen:
-               die ganze Fuchsweide lasse ich hochgehen!«</p>
+               <pb facs="#"/> »Mach' dir keine Sorge!« sagte sie zu Max, »der Ferrero hat ganz
+               andere Sachen hinter sich. Und der Pfäffer – was der für eine Wirtschaft hatte! Ich
+               weiß doch! Ich war doch Soubrette bei ihm! Die reine Haremsagentur nach
+               Konstantinopel. Das sind ja Falschspieler alle durch die Bank! Seine Lehrmädels
+               müssen mit den Metzgerburschen anbändeln, damit er das Fleisch gratis hat. Das sag'
+               ich dir: wenn wir reinfallen: die ganze Fuchsweide lasse ich hochgehen!«</p>
             <p>Behaupten mußte man sich, Respekt und Vertrauen einflößen. Zu Hause und im Ensemble.
                Dann würde man vor Gericht schon sehen!</p>
             <p>Und Jenny legte sich einen Bluff zurecht, der zunächst das Vertrauen der
@@ -4275,8 +4291,8 @@
                den Arm sinken ließ und träumerisch verzückt an Jennys Augen hing.</p>
             <p>»Nein, Jenny, sag' wirklich, gibt's eine Gans?«</p>
             <p>»Werdet schon sehen!« tat Jenny geheimnisvoll.</p>
-            <p>Da konnte man denn so recht sehen, wie solche Bravourstücke <pb/> einer auf's Ganze
-               gerichteten Erfindungsgabe niemals ihre gute Wirkung verfehlen.</p>
+            <p>Da konnte man denn so recht sehen, wie solche Bravourstücke <pb facs="#"/> einer
+               auf's Ganze gerichteten Erfindungsgabe niemals ihre gute Wirkung verfehlen.</p>
             <p>Gebändigt waren Lydia und Raffaëla mit einem Schlage. Um den Finger konnte man sie
                wickeln. Pünktlich wurden sie wie Normaluhren. Zahm wie Tauben.</p>
             <p>Ja, der Ruf von Flamettis Solvenz verbreitete sich im Handumdrehn.</p>
@@ -4302,8 +4318,8 @@
                Gesichter machen werden! Das wird ein Fez! Jawohl: Gans! Husten werd' ich ihnen
                was!«</p>
             <p>
-               <pb/> Als aber Raffaëla und Lydia kamen, öffnete Jenny das Büfett wie man das
-               Triptychon eines Altars öffnet.</p>
+               <pb facs="#"/> Als aber Raffaëla und Lydia kamen, öffnete Jenny das Büfett wie man
+               das Triptychon eines Altars öffnet.</p>
             <p>»Seht her«, sagte sie, »die herrliche Gans!« Und sie nahm die Schüssel aus dem
                Schrank und hob sie hoch, wie Salome die Schüssel mit dem Haupt des Jochanaan
                hochhob, und Raffaëla schrie auf:</p>
@@ -4330,9 +4346,9 @@
             <p>»Aehhh!« rief Raffaëla, »wir kommen auch! Wir kommen auch!«</p>
             <p>Aber Lydia war schon wieder sentimental geworden. Emils gedachte sie beim Anblick der
                Gans, dieses Wahrzeichens von Kultur und Wohlstand, dieses Inbegriffs aller
-               heimischen Geborgenheit und ehelichen Einfalt. Ihres fernen Emils gedachte <pb/> sie
-               und glücklicherer, vergangener Zeiten. Salzige Tränen rannen ihr über die schlaff
-               geweinten Wangen ...</p>
+               heimischen Geborgenheit und ehelichen Einfalt. Ihres fernen Emils gedachte <pb
+                  facs="#"/> sie und glücklicherer, vergangener Zeiten. Salzige Tränen rannen ihr
+               über die schlaff geweinten Wangen ...</p>
             <p>Gelang es Jenny auf diese Weise, den am Verfall sich mästenden Zynismus der beiden
                Scheideisen zu knebeln, so sah sie doch ein, daß damit nur die Hälfte der Arbeit
                geleistet war.</p>
@@ -4362,7 +4378,7 @@
             <p>»Du, Engel, sag' mal, was ist das eigentlich mit dem Ensemble, das der Meyer vorhat?
                Brauchst dich nicht zu genieren. Kannst es frei heraussagen.«</p>
             <p>
-               <pb/> Engel wurde sehr verlegen.</p>
+               <pb facs="#"/> Engel wurde sehr verlegen.</p>
             <p>»Was weiß ich von einem Ensemble!« stotterte er. »Da weiß ich nichts von.« Und
                harmlos: »Das Apachenstück haben wir zusammen geschrieben, Herr Meyer und ich
                ...«</p>
@@ -4389,8 +4405,8 @@
 
             <p>»Lena«, sagte Jenny zu der früheren Pianistin, als die einmal wieder zu Besuch kam,
                »du kommst gerade recht. Jeden Moment kann die Soubrette kommen. Die wollen doch weg
-               von <pb/> uns. Der Meyer will eine eigene Truppe machen. Du sollst mal sehen, wie ich
-               die ins Gebet nehme!«</p>
+               von <pb facs="#"/> uns. Der Meyer will eine eigene Truppe machen. Du sollst mal
+               sehen, wie ich die ins Gebet nehme!«</p>
             <p>»Wollte dir nur sagen«, dienerte Lena, »daß ich die zwei Unterschriften mitgebracht
                habe. Schon besorgt. Hier ist die eine, von meinem Mann; hier die andere, von dem
                Leinvogel.«</p>
@@ -4417,8 +4433,8 @@
                darauf ankam, der Soubrette das Heikle der Situation Flamettis auszureden.</p>
             <p>»Ja, wir haben gerade vom Prozeß gesprochen. Jetzt ist es aus mit der Güssy, aus mit
                der Traute. Jetzt können sie einpacken, die beiden. Sehen sie her: da haben Sie's
-               schwarz auf <pb/> weiß!« Und sie zeigte Fräulein Laura die beiden Papiere, die Lena
-               mitgebracht hatte.</p>
+               schwarz auf <pb facs="#"/> weiß!« Und sie zeigte Fräulein Laura die beiden Papiere,
+               die Lena mitgebracht hatte.</p>
             <p>Lena lächelte.</p>
             <p>Die Soubrette nahm einen Schluck Kaffee, schob ihre Mütze ein wenig zurück und
                las.</p>
@@ -4446,9 +4462,9 @@
                Beweise!«</p>
             <p>Und mit ausgestrecktem Arm in eine vage Richtung zeigend: »Die eine hat einen Meineid
                geleistet. Kann ich beweisen. In meiner eigenen Stube. Die andre hat eine ganze
-               Wachtstube von Schutzleuten, denen sie Rippchen brachte – damals war <pb/> sie noch
-               Kellnerin – ins Krankenhaus gebracht und drei Jahre Arbeitshaus dafür abgesessen
-               ...!«</p>
+               Wachtstube von Schutzleuten, denen sie Rippchen brachte – damals war <pb facs="#"/>
+               sie noch Kellnerin – ins Krankenhaus gebracht und drei Jahre Arbeitshaus dafür
+               abgesessen ...!«</p>
             <p>Und da sie merkte, das seien unwahrscheinliche Dinge, so fügte sie bei: »Von Rechts
                wegen hätte sie gar nicht auftreten dürfen. Aber was tut man nicht!«</p>
             <p>Sie machte eine Pause, um Luft zu schnappen und die Wirkung abzuwarten.</p>
@@ -4472,7 +4488,7 @@
             <p>»Wissen Sie, Laura«, begann Jenny von neuem, »– bleiben Sie doch noch 'nen Moment! –
                wissen Sie: schließlich ist's ja egal, ob wir den Prozeß gewinnen oder verlieren. Da
                bleiben noch allerhand Möglichkeiten. Wir brauchten uns nur zum Beispiel Pässe zu
-               verschaffen nach Deutschland und die ›Indianer‹ <pb/> für großes Varieté zu
+               verschaffen nach Deutschland und die ›Indianer‹ <pb facs="#"/> für großes Varieté zu
                bearbeiten. Es ist ja borniert von uns, hier zu sitzen mit einem solchen Schlager!
                Deutschland wär' wie geschaffen dafür! Säcke voll Geld könnten wir machen. Aber das
                will mein Mann nicht. Im schlimmsten Fall und wenn alle Stricke reißen, wird er ein
@@ -4501,7 +4517,7 @@
             <p>»Geh', Jenny, reg'dich doch nicht auf!« beruhigte Lena, »wir haben sie ja in der
                Hand! Wir wissen ja Bescheid!«</p>
             <p>
-               <pb/> »Was wollen Sie von mir? Was können Sie mir nachsagen?« schluckte die
+               <pb facs="#"/> »Was wollen Sie von mir? Was können Sie mir nachsagen?« schluckte die
                Soubrette.</p>
             <p>»Nun, Ihr Herr Meyer – erinnern Sie sich mal! – wo haben Sie denn gewohnt, bevor Sie
                zu Flametti kamen?«</p>
@@ -4531,9 +4547,9 @@
             <p>Und sie begaben sich selbander zur Druckerei, um nach dem Preis beschlossener Plakate
                zu fragen.</p>
             <p>
-               <pb/> An der Ecke aber, beim Rudolf Mosse-Haus, kamen ihnen entgegen Güssy und
-               Traute, sehr frisch, sehr wirsch und vertraut, mit roten Backen, in roten und braunen
-               Strickjacketts.</p>
+               <pb facs="#"/> An der Ecke aber, beim Rudolf Mosse-Haus, kamen ihnen entgegen Güssy
+               und Traute, sehr frisch, sehr wirsch und vertraut, mit roten Backen, in roten und
+               braunen Strickjacketts.</p>
             <p>»Ah, Laura! Ah, der Herr Meyer!« riefen sie schon von weitem, »wie geht's? Wie
                steht's? Könnt ihr uns nicht brauchen? Wir haben gehört, ihr macht eine Truppe!«</p>
             <p>»Wo denkt ihr hin, eine Truppe!« warf Laura weit weg.</p>
@@ -4559,8 +4575,8 @@
             <p>Man hatte sich schon ein wenig entfernt von einan der, aber die Hand Fräulein Güssys
                ruhte noch immer in der des Herrn Meyer. Ihr langer Arm glich einer Rosengirlande,
                die sich am Kleid verhakt, wenn man vorübergeht.</p>
-            <p>Als Flametti diesen Abend zur Vorstellung kam, pfifferte er <pb/> viel vor sich hin,
-               wie es seine Gewohnheit war, wenn ihn Unangenehmes heftig beschäftigte.</p>
+            <p>Als Flametti diesen Abend zur Vorstellung kam, pfifferte er <pb facs="#"/> viel vor
+               sich hin, wie es seine Gewohnheit war, wenn ihn Unangenehmes heftig beschäftigte.</p>
             <p>Er zerbrach Zündhölzchen zwischen den Fingern, untersuchte die Leuchter am Klavier,
                untersuchte die Vorhangschnur, kratzte mit der Stiefelspitze an Papierschnitzeln, die
                auf dem Boden lagen, und ging auf und ab.</p>
@@ -4585,12 +4601,12 @@
                wie das Geschäft geht. Ihr könnt's euch doch an den Fingern abzählen, was übrig
                bleibt! Zehn Leute ernähren – glauben Sie nicht, daß das einfach ist! Ich kann euch
                ja eine Kleinigkeit zulegen, ab fünfzehnten. Aber mehr kann ich nicht tun. Wenn Meyer
-               will – ich mach' ihn zum Regisseur. Ich habe jetzt meinen <pb/> Prozeß. Meyer ist
-               tüchtig, Meyer ist still, Meyer ist anständig. Man hat Respekt vor ihm. Er kann mich
-               vertreten. Vertrauensstellung. Vielleicht vergrößern wir, wenn erst der Prozeß vorbei
-               ist, und teilen die Truppe. Er kann die eine Hälfte leiten, ich nehme die andre. Aber
-               man muß sich doch aussprechen! Ich kann's ihm doch nicht am Gesicht ablesen! Tut doch
-               den Mund auf, wenn ihr was zu sagen habt!«</p>
+               will – ich mach' ihn zum Regisseur. Ich habe jetzt meinen <pb facs="#"/> Prozeß.
+               Meyer ist tüchtig, Meyer ist still, Meyer ist anständig. Man hat Respekt vor ihm. Er
+               kann mich vertreten. Vertrauensstellung. Vielleicht vergrößern wir, wenn erst der
+               Prozeß vorbei ist, und teilen die Truppe. Er kann die eine Hälfte leiten, ich nehme
+               die andre. Aber man muß sich doch aussprechen! Ich kann's ihm doch nicht am Gesicht
+               ablesen! Tut doch den Mund auf, wenn ihr was zu sagen habt!«</p>
             <p>Die Soubrette schwieg.</p>
             <p>»Jenny hat mir erzählt. Sie wissen ja, ich liebe meine Frau. Sie übertreibt manchmal;
                das dürfen Sie nicht tragisch nehmen! Ich weiß ja nicht, was sie gesagt hat. Aber
@@ -4613,10 +4629,11 @@
                nicht unberührt, die Partei seiner Frau.</p>
             <p>»Wen geht es was an?« zuckte die Soubrette und schluchzte.</p>
             <p>»Wer hat mir was dreinzureden? Wenn ich mich ausbiete auf der Straße, wenn ich jede
-               Nacht in einem andern Hotel schlafe<pb/> – wen geht es was an? Kümm're ich mich um
-               andre? Mische ich mich in die Angelegenheiten der andern? Laufe ich zur Polizei, wenn
-               man mir was anvertraut? Mir hat Ihre Frau das Zehnfache anvertraut! Was hat sie mir
-               alles vertraut! Wollte ich's wissen? Hab' ich Gebrauch davon gemacht?«</p>
+               Nacht in einem andern Hotel schlafe<pb facs="#"/> – wen geht es was an? Kümm're ich
+               mich um andre? Mische ich mich in die Angelegenheiten der andern? Laufe ich zur
+               Polizei, wenn man mir was anvertraut? Mir hat Ihre Frau das Zehnfache anvertraut! Was
+               hat sie mir alles vertraut! Wollte ich's wissen? Hab' ich Gebrauch davon
+               gemacht?«</p>
             <p>»Na, das tun Sie ja auch wohl nicht!« begütigte Flametti und streichelte ihr Haar.
                »So weit kommt's ja wohl nicht! Eine Hand wäscht die andere. Ich hoffe ja, daß wir
                uns verstehen. Wir werden ja keinen Gebrauch davon machen. Und ich werde auch mit
@@ -4641,15 +4658,15 @@
             <p>»Kinder!« sagte Raffaëla nach der Vorstellung, »die Nacht, diese Nacht!«</p>
             <p>Sie meinte die Nacht, in der die Gans verzehrt wurde.</p>
             <p>
-               <pb/> »Das war ja toll! Das sind ja Falschspieler der schlimmsten Sorte! Vier Kerls
-               waren da. Und Flametti war angetrunken. Sein ganzes Geld hat er verspielt! Und dann
-               ging er auf seine Frau los: ›Du hast mich verraten! Du bist schuld an allem! Du hast
-               mir das eingebrockt! Jetzt holst du mir noch deine Liebhaber ins Haus und lockst mir
-               das letzte Geld aus der Ta sche!‹ .... Das war ja nicht mehr schön! Die Gans hatte
-               Flametti gar nicht bezahlt! Die Kerls hatten sie bezahlt! Wie die gegessen haben,
-               davon macht ihr euch keinen Begriff! Das ganze Geld haben sie ihm abgenommen, und
-               dann brachten sie ihn ins Bett. Getobt hat er! Und gingen zu der Dudlinger hinunter,
-               Jenny und die vier Brüder! Das ganze Haus stand auf dem Kopf!«</p>
+               <pb facs="#"/> »Das war ja toll! Das sind ja Falschspieler der schlimmsten Sorte!
+               Vier Kerls waren da. Und Flametti war angetrunken. Sein ganzes Geld hat er verspielt!
+               Und dann ging er auf seine Frau los: ›Du hast mich verraten! Du bist schuld an allem!
+               Du hast mir das eingebrockt! Jetzt holst du mir noch deine Liebhaber ins Haus und
+               lockst mir das letzte Geld aus der Ta sche!‹ .... Das war ja nicht mehr schön! Die
+               Gans hatte Flametti gar nicht bezahlt! Die Kerls hatten sie bezahlt! Wie die gegessen
+               haben, davon macht ihr euch keinen Begriff! Das ganze Geld haben sie ihm abgenommen,
+               und dann brachten sie ihn ins Bett. Getobt hat er! Und gingen zu der Dudlinger
+               hinunter, Jenny und die vier Brüder! Das ganze Haus stand auf dem Kopf!«</p>
             <p>»Ja, wart ihr denn auch dabei?« fragte die Soubrette.</p>
             <p>Lydia winkte ab. »Natürlich! Wir waren doch eingeladen! Aber für so was, nein, nein,
                dafür sind wir nicht zu haben! Wir gingen natürlich, als es mal drei Uhr war.«</p>
@@ -4670,7 +4687,8 @@
             <p>Nachmittags aber, als man gerade beim Kaffeetisch saß, klopfte es an der Türe,
                behutsam und diskret.</p>
             <p>
-               <pb/> Ein Detektiv stand draußen, wieder einmal. Alle schracken zusammen.</p>
+               <pb facs="#"/> Ein Detektiv stand draußen, wieder einmal. Alle schracken
+               zusammen.</p>
             <p>Flametti beeilte sich, den Herrn zu empfangen.</p>
             <p>»Fräulein Laura«, kam er geschäftig zurück, »für Sie!«</p>
             <p>»Für mich?« fuhr Laura zusammen.</p>
@@ -4696,7 +4714,7 @@
             <p>»Ja, ja«, meinte Flametti.</p>
             <p>»Was war denn?« interessierte sich Jenny.</p>
             <p>»Nichts, nichts!« wehrte Laura ab.</p>
-            <p>Jenny fühlte sich verpflichtet, einige Ansichten über die Polizei <pb/> im
+            <p>Jenny fühlte sich verpflichtet, einige Ansichten über die Polizei <pb facs="#"/> im
                allgemeinen und die Detektivs im besonderen von sich zu geben.</p>
             <p>»Hm, diese Kerls!« meinte sie, »nirgends ist man sicher vor ihnen! Max, sag', die
                müssen doch aus den hintersten Familien stammen!«</p>
@@ -4727,11 +4745,11 @@
             <p>Bobby laborierte an einer Entzündung und die Bögen und Handstände fielen ihm schwer.
                Aber er schaffte es.</p>
             <p>
-               <pb/> Herr Meyer seinerseits saß pünktlich um sechs allabends am Piano, um das wie
-               Pleureusen die Tropfen von der Decke fielen. Die Portiere am Eingang – Türen gab es
-               nicht – klatschte vereist an die Beine etwelcher zirkussüchtiger Gäste. Die Kalkwände
-               der Garderoben blätterten ab. ›Frühling ist's, die Blumen blühen wieder‹ – selige
-               Erinnerung.</p>
+               <pb facs="#"/> Herr Meyer seinerseits saß pünktlich um sechs allabends am Piano, um
+               das wie Pleureusen die Tropfen von der Decke fielen. Die Portiere am Eingang – Türen
+               gab es nicht – klatschte vereist an die Beine etwelcher zirkussüchtiger Gäste. Die
+               Kalkwände der Garderoben blätterten ab. ›Frühling ist's, die Blumen blühen wieder‹ –
+               selige Erinnerung.</p>
             <p>Flametti und Jenny allein bewahrten Humor.</p>
             <p>Zum Zeichen ihres absoluten unwandelbaren Einvernehmens sangen sie zusammen die
                ›Meistersinger von Berlin‹, ein revueartiges Duett, das unter ihrer scharf
@@ -4755,10 +4773,10 @@
             <p>Aber Theres machte ein Gesicht, so diffizil und spitz, wie ein Moskito, dem ein
                Ausräucherungsdampf in die empfindliche Nase fuhr.</p>
             <p>Nein, nein, sie hatte genug. Wenn man nicht einmal in der Küche seine Ruhe haben
-               sollte – Verhörzimmer auf ihre alten <pb/> Tage, Detektiv am Herd, am Spülstein, im
-               Kohlenkasten ... »Nein nein, Frau«, sagte sie, gröber als sie es meinte und mit einer
-               Art schluchzendem Humor, »ich will nicht auf meine alten Tage den Remis noch kriegen!
-               Am fünfzehnten geh' ich.«</p>
+               sollte – Verhörzimmer auf ihre alten <pb facs="#"/> Tage, Detektiv am Herd, am
+               Spülstein, im Kohlenkasten ... »Nein nein, Frau«, sagte sie, gröber als sie es meinte
+               und mit einer Art schluchzendem Humor, »ich will nicht auf meine alten Tage den Remis
+               noch kriegen! Am fünfzehnten geh' ich.«</p>
             <p>Umsonst versuchte Jenny, ihr den närrischen Einfall auszureden. Umsonst Flametti, ihr
                eine wärmere Küche, Stumpen auf der Stelle, und eine Flasche Bier vor die Phantasie
                zu rücken. Nichts mehr verfing. Theres blieb bei der Kündigung. Sie hatte ihre eigene
@@ -4782,8 +4800,9 @@
                der Braut widerstand er nicht länger.</p>
             <p>Zwei Tage Bedenkzeit waren bereits verstrichen. Der Zeitpunkt war da. Jetzt mußte
                gehandelt werden.</p>
-            <p>Die Moralität obsiegte. Hundert Plakate kosteten achtzehn <pb/> Franken. Das war zu
-               erschwingen. In drei Tagen konnten sie fertig sein. Man war gefaßt auf alles.</p>
+            <p>Die Moralität obsiegte. Hundert Plakate kosteten achtzehn <pb facs="#"/> Franken. Das
+               war zu erschwingen. In drei Tagen konnten sie fertig sein. Man war gefaßt auf
+               alles.</p>
             <p>›Raffaëla-Ensemble‹ sollte die Gründung heißen nach dem Namen der hervorragendsten
                Kraft. Raffaëla hatte Bekannte in Arbon am Bodensee. Dort würde man debütieren,
                auswärts sich die ersten Meriten holen. Noch mußte gesprochen werden mit
@@ -4812,7 +4831,7 @@
             <p>»Tun Sie, was Sie nicht lassen können«, sagte Flametti. »Sie müssen's am besten
                wissen. Ich will Ihrem Glück nicht im Wege stehen. Wenn Sie glauben ...«</p>
             <p>
-               <pb/> »Ich glaube!« sagte Meyer.</p>
+               <pb facs="#"/> »Ich glaube!« sagte Meyer.</p>
             <p>»Na, gehen wir zur Vorstellung!«</p>
             <p>Und Flametti zahlte, auch für den neuen Herrn Direktor, der zu schüchtern war,
                ›Lina‹, ›Frieda‹, oder ›Kathrein‹ zu rufen.</p>
@@ -4841,7 +4860,7 @@
                Kontrakt hin, Kontrakt her!</p>
             <p>Und Herr Meyer sagte:</p>
             <p>
-               <pb/> »Die sollen uns kennen lernen!«</p>
+               <pb facs="#"/> »Die sollen uns kennen lernen!«</p>
             <p>Und Bobby sagte:</p>
             <p>»Geht's besser Laura?« und stand sehr besorgt am Bett.</p>
             <p>Und Lydia und Raffaëla sagten:</p>
@@ -4873,7 +4892,7 @@
                sittliche Minderwertigkeit der Klägerinnen eine eidesstattliche Versicherung zu
                riskieren.</p>
             <p>
-               <pb/> Aber Jenny wurde doch immer nervöser.</p>
+               <pb facs="#"/> Aber Jenny wurde doch immer nervöser.</p>
             <p>»Was machst du nun, Max?« fragte sie ernstlich besorgt, als Max von Farolyi
                zurückkam.</p>
             <p>»Was mach' ich? Verteidige mich selbst.«</p>
@@ -4903,7 +4922,7 @@
                gefrönt‹, ›schon in den Kinderschuhen verdorben‹? Ich bin der Verführte, verstehst
                du? Angeboten haben sie sich. Gezwungen haben sie mich, direkt belästigt!«</p>
             <p>
-               <pb/> Jenny war ganz verstört.</p>
+               <pb facs="#"/> Jenny war ganz verstört.</p>
             <p>»Wenn es nur durchgeht, Max!«</p>
             <p>»Frage!«</p>
 

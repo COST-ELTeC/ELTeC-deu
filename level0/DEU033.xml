@@ -46,11 +46,11 @@
    </teiHeader>
 
    <text>
-
+      
       <body>
          <div type="chapter">
-            <p>
-               <pb/> Einleitung</p>
+            <head>
+               <pb facs="#"/> Einleitung</head>
             <p>Wenn ich dir, lieber Leser, die Geschichte des alten Bürgers, meines Urgroßvaters,
                erzähle, so setze beileibe keine tiefsinnige Absicht in mir voraus, keinen
                großartigen Standpunkt oder kühnen Griff in die Region des Zopftums; nicht eine
@@ -73,17 +73,17 @@
                Ob Herr Haller nicht geneigt seien, sich von ihm malen zu lassen? Er betreibe diese
                Kunst.</p>
             <p>
-               <pb/> Ich habe in meines Vorfahren Leben keinen weiteren Zug aufzuspüren vermocht,
-               welcher Neigung oder Eitelkeit eines Mäzen bekundet haben würde. Heute aber: ein
-               rascher Blick auf den bittstellenden Künstler – und er ward's! Der junge, blasse
-               Mensch sah aus wie guter Leute Kind. Wie sorgfältig gebürstet war sein knapper Rock,
-               aber wie abgetragen und fadenscheinig! Wie blank gewichst glänzten die Stiefeln, aber
-               wie bedenklich drohten die Flicken auf den Ballen wieder auszuplatzen! Und das mitten
-               im Januar! Er mochte wohl der Truppe angehören, die seit voriger Woche, nicht wie in
-               der guten alten Zeit in der Scheune des Gasthofs zum Goldenen Scheffel, nein, Gott
-               sei's geklagt! im ehrwürdigen Rathaussaale ihre Schauspiele zum besten gab, in dem
-               nämlichen Saale, wo vor dreißig Jahren David Hallers Hochzeitsfest gefeiert worden
-               war.</p>
+               <pb facs="#"/> Ich habe in meines Vorfahren Leben keinen weiteren Zug aufzuspüren
+               vermocht, welcher Neigung oder Eitelkeit eines Mäzen bekundet haben würde. Heute
+               aber: ein rascher Blick auf den bittstellenden Künstler – und er ward's! Der junge,
+               blasse Mensch sah aus wie guter Leute Kind. Wie sorgfältig gebürstet war sein knapper
+               Rock, aber wie abgetragen und fadenscheinig! Wie blank gewichst glänzten die
+               Stiefeln, aber wie bedenklich drohten die Flicken auf den Ballen wieder auszuplatzen!
+               Und das mitten im Januar! Er mochte wohl der Truppe angehören, die seit voriger
+               Woche, nicht wie in der guten alten Zeit in der Scheune des Gasthofs zum Goldenen
+               Scheffel, nein, Gott sei's geklagt! im ehrwürdigen Rathaussaale ihre Schauspiele zum
+               besten gab, in dem nämlichen Saale, wo vor dreißig Jahren David Hallers Hochzeitsfest
+               gefeiert worden war.</p>
             <p>Ob es nun die Vorstellung dieses Zeitenwandels bewirkte, oder eine noch weheleidigere
                Erinnerung, kurzum, eine jähe Röte stieg in meines Ahnherrn Gesicht, und ein Schatten
                tiefer Traurigkeit breitete sich über seine sonst so freundlichen Züge. Er winkte den
@@ -96,10 +96,10 @@
                mit einem Paar neuer rindslederner Stiefeln und sechs Ellen vom derbsten, grünen
                Kalmuck aus seinem Geschäft dem Verfertiger sein wohlgelungenes Stück.</p>
             <p>
-               <pb/> Ich habe mich vergeblich bemüht, etwas Näheres, oder eigentlich Ferneres über
-               diesen doppelter Kunst beflissenen Jüngling in Erfahrung zu bringen; er würde eine
-               interessante Staffage für mein Stilleben abgegeben haben. Denn obgleich ich fast
-               zweifle – ich bin kein Kenner –, ob das werte Familienbild einem Kunstwerk
+               <pb facs="#"/> Ich habe mich vergeblich bemüht, etwas Näheres, oder eigentlich
+               Ferneres über diesen doppelter Kunst beflissenen Jüngling in Erfahrung zu bringen; er
+               würde eine interessante Staffage für mein Stilleben abgegeben haben. Denn obgleich
+               ich fast zweifle – ich bin kein Kenner –, ob das werte Familienbild einem Kunstwerk
                entspreche, da es in ein paar Tagen gefertigt worden ist und im Grunde doch nur drei
                Laubtaler gekostet hat (Stiefeln und Kalmuck waren ja Geschenk!), so lasse ich mir es
                nicht nehmen, daß der blasse, junge Mensch ein großer Künstler gewesen oder geworden
@@ -117,13 +117,13 @@
                Marktplatz kamen, um seine Mittagsgäste zu sein.</p>
             <p>Der alte Herr hatte, soviel ich weiß, eine einzige Liebhaberei: das waren Uhren. Von
                jeder Leipziger Messe brachte er eine Uhr, in jeder Auktion forschte er nach einer
-               Uhr. Ein Stück Kulturgeschichte des achtzehnten Jahrhunderts <pb/> hätte ich an den
-               Uhren über und auf dem Schreibpult meines Urgroßvaters studieren können, wenn ich bei
-               seiner Lebzeit nicht noch ein gar zu einfältiges Menschenkind gewesen wäre. Da
-               standen und hingen sie nun alle nach der Größe gereiht und waren also gestellt, daß
-               eine zu schlagen immer anfing, wenn die andere aufgehört hatte. Das Bimmeln war mein
-               Gaudium, Nummer Eins aber, nach der Rathausuhr uns gegenüber gerichtet, der Regulator
-               des Hauses.</p>
+               Uhr. Ein Stück Kulturgeschichte des achtzehnten Jahrhunderts <pb facs="#"/> hätte ich
+               an den Uhren über und auf dem Schreibpult meines Urgroßvaters studieren können, wenn
+               ich bei seiner Lebzeit nicht noch ein gar zu einfältiges Menschenkind gewesen wäre.
+               Da standen und hingen sie nun alle nach der Größe gereiht und waren also gestellt,
+               daß eine zu schlagen immer anfing, wenn die andere aufgehört hatte. Das Bimmeln war
+               mein Gaudium, Nummer Eins aber, nach der Rathausuhr uns gegenüber gerichtet, der
+               Regulator des Hauses.</p>
             <p>Sobald die zwölfte Stunde ausgehoben hatte, stellten wir vier uns hinter unsere
                Stühle. Der Urgroßvater nämlich, die Großmutter, die Witwe seines einzigen Sohnes,
                deren einzige Tochter, meine Mutter, und ich, wieder ein einziges Kind. (Obgleich es
@@ -138,15 +138,16 @@
                gebührlichen Abwartung dieses Leutetisches willen war der der Familie auch von der
                elften Stunde in die zwölfte hinausgerückt.)</p>
             <p>Also wir standen mit gefalteten Händen hinter unseren Stühlen; der Urgroßvater betete
-               laut, dann verneigten wir uns gegeneinander, setzten uns, und das Mahl begann. <pb/>
-               Auf zinnernem Gerät nichts als Suppe und Braten; nur an hohen Feiertagen, inklusive
-               der Geburtsfeste der Familie, der noch Lebenden und der Toten, eine Schüssel mehr:
-               gewöhnlich Polnischer Karpfen. Aber wie delikat war alles zubereitet! es zerging
-               einem auf der Zunge. Ach, diese Gänse! Sie wurden auf dem Hofe gezogen; nicht etwa
-               genudelt, das heißt unmenschlich gemartert, nein sattsam gefüttert, ganz nach ihrem
-               gänslichen Belieben. Und dieses Füllsel von Beifuß und Borsdorfer Äpfeln! Kein Enkel
-               ißt wieder solchen Gänsebraten; schon um sein Andenken auf die Nachwelt zu bringen,
-               hätte ich die Geschichte meines Urgroßvaters und seines Hauses schreiben müssen.</p>
+               laut, dann verneigten wir uns gegeneinander, setzten uns, und das Mahl begann. <pb
+                  facs="#"/> Auf zinnernem Gerät nichts als Suppe und Braten; nur an hohen
+               Feiertagen, inklusive der Geburtsfeste der Familie, der noch Lebenden und der Toten,
+               eine Schüssel mehr: gewöhnlich Polnischer Karpfen. Aber wie delikat war alles
+               zubereitet! es zerging einem auf der Zunge. Ach, diese Gänse! Sie wurden auf dem Hofe
+               gezogen; nicht etwa genudelt, das heißt unmenschlich gemartert, nein sattsam
+               gefüttert, ganz nach ihrem gänslichen Belieben. Und dieses Füllsel von Beifuß und
+               Borsdorfer Äpfeln! Kein Enkel ißt wieder solchen Gänsebraten; schon um sein Andenken
+               auf die Nachwelt zu bringen, hätte ich die Geschichte meines Urgroßvaters und seines
+               Hauses schreiben müssen.</p>
             <p>Wir tranken auch Wein, alten guten Rheinwein; jeder ein Glas und der Urgroßvater
                zwei; nie mehr und nie weniger. Sobald der Braten aufgetragen war, stand der alte
                Herr auf, zog das schwarze Käppchen von seinem weißen Haar, klingte an den grünen
@@ -159,9 +160,9 @@
                geworden war, dessen Haar sich mit dem ihren gebleicht und der so vieles erduldet und
                verloren hatte. Sein Leben lang hatte David Haller mit jedem ersten Tropfen, der
                seine Lippen benetzte, die Gesundheit Seiner Kurfürstlichen Gnaden getrunken; nun
-               wurde es ihm herzlich sauer zu sagen: Seiner <pb/> Majestät dem König! Aber: »Alle
-               Obrigkeit ist von Gott«, darum schluckte David Haller die alte Liebe hinunter und tat
-               seine Schuldigkeit in diesem wie in jeglichem Stücke.</p>
+               wurde es ihm herzlich sauer zu sagen: Seiner <pb facs="#"/> Majestät dem König! Aber:
+               »Alle Obrigkeit ist von Gott«, darum schluckte David Haller die alte Liebe hinunter
+               und tat seine Schuldigkeit in diesem wie in jeglichem Stücke.</p>
             <p>Die Tafel war aufgehoben, die Danksagung laut vom Urgroßvater gesprochen; wir
                wünschten uns eine gesegnete Mahlzeit. Die Großmutter, selber schon nahe den
                Sechzigern, knickste bis zur Erde und küßte dem Herrn Vater ehrerbietig die Hand. Wie
@@ -182,9 +183,9 @@
                pflichtschuldiger Akt des Bürgers und Ratsherrn, guten Beispiels halber, zu
                betrachten sein; Herzens halber war er schon einmal im Gotteshause gewesen; früh um
                fünf in den Metten. Denn nur ein einziges Mal seit seinen Mannesjahren, an einem
-               bitterbösen Lebenstage, hat David Haller diese morgendliche Betstunde versäumt, <pb/>
-               und alles, was der bedrängte Mensch mit seinem Gewissen und mit seinem Herrgott
-               abzumachen hatte, das machte er ab in dieser stillen Feier.</p>
+               bitterbösen Lebenstage, hat David Haller diese morgendliche Betstunde versäumt, <pb
+                  facs="#"/> und alles, was der bedrängte Mensch mit seinem Gewissen und mit seinem
+               Herrgott abzumachen hatte, das machte er ab in dieser stillen Feier.</p>
             <p>Aus den Metten ging es dann regelmäßig, ob's regnete oder ob die Sonne schien, im
                Winter noch bei Sternenschein auf den Gottesacker, zu welchem der Schlüssel in der
                Tasche des Sonntagsrocks seinen Platz hatte. Dort ruhte er eine gute Weile zwischen
@@ -203,9 +204,9 @@
                städtische Honoratioren und werte Freunde ein Traktament in dieser guten Stube
                stattgefunden und David Haller bei dieser Gelegenheit gezeigt, daß er zu leben
                verstehe und einen würdigen Aufwand nicht scheue. Die Hausfrau, die natürlich in
-               Küche und Keller alle Hände voll zu tun hatte, erschien erst, wenn <pb/> der Kaffee
-               gereicht ward, die Gäste zu begrüßen und für die Ehre zu danken, die ihrem armen
-               Hause erzeigt worden sei.</p>
+               Küche und Keller alle Hände voll zu tun hatte, erschien erst, wenn <pb facs="#"/> der
+               Kaffee gereicht ward, die Gäste zu begrüßen und für die Ehre zu danken, die ihrem
+               armen Hause erzeigt worden sei.</p>
             <p>Wie gesagt, zu meiner Zeit hatten diese Festlichkeiten aufgehört; ich weiß nicht, ob
                infolge der beiden großen Sterbefälle in der Familie oder des Königlichwerdens, das
                einen Wechsel in den Beamtenverhältnissen mit sich gebracht hatte. Die gute Stube
@@ -224,13 +225,14 @@
             <p>»So erfinde was, mein Junge, lüge was; die Zeit wird mir gräßlich lang.«</p>
             <p>»Erfinden kann ich nichts, und lügen darf ich nicht. Aber weißt du, Großmutter,
                erzähle du mir was vom seligen Urgroßvater; das hör ich so gern.«</p>
-            <p>Und gleich war sie im Zuge. Stundenlang hörte ich<pb/> die alten oft gehörten
-               Geschichten von neuem mit an. Oftmals mochte ich wohl an etwas anderes dabei denken;
-               unwillkürlich aber prägten sie mir sich ein, so, als hätt ich mit dem alten Mann, der
-               mir ein liebes Bild hinterlassen hatte, Stück für Stück erlebt. Die Großmutter
-               erzählte nämlich allezeit nur gern von ihrem Schwiegervater; die Erinnerung an seinen
-               Sohn machte sie traurig. Den hatte sie wohl geliebt, aber jenen hatte sie verstanden;
-               darum wurde sie immer wieder jung, wenn sie an ihn zurückdachte.</p>
+            <p>Und gleich war sie im Zuge. Stundenlang hörte ich<pb facs="#"/> die alten oft
+               gehörten Geschichten von neuem mit an. Oftmals mochte ich wohl an etwas anderes dabei
+               denken; unwillkürlich aber prägten sie mir sich ein, so, als hätt ich mit dem alten
+               Mann, der mir ein liebes Bild hinterlassen hatte, Stück für Stück erlebt. Die
+               Großmutter erzählte nämlich allezeit nur gern von ihrem Schwiegervater; die
+               Erinnerung an seinen Sohn machte sie traurig. Den hatte sie wohl geliebt, aber jenen
+               hatte sie verstanden; darum wurde sie immer wieder jung, wenn sie an ihn
+               zurückdachte.</p>
             <p>Die alte Frau hatte eine Redensart, mit der sie ihr Temperament bezeichnete. »Ich,
                wie ein Wetter!« hieß es Satz um Satz. »Ich, wie ein Wetter, zum Bette heraus! Ich,
                wie ein Wetter, die Treppe hinunter oder den Boden hinauf!« und so weiter.</p>
@@ -241,14 +243,15 @@
                den Gang dieser Uhr und ihren Schlag gerichtet hätte.</p>
          </div>
          <div type="chapter">
-            <p>Erstes Kapitel</p>
-            <p>Ein Wunder!</p>
+            <head>Erstes Kapitel</head>
+            <head>Ein Wunder!</head>
             <p>Die alten Geschichten fielen mir heute alle wieder ein, als ich nach langer
                Abwesenheit von der Heimat über unseren Friedhof ging, der sich so malerisch in einer
-               Schlucht zwischen zwei schützenden Bergen hinanzieht. Die Gräber <pb/> meiner
-               mütterlichen Familie liegen liebreich gepflegt auf dem höchsten Punkt, von dem weit
-               hinaus man den westlichen Horizont überblickt. Die Sonne sank wie in einem grünen
-               Rahmen und spiegelte ihre letzten Strahlen im still dahingleitenden Flusse.</p>
+               Schlucht zwischen zwei schützenden Bergen hinanzieht. Die Gräber <pb facs="#"/>
+               meiner mütterlichen Familie liegen liebreich gepflegt auf dem höchsten Punkt, von dem
+               weit hinaus man den westlichen Horizont überblickt. Die Sonne sank wie in einem
+               grünen Rahmen und spiegelte ihre letzten Strahlen im still dahingleitenden
+               Flusse.</p>
             <p>Der älteste der alten Leichensteine meiner Ahnen trägt unter der unvermeidlichen Urne
                seiner Zeit die folgende Inschrift:</p>
             <p>»Allhiero ruht in Gott weiland Meister Andreas Haller, Bürger und Tuchmacher hiesigen
@@ -266,12 +269,12 @@
             <p>Also Silvesterabend. Meister Andreas hatte mit seinen Eilfen und dem Gesinde den
                landesüblichen Heringssalat verzehrt, der an keinem heiligen Abend, wie viel weniger
                am Neujahrsheiligenabend fehlen darf. Denn wer, heute noch wie vor hundert Jahren, am
-               Silvester nicht Hering und am Gründonnerstag nicht etwas Grünes oder mindestens <pb/>
-               frischen Honig genossen hat, wie dürfte der die Hoffnung hegen, das Jahr über Glück,
-               will sagen Geld, zu haben? Der Abendsegen war verlesen; nach der alltäglichen
-               Hausordnung würde jeder sein Kokellämpchen angesteckt haben und zu Bett gegangen
-               sein. Aber Silvester war ein Ausnahmstag, an welchem keiner rechtzeitig zur Ruhe
-               wollte und auch die Kleinsten sich nur zögernd entfernten, mit dem Vorbehalt, um
+               Silvester nicht Hering und am Gründonnerstag nicht etwas Grünes oder mindestens <pb
+                  facs="#"/> frischen Honig genossen hat, wie dürfte der die Hoffnung hegen, das
+               Jahr über Glück, will sagen Geld, zu haben? Der Abendsegen war verlesen; nach der
+               alltäglichen Hausordnung würde jeder sein Kokellämpchen angesteckt haben und zu Bett
+               gegangen sein. Aber Silvester war ein Ausnahmstag, an welchem keiner rechtzeitig zur
+               Ruhe wollte und auch die Kleinsten sich nur zögernd entfernten, mit dem Vorbehalt, um
                Mitternacht wieder aufwachen und mitjubeln zu dürfen.</p>
             <p>Meister Andreas setzte sich in den tiefen, ledernen Ohrenstuhl am Fenster, in welchem
                er sein Mittagsschläfchen zu halten pflegte. Er wußte nicht recht, wie er die drei
@@ -287,9 +290,9 @@
                dieser paßlichen Stelle, warum Keller, der Kürschner, den Namen »der Russe« bekommen
                hat. Er behauptete nämlich, auf der Wanderschaft bis hinten noch über Moskau hinaus
                gekommen zu sein, und erzählte die wunderlichsten Schnurren von den Menschen und
-               Bären in dieser pelzreichen Gegend. Mochte dieser<pb/> und jener auch viele seiner
-               Eis- und Schneeabenteuer bezweifeln, ein jeder hörte sie doch gern, und keiner wurde
-               müde, wenn Keller, der Russe, erzählte.</p>
+               Bären in dieser pelzreichen Gegend. Mochte dieser<pb facs="#"/> und jener auch viele
+               seiner Eis- und Schneeabenteuer bezweifeln, ein jeder hörte sie doch gern, und keiner
+               wurde müde, wenn Keller, der Russe, erzählte.</p>
             <p>Meister Andreas blieb demnach zu Haus und allein, und da er just nichts Wichtigeres
                mehr zu tun wußte, gab er seinen Gedanken Audienz, und über diesem ungewohnten
                Zeitvertreib nickte er ein. Eine Weile saßen die beiden ältesten Knaben, ohne sich zu
@@ -308,10 +311,10 @@
                ist ein Pläsier trotz Sturm und Frost. Sie trampeln mit den Füßen und hauchen sich in
                die Hände. Auch Singen und Juchheien erwärmt das Blut. Je näher die verhängnisvolle
                Stunde rückt, um so dichter drängt sich der Menschenknäuel nach dem Markt. Die
-               Stadtpfeifer erscheinen auf dem Rathaussöller. <pb/> Man öffnet die Fenster, schaut
-               und spannt. Die vorlauten Stimmen, die mit einem Prosit Neujahr! herausplatzen,
-               werden immer häufiger, kaum daß noch einer sie verhöhnt in der Angst, den ersten
-               Glockenschlag zu verpassen.</p>
+               Stadtpfeifer erscheinen auf dem Rathaussöller. <pb facs="#"/> Man öffnet die Fenster,
+               schaut und spannt. Die vorlauten Stimmen, die mit einem Prosit Neujahr!
+               herausplatzen, werden immer häufiger, kaum daß noch einer sie verhöhnt in der Angst,
+               den ersten Glockenschlag zu verpassen.</p>
             <p>Da – endlich! – ein einziger, einstimmiger Schrei! Alle Fenster fliegen auf, alle
                Menschen draußen und drinnen stürzen sich in die Arme. Dann Glockenläuten, vom Turme
                Posaunenschall: Herr Gott, dich loben wir.</p>
@@ -330,9 +333,9 @@
             <p>Um ein Uhr ist im Ort kein Laut und Tritt mehr rege; alles liegt im ersten, festen
                Schlaf, und lange bleibt daher ein rotes Flämmchen unbemerkt, das anfänglich schwach,
                aber immer stärker und breiter aus einem Fenster des Eckhauses züngelt, vor welchem
-               David dem hübschen Kinde <pb/> ein frohes Neujahr zugerufen hatte. Die Lohe hatte
-               schon weit um sich gegriffen, als des Türmers erster Feuerschrei erscholl. Und die
-               müden Schläfer sind so schwer zu ermuntern, und der Wind bläst immer schärfer von
+               David dem hübschen Kinde <pb facs="#"/> ein frohes Neujahr zugerufen hatte. Die Lohe
+               hatte schon weit um sich gegriffen, als des Türmers erster Feuerschrei erscholl. Und
+               die müden Schläfer sind so schwer zu ermuntern, und der Wind bläst immer schärfer von
                Morgen her, und alles Wasser ist fest gefroren, und auf die Löschanstalten vor
                hundert Jahren nach denen von heute zu schließen, – o, wie ist es da natürlich, daß
                eine Stunde später eine unzähmbare Glut die unglückliche Stadt überströmt.</p>
@@ -350,9 +353,9 @@
                die Gefahr der unglücklichen Frauen gewesen, in deren Hause das Feuer ausgekommen
                ist. Ohne Bedenken stürmt er hinüber und findet die Witwe, wohl den Flammen
                entronnen, aber von Entsetzen gelähmt, von Rauch halb erstickt auf den Fliesen des
-               Flurs liegend, in Gefahr, totgetreten oder von den zusammenstürzenden <pb/> Balken
-               erschlagen zu werden; neben ihr steht das jammernde Kind, das sich vergeblich bemüht,
-               sie aufzurichten. In diesem äußersten Augenblicke erscheint der Knabe wie ein
+               Flurs liegend, in Gefahr, totgetreten oder von den zusammenstürzenden <pb facs="#"/>
+               Balken erschlagen zu werden; neben ihr steht das jammernde Kind, das sich vergeblich
+               bemüht, sie aufzurichten. In diesem äußersten Augenblicke erscheint der Knabe wie ein
                rettender Engel; er trägt die Witwe in das bis jetzt verschonte väterliche Haus, legt
                sie auf das Himmelbett in der schon erwähnten dunklen Kammer und eilt hinaus, seinem
                Vater beizustehn.</p>
@@ -371,9 +374,10 @@
                zu seinem zitternden Häuflein zurückkehrte. »Der Herr hat Großes an uns getan,« rief
                er ihnen entgegen. »Preiset ihn, danket ihm, meine Kinder!«</p>
             <p>Sie sanken auf ihre Knie, der Greis voran. Sein Kopf neigte sich auf den Stuhl am
-               Fenster, in welchem er gestern den Jahreswechsel erwartet hatte. Regungslos <pb/> lag
-               er eine lange Weile; eines der Kinder nach dem anderen erhob sich und schielte
-               lautlos zu dem Vater hinüber; sie glaubten ihn vor Erschöpfung eingeschlafen.</p>
+               Fenster, in welchem er gestern den Jahreswechsel erwartet hatte. Regungslos <pb
+                  facs="#"/> lag er eine lange Weile; eines der Kinder nach dem anderen erhob sich
+               und schielte lautlos zu dem Vater hinüber; sie glaubten ihn vor Erschöpfung
+               eingeschlafen.</p>
             <p>David wollte sich entfernen, um sich noch einmal den Löschenden auf der Straße
                zuzugesellen. Der Wind hatte sich gelegt, dem Umsichgreifen des Brandes war zunächst
                Einhalt getan, aber die Glut noch keineswegs gedämpft; ein jacher Windstoß konnte sie
@@ -391,11 +395,11 @@
                mit kaltem Wasser, hielt ihm einen brennenden Schwefelfaden unter die Nase, legte ein
                Federchen auf die Lippen, – keine Regung, kein Hauch! Meister Andreas Haller war tot.
                Schreck und Angst hätten ihm das Herz abgedrückt, erklärte der Feldscher.</p>
-            <pb/>
+            <pb facs="#"/>
          </div>
          <div type="chapter">
-            <p>Zweites Kapitel</p>
-            <p>Noch ein Wunder!</p>
+            <head>Zweites Kapitel</head>
+            <head>Noch ein Wunder!</head>
             <p>Ein wahres Glück, daß die Frau Schösserin und Christelchen im Hause waren! Sie
                vergaßen ihre eigne Not über der fremden und hatten alle Hände zu rühren, um das
                Hauswesen nur einigermaßen in Rand und Band zu halten. Der arme David fand keinen
@@ -413,8 +417,8 @@
                Fransen, das der wohllöblichen Schneiderinnung dreihundert Taler anzuschaffen
                gekostet, dafür alljährlich aber auch an dreißig Taler Leihgeld von den Honoratiores
                eingetragen hatte, war das gute Leichentuch nicht mit der Wohnung des Altmeisters
-               verbrannt? Und der Ratskellerwirt, er, der immer so stolz <pb/> gewesen war, die
-               Bewirtung der Leidtragenden zu übernehmen und zu allseitiger Zufriedenheit
+               verbrannt? Und der Ratskellerwirt, er, der immer so stolz <pb facs="#"/> gewesen war,
+               die Bewirtung der Leidtragenden zu übernehmen und zu allseitiger Zufriedenheit
                auszuführen, hatte er nicht den Kopf geschüttelt, ihm den Rücken zugekehrt und schier
                verächtlich ausgerufen: »Aber, Davidchen, um Jesu Christi willen, ich frage dich, wer
                soll denn nachfolgen? Es wäre ja schade ums liebe Gut, schaffte ich's an.«</p>
@@ -435,9 +439,9 @@
                lange. Jählings schreckt er auf. Er spürt Geräusch, leise, ganz leise. Sind das nicht
                Tritte? klopft es nicht? geht nicht die Tür? hört er nicht seinen Namen »David«
                flüsternd und bebend wie Geisterhauch? Heiland der Welt, wie fliegen seine Glieder,
-               <pb/> wie hämmert sein Herz, wie tropft der eiskalte Schweiß von seiner Stirn! Er
-               will den Kopf in die Höh recken, will um sich blicken. Die Blicke sind wie gelähmt,
-               der Nacken wie umklammert von einer ehernen Faust.</p>
+                  <pb facs="#"/> wie hämmert sein Herz, wie tropft der eiskalte Schweiß von seiner
+               Stirn! Er will den Kopf in die Höh recken, will um sich blicken. Die Blicke sind wie
+               gelähmt, der Nacken wie umklammert von einer ehernen Faust.</p>
             <p>In dieser Folterqual kommt es über ihn wie eine Eingebung. »Vater, in deine Hände
                befehl ich meinen Geist,« betet er; ob er's laut gebetet, weiß ich nicht; aber er
                betet's im Herzen, und – wundervolles Wort! kaum ist es verhallt, so richtet sich der
@@ -458,9 +462,9 @@
             <p>»Wie das gut tut!« sagte er, indem er dem lieben Mädchen dankbar die Hand reichte.
                »Aber du zitterst, du bist wie Eis, du fürchtest dich wohl, Christelchen?«</p>
             <p>
-               <pb/> Sie nickte und blickte scheu nach dem Kanapee. Nach einem Weilchen jedoch sagte
-               sie: »Seit du aber mit mir redest, Davidchen, ist mir ganz getrost geworden; gib mir
-               nur deine Hand, dann fürcht ich mich gar nicht mehr.«</p>
+               <pb facs="#"/> Sie nickte und blickte scheu nach dem Kanapee. Nach einem Weilchen
+               jedoch sagte sie: »Seit du aber mit mir redest, Davidchen, ist mir ganz getrost
+               geworden; gib mir nur deine Hand, dann fürcht ich mich gar nicht mehr.«</p>
             <p>Sie schlüpfte bei diesen Worten aus ihren Pantöffelchen und schlich an Davids Hand
                zum Tisch, schenkte ihm eine zweite Tasse ein, nippte, auf sein Nötigen, ein paar
                Schlucke aus derselben und fühlte sich so gestärkt wie er selbst. Nun ging sie zum
@@ -480,10 +484,10 @@
                Gedanke wurde ihm zum ersten Male klar in seiner vollen Bedeutung. Keinen Menschen,
                keinen nahen Verwandten, der für die armen Kinder Sorge trug, und die allgemeine Not
                in der Stadt, welche die Not des einzelnen so wenig in Betracht kommen ließ! Er hatte
-               den Vater mit der <pb/> Stiefmutter öfters darüber reden hören, daß der Erwerb wohl
-               allenfalls hinreiche, um die starke Familie zu ernähren, daß aber an Zurücklegen
-               wenig zu denken sei; was sollte aus den hülflosen Kleinen werden? Der Gedanke
-               vernichtete ihn fast.</p>
+               den Vater mit der <pb facs="#"/> Stiefmutter öfters darüber reden hören, daß der
+               Erwerb wohl allenfalls hinreiche, um die starke Familie zu ernähren, daß aber an
+               Zurücklegen wenig zu denken sei; was sollte aus den hülflosen Kleinen werden? Der
+               Gedanke vernichtete ihn fast.</p>
             <p>Er trat zu der Leiche und schlug das Tuch zurück; da lag er, der teuere Mann, der
                Versorger aller, fast unverändert, aber so kalt, so steif! Er warf sich über ihn und
                umklammerte ihn mit seinen Armen; seine Tränen fielen in Strömen auf das weiße
@@ -502,14 +506,14 @@
                eine Flamme von den Brandstätten drüben sein, welche auflodernd diesen rötlichen
                Schimmer werfen? Aber jetzt – eine Regung der Fingerspitzen, ein leiser Pulsschlag –
                darf er es glauben? Und warum nicht glauben? Hat nicht Gott, der Herr, erst gestern
-               abend ein Wunder an diesem Hause getan? Er <pb/> löst die Schnüre von dem steifen
-               Brett, reibt die Schläfen, die Hände, das Herz des teueren Manns; er zieht seine
-               Lippen auseinander und flößt ein paar Tropfen heißen Kaffees in seinen Mund, er hörte
-               sie gleiten, nicht rollen, noch etliche, noch etliche; er legt sein Ohr an des Vaters
-               Mund, seine Hand ihm ans Herz; ja, das war Atem und Pulsschlag, keine Täuschung der
-               Sinne! Er richtet den noch immer ungefügigen Körper in die Höhe, gibt ihm eine
-               sitzende Stellung, noch einmal wirft er sich unter heftigem Schluchzen an seine
-               Brust:</p>
+               abend ein Wunder an diesem Hause getan? Er <pb facs="#"/> löst die Schnüre von dem
+               steifen Brett, reibt die Schläfen, die Hände, das Herz des teueren Manns; er zieht
+               seine Lippen auseinander und flößt ein paar Tropfen heißen Kaffees in seinen Mund, er
+               hörte sie gleiten, nicht rollen, noch etliche, noch etliche; er legt sein Ohr an des
+               Vaters Mund, seine Hand ihm ans Herz; ja, das war Atem und Pulsschlag, keine
+               Täuschung der Sinne! Er richtet den noch immer ungefügigen Körper in die Höhe, gibt
+               ihm eine sitzende Stellung, noch einmal wirft er sich unter heftigem Schluchzen an
+               seine Brust:</p>
             <p>»Lebst du, Vater?« ruft er, »ach lebe, lebe!«</p>
             <p>Der alte Mann schlägt die Augen auf, blickt verwundert in des aufgeregten Knaben
                Gesicht und fragt mit schwacher Stimme:</p>
@@ -520,15 +524,15 @@
                Andreas Haller.</p>
          </div>
          <div type="chapter">
-            <p>Drittes Kapitel</p>
-            <p>Kein Wunder!</p>
+            <head>Drittes Kapitel</head>
+            <head>Kein Wunder!</head>
             <p>Lieber Leser, ich weiß, was du sagen willst: zwei schauerliche Schicksale gleich in
                den ersten beiden Kapiteln, wo der Held noch nicht einmal zum heiligen Nachtmahl
                gegangen ist, wenn das so fortgeht bis in sein achtundsiebenzigstes Jahr, wie soll
                eine zartbesaitete Leserin es ertragen?</p>
             <p>Aber es geht nicht so fort, gewiß und wahrhaftig, es geht nicht so fort. Ich gebe die
-               heilige Versicherung: mein <pb/> seliger Urgroßvater hat ein friedfertiges Leben
-               geführt, und mit den schauerlichen Ereignissen sind wir zu Ende.</p>
+               heilige Versicherung: mein <pb facs="#"/> seliger Urgroßvater hat ein friedfertiges
+               Leben geführt, und mit den schauerlichen Ereignissen sind wir zu Ende.</p>
             <p>»Himmel! Das ist ja noch viel miserabeler,« höre ich entgegnen; »zwei spannende Tage
                am Anfang des Lebens und der Geschichte und hinterdrein etliche sechzig langweilige
                Jahre. Heißt das anordnen, schreiben, romantisch gliedern? Ja, heißt es nur
@@ -549,14 +553,14 @@
                einem Cherub gleich, anstatt der alten Schösserin, sein blondes Mädchen durch die
                lodernden Gluten trägt und tot neben der Toten niedersinkt. – Ja, ich gestehe noch
                mehr: Gott mag mir die Sünde vergeben, aber ich hätte es wahrhaftig geschmackvoller
-               gefunden, wenn mein <pb/> seliger Vorfahre in jener denkwürdigen Nacht wirklich
-               abgeschieden und nicht wieder aufgewacht wäre, wenngleich ich freilich mich fragen
-               muß: Hätte David Haller wohl der Musterbürger werden können, von welchem noch heute
-               die Alten des Städtchens reden als von einem Ersten und Besten ihresgleichen, der
-               Ehrenmann, dessen Andenken seinen Urenkel begeistert, allen kritischen Anfechtungen
-               Trotz zu bieten und sein Biograph zu werden, wenn er als vierzehnjähriger Knabe
-               schutz- und hülflos, bettelnd vielleicht, die Trümmer seines Vaterhauses zu verlassen
-               gezwungen war?</p>
+               gefunden, wenn mein <pb facs="#"/> seliger Vorfahre in jener denkwürdigen Nacht
+               wirklich abgeschieden und nicht wieder aufgewacht wäre, wenngleich ich freilich mich
+               fragen muß: Hätte David Haller wohl der Musterbürger werden können, von welchem noch
+               heute die Alten des Städtchens reden als von einem Ersten und Besten ihresgleichen,
+               der Ehrenmann, dessen Andenken seinen Urenkel begeistert, allen kritischen
+               Anfechtungen Trotz zu bieten und sein Biograph zu werden, wenn er als
+               vierzehnjähriger Knabe schutz- und hülflos, bettelnd vielleicht, die Trümmer seines
+               Vaterhauses zu verlassen gezwungen war?</p>
             <p>Dem sei nun, wie ihm wolle, ich kann's nicht ändern. Meister Andreas Haller hatte
                wirklich nur vierundzwanzig Stunden in Ohnmacht gelegen, sein Haus stand unversehrt,
                und er schaltete und waltete darin noch manches Jahr mit gewohnter Umsicht und
@@ -571,7 +575,7 @@
                einigermaßen ein Steinmetz im Städtchen seine Hände frei hatte, ließ Andreas Haller
                die Tafel meißeln, deren Gedenkspruch noch heute die Blicke der Vorübergehenden auf
                unsere Torfahrt lenkt. Der Spruch lautet:</p>
-            <pb/>
+            <pb facs="#"/>
 
 
             <l>»Gott des Allmächt'gen starke Hand</l>
@@ -599,18 +603,18 @@
                dem düsteren Werke ihrer Hände zu erblicken. Natürlich fand sie zu diesem erst
                ununterbrochene Muße, nachdem sie, gleich unserem David, am Tage Palmarum aus der
                Schule entlassen und kirchlich eingesegnet worden war. Die feierliche Handlung
-               gewährte <pb/> in diesem Jahre eine vorzugsweise Erhebung in Betracht des großen
-               Brandes, welchen der Herr Superintendent zum Hauptgegenstande seiner Rede machen
-               konnte. Auf herzerschütternde Weise erinnerte der fromme Mann daran, daß dieses Feuer
-               ein Vorgeschmack der ewigen Höllenqualen, welche der Sündigen harren, gewesen sei und
-               ein Flammenzeichen unseres Herrgotts zur Reue und Buße über unsere, wie dermalen
-               Sodom und Gomorra, in ihren Lüsten schier erstickende Stadt. Völlig zerknirscht von
-               dem Eindruck dieser gewaltigen Worte, wie von der Enthüllung so ungeahnter
-               teuflischer Spuren in ihrer nächsten Umgebung legten David und Christelchen Mittwoch
-               nachmittag ihr reumütiges Beichtbekenntnis ab, um darauf am Grünen Donnerstag,
-               nachdem sie sämtliche Anverwandten, Paten, Lehrer und Freunde des Hauses um Vergebung
-               ihrer zahllosen Beleidigungen und Vergehungen angefleht hatten, am ersten Genusse des
-               Leibes von unserem Herrn und Heiland teilzunehmen.</p>
+               gewährte <pb facs="#"/> in diesem Jahre eine vorzugsweise Erhebung in Betracht des
+               großen Brandes, welchen der Herr Superintendent zum Hauptgegenstande seiner Rede
+               machen konnte. Auf herzerschütternde Weise erinnerte der fromme Mann daran, daß
+               dieses Feuer ein Vorgeschmack der ewigen Höllenqualen, welche der Sündigen harren,
+               gewesen sei und ein Flammenzeichen unseres Herrgotts zur Reue und Buße über unsere,
+               wie dermalen Sodom und Gomorra, in ihren Lüsten schier erstickende Stadt. Völlig
+               zerknirscht von dem Eindruck dieser gewaltigen Worte, wie von der Enthüllung so
+               ungeahnter teuflischer Spuren in ihrer nächsten Umgebung legten David und
+               Christelchen Mittwoch nachmittag ihr reumütiges Beichtbekenntnis ab, um darauf am
+               Grünen Donnerstag, nachdem sie sämtliche Anverwandten, Paten, Lehrer und Freunde des
+               Hauses um Vergebung ihrer zahllosen Beleidigungen und Vergehungen angefleht hatten,
+               am ersten Genusse des Leibes von unserem Herrn und Heiland teilzunehmen.</p>
             <p>Es wird bei dieser Gelegenheit kaum zu übergehen sein, daß und warum Christelchen an
                diesem hochwichtigen Tage weniger gesammelt und mehr mit sich selber beschäftigt
                erschienen ist, als man es dem frommen Kinde nach der Zerknirschung des letzten
@@ -620,9 +624,9 @@
                entstand.</p>
             <p>Ach, schon Jahr und Tag hatte die arme Schösserwitwe zur Beschaffung eines würdigen
                Anzugs für ihre Tochter gearbeitet und gespart, und nun war der sauer erworbene
-               Schatz mit allen anderen Habseligkeiten ein Raub der <pb/> Flammen geworden. Gewiß,
-               ein Hartes für die vortreffliche Frau, sich ihre Tochter, so guter Leute Kind, an
-               ihrem Ehrentage in einem Kleide von Serge einhergehend vorzustellen, und die Serge
+               Schatz mit allen anderen Habseligkeiten ein Raub der <pb facs="#"/> Flammen geworden.
+               Gewiß, ein Hartes für die vortreffliche Frau, sich ihre Tochter, so guter Leute Kind,
+               an ihrem Ehrentage in einem Kleide von Serge einhergehend vorzustellen, und die Serge
                obendrein geborgt, auch hatte sie allen Ernstes darüber nachgesonnen, die heilige
                Handlung um ein Jahr hinauszuschieben. Aber, abgesehen davon, daß es gegen alles
                Herkommen gewesen sein würde, ein Kind länger als vierzehn Jahre ohne die Erneuerung
@@ -641,20 +645,20 @@
                Die Frau Postmeisterin hält sich während des Pferdewechsels gewöhnlich in der Nähe
                ihres Ehegatten auf, denn da sie keine Kinder, wohl aber eine hülfreiche Seele
                besitzt, unterstützt sie ihren Herrn in seinem Geschäft und sieht die Briefe und
-               Pakete durch, welche auf <pb/> der Station liegen bleiben. So gerät denn auch diese
-               Sendung in ihre Hände, und welchen Eindruck sie hervorbringt, nun, das läßt sich
-               vorstellen, wenn man erwägt, daß weder die Frau Schösserin noch ihre Tochter jemals
-               einen Brief erhalten oder abgesendet haben. Und nun gar ein Paket! Von wem mag es nur
-               sein? Was mag es enthalten? Sie untersucht den Umschlag: Wachsleinwand. Sie führt ihn
-               zur Nase: Wachsleinwand. Sie bohrt mit dem Finger hinein: die Wachsleinwand gibt
-               nach, also nichts Festes, aller Wahrscheinlichkeit nach Zeug. Sie reibt mit der Hand,
-               horcht dicht am Ohr: ein eigentümlich scharfer Ton – am Ende gar Seidenzeug! Sollte
-               es möglich sein, Seidenzeug! Sie hält den Brief gegen das Licht, aber das Papier ist
-               zu dick, kein Buchstabe durchzulesen. Die Frau Postmeisterin hat immer so viel
-               Mitleiden für die arme Schösserwitwe gehegt, ihr freundschaftliches Gemüt läßt ihr
-               keine Ruhe, sie erklärt ihrem Eheherrn: Da der Briefträger schon Feierabend gemacht
-               habe, wolle sie selber das Paket noch fix hinüberbesorgen, man könne doch nicht
-               wissen, was es enthalte.</p>
+               Pakete durch, welche auf <pb facs="#"/> der Station liegen bleiben. So gerät denn
+               auch diese Sendung in ihre Hände, und welchen Eindruck sie hervorbringt, nun, das
+               läßt sich vorstellen, wenn man erwägt, daß weder die Frau Schösserin noch ihre
+               Tochter jemals einen Brief erhalten oder abgesendet haben. Und nun gar ein Paket! Von
+               wem mag es nur sein? Was mag es enthalten? Sie untersucht den Umschlag:
+               Wachsleinwand. Sie führt ihn zur Nase: Wachsleinwand. Sie bohrt mit dem Finger
+               hinein: die Wachsleinwand gibt nach, also nichts Festes, aller Wahrscheinlichkeit
+               nach Zeug. Sie reibt mit der Hand, horcht dicht am Ohr: ein eigentümlich scharfer Ton
+               – am Ende gar Seidenzeug! Sollte es möglich sein, Seidenzeug! Sie hält den Brief
+               gegen das Licht, aber das Papier ist zu dick, kein Buchstabe durchzulesen. Die Frau
+               Postmeisterin hat immer so viel Mitleiden für die arme Schösserwitwe gehegt, ihr
+               freundschaftliches Gemüt läßt ihr keine Ruhe, sie erklärt ihrem Eheherrn: Da der
+               Briefträger schon Feierabend gemacht habe, wolle sie selber das Paket noch fix
+               hinüberbesorgen, man könne doch nicht wissen, was es enthalte.</p>
             <p>Die Witwe und ihre Tochter waren, wenn möglich, noch mehr erstaunt als ihre Gönnerin,
                ja beinah erschrocken. Sie wollten eine Namensverwechslung voraussetzen, aber das
                »Jungfer Löfflerin« war deutlich zu lesen und keine Löfflerin weiter im Ort. So
@@ -663,10 +667,11 @@
                Geschriebenem wohl fertig geworden, aber sie vermochte es vor Schluchzen nicht, die
                Frau Postmeisterin mußte ihr das Blatt aus der Hand nehmen und fortfahren.</p>
             <p>
-               <pb/> Ja, unverhofft kommt oft! Christelchens Gevatterin, in Leipzig verheiratet,
-               durch die Nachricht von dem großen Brande in ihrer Vaterstadt aufgerüttelt, erinnert
-               sich zum ersten Male im Leben der übernommenen Christenpflichten und macht ihrem
-               Patchen das heilige Nachtmahlskleid zum Präsent.</p>
+               <pb facs="#"/> Ja, unverhofft kommt oft! Christelchens Gevatterin, in Leipzig
+               verheiratet, durch die Nachricht von dem großen Brande in ihrer Vaterstadt
+               aufgerüttelt, erinnert sich zum ersten Male im Leben der übernommenen
+               Christenpflichten und macht ihrem Patchen das heilige Nachtmahlskleid zum
+               Präsent.</p>
             <p>Die drei Frauen waren anfänglich sprachlos; dann aber lösten sich Herzen und Zungen.
                Welch ein Stoff, und wie reichlich! Man hätte zweimal Rock und Kontusche daraus
                schneiden können. Nein, diese Seide! Die stand von selber wie ein Brett und rauschte
@@ -685,16 +690,16 @@
                verbrennen, das Stadium der Serge in Demut überwunden werden, auf daß sie, die Waise
                nämlich, in schier unverwüstlichem Gros de Tours zu Gottes Ehre erscheinen
                durfte.</p>
-            <p>Nach dieser zweifelsohne dem frommen Sinne meines <pb/> Urgroßvaters entsprechenden
-               Auslegung kehre ich zu ihm selber zurück, wie er, unberührt von dem Dämon der
-               Weltlust, der seine junge Freundin kitzelte, in ungestörtem Ernst das gnadenreiche
-               Sakrament empfing. War er von Natur schon gesetzt und tüchtig, niemals zerstreut und
-               allezeit bei der Sache, so hatten die jüngst erlebten gewaltigen Eindrücke ihn nur
-               noch völliger gereift. Und so gelobte er sich denn heute im innersten Herzen, ein
-               Christ zu sein und zu bleiben. Ein Christ, das hieß nach der bürgerlich
-               protestantischen Auffassung jener Tage: tugendhaft sein und Gottes Willen tun; und
-               ich glaube, wenige Menschen haben sich im Leben so Wort gehalten als dieser gute
-               Knabe.</p>
+            <p>Nach dieser zweifelsohne dem frommen Sinne meines <pb facs="#"/> Urgroßvaters
+               entsprechenden Auslegung kehre ich zu ihm selber zurück, wie er, unberührt von dem
+               Dämon der Weltlust, der seine junge Freundin kitzelte, in ungestörtem Ernst das
+               gnadenreiche Sakrament empfing. War er von Natur schon gesetzt und tüchtig, niemals
+               zerstreut und allezeit bei der Sache, so hatten die jüngst erlebten gewaltigen
+               Eindrücke ihn nur noch völliger gereift. Und so gelobte er sich denn heute im
+               innersten Herzen, ein Christ zu sein und zu bleiben. Ein Christ, das hieß nach der
+               bürgerlich protestantischen Auffassung jener Tage: tugendhaft sein und Gottes Willen
+               tun; und ich glaube, wenige Menschen haben sich im Leben so Wort gehalten als dieser
+               gute Knabe.</p>
             <p>Er wurde nun dem Namen nach erst der Lehrling, dann der Geselle seines Vaters, in der
                Tat aber sein Gehülfe und seine rechte Hand. Das Geschäft nahm einen blühenden
                Aufschwung, seitdem Auge, Hand und Kopf dieses besonnen tätigen, klugen Jünglings
@@ -707,8 +712,8 @@
                Augen, pflegten sie zu sagen; denn er verstand es, selber wenn er Schweres von ihnen
                forderte, sie guter Dinge zu erhalten durch einen Zug von Humor, ein »Späßchen«, wie
                man es nannte, das gelegentlich in unveränderter Gestalt wiederkehrte und wozu die
-               <pb/> Neigung, trotz aller großbürgerlichen Würde, ihm bis in das späteste Alter treu
-               verblieb.</p>
+                  <pb facs="#"/> Neigung, trotz aller großbürgerlichen Würde, ihm bis in das
+               späteste Alter treu verblieb.</p>
             <p>Auch sein Äußeres entwickelte sich früh und vorteilhaft. Im siebenzehnten Jahre war
                er schon vollständig erwachsen und begann »auszulegen«, das heißt stark zu werden. Er
                war groß und regelmäßig gebaut, hatte ein schön geschnittenes, offenes, blühendes
@@ -728,7 +733,7 @@
                neigte, sobald von Altar oder Kanzel der Name unseres Herrn und Heilands verkündigt
                ward. Auch ihre helle, frische, von der Katechismuslehre her wohlbekannte Stimme
                glaubte er beim Singen zu unterscheiden, und im Herausgehen traf es sich immer ganz
-               von selbst, daß sie unter der <pb/> Pforte aufeinanderstießen. Er zog seinen
+               von selbst, daß sie unter der <pb facs="#"/> Pforte aufeinanderstießen. Er zog seinen
                dreikrempigen, goldgebordeten Hut und sagte, sich verbeugend:</p>
             <p>»Gehorsamer Diener, Jungfer Löfflerin!«</p>
             <p>Sie machte einen Knicks und erwiderte:</p>
@@ -748,11 +753,11 @@
                Leben berechtigt zu der leichtfertigen Voraussetzung, daß es nicht zufällig seinem
                Knopfloch entglitten sei, dahinein er es gesteckt hatte, als er es, das erste des
                Jahres, am Morgen im väterlichen Garten fand.</p>
-            <pb/>
+            <pb facs="#"/>
          </div>
          <div type="chapter">
-            <p>Viertes Kapitel</p>
-            <p>Der Sternkönig</p>
+            <head>Viertes Kapitel</head>
+            <head>Der Sternkönig</head>
             <p>So wäre ich denn in der Geschichte meines Urgroßvaters schon bis zum Frühling des
                Jahres zweiundsechzig vorgeschritten. Auch in seinem Herzen war heller, frischer
                Frühling; frohschaffendes Leben, wohin er sich wendete.</p>
@@ -771,14 +776,15 @@
                breiter hätte sein können. Keller, der Russe, der behauptete, er gliche einer
                »Quehle«, hatte indessen gut spotten. In seinem Moskau konnte man allerdings
                weitläufiger bauen, denn Eis und Schnee, aus welchen zu seiner Zeit die Paläste und
-               Schießhäuser dahinten <pb/> bestanden haben sollen, sind freilich ein wohlfeileres
-               Material, als unsere Balken und Ziegel. Ich will übrigens auch zugeben, daß der Saal
-               nicht übermäßig hoch gewesen ist; aber das ist eine handgreifliche Übertreibung von
-               Keller, dem Russen, wenn er versicherte, der lange David habe sich beim Tanzen immer
-               bücken müssen, um nicht mit dem Kopfe an die Decke zu stoßen. Denn, urteile selber,
-               einsichtiger Leser, hätte mein Urgroßvater wohl so lustig dreinschauen können, wenn
-               er bei der geringsten unvorsichtigen Bewegung in Lebensgefahr geschwebt? Ach, und wie
-               lustig sah er aus! Das einzige Mal in seinem ganzen Leben was man so sagt lustig!</p>
+               Schießhäuser dahinten <pb facs="#"/> bestanden haben sollen, sind freilich ein
+               wohlfeileres Material, als unsere Balken und Ziegel. Ich will übrigens auch zugeben,
+               daß der Saal nicht übermäßig hoch gewesen ist; aber das ist eine handgreifliche
+               Übertreibung von Keller, dem Russen, wenn er versicherte, der lange David habe sich
+               beim Tanzen immer bücken müssen, um nicht mit dem Kopfe an die Decke zu stoßen. Denn,
+               urteile selber, einsichtiger Leser, hätte mein Urgroßvater wohl so lustig
+               dreinschauen können, wenn er bei der geringsten unvorsichtigen Bewegung in
+               Lebensgefahr geschwebt? Ach, und wie lustig sah er aus! Das einzige Mal in seinem
+               ganzen Leben was man so sagt lustig!</p>
             <p>Er sollte die erste Menuett aufführen. Ja, mit wem nun wohl? Mit Christelchen? Das
                wäre ihm allerdings am leichtesten geworden, denn zwischen Abendmahlskindern besteht
                immer eine Art von kameradschaftlicher Vertraulichkeit. Mit Christelchen als
@@ -791,30 +797,30 @@
                Höhergestellten; ohne Zweifel keiner anderen als der Jungfer Sophie Vogelin, der
                einzigen Tochter des schon erwähnten reichen Gerbermeisters Hans Adam Vogel.</p>
             <p>Sie war nicht mehr in der ersten Blüte, vielleicht schon mündig, sie sah ein wenig
-               blaß und traurig aus, die Jungfer <pb/> Vogelin, und was am schlimmsten für sie war,
-               sie hatte keinen ganz geraden Bau, wie man zu sagen pflegt, einen kleinen »Verdruß«;
-               zwar nur einen ganz kleinen, aber doch einen Verdruß, und verdrießlich bleibt das
-               immer. Indessen ein Hindernis war es nicht, daß mehrere angesehene Bürgersöhne und
-               selber der Postschreiber – wie seine Frau Patronin versicherte – sich um die Hand der
-               reichen Erbin bemühten. Vergebliche Mühe! Jungfer Sophie teilte einen Korb nach dem
-               anderen aus, und da sich unmöglich annehmen ließ, daß sie freiwillig eine alte
-               Jungfer zu werden verlange, so hieß es von ihr, sie trage große Rosinen im Sack und
-               lauere auf einen Studierten. Ihre selige Mutter, eine geborene Leipzigerin, war auch
-               schon ein wenig überspannt gewesen, und durch sie das unnütze Bücherlesen, samt
-               anderen absonderlichen Schrullen, der Tochter in den Kopf gesetzt worden. Hatte sie
-               doch sogar den alten, schwachen Hans Adam überredet, in der Auktion des seligen Herrn
-               Amtshauptmanns das schöne Klavier zu erstehen und dem Mädchen beim Kantor Sing- und
-               Spielstunden geben zu lassen. Da sitze sie nun abends nach neun, wenn der Vater zu
-               Bette sei, und klimpere oft die halbe Nacht hindurch, aber um ihresgleichen kümmere
-               sie sich wenig.</p>
+               blaß und traurig aus, die Jungfer <pb facs="#"/> Vogelin, und was am schlimmsten für
+               sie war, sie hatte keinen ganz geraden Bau, wie man zu sagen pflegt, einen kleinen
+               »Verdruß«; zwar nur einen ganz kleinen, aber doch einen Verdruß, und verdrießlich
+               bleibt das immer. Indessen ein Hindernis war es nicht, daß mehrere angesehene
+               Bürgersöhne und selber der Postschreiber – wie seine Frau Patronin versicherte – sich
+               um die Hand der reichen Erbin bemühten. Vergebliche Mühe! Jungfer Sophie teilte einen
+               Korb nach dem anderen aus, und da sich unmöglich annehmen ließ, daß sie freiwillig
+               eine alte Jungfer zu werden verlange, so hieß es von ihr, sie trage große Rosinen im
+               Sack und lauere auf einen Studierten. Ihre selige Mutter, eine geborene Leipzigerin,
+               war auch schon ein wenig überspannt gewesen, und durch sie das unnütze Bücherlesen,
+               samt anderen absonderlichen Schrullen, der Tochter in den Kopf gesetzt worden. Hatte
+               sie doch sogar den alten, schwachen Hans Adam überredet, in der Auktion des seligen
+               Herrn Amtshauptmanns das schöne Klavier zu erstehen und dem Mädchen beim Kantor Sing-
+               und Spielstunden geben zu lassen. Da sitze sie nun abends nach neun, wenn der Vater
+               zu Bette sei, und klimpere oft die halbe Nacht hindurch, aber um ihresgleichen
+               kümmere sie sich wenig.</p>
             <p>Als der junge Sternkönig die Tochter von seines Vaters Freund zur ersten Menuett
                aufzog, sprach er in seinem Leben das erste Wort mit ihr. Er teilte nicht im
                entferntesten die Vorurteile der anderen über ihre Person. Im Gegenteil: Meister Hans
                Adams anderes Wort war sein »Fiekchen«, der alte Mann wußte nicht, wie er sein
                stilles, häusliches Kind genugsam rühmen solle. Das hatte David oftmals mit angehört,
                und er nahte sich ihr daher voll großer Wertschätzung. Ja, so hochachtungsvoll war
-               ihm zumute, <pb/> daß er wirklich in Verlegenheit geriet, welche würdige Unterhaltung
-               mit ihr zu beginnen.</p>
+               ihm zumute, <pb facs="#"/> daß er wirklich in Verlegenheit geriet, welche würdige
+               Unterhaltung mit ihr zu beginnen.</p>
             <p>Nachdem er einige Zeit bedenklich an seinem Busenstreifen gezupft hatte, fragte er
                endlich errötend: »Lieben die Jungfer Vogelin das Tanzvergnügen?«</p>
             <p>»Ich habe noch niemals getanzt,« antwortete sie mit sanfter Stimme, indem sie das
@@ -834,12 +840,12 @@
                auf die Vergangenheit, auf ihre Abendmahlsstunden; auf sein »Prosit Neujahr«, das sie
                wohl unterschieden hatte, auf die zwei schrecklichen Nächte, die darauf folgten. Er
                nannte sie »Christelchen«, wie vormals, und sie, da sich Davidchen doch nicht
-               schickte und Mosjö Haller nicht über ihre Lippen <pb/> wollte, sie nannte ihn lieber
-               gar nicht. Fröhlich, ja ausgelassen, wie sie gewesen waren, die guten Kinder, nach
-               und nach wurden sie ernsthaft, ja traurig. Er gestand ihr, daß, als er den ersten
-               wiederkehrenden Atemzug seines Vaters gespürt, er auf seine Knie gesunken und seinem
-               gütigen, wunderbaren Gotte gelobt habe, nur seinen Willen zu tun jederzeit, auch wo
-               es schwer sei und kein Mensch es fordere.</p>
+               schickte und Mosjö Haller nicht über ihre Lippen <pb facs="#"/> wollte, sie nannte
+               ihn lieber gar nicht. Fröhlich, ja ausgelassen, wie sie gewesen waren, die guten
+               Kinder, nach und nach wurden sie ernsthaft, ja traurig. Er gestand ihr, daß, als er
+               den ersten wiederkehrenden Atemzug seines Vaters gespürt, er auf seine Knie gesunken
+               und seinem gütigen, wunderbaren Gotte gelobt habe, nur seinen Willen zu tun
+               jederzeit, auch wo es schwer sei und kein Mensch es fordere.</p>
             <p>Wie er das dem jungen Mädchen sagen konnte, mit welchem er noch vor einer halben
                Stunde so unbefangen gespaßt und getanzt? David Haller hätte es früher oder später in
                seinem Leben nicht begriffen, wie er das einem Menschen sagen konnte.</p>
@@ -856,8 +862,9 @@
                – das liebe Mädchen war verschwunden.</p>
             <p>Junge Kameraden forderten ihn auf, mit ihnen nach Hause zu gehen; er wich ihnen aus.
                Er wollte allein sein und nahm einen Umweg, um nur von keinem Nachfolgenden bemerkt
-               zu werden. O dieser Heimgang! Ihm war nicht, <pb/> als ob er den Berg nach der Stadt
-               herniedersteige, ihm war, als ob er flöge, oder schwebe wie selige Geister.</p>
+               zu werden. O dieser Heimgang! Ihm war nicht, <pb facs="#"/> als ob er den Berg nach
+               der Stadt herniedersteige, ihm war, als ob er flöge, oder schwebe wie selige
+               Geister.</p>
             <p>Nach und nach ward er ruhiger, besonnener. Das bürgerliche Element, sein eigentliches
                Element, machte sich Bahn. Er fand, daß es nötig sei, einen Plan über seine Zukunft
                zu fassen, wollte den Vater bitten, seine Wanderschaft bald antreten zu dürfen, und
@@ -880,7 +887,7 @@
             <p>»So schenke mir aufmerksam Gehör, mein Sohn,« sagte der Alte, besann sich ein
                Weilchen und fragte darauf:</p>
             <p>
-               <pb/> »Hast du dir schon einen Lebensweg vorgezeichnet, David?«</p>
+               <pb facs="#"/> »Hast du dir schon einen Lebensweg vorgezeichnet, David?«</p>
             <p>Der Jüngling wurde rot wie Scharlach. Ist es einem Vater gegeben, in der Seele seines
                Kindes zu lesen? war eine Spur von einem entscheidenden Händedruck in seinen Augen
                geschrieben? Nach einer Pause stammelte er verlegen:</p>
@@ -902,9 +909,10 @@
             <p>»Wie soll ich dem Herrn Vater meine Dankbarkeit bezeigen?« sagte David, gerührt die
                Hand des alten Mannes küssend.</p>
             <p>»Danke mir nicht zu früh, mein Sohn,« versetzte der Vater ernst; »ich stehe im
-               Begriffe, ein schweres Joch auf <pb/> deine jungen Schultern zu laden. David,« fuhr
-               er nach einer neuen Pause fort, »David, ich kann es mir nicht verhehlen, daß meine
-               Kräfte rasch abnehmen und daß ich dieses Jahr schwerlich überleben werde.«</p>
+               Begriffe, ein schweres Joch auf <pb facs="#"/> deine jungen Schultern zu laden.
+               David,« fuhr er nach einer neuen Pause fort, »David, ich kann es mir nicht verhehlen,
+               daß meine Kräfte rasch abnehmen und daß ich dieses Jahr schwerlich überleben
+               werde.«</p>
             <p>David fuhr erschrocken in die Höhe, der Vater hielt ihn zurück: »Sei ruhig, mein
                Sohn,« sagte er gelassen, »ich scheide mit Freuden von hinnen, wenn ich nur gewiß
                bin, meinem Hause einen Herrn und meinen Kindern einen Versorger zu hinterlassen. Und
@@ -923,8 +931,8 @@
                Hinterlassenschaft zusteht. Bist du bereit, David, ein so schweres Vermächtnis zu
                übernehmen?«</p>
             <p>»Mit Gottes Hülfe, ja, mein Vater,« antwortete der junge Mann nach kurzem Besinnen
-               mit fester Stimme. Der <pb/> Vater drückte seine zum Gelöbnis dargebotene Hand und
-               begann von neuem:</p>
+               mit fester Stimme. Der <pb facs="#"/> Vater drückte seine zum Gelöbnis dargebotene
+               Hand und begann von neuem:</p>
             <p>»Noch bin ich nicht zu Ende, mein Sohn; das Wichtigste kommt zuletzt. Du kannst diese
                Aufgabe nicht allein zu Ende führen, du bedarfst einer Gehülfin, einer Hausfrau; du
                mußt heiraten, David.«</p>
@@ -944,8 +952,8 @@
             <p>»Aber nicht mit zehn Geschwistern außer der eignen Familie zu erziehn und zu
                versorgen. Deine Lage ist weit schwieriger, als die meinige war, mein Sohn. Du
                brauchst eine kluge und eine reiche Frau, sonst gehst du zugrunde. Seit Jahren habe
-               ich in Stadt und Umgegend für dich <pb/> umgeschaut und nur ein einziges Mädchen
-               gefunden, das wie geschaffen für dich ist.«</p>
+               ich in Stadt und Umgegend für dich <pb facs="#"/> umgeschaut und nur ein einziges
+               Mädchen gefunden, das wie geschaffen für dich ist.«</p>
             <p>»Und welches?« Das Wort mußte der Vater dem Sohne von den Lippen lesen, so leise
                lispelte er es, während sein Herz so hörbar klopfte, daß es ein Wunder ist, wie der
                Vater nicht dadurch gestört werden konnte.</p>
@@ -967,15 +975,15 @@
             <p>Der Vater hatte längst geendet, und der Sohn saß noch immer wie festgebannt. Ihm
                deuchte, er habe einen tiefen Fall getan und könne sich nicht besinnen, wo er
                wäre.</p>
-            <p>»Du bist betroffen, David,« sagte endlich der Vater, <pb/> nachdem er vergeblich auf
-               eine Antwort gewartet, sich erhebend, »ich nehme dir das nicht übel. Guter Rat kommt
-               über Nacht. Überlege dir die Sache und sage mir morgen deine Resolution. Der Herr
-               lenke dein Herz, mein Sohn, auf daß dein alter Vater mit Frieden in seine Grube
-               fahren möge.«</p>
+            <p>»Du bist betroffen, David,« sagte endlich der Vater, <pb facs="#"/> nachdem er
+               vergeblich auf eine Antwort gewartet, sich erhebend, »ich nehme dir das nicht übel.
+               Guter Rat kommt über Nacht. Überlege dir die Sache und sage mir morgen deine
+               Resolution. Der Herr lenke dein Herz, mein Sohn, auf daß dein alter Vater mit Frieden
+               in seine Grube fahren möge.«</p>
          </div>
          <div type="chapter">
-            <p>Fünftes Kapitel</p>
-            <p>Lebewohl, liebes Christelchen!</p>
+            <head>Fünftes Kapitel</head>
+            <head>Lebewohl, liebes Christelchen!</head>
             <p>Wie der junge Mann diese Nacht hingebracht hat, brauche ich keinem meiner Leser zu
                beschreiben. Wer hätte nicht einen ersten, goldenen Traum verschwinden, oder gar
                einen langen, heißen Wunsch zu Grabe tragen sehen? Aber diese Wolke, welche die
@@ -990,8 +998,8 @@
                noch vor einer Stunde hatte er mit Jubel daran gedacht, sich seiner Freiheit zu
                entledigen. – Bangte ihm vor der Last der Pflichten, die er auf sich nehmen sollte? –
                O nein, ihm bangte nicht; hatte er doch im guten Vertrauen auf Gottes Hülfe vorhin so
-               freudig ja gesagt, als der Vater die ernste Frage an <pb/> ihn richtete. War die
-               erkorene Braut ihm zuwider? – Hier stockte er – aber nein, nein, beileibe nicht
+               freudig ja gesagt, als der Vater die ernste Frage an <pb facs="#"/> ihn richtete. War
+               die erkorene Braut ihm zuwider? – Hier stockte er – aber nein, nein, beileibe nicht
                zuwider; er konnte nur nicht an sie denken; er fühlte nur immer von neuem den letzten
                Blick aus Christianens blauem Auge, den leisen Druck ihrer warmen, weichen Hand; er
                mußte nur immer wieder in der mondhellen Nacht seinen Kopf hinüber nach dem
@@ -1012,8 +1020,8 @@
             <p>Der Morgen graute. Er meinte, im Freien werde er klarer werden, und ging in den
                Garten, der sich terrassenartig hinter dem Hause den Schloßberg hinanzieht. Hier
                hatte er vor acht Tagen jenes erste Vergißmeinnicht gepflückt, das jetzt bei »Jesus
-               meine Zuversicht« vertrocknete. <pb/> Heute blühten alle Frühlingsblumen frisch und
-               bunt – ach, er hatte keine Lust eine Blume mehr zu pflücken!</p>
+               meine Zuversicht« vertrocknete. <pb facs="#"/> Heute blühten alle Frühlingsblumen
+               frisch und bunt – ach, er hatte keine Lust eine Blume mehr zu pflücken!</p>
             <p>Die Sonne stieg auf, ein tägliches Schauspiel für den fleißigen Jüngling. Ob er aber
                in diesem kurzen hehren Augenblicke schon oftmals etwas anderes empfunden hatte, als
                die Lust des Erwachens und das Verlangen, zu schaffen? Ich glaube es nicht. Heute sah
@@ -1034,9 +1042,9 @@
             <p>Und noch an selbigem Morgen zog der alte Andreas das gestickte, rhabarberfarbige
                Sonntagshabit an und ging zu seinem guten Freunde, Meister Hans Adam Vogel, für
                seinen Sohn David um die Hand seiner Tochter Sophie anzuwerben, und da er ein
-               redlicher Mann war, Meister <pb/> Andreas, so bat er seinen alten Freund, der Tochter
-               in seinem Namen reinen Wein einzuschenken in betreff der schweren Obliegenheiten, die
-               sie voraussichtlich mit ihrem Ja zu übernehmen haben werde.</p>
+               redlicher Mann war, Meister <pb facs="#"/> Andreas, so bat er seinen alten Freund,
+               der Tochter in seinem Namen reinen Wein einzuschenken in betreff der schweren
+               Obliegenheiten, die sie voraussichtlich mit ihrem Ja zu übernehmen haben werde.</p>
             <p>Am andern Morgen erschien Meister Hans Adam Vogel im Hallerschen Hause gleichfalls im
                Sonntagshabit, aber von hechtblauer Farbe, und erklärte dem Mosjö Haller in Gegenwart
                seines Herrn Vaters, daß seine Tochter Sophie ihr feierliches Jawort gebe und daß es
@@ -1054,14 +1062,14 @@
                sondern unermüdlich beschäftigt war, die Korrespondenz seines Vaters zu führen und
                seine Bücher in Ordnung zu bringen.</p>
             <p>Er sah und hörte auf diese Weise keinen fremden Menschen mit Ausnahme des Sonntags
-               abends bei seinem <pb/> Schwiegervater, wo er immer einen zahlreichen Kreis von
-               Verwandten und guten Freunden versammelt fand, und es war auf diese Weise durchaus
-               nichts Auffälliges, sondern ganz in der Ordnung, daß er am Hochzeitstage noch nicht
-               ein Wort unter vier Augen mit seiner Braut geflüstert und ihr, auf Ehre! noch nicht
-               einen einzigen Kuß gegeben hatte. Gleichermaßen war es der ganzen Stadt wohl
-               begreiflich, daß die Jungfer Vogelin vor Freude über den schmucken, jungen Bräutigam
-               wie ein Röschen aufzublühen begann, dahingegen der Mosjö Haller, im Drange seiner
-               vielfältigen Anstrengungen, sichtbarlich blaß und mager wurde.</p>
+               abends bei seinem <pb facs="#"/> Schwiegervater, wo er immer einen zahlreichen Kreis
+               von Verwandten und guten Freunden versammelt fand, und es war auf diese Weise
+               durchaus nichts Auffälliges, sondern ganz in der Ordnung, daß er am Hochzeitstage
+               noch nicht ein Wort unter vier Augen mit seiner Braut geflüstert und ihr, auf Ehre!
+               noch nicht einen einzigen Kuß gegeben hatte. Gleichermaßen war es der ganzen Stadt
+               wohl begreiflich, daß die Jungfer Vogelin vor Freude über den schmucken, jungen
+               Bräutigam wie ein Röschen aufzublühen begann, dahingegen der Mosjö Haller, im Drange
+               seiner vielfältigen Anstrengungen, sichtbarlich blaß und mager wurde.</p>
             <p>Der reiche Meister Vogel ließ es sich nicht nehmen, die Hochzeit großartig
                auszurichten; denn mit einer stillhäuslichen Trauung, wie sein Fiekchen sie im Sinne
                hatte, nein, mit solchem Verstoß gegen Verwandtschaft und Freundschaft fängt man
@@ -1076,12 +1084,12 @@
                hätte wieder die Sonne aufsteigen sehen wie an seinem Verlobungstage. Aber er durfte
                nicht vom Platze weichen, denn er wartete auf den Friseur.</p>
             <p>
-               <pb/> Dieser vielgeplagte Mann hatte seit gestern mittag keinen freien Augenblick
-               gehabt; er war ein Meister in seiner Kunst, und keiner wollte bei solcher Gelegenheit
-               von einem geringeren bedient sein. So saßen denn manche der Gäste die halbe, ja die
-               ganze Nacht hindurch aufrecht, ohne sich zu rühren, um das Kunstwerk auf ihren
-               Häuptern nicht aus der Ordnung kommen zu lassen, und es ist mir nur lieb, daß der
-               einsichtige Mann für meinen Urgroßvater eine Morgenstunde bestimmte, denn ein
+               <pb facs="#"/> Dieser vielgeplagte Mann hatte seit gestern mittag keinen freien
+               Augenblick gehabt; er war ein Meister in seiner Kunst, und keiner wollte bei solcher
+               Gelegenheit von einem geringeren bedient sein. So saßen denn manche der Gäste die
+               halbe, ja die ganze Nacht hindurch aufrecht, ohne sich zu rühren, um das Kunstwerk
+               auf ihren Häuptern nicht aus der Ordnung kommen zu lassen, und es ist mir nur lieb,
+               daß der einsichtige Mann für meinen Urgroßvater eine Morgenstunde bestimmte, denn ein
                Hochzeitstag hat doch manche Strapaze, und ein paar Stunden nächtlicher Ruhe mögen
                dem jungen Bräutigam wohlgetan haben.</p>
             <p>Jetzt blickte er hinaus auf den Markt, dessen abgebrannte Häuser zum großen Teil neu
@@ -1096,12 +1104,12 @@
             <p>Obendrein fiel dieser sein Hochzeitstag just auf einen Dienstag, das glücklichste
                Omen nach seines Vaters Meinung und Erfahrung. »Davidchen,« hatte er wohl zehnmal
                gesagt, »machst du einmal Hochzeit, laß es ja nur an einem Dienstage sein. Ich habe
-               drei Ehefrauen begraben und mit einer jeden gelebt wie im Paradiese; aber ich <pb/>
-               habe sie auch jedesmal an einem Dienstage heimgeführt.« Wäre Johanni auf einen
-               Mittwoch oder Freitag gefallen, die Tage des Verrates und Todes unseres Herrn,
-               Meister Andreas hätte den Segen des Täufers drangegeben und die Hochzeit seines
-               Sohnes auf nächsten Dienstag verschoben, vorausgesetzt, daß hinter dem Datum kein
-               Krebszeichen im Kalender stand.</p>
+               drei Ehefrauen begraben und mit einer jeden gelebt wie im Paradiese; aber ich <pb
+                  facs="#"/> habe sie auch jedesmal an einem Dienstage heimgeführt.« Wäre Johanni
+               auf einen Mittwoch oder Freitag gefallen, die Tage des Verrates und Todes unseres
+               Herrn, Meister Andreas hätte den Segen des Täufers drangegeben und die Hochzeit
+               seines Sohnes auf nächsten Dienstag verschoben, vorausgesetzt, daß hinter dem Datum
+               kein Krebszeichen im Kalender stand.</p>
             <p>Kurzum: alle Vorbedeutungen waren die günstigsten für meinen Urgroßvater, als er ein
                Viertel nach neun in die haushohe, gelbe, blumenbekränzte Gevatterkutsche, die
                einzige Staatskarosse des Städtchens, stieg, um seine Braut zur Kirche abzuholen. Es
@@ -1118,14 +1126,14 @@
             <p>Im Schiffe der Kirche, wie auf den Emporen, stand es Kopf bei Kopf; noch bei keiner
                Gelegenheit hatte man die Kirche so voll gesehen. Die Traurede war lang und erhebend.
                Selbst der Ratsherr aus Leipzig versicherte, selten entsprechendere Worte vernommen
-               zu haben. Allgemeines <pb/> Aufsehen erregte insbesondere eine Stelle, welche der
-               Herr Superintendent zum gerechten Ruhme des Brautpaares anbrachte. »Ihr schließt
-               eueren Ehebund«, so lautete sie ungefähr, »aus Gott wohlgefälligen Gründen, nicht aus
-               vergänglichem Gelüste schließt ihr ihn. Du, vielgeliebte Braut, achtest nicht auf
-               Rang noch Reichtum und solche Schätze, welche Motten und Rost fressen und da die
-               Diebe nachgraben und stehlen; und du, teuerster Bräutigam, fragst wenig nach Jugend
-               und Schönheit des Leibes, oder solchen Gaben, die da schneller verwelken als Gras
-               oder verblühen wie die Blume des Feldes« usw. usw.</p>
+               zu haben. Allgemeines <pb facs="#"/> Aufsehen erregte insbesondere eine Stelle,
+               welche der Herr Superintendent zum gerechten Ruhme des Brautpaares anbrachte. »Ihr
+               schließt eueren Ehebund«, so lautete sie ungefähr, »aus Gott wohlgefälligen Gründen,
+               nicht aus vergänglichem Gelüste schließt ihr ihn. Du, vielgeliebte Braut, achtest
+               nicht auf Rang noch Reichtum und solche Schätze, welche Motten und Rost fressen und
+               da die Diebe nachgraben und stehlen; und du, teuerster Bräutigam, fragst wenig nach
+               Jugend und Schönheit des Leibes, oder solchen Gaben, die da schneller verwelken als
+               Gras oder verblühen wie die Blume des Feldes« usw. usw.</p>
             <p>Ja, das war treffend und schön ausgedrückt! Auch mag die ernste, an diesem Tage
                wieder sehr blaß aussehende Braut diesen geistlichen Ruhm wohl noch tiefer als alle
                anderen empfunden haben, denn die Frau Postmeisterin, welche ihr gegenübergestanden
@@ -1139,8 +1147,8 @@
                fertig mit allen Verbeugungen und Händedrücken an jung und alt und stand in einer der
                tiefen Fensternischen des Saales zagend und ungewiß, was nunmehro von ihm verlangt
                werden könne, als eine kleine, zierliche Gestalt, die ihren Glückwunsch noch nicht
-               gestammelt hatte, ganz leise<pb/> auf ihn zugetrippelt kam. Christiane in ihrem
-               schwarzen Abendmahlskleide!</p>
+               gestammelt hatte, ganz leise<pb facs="#"/> auf ihn zugetrippelt kam. Christiane in
+               ihrem schwarzen Abendmahlskleide!</p>
             <p>David hatte während der gesamten Feierlichkeit seine Augen so wenig vom Boden
                erhoben, daß er sie heute zum ersten Male gewahr wurde, eigentlich zum ersten Male
                seit jenem glücklichen Sternkönigsabend. Er fühlte sein Herz zusammenbeben, ihm war
@@ -1152,8 +1160,8 @@
             <p>Und zwei große Tränen rannen über seine Wangen.</p>
          </div>
          <div type="chapter">
-            <p>Sechstes Kapitel</p>
-            <p>Von einer braven Frau</p>
+            <head>Sechstes Kapitel</head>
+            <head>Von einer braven Frau</head>
             <p>Mit diesem Lebewohl bin ich an einem wichtigen Punkte im Leben meines Helden
                angekommen; ich sinne und messe und rechne nur immer noch an welchem. Der
                nachsichtige Leser hat mir zwar zugestanden, keinerlei Kunstansprüche an mich oder
@@ -1164,12 +1172,12 @@
                der vom goldenen Schnitt, die sich, nach allem, was ich von ihr verstehe, ausnehmend
                für ein Bürgerleben zu eignen scheint.</p>
             <p>
-               <pb/> Minor, Major, Summa. Nun, die Summa wäre klar: nämlich das Leben; die beiden
-               Teile, in welche sie zerfällt, sind das ledige Leben und das eheliche. Die Hochzeit
-               ist der goldene Schnitt, der sie scheidet. Soweit wäre alles in der Ordnung. Aber nun
-               kommt die Schwierigkeit: welches soll Major sein, vor der Hochzeit oder nachher? Wenn
-               ich die Ereignisse zusammenzähle und die Aufregungen, welche sie in meinem
-               Urgroßvater hervorgerufen haben: den Brand, die Leiche, das Abendmahl, das
+               <pb facs="#"/> Minor, Major, Summa. Nun, die Summa wäre klar: nämlich das Leben; die
+               beiden Teile, in welche sie zerfällt, sind das ledige Leben und das eheliche. Die
+               Hochzeit ist der goldene Schnitt, der sie scheidet. Soweit wäre alles in der Ordnung.
+               Aber nun kommt die Schwierigkeit: welches soll Major sein, vor der Hochzeit oder
+               nachher? Wenn ich die Ereignisse zusammenzähle und die Aufregungen, welche sie in
+               meinem Urgroßvater hervorgerufen haben: den Brand, die Leiche, das Abendmahl, das
                Sternschießen et cetera, so müßte vor der Hochzeit Major sein, ich bringe nachher
                nicht so viele wieder zusammen. Aber für diese Einteilung will wieder die
                Zeitrechnung gar nicht stimmen. Der Leser weiß, daß mein Urgroßvater an seinem
@@ -1188,10 +1196,10 @@
                gelegt, mit meinem Helden geht es noch immer bergauf, und ich fahre getrost in seiner
                Geschichte fort.</p>
             <p>
-               <pb/> So begann denn David Haller jenes Wirken und Weben, das nicht nur seiner
-               Familie, nicht nur seiner Stadt, nein, seiner ganzen heimatlichen Gegend zu einer
-               Quelle des Segens geworden ist. Er wurde der erste, große Industrielle viele Meilen
-               in der Runde, wurde Landwirt, Fabrikant und Kaufherr, und das alles auf ganz
+               <pb facs="#"/> So begann denn David Haller jenes Wirken und Weben, das nicht nur
+               seiner Familie, nicht nur seiner Stadt, nein, seiner ganzen heimatlichen Gegend zu
+               einer Quelle des Segens geworden ist. Er wurde der erste, große Industrielle viele
+               Meilen in der Runde, wurde Landwirt, Fabrikant und Kaufherr, und das alles auf ganz
                unmerklich sicherem Wege. Organisch, würde man heute sagen, entwickelte sich eines
                aus dem anderen, aus dem Kleinen das Größere, aus dem Größeren das Große. Kein Zug
                von den halsbrechenden Spekulationen, welche in unseren Tagen Millionäre zu Bettlern
@@ -1210,12 +1218,12 @@
                Ende ging, starb er, und diesmal, ohne hienieden wieder aufzuwachen. Wie er es
                angeordnet, wurde seine Familie nun die seines Sohnes, und David Haller löste sein
                Jünglingswort als ein Mann. Er erzog seine Geschwister zu einem tüchtigen
-               bürgerlichen Leben, <pb/> die Brüder zu einem Gewerbe, je nach Neigung und Fähigkeit,
-               die Töchter zu sittsamen, fleißigen Hausfrauen. Sobald die ersteren selbständig
-               wurden, die letzteren heirateten, und im Laufe der Zeit taten sie es alle, zahlte und
-               stattete er sie aus nicht nach ihrem Anspruche an das kleine väterliche Erbe, sondern
-               nach der großmütigen Fürsorge des brüderlichen Vormunds, und blieb auch in Zukunft
-               ihr Rater und Helfer in jeglicher Not.</p>
+               bürgerlichen Leben, <pb facs="#"/> die Brüder zu einem Gewerbe, je nach Neigung und
+               Fähigkeit, die Töchter zu sittsamen, fleißigen Hausfrauen. Sobald die ersteren
+               selbständig wurden, die letzteren heirateten, und im Laufe der Zeit taten sie es
+               alle, zahlte und stattete er sie aus nicht nach ihrem Anspruche an das kleine
+               väterliche Erbe, sondern nach der großmütigen Fürsorge des brüderlichen Vormunds, und
+               blieb auch in Zukunft ihr Rater und Helfer in jeglicher Not.</p>
             <p>Aber Christiane, was wurde aus ihr? War der gewissenhafte Mann in dem zartesten Punkt
                so fühllos? Dachte er in seinem Schaffen und Wirken nie mehr an das selige und an das
                traurige Lebewohl von dem lieben, blauäugigen Kinde? Teurer Leser, wenn ich
@@ -1232,13 +1240,13 @@
                Gelegenheiten machte alles seinen Sprung, jung wie alt, was nur Beine hatte und sie
                noch rühren konnte.</p>
             <p>Indessen verbreitete sich schon an jenem Abend unter der Hochzeitsgesellschaft eine
-               schier unglaubliche Munkelei. Es <pb/> sollte gestern bei Tafel richtig geworden sein
-               zwischen der kleinen Löfflerin und ihrem Tischnachbar Keller, dem Russen. Die Meister
-               Andreas und Hans Adam schüttelten die Köpfe, ließen auch ein warnendes Wörtchen gegen
-               die Mutter Schösserin verlauten. Der Keller, meinten sie, sei trotz seiner grauen
-               Haare ein Larifari, der nichts als Raupen im Kopfe habe, und seine
-               Torfgrubenspekulation, die breche ihm bei guter Zeit den Hals; denn welcher Mensch
-               mit gesunden fünf Sinnen werde sich seine Öfen durch schwarze, stinkende Erde
+               schier unglaubliche Munkelei. Es <pb facs="#"/> sollte gestern bei Tafel richtig
+               geworden sein zwischen der kleinen Löfflerin und ihrem Tischnachbar Keller, dem
+               Russen. Die Meister Andreas und Hans Adam schüttelten die Köpfe, ließen auch ein
+               warnendes Wörtchen gegen die Mutter Schösserin verlauten. Der Keller, meinten sie,
+               sei trotz seiner grauen Haare ein Larifari, der nichts als Raupen im Kopfe habe, und
+               seine Torfgrubenspekulation, die breche ihm bei guter Zeit den Hals; denn welcher
+               Mensch mit gesunden fünf Sinnen werde sich seine Öfen durch schwarze, stinkende Erde
                verschmieren lassen, wenn ihm das schönste Buchenholz in Fülle zu Gebote stehe?</p>
             <p>Die Frau Schösserin mußte diesen Einwänden Beifall geben; mit dem Rumor hatte es aber
                dennoch seine Richtigkeit. Der alte Hagestolz hatte wirklich gestern beim ersten
@@ -1253,8 +1261,8 @@
                Land fuhr, um sich in einer elenden Dorfkirche still und verstohlen zusammengeben zu
                lassen, wie arme Sünder, machte natürlich viel Rederei. Sie schienen sich indessen
                wenig darum zu kümmern, zumal sie bald darauf die Stadt für immer verließen. Keller
-               hängte die Kürschnerei an den Nagel und zog einige Stunden <pb/> seitab in einen
-               Flecken nahe den Feldern, unter welchen er die verdächtigen Braunkohlenlager
+               hängte die Kürschnerei an den Nagel und zog einige Stunden <pb facs="#"/> seitab in
+               einen Flecken nahe den Feldern, unter welchen er die verdächtigen Braunkohlenlager
                erwittert hatte. Die Schösserin folgte ihren Kindern nach; bald waren alle drei im
                Städtchen so gut wie vergessen und will's Gott! mitsammen glücklich geworden.</p>
             <p>Und endlich Sophie, die ältere, ernste, unschöne Sophie, ward denn auch sie nun
@@ -1275,20 +1283,20 @@
                delikaten Punkt; ob aber mein Urgroßvater meine Urgroßmutter wirklich geliebt hat, in
                irgendeinem neueren Sinne geliebt, das weiß ich wahrhaftig doch wieder einmal
                nicht.</p>
-            <p>Soviel steht indessen fest: David Hallers Hausstand <pb/> wurde das Muster der Stadt.
-               Niemals fand selber die Frau Postmeisterin einen Makel: keine Laune der Frau, keine
-               Ausschreitung des Mannes, keinen Hader unter Arbeitern und Gesinde. Alles ging seinen
-               leisen, aber sicheren Schritt. Man sah Frau Sophie fast niemals außer ihrem Hause,
-               selber nicht regelmäßig in der Kirche. Sie kränkelte und lebte vorzugsweise in ihrem
-               Zimmer im oberen Stock, von welchem aus sie das große Hauswesen führte, ordnete und
-               anleitete, was ihre heranwachsenden Schwägerinnen als tätige Schaffnerinnen
-               ausführten. Es blieb ihr dabei noch immer manche stille Stunde, um sie, freilich ganz
-               gegen die Gewohnheiten ihres Standes, bei einem Buche zu verbringen, mit welchem ein
-               Bruder ihrer seligen Mutter, ein Studierter und Professor an der Thomasschule in
-               Leipzig, ihr gelegentlich ein Präsent zu machen pflegte, so daß sie nach und nach
-               eine gar artige, kleine Sammlung besaß. Auch ihrer Musik war sie treu geblieben, nur
-               daß sie jetzt nicht mehr, wie als Mädchen, am späten Abend ihre Lieder sang, sondern
-               in der Dämmerstunde, ehe ihr David kam.</p>
+            <p>Soviel steht indessen fest: David Hallers Hausstand <pb facs="#"/> wurde das Muster
+               der Stadt. Niemals fand selber die Frau Postmeisterin einen Makel: keine Laune der
+               Frau, keine Ausschreitung des Mannes, keinen Hader unter Arbeitern und Gesinde. Alles
+               ging seinen leisen, aber sicheren Schritt. Man sah Frau Sophie fast niemals außer
+               ihrem Hause, selber nicht regelmäßig in der Kirche. Sie kränkelte und lebte
+               vorzugsweise in ihrem Zimmer im oberen Stock, von welchem aus sie das große Hauswesen
+               führte, ordnete und anleitete, was ihre heranwachsenden Schwägerinnen als tätige
+               Schaffnerinnen ausführten. Es blieb ihr dabei noch immer manche stille Stunde, um
+               sie, freilich ganz gegen die Gewohnheiten ihres Standes, bei einem Buche zu
+               verbringen, mit welchem ein Bruder ihrer seligen Mutter, ein Studierter und Professor
+               an der Thomasschule in Leipzig, ihr gelegentlich ein Präsent zu machen pflegte, so
+               daß sie nach und nach eine gar artige, kleine Sammlung besaß. Auch ihrer Musik war
+               sie treu geblieben, nur daß sie jetzt nicht mehr, wie als Mädchen, am späten Abend
+               ihre Lieder sang, sondern in der Dämmerstunde, ehe ihr David kam.</p>
             <p>Ach, warum kam er doch immer so spät und blieb so kurze Zeit, der geliebte Mann?
                Sooft Sophie seinen Tritt zur gewohnten Stunde hörte, wurde sie rot bis unter die
                Spitzen der Haube und das bis zu ihrem Ende, niemals ist sein Kommen oder Gehen ihr
@@ -1297,11 +1305,11 @@
                erwähnte.</p>
             <p>Wie glücklich war sie, wenn ihr David abends einmal nicht gar zu ermüdet bei ihr
                weilte, wenn er ein Stündchen mit ihr plauderte und nicht nur von der Wirtschaft;
-               oder gar, wenn er sie bat, ihm etwas zu singen oder vorzulesen. <pb/> Sie wählte dann
-               immer ein Stück von seinem Gellert, dem Dichter, den er schätzte und liebte wie
-               keinen sonst. Ja, noch als Greis habe ich ihn mit Tränen der Rührung »Wie groß ist
-               des Allmächt'gen Güte« und mit Tränen des Vergnügens die Geschichte »vom Hute« und
-               »vom grünen Esel« rezitieren hören.</p>
+               oder gar, wenn er sie bat, ihm etwas zu singen oder vorzulesen. <pb facs="#"/> Sie
+               wählte dann immer ein Stück von seinem Gellert, dem Dichter, den er schätzte und
+               liebte wie keinen sonst. Ja, noch als Greis habe ich ihn mit Tränen der Rührung »Wie
+               groß ist des Allmächt'gen Güte« und mit Tränen des Vergnügens die Geschichte »vom
+               Hute« und »vom grünen Esel« rezitieren hören.</p>
             <p>Nur in einem einzigen Punkte stimmte mein Urgroßvater nicht mit seinem
                Dichterliebling überein, das war dessen Spott über die Weiber und Scheu gegen die
                Ehe. Nein, David Haller schloß keinen Abend seine Augen, ohne Gott recht von Herzen
@@ -1320,28 +1328,29 @@
                begeisterte. Sophiens Sohn sollte Joseph heißen, wie einst sein Kaiser heißen
                würde!</p>
             <p>Ich will bei dieser Gelegenheit nicht unerwähnt lassen, daß meine mütterlichen Ahnen
-               dem kühnen, philosophischen <pb/> König, welchem Europa eben im Begriffe war den
-               Namen des Großen beizulegen, recht von Herzen abhold waren, ja fast ihn verachteten.
-               Freilich zum Abholdsein hatten sie Grund; denn was mußten ihr Land, ihre Gegend und
-               selber die Stadt nicht alles durch ihn leiden! Was aber die Geringschätzung
-               anbelangt, so war allerdings einer seiner glänzendsten Siege in unserer Nachbarschaft
-               erfochten worden, ist aber der Glückliche denn auch immer der Gerechte? Hatten nicht
-               feige, übermütige Verbündete das deutsche Heer in ihr Verderben gezogen? Hatte man
-               irgend etwas Majestätisches oder Heldenartiges in der dürftigen, gebeugten Figur des
-               Siegers zu erkennen vermocht, als er im abgetragenen Mantel, mit kotigen
-               Reiterstiefeln vor und nach der Bataille unsere Stadt passierte? Mußte man es nicht
-               höchst unköniglich, ja höchst unanständig finden, was er zu der gnädigen Frau, der
-               Gemahlin des reichsten Gutsbesitzers unserer Pflege, gesagt hatte, als er nach jener
-               Schlacht auf ihrem Schlosse übernachtete? Der Gutsherr war kurfürstlich königlicher
-               Kammerherr, und da er den Zorn des übermütigen Triumphators fürchtete, hielt er sich
-               während dessen Anwesenheit verborgen, wie man munkelte im Schafstall. Seine Gemahlin
-               dahingegen, ihr siebenjähriges Söhnchen in kurfürstlicher Fähnrichsuniform an der
-               Hand, war couragiert genug, den königlichen Gast an der Pforte ihres Schlosses zu
-               empfangen und mit würdevollem Anstand die Abwesenheit ihres Gemahls zu entschuldigen.
-               Der hohe Herr geruhten sich längere Zeit mit der schönen, klugen Dame zu unterhalten
-               und ihr beim Abschiede die Hand reichend zu sagen: »Ein Glück, Madame, für Ihr Haus
-               und Ihren Sohn, daß Sie die Hosen angezogen haben statt Ihres Gemahls.«</p>
-            <pb/>
+               dem kühnen, philosophischen <pb facs="#"/> König, welchem Europa eben im Begriffe war
+               den Namen des Großen beizulegen, recht von Herzen abhold waren, ja fast ihn
+               verachteten. Freilich zum Abholdsein hatten sie Grund; denn was mußten ihr Land, ihre
+               Gegend und selber die Stadt nicht alles durch ihn leiden! Was aber die
+               Geringschätzung anbelangt, so war allerdings einer seiner glänzendsten Siege in
+               unserer Nachbarschaft erfochten worden, ist aber der Glückliche denn auch immer der
+               Gerechte? Hatten nicht feige, übermütige Verbündete das deutsche Heer in ihr
+               Verderben gezogen? Hatte man irgend etwas Majestätisches oder Heldenartiges in der
+               dürftigen, gebeugten Figur des Siegers zu erkennen vermocht, als er im abgetragenen
+               Mantel, mit kotigen Reiterstiefeln vor und nach der Bataille unsere Stadt passierte?
+               Mußte man es nicht höchst unköniglich, ja höchst unanständig finden, was er zu der
+               gnädigen Frau, der Gemahlin des reichsten Gutsbesitzers unserer Pflege, gesagt hatte,
+               als er nach jener Schlacht auf ihrem Schlosse übernachtete? Der Gutsherr war
+               kurfürstlich königlicher Kammerherr, und da er den Zorn des übermütigen Triumphators
+               fürchtete, hielt er sich während dessen Anwesenheit verborgen, wie man munkelte im
+               Schafstall. Seine Gemahlin dahingegen, ihr siebenjähriges Söhnchen in kurfürstlicher
+               Fähnrichsuniform an der Hand, war couragiert genug, den königlichen Gast an der
+               Pforte ihres Schlosses zu empfangen und mit würdevollem Anstand die Abwesenheit ihres
+               Gemahls zu entschuldigen. Der hohe Herr geruhten sich längere Zeit mit der schönen,
+               klugen Dame zu unterhalten und ihr beim Abschiede die Hand reichend zu sagen: »Ein
+               Glück, Madame, für Ihr Haus und Ihren Sohn, daß Sie die Hosen angezogen haben statt
+               Ihres Gemahls.«</p>
+            <pb facs="#"/>
             <p>Die Hosen! Man wollte es anfänglich in der Bürgerschaft nicht glauben, daß Er »Hosen«
                gesagt und noch obendrein zu einer Dame von Adel, einer geborenen Gräfin. Es wurde
                aber von Ohrenzeugen versichert, und mein Urgroßvater hatte einen Grund mehr, an dem
@@ -1349,8 +1358,8 @@
                solcher Ausdruck nimmermehr verunziert haben würde.</p>
          </div>
          <div type="chapter">
-            <p>Siebentes Kapitel</p>
-            <p>O Joseph!</p>
+            <head>Siebentes Kapitel</head>
+            <head>O Joseph!</head>
             <p>Das war ein gewaltiger Sprung vom kleinen Joseph zum großen Friedrich! Ich tue ihn
                retour und bin nun wieder bei dem Knaben und seiner Mutter.</p>
             <p>Er wurde ihre Welt. Von seinem ersten Lebenstage an, darf man wohl sagen, war er des
@@ -1363,11 +1372,11 @@
                freundlich, sobald sie sang. Überhaupt waren es nur zwei Triebe, welche sich gleich
                früh und gleich stark in dem Knaben hervortaten: die Liebe zur Mutter und die Liebe
                zur Musik. Seine kleinen Händchen reichten noch nicht an die Tasten, als er schon auf
-               eine Fußbank kletterte und die Melodien, die er von seiner Mutter <pb/> hörte,
-               nachzuspielen suchte. Im regelmäßigen Lernen dahingegen zeigte er sich späterhin
-               schwach, Lesen- und Schreibenlernen fiel ihm schwer, Rechnen war und blieb ihm ein
-               Greuel, eine verschlossene Welt seines Vaters Zahlenwelt. Die Lehrer konnten wenig
-               Hoffnung auf ihn bauen und bedauerten den tüchtigen Vater um dieses einzigen,
+               eine Fußbank kletterte und die Melodien, die er von seiner Mutter <pb facs="#"/>
+               hörte, nachzuspielen suchte. Im regelmäßigen Lernen dahingegen zeigte er sich
+               späterhin schwach, Lesen- und Schreibenlernen fiel ihm schwer, Rechnen war und blieb
+               ihm ein Greuel, eine verschlossene Welt seines Vaters Zahlenwelt. Die Lehrer konnten
+               wenig Hoffnung auf ihn bauen und bedauerten den tüchtigen Vater um dieses einzigen,
                schwächlichen Kindes willen.</p>
             <p>Und dieser Vater? Ich habe eine Bemerkung gemacht, lieber Leser; wahrscheinlich keine
                neue, da sie aber die einzige Bemerkung in meiner ganzen Geschichte ist, will ich sie
@@ -1385,7 +1394,7 @@
             <p>Was sollte aus dem Knaben werden? Die Frage wurde immer bedenklicher, je näher die
                Entscheidung über einen Beruf heranrückte. Es gab im Grunde nur einen einzigen für
                ihn, das fühlte auch die Mutter: der alleinige Sohn und Erbe mußte das immer mehr
-               emporblühende Geschäft <pb/> des Vaters handhaben lernen, um es eines Tages
+               emporblühende Geschäft <pb facs="#"/> des Vaters handhaben lernen, um es eines Tages
                fortführen zu können. Freilich eignete er sich gar wenig dafür. Indessen wofür denn
                mehr? Studieren? Gelehrter, Prediger, Advokat, Arzt werden? Aber Joseph wollte ja
                nicht lernen, wann und was er sollte. Wozu hatte er denn Lust? Zur Musik allerdings.
@@ -1407,11 +1416,11 @@
                »Aber, mein David!« da war der Angriff mit diesem einzigen Worte
                zurückgeschlagen.</p>
             <p>Es wurde demnach beschlossen, Joseph in Leipzig die Handlung erlernen zu lassen; nach
-               zwei Seiten hin ein angezeigter Ausweg, da nach der einen das Hallersche Geschäft
-               <pb/> sich je mehr und mehr aus einem gewerblichen in ein kaufmännisches umwandelte;
-               nach der anderen die große Stadt zu mannigfaltiger, des Knaben Neigung entsprechender
-               Ausbildung Gelegenheit bot. Ein namhaftes Handelshaus sollte ihn in die Lehre, der
-               Oheim an der Thomasschule in Kost und Obhut nehmen.</p>
+               zwei Seiten hin ein angezeigter Ausweg, da nach der einen das Hallersche Geschäft <pb
+                  facs="#"/> sich je mehr und mehr aus einem gewerblichen in ein kaufmännisches
+               umwandelte; nach der anderen die große Stadt zu mannigfaltiger, des Knaben Neigung
+               entsprechender Ausbildung Gelegenheit bot. Ein namhaftes Handelshaus sollte ihn in
+               die Lehre, der Oheim an der Thomasschule in Kost und Obhut nehmen.</p>
             <p>Ein halber Tod war für Sophie das Scheiden des geliebten Kindes, des unzertrennlichen
                Gefährten ihrer stillen Tage. Auch nahmen ihre Kräfte von der Zeit an sichtlich ab,
                und nur des Montags, wo regelmäßig Josephs Briefe eintrafen, flackerten sie flüchtig
@@ -1429,11 +1438,12 @@
                seine Mutter sie ihm nimmer zugetraut haben würde. Wie wußte er die Eindrücke der
                großen Stadt zu schildern! Den Gelehrtenverkehr in des Oheims Hause, die
                Gewandhauskonzerte jeden Donnerstag, und vor allem das Theater, diese Feenwelt, das
-               Theater! <pb/> O, welches mütterliche Herz könnte es meinem urgroßmütterlichen
-               verargen, daß es so eifrig dafür Sorge getragen hat, seinem Liebling diese
-               Herrlichkeiten nicht verlöschen zu lassen! Mit anderen Worten: des Lieblings leere
-               Börse immer von neuem zu füllen und in diesem einen, außereinzigen Stücke mitunter
-               sogar gegen den Willen und hinter dem Rücken ihres David zu handeln?</p>
+               Theater! <pb facs="#"/> O, welches mütterliche Herz könnte es meinem
+               urgroßmütterlichen verargen, daß es so eifrig dafür Sorge getragen hat, seinem
+               Liebling diese Herrlichkeiten nicht verlöschen zu lassen! Mit anderen Worten: des
+               Lieblings leere Börse immer von neuem zu füllen und in diesem einen, außereinzigen
+               Stücke mitunter sogar gegen den Willen und hinter dem Rücken ihres David zu
+               handeln?</p>
             <p>Was nun Vater David anbelangt, so fragte er bei jedem Meßbesuch den Lehrherrn nach
                seinem Gutachten über den Sohn und erhielt jederzeit eine Antwort, welche ihm für den
                Augenblick grundwenig Klarheit gab, mit welcher er sich jedoch immer von neuem
@@ -1451,7 +1461,7 @@
                daher in der Wissenschaft der doppelten Buchführung gebracht hat, möge zu bemessen
                dem Enkel erlassen bleiben.</p>
             <p>Mit Genugtuung dahingegen darf versichert werden, daß Joseph während seines
-               dreijährigen Leipziger Aufenthaltes <pb/> drei musikalische Instrumente mit
+               dreijährigen Leipziger Aufenthaltes <pb facs="#"/> drei musikalische Instrumente mit
                angenehmer Fertigkeit spielen lernte, daß er die Bildungsstätte des Theaters selten
                unbesucht und wenig schöngeistige Nummern des Meßkatalogs unerforscht gelassen hat.
                Daß er das Zopfband löste und seinen Haarwuchs in teutonischer Freiheit auf die
@@ -1475,8 +1485,8 @@
                leiser Stimme:</p>
             <p>»Ich fühle es rasch mit mir zu Ende gehen, mein David, darum – –«</p>
             <p>
-               <pb/> Er war wie vom Blitz getroffen; in tödlicher Angst trieb er das Mädchen nach
-               dem Arzt, wollte selbst fortstürzen, um Hülfe zu suchen.</p>
+               <pb facs="#"/> Er war wie vom Blitz getroffen; in tödlicher Angst trieb er das
+               Mädchen nach dem Arzt, wollte selbst fortstürzen, um Hülfe zu suchen.</p>
             <p>»Laß das, Lieber,« sagte Sophie, ihn bei der Hand zurückhaltend, »er hilft mir nicht
                mehr. Bleibe bei mir, David.«</p>
             <p>Er setzte sich auf die Bettkante. Die Brust war ihm zugeschnürt. »David,« fuhr sie
@@ -1497,8 +1507,9 @@
             <p>»Du wirst leben, Sophie,« rief David, indem er zerknirscht an ihrem Bette niedersank,
                »für mich und Joseph leben.«</p>
             <p>»Droben!« hauchte sie mit einem Blick gen Himmel.</p>
-            <p>Ein Vaterunserlang schwiegen er und sie. Beide hatten <pb/> ihre Hände gefaltet. Dann
-               hob Sophie mit kaum hörbarer Stimme wieder an: »Versprich mir, David – –«</p>
+            <p>Ein Vaterunserlang schwiegen er und sie. Beide hatten <pb facs="#"/> ihre Hände
+               gefaltet. Dann hob Sophie mit kaum hörbarer Stimme wieder an: »Versprich mir, David –
+               –«</p>
             <p>»Alles, Sophie, alles, was dir Frieden gibt,« sagte David, seine Hände ringend, unter
                bitterlichen Tränen.</p>
             <p>Sie unterdrückte ein Schluchzen, sie rang in einem nicht bloß körperlichen Kampf;
@@ -1516,13 +1527,13 @@
                zu Ende.</p>
          </div>
          <div type="chapter">
-            <p>Achtes Kapitel</p>
-            <p>Noch einmal: O Joseph!</p>
+            <head>Achtes Kapitel</head>
+            <head>Noch einmal: O Joseph!</head>
             <p>Joseph stand am Grabe, als seine Mutter versenkt ward. Seine Knie schwankten. Er wäre
                in die Grube getaumelt, wenn der stärkere Vater ihn nicht gehalten hätte. Nie hat ein
                Sohn inniger um seine Mutter getrauert. Es war sein erster Schmerz und der einzige,
-               den er begriff. Alles <pb/> andere dünkte ihm gleichgültig. Er wußte nicht, was
-               fortan mit dem Leben beginnen. Sollte er nach Leipzig zurückkehren, wo er so
+               den er begriff. Alles <pb facs="#"/> andere dünkte ihm gleichgültig. Er wußte nicht,
+               was fortan mit dem Leben beginnen. Sollte er nach Leipzig zurückkehren, wo er so
                glücklich gewesen war? Fort aus den Räumen, die ihre Gegenwart geheiligt hatte, fort
                von ihrem Grabe? Zum ersten Male im Leben regte sich überdies in ihm ein Keim von dem
                Triebe, welcher das Lebensprinzip seines Vaters war, von dem Triebe einer Pflicht.
@@ -1541,7 +1552,7 @@
                Grabe. Als die Jahreszeit vorrückte, schweifte er tagelang in der Gegend umher; aber
                immer allein, er floh allen Umgang; sein bloßer Blick rief dem Begegner zu: »Weiche
                von mir, störe nicht meinen Schmerz!« Der Vater wurde immer unruhiger einem Zustand
-               gegenüber, der auch die körperliche Gesundheit des Jünglings sichtlich <pb/>
+               gegenüber, der auch die körperliche Gesundheit des Jünglings sichtlich <pb facs="#"/>
                erschütterte. Er gab das still Gewährenlassen auf, und es verging kein Tag, daß er
                ihm nicht eine Ansprache hielt über die Notwendigkeit, sich in Gottes
                unerforschlichen Ratschluß zu fügen, über die Pflicht, seine Erdenbestimmung zu
@@ -1564,7 +1575,7 @@
             <p>An einem Sonntag, als die Glocken zum Frühdienst läuteten, sagte der Vater: »Du gehst
                niemals zur Kirche, mein Sohn. Gottes Wort würde dich stärken.«</p>
             <p>
-               <pb/> Joseph zuckte die Achseln und schwieg.</p>
+               <pb facs="#"/> Joseph zuckte die Achseln und schwieg.</p>
             <p>»Deine selige Mutter war so fromm und hielt ihres Gottes Haus so hoch in Ehren!«</p>
             <p>»Meine Mutter!« rief Joseph, nahm seinen Hut und ging in die Kirche. Als er um die
                Mittagszeit nach Hause kam, fragte der Vater:</p>
@@ -1584,8 +1595,9 @@
                selber musizieren mochte er nicht mehr; es fehlte ihm ein Echo in einem
                Menschenherzen; es war eine klägliche Existenz.</p>
             <p>Der Sommer verging; Herbstregen und Stürme schnitten die Streifereien im Freien ab,
-               unter Seufzen und Brüten <pb/> kam Martini heran, das Fest der Schulkinder, ein Sporn
-               den Kleinen, die es werden sollten; kaum minder ersehnt als der Heilige Christ.</p>
+               unter Seufzen und Brüten <pb facs="#"/> kam Martini heran, das Fest der Schulkinder,
+               ein Sporn den Kleinen, die es werden sollten; kaum minder ersehnt als der Heilige
+               Christ.</p>
             <p>Seit Tagesgrauen wogte ein fröhliches Treiben in Häusern und Straßen; das Wetter war
                abscheulich; drei Wochen hatte es fast ohne Unterlaß geregnet, und auch heute ging
                es, wie man so sagt, naß nieder. Die Füßchen blieben oftmals stecken im schwarzen
@@ -1604,8 +1616,8 @@
                nebst den eßbaren Gaben in feierlicher Rede dem hochzuverehrenden Hirten von seiner
                untertänigen Herde in pflichtschuldiger Dankbarkeit gewidmet zu werden. Der
                hochverehrte Hirt dankte mit nicht minder wohlgesetzten Worten und lud seine ihm von
-               Gott anvertraute Herde ein, am <pb/> Nachmittag das hohe Freudenfest mit ihrem
-               getreuen Hirten zu begehen.</p>
+               Gott anvertraute Herde ein, am <pb facs="#"/> Nachmittag das hohe Freudenfest mit
+               ihrem getreuen Hirten zu begehen.</p>
             <p>Es war ein saurer Tag, saurer selbst als der des Examens in der Woche vor Ostern, ja
                der sauerste im ganzen Jahre, dieser Tag Martini für die alten, würdigen Herren. Denn
                sie alle hatten graue Haare: der Rektor, der Kantor, die beiden Mädchenlehrer; nur
@@ -1625,7 +1637,7 @@
                gebieten, klatschen, drohen, schreien, die Geige spielen, fluchen und zu guter Letzt
                noch beten; ja, wer euch also hörte und sah, der konnte nicht ein menschliches Herz
                im Busen tragen, oder er mußte gestehen, daß kein Mensch saurer sein Brot im Schweiße
-               seines Angesichts <pb/> verdiene als ein Lehrer überhaupt und ein Lehrer am
+               seines Angesichts <pb facs="#"/> verdiene als ein Lehrer überhaupt und ein Lehrer am
                Martinstag insbesondere; und verachten, wie mein Urgroßvater es tat, mußte er jene
                neuernden Schreier und Neidhammel in der Gemeinde, welche schon dazumal anfingen, die
                Martinigaben eine erbärmliche Bettelei zu schelten und auf die Abschaffung dieses
@@ -1647,10 +1659,10 @@
                von unten herauf; der Vater, fromm die Hände faltend, stimmte ein. Joseph dachte an
                seine Kindheit, wie er am Vorabend des Festes sich vor Schlafengehen ein kleines
                Martinshorn aus Brot geknetet, ein Glas Wasser daneben gestellt und gebetet hatte:
-               »Marteine, <pb/> Marteine, mache Wasser zu Weine!« Und wenn er beim Erwachen ein
-               rosinengespicktes Martinshorn und ein Glas Wein an der Stelle gefunden, wie ihm dann
-               niemals ein Zweifel gekommen war, daß der große Mann Gottes die Macht habe, fromme
-               Kinder mit einem artigen Wunder zu erfreuen.</p>
+               »Marteine, <pb facs="#"/> Marteine, mache Wasser zu Weine!« Und wenn er beim Erwachen
+               ein rosinengespicktes Martinshorn und ein Glas Wein an der Stelle gefunden, wie ihm
+               dann niemals ein Zweifel gekommen war, daß der große Mann Gottes die Macht habe,
+               fromme Kinder mit einem artigen Wunder zu erfreuen.</p>
             <p>Seine Erinnerungen weilten noch bei der, welche die Seele seiner kindlichen Freuden
                gewesen war, als eine jache Verwirrung, ein schallendes Jauchzen und Lachen seine
                Blicke auf die Szene vor dem Hause zurücklenkte. »Ein Hochzeitbitter! Ein
@@ -1667,8 +1679,8 @@
                gering geschätzt werden, und Herablassung ziemt dem angesehenen Manne. Überdies ist
                Bulle der reichste Bauer der Umgegend; seine Grundstücke grenzen an die unseren; ich
                kaufe seine Wolle, seine Knechte und Mägde spinnen im Winter für unser Geschäft. Ich
-               für meine Person werde zur Trauung mindestens <pb/> jedenfalls hinunterfahren.
-               Begleite mich, mein Sohn.«</p>
+               für meine Person werde zur Trauung mindestens <pb facs="#"/> jedenfalls
+               hinunterfahren. Begleite mich, mein Sohn.«</p>
             <p>Halb gedankenlos willigte Joseph ein. Die Hausmagd brachte mit einem Glas Wein den
                zusagenden Empfehl und heftete noch ein Seidentuch mehr an des bunten lustigen
                Reiters Rock. Mit einem Vivat hoch! auf Meister Haller setzte derselbe noch bunter
@@ -1676,8 +1688,8 @@
                ist unser Gott« schallte es zum grauen Novemberhimmel hinauf.</p>
          </div>
          <div type="chapter">
-            <p>Neuntes Kapitel</p>
-            <p>Zu Hülfe!</p>
+            <head>Neuntes Kapitel</head>
+            <head>Zu Hülfe!</head>
             <p>Am Sonntag früh waren Vater und Sohn in einem leichten Einspänner, ihrem eigenen
                Geschirr, auf dem Wege nach Bielitz, das angenehm in der Aue, von eichenbewaldeten
                Höhen umhegt, gelegen war. Warum die ersten Anbauer das Dorf und manche
@@ -1689,10 +1701,10 @@
                und hatte nur hart am Berge einen allenfalls passierbaren Fahrweg übriggelassen.
                Schwierig und langweilig genug ging's bei alledem vorwärts, und obgleich meine
                Vorfahren bei guter Zeit aufgebrochen waren, sie langten vor dem Hochzeitshause erst
-               an, als der Zug, zum Kirchgange geordnet, <pb/> bereits unter dem Scheuntore stand.
-               Voran die Musik, dann Pastor und Schulmeister mit dem Brautpaar, darauf die lange
-               Reihe der Gäste, je zwei und zwei, ein Männlein und ein Weiblein. Man wartete nur
-               noch auf die beiden vornehmen Stadtbürger.</p>
+               an, als der Zug, zum Kirchgange geordnet, <pb facs="#"/> bereits unter dem Scheuntore
+               stand. Voran die Musik, dann Pastor und Schulmeister mit dem Brautpaar, darauf die
+               lange Reihe der Gäste, je zwei und zwei, ein Männlein und ein Weiblein. Man wartete
+               nur noch auf die beiden vornehmen Stadtbürger.</p>
             <p>Sie stiegen hastig aus und eilten auf zwei Frauenzimmer zu, welche man ihnen als
                Partnerinnen übriggelassen zu haben schien. Joseph reichte der Zurückstehenden die
                Hand; David, allezeit höflich, verbeugte sich gegen die Vordere, während er
@@ -1710,17 +1722,18 @@
                wirklich? Waren sie andere, neue Menschen geworden, wie das in zwanzig Jahren im
                Grunde ja in der Ordnung ist?</p>
             <p>David, o David freilich, wenn Christiane vor ihm erschrak, so geschah's, weil er seit
-               zwanzig Jahren der nämliche geblieben war; breiter allerdings, aber darum nur <pb/>
-               stattlicher, kaum merkbar gealtert. Ein schöner Mann jetzt erst recht; weit und breit
-               fand man nicht seinesgleichen. Es war der alte Jugendfreund, der Christelchen
-               gegenüberstand. Was aber die Jugendfreundin anbelangt, ei nun ja, auch sie erkannte
-               einer wieder. Ihr Augenpaar schaute noch immer so freundlich drein, ihre Wangen
-               glänzten weiß und sogar noch etwas röter, wie zu der Zeit, da Keller, der Russe, bei
-               ihrem Anblick ausgerufen hatte: »Bei Gott, ein Mädchen zum Anbeißen!« Selbst der
-               schwarze Gros de Tours rauschte noch wie am Tage der Einsegnung. Aber allerdings ihre
-               Taille war nicht mehr so schlank wie dazumal, keineswegs zum Umspannen; die rundliche
-               Fülle gab ihr etwas Mütterliches, eine Würde, an die sich der Jugendfreund erst
-               gewöhnen mußte und die ihn beim ersten Anblick schreckartig überraschen mochte.</p>
+               zwanzig Jahren der nämliche geblieben war; breiter allerdings, aber darum nur <pb
+                  facs="#"/> stattlicher, kaum merkbar gealtert. Ein schöner Mann jetzt erst recht;
+               weit und breit fand man nicht seinesgleichen. Es war der alte Jugendfreund, der
+               Christelchen gegenüberstand. Was aber die Jugendfreundin anbelangt, ei nun ja, auch
+               sie erkannte einer wieder. Ihr Augenpaar schaute noch immer so freundlich drein, ihre
+               Wangen glänzten weiß und sogar noch etwas röter, wie zu der Zeit, da Keller, der
+               Russe, bei ihrem Anblick ausgerufen hatte: »Bei Gott, ein Mädchen zum Anbeißen!«
+               Selbst der schwarze Gros de Tours rauschte noch wie am Tage der Einsegnung. Aber
+               allerdings ihre Taille war nicht mehr so schlank wie dazumal, keineswegs zum
+               Umspannen; die rundliche Fülle gab ihr etwas Mütterliches, eine Würde, an die sich
+               der Jugendfreund erst gewöhnen mußte und die ihn beim ersten Anblick schreckartig
+               überraschen mochte.</p>
             <p>Sie betraten die Kirche, ohne weiter ein Wort miteinander gewechselt zu haben. Die
                Mannspersonen stellten sich rechts vom Altar, die Frauenzimmer links; die Traurede
                hob an. Aber mein Urgroßvater war nicht so andächtig wie bei heiligen Handlungen
@@ -1731,12 +1744,12 @@
                Schicksal genommen, aufrichtig bewundert. Sie war leichenblaß, zitternd und sogar ein
                paar Tage lang bettlägerig darüber geworden, und das nach zwanzig Jahren, daß sie die
                flüchtige Bekanntin nicht mit Augen gesehen. Freilich, sie hatte ein gutes Herz,
-               seine Sophie, und der ihr die Neuigkeit brachte, <pb/> hatte hinzugefügt, daß Keller
-               seine Familie in dürftigen Umständen zurückgelassen habe. Er wäre, wie alle Welt
-               prophezeit, an seiner Braunkohlenspekulation zugrunde gegangen, und seiner Witwe
-               bleibe nichts übrig, als in die Stadt zurückzuziehen und durch irgendein kleines
-               Geschäft die Erziehung ihrer vier Unmündigen möglich zu machen. Alles das hatte David
-               Haller seit dreiviertel Jahren gewußt.</p>
+               seine Sophie, und der ihr die Neuigkeit brachte, <pb facs="#"/> hatte hinzugefügt,
+               daß Keller seine Familie in dürftigen Umständen zurückgelassen habe. Er wäre, wie
+               alle Welt prophezeit, an seiner Braunkohlenspekulation zugrunde gegangen, und seiner
+               Witwe bleibe nichts übrig, als in die Stadt zurückzuziehen und durch irgendein
+               kleines Geschäft die Erziehung ihrer vier Unmündigen möglich zu machen. Alles das
+               hatte David Haller seit dreiviertel Jahren gewußt.</p>
             <p>Auch das hätte er sich allenfalls denken können, daß er seine Jugendfreundin hier
                unten in Bielitz zu Mieke Bullens Hochzeit vorfinden werde; ihr Wohnort lag nur ein
                Wegstündchen fern auf den Höhen, die Bielitzer Schulmeisterin war David als eine
@@ -1752,9 +1765,9 @@
                verwenden. Wer mochte es nur sein? Wie kam es hierher?</p>
             <p>Noch war er nicht ins klare gekommen über sich und sie und jene dritte, als der Zug
                sich in voriger Ordnung wieder in Bewegung setzte.</p>
-            <p>Als sie über den Gottesacker gingen, sagte die Witwe: <pb/> »Ich muß mich sputen
-               heimzukommen; meine Jungen sind ohne Aufsicht; ich hatte nur mein Lenchen glücklich
-               zu dem Feste herunter bringen wollen – – –«</p>
+            <p>Als sie über den Gottesacker gingen, sagte die Witwe: <pb facs="#"/> »Ich muß mich
+               sputen heimzukommen; meine Jungen sind ohne Aufsicht; ich hatte nur mein Lenchen
+               glücklich zu dem Feste herunter bringen wollen – – –«</p>
             <p>»Lenchen? Ihre Jungfer Tochter?« unterbrach sie David Haller und wurde feuerrot.</p>
             <p>»Ja, Herr Haller, meine Älteste. Sehen Sie dort das kleine Ding, das der junge
                Stadtbürger führt.«</p>
@@ -1774,7 +1787,7 @@
             <p>»Nun, wie gefällt Ihnen meine Lene, Herr Haller?« fragte die Witwe, als Eltern und
                Kinder aufeinanderstießen.</p>
             <p>Eine unbescheidene Frage in der Tat. Sie gefiel meinem Urgroßvater ausnehmend; aber
-               das konnte er doch nicht <pb/> sagen. Er wurde rot und machte eine stumme
+               das konnte er doch nicht <pb facs="#"/> sagen. Er wurde rot und machte eine stumme
                Verbeugung.</p>
             <p>Das junge Mädchen hatte aber kaum seinen Namen gehört, als sie, fröhlich in die Hände
                klatschend, auf ihn zusprang und rief:</p>
@@ -1796,10 +1809,11 @@
                Fuhrwerk, aber durch einen von Bullens Knechten fahren zu lassen. In zwei Stunden
                konnte das Geschirr zurück sein und er mit Joseph noch vor Dunkelwerden den Heimweg
                antreten.</p>
-            <p>Als er die Witwe zum Wagen führte, bemerkte er, daß <pb/> das Wasser bedenklich im
-               Steigen sei. Er fragte nach rechts und links, ob der Damm sich auch zum Widerstande
-               hoch und fest genug erweisen werde? »Ja, wenn's der Frühlingsstrom wäre, könnt es was
-               auf sich haben!« meinte man. »Herbstfluten dahingegen machen blinden Lärm.«</p>
+            <p>Als er die Witwe zum Wagen führte, bemerkte er, daß <pb facs="#"/> das Wasser
+               bedenklich im Steigen sei. Er fragte nach rechts und links, ob der Damm sich auch zum
+               Widerstande hoch und fest genug erweisen werde? »Ja, wenn's der Frühlingsstrom wäre,
+               könnt es was auf sich haben!« meinte man. »Herbstfluten dahingegen machen blinden
+               Lärm.«</p>
             <p>Bei alledem schien unter dem Rauschen und Brausen die Hochzeitsfreude doch
                einigermaßen zu Wasser zu werden; die Gesichter wurden immer länger, und man hörte
                von Zeit zu Zeit einen Engel durch die Versammlung fliegen. Selbst in der Scheune, wo
@@ -1818,10 +1832,10 @@
                Schlafkammer Platz gefunden hatte, bei guter Laune sei, ob das schöne Lenchen an
                seiner Seite sitze und wie er sich mit ihr unterhalte?</p>
             <p>
-               <pb/> Joseph saß allerdings an ihrer Seite, und so wenig er selber unterhielt, so
-               unterhielt er sich doch ausnehmend gut. Als dreijähriger Hausgenosse eines gelehrten
-               Junggesellen, befand er sich zum ersten Male in der Nähe eines jungen weiblichen
-               Wesens und war doch durch die Vertrautheit mit seiner Mutter an weibliche
+               <pb facs="#"/> Joseph saß allerdings an ihrer Seite, und so wenig er selber
+               unterhielt, so unterhielt er sich doch ausnehmend gut. Als dreijähriger Hausgenosse
+               eines gelehrten Junggesellen, befand er sich zum ersten Male in der Nähe eines jungen
+               weiblichen Wesens und war doch durch die Vertrautheit mit seiner Mutter an weibliche
                Empfänglichkeit und Auffassungsweise gewöhnt. Ein Menschenkenner von heute würde ihn
                selber vielleicht eine weibliche Natur genannt haben oder eine frauenhafte. Schon
                sein seliger Großvater, Meister Hans Adam, der allezeit den Nagel auf den Kopf traf,
@@ -1840,9 +1854,9 @@
                Hatte sie sich jemals um Schön- oder Häßlichsein bekümmert? Die Tochter Kellers, des
                Sonderlings, war überhaupt mehr wie ein Landmädchen, als eine Bürgertochter
                aufgewachsen; hätte sie sonst, ohne sich im geringsten beleidigt zu fühlen, es bloß
-               lächerlich <pb/> finden können, daß ihr junger Bekannter von einer Stunde ihr sein
-               Wohlgefallen so unverblümt ausdrückte und sie sogar schlechtweg bei ihrem Taufnamen
-               nannte, statt Jungfer Kellerin, wie sich geziemte?</p>
+               lächerlich <pb facs="#"/> finden können, daß ihr junger Bekannter von einer Stunde
+               ihr sein Wohlgefallen so unverblümt ausdrückte und sie sogar schlechtweg bei ihrem
+               Taufnamen nannte, statt Jungfer Kellerin, wie sich geziemte?</p>
             <p>Lenchen aß mit dem besten Appetit; zumal von dem saftigen Fladen aus Malz und Mohn.
                »Nehmen Sie doch auch ein Häppchen,« nötigte sie ihren Nachbar.</p>
             <p>»Ich danke Ihnen,« antwortete er ablehnend.</p>
@@ -1862,8 +1876,8 @@
                Gespräch ein Ende. Die Flut drohte den Damm an einer Stelle zu durchbrechen, deren
                Ausbesserung auf die müßige Winterzeit verschoben worden war. Mit Herbstwassern hatte
                es ja niemalen viel auf sich gehabt. Und nun doch! Die Männer stürzten nach der
-               gefährdeten Stelle; David <pb/> Haller voran, die Seele aller, die, benommen von
-               Schreck und hochzeitlichem Trunk, Hand ans Werk zu legen hatten.</p>
+               gefährdeten Stelle; David <pb facs="#"/> Haller voran, die Seele aller, die, benommen
+               von Schreck und hochzeitlichem Trunk, Hand ans Werk zu legen hatten.</p>
             <p>Auch Joseph und Magdalene folgten dem Schwarm. Das Mädchen war wie im Fieber. Wäre
                sie nicht zurückgestoßen worden, sie hätte selber mit Sand und Steine zum Erhöhen und
                Befestigen zugetragen. Nun rannte sie wenigstens von Haus zu Haus, zog Ochsen und
@@ -1882,8 +1896,9 @@
                Kopf verloren, und bei einem Dammbruch steht sogar das liebe Leben in Gefahr.
                Entferne vor allen die Kinder, hörst du, Joseph, die Kinder. Sobald du aber die
                notwendigsten Einleitungen getroffen hast, so eile, fortzukommen. Nimm auch die
-               Jungfer Kellerin mit, die in der Schule nicht sicher ist. Im Wirtshause <pb/> auf dem
-               Zornhügel wollen wir uns treffen und den rückkehrenden Wagen erwarten.«</p>
+               Jungfer Kellerin mit, die in der Schule nicht sicher ist. Im Wirtshause <pb facs="#"
+               /> auf dem Zornhügel wollen wir uns treffen und den rückkehrenden Wagen
+               erwarten.«</p>
             <p>Der Vater eilte zu den Dammarbeitern zurück, und der Sohn ging ins Dorf, seinen
                Auftrag auszuführen. Aber wie ungeschickt stellte er sich dabei an, wie verhallte
                seine Stimme, wie falsch berechnete er Raum und Zeit, wie schlecht verstand er es,
@@ -1904,14 +1919,14 @@
                sie der Strom. Die Kirchtür steht offen. Hinein! der Strom ihnen nach. Im Nu ist der
                Boden bis zum Altarplatz überschwemmt.</p>
             <p>Sie flüchten auf die Treppe, die innerhalb zum Chor und weiter hinauf in den Turm
-               führt; am Fensterchen spähen <pb/> sie hinaus in die Gegend. Soweit im Dämmerschein
-               die Blicke noch tragen, eine glitzernde Woge; der Damm durchrissen, die niedrigen
-               Häuser bis zum Giebel unter Wasser; keine Menschenseele zu erspähn, zu errufen, zu
-               erreichen; nur aus der Ferne wildes Gekreisch und Gebrüll. Und die Flut unheimlich
-               hoch und immer höher am Kirchboden schwellend; auf dem Totenhof draußen alle
-               Leichensteine überspült, die Holzkreuze geknickt und im Strudel umhergetrieben, und
-               die beiden fremden Menschenkinder allein, hülflos allein wie in einem weiten, kalten,
-               dunklen Grabe!</p>
+               führt; am Fensterchen spähen <pb facs="#"/> sie hinaus in die Gegend. Soweit im
+               Dämmerschein die Blicke noch tragen, eine glitzernde Woge; der Damm durchrissen, die
+               niedrigen Häuser bis zum Giebel unter Wasser; keine Menschenseele zu erspähn, zu
+               errufen, zu erreichen; nur aus der Ferne wildes Gekreisch und Gebrüll. Und die Flut
+               unheimlich hoch und immer höher am Kirchboden schwellend; auf dem Totenhof draußen
+               alle Leichensteine überspült, die Holzkreuze geknickt und im Strudel umhergetrieben,
+               und die beiden fremden Menschenkinder allein, hülflos allein wie in einem weiten,
+               kalten, dunklen Grabe!</p>
             <p>Ach, wie zittert und schauert die arme Magdalene! Die Zähne klappern gegeneinander
                wie im Fieberfrost, irdisches und überirdisches Grauen schüttelt den schönen Leib;
                Erstarren und Verhungern und Ertrinken und Erschlagenwerden und gespenstisches
@@ -1926,8 +1941,9 @@
                Stunde, Verlassenheit, Gefahr, hob den seinen über alle Ängste hinaus; ein
                unnennbares Etwas elektrisierte ihn zu einer Wärme und Freudigkeit, daß die schöne
                Mitverlassene mitten unter Schluchzen und Beten die Bemerkung nicht unterdrücken
-               konnte: »Barmherziger Heiland! <pb/> Mosjö Haller, Sie sind ja wie ausgetauscht! Ich
-               glaube, das Elend macht Ihnen Spaß, und Sie freuen sich, daß wir sterben müssen.«</p>
+               konnte: »Barmherziger Heiland! <pb facs="#"/> Mosjö Haller, Sie sind ja wie
+               ausgetauscht! Ich glaube, das Elend macht Ihnen Spaß, und Sie freuen sich, daß wir
+               sterben müssen.«</p>
             <p>»Sterben in deinen Armen, Magdalene!« rief er aus.</p>
             <p>»Ach, mit dem armen Menschen ist's auch nicht mehr richtig,« dachte sie und blickte
                ihn scheu von der Seite an, während er sie vom Boden in die Höhe zog.</p>
@@ -1949,9 +1965,9 @@
                worden waren. Einmal fragte sie ihren Unglücksgefährten: »Sind Sie denn gar nicht in
                Angst um Ihren lieben Vater, Mosjö Haller?«</p>
             <p>
-               <pb/> »Mein Vater ist ein besonnener und ein tüchtiger Mann,« antwortete Joseph. »Er
-               gerät nicht leicht in eine Gefahr, oder er weiß ihrer Herr zu werden. Er wird auch
-               uns zu Hülfe kommen, liebe Magdalene.«</p>
+               <pb facs="#"/> »Mein Vater ist ein besonnener und ein tüchtiger Mann,« antwortete
+               Joseph. »Er gerät nicht leicht in eine Gefahr, oder er weiß ihrer Herr zu werden. Er
+               wird auch uns zu Hülfe kommen, liebe Magdalene.«</p>
             <p>So suchte er sie zu beruhigen, und es gelang ihm; ihre Klagen verstummten allmählich.
                Er selber bedurfte keiner Beruhigung; er fühlte sich frei und lebensfreudig wie seit
                vielen Monden nicht; er atmete gleich einem Erlösten, dem eine eiserne Klammer von
@@ -1970,16 +1986,16 @@
                Herzen – wenn ich's zu sagen wüßte, ich möchte es nicht sagen, lieber Leser. Er
                fühlte, daß er ein Knabe gewesen und ein Mann geworden war. Leise berührten seine
                Lippen das dichte Haar auf ihrer Stirn, ganz leise, um sie nicht zu erwecken; er
-               regte <pb/> sich nicht, er hielt den Atem an sich und hätte den lauten Schlag seiner
-               Pulse hemmen mögen, nur um still, ganz still die unausdenkbare Seligkeit ihrer Nähe
-               zu empfinden. Die Stunden schwanden, ohne daß er sie ermaß. Draußen noch immer Sturm
-               und jammernder Hülferuf; noch immer das Rauschen und Brausen der Flut. Drinnen immer
-               länger, immer dunkler das Kreuz auf der spiegelnden Flut und er mit der Geliebten
-               allein wie in der Allkraft heiligem bergendem Schoß!</p>
+               regte <pb facs="#"/> sich nicht, er hielt den Atem an sich und hätte den lauten
+               Schlag seiner Pulse hemmen mögen, nur um still, ganz still die unausdenkbare
+               Seligkeit ihrer Nähe zu empfinden. Die Stunden schwanden, ohne daß er sie ermaß.
+               Draußen noch immer Sturm und jammernder Hülferuf; noch immer das Rauschen und Brausen
+               der Flut. Drinnen immer länger, immer dunkler das Kreuz auf der spiegelnden Flut und
+               er mit der Geliebten allein wie in der Allkraft heiligem bergendem Schoß!</p>
          </div>
          <div type="chapter">
-            <p>Zehntes Kapitel</p>
-            <p>Nur nicht die Eine</p>
+            <head>Zehntes Kapitel</head>
+            <head>Nur nicht die Eine</head>
             <p>Der Leser kennt hoffentlich nun meinen Urgroßvater schon ebenso genau, wie sein Sohn
                Joseph ihn kannte, und weiß, daß durch diesen braven, starken Mann den Bedrängten
                Hülfe kommen wird. Ich will daher – obgleich ich's haarklein vermöchte – seine
@@ -1991,9 +2007,9 @@
                Flucht drängenden Bewohnern sämtliche Fahrzeuge und ruderte in dem seinen, gelenkt
                von einem kräftigen Schiffer, die Dorfstraße entlang. Haus für Haus, Scheuer für
                Scheuer wurde nach den vermißten Kindern geforscht; niemand hatte sie gesehen,
-               niemand von ihnen gehört, seitdem sie kurz vor dem Dammbruch im Zwielicht durch <pb/>
-               das Dorf gegangen waren. Im Wirtshaus auf dem Zornhügel hatte David sie nicht
-               vorgefunden; weder der eine noch die andere waren über Nacht in ihre Heimstätte
+               niemand von ihnen gehört, seitdem sie kurz vor dem Dammbruch im Zwielicht durch <pb
+                  facs="#"/> das Dorf gegangen waren. Im Wirtshaus auf dem Zornhügel hatte David sie
+               nicht vorgefunden; weder der eine noch die andere waren über Nacht in ihre Heimstätte
                zurückgekehrt. Hatte die Flut sie überholt, ehe sie die Höhen erreichten? Sie dem
                reißenden Strome zugetrieben?</p>
             <p>Ja, das war Todesqual, als der unglückliche Vater am letzten Hause vorüberfuhr, jeden
@@ -2013,8 +2029,8 @@
                »Sie sind's, sie sind's!« Es ist sein Joseph, der die Orgel spielt. »Joseph! Joseph!«
                ruft er mit freudezitternder Stimme. Das Turmfensterchen wird aufgerissen.
                »Magdalene, Magdalene!« Er springt aus dem Kahn, bis über die Knie im Wasser erreicht
-               er das Portal; gegenüber dem Kreuz <pb/> entblößt er sein Haupt, faltet die Hände und
-               danket Gott.</p>
+               er das Portal; gegenüber dem Kreuz <pb facs="#"/> entblößt er sein Haupt, faltet die
+               Hände und danket Gott.</p>
             <p>Das junge Mädchen flog die Treppe herunter und sprachlos vor Seligkeit an seine
                Brust. Er nahm sie in seine Arme, wie ein Kind, und trug sie in den Kahn. Ohne
                Umstände hatte der alte Schiffer auch den Mosjö Joseph in Beschlag genommen; stumm in
@@ -2033,9 +2049,9 @@
                Lenchen diese haarsträubenden Gefahren mutterseelenallein erduldet habe. Sooft der
                Name ihres Unglücksgefährten wie von ohngefähr über ihre Lippen lief, stockte das
                Wort in ihrem Munde, und eine Purpurwelle wogte über das noch immer bläßliche
-               Gesicht. Das Abenddunkel deckte zum Glück die verräterische Couleur, und David <pb/>
-               Haller wußte den Zartsinn zu schätzen, der einem Vater die nachträgliche
-               Mitleidenschaft um seinen einzigen Sohn zu ersparen suchte.</p>
+               Gesicht. Das Abenddunkel deckte zum Glück die verräterische Couleur, und David <pb
+                  facs="#"/> Haller wußte den Zartsinn zu schätzen, der einem Vater die
+               nachträgliche Mitleidenschaft um seinen einzigen Sohn zu ersparen suchte.</p>
             <p>David Haller hatte einen Sohn, der sich zum Manne gereift fühlte, er selber aber, wir
                wissen es, war noch nicht vierzig Jahr, das heißt verhältnismäßig noch ein junger
                Mann, und ein Mann in unverbrauchter Lebensfülle. Es wurde ihm seltsam zumute an dem
@@ -2054,7 +2070,7 @@
                fünfjährigen Michel.</p>
             <p>Natürlich mußte Kaffee gekocht werden, den werten Gast zu ehren und zu erwärmen.
                Hurtig sprang Peter zum Bäcker hinüber, denn möglich war's ja immer, daß er noch
-               etwas Heutiges zum Eintunken übrig hatte; der Paul <pb/> langte aus dem
+               etwas Heutiges zum Eintunken übrig hatte; der Paul <pb facs="#"/> langte aus dem
                Eckschränkchen die guten Meißener Tassen mit der Malerei von »Fels und Vogel« und die
                messingene Zuckerschachtel, die, funkelte sie gleich wie Gold, er doch verstohlen mit
                seinem Rockzipfel noch ein wenig blanker putzte; der kleine Michel aber mahlte die
@@ -2075,14 +2091,15 @@
                auf, ging in der dunklen Kammer auf und ab, legte sich dann wieder und fand wieder
                keine Rast. Fieberte er, träumte er denn? Aber seine Augen standen ja offen, und er
                hörte den Pendelschlag seiner Uhr. Und dennoch, dennoch umschwebte ihn und umschwebte
-               ihn immer wieder <pb/> eine liebliche Gestalt, fühlte er einen Hauch, eine Nähe, eine
-               Berührung, einen Schauer vom Kopf zur Zeh; er reckt seine Arme nach ihr aus, da –
-               siehe, da jählings scheucht sie ein Schemen! Da steht seine Sophie, weiß wie in ihrer
-               Sterbestunde, mit gebrochenem Blick, und eine Geisterstimme flüstert in sein Ohr:
-               »Nur nicht die Eine! Nur die Eine nicht!« Dann wieder sieht er seinen Joseph, ringend
-               inmitten einer Wogenflut, seine Arme emporstreckend und schreiend: »Zu Hülfe, Mutter,
-               zu Hülfe!« Und dann wieder schwebte jene Liebliche heran, und wieder der Schemen und
-               die Geisterstimme: »Nur nicht die Eine! Nur die Eine nicht!«</p>
+               ihn immer wieder <pb facs="#"/> eine liebliche Gestalt, fühlte er einen Hauch, eine
+               Nähe, eine Berührung, einen Schauer vom Kopf zur Zeh; er reckt seine Arme nach ihr
+               aus, da – siehe, da jählings scheucht sie ein Schemen! Da steht seine Sophie, weiß
+               wie in ihrer Sterbestunde, mit gebrochenem Blick, und eine Geisterstimme flüstert in
+               sein Ohr: »Nur nicht die Eine! Nur die Eine nicht!« Dann wieder sieht er seinen
+               Joseph, ringend inmitten einer Wogenflut, seine Arme emporstreckend und schreiend:
+               »Zu Hülfe, Mutter, zu Hülfe!« Und dann wieder schwebte jene Liebliche heran, und
+               wieder der Schemen und die Geisterstimme: »Nur nicht die Eine! Nur die Eine
+               nicht!«</p>
             <p>Er riß sich endlich mit Gewalt aus dieser halbwachen Behelligung heraus, stand wieder
                auf, zündete Licht, trank ein Glas Wasser, dessen Kühlung er für gewöhnlich weder
                liebte noch bedurfte, und setzte sich in seiner Ladenstube ans Fenster. »Was ist mir,
@@ -2096,12 +2113,12 @@
                seinem Verspruch, Josephs Wohlbefinden höher als das eigene zu halten. Woher nun auf
                einmal diese bänglichen Traumgesichte?</p>
             <p>Der Morgen graute, und er war noch zu keinem zufriedenstellenden Abschlusse gekommen.
-               Er bestellte das Anspannen und schlug die Straße nach dem Zornhügel ein, <pb/> um
-               seinen Sohn heimzuholen. Der scharfe Morgenwind kühlte seine Stirn; er atmete freier.
-               Als er den Berg jenseit der Vorstadt hinanfuhr, sagte er ruhig zu sich selbst: »Was
-               hab ich mit der einen oder der anderen zu schaffen, was mich um sie zu grämen? Steht
-               meine verklärte Sophie nicht am Throne ihres Herrn und fleht, daß der mir ins Herz
-               gibt, was meinem Sohne und mir selber nütze ist?«</p>
+               Er bestellte das Anspannen und schlug die Straße nach dem Zornhügel ein, <pb facs="#"
+               /> um seinen Sohn heimzuholen. Der scharfe Morgenwind kühlte seine Stirn; er atmete
+               freier. Als er den Berg jenseit der Vorstadt hinanfuhr, sagte er ruhig zu sich
+               selbst: »Was hab ich mit der einen oder der anderen zu schaffen, was mich um sie zu
+               grämen? Steht meine verklärte Sophie nicht am Throne ihres Herrn und fleht, daß der
+               mir ins Herz gibt, was meinem Sohne und mir selber nütze ist?«</p>
             <p>Indessen: Gedanken und Mücken wird man nicht los. Man jagt sie fort, aber sie kommen
                immer wieder und stechen immer ärger. So ging es meinem Urgroßvater heute mit der
                Einen. Es gelang ihm nicht, sie sich aus dem Sinne zu schlagen. Warum sollte er es
@@ -2118,9 +2135,10 @@
                ihre Existenz gewußt. Und wenn auch gewußt, was hätte sie gegen das unschuldige Kind
                einzuwenden vermocht? Hatte sie nicht selber nach einem schönen, liebenswerten, und
                zumal nach einem jungen Weibe als ihrer Stellvertreterin ausgeschaut? Nein,
-               Christelchens <pb/> Tochter war – Christelchen – halt! Sollte er nicht hier auf der
-               richtigen Fährte sein? Lenchen, so viel stand fest, war die Eine nicht, aber Lenchens
-               Mutter, Christiane, ja freilich, sie konnte, ja, sie mußte die Eine sein.</p>
+               Christelchens <pb facs="#"/> Tochter war – Christelchen – halt! Sollte er nicht hier
+               auf der richtigen Fährte sein? Lenchen, so viel stand fest, war die Eine nicht, aber
+               Lenchens Mutter, Christiane, ja freilich, sie konnte, ja, sie mußte die Eine
+               sein.</p>
             <p>Es war ihm dazumal nicht weiter aufgefallen, aber jetzt fiel es ihm ein, wie
                verlegen, ja verstimmt seine Selige allezeit geworden, sooft die Rede auf die Tochter
                der Schösserin gekommen war. Und letztlich die gewaltige Aufregung bei der Nachricht
@@ -2137,11 +2155,11 @@
                gegraut hatte, zuverlässig Kellers Tochter nicht, zum zweiten aber, daß Kellers Witwe
                diese Eine aller Wahrscheinlichkeit gemäß gewesen war; und seelenberuhigt fuhr er in
                den Flecken der Witwe ein.</p>
-            <pb/>
+            <pb facs="#"/>
          </div>
          <div type="chapter">
-            <p>Elftes Kapitel</p>
-            <p>Keine</p>
+            <head>Elftes Kapitel</head>
+            <head>Keine</head>
             <p>Infolge dieser Seelenberuhigung war mein Urgroßvater nämlich zu der ganz natürlichen
                Einsicht gelangt, daß es nur der Menschlichkeit und Höflichkeit entsprechen würde,
                wenn er, bevor er seinen Sohn, den Langschläfer, vom Zornhügel abholte, sich bei den
@@ -2161,10 +2179,10 @@
                so oft erröten lasse. Ich beteuere aber, längst noch nicht so oft, als es ihm im
                Leben begegnet ist. Ja, noch im spätesten Alter machte dieses Merkmal der Unschuld
                sein schönes Antlitz wieder jung.</p>
-            <p>Er hatte sich eine heitere Ansprache ausgedacht, konnte <pb/> sich aber plötzlich
-               nicht mehr auf dieselbe besinnen; auch die Familie kam ihm gar nicht mehr so
-               zutraulich wie gestern vor, ja beinah verlegen. Kurzum, den Kaffeetisch abgerechnet,
-               war der Unterschied groß.</p>
+            <p>Er hatte sich eine heitere Ansprache ausgedacht, konnte <pb facs="#"/> sich aber
+               plötzlich nicht mehr auf dieselbe besinnen; auch die Familie kam ihm gar nicht mehr
+               so zutraulich wie gestern vor, ja beinah verlegen. Kurzum, den Kaffeetisch
+               abgerechnet, war der Unterschied groß.</p>
             <p>David Haller reichte seinem Sohne die Hand und sagte mit einem Ausdruck von Staunen:
                »Die Gefahr scheint dir nicht übel bekommen zu sein, Joseph; mich deucht, du wärest
                gewachsen über Nacht.«</p>
@@ -2183,7 +2201,7 @@
                lebte noch immer, wenn auch hoch bei Jahren, und half ihrem Ehegatten in seinem Beruf
                – also die Frau Postmeisterin wollte sich vom Tage tun, als kurz vor
                Expeditionsschluß der junge Mosjö Haller, kaum aus schwerer Lebensgefahr erlöst, wie
-               ein Irrwisch angeflogen kommt und einen fingerdicken Brief an Jungfrau <pb/>
+               ein Irrwisch angeflogen kommt und einen fingerdicken Brief an Jungfrau <pb facs="#"/>
                Magdalene Kellerin zur Besorgung mit dem nächtlichen Felleisen dringend anempfiehlt.
                O, wenn dieser Brief durchsichtig gewesen wäre, die Frau Postmeisterin würde eine
                ruhigere Nacht gehabt haben.</p>
@@ -2207,11 +2225,11 @@
             <p>»Ja, Vater, sie ist die Meine geworden, für Zeit und Ewigkeit die Meine. O, mein
                Vater, geben Sie meinem Bunde mit Magdalenen Ihren Segen,« rief Joseph, indem er in
                höchster Erregung auf seine Knie sank.</p>
-            <p>Dem Vater legte es sich über die Augen wie ein schwarzer <pb/> Flor; kalte Tropfen
-               traten auf seine Stirn; ihm war, als ob einer von ihnen beiden eine Sünde begangen
-               habe, eine Sünde wider den heiligen Geist. Nach einer Pause faßte er sich jedoch; er
-               wußte ja, wie leicht sein Sohn natürliche Gefühle ein wenig überspannte. »Joseph,«
-               stammelte er, »Joseph, eine Bekanntschaft von wenigen Stunden – –«</p>
+            <p>Dem Vater legte es sich über die Augen wie ein schwarzer <pb facs="#"/> Flor; kalte
+               Tropfen traten auf seine Stirn; ihm war, als ob einer von ihnen beiden eine Sünde
+               begangen habe, eine Sünde wider den heiligen Geist. Nach einer Pause faßte er sich
+               jedoch; er wußte ja, wie leicht sein Sohn natürliche Gefühle ein wenig überspannte.
+               »Joseph,« stammelte er, »Joseph, eine Bekanntschaft von wenigen Stunden – –«</p>
             <p>»Aber welche Stunden, Vater! Ich habe in dieser Nacht mehr empfunden und erfahren,
                als andere ein langes Leben hindurch. Solche Stunden eignen den Menschen dem Menschen
                an. Ein unauflösliches Band hat sich in dieser Nacht geknüpft.«</p>
@@ -2227,10 +2245,10 @@
             <p>Er machte noch manchen Einwand, suchte manche Ausflucht, die er selber als Einwände
                und Ausflüchte, nicht als Gründe erkannte: Josephs Jugend und Arbeitsscheu, des
                Mädchens Armut und dergleichen. Auch blies Joseph diese Einwände um wie leichte
-               Kartenhäuser. War der Vater, als er ein Weib nahm, nicht jünger gewesen als <pb/> er?
-               War er, Joseph, nicht eines reichen Mannes Sohn? Und wie würde er arbeiten, mit Kopf
-               und Händen schaffen, der Geliebten das Leben auszuschmücken; wie wenig würde er
-               selber bedürfen, einzig leben von der Seligkeit seiner Liebe!</p>
+               Kartenhäuser. War der Vater, als er ein Weib nahm, nicht jünger gewesen als <pb
+                  facs="#"/> er? War er, Joseph, nicht eines reichen Mannes Sohn? Und wie würde er
+               arbeiten, mit Kopf und Händen schaffen, der Geliebten das Leben auszuschmücken; wie
+               wenig würde er selber bedürfen, einzig leben von der Seligkeit seiner Liebe!</p>
             <p>In anderer Stunde und Stimmung würde der Vater vielleicht diese über Nacht
                aufgeschossene Tatkraft belächelt haben. Heute lächelte er nicht. Es war ihm wieder
                einmal, als hätte er einen tiefen Fall getan und müsse sich erst besinnen, wo er
@@ -2248,7 +2266,7 @@
             <p>»So habe ich gegen deine Verbindung mit Magdalene Kellerin nichts weiter einzuwenden.
                Gott und deine Mutter im Himmel, der ich deine Wohlfahrt angelobt habe, wollen ihren
                Segen dazu geben.«</p>
-            <p>Am nämlichen Nachmittag trat David Haller schon wieder <pb/> in das arme
+            <p>Am nämlichen Nachmittag trat David Haller schon wieder <pb facs="#"/> in das arme
                Witwenstübchen, aber nicht mit einem Scherzwort auf den Lippen, sondern mit der
                geziemlichen Würde eines Vaters, der für seinen Sohn als Werber kommt. Daß das
                mütterliche Jawort unschwer zu erreichen war, braucht nicht versichert zu werden. Die
@@ -2270,11 +2288,11 @@
                klaren Tränen in den Augen:</p>
             <p>»Gott sei mein Zeuge, Magdalene, daß Sie mir wie eine eigene Tochter werden
                sollen.«</p>
-            <pb/>
+            <pb facs="#"/>
          </div>
          <div type="chapter">
-            <p>Zwölftes Kapitel</p>
-            <p>Die Leiden des jungen Werther</p>
+            <head>Zwölftes Kapitel</head>
+            <head>Die Leiden des jungen Werther</head>
             <p>Ei, welch ein rascher, feuriger Bräutigam war mein Großvater! Tag für Tag in der
                heillosen Jahreszeit eilte er, zu Fuß oder Wagen, zu der Geliebten hinüber; er lernte
                sogar reiten, um sie schneller zu erreichen, und als gegen Weihnachten die Familie
@@ -2292,8 +2310,8 @@
                aufriß und in die Hände klatschend rief: »Ach, du meine Güte, wie groß, wie schön!
                Das da drüben ist wohl das Rathaus, Mutterchen? Aber nein doch. Da stehen ja der Herr
                Vater vor der Ladentür und winken und nicken mir zu. In diesem Schlosse sollen wir
-               künftighin wohnen! Herr Joseph, Herr Joseph, sehen Sie doch an der Ecke <pb/> den
-               schönen Offizier! Nein, ist der aber stramm und blank. Und da unten der
+               künftighin wohnen! Herr Joseph, Herr Joseph, sehen Sie doch an der Ecke <pb facs="#"
+               /> den schönen Offizier! Nein, ist der aber stramm und blank. Und da unten der
                Weihnachtsmarkt! Die vielen Heringe und Äpfel und ganze Buden voll Spielsachen und
                Puppen!«</p>
             <p>Ihre Bewunderung fand kein Ende; sie war ja zum ersten Male in einer Stadt, sah diese
@@ -2315,9 +2333,9 @@
                haushalten?</p>
             <p>Freilich, wenn er sie nur ein einziges Mal allein hätte sehen können! Nur einmal
                unter vier Augen mit ihr reden, sie ohne Zeugen an sein Herz drücken! Immer aber saß
-               <pb/> die Mutter mit den drei lauten Buben in dem einzigen, engen Witwenstübchen. Auf
-               die Dauer ein unbehaglicher Zustand! Von was sollte man sich die langen Winterabende
-               hindurch unterhalten?</p>
+                  <pb facs="#"/> die Mutter mit den drei lauten Buben in dem einzigen, engen
+               Witwenstübchen. Auf die Dauer ein unbehaglicher Zustand! Von was sollte man sich die
+               langen Winterabende hindurch unterhalten?</p>
             <p>Jungfer Lenchen zwar ging der Stoff zum Erzählen und Fragen nicht aus; sie wußte
                allezeit etwas Neues oder wollte etwas wissen. Schade, daß ihr Bräutigam sich so
                wenig um das Neue kümmerte! Wenn das aufmerksame Lenchen die Bemerkung gemacht hatte,
@@ -2336,10 +2354,10 @@
             <p>Freudig belebt steckte er daher eines Abends seine Flöte ein und ging hinüber.
                Lenchen war über den köstlichen Einfall vor Freuden außer sich. »Blasen Sie, blasen
                Sie, englischer Herr Joseph!« jubelte sie.</p>
-            <p>Sie konnte sich nämlich durchaus nicht daran gewöhnen, <pb/> ihn bloß Joseph oder gar
-               du zu nennen. Es war gegen ihr Gefühl, wie das Herr und Sie gegen das seine. Er mußte
-               es schon als einen Sieg betrachten, daß er ihr endlich den Mosjö Haller ausgetrieben
-               hatte.</p>
+            <p>Sie konnte sich nämlich durchaus nicht daran gewöhnen, <pb facs="#"/> ihn bloß Joseph
+               oder gar du zu nennen. Es war gegen ihr Gefühl, wie das Herr und Sie gegen das seine.
+               Er mußte es schon als einen Sieg betrachten, daß er ihr endlich den Mosjö Haller
+               ausgetrieben hatte.</p>
             <p>So setzte er sich denn in das Halbdunkel des Erkers, dem Schattenriß seiner Mutter
                gegenüber und begann eine sanfte Liederweise, deren Textworte anhoben: »Wie der Tag
                mir schleichet, ohne dich verbracht.« Die Melodie umfaßte, wenn mir recht ist, nur
@@ -2359,7 +2377,7 @@
                da weine, ja, da weine ich noch.«</p>
             <p>»Sonst niemals, Magdalene?«</p>
             <p>»Nun, warum denn wohl sonst? Hab ich nicht alles, was mein Herz begehrt? Mein
-               Mutterchen, die guten <pb/> Jungen und obendrein einen so herzallerliebsten
+               Mutterchen, die guten <pb facs="#"/> Jungen und obendrein einen so herzallerliebsten
                Bräutigam, der mir alles zu Gefallen tut und heute abend gewiß auch noch ein lustiges
                Stückchen bläst.«</p>
             <p>Ihre heitere Unschuld versöhnte ihn, und als sie immer dringender bat, widerstand er
@@ -2382,9 +2400,9 @@
                bezeugten eine freudige Erwartung: »Nichts ging ihnen über eine hübsche Geschichte,«
                wie sie sagten, »zumal, wenn man sie nicht selber zu lesen brauchte.«</p>
             <p>
-               <pb/> Als Joseph just das Buch aufgeklappt hatte, klopfte es, und herein trat Vater
-               Haller, der in einer häuslichen Angelegenheit den Rat der Witwe einzuholen kam und
-               nun auf die dringende Einladung der beiden Frauen gern versprach, mit einem
+               <pb facs="#"/> Als Joseph just das Buch aufgeklappt hatte, klopfte es, und herein
+               trat Vater Haller, der in einer häuslichen Angelegenheit den Rat der Witwe einzuholen
+               kam und nun auf die dringende Einladung der beiden Frauen gern versprach, mit einem
                freundschaftlichen Warmbier und den ›Leiden des jungen Werther‹ bei ihnen den Abend
                über fürliebzunehmen.</p>
             <p>So sehr sich Joseph auf die Vorlesung gefreut hatte, er hätte dieselbe für heute nun
@@ -2404,12 +2422,12 @@
                diesen Werther kann ich nicht ausstehen.«</p>
             <p>Joseph schlug das Buch zu und maß seine Braut mit einem Blick, vor welchem sein Vater
                erschreckte. So wenig ich annehmen kann, daß mein Urgroßvater mehr als sein künftiges
-               Schwiegertöchterchen Geschmack an dem unglücklichen <pb/> Werther gefunden hat, so
-               versuchte er um Josephs willen es doch mit einem einlenkenden Wort: »Mit dem jungen
-               Menschen, dessen Geschichte so natürlich klingt, daß man sie für erlebt halten möchte
-               und auch von dir, mein Sohn, wie ein Erlebnis vorgetragen worden ist, mit dem armen,
-               jungen Menschen hat es gewiß kein gutes Ende genommen,« sagte David. »Du solltest
-               derlei Bücher meiden, Joseph. Man lernt nicht aus ihnen, was man im Leben
+               Schwiegertöchterchen Geschmack an dem unglücklichen <pb facs="#"/> Werther gefunden
+               hat, so versuchte er um Josephs willen es doch mit einem einlenkenden Wort: »Mit dem
+               jungen Menschen, dessen Geschichte so natürlich klingt, daß man sie für erlebt halten
+               möchte und auch von dir, mein Sohn, wie ein Erlebnis vorgetragen worden ist, mit dem
+               armen, jungen Menschen hat es gewiß kein gutes Ende genommen,« sagte David. »Du
+               solltest derlei Bücher meiden, Joseph. Man lernt nicht aus ihnen, was man im Leben
                braucht.«</p>
             <p>»Man lernt das Schöne lieben,« entgegnete Joseph.</p>
             <p>»Aber nicht das Rechte tun.«</p>
@@ -2428,8 +2446,8 @@
             <p>»Ach, der gottlose Mensch! Nein, so was Schlechtes hätte ich ihm gar nicht einmal
                zugetraut. Von dem will ich nun kein Wort mehr wissen; den wollen wir in der Hölle
                braten lassen und noch eine Partie schwarzen Peter spielen.«</p>
-            <p>Joseph war so auffällig verstimmt, daß der Vater den <pb/> schwarzen Peter ausschlug
-               und mit dem Sohne aufbrach. Auf dem Wege sagte Joseph:</p>
+            <p>Joseph war so auffällig verstimmt, daß der Vater den <pb facs="#"/> schwarzen Peter
+               ausschlug und mit dem Sohne aufbrach. Auf dem Wege sagte Joseph:</p>
             <p>»Magdalene ist sehr unreif; ohne jedes höhere Streben. Von wahrer Liebe hat sie keine
                Ahnung. Wir werden uns niemals verstehen lernen.«</p>
             <p>»Joseph, Joseph!« entgegnete der Vater, eine bittere Wallung niederkämpfend, »lerne
@@ -2437,8 +2455,8 @@
                mit einem Zeitvertreib, der alle Zucht und Gottesordnung auf den Kopf stellt.«</p>
          </div>
          <div type="chapter">
-            <p>Dreizehntes Kapitel</p>
-            <p>Lenchen im Trauerspiel</p>
+            <head>Dreizehntes Kapitel</head>
+            <head>Lenchen im Trauerspiel</head>
             <p>Ich habe nicht umhin gekonnt, mehrere Kapitel hindurch meinen Großvater zum Helden
                von meines Urgroßvaters Geschichte zu machen und diesen vortrefflichen Mann
                ungebührlich in den Hintergrund treten zu lassen. Erleben wir es denn aber nicht alle
@@ -2450,7 +2468,7 @@
                Helden ihrer eignen Geschichte bis zum Ende am Bettelstab oder Altenspittel. Gottlob!
                zu diesen armen Allerärmsten gehörte mein Urgroßvater mit seinem treuen Vaterherzen
                und seinem reichen Vaterhause nicht; und nur noch ein einziges Kapitel
-               Sohnesheldentum Geduld, so werden wir den vortrefflichen<pb/> Mann wieder
+               Sohnesheldentum Geduld, so werden wir den vortrefflichen<pb facs="#"/> Mann wieder
                gebührentlich in den Vordergrund treten sehen.</p>
             <p>Joseph ging nun nicht mehr alle Abende zu seiner Braut. Der ›Werther‹ hatte seine
                Bücherlust wieder angefacht; er ließ sich von Leipzig das Neueste kommen. Eine reiche
@@ -2471,11 +2489,11 @@
                jungen Manne allein in der Irre herumschweifen zu lassen, nein, das hätte sie doch
                nicht zugestehn dürfen, selber wenn ihr Lenchen ein Verlangen danach gespürt. Das
                liebe, verständige Kind sah jedoch nicht im entferntesten ein, was für ein Vergnügen
-               es gewähren könne, so sonder Zweck noch Ziel querfeldein zu laufen, sich nur die<pb/>
-               Kleider staubig zu machen und die Schuhe auszutreten. Ja, dann und wann einmal aufs
-               Schießhaus oder in eine Schenke über Land, wo man Kaffee trinkt und gute Freunde
-               findet, das wär ein anders Ding; aber mutterseelenallein in die freie Natur, nein,
-               das war nicht nach Lenchens Geschmack.</p>
+               es gewähren könne, so sonder Zweck noch Ziel querfeldein zu laufen, sich nur die<pb
+                  facs="#"/> Kleider staubig zu machen und die Schuhe auszutreten. Ja, dann und wann
+               einmal aufs Schießhaus oder in eine Schenke über Land, wo man Kaffee trinkt und gute
+               Freunde findet, das wär ein anders Ding; aber mutterseelenallein in die freie Natur,
+               nein, das war nicht nach Lenchens Geschmack.</p>
             <p>So gewöhnte Joseph sich denn wieder an seine vorjährigen Streifereien, nur daß er
                heuer von seinen lieben Büchern begleitet war, und zu seiner Braut kam er nur noch
                selten. Sein Vater war verstimmt, und als er eines Tages Lenchen und ihre Mutter in
@@ -2493,9 +2511,9 @@
                abzuquälen, da das Erbteil seiner seligen Mutter für seine mäßigen Bedürfnisse
                ausreiche.</p>
             <p>Nach dieser heftigen Begegnung sah der Vater ihn nur noch am Mittagstisch und auch da
-               nicht regelmäßig. Davids <pb/> Blut kochte, seine Galle schwoll bei jedem Anblick,
-               bei jedem Gedanken an den Ungeratenen; und doch mußte er an sich halten, mußte ihn
-               schonen um seiner seligen Mutter willen und gegen seine Braut ihn sogar
+               nicht regelmäßig. Davids <pb facs="#"/> Blut kochte, seine Galle schwoll bei jedem
+               Anblick, bei jedem Gedanken an den Ungeratenen; und doch mußte er an sich halten,
+               mußte ihn schonen um seiner seligen Mutter willen und gegen seine Braut ihn sogar
                entschuldigen. Seine – des Vaters nämlich, nicht des Sohnes – Scham und Verlegenheit
                den beiden betrübten Frauen gegenüber wuchs von Tage zu Tage. Er sann und sann auf
                kleine Linderungsmittel; besuchte sie niemals ohne ein Naschwerk oder Geschenk für
@@ -2515,11 +2533,11 @@
                gewißlich nicht! Nicht nur, daß Herr Joseph seit Wochen nicht mehr nach seiner Braut
                gefragt hatte, er grüßte nicht einmal mehr nach ihrem Fenster, wenn er aus dem Hause
                ging; und die freie Natur war es auch nicht mehr allein, in welcher er seine Zeit
-               hinbringe, denn er sitze<pb/> jeden Abend in der Komödie, die seit zwei Wochen so
-               wunderschön im ›Scheffel‹ gespielt werde, und zu seiner Braut hatte er nicht ein
-               einziges Mal gesagt: »Komm mit!« Es sei ja offenbar, daß er sie im Stiche lassen, daß
-               er Schimpf und Schande bringen werde über eine arme Familie, die ihm nichts, auch gar
-               nichts zuleide, aber alles, was sie gewußt, zuliebe getan hatte.</p>
+               hinbringe, denn er sitze<pb facs="#"/> jeden Abend in der Komödie, die seit zwei
+               Wochen so wunderschön im ›Scheffel‹ gespielt werde, und zu seiner Braut hatte er
+               nicht ein einziges Mal gesagt: »Komm mit!« Es sei ja offenbar, daß er sie im Stiche
+               lassen, daß er Schimpf und Schande bringen werde über eine arme Familie, die ihm
+               nichts, auch gar nichts zuleide, aber alles, was sie gewußt, zuliebe getan hatte.</p>
             <p>Mein Urgroßvater saß während dieses Klageliedes wie auf Kohlen. Es war ihm klar, daß
                ein letztentscheidender Kampf mit dem Sohne nicht verzögert werden dürfe, und sein
                innerstes Wesen drängte zu diesem Kampfe; zuvörderst aber galt es, die beiden
@@ -2536,7 +2554,7 @@
                Wesen machen, das Komödie hieß; sie hatten noch nie eine Komödie gesehen, nicht
                einmal eine Puppenkomödie; nur die Mordtatsbilder am Jahrmarkt; es mußte etwas
                Wundervolles sein, so eine Komödie. Mein Urgroßvater besaß natürlich mehr Erfahrung
-               in diesem Kunstgebiet. Er hatte <pb/> während seiner Leipziger Meßreisen
+               in diesem Kunstgebiet. Er hatte <pb facs="#"/> während seiner Leipziger Meßreisen
                wiederholentlich und nicht ohne Vergnügen das Theater besucht, vornehmlich wenn ein
                heiteres Singspiel gegeben ward. Das ›Donauweibchen‹ war sein Lieblingsstück, und ich
                erinnere mich noch, wie fröhlich ihn meine Mutter machte, wenn sie ihm vorsang: »In
@@ -2562,14 +2580,14 @@
                einer unfernen Residenz, die während des Sommers in einem Badeorte gespielt hatte und
                vor Eintritt der Wintersaison so bei Wege unsere Stadt beehrte, nicht zum Nachteil
                ihrer Kasse, heute abend wenigstens. Kein Apfel konnte mehr auf die Erde, als die
-               Meinen die für sie belegten Plätze <pb/> auf der vordersten Reihe einnahmen, und noch
-               immer rollten die Equipagen der adligen Rittergutsbesitzer der Umgegend in den Hof;
-               die Musik mußte ihre Bänke dem Publikum überlassen, alles drängte sich, ein Stück zu
-               sehen, das, wie die Zeitungen verkündet hatten, in ganz Deutschland mit allen
-               Schauern des Unerhörten aufgenommen worden war, und in diesem Stück eine Liebhaberin
-               als Gast, die als ein Wunder von Genie und Schönheit gepriesen wurde. Das Stück, von
-               einem jungen Feldscher, namens Schiller, abgefaßt, hieß ›Die Räuber‹, und die schöne
-               Liebhaberin – nein, deren Namen behalte ich für mich.</p>
+               Meinen die für sie belegten Plätze <pb facs="#"/> auf der vordersten Reihe einnahmen,
+               und noch immer rollten die Equipagen der adligen Rittergutsbesitzer der Umgegend in
+               den Hof; die Musik mußte ihre Bänke dem Publikum überlassen, alles drängte sich, ein
+               Stück zu sehen, das, wie die Zeitungen verkündet hatten, in ganz Deutschland mit
+               allen Schauern des Unerhörten aufgenommen worden war, und in diesem Stück eine
+               Liebhaberin als Gast, die als ein Wunder von Genie und Schönheit gepriesen wurde. Das
+               Stück, von einem jungen Feldscher, namens Schiller, abgefaßt, hieß ›Die Räuber‹, und
+               die schöne Liebhaberin – nein, deren Namen behalte ich für mich.</p>
             <p>Es ist mir sehr zweifelhaft, daß der Held des Trauerspiels und seine Kommilitonen in
                höherem Maße als an jenem Winterabend der unglückliche Werther nach meines
                Urgroßvaters Geschmack gewesen sein würden. Aber mein Urgroßvater blickte gar nicht
@@ -2583,7 +2601,7 @@
                Busentuch seines Vaters Augen ein Greuel, in die Szene trat, wurde er Feuer und
                Flamme, klatschte wie ein Besessener in die Hände und schrie »Bravo!« länger und
                lauter als irgendein Junker im Saale. Sooft aber der Vorhang gefallen war, öffnete er
-               die kleine Tapetentür, <pb/> die dicht an seiner Seite auf die Bühne führte,
+               die kleine Tapetentür, <pb facs="#"/> die dicht an seiner Seite auf die Bühne führte,
                verschwand hinter derselben und kam erst wieder zum Vorschein, wenn ein neuer Akt
                begann. Wo ging er hin? Was machte er hinter den Kulissen, kannte er das
                Komödiantenvolk? Oder gar – –? Der Vater konnte den Gedanken nicht ausdenken, das
@@ -2604,16 +2622,16 @@
                daß der junge Herr schon wochenlang immer erst gegen Morgen heimzukommen, dann aber
                bis gegen Mittag zu schlafen pflege. Welch grausamere Entdeckung hätte ein Vater, wie
                dieser, machen können? Sein Herz hämmerte zum Zerspringen. Der Morgen kam, aber
-               Joseph auch am Morgen nicht. Und wie es Unheilstage gibt, an <pb/> denen sich alles
-               gegen uns verschworen zu haben scheint, so wurde dem aufgebrachten Vater auf Schritt
-               und Tritt Öl in die Flammen gegossen. Es kam der Barbier, es kam der Friseur; es kam
-               die Frau Postmeisterin und machte ein Ständerchen vor der Ladentür, an welcher David
-               Haller ungeduldig nach seinem Sohne ausschaute, es kamen noch andere Kunden sei nes
-               Tuchgeschäfts. Alle waren voll von der gestrigen Aufführung. Und heute werde sie
-               wiederholt; aber nicht im ›Scheffel‹, sondern auf dem Gute eines reichen Barons, der
-               nach einer lustig verzechten Nacht die gesamte Gesellschaft hinaus auf sein Schloß
-               habe fahren lassen. Die flottesten Junker der Umgegend mitten darunter. Und nicht
-               Junker allein, auch ein gewisser Jemand, ein Stadtkind, solle sich dem Zuge
+               Joseph auch am Morgen nicht. Und wie es Unheilstage gibt, an <pb facs="#"/> denen
+               sich alles gegen uns verschworen zu haben scheint, so wurde dem aufgebrachten Vater
+               auf Schritt und Tritt Öl in die Flammen gegossen. Es kam der Barbier, es kam der
+               Friseur; es kam die Frau Postmeisterin und machte ein Ständerchen vor der Ladentür,
+               an welcher David Haller ungeduldig nach seinem Sohne ausschaute, es kamen noch andere
+               Kunden sei nes Tuchgeschäfts. Alle waren voll von der gestrigen Aufführung. Und heute
+               werde sie wiederholt; aber nicht im ›Scheffel‹, sondern auf dem Gute eines reichen
+               Barons, der nach einer lustig verzechten Nacht die gesamte Gesellschaft hinaus auf
+               sein Schloß habe fahren lassen. Die flottesten Junker der Umgegend mitten darunter.
+               Und nicht Junker allein, auch ein gewisser Jemand, ein Stadtkind, solle sich dem Zuge
                angeschlossen haben und für Demoiselle N. N., die schöne Räuberbraut von gestern
                abend, lichterloh in Flammen stehn.</p>
             <p>David Haller, ein Feind städtischer Klatschereien, hatte ähnliche Anspielungen in den
@@ -2626,8 +2644,8 @@
                fernhalten konnte. Er warf sich vor, daß diese Angelegenheit seine Aufmerksamkeit von
                des Sohnes lästerlichem Treiben abgelenkt habe. Was geschehen sollte, mußte heute und
                morgen geschehen. Das Nächstliegende war Josephs Entfernung während des nur noch
-               kurzen städtischen <pb/> Aufenthalts der Komödianten. Joseph sollte den Vater auf der
-               Reise begleiten.</p>
+               kurzen städtischen <pb facs="#"/> Aufenthalts der Komödianten. Joseph sollte den
+               Vater auf der Reise begleiten.</p>
             <p>Der Tag verging unter beschleunigenden Anordnungen für den Hausstand des jungen
                Paars. Joseph kam nicht, er kam auch nicht während der Nacht. So blieb denn keine
                Wahl als Handeln auf eigne Hand kraft der väterlichen Autorität.</p>
@@ -2647,8 +2665,8 @@
                Präliminarien lag, in des Bräutigams Entfernung unmittelbar vor dem feierlichen Akt
                und der des jungen Paares nach demselben; auch das Opfer einer großen Hochzeit mochte
                Lenchen schwer genug fallen; wie oft hatte sie sich dieselbe stattlich und
-               vergnüglich ausgemalt! <pb/> Bei alledem aber dankten Mutter und Tochter meinem
-               Urgroßvater mit Freudentränen, sie nannten ihn den Retter ihrer Ehre und ihres
+               vergnüglich ausgemalt! <pb facs="#"/> Bei alledem aber dankten Mutter und Tochter
+               meinem Urgroßvater mit Freudentränen, sie nannten ihn den Retter ihrer Ehre und ihres
                Glücks. Die schwere Frage blieb nur, ob Meister Liebezeit das Hochzeitkleid, dessen
                Stoff Vater Haller bereits auf der Ostermessen eingekauft hatte – es war von
                maigrüner Farbe, Davids Leibcouleur –, in den acht Tagen fertigbringen werde.</p>
@@ -2670,15 +2688,15 @@
                war er im Begriffe, auch dieses letzte Opfer zu bringen und auf die Reise zu
                verzichten – als Joseph in das Haus trat.</p>
             <p>
-               <pb/> Übernächtig erschöpft, wollte er an dem Vater vorüber und die Treppe hinauf in
-               sein Zimmer schlüpfen. Der aber packte seinen Arm, zog ihn in die untere Stube,
-               schloß die Tür hinter sich ab und – und was hier zwischen Vater und Sohn vorgegangen
-               ist, das ist als Geheimnis von beiden in die Grube mitgenommen worden. Ich weiß nur,
-               daß der Sohn anscheinend ruhig, aber noch fahler als vorhin, ja einer Leiche gleich,
-               hinauf in das Zimmer seiner Mutter wankte; der Vater hochrot, flammenden Blicks, mit
-               gewaltsam kämpfender Brust, so wie kein menschliches Auge vorher oder nachher ihn
-               gesehn hat, ohne Wort noch Gruß für seine in der Torfahrt versammelten Leute, in den
-               Wagen gesprungen und fortgefahren ist.</p>
+               <pb facs="#"/> Übernächtig erschöpft, wollte er an dem Vater vorüber und die Treppe
+               hinauf in sein Zimmer schlüpfen. Der aber packte seinen Arm, zog ihn in die untere
+               Stube, schloß die Tür hinter sich ab und – und was hier zwischen Vater und Sohn
+               vorgegangen ist, das ist als Geheimnis von beiden in die Grube mitgenommen worden.
+               Ich weiß nur, daß der Sohn anscheinend ruhig, aber noch fahler als vorhin, ja einer
+               Leiche gleich, hinauf in das Zimmer seiner Mutter wankte; der Vater hochrot,
+               flammenden Blicks, mit gewaltsam kämpfender Brust, so wie kein menschliches Auge
+               vorher oder nachher ihn gesehn hat, ohne Wort noch Gruß für seine in der Torfahrt
+               versammelten Leute, in den Wagen gesprungen und fortgefahren ist.</p>
             <p>Sonnabend nacht kehrte er heim. Das Geschäft war nach Wunsch zu Ende geführt, ein
                reicher Zuwachs an Ansehn und Wohlstand ihm geglückt, mein Urgroßvater war
                Rittergutsbesitzer geworden. Doch stand nichts von Freude in seinen Zügen
@@ -2691,20 +2709,20 @@
                aus seinem Hause datiert ist.</p>
             <p>»Vor Ihnen,« – so liest der Vater mit flimmernden Augen, – »vor Ihnen, dem nächsten
                Verwandten meiner unvergeßlichen Mutter, meinem eignen väterlichen Freunde,
-               rechtfertige ich einen Entschluß, den nur der verzweifelnde <pb/> Kampf um die
-               höchsten Lebensgüter als äußerste Notwehr zu fassen vermag. Der einzige Sohn verläßt
-               das Haus seines Vaters, seiner Mutter Grab, eine Braut am Altar, Besitz und Heimat
-               für immer; er irrt in die Fremde, weil er – weil er, wenn er bliebe, wie in einem
-               vorzeitigen Grabe ersticken müßte; weil es eine Stimme gibt im Menschenherzen, die
-               lauter fordert als die des Blutes und der sogenannten Pflicht. Sagen Sie meinem Vater
-               ein ewiges Lebewohl. Er konnte nicht anders, aber ich konnte es auch nicht. Möge er
-               mich als einen Gestorbenen betrachten und sich unter Fremden einen Sohn suchen, der
-               nach seinem Gesetz und nach seinem Rechte zu handeln versteht. Alles, was er in
-               seiner Umgebung für das Meine halten möchte, sei sein. Verfüge er darüber nach seinem
-               Ermessen. Mir bleibe nichts als die göttliche Freiheit, das Schöne zu lieben und ihm
-               zu dienen mit jeder Lebenskraft. Wollen Sie mir eine letzte Wohltat erweisen, so
-               schreiben Sie mir jedes Jahr am Geburtstage meiner seligen Mutter, ob die Rosen auf
-               ihrem Grabe blühn und ob mein Vater lebt und glücklich ist. Ich werde Ihnen
+               rechtfertige ich einen Entschluß, den nur der verzweifelnde <pb facs="#"/> Kampf um
+               die höchsten Lebensgüter als äußerste Notwehr zu fassen vermag. Der einzige Sohn
+               verläßt das Haus seines Vaters, seiner Mutter Grab, eine Braut am Altar, Besitz und
+               Heimat für immer; er irrt in die Fremde, weil er – weil er, wenn er bliebe, wie in
+               einem vorzeitigen Grabe ersticken müßte; weil es eine Stimme gibt im Menschenherzen,
+               die lauter fordert als die des Blutes und der sogenannten Pflicht. Sagen Sie meinem
+               Vater ein ewiges Lebewohl. Er konnte nicht anders, aber ich konnte es auch nicht.
+               Möge er mich als einen Gestorbenen betrachten und sich unter Fremden einen Sohn
+               suchen, der nach seinem Gesetz und nach seinem Rechte zu handeln versteht. Alles, was
+               er in seiner Umgebung für das Meine halten möchte, sei sein. Verfüge er darüber nach
+               seinem Ermessen. Mir bleibe nichts als die göttliche Freiheit, das Schöne zu lieben
+               und ihm zu dienen mit jeder Lebenskraft. Wollen Sie mir eine letzte Wohltat erweisen,
+               so schreiben Sie mir jedes Jahr am Geburtstage meiner seligen Mutter, ob die Rosen
+               auf ihrem Grabe blühn und ob mein Vater lebt und glücklich ist. Ich werde Ihnen
                regelmäßig den Ortsnamen bekannt machen, nach welchem Sie unter dem Namen Freihold
                poste restante Ihre Briefe zu adressieren haben.«</p>
             <p>Diese Abschiedsworte klangen David Haller wie ein Todesurtel seines Sohns und seiner
@@ -2712,15 +2730,15 @@
                einzige Kind zerschmettert, der Schlag würde ihn nicht so harsch getroffen haben.
                Aber Ehre und Treue, Zucht und Tugend, alles was David Haller höher achtete als die
                vergängliche Menschenhülle, aber Gottes Ordnung ihn mit Füßen treten sehen, die Liebe
-               seines Vaters, das Glück seiner Braut, seines Hauses Ehre opfern sehen, kalten <pb/>
-               Herzens opfern der Sünde, das war härter, härter als der Tod. Sein Sohn ein
-               Landstreicher, sein Sohn ein Komödiant, sein Sohn in den Netzen eines buhlerischen
-               Weibes! – O, niemals hat ein Vater bitterlicher um ein Kind gelitten als David Haller
-               in dieser jammervollen Nacht.</p>
+               seines Vaters, das Glück seiner Braut, seines Hauses Ehre opfern sehen, kalten <pb
+                  facs="#"/> Herzens opfern der Sünde, das war härter, härter als der Tod. Sein Sohn
+               ein Landstreicher, sein Sohn ein Komödiant, sein Sohn in den Netzen eines
+               buhlerischen Weibes! – O, niemals hat ein Vater bitterlicher um ein Kind gelitten als
+               David Haller in dieser jammervollen Nacht.</p>
          </div>
          <div type="chapter">
-            <p>Vierzehntes Kapitel</p>
-            <p>Dennoch die Eine!</p>
+            <head>Vierzehntes Kapitel</head>
+            <head>Dennoch die Eine!</head>
             <p>Der Morgen dämmerte, die Mettenglocken läuteten. Zitternd und schwankend vollbrachte
                der gekränkte Vater seinen sonntägigen Pilgergang. Heimgekehrt von Sophiens Grabe,
                schrieb er den folgenden Brief:</p>
@@ -2737,18 +2755,18 @@
                spare ihm und Dir selbst die Schmach des Verrats und unauslöschlicher Sünde.«</p>
             <p>Und sechs Monate später schrieb er noch einmal:</p>
             <p>
-               <pb/> »Joseph, Du hast die Hand, welche der Vater Dir bot, nicht ergriffen, sein
-               flehendes Wort nicht erwidert. Heute spreche ich das letzte. Es ist der Sterbetag
-               Deiner Mutter. Ich habe ihr in meinem Herzen gelobt, für Dich einzutreten und Dich
-               höher zu halten als mich selbst. Dieses Gelöbnis werde ich erfüllen. Vom heutigen
-               Tage an warte ich sechs Monate bis zu der Stunde, wo Deine Flucht jährig wird, auf
-               Deine Heimkehr oder ein Geständnis Deiner Reue. Warte ich vergebens, so ist mein
-               Entschluß gefaßt, ich tue meine Pflicht. Nicht vermag ich der armen, beschimpften
-               Braut den Gatten zu geben, der sie schützt und liebt bis ans Ende seiner Tage. Aber
-               einen Vater und ein Vaterhaus habe ich ihr versprochen, und einen Vater und ein
-               Vaterhaus wird sie finden. Noch einmal: Schreibst Du nicht binnen heute und sechs
-               Monden, so wird Magdalenens Mutter mein Weib und Magdalene meine Tochter vor Gott und
-               der Welt. Nun wähle, Joseph; zuvor aber höre: Du kennst die angstvollen
+               <pb facs="#"/> »Joseph, Du hast die Hand, welche der Vater Dir bot, nicht ergriffen,
+               sein flehendes Wort nicht erwidert. Heute spreche ich das letzte. Es ist der
+               Sterbetag Deiner Mutter. Ich habe ihr in meinem Herzen gelobt, für Dich einzutreten
+               und Dich höher zu halten als mich selbst. Dieses Gelöbnis werde ich erfüllen. Vom
+               heutigen Tage an warte ich sechs Monate bis zu der Stunde, wo Deine Flucht jährig
+               wird, auf Deine Heimkehr oder ein Geständnis Deiner Reue. Warte ich vergebens, so ist
+               mein Entschluß gefaßt, ich tue meine Pflicht. Nicht vermag ich der armen,
+               beschimpften Braut den Gatten zu geben, der sie schützt und liebt bis ans Ende seiner
+               Tage. Aber einen Vater und ein Vaterhaus habe ich ihr versprochen, und einen Vater
+               und ein Vaterhaus wird sie finden. Noch einmal: Schreibst Du nicht binnen heute und
+               sechs Monden, so wird Magdalenens Mutter mein Weib und Magdalene meine Tochter vor
+               Gott und der Welt. Nun wähle, Joseph; zuvor aber höre: Du kennst die angstvollen
                Abschiedsworte Deiner seligen Mutter; Du weißt, daß sie flehte: ›Nur nicht die Eine,
                nur die Eine nicht!‹ Nun wohl, diese Eine, vor der ihr bangte in ihrer Todesstunde,
                um Deinetwillen, Joseph, bangte, diese Eine ist keine andere als die Frau, die ich
@@ -2758,7 +2776,7 @@
                sterbend von mir forderte, das ich in der Stille meines Herzens ihr ins Jenseits mit
                hinübergegeben habe. Mein Herz möchte brechen unter der Last dieser Pflicht. Erspare
                sie mir, mein Sohn; kehre um, kehre heim, gib uns allen den Frieden wieder, den auch
-               <pb/> Du, ja Du zumeist, nicht mehr Dein eigen nennen wirst.«</p>
+                  <pb facs="#"/> Du, ja Du zumeist, nicht mehr Dein eigen nennen wirst.«</p>
             <p>Diese beiden Briefe, heute noch wohlerhalten und ein teurer Familienschatz, sind der
                Höhepunkt in David Hallers Leben. Was zwischen ihnen lag, durfte ich übergehn. Ohne
                meine Schilderung, Leser, sahst du Lenchens blasse Wangen und ihrer Mutter
@@ -2779,11 +2797,11 @@
                dieser zweiten Hochzeit müßte sie enden, da sie aber meines Urgroßvaters Leben
                schildern soll, habe ich ihr noch ein Kapitel zuzufügen.</p>
             <p>Im Hallerschen Hause begann nun wieder ein Treiben wie nach dem ersten Ehebunde; die
-               Stiefkinder wurden <pb/> erzogen und versorgt wie einst die Geschwister, Haus und
-               Geschäft nach den früheren Grundsätzen geführt; Sophiens feiner, stiller Sinn,
-               nachwirkend durch ihren Gatten, blieb beider dauernder Regulator, denn niemals hat
-               eine Hausfrau ihrem Eheherrn mit freudigerem Gehorsam gedient als Christiane ihrem
-               David.</p>
+               Stiefkinder wurden <pb facs="#"/> erzogen und versorgt wie einst die Geschwister,
+               Haus und Geschäft nach den früheren Grundsätzen geführt; Sophiens feiner, stiller
+               Sinn, nachwirkend durch ihren Gatten, blieb beider dauernder Regulator, denn niemals
+               hat eine Hausfrau ihrem Eheherrn mit freudigerem Gehorsam gedient als Christiane
+               ihrem David.</p>
             <p>Und auch Lenchen lebte wieder auf, da des Vaters Fürsorge ihr den Wechsel von
                Tätigkeit und Zerstreuung gewährte, deren sie zum Wohlsein bedurfte. Sie lernte
                wieder plaudern und lachen, sie tanzte mit den jungen Bürgersöhnen beim großen
@@ -2795,15 +2813,15 @@
                Hoffnung wohnt, blieb sie des verlorenen Joseph Braut.</p>
          </div>
          <div type="chapter">
-            <p>Fünfzehntes Kapitel</p>
-            <p>Lukas am Fünfzehnten und Schlußkapitel</p>
+            <head>Fünfzehntes Kapitel</head>
+            <head>Lukas am Fünfzehnten und Schlußkapitel</head>
             <p>Zehn Jahre waren seit Sophiens Tode verflossen, als mein Urgroßvater eines Morgens
                einen Brief erhielt. Wäre die Frau Postmeisterin nicht zur ewigen Ruhe eingegangen,
                die würdige Dame würde Unerträgliches erduldet haben, denn die Adresse war in
                lateinischer Sprache abgefaßt, der Stempel der eines nie geahneten Orts, der weit
                hinten im Zigeunerlande liegen sollte, und unser sprachkundiger Herr Rektor konnte
-               den Inhalt nur mit Mühe <pb/> entziffern und bewahrte standhaft das Schweigen, das er
-               seinem Freunde Haller gelobt hatte.</p>
+               den Inhalt nur mit Mühe <pb facs="#"/> entziffern und bewahrte standhaft das
+               Schweigen, das er seinem Freunde Haller gelobt hatte.</p>
             <p>Im Laufe dieses Tages übergab mein Urgroßvater sein Testament, packte drei mächtige
                Seehundskoffer und viele Kober mit Betten, Wäsche, Kleidern und Vorräten aller Art,
                bestellte Extrapost und betraute seine Frauenzimmer mit der Verwaltung von Haus und
@@ -2823,10 +2841,10 @@
             <p>Und am anderen Abend hielt ein Reisewagen vor der Tür, und der kräftige Vater trug
                auf seinen Armen den verlorenen Wiedergefundenen, den toten Lebendiggewordenen,
                seinen schwachen, kranken, unglücklichen Sohn zurück in das Vaterhaus. Mutter und
-               Schwester hielten sich verborgen, aber das Haus stand geschmückt und erhellt wie
-               <pb/> zu einem Fest, Blumen dufteten in Sophiens Zimmer, geöffnet und reingestimmt
-               war das alte Klavier und bekränzt der Schattenriß, der darüber hing. Die Diener
-               trugen ihre Sonntagskleider und weinten helle Freudentränen.</p>
+               Schwester hielten sich verborgen, aber das Haus stand geschmückt und erhellt wie <pb
+                  facs="#"/> zu einem Fest, Blumen dufteten in Sophiens Zimmer, geöffnet und
+               reingestimmt war das alte Klavier und bekränzt der Schattenriß, der darüber hing. Die
+               Diener trugen ihre Sonntagskleider und weinten helle Freudentränen.</p>
             <p>Der Vater legte den Sohn auf der Mutter einstiges Ruhebett und sprach: »Du bist in
                deinem Hause, mein Kind, Gott lasse es dir zur Heimat werden.«</p>
             <p>Joseph aber sprang vom Lager auf, warf sich zu Boden, umklammerte seines Vaters Knie,
@@ -2845,10 +2863,10 @@
                welche David Hallers Augen- und Herzenstrost im Alter und meine Mutter geworden
                ist.</p>
             <p>Für ihn, David Haller, kam die Drangsal der Franzosenkriege, schwere Verluste an Hab
-               und Gut, der Wechsel <pb/> der Landesherrschaft, zuletzt der Tod von Sohn und Frau;
-               aber keine Gebrechen und Lasten des Alters, weder an Seele noch Leib, kein Irren und
-               Fehlen auf seiner langen Bahn. Ebenmäßig, wie ich es in der Einleitung angedeutet
-               habe, wickelte sein Dasein sich ab bis zur letzten schönen Stunde.</p>
+               und Gut, der Wechsel <pb facs="#"/> der Landesherrschaft, zuletzt der Tod von Sohn
+               und Frau; aber keine Gebrechen und Lasten des Alters, weder an Seele noch Leib, kein
+               Irren und Fehlen auf seiner langen Bahn. Ebenmäßig, wie ich es in der Einleitung
+               angedeutet habe, wickelte sein Dasein sich ab bis zur letzten schönen Stunde.</p>
             <p>Es war der Abend vor dem ersten Advent, an welchem er gewohnt war mit den Seinen das
                heilige Mahl zu genießen. Meine Mutter hatte ihm den Abendsegen gelesen und er mit
                ganz besonderer Rührung ihr gute Nacht gesagt. Zu rechter Stunde klopfte die

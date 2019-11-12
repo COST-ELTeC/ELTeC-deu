@@ -46,12 +46,12 @@
    </teiHeader>
 
    <text>
-
+      
       <body>
          <div type="chapter">
-            <p>
-               <pb/> Erstes Kapitel</p>
-            <p>Im Salon der Frau von Carayon</p>
+            <head>
+               <pb facs="#"/> Erstes Kapitel</head>
+            <head>Im Salon der Frau von Carayon</head>
             <p>In dem Salon der in der Behrenstraße wohnenden Frau von Carayon und ihrer Tochter
                Victoire waren an ihrem gewöhnlichen Empfangsabend einige Freunde versammelt, aber
                freilich wenige nur, da die große Hitze des Tages auch die treuesten Anhänger des
@@ -72,8 +72,8 @@
                der Hosentasche, mit seiner Rechten in der Luft umher, um durch lebhafte
                Gestikulationen seinem Kathedervortrage Nachdruck zu geben. Er konnte, wie seine
                Freunde sagten, nur sprechen, um Vortrag zu halten, und – er sprach eigentlich immer.
-               Der starke Herr neben ihm war <pb/> der Verleger seiner Schriften, Herr Daniel
-               Sander, im übrigen aber sein vollkommener Widerpart, wenigstens in allem, was
+               Der starke Herr neben ihm war <pb facs="#"/> der Verleger seiner Schriften, Herr
+               Daniel Sander, im übrigen aber sein vollkommener Widerpart, wenigstens in allem, was
                Erscheinung anging. Ein schwarzer Vollbart umrahmte sein Gesicht, das ebensoviel
                Behagen wie Sarkasmus ausdrückte, während ihm der in der Taille knapp anschließende
                Rock von niederländischem Tuche sein Embonpoint zusammenschnürte. Was den Gegensatz
@@ -99,12 +99,12 @@
             <p>»Ja, das sind sie«, bestätigte Frau von Carayon, während sie gleich danach
                hinzufügte: »Vielleicht auch etwas hochmütig.«</p>
             <p>»Etwas!« lachte Bülow. »Oh, meine Gnädigste, wer doch allzeit einer ähnlichen Milde
-               begegnete. Glauben Sie mir, ich <pb/> kenne die Hannoveraner seit lange, hab ihnen in
-               meiner Altmärker-Eigenschaft so zusagen von Jugend auf über den Zaun gekuckt und darf
-               Ihnen danach versichern, daß alles das, was mir England so zuwider macht, in diesem
-               welfischen Stammlande doppelt anzutreffen ist. Ich gönn ihnen deshalb die Zuchtrute,
-               die wir ihnen bringen. Unsere preußische Wirtschaft ist erbärmlich, und Mirabeau
-               hatte recht, den gepriesenen Staat Friedrichs des Großen mit einer Frucht zu
+               begegnete. Glauben Sie mir, ich <pb facs="#"/> kenne die Hannoveraner seit lange, hab
+               ihnen in meiner Altmärker-Eigenschaft so zusagen von Jugend auf über den Zaun gekuckt
+               und darf Ihnen danach versichern, daß alles das, was mir England so zuwider macht, in
+               diesem welfischen Stammlande doppelt anzutreffen ist. Ich gönn ihnen deshalb die
+               Zuchtrute, die wir ihnen bringen. Unsere preußische Wirtschaft ist erbärmlich, und
+               Mirabeau hatte recht, den gepriesenen Staat Friedrichs des Großen mit einer Frucht zu
                vergleichen, die schon faul sei, bevor sie noch reif geworden, aber faul oder nicht,
                eines haben wir wenigstens: ein Gefühl davon, daß die Welt in diesen letzten funfzehn
                Jahren einen Schritt vorwärts gemacht hat und daß sich die großen Geschicke derselben
@@ -127,9 +127,9 @@
                der Mutter geglichen haben mochte, durch zahlreiche Blatternarben aber um seine
                frühere Schönheit gekommen war.</p>
             <p>
-               <pb/> Jeder mußt es sehen, und der einzige, der es nicht sah oder, wenn er es sah,
-               als absolut gleichgiltig betrachtete, war Bülow. Er wiederholte nur: »O ja, die
-               Polen. Es sind die besten Mazurkatänzer, und darum lieben Sie sie.«</p>
+               <pb facs="#"/> Jeder mußt es sehen, und der einzige, der es nicht sah oder, wenn er
+               es sah, als absolut gleichgiltig betrachtete, war Bülow. Er wiederholte nur: »O ja,
+               die Polen. Es sind die besten Mazurkatänzer, und darum lieben Sie sie.«</p>
             <p>»Nicht doch. Ich liebe sie, weil sie ritterlich und unglücklich sind.«</p>
             <p>»Auch das. Es läßt sich dergleichen sagen. Und um dies ihr Unglück könnte man sie
                beinah beneiden, denn es trägt ihnen die Sympathien aller Damenherzen ein. In
@@ -155,14 +155,14 @@
                unerfreulichen Nachricht in den Salon eingetreten sein müsse.</p>
             <p>»Was bringen Sie, lieber Schach? Sie sind präokkupiert.</p>
             <p>Sind neue Stürme...« .</p>
-            <p>»Nicht das, gnädigste Frau, nicht das. Ich komme von der <pb/> Gräfin Haugwitz, bei
-               der ich um so häufiger verweile, je mehr ich mich von dem Grafen und seiner Politik
-               zurückziehe. Die Gräfin weiß es und billigt mein Benehmen. Eben begannen wir ein
-               Gespräch, als sich draußen vor dem Palais eine Volksmasse zu sammeln begann, erst
-               Hunderte, dann Tausende. Dabei wuchs der Lärm, und zuletzt ward ein Stein geworfen
-               und flog an dem Tisch vorbei, daran wir saßen. Ein Haarbreit, und die Gräfin wurde
-               getroffen. Wovon sie aber wirklich getroffen wurde, das waren die Worte, die
-               Verwünschungen, die heraufklangen. Endlich erschien der Graf selbst. Er war
+            <p>»Nicht das, gnädigste Frau, nicht das. Ich komme von der <pb facs="#"/> Gräfin
+               Haugwitz, bei der ich um so häufiger verweile, je mehr ich mich von dem Grafen und
+               seiner Politik zurückziehe. Die Gräfin weiß es und billigt mein Benehmen. Eben
+               begannen wir ein Gespräch, als sich draußen vor dem Palais eine Volksmasse zu sammeln
+               begann, erst Hunderte, dann Tausende. Dabei wuchs der Lärm, und zuletzt ward ein
+               Stein geworfen und flog an dem Tisch vorbei, daran wir saßen. Ein Haarbreit, und die
+               Gräfin wurde getroffen. Wovon sie aber wirklich getroffen wurde, das waren die Worte,
+               die Verwünschungen, die heraufklangen. Endlich erschien der Graf selbst. Er war
                vollkommen gefaßt und verleugnete keinen Augenblick den Kavalier. Es währte jedoch
                lang, eh die Straße gesäubert werden konnte. Sind wir bereits dahin gekommen? Emeute,
                Krawall. Und das im Lande Preußen, unter den Augen Seiner Majestät.«</p>
@@ -182,13 +182,14 @@
                an hätten stehen sollen, endlich hat Seine Majestät den Vorstellungen der Vernunft
                Gehör gegeben, und was geschieht? Unsere Herren Offiziere, deren drittes Wort der
                König und ihre Loyalität ist und denen doch immer nur wohl wird, wenn es nach Rußland
-               und Juchten und recht wenig nach Freiheit riecht, <pb/> unsere Herren Offiziere, sag
-               ich, gefallen sich plötzlich in einer ebenso naiven wie gefährlichen Oppositionslust
-               und fordern durch ihr keckes Tun und ihre noch keckeren Worte den Zorn des kaum
-               besänftigten Imperators heraus. Dergleichen verpflanzt sich dann leicht auf die
-               Gasse. Die Herren vom Regiment Gensdarmes werden freilich den Stein nicht selber
-               heben, der schließlich bis an den Teetisch der Gräfin fliegt, aber sie sind doch die
-               moralischen Urheber dieses Krawalles, sie haben die Stimmung dazu gemacht.«</p>
+               und Juchten und recht wenig nach Freiheit riecht, <pb facs="#"/> unsere Herren
+               Offiziere, sag ich, gefallen sich plötzlich in einer ebenso naiven wie gefährlichen
+               Oppositionslust und fordern durch ihr keckes Tun und ihre noch keckeren Worte den
+               Zorn des kaum besänftigten Imperators heraus. Dergleichen verpflanzt sich dann leicht
+               auf die Gasse. Die Herren vom Regiment Gensdarmes werden freilich den Stein nicht
+               selber heben, der schließlich bis an den Teetisch der Gräfin fliegt, aber sie sind
+               doch die moralischen Urheber dieses Krawalles, sie haben die Stimmung dazu
+               gemacht.«</p>
             <p>»Nein, diese Stimmung war da.«</p>
             <p>»Gut. Vielleicht war sie da. Aber wenn sie da war, so galt es, sie zu bekämpfen,
                nicht aber, sie zu nähren. Nähren wir sie, so beschleunigen wir unsern Untergang. Der
@@ -210,9 +211,9 @@
             <p>»So bitt ich, mich aus dem Mißverständnis zu reißen.«</p>
             <p>»Was ich wenigstens versuchen will... Übrigens wollen Sie mich mißverstehen, Herr von
                Bülow. Ich bekämpfe nicht das französische Bündnis, weil es ein Bündnis ist, auch
-               nicht deshalb, weil es nach Art aller Bündnisse darauf aus ist, unsere <pb/> Kraft zu
-               diesem oder jenem Zweck zu doublieren. Oh, nein; wie könnt ich? Allianzen sind
-               Mittel, deren jede Politik bedarf; auch der große König hat sich dieser Mittel
+               nicht deshalb, weil es nach Art aller Bündnisse darauf aus ist, unsere <pb facs="#"/>
+               Kraft zu diesem oder jenem Zweck zu doublieren. Oh, nein; wie könnt ich? Allianzen
+               sind Mittel, deren jede Politik bedarf; auch der große König hat sich dieser Mittel
                bedient und innerhalb dieser Mittel beständig gewechselt. Aber nicht gewechselt hat
                er in seinem Endzweck. Dieser war unverrückt: ein starkes und selbständiges Preußen.
                Und nun frag ich Sie, Herr von Bülow, ist das, was uns Graf Haugwitz heimgebracht hat
@@ -220,8 +221,8 @@
                Preußen? Sie haben mich gefragt, nun frag ich Sie.«</p>
          </div>
          <div type="chapter">
-            <p>Zweites Kapitel</p>
-            <p>»Die Weihe der Kraft«</p>
+            <head>Zweites Kapitel</head>
+            <head>»Die Weihe der Kraft«</head>
             <p>Bülow, dessen Züge den Ausdruck einer äußersten Überheblichkeit anzunehmen begannen,
                wollte replizieren, aber Frau von Carayon unterbrach und sagte: »Lernen wir etwas aus
                der Politik unserer Tage: wo nicht Friede sein kann, da sei wenigstens
@@ -238,14 +239,15 @@
                Kraft‹ verleihen wird.«</p>
             <p>»O vorzüglich. Ja, Zacharias Werner war hier. Lei der waren wir aus, und so sind wir
                denn um den uns zugedachten Besuch gekommen. Ich hab es sehr bedauert.«</p>
-            <p>»Sie sollten sich umgekehrt beglückwünschen, einer Enttäuschung <pb/> entgangen zu
-               sein«, nahm Bülow das Wort. »Es ist selten, daß die Dichter der Vorstellung
-               entsprechen, die wir uns von ihnen machen. Wir erwarten einen Olympier, einen Nektar-
-               und Ambrosiamann, und sehen statt dessen einen Gourmand einen Putenbraten verzehren;
-               wir erwarten Mitteilungen aus seiner geheimsten Zwiesprach mit den Göttern und hören
-               ihn von seinem letzten Orden erzählen oder wohl gar die allergnädigsten Worte
-               zitieren, die Serenissimus über das jüngste Kind seiner Muse geäußert hat. Vielleicht
-               auch Serenissima, was immer das denkbar Albernste bedeutet.«</p>
+            <p>»Sie sollten sich umgekehrt beglückwünschen, einer Enttäuschung <pb facs="#"/>
+               entgangen zu sein«, nahm Bülow das Wort. »Es ist selten, daß die Dichter der
+               Vorstellung entsprechen, die wir uns von ihnen machen. Wir erwarten einen Olympier,
+               einen Nektar- und Ambrosiamann, und sehen statt dessen einen Gourmand einen
+               Putenbraten verzehren; wir erwarten Mitteilungen aus seiner geheimsten Zwiesprach mit
+               den Göttern und hören ihn von seinem letzten Orden erzählen oder wohl gar die
+               allergnädigsten Worte zitieren, die Serenissimus über das jüngste Kind seiner Muse
+               geäußert hat. Vielleicht auch Serenissima, was immer das denkbar Albernste
+               bedeutet.«</p>
             <p>»Aber doch schließlich nichts Alberneres als das Urteil solcher, die den Vorzug
                haben, in einem Stall oder einer Scheune geboren zu sein«, sagte Schach spitz.</p>
             <p>»Ich muß Ihnen zu meinem Bedauern, mein sehr verehrter Herr von Schach, auch auf
@@ -264,9 +266,9 @@
                seinen Anfang, auf das Stück und seinen Dichter also, zurückzuführen. »Es wäre mir
                wirklich eine Freude gewesen, den ›tagesberühmten Herrn‹, wie Mama ihn einschränkend
                genannt hat, kennenzulernen. Sie vergessen, Herr von Bülow, daß wir Frauen sind und
-               daß wir als solche <pb/> ein Recht haben, neugierig zu sein. An einer Berühmtheit
-               wenig Gefallen zu finden ist schließlich immer noch besser, als sie gar nicht gesehen
-               zu haben.«</p>
+               daß wir als solche <pb facs="#"/> ein Recht haben, neugierig zu sein. An einer
+               Berühmtheit wenig Gefallen zu finden ist schließlich immer noch besser, als sie gar
+               nicht gesehen zu haben.«</p>
             <p>»Und wir werden ihn in der Tat nicht mehr sehen, in aller Bestimmtheit nicht«, fügte
                Frau von Carayon hinzu. »Er verläßt Berlin in den nächsten Tagen schon und war
                überhaupt nur hier, um den ersten Proben seines Stückes beizuwohnen.«</p>
@@ -292,7 +294,7 @@
                lebensvolles Bild, und sah zu mir herüber. Ich darf sagen, daß dies ernste
                Mannesgesicht an manchem Sonntage besser und eindringlicher zu mir gepredigt hat als
                unser alter Kluckhuhn, der zwar dieselben hohen Backenknochen und dieselben weißen
-               Päffchen <pb/> hatte wie der Reformator, aber auch weiter nichts. Und diesen
+               Päffchen <pb facs="#"/> hatte wie der Reformator, aber auch weiter nichts. Und diesen
                Gottesmann, nach dem wir uns nennen und unterscheiden und zu dem ich nie anders als
                in Ehrfurcht und Andacht aufgeschaut habe, den will ich nicht aus den Kulissen oder
                aus einer Hintertür treten sehen. Auch nicht, wenn Iffland ihn gibt, den ich übrigens
@@ -320,15 +322,15 @@
                wollen. Dergleichen schafft nicht der einzelne, die Geschichte schafft es. Und dabei
                wird sich ein wunderbarer Zusammenhang zwischen der Episode Preußen und der Episode
                Luther herausstellen. Es heißt auch da wieder: ›Sage mir, mit wem du umgehst, und ich
-               will dir sagen, wer du <pb/> bist.‹ Ich bekenne, daß ich die Tage Preußens gezählt
-               glaube, und ›wenn der Mantel fällt, muß der Herzog nach‹. Ich überlaß es Ihnen, die
-               Rollen dabei zu verteilen. Die Zusammenhänge zwischen Staat und Kirche werden nicht
-               genugsam gewürdigt; jeder Staat ist in gewissem Sinne zugleich auch ein Kirchenstaat;
-               er schließt eine Ehe mit der Kirche, und soll diese Ehe glücklich sein, so müssen
-               beide zueinander passen. In Preußen passen sie zueinander. Und warum? Weil beide
-               gleich dürftig angelegt, gleich eng geraten sind. Es sind Kleinexistenzen, beide
-               bestimmt, in etwas Größerem auf- oder unterzugehen. Und zwar bald. Hannibal ante
-               portas.«</p>
+               will dir sagen, wer du <pb facs="#"/> bist.‹ Ich bekenne, daß ich die Tage Preußens
+               gezählt glaube, und ›wenn der Mantel fällt, muß der Herzog nach‹. Ich überlaß es
+               Ihnen, die Rollen dabei zu verteilen. Die Zusammenhänge zwischen Staat und Kirche
+               werden nicht genugsam gewürdigt; jeder Staat ist in gewissem Sinne zugleich auch ein
+               Kirchenstaat; er schließt eine Ehe mit der Kirche, und soll diese Ehe glücklich sein,
+               so müssen beide zueinander passen. In Preußen passen sie zueinander. Und warum? Weil
+               beide gleich dürftig angelegt, gleich eng geraten sind. Es sind Kleinexistenzen,
+               beide bestimmt, in etwas Größerem auf- oder unterzugehen. Und zwar bald. Hannibal
+               ante portas.«</p>
             <p>»Ich glaubte Sie dahin verstanden zu haben«, erwiderte Schach, »daß uns Graf Haugwitz
                nicht den Untergang, wohl aber die Rettung und den Frieden gebracht habe.«</p>
             <p>»Das hat er. Aber er kann unser Geschick nicht wenden, wenigstens auf die Dauer
@@ -346,12 +348,12 @@
                die Welt gekommen sei, und beschränkte Historiker haben es dem norddeutschen Volke so
                lange versichert, bis man's geglaubt hat. Aber was hat er denn in Wahrheit in die
                Welt gebracht? Unduldsamkeit und Hexenprozesse, Nüchternheit und Langeweile. Das ist
-               kein Kitt für Jahrtausende. Jener Weltmonarchie, der nur noch die letzte Spitze <pb/>
-               fehlt, wird auch eine Weltkirche folgen, denn wie die kleinen Dinge sich finden und
-               im Zusammenhange stehen, so die großen noch viel mehr. Ich werde mir den
-               Bühnen-Luther nicht ansehen, weil er mir in dieses Herren Zacharias Werner Verzerrung
-               einfach ein Ding ist, das mich ärgert; aber ihn nicht ansehen, weil es Anstoß gebe,
-               weil es Entheiligung sei, das ist mehr, als ich fassen kann.«</p>
+               kein Kitt für Jahrtausende. Jener Weltmonarchie, der nur noch die letzte Spitze <pb
+                  facs="#"/> fehlt, wird auch eine Weltkirche folgen, denn wie die kleinen Dinge
+               sich finden und im Zusammenhange stehen, so die großen noch viel mehr. Ich werde mir
+               den Bühnen-Luther nicht ansehen, weil er mir in dieses Herren Zacharias Werner
+               Verzerrung einfach ein Ding ist, das mich ärgert; aber ihn nicht ansehen, weil es
+               Anstoß gebe, weil es Entheiligung sei, das ist mehr, als ich fassen kann.«</p>
             <p>»Und wir, lieber Bülow«, unterbrach Frau von Carayon, »wir werden ihn uns ansehen,
                trotzdem es uns Anstoß gibt. Victoire hat recht, und wenn bei Iffland die Eitelkeit
                stärker sein darf als das Prinzip, so bei uns die Neugier. Ich hoffe, Herr von Schach
@@ -382,7 +384,7 @@
                versteh es nicht. Aber hören wir weiter. Die Blüte, die vorläufig noch schläft, wird
                doch wohl mal erwachen.«</p>
 
-            <pb/>
+            <pb facs="#"/>
 
             <l>»Und kommt der Mai dann wieder so lind,</l>
             <l>Dann bricht er die Wiege von Schnee,</l>
@@ -406,8 +408,8 @@
                Dann trennte man sich zu nicht allzu später Stunde.</p>
          </div>
          <div type="chapter">
-            <p>Drittes Kapitel</p>
-            <p>Bei Sala Tarone</p>
+            <head>Drittes Kapitel</head>
+            <head>Bei Sala Tarone</head>
             <p>Die Turmuhren auf dem Gensdarmenmarkt schlugen elf, als die Gäste der Frau von
                Carayon auf die Behrenstraße hinaustraten und nach links einbiegend auf die Linden
                zuschritten. Der Mond hatte sich verschleiert, und die Regenfeuchte, die bereits in
@@ -415,8 +417,8 @@
                empfahl sich Schach, allerhand Dienstliches vorschützend, während Alvensleben, Bülow
                und Sander übereinkamen, noch eine Stunde zu plaudern.</p>
             <p>
-               <pb/> »Aber wo?« fragte Bülow, der im ganzen nicht wählerisch war, aber doch einen
-               Abscheu gegen Lokale hatte, darin ihm »Aufpasser und Kellner die Kehle
+               <pb facs="#"/> »Aber wo?« fragte Bülow, der im ganzen nicht wählerisch war, aber doch
+               einen Abscheu gegen Lokale hatte, darin ihm »Aufpasser und Kellner die Kehle
                zuschnürten«.</p>
             <p>»Aber wo?« wiederholte Sander. »Sieh, das Gute liegt so nah«, und wies dabei auf
                einen Eckladen, über dem in mäßig großen Buchstaben zu lesen stand: Italiener-, Wein-
@@ -442,8 +444,8 @@
                mäßig große Hinterstube, die gelb gestrichen und halb verblakt und nach Art aller
                »Frühstücksstuben« um Mitternacht am vollsten war. Überall, an niedrigen Paneelen
                hin, standen lange, längst eingesessene Ledersofas, mit kleinen und großen Tischen
-               davor, und nur eine Stelle war <pb/> da, wo dieses Mobiliar fehlte. Hier stand
-               vielmehr ein mit Kästen und Realen überbautes Pult, vor welchem einer der
+               davor, und nur eine Stelle war <pb facs="#"/> da, wo dieses Mobiliar fehlte. Hier
+               stand vielmehr ein mit Kästen und Realen überbautes Pult, vor welchem einer der
                Repräsentanten der Firma tagaus, tagein auf einem Drehschemel ritt und seine Befehle
                (gewöhnlich nur ein Wort) in einen unmittelbar neben dem Pult befindlichen Keller
                hinunterrief, dessen Falltür immer offenstand.</p>
@@ -468,7 +470,7 @@
                kannte.</p>
             <p>»Sagen Sie, Fritz, wie verhält sich die Firma Sala Tarone zur Maibowle?«</p>
             <p>»Gut. Sehr gut.«</p>
-            <p>»Aber wir haben erst April, und sosehr ich im allgemeinen <pb/> der Mann der
+            <p>»Aber wir haben erst April, und sosehr ich im allgemeinen <pb facs="#"/> der Mann der
                Surrogate bin, so haß ich doch eins: die Tonkabohne. Die Tonkabohne gehört in die
                Schnupftabaksdose, nicht in die Maibowle. Verstanden?«</p>
             <p>»Zu dienen, Herr Sander.«</p>
@@ -497,8 +499,8 @@
                Kapaunenrechnung nicht bezahlen zu müssen.«</p>
             <p>»Die Sie schließlich doch bezahlen.«</p>
             <p>»Ah, das erste Mal, daß ich einen dankbaren Verleger in Ihnen entdecke. Stoßen wir
-               an... Aber alle Welt, da steigt ja <pb/> der lange Nostitz aus der Versenkung. Sehen
-               Sie, Sander, er nimmt gar kein Ende...«</p>
+               an... Aber alle Welt, da steigt ja <pb facs="#"/> der lange Nostitz aus der
+               Versenkung. Sehen Sie, Sander, er nimmt gar kein Ende...«</p>
             <p>Wirklich, es war Nostitz, der, unter Benutzung eines geheimen Eingangs, eben die
                Kellertreppe hinaufstolperte, Nostitz von den Gensdarmes, der längste Lieutenant der
                Armee, der, trotzdem er aus dem Sächsischen stammte, seiner sechs Fuß drei Zoll
@@ -524,10 +526,11 @@
                schwarz.«</p>
             <p>»Ich möchte das nicht geradezu zum Axiom erheben«, fuhr Nostitz fort. »Es hängt doch
                alles noch von Nebenumständen ab, die hier freilich ebenfalls zugunsten meiner
-               Freundin sprechen. Die schöne Mama, wie Sie sie nennen, wird siebenunddreißig, <pb/>
-               bei welcher Addition ich wahrscheinlich galant genug bin, ihr ihre vier Ehejahre halb
-               statt doppelt zu rechnen. Aber das ist Schachs Sache, der über kurz oder lang in der
-               Lage sein wird, ihren Taufschein um seine Geheimnisse zu befragen.«</p>
+               Freundin sprechen. Die schöne Mama, wie Sie sie nennen, wird siebenunddreißig, <pb
+                  facs="#"/> bei welcher Addition ich wahrscheinlich galant genug bin, ihr ihre vier
+               Ehejahre halb statt doppelt zu rechnen. Aber das ist Schachs Sache, der über kurz
+               oder lang in der Lage sein wird, ihren Taufschein um seine Geheimnisse zu
+               befragen.«</p>
             <p>»Wie das?« fragte Bülow.</p>
             <p>»Wie das?« wiederholte Nostitz. »Was doch die Gelehrten, und wenn es gelehrte
                Militärs wären, für schlechte Beobachter sind. Ist Ihnen denn das Verhältnis zwischen
@@ -553,8 +556,8 @@
                Normalität, wenn ich mich so ausdrücken darf, mit ihrer Unnormalität in irgendwelche
                Verbindung gebracht zu sehen. Er ist krankhaft abhängig, abhängig bis zur Schwäche,
                von dem Urteile der Menschen, speziell seiner Standesgenossen, und würde sich
-               jederzeit außerstande fühlen, irgendeiner Prinzessin <pb/> oder auch nur einer
-               hochgestellten Dame Victoiren als seine Tochter vorzustellen.«</p>
+               jederzeit außerstande fühlen, irgendeiner Prinzessin <pb facs="#"/> oder auch nur
+               einer hochgestellten Dame Victoiren als seine Tochter vorzustellen.«</p>
             <p>»Möglich. Aber dergleichen läßt sich vermeiden.«</p>
             <p>»Doch schwer. Sie zurückzusetzen oder ganz einfach als Aschenbrödel zu behandeln, das
                widerstreitet seinem feinen Sinn, dazu hat er das Herz zu sehr auf dem rechten Fleck.
@@ -581,12 +584,12 @@
                Ritterlichen, er ist es auch. Natürlich auf seine Weise. Jedenfalls trägt er ein
                ehrliches Gesicht und keine Maske.«</p>
             <p>
-               <pb/> »Alvensleben hat recht«, bestätigte Nostitz. »Ich habe nicht viel für ihn
-               übrig, aber das ist wahr, alles an ihm ist echt, auch seine steife Vornehmheit, so
-               langweilig und so beleidigend ich sie finde. Und darin unterscheidet er sich von uns.
-               Er ist immer er selbst, gleichviel, ob er in den Salon tritt oder vorm Spiegel steht
-               oder beim Zubettegehn sich seine safranfarbenen Nachthandschuh anzieht. Sander, der
-               ihn nicht liebt, soll entscheiden und das letzte Wort über ihn haben.«</p>
+               <pb facs="#"/> »Alvensleben hat recht«, bestätigte Nostitz. »Ich habe nicht viel für
+               ihn übrig, aber das ist wahr, alles an ihm ist echt, auch seine steife Vornehmheit,
+               so langweilig und so beleidigend ich sie finde. Und darin unterscheidet er sich von
+               uns. Er ist immer er selbst, gleichviel, ob er in den Salon tritt oder vorm Spiegel
+               steht oder beim Zubettegehn sich seine safranfarbenen Nachthandschuh anzieht. Sander,
+               der ihn nicht liebt, soll entscheiden und das letzte Wort über ihn haben.«</p>
             <p>»Es ist keine drei Tage«, hob dieser an, »daß ich in der Haude und Spenerschen
                gelesen, der Kaiser von Brasilien habe den heiligen Antonius zum Obristlieutenant
                befördert und seinen Kriegsminister angewiesen, besagtem Heiligen die Löhnung bis auf
@@ -608,11 +611,11 @@
             <p>»Hâtez-vous.«</p>
             <p>Und jeder folgte der Weisung und mühte sich, so rasch wie möglich und auf nächstem
                Wege seine Wohnung zu erreichen.</p>
-            <pb/>
+            <pb facs="#"/>
          </div>
          <div type="chapter">
-            <p>Viertes Kapitel</p>
-            <p>In Tempelhof</p>
+            <head>Viertes Kapitel</head>
+            <head>In Tempelhof</head>
             <p>Der nächste Morgen sah Frau von Carayon und Tochter in demselben Eckzimmer, in dem
                sie den Abend vorher ihre Freunde bei sich empfangen hatten. Beide liebten das Zimmer
                und gaben ihm auf Kosten aller andern den Vorzug. Es hatte drei hohe Fenster, von
@@ -637,11 +640,11 @@
                täglich aufs neue versichern mußte, daß sie noch eine schöne Frau sei. Victoire ließ
                zwar keine Gelegenheit vorübergehn, die Mutter über diesen wichtigen Punkt zu
                beruhigen, aber Frau von Carayon war doch klug genug, es sich jeden Morgen durch ihr
-               von<pb/> ihr selbst zu kontrollierendes Spiegelbild neu bestätigen zu lassen. Ob ihr
-               Blick in solchem Momente zu dem Bilde des mit einem roten Ordensband in ganzer Figur
-               über dem Sofa hängenden Herrn von Carayon hinüberglitt oder ob sich ihr ein
-               stattlicheres Bild vor die Seele stellte, war für niemanden zweifelhaft, der die
-               häuslichen Verhältnisse nur einigermaßen kannte. Denn Herr von Carayon war ein
+                  von<pb facs="#"/> ihr selbst zu kontrollierendes Spiegelbild neu bestätigen zu
+               lassen. Ob ihr Blick in solchem Momente zu dem Bilde des mit einem roten Ordensband
+               in ganzer Figur über dem Sofa hängenden Herrn von Carayon hinüberglitt oder ob sich
+               ihr ein stattlicheres Bild vor die Seele stellte, war für niemanden zweifelhaft, der
+               die häuslichen Verhältnisse nur einigermaßen kannte. Denn Herr von Carayon war ein
                kleiner, schwarzer Koloniefranzose gewesen, der außer einigen in der Nähe von
                Bordeaux lebenden vornehmen Carayons und einer ihn mit Stolz erfüllenden
                Zugehörigkeit zur Legation nichts Erhebliches in die Ehe mitgebracht hatte. Am
@@ -666,8 +669,8 @@
             <p>»Nein, du selbst; ich hab eine Scheu vor Geheimnissen.«</p>
             <p>»Närrin«, lachte die Mutter und erbrach das Billet und las:</p>
 
-            <p>»Meine gnädigste Frau. Der Regen der vorigen Nacht hat nicht <pb/> nur die Wege
-               gebessert, sondern auch die Luft. Alles in allem ein so schöner Tag, wie sie der
+            <p>»Meine gnädigste Frau. Der Regen der vorigen Nacht hat nicht <pb facs="#"/> nur die
+               Wege gebessert, sondern auch die Luft. Alles in allem ein so schöner Tag, wie sie der
                April uns Hyperboreern nur selten gewährt. Ich werde vier Uhr mit meinem Wagen vor
                Ihrer Wohnung halten, um Sie und Fräulein Victoire zu einer Spazierfahrt abzuholen.
                Über das Ziel erwart ich Ihre Befehle. Wissen Sie doch, wie glücklich ich bin, Ihnen
@@ -698,8 +701,8 @@
                Schach immer noch schweigt und du nicht sprechen darfst, so muß ich es tun statt
                eurer und euch verheiraten. Alles in der Welt kehrt sich einmal um. Sonst verheiraten
                Mütter ihre Tochter, hier liegt es anders, und ich verheirate dich. Er liebt dich und
-               du liebst ihn. In den Jahren seid ihr gleich, und ihr werdet das <pb/> schönste Paar
-               sein, das seit Menschengedenken im Französischen Dom oder in der
+               du liebst ihn. In den Jahren seid ihr gleich, und ihr werdet das <pb facs="#"/>
+               schönste Paar sein, das seit Menschengedenken im Französischen Dom oder in der
                Dreifaltigkeitskirche getraut wurde. Du siehst, ich lasse dir wenigstens hinsichtlich
                der Prediger und der Kirche die Wahl; mehr kann ich nicht tun in dieser Sache. Daß du
                mich mit in die Ehe bringst, ist nicht gut, aber auch nicht schlimm. Wo viel Licht
@@ -726,9 +729,9 @@
                es nur, liebe Mama, daß fast alle Tanten so ›ich weiß nicht wie‹ sind?« Und dabei
                hatte sie eine hohe Schulter gemacht. Zu dem Seidenmantel Tante Margueritens gehörten
                auch noch ein Paar seidene Handschuhe, die sie ganz besonders in Ehren hielt und
-               immer erst auf dem obersten Treppenabsatz<pb/> anzog. Ihre Mitteilungen, an denen
-               sie's nie fehlen ließ, entbehrten all und jedes Interesses, am meisten aber dann,
-               wenn sie, was sie sehr liebte, von hohen und höchsten Personen sprach. Ihre
+               immer erst auf dem obersten Treppenabsatz<pb facs="#"/> anzog. Ihre Mitteilungen, an
+               denen sie's nie fehlen ließ, entbehrten all und jedes Interesses, am meisten aber
+               dann, wenn sie, was sie sehr liebte, von hohen und höchsten Personen sprach. Ihre
                Spezialität waren die kleinen Prinzessinnen der königlichen Familie: la petite
                princesse Charlotte et la petite princesse Alexandrine, die sie gelegentlich in den
                Zimmern einer ihr befreundeten französischen Erzieherin sah und mit denen sie sich
@@ -753,18 +756,19 @@
                sicher sein, daß sie die Gräfin Taube gemeint hatte. Solche Neuigkeiten eröffneten
                denn auch das heutige Gespräch, Neuigkeiten, unter denen die, »daß der Rittmeister
                von Schenk vom Regiment Garde du Corps der Prinzessin von Croy eine Serenade gebracht
-               habe«, die weitaus wichtigste war, ganz besonders, als sich nach einigem Hin- und
-               <pb/> Herfragen herausstellte, daß der Rittmeister von Schenk in den Rittmeister von
-               Schach, das Regiment Garde du Corps in das Regiment Gensdarmes und die Prinzessin von
-               Croy in die Prinzessin von Carolath zu transponieren sei. Solche Richtigstellungen
-               wurden von seiten der Tante jedesmal ohne jede Spur von Verlegenheit
-               entgegengenommen, und solche Verlegenheit kam ihr denn auch heute nicht, als ihr, zum
-               Schluß ihrer Geschichte, mitgeteilt wurde, daß der Rittmeister von Schenk alias
-               Schach noch im Laufe dieses Nachmittags erwartet werde, da man eine Fahrt über Land
-               mit ihm verabredet habe. Vollkommener Kavalier, wie er sei, werd er sich sicherlich
-               freuen, eine liebe Verwandte des Hauses an dieser Ausfahrt mit teilnehmen zu sehen.
-               Eine Bemerkung, die von Tante Marguerite sehr wohlwollend aufgenommen und von einem
-               unwillkürlichen Zupfen an ihrem Taftkleide begleitet wurde.</p>
+               habe«, die weitaus wichtigste war, ganz besonders, als sich nach einigem Hin- und <pb
+                  facs="#"/> Herfragen herausstellte, daß der Rittmeister von Schenk in den
+               Rittmeister von Schach, das Regiment Garde du Corps in das Regiment Gensdarmes und
+               die Prinzessin von Croy in die Prinzessin von Carolath zu transponieren sei. Solche
+               Richtigstellungen wurden von seiten der Tante jedesmal ohne jede Spur von
+               Verlegenheit entgegengenommen, und solche Verlegenheit kam ihr denn auch heute nicht,
+               als ihr, zum Schluß ihrer Geschichte, mitgeteilt wurde, daß der Rittmeister von
+               Schenk alias Schach noch im Laufe dieses Nachmittags erwartet werde, da man eine
+               Fahrt über Land mit ihm verabredet habe. Vollkommener Kavalier, wie er sei, werd er
+               sich sicherlich freuen, eine liebe Verwandte des Hauses an dieser Ausfahrt mit
+               teilnehmen zu sehen. Eine Bemerkung, die von Tante Marguerite sehr wohlwollend
+               aufgenommen und von einem unwillkürlichen Zupfen an ihrem Taftkleide begleitet
+               wurde.</p>
             <p>Um Punkt drei war man zu Tische gegangen, und um Punkt vier – l'exactitude est la
                politesse des rois, würde Bülow gesagt haben – erschien eine zurückgeschlagene
                Halbchaise vor der Tür in der Behrenstraße. Schach, der selbst fuhr, wollte die Zügel
@@ -781,12 +785,12 @@
                Hallesche Tor zu, bis der tiefe Sandweg, der zum Kreuzberg hinaufführte, zu
                langsamerem Fahren nötigte. Schach glaubte sich entschuldigen zu müssen, aber
                Victoire, die rückwärts saß und in halber Wendung bequem mit ihm sprechen konnte,
-               war, als echtes Stadtkind, aufrichtig entzückt <pb/> über all und jedes, was sie zu
-               beiden Seiten des Weges sah, und wurde nicht müde, Fragen zu stellen und ihn durch
-               das Interesse, das sie zeigte, zu beruhigen. Am meisten amüsierten sie die seltsam
-               ausgestopften Altweibergestalten, die zwischen den Sträuchern und Gartenbeeten
-               umherstanden und entweder eine Strohhutkiepe trugen oder mit ihren hundert Papilloten
-               im Winde flatterten und klapperten.</p>
+               war, als echtes Stadtkind, aufrichtig entzückt <pb facs="#"/> über all und jedes, was
+               sie zu beiden Seiten des Weges sah, und wurde nicht müde, Fragen zu stellen und ihn
+               durch das Interesse, das sie zeigte, zu beruhigen. Am meisten amüsierten sie die
+               seltsam ausgestopften Altweibergestalten, die zwischen den Sträuchern und
+               Gartenbeeten umherstanden und entweder eine Strohhutkiepe trugen oder mit ihren
+               hundert Papilloten im Winde flatterten und klapperten.</p>
             <p>Endlich war man den Abhang hinauf, und über den festen Lehmweg hin, der zwischen den
                Pappeln lief, trabte man jetzt wieder rascher auf Tempelhof zu. Neben der Straße
                stiegen Drachen auf, Schwalben schossen hin und her, und am Horizonte blitzten die
@@ -811,10 +815,10 @@
                Denkmal Kenntnis genommen habe, das in ebengenannter Kirche seitens des hochseligen
                Königs seinem Sohne, dem Grafen von der Mark, errichtet worden sei.«</p>
             <p>
-               <pb/> Mutter und Tochter verneinten. Tante Marguerite jedoch, die nicht gerne
-               zugestand, etwas nicht zu wissen oder wohl gar nicht gesehen zu haben, bemerkte ganz
-               ins Allgemeine hin: »Ach, der liebe, kleine Prinz. Daß er so früh sterben mußte. Wie
-               jämmerlich. Und ähnelte doch seiner hochseligen Frau Mutter um beiden Augen.«</p>
+               <pb facs="#"/> Mutter und Tochter verneinten. Tante Marguerite jedoch, die nicht
+               gerne zugestand, etwas nicht zu wissen oder wohl gar nicht gesehen zu haben, bemerkte
+               ganz ins Allgemeine hin: »Ach, der liebe, kleine Prinz. Daß er so früh sterben mußte.
+               Wie jämmerlich. Und ähnelte doch seiner hochseligen Frau Mutter um beiden Augen.«</p>
             <p>Einen Augenblick war es, als ob der in seinem Legitimitätsgefühle stark verletzte
                Schach antworten und den »von seiner hochseligen Mutter« gebornen »lieben kleinen
                Prinzen« aufs schmählichste dethronisieren wollte, rasch aber übersah er die
@@ -837,10 +841,10 @@
                abgerechnet, ihm vorläufig noch an allem Laubschmucke fehlte, so saßen doch schon die
                Vögel in seinen Zweigen und zwitscherten. Und nicht das bloß sah man; Equipagen
                hielten in der Mitte der Dorfstraße, die Stadtkutscher plauderten, und Bauern und
-               Knechte, die mit Pflug und Egge vom Felde hereinkamen, zogen an der Wagenreihe <pb/>
-               vorüber. Zuletzt kam eine Herde, die der Schäferspitz von rechts und links her
-               zusammenhielt, und dazwischen hörte man die Betglocke, die läutete. Denn es war eben
-               die sechste Stunde.</p>
+               Knechte, die mit Pflug und Egge vom Felde hereinkamen, zogen an der Wagenreihe <pb
+                  facs="#"/> vorüber. Zuletzt kam eine Herde, die der Schäferspitz von rechts und
+               links her zusammenhielt, und dazwischen hörte man die Betglocke, die läutete. Denn es
+               war eben die sechste Stunde.</p>
             <p>Die Carayons, so verwöhnte Stadtkinder sie waren, oder vielleicht auch weil sie's
                waren, enthusiasmierten sich über all und jedes und jubelten, als Schach einen
                Abendspaziergang in die Tempelhofer Kirche zur Sprache brachte. Sonnenuntergang sei
@@ -865,13 +869,13 @@
                zugestanden, eine Freude gewährt, einen solchen Abend unter meinen Erlebnissen zu
                haben, so gewährt es mir doch eine noch größere Freude, mit meiner schönen Freundin
                darüber plaudern zu können. Ihre Pläsanterien, die so kritisch und doch zugleich so
-               voll guten Herzens sind, machen mir erst alles lieb und wert. Lächeln Sie <pb/>
-               nicht. Ach, daß ich Ihnen alles sagen könnte. Teure Josephine, Sie sind mir das Ideal
-               einer Frau: klug und doch ohne Gelehrsamkeit und Dünkel, espritvoll und doch ohne
-               Mokanterie. Die Huldigungen, die mein Herz darbringt, gelten nach wie vor nur Ihnen,
-               Ihnen, der Liebenswürdigsten und Besten. Und das ist Ihr höchster Reiz, meine teure
-               Freundin, daß Sie nicht einmal wissen, wie gut Sie sind und welch stille Macht Sie
-               über mich üben.«</p>
+               voll guten Herzens sind, machen mir erst alles lieb und wert. Lächeln Sie <pb
+                  facs="#"/> nicht. Ach, daß ich Ihnen alles sagen könnte. Teure Josephine, Sie sind
+               mir das Ideal einer Frau: klug und doch ohne Gelehrsamkeit und Dünkel, espritvoll und
+               doch ohne Mokanterie. Die Huldigungen, die mein Herz darbringt, gelten nach wie vor
+               nur Ihnen, Ihnen, der Liebenswürdigsten und Besten. Und das ist Ihr höchster Reiz,
+               meine teure Freundin, daß Sie nicht einmal wissen, wie gut Sie sind und welch stille
+               Macht Sie über mich üben.«</p>
             <p>Er hatte fast mit Bewegung gesprochen, und das Auge der schönen Frau leuchtete,
                während ihre Hand in der seinen zitterte. Rasch aber nahm sie den scherzhaften Ton
                wieder auf und sagte: »Wie gut Sie zu sprechen verstehen. Wissen Sie wohl, so gut
@@ -896,8 +900,8 @@
             <p>»Sie verkennen ihn, lieber Schach. Er ist verbittert, gewiß; aber ich fürchte, daß er
                ein Recht hat, es zu sein.«</p>
             <p>
-               <pb/> »Wer an krankhafter Überschätzung leidet, wird immer tausend Gründe haben,
-               verbittert zu sein. Er zieht von Gesellschaft zu Gesellschaft und predigt die
+               <pb facs="#"/> »Wer an krankhafter Überschätzung leidet, wird immer tausend Gründe
+               haben, verbittert zu sein. Er zieht von Gesellschaft zu Gesellschaft und predigt die
                billigste der Weisheiten, die Weisheit post festum. Lächerlich. An allem, was uns das
                letzte Jahr an Demütigungen gebracht hat, ist, wenn man ihn hört, nicht der Übermut
                oder die Kraft unserer Feinde schuld, o nein, dieser Kraft würde man mit einer
@@ -922,9 +926,9 @@
                zustimmend, und Tante und Nichte schritten in der angedeuteten Richtung weiter.
                Überall aus dem braunen Acker stiegen Lerchen auf, die hier, noch ehe die Saat heraus
                war, schon ihr Furchennest gebaut hatten, ganz zuletzt aber kam ein Stück
-               brachliegendes Feld, das bis an die Kirchhofsmauer lief und,<pb/> außer einer
-               spärlichen Grasnarbe, nichts aufwies als einen trichterförmigen Tümpel, in dem ein
-               Unkenpaar musizierte, während der Rand des Tümpels in hohen Binsen stand.</p>
+               brachliegendes Feld, das bis an die Kirchhofsmauer lief und,<pb facs="#"/> außer
+               einer spärlichen Grasnarbe, nichts aufwies als einen trichterförmigen Tümpel, in dem
+               ein Unkenpaar musizierte, während der Rand des Tümpels in hohen Binsen stand.</p>
             <p>»Sieh, Victoire, das sind Binsen.«</p>
             <p>»Ja, liebe Tante.«</p>
             <p>»Kannst du dir denken, ma chère, daß, als ich jung war, die Binsen als kleine
@@ -950,8 +954,8 @@
                wieder auf. Wir möchten sie gerne sehen, wir und die Herrschaften da.«</p>
             <p>»Gerne«, sagte das Kind und lief wieder vorauf, überkletterte die Kirchhofsmauer und
                verschwand als bald hinter den Haselnuß- und Hagebuttensträuchern, die hier so
-               reichlich <pb/> standen, daß sie, trotzdem sie noch kahl waren, eine dichte Hecke
-               bildeten.</p>
+               reichlich <pb facs="#"/> standen, daß sie, trotzdem sie noch kahl waren, eine dichte
+               Hecke bildeten.</p>
             <p>Das Tantchen und Victoire folgten ihr und stiegen langsam über verfallene Gräber weg,
                die der Frühling noch nirgends mit seiner Hand berührt hatte; nirgends zeigte sich
                ein Blatt, und nur unmittelbar neben der Kirche war eine schattig-feuchte Stelle wie
@@ -977,8 +981,8 @@
             <p>»Ein Tempelritter«, erwiderte das Kind, »und hieß der Ritter von Tempelhof. Und
                diesen Grabstein ließ er schon bei Lebzeiten machen, weil er wollte, daß er ihm
                ähnlich werden sollte.«</p>
-            <p>Hier nickte das Tantchen zustimmend, weil das Ähnlichkeitsbedürfnis <pb/> des
-               angeblichen Ritters von Tempelhof eine verwandte Saite in ihrem Herzen traf.</p>
+            <p>Hier nickte das Tantchen zustimmend, weil das Ähnlichkeitsbedürfnis <pb facs="#"/>
+               des angeblichen Ritters von Tempelhof eine verwandte Saite in ihrem Herzen traf.</p>
             <p>»Und er baute diese Kirche«, fuhr die Kleine fort, »und baute zuletzt auch das Dorf
                und nannt es Tempelhof, weil er selber Tempelhof hieß. Und die Berliner sagen
                ›Templow‹. Aber es ist falsch.«</p>
@@ -1005,10 +1009,10 @@
                Und nahm auch schon das Kreidestück. Aber da sah er mit einem Male, daß die Zahlen
                schon weggewischt und neue Gesangbuchzahlen und auch die Zahlen von einem
                Bibelspruch, Kapitel und Vers, mit angeschrieben waren. Alles altmodisch und
-               undeutlich, und nur so grade noch zu lesen. Und als sie nachschlugen, da fanden <pb/>
-               sie: ›Du sollst deinen Toten in Ehren halten und ihn nicht schädigen an seinem
-               Antlitz.‹ Und nun wußten sie, wer die Zahlen geschrieben, und nahmen den Stein auf
-               und mauerten ihn in diesen Pfeiler.«</p>
+               undeutlich, und nur so grade noch zu lesen. Und als sie nachschlugen, da fanden <pb
+                  facs="#"/> sie: ›Du sollst deinen Toten in Ehren halten und ihn nicht schädigen an
+               seinem Antlitz.‹ Und nun wußten sie, wer die Zahlen geschrieben, und nahmen den Stein
+               auf und mauerten ihn in diesen Pfeiler.«</p>
             <p>»Ich finde doch«, sagte Tante Marguerite, die, je schrecklicher sie sich vor
                Gespenstern fürchtete, desto lebhafter ihr Vorhandensein bestritt, »ich finde doch,
                die Regierung sollte mehr gegen dem Aberglauben tun.« Und dabei wandte sie sich
@@ -1034,9 +1038,9 @@
             <p>»Auch ich. Er ist von der strafenden Hand Gottes am schwersten heimgesucht worden und
                eben deshalb auch der poetischste und interessanteste. Sie wissen, was ihm
                vorgeworfen wird: Götzendienst, Verleugnung Christi, Laster aller Art. Und ich
-               fürchte, mit Recht. Aber groß wie seine Schuld, so groß war <pb/> auch seine Sühne,
-               ganz dessen zu geschweigen, daß auch hier wieder der unschuldig Überlebende die
-               Schuld voraufgegangener Geschlechter zu büßen hatte. Das Los und Schicksal aller
+               fürchte, mit Recht. Aber groß wie seine Schuld, so groß war <pb facs="#"/> auch seine
+               Sühne, ganz dessen zu geschweigen, daß auch hier wieder der unschuldig Überlebende
+               die Schuld voraufgegangener Geschlechter zu büßen hatte. Das Los und Schicksal aller
                Erscheinungen, die sich, auch da noch, wo sie fehlen und irren, dem Alltäglichen
                entziehn. Und so sehen wir denn den schuldbeladenen Orden, all seiner
                Unrühmlichkeiten unerachtet, schließlich in einem wiedergewonnenen Glorienschein
@@ -1064,9 +1068,9 @@
                absichtslos gesagt worden war, so gewiß war es doch auch aus einer dunklen Ahnung
                heraus gesprochen worden.</p>
             <p>
-               <pb/> Als ihr Streit schwieg, hatte man den Dorfeingang erreicht, und Schach hielt,
-               um auf Frau von Carayon und Tante Marguerite, die sich beide versäumt hatten, zu
-               warten.</p>
+               <pb facs="#"/> Als ihr Streit schwieg, hatte man den Dorfeingang erreicht, und Schach
+               hielt, um auf Frau von Carayon und Tante Marguerite, die sich beide versäumt hatten,
+               zu warten.</p>
             <p>Als sie heran waren, bot er der Frau von Carayon den Arm und führte diese bis an das
                Gasthaus zurück.</p>
             <p>Victoire sah ihnen betroffen nach und sann nach über den Tausch, den Schach mit
@@ -1085,8 +1089,8 @@
                Nebel empor.</p>
          </div>
          <div type="chapter">
-            <p>Fünftes Kapitel</p>
-            <p>Victoire von Carayon an Lisette von Perbandt</p>
+            <head>Fünftes Kapitel</head>
+            <head>Victoire von Carayon an Lisette von Perbandt</head>
             <!--milestone head_start-->
             <p>Berlin, den 3. Mai</p>
             <!--milestone head_end-->
@@ -1094,12 +1098,12 @@
             <p>Wie froh war ich, endlich von Dir zu hören, und so Gutes. Nicht als ob ich es anders
                erwartet hätte; wenige Männer hab ich kennengelernt, die mir so ganz eine Garantie
                des Glückes zu bieten scheinen wie der Deinige. Gesund, wohlwollend, anspruchslos und
-               von jenem schönen Wissens- und Bildungsmaß, <pb/> das ein gleich gefährliches Zuviel
-               und Zuwenig vermeidet. Wobei ein »Zuviel« das vielleicht noch Gefährlichere ist. Denn
-               junge Frauen sind nur zu geneigt, die Forderung zu stellen: »Du sollst keine andren
-               Götter haben neben mir.« Ich sehe das beinah täglich bei Rombergs, und Marie weiß es
-               ihrem klugen und liebenswürdigen Gatten wenig Dank, daß er über Politik und
-               französische Zeitungen die Visiten und Toiletten vergißt.</p>
+               von jenem schönen Wissens- und Bildungsmaß, <pb facs="#"/> das ein gleich
+               gefährliches Zuviel und Zuwenig vermeidet. Wobei ein »Zuviel« das vielleicht noch
+               Gefährlichere ist. Denn junge Frauen sind nur zu geneigt, die Forderung zu stellen:
+               »Du sollst keine andren Götter haben neben mir.« Ich sehe das beinah täglich bei
+               Rombergs, und Marie weiß es ihrem klugen und liebenswürdigen Gatten wenig Dank, daß
+               er über Politik und französische Zeitungen die Visiten und Toiletten vergißt.</p>
             <p>Was mir allein eine Sorge machte, war Deine neue masurische Heimat, ein Stück Land,
                das ich mir immer als einen einzigen großen Wald mit hundert Seen und Sümpfen
                vorgestellt habe. Da dacht ich denn, diese neue Heimat könne Dich leicht in ein
@@ -1120,11 +1124,11 @@
                weißt, daß wir sie jeden Dienstag als Gast in unsrem Hause sehn. Sie war denn auch
                mit uns in der »Kürche«, wo sie, beim Anblick einiger Heiligenbilder aus der
                katholischen Zeit her, nicht nur beständig auf Ausrottung des Aberglaubens drang,
-               sondern sich mit eben diesem Anliegen auch regelmäßig an Schach wandte, <pb/> wie
-               wenn dieser im Konsistorium säße. Und da leg ich denn (weil ich nun mal die Tugend
-               oder Untugend habe, mir alles gleich leibhaftig vorzustellen) während des Schreibens
-               die Feder hin, um mich erst herzlich auszulachen. Au fond freilich ist es viel
-               weniger lächerlich, als es im ersten Augenblick erscheint. Er hat etwas
+               sondern sich mit eben diesem Anliegen auch regelmäßig an Schach wandte, <pb facs="#"
+               /> wie wenn dieser im Konsistorium säße. Und da leg ich denn (weil ich nun mal die
+               Tugend oder Untugend habe, mir alles gleich leibhaftig vorzustellen) während des
+               Schreibens die Feder hin, um mich erst herzlich auszulachen. Au fond freilich ist es
+               viel weniger lächerlich, als es im ersten Augenblick erscheint. Er hat etwas
                konsistorialrätlich Feierliches, und wenn mich nicht alles täuscht, so ist es gerade
                dies Feierliche, was Bülow so sehr gegen ihn einnimmt. Viel, viel mehr als der
                Unterschied der Meinungen.</p>
@@ -1148,13 +1152,13 @@
                durchglüht war, alles gewann Leben, und es war unvergeßlich schön. Auf dem Heimwege
                tauschte Schach und führte mich. Er sprach sehr anziehend, und in einem Tone, der mir
                ebenso wohl tat, als er mich überraschte. Jedes Wort ist mir noch in der Erinnerung
-               geblieben und gibt mir zu denken. Aber was geschah? Als wir <pb/> wieder am Eingange
-               des Dorfes waren, wurd er schweigsamer und wartete auf die Mama. Dann bot er ihr den
-               Arm, und so gingen sie durch das Dorf nach dem Gasthause zurück, wo die Wagen hielten
-               und viele Leute versammelt waren. Es gab mir einen Stich durchs Herz, denn ich konnte
-               mich des Gedankens nicht erwehren, daß es ihm peinlich gewesen sei, mit mir und an
-               meinem Arm unter den Gästen zu erscheinen. In seiner Eitelkeit, von der ich ihn nicht
-               freisprechen kann, ist es ihm unmöglich, sich über das Gerede der Leute
+               geblieben und gibt mir zu denken. Aber was geschah? Als wir <pb facs="#"/> wieder am
+               Eingange des Dorfes waren, wurd er schweigsamer und wartete auf die Mama. Dann bot er
+               ihr den Arm, und so gingen sie durch das Dorf nach dem Gasthause zurück, wo die Wagen
+               hielten und viele Leute versammelt waren. Es gab mir einen Stich durchs Herz, denn
+               ich konnte mich des Gedankens nicht erwehren, daß es ihm peinlich gewesen sei, mit
+               mir und an meinem Arm unter den Gästen zu erscheinen. In seiner Eitelkeit, von der
+               ich ihn nicht freisprechen kann, ist es ihm unmöglich, sich über das Gerede der Leute
                hinwegzusetzen, und ein spöttisches Lächeln verstimmt ihn auf eine Woche. So
                selbstbewußt er ist, so schwach und abhängig ist er in diesem einen Punkte. Vor
                niemandem in der Welt, auch vor der Mama nicht, würd ich ein solches Bekenntnis
@@ -1175,9 +1179,9 @@
                Fehde mit Bülow führt. Sosehr ihm dieser überlegen ist, so sehr steht er doch hinter
                ihm zurück. Dabei fällt mir mitunter auf, wie der Groll, der sich in unserm Freunde
                regt, ihm eine gewisse Schlagfertigkeit, ja selbst Esprit verleiht. Gestern hat er
-               Sander, dessen Persönlichkeit Du kennst, den Bülowschen <pb/> Sancho Pansa genannt.
-               Die weiteren Schlußfolgerungen ergeben sich von selbst, und ich find es nicht
-               übel.</p>
+               Sander, dessen Persönlichkeit Du kennst, den Bülowschen <pb facs="#"/> Sancho Pansa
+               genannt. Die weiteren Schlußfolgerungen ergeben sich von selbst, und ich find es
+               nicht übel.</p>
             <p>Sanders Publikationen machen mehr von sich reden denn je; die Zeit unterstützt das
                Interesse für eine lediglich polemische Literatur. Außer von Bülow sind auch Aufsätze
                von Massenbach und Phull erschienen, die von den Eingeweihten als etwas Besonderes
@@ -1197,19 +1201,20 @@
             <p> Victoire.</p>
          </div>
          <div type="chapter">
-            <p>Sechstes Kapitel</p>
-            <p>Bei Prinz Louis</p>
+            <head>Sechstes Kapitel</head>
+            <head>Bei Prinz Louis</head>
             <p>An demselben Abend, an dem Victoire von Carayon ihren Brief an Lisette von Perbandt
                schrieb, empfing Schach in seiner in der Wilhelmstraße gelegenen Wohnung ein
                Einladungsbillet von der Hand des Prinzen Louis.</p>
             <p>Es lautete:</p>
 
             <p>»Lieber Schach. Ich bin erst seit drei Tagen hier im Moabiter Land und dürste bereits
-               nach Besuch und Gespräch. Eine Viertelmeile <pb/> von der Hauptstadt hat man schon
-               die Hauptstadt nicht mehr und verlangt nach ihr. Darf ich für morgen auf Sie rechnen?
-               Bülow und sein verlegerischer Anhang haben zugesagt, auch Massenbach und Phull. Also
-               lauter Opposition, die mich erquickt, auch wenn ich sie bekämpfe. Von Ihrem Regiment
-               werden Sie noch Nostitz und Alvensleben treffen. Im Interimsrock und um fünf Uhr.</p>
+               nach Besuch und Gespräch. Eine Viertelmeile <pb facs="#"/> von der Hauptstadt hat man
+               schon die Hauptstadt nicht mehr und verlangt nach ihr. Darf ich für morgen auf Sie
+               rechnen? Bülow und sein verlegerischer Anhang haben zugesagt, auch Massenbach und
+               Phull. Also lauter Opposition, die mich erquickt, auch wenn ich sie bekämpfe. Von
+               Ihrem Regiment werden Sie noch Nostitz und Alvensleben treffen. Im Interimsrock und
+               um fünf Uhr.</p>
             <!--milestone hi_start-->
             <p>Ihr Louis, Prinz von Pr.«</p>
             <!--milestone hi_end-->
@@ -1236,7 +1241,7 @@
                würde. Heißt es doch, lieber Sander, Ihr guter Tisch habe mehr noch als Ihr guter
                Verlag die Freundschaft zwischen Ihnen besiegelt.«</p>
             <p>
-               <pb/> »Ein Satz, dem ich kaum zu widersprechen wage, Königliche Hoheit.«</p>
+               <pb facs="#"/> »Ein Satz, dem ich kaum zu widersprechen wage, Königliche Hoheit.«</p>
             <p>»Und doch müßten Sie's eigentlich. Ihr ganzer Verlag hat keine Spur von jenem
                ›laisser passer‹, das das Vorrecht, ja, die Pflicht aller gesättigten Leute ist. Ihre
                Genies (Pardon, Bülow) schreiben alle wie Hungrige. Meinetwegen. Unsre Paradeleute
@@ -1264,10 +1269,10 @@
                dieser Lombard, der doch die Seele des Ganzen ist, von jeher Gnade vor Eurer
                Königlichen Hoheit Augen gefunden hat.«</p>
             <p>
-               <pb/> »Ah, Lombard! Den Lombard nehm ich nicht ernsthaft und stell ihm außerdem noch
-               in Rechnung, daß er ein halber Franzose ist. Dazu hat er eine Form des Witzes, die
-               mich entwaffnet. Sie wissen doch, sein Vater war Friseur und seiner Frau Vater ein
-               Barbier. Und nun kommt eben diese Frau, die nicht nur eitel ist bis zum
+               <pb facs="#"/> »Ah, Lombard! Den Lombard nehm ich nicht ernsthaft und stell ihm
+               außerdem noch in Rechnung, daß er ein halber Franzose ist. Dazu hat er eine Form des
+               Witzes, die mich entwaffnet. Sie wissen doch, sein Vater war Friseur und seiner Frau
+               Vater ein Barbier. Und nun kommt eben diese Frau, die nicht nur eitel ist bis zum
                Närrischwerden, sondern auch noch schlechte französische Verse macht, und fragt ihn,
                was schöner sei: ›L'hirondelle frise la surface des eaux‹ oder ›l'hirondelle rase la
                surface des eaux?‹ Und was antwortet er? ›Ich sehe keinen Unterschied, meine Teure;
@@ -1291,8 +1296,8 @@
                doch, denk ich, in dem Höllenbrodem, der jetzt über die Welt weht, nicht den Odem
                Gottes erkennen wollen, nicht den, der die Armada zerblies.«</p>
             <p>
-               <pb/> »Doch, Herr von Schach. Oder glauben Sie wirklich, daß der Odem Gottes im
-               Spezialdienste des Protestantismus oder gar Preußens und seiner Armee steht?«</p>
+               <pb facs="#"/> »Doch, Herr von Schach. Oder glauben Sie wirklich, daß der Odem Gottes
+               im Spezialdienste des Protestantismus oder gar Preußens und seiner Armee steht?«</p>
             <p>»Ich hoffe, ja.«</p>
             <p>»Und ich fürchte, nein. Wir haben die ›propreste Armee‹, das ist alles. Aber mit der
                ›Propretät‹ gewinnt man keine Schlachten. Erinnern sich Königliche Hoheit der Worte
@@ -1319,12 +1324,12 @@
                als Widerspruch, so wandt er sich direkt an Bülow und sagte: »Widerlegen Sie
                mich.«</p>
             <p>»Königliche Hoheit befehlen, und so gehorch ich denn. Der Kaiser wußte genau, was
-               geschehen werde, konnt es wissen, <pb/> weil er sich die Frage, ›was tut hier die
-               Mittelmäßigkeit‹, in vorausberechnender Weise nicht bloß gestellt, sondern auch
-               beantwortet hatte. Die höchste Dummheit, wie zuzugestehen ist, entzieht sich ebenso
-               der Berechnung wie die höchste Klugheit – das ist eine von den großen Seiten der
-               echten und unverfälschten Stupidität. Aber jene ›Mittelklugen‹, die gerade klug genug
-               sind, um von der Lust, ›es auch einmal mit etwas Geistreichem zu probieren‹,
+               geschehen werde, konnt es wissen, <pb facs="#"/> weil er sich die Frage, ›was tut
+               hier die Mittelmäßigkeit‹, in vorausberechnender Weise nicht bloß gestellt, sondern
+               auch beantwortet hatte. Die höchste Dummheit, wie zuzugestehen ist, entzieht sich
+               ebenso der Berechnung wie die höchste Klugheit – das ist eine von den großen Seiten
+               der echten und unverfälschten Stupidität. Aber jene ›Mittelklugen‹, die gerade klug
+               genug sind, um von der Lust, ›es auch einmal mit etwas Geistreichem zu probieren‹,
                angewandelt zu werden, diese Mittelklugen sind allemal am leichtesten zu berechnen.
                Und warum? Weil sie jederzeit nur die Mode mitmachen und heute kopieren, was sie
                gestern sahn. Und das alles wußte der Kaiser. Hic haeret. Er hat sich nie glänzender
@@ -1346,9 +1351,9 @@
                Wolfstornister regt sich des Teufels Küster, ein Kobold, heißt Genie‹ – nun, in dem
                russisch-österreichischen Tornister ist dieser ›Kobold und Teufelsküster‹ nie und
                nimmer zu Hause gewesen. Und um dies Manko zu kassieren, bedient man sich der alten,
-               elenden Trostgründe: Bestechung und Verräterei. Jedem Besiegten<pb/> wird es schwer,
-               den Grund seiner Niederlagen an der einzig richtigen Stelle, nämlich in sich selbst
-               zu suchen, und auch Kaiser Alexander, mein ich, verzichtet auf ein solches
+               elenden Trostgründe: Bestechung und Verräterei. Jedem Besiegten<pb facs="#"/> wird es
+               schwer, den Grund seiner Niederlagen an der einzig richtigen Stelle, nämlich in sich
+               selbst zu suchen, und auch Kaiser Alexander, mein ich, verzichtet auf ein solches
                Nachforschen am recht eigentlichsten Platz.«</p>
             <p>»Und wer wollt ihm darüber zürnen?« antwortete Schach. »Er tat das Seine, ja mehr.
                Als die Höhe schon verloren und doch andrerseits die Möglichkeit einer
@@ -1374,7 +1379,7 @@
                erklären wir uns das dem Heldenkaiser gespendete Lob lieber einfach aus dem
                Rechnungssatze: ›Wenn der unterlegene russische Mut einen vollen Zentner wog, so wog
                der siegreich französische natürlich zwei.‹«</p>
-            <pb/>
+            <pb facs="#"/>
             <p>Schach, der, seit Kaiser Alexanders Besuch in Berlin, das Andreaskreuz trug, biß sich
                auf die Lippen und wollte replizieren. Aber Bülow kam ihm zuvor und bemerkte: »Gegen
                ›unter dem Leibe erschossene Kaiserpferde‹ bin ich überhaupt immer mißtrauisch. Und
@@ -1403,7 +1408,7 @@
             <p>»Sie meinen doch nicht, Herr von Bülow«, entgegnete Schach, »durch Auslassungen wie
                diese den Kaiser Alexander charakterisiert zu haben.«</p>
             <p>
-               <pb/> »Wenigstens annähernd.«</p>
+               <pb facs="#"/> »Wenigstens annähernd.«</p>
             <p>»Da wär ich doch neugierig.«</p>
             <p>»Es ist zu diesem Behufe nur nötig, sich den letzten Besuch des Kaisers in Berlin und
                Potsdam zurückzurufen. Um was handelte sich's? Nun, anerkanntermaßen um nichts
@@ -1418,8 +1423,8 @@
                Neugier angewandelt haben mag, das Allerhöchste ›vrai sentiment‹ kennenzulernen.«</p>
          </div>
          <div type="chapter">
-            <p>Siebentes Kapitel</p>
-            <p>Ein neuer Gast</p>
+            <head>Siebentes Kapitel</head>
+            <head>Ein neuer Gast</head>
             <p>All diese Sprünge Bülows hatten die Heiterkeit des Prinzen erregt, der denn auch eben
                mit einem ihm bequem liegenden Capriccio über beauté céleste und beauté du diable
                beginnen wollte, als er, vom Korridor her, unter dem halb zurückgeschlagenen
@@ -1431,7 +1436,7 @@
                lieber Dussek. Keine Einwendungen. Aber was trinken Sie? Sie haben die Wahl. Asti,
                Montefiascone, Tokayer.«</p>
             <p>
-               <pb/> »Irgendeinen Ungar.«</p>
+               <pb facs="#"/> »Irgendeinen Ungar.«</p>
             <p>»Herben?«</p>
             <p>Dussek lächelte.</p>
             <p>»Törichte Frage«, korrigierte sich der Prinz und fuhr in gesteigerter guter Laune
@@ -1460,8 +1465,8 @@
                nascetur ridiculus mus.«</p>
             <p>Aber Dussek war in wirklicher Erregung, und diese wuchs noch unter der Heiterkeit
                seiner Zuhörer. Am meisten verdroß ihn Sander. »Sie lachen, Sander. Und doch trifft
-               es in diesem <pb/> Kreise nur Sie und mich. Denn gegen wen anders ist die Spitze
-               gerichtet als gegen das Bürgertum überhaupt.«</p>
+               es in diesem <pb facs="#"/> Kreise nur Sie und mich. Denn gegen wen anders ist die
+               Spitze gerichtet als gegen das Bürgertum überhaupt.«</p>
             <p>Der Prinz reichte dem Sprecher über den Tisch hin die Hand. »Recht, lieber Dussek.
                Ich liebe solch Eintreten. Erzählen Sie. Wie kam es?«</p>
             <p>»Vor allem ganz unerwartet. Wie ein Blitz aus heitrem Himmel. Königliche Hoheit
@@ -1487,13 +1492,13 @@
             <p>»Lieber Kapellmeister«, sagte Bülow, »ich sehe zu meinem Bedauern, daß Ihre
                Reflexionen Ihren Empfindungen weit vorauf sind. Übrigens ist das das Allgemeine. Sie
                sprechen von Vorurteilen, in denen wir stecken, und stecken selber drin. Sie, samt
-               Ihrem ganzen Bürgertum, das keinen neuen freien Gesellschaftszustand <pb/> schaffen,
-               sondern sich nur eitel und eifersüchtig in die bevorzugten alten Klassen einreihen
-               will. Aber damit schaffen Sie's nicht. An die Stelle der Eifersüchtelei, die jetzt
-               das Herz unsres dritten Standes verzehrt, muß eine Gleichgiltigkeit gegen alle diese
-               Kindereien treten, die sich einfach überlebt haben. Wer Gespenster wirklich
-               ignoriert, für den gibt es keine mehr, und wer Orden ignoriert, der arbeitet an ihrer
-               Ausrottung. Und dadurch an Ausrottung einer wahren Epidemie...«</p>
+               Ihrem ganzen Bürgertum, das keinen neuen freien Gesellschaftszustand <pb facs="#"/>
+               schaffen, sondern sich nur eitel und eifersüchtig in die bevorzugten alten Klassen
+               einreihen will. Aber damit schaffen Sie's nicht. An die Stelle der Eifersüchtelei,
+               die jetzt das Herz unsres dritten Standes verzehrt, muß eine Gleichgiltigkeit gegen
+               alle diese Kindereien treten, die sich einfach überlebt haben. Wer Gespenster
+               wirklich ignoriert, für den gibt es keine mehr, und wer Orden ignoriert, der arbeitet
+               an ihrer Ausrottung. Und dadurch an Ausrottung einer wahren Epidemie...«</p>
             <p>»Wie Herr von Bülow umgekehrt an Errichtung eines neuen Königreichs Utopien
                arbeitet«, unterbrach Sander. »Ich meinerseits nehme vorläufig an, daß die Krankheit,
                von der er spricht, in der Richtung von Osten nach Westen immer weiter wachsen, aber
@@ -1514,12 +1519,13 @@
                den Roten wieder los wäre‹, gefällt mir noch besser. Übrigens bin ich minder streng,
                als es den Anschein hat. Es gibt auch Auszeichnungen, die nicht als Auszeichnung
                ansehn zu wollen einfach Beschränktheit oder niedrige Gesinnung wäre. Admiral Sidney
-               <pb/> Smith, berühmter Verteidiger von St. Jean d'Acre und Verächter aller Orden,
-               legte doch Wert auf ein Schaustück, das ihm der Bischof von Acre mit den Worten
-               überreicht hatte: ›Wir empfingen dieses Schaustück aus den Händen König Richards Cœur
-               de Lion und geben es, nach sechshundert Jahren, einem seiner Landsleute zurück, der,
-               heldenmütig wie er, unsre Stadt verteidigt hat.‹ Und ein Elender und Narr, setz ich
-               hinzu, der sich einer solchen Auszeichnung nicht zu freuen versteht.«</p>
+                  <pb facs="#"/> Smith, berühmter Verteidiger von St. Jean d'Acre und Verächter
+               aller Orden, legte doch Wert auf ein Schaustück, das ihm der Bischof von Acre mit den
+               Worten überreicht hatte: ›Wir empfingen dieses Schaustück aus den Händen König
+               Richards Cœur de Lion und geben es, nach sechshundert Jahren, einem seiner Landsleute
+               zurück, der, heldenmütig wie er, unsre Stadt verteidigt hat.‹ Und ein Elender und
+               Narr, setz ich hinzu, der sich einer solchen Auszeichnung nicht zu freuen
+               versteht.«</p>
             <p>»Schätze mich glücklich, ein solches Wort aus Ihrem Munde zu hören«, erwiderte der
                Prinz. »Es bestärkt mich in meinen Gefühlen für Sie, lieber Bülow, und ist mir,
                Pardon, ein neuer Beweis, daß der Teufel nicht halb so schwarz ist, als er gemalt
@@ -1540,8 +1546,8 @@
                den Kopf zur Seite wandte, die jetzt draußen wieder lebhafter plaudernden
                Tischgenossen und ebenso die Lichtfunken, die von Zeit zu Zeit aus ihren Tonpfeifen
                aufflogen.</p>
-            <p>Das Gespräch hatte das Ordensthema nicht wieder aufgenommen, <pb/> wohl aber sich der
-               ersten Veranlassung desselben, also Iffland und dem in Sicht stehenden neuen
+            <p>Das Gespräch hatte das Ordensthema nicht wieder aufgenommen, <pb facs="#"/> wohl aber
+               sich der ersten Veranlassung desselben, also Iffland und dem in Sicht stehenden neuen
                Schauspiele, zugewandt, bei welcher Gelegenheit Alvensleben bemerkte, »daß er einige
                der in den Text eingestreuten Gesangsstücke während dieser letzten Tage kennengelernt
                habe. Gemeinschaftlich mit Schach. Und zwar im Salon der liebenswürdigen Frau von
@@ -1566,9 +1572,9 @@
             <p>»Aber doch nicht so«, lachte Sander, »daß ich nicht jeden Augenblick bereit wäre, ihn
                Eurer Königlichen Hoheit zu opfern. Und wie mir bei dieser Gelegenheit gestattet sein
                mag hinzuzusetzen, nicht bloß aus einem allerspeziellsten, sondern auch noch aus
-               einem ganz allgemeinen Grunde. Denn wenn die <pb/> Kinderbälle, nach Ansicht und
-               Erfahrung Eurer Königlichen Hoheit, eigentlich am besten ohne Kinder bestehen, so die
-               Freundschaften am besten ohne Freunde. Die Surrogate bedeuten überhaupt alles im
+               einem ganz allgemeinen Grunde. Denn wenn die <pb facs="#"/> Kinderbälle, nach Ansicht
+               und Erfahrung Eurer Königlichen Hoheit, eigentlich am besten ohne Kinder bestehen, so
+               die Freundschaften am besten ohne Freunde. Die Surrogate bedeuten überhaupt alles im
                Leben und sind recht eigentlich die letzte Weisheitsessenz.«</p>
             <p>»Es muß sehr gut mit Ihnen stehn, lieber Sander«, entgegnete der Prinz, »daß Sie sich
                zu solchen Ungeheuerlichkeiten offen bekennen können. Mais revenons à notre belle
@@ -1593,12 +1599,12 @@
                ironisch gegen Sander verbeugte.</p>
             <p>Der Prinz bemerkte die Verstimmung und wollte sie kupieren. »Es hilft Ihnen nichts,
                lieber Schach. Sie sprechen, als ob Sie mich abschrecken wollten. Aber weit gefehlt.
-               Ich bitte Sie, was ist Schönheit? Einer der allervagesten Begriffe. Muß ich <pb/> Sie
-               an die fünf Kategorien erinnern, die wir in erster Reihe Seiner Majestät dem Kaiser
-               Alexander und in zweiter unsrem Freunde Bülow verdanken? Alles ist schön und nichts.
-               Ich persönlich würde der beauté du diable jederzeit den Vorzug geben, will also
-               sagen, einer Erscheinungsform, die sich mit der des ci-devant schönen Fräuleins von
-               Carayon einigermaßen decken würde.«</p>
+               Ich bitte Sie, was ist Schönheit? Einer der allervagesten Begriffe. Muß ich <pb
+                  facs="#"/> Sie an die fünf Kategorien erinnern, die wir in erster Reihe Seiner
+               Majestät dem Kaiser Alexander und in zweiter unsrem Freunde Bülow verdanken? Alles
+               ist schön und nichts. Ich persönlich würde der beauté du diable jederzeit den Vorzug
+               geben, will also sagen, einer Erscheinungsform, die sich mit der des ci-devant
+               schönen Fräuleins von Carayon einigermaßen decken würde.«</p>
             <p>»Königliche Hoheit halten zu Gnaden«, entgegnete Nostitz, »aber es bleibt mir doch
                zweifelhaft, ob Königliche Hoheit die Kennzeichen der beauté du diable an Fräulein
                Victoire wahrnehmen würden. Das Fräulein hat einen witzig-elegischen Ton, was auf den
@@ -1621,9 +1627,9 @@
             <p>Nostitz und Sander lächelten und nickten.</p>
             <p>»Ja, meine Herren, ich gehe weiter und wiederhole: ›Was ist Schönheit?‹ Schönheit,
                bah! Es kann nicht nur auf die gewöhnlichen Schönheitsformen verzichtet werden, ihr
-               Fehlen kann <pb/> sogar einen allerdirektesten Vorzug bedeuten. In der Tat, lieber
-               Schach, ich habe wunderbare Niederlagen und noch wunderbarere Siege gesehn. Es ist
-               auch in der Liebe wie bei Morgarten und Sempach, die schönen Ritter werden
+               Fehlen kann <pb facs="#"/> sogar einen allerdirektesten Vorzug bedeuten. In der Tat,
+               lieber Schach, ich habe wunderbare Niederlagen und noch wunderbarere Siege gesehn. Es
+               ist auch in der Liebe wie bei Morgarten und Sempach, die schönen Ritter werden
                geschlagen, und die häßlichen Bauern triumphieren. Glauben Sie mir, das Herz
                entscheidet, nur das Herz. Wer liebt, wer die Kraft der Liebe hat, ist auch
                liebenswürdig, und es wäre grausam, wenn es anders wäre. Gehen Sie die Reihe der
@@ -1648,11 +1654,11 @@
             <p>Der Prinz schwieg. Es war ersichtlich, daß er auf einen allseitigen Ausdruck des
                Bedauerns wartete, Frau Pauline, die gelegentlich die Honneurs des Hauses machte,
                heute nicht anwesend zu sehn. Als aber niemand das Schweigen brach, fuhr er fort: »Es
-               fehlen uns die Frauen und damit dem Wein und <pb/> unsrem Leben der Schaum. Ich nehme
-               meinen Wunsch wieder auf und wiederhole, daß es mich glücklich machen würde, die
-               Carayonschen Damen in dem Salon meiner Freundin empfangen zu dürfen. Ich zähle
-               darauf, daß diejenigen Herren, die dem Kreise der Frau von Carayon angehören, sich
-               zum Interpreten meiner Wünsche machen. Sie, Schach, oder auch Sie, lieber
+               fehlen uns die Frauen und damit dem Wein und <pb facs="#"/> unsrem Leben der Schaum.
+               Ich nehme meinen Wunsch wieder auf und wiederhole, daß es mich glücklich machen
+               würde, die Carayonschen Damen in dem Salon meiner Freundin empfangen zu dürfen. Ich
+               zähle darauf, daß diejenigen Herren, die dem Kreise der Frau von Carayon angehören,
+               sich zum Interpreten meiner Wünsche machen. Sie, Schach, oder auch Sie, lieber
                Alvensleben.«</p>
             <p>Beide verneigten sich.</p>
             <p>»Alles in allem wird es das Beste sein, meine Freundin Pauline nimmt es persönlich in
@@ -1675,7 +1681,7 @@
                leis in ihrem Rücken. So verging eine geraume Zeit. Endlich aber erschien einer in
                unmittelbarer Nähe des Balkons und reckte den Hals, als ob er etwas sagen wollte.</p>
             <p>
-               <pb/> »Wem gilt es?« fragte Sander. »Dem Prinzen oder Dussek oder der
+               <pb facs="#"/> »Wem gilt es?« fragte Sander. »Dem Prinzen oder Dussek oder der
                Sinumbralampe.«</p>
             <p>»Natürlich dem Prinzen«, antwortete Dussek.</p>
             <p>»Und warum?«</p>
@@ -1694,17 +1700,17 @@
                unter dem Schatten der Parkbäume verschwunden war.</p>
          </div>
          <div type="chapter">
-            <p>Achtes Kapitel</p>
-            <p>Schach und Victoire</p>
+            <head>Achtes Kapitel</head>
+            <head>Schach und Victoire</head>
             <p>Es war kurz nach diesem Diner beim Prinzen, daß in Berlin bekannt wurde, der König
                werde noch vor Schluß der Woche von Potsdam herüberkommen, um auf dem Tempelhofer
                Felde eine große Revue zu halten. Die Nachricht davon weckte diesmal ein mehr als
                gewöhnliches Interesse, weil die gesamte Bevölkerung nicht nur dem Frieden mißtraute,
                den Haugwitz mit heimgebracht hatte, sondern auch mehr und mehr der Überzeugung
                lebte, daß im letzten immer nur unsre eigene Kraft auch unsre Sicherheit
-               beziehungsweise unsre Rettung sein <pb/> werde. Welche andre Kraft aber hatten wir
-               als die Armee, die Armee, die, was Erscheinung und Schulung anging, immer noch die
-               friderizianische war.</p>
+               beziehungsweise unsre Rettung sein <pb facs="#"/> werde. Welche andre Kraft aber
+               hatten wir als die Armee, die Armee, die, was Erscheinung und Schulung anging, immer
+               noch die friderizianische war.</p>
             <p>In solcher Stimmung sah man dem Revuetage, der ein Sonnabend war, entgegen.</p>
             <p>Das Bild, das die Stadt vom frühen Morgen an darbot, entsprach der Aufregung, die
                herrschte. Tausende strömten hinaus und bedeckten vom Halleschen Tor an die
@@ -1728,8 +1734,8 @@
                gedonnert hatten. Enthusiastischer Jubel begleitete den Anmarsch, und wahrlich, wer
                sie so heranziehen sah, dem mußte das Herz in patriotisch stolzer Erregung höher
                schlagen. Auch die Carayons teilten das allgemeine Gefühl und nahmen es als bloße
-               Verstimmung oder <pb/> Altersängstlichkeit, als der alte Herr von der Recke sich
-               vorbog und mit bewegter Stimme sagte: »Prägen wir uns diesen Anblick ein, meine
+               Verstimmung oder <pb facs="#"/> Altersängstlichkeit, als der alte Herr von der Recke
+               sich vorbog und mit bewegter Stimme sagte: »Prägen wir uns diesen Anblick ein, meine
                Damen. Denn glauben Sie der Vorahnung eines alten Mannes, wir werden diese Pracht
                nicht wiedersehen. Es ist die Abschiedsrevue der friderizianischen Armee.«</p>
 
@@ -1755,11 +1761,11 @@
                lächeln, wenn er davon hörte. Daß Du Dich plötzlich so verletzt fühlen, ja, verzeihe,
                so pikiert werden konntest, als er den Arm Deiner Mama nahm, verrät Dich und gibt mir
                allerlei zu denken, wie denn auch andres noch, was Du speziell in dieser Veranlassung
-               schreibst. Ich lerne Dich plötzlich von einer Seite kennen, von <pb/> der ich Dich
-               noch nicht kannte, von der argwöhnischen nämlich. Und nun, meine teure Victoire, hab
-               ein freundliches Ohr für das, was ich Dir in bezug auf diesen wichtigen Punkt zu
-               sagen habe. Bin ich doch die ältere. Du darfst Dich ein für allemal nicht in ein
-               Mißtrauen gegen Personen hineinleben, die durchaus den entgegengesetzten Anspruch
+               schreibst. Ich lerne Dich plötzlich von einer Seite kennen, von <pb facs="#"/> der
+               ich Dich noch nicht kannte, von der argwöhnischen nämlich. Und nun, meine teure
+               Victoire, hab ein freundliches Ohr für das, was ich Dir in bezug auf diesen wichtigen
+               Punkt zu sagen habe. Bin ich doch die ältere. Du darfst Dich ein für allemal nicht in
+               ein Mißtrauen gegen Personen hineinleben, die durchaus den entgegengesetzten Anspruch
                erheben dürfen. Und zu diesen Personen, mein ich, gehört Schach. Ich finde, je mehr
                ich den Fall über lege, daß Du ganz einfach vor einer Alternative stehst und entweder
                Deine gute Meinung über S. oder aber Dein Mißtrauen gegen ihn fallenlassen mußt. Er
@@ -1785,13 +1791,13 @@
             <p>»Ich komme nur, um nach dem Befinden der Damen zu fragen. Es war ein prächtiges
                Paradewetter, kühl und sonnig, aber der Wind ging doch ziemlich scharf ...«</p>
             <p>
-               <pb/> »Und Sie sehen mich unter seinen Opfern. Ich fiebre, nicht gerade heftig, aber
-               wenigstens so, daß ich das Theater aufgeben mußte. Der Shawl (in den ich bitte mich
-               wieder einwickeln zu dürfen) und diese Tisane, von der Beate wahre Wunder erwartet,
-               werden mir wahrscheinlich zuträglicher sein als ›Wallensteins Tod‹. Mama wollte mir
-               anfänglich Gesellschaft leisten. Aber Sie kennen ihre Passion für alles, was
-               Schauspiel heißt, und so hab ich sie fortgeschickt. Freilich auch aus Selbstsucht;
-               denn daß ich es gestehe, mich verlangte nach Ruhe.«</p>
+               <pb facs="#"/> »Und Sie sehen mich unter seinen Opfern. Ich fiebre, nicht gerade
+               heftig, aber wenigstens so, daß ich das Theater aufgeben mußte. Der Shawl (in den ich
+               bitte mich wieder einwickeln zu dürfen) und diese Tisane, von der Beate wahre Wunder
+               erwartet, werden mir wahrscheinlich zuträglicher sein als ›Wallensteins Tod‹. Mama
+               wollte mir anfänglich Gesellschaft leisten. Aber Sie kennen ihre Passion für alles,
+               was Schauspiel heißt, und so hab ich sie fortgeschickt. Freilich auch aus
+               Selbstsucht; denn daß ich es gestehe, mich verlangte nach Ruhe.«</p>
             <p>»Die nun mein Erscheinen doch wiederum stört. Aber nicht auf lange, nur gerade lange
                genug, um mich eines Auftrags zu entledigen, einer Anfrage, mit der ich übrigens
                leicht möglicherweise zu spät komme, wenn Alvensleben schon gesprochen haben
@@ -1813,7 +1819,7 @@
             <p>»Er will Sie sehen, beide, Mutter und Tochter. Frau Pauline, die, wie Sie vielleicht
                wissen, den Zirkel des Prinzen macht, soll Ihnen eine Einladung überbringen.«</p>
             <p>
-               <pb/> »Der zu gehorchen Mutter und Tochter sich zu besondrer Ehre rechnen
+               <pb facs="#"/> »Der zu gehorchen Mutter und Tochter sich zu besondrer Ehre rechnen
                werden.«</p>
             <p>»Was mich nicht wenig überrascht. Und Sie können, meine teure Victoire, dies kaum im
                Ernste gesprochen haben. Der Prinz ist mir ein gnäd'ger Herr, und ich lieb ihn de
@@ -1841,9 +1847,10 @@
                genommen wird, dem wird auch gegeben.‹ In meinem Falle liegt der Tausch etwas
                schmerzlich, und ich wünschte wohl, ihn nicht gemacht zu haben. Aber andrerseits geh
                ich nicht blind an dem eingetauschten Guten vorüber und freue mich meiner Freiheit.
-               Wovor andre meines <pb/> Alters und Geschlechts erschrecken, das darf ich. An dem
-               Abende bei Massows, wo man mir zuerst huldigte, war ich, ohne mir dessen bewußt zu
-               sein, eine Sklavin. Oder doch abhängig von hundert Dingen. Jetzt bin ich frei.«</p>
+               Wovor andre meines <pb facs="#"/> Alters und Geschlechts erschrecken, das darf ich.
+               An dem Abende bei Massows, wo man mir zuerst huldigte, war ich, ohne mir dessen
+               bewußt zu sein, eine Sklavin. Oder doch abhängig von hundert Dingen. Jetzt bin ich
+               frei.«</p>
             <p>Schach sah verwundert auf die Sprecherin. Manches, was der Prinz über sie gesagt
                hatte, ging ihm durch den Kopf. Waren das Überzeugungen oder Einfälle? War es Fieber?
                Ihre Wangen hatten sich gerötet, und ein aufblitzendes Feuer in ihrem Auge traf ihn
@@ -1867,9 +1874,9 @@
             <p>Und dabei lachte sie voll Übermut und Bitterkeit. Aber die Bitterkeit klang vor.</p>
             <p>»Sie dürfen so nicht lachen, Victoire, nicht so. Das kleidet Ihnen nicht, das
                verhäßlicht Sie. Ja, werfen Sie nur die Lippen – verhäßlicht Sie. Der Prinz hatte
-               doch recht, als er enthusiastisch von Ihnen sprach. Armes Gesetz der Form und der
-               <pb/> Farbe. Was allein gilt, ist das ewig Eine, daß sich die Seele den Körper
-               schafft oder ihn durchleuchtet und verklärt.«</p>
+               doch recht, als er enthusiastisch von Ihnen sprach. Armes Gesetz der Form und der <pb
+                  facs="#"/> Farbe. Was allein gilt, ist das ewig Eine, daß sich die Seele den
+               Körper schafft oder ihn durchleuchtet und verklärt.«</p>
             <p>Victoirens Lippen flogen, ihre Sicherheit verließ sie, und ein Frost schüttelte sie.
                Sie zog den Shawl höher hinauf, und Schach nahm ihre Hand, die eiskalt war, denn
                alles Blut drängte nach ihrem Herzen.</p>
@@ -1897,8 +1904,9 @@
                auszuweichen, empfahl er sich rasch und huschte durch Vorzimmer und Korridor.</p>
             <p>Alles war still und dunkel unten, und nur von der Mitte des Hausflurs her fiel ein
                Lichtschimmer bis in Nähe der obersten Stufen. Aber das Glück war ihm hold. Ein
-               breiter Pfeiler, der bis dicht an die Treppenbrüstung vorsprang, teilte den <pb/>
-               schmalen Vorflur in zwei Hälften, und hinter diesen Pfeiler trat er und wartete.</p>
+               breiter Pfeiler, der bis dicht an die Treppenbrüstung vorsprang, teilte den <pb
+                  facs="#"/> schmalen Vorflur in zwei Hälften, und hinter diesen Pfeiler trat er und
+               wartete.</p>
             <p>Victoire stand in der Glastür und empfing die Mama.</p>
             <p>»Du kommst so früh. Ach, und wie hab ich dich erwartet!«</p>
             <p>Schach hörte jedes Wort. »Erst die Schuld und dann die Lüge«, klang es in ihm. »Das
@@ -1908,8 +1916,8 @@
                hinunter.</p>
          </div>
          <div type="chapter">
-            <p>Neuntes Kapitel</p>
-            <p>Schach zieht sich zurück</p>
+            <head>Neuntes Kapitel</head>
+            <head>Schach zieht sich zurück</head>
             <p>»Bis auf morgen«, war Schachs Abschiedswort gewesen, aber er kam nicht. Auch am
                zweiten und dritten Tage nicht. Victoire suchte sich's zurechtzulegen, und wenn es
                nicht glücken wollte, nahm sie Lisettens Brief und las immer wieder die Stelle, die
@@ -1925,9 +1933,9 @@
                liebenswürdig gewesen, habe zwei-, dreimal nach ihr gefragt und ein Bouquet für sie
                zurückgelassen. Es waren Veilchen und Rosen, die das Zimmer mit ihrem Dufte füllten.
                Victoire, während ihr die Mama von dem Besuche vorplauderte, bemühte sich, einen
-               leichten und übermütigen Ton anzuschlagen, aber ihr Herz war zu voll von <pb/>
-               widerstreitenden Gefühlen, und sie zog sich zurück, um sich in zugleich glücklichen
-               und bangen Tränen auszuweinen.</p>
+               leichten und übermütigen Ton anzuschlagen, aber ihr Herz war zu voll von <pb facs="#"
+               /> widerstreitenden Gefühlen, und sie zog sich zurück, um sich in zugleich
+               glücklichen und bangen Tränen auszuweinen.</p>
             <p>Inzwischen war der Tag herangekommen, wo die »Weihe der Kraft« gegeben werden sollte.
                Schach schickte seinen Diener und ließ anfragen, ob die Damen der Vorstellung
                beizuwohnen gedächten. Es war eine bloße Form, denn er wußte, daß es so sein
@@ -1953,8 +1961,8 @@
             <p>»Ich liebe nicht Komödien«, antwortete Schach, »die fünf Stunden spielen. Ich wünsche
                Vergnügen oder Erholung im Theater, aber keine Strapaze.«</p>
             <p>»Zugestanden. Aber dies ist etwas Äußerliches und beiläufig ein Mißstand, dem
-               ehestens abgeholfen sein wird. Iffland <pb/> selbst ist mit erheblichen Kürzungen
-               einverstanden. Ich will Ihr Urteil über das Stück.«</p>
+               ehestens abgeholfen sein wird. Iffland <pb facs="#"/> selbst ist mit erheblichen
+               Kürzungen einverstanden. Ich will Ihr Urteil über das Stück.«</p>
             <p>»Es hat mich nicht befriedigt.«</p>
             <p>»Und warum nicht?«</p>
             <p>»Weil es alles auf den Kopf stellt. Solchen Luther hat es Gott sei Dank nie gegeben,
@@ -1981,9 +1989,9 @@
                klang es auch, und Victoire hörte mit feinem Ohr heraus, daß es nicht die Sprache
                war, die sie fordern durfte. Sie war bemüht, ihm unbefangen zu antworten, aber es
                blieb ein äußerliches Gespräch, bis er ging.</p>
-            <p>Den Tag nach diesem Besuche kam Tante Marguerite. Sie <pb/> hatte bei Hofe von dem
-               schönen Stücke gehört, »das so schön sei wie noch gar keins«, und so wollte sie's
-               gerne sehn. Frau von Carayon war ihr zu Willen, nahm sie mit in die zweite
+            <p>Den Tag nach diesem Besuche kam Tante Marguerite. Sie <pb facs="#"/> hatte bei Hofe
+               von dem schönen Stücke gehört, »das so schön sei wie noch gar keins«, und so wollte
+               sie's gerne sehn. Frau von Carayon war ihr zu Willen, nahm sie mit in die zweite
                Vorstellung, und da wirklich sehr gekürzt worden war, blieb auch noch Zeit, daheim
                eine halbe Stunde zu plaudern.</p>
             <p>»Nun, Tante Marguerite«, fragte Victoire, »wie hat es dir gefallen?«</p>
@@ -2008,11 +2016,11 @@
                angenehmer Mann, und ich denke noch ümmer an Tempelhof und den aufrechtstehenden
                Ritter... Und wißt ihr denn, in Wülmersdorf soll auch einer sein, und auch ebenso
                weggeschubbert. Und von wem ich es habe? Nun? Von la petite princesse Charlotte.«</p>
-            <pb/>
+            <pb facs="#"/>
          </div>
          <div type="chapter">
-            <p>Zehntes Kapitel</p>
-            <p>»Es muß etwas geschehn«</p>
+            <head>Zehntes Kapitel</head>
+            <head>»Es muß etwas geschehn«</head>
             <p>Die »Weihe der Kraft« wurde nach wie vor gegeben, und Berlin hörte nicht auf, in zwei
                Lager geteilt zu sein. Alles, was mystisch-romantisch war, war für, alles, was
                freisinnig war, gegen das Stück. Selbst im Hause Carayon setzte sich diese Fehde
@@ -2037,15 +2045,15 @@
                jüngeren Kameraden den diensttuenden Offizier zu besuchen und sich bis in die Nacht
                hinein zu divertieren pflegten. Unter den Gesprächen, die man in Veranlassung der
                neuen Komödie hier führte, kamen Spöttereien wie die vorgenannten kaum noch von der
-               Tagesordnung, und <pb/> als einer der Kameraden daran erinnerte, daß das neuerdings
-               von seiner früheren Höhe herabgestiegene Regiment eine Art patriotische Pflicht habe,
-               sich mal wieder »als es selbst« zu zeigen, brach ein ungeheurer Jubel aus, an dessen
-               Schluß alle einig waren, »daß etwas geschehen müsse«. Daß es sich dabei lediglich um
-               eine Travestie der »Weihe der Kraft«, etwa durch eine Maskerade, handeln könne, stand
-               von vornherein fest, und nur über das »Wie« gingen die Meinungen noch auseinander. In
-               Folge davon beschloß man, ein paar Tage später eine neue Zusammenkunft abzuhalten, in
-               der, nach Anhörung einiger Vorschläge, der eigentliche Plan fixiert werden
-               sollte.</p>
+               Tagesordnung, und <pb facs="#"/> als einer der Kameraden daran erinnerte, daß das
+               neuerdings von seiner früheren Höhe herabgestiegene Regiment eine Art patriotische
+               Pflicht habe, sich mal wieder »als es selbst« zu zeigen, brach ein ungeheurer Jubel
+               aus, an dessen Schluß alle einig waren, »daß etwas geschehen müsse«. Daß es sich
+               dabei lediglich um eine Travestie der »Weihe der Kraft«, etwa durch eine Maskerade,
+               handeln könne, stand von vornherein fest, und nur über das »Wie« gingen die Meinungen
+               noch auseinander. In Folge davon beschloß man, ein paar Tage später eine neue
+               Zusammenkunft abzuhalten, in der, nach Anhörung einiger Vorschläge, der eigentliche
+               Plan fixiert werden sollte.</p>
             <p>Rasch hatte sich's herumgesprochen, und als Tag und Stunde da waren, waren einige
                zwanzig Kameraden in dem vorerwähnten Lokal erschienen: Itzenplitz, Jürgaß und
                Britzke, Billerbeck und Diricke, Graf Haeseler, Graf Herzberg, von Rochow, von
@@ -2064,10 +2072,10 @@
             <p>Nostitz ließ den Lärm eine Weile dauern und klopfte dann erst mit dem ihm als Zeichen
                seiner Würde zur Seite liegenden Pallasch auf den Tisch.</p>
             <p>»Silentium, Silentium.«</p>
-            <p>»Kameraden vom Regiment Gensdarmes, Erben eines alten <pb/> Ruhmes auf dem Felde
-               militärischer und gesellschaftlicher Ehre (denn wir haben nicht nur der Schlacht die
-               Richtung, wir haben auch der Gesellschaft den Ton gegeben), Kameraden, sag ich, wir
-               sind schlüssig geworden: es muß etwas geschehn!«</p>
+            <p>»Kameraden vom Regiment Gensdarmes, Erben eines alten <pb facs="#"/> Ruhmes auf dem
+               Felde militärischer und gesellschaftlicher Ehre (denn wir haben nicht nur der
+               Schlacht die Richtung, wir haben auch der Gesellschaft den Ton gegeben), Kameraden,
+               sag ich, wir sind schlüssig geworden: es muß etwas geschehn!«</p>
             <p>»Ja, ja. Es muß etwas geschehn.«</p>
             <p>»Und neu geweiht durch die ›Weihe der Kraft‹, haben wir, dem alten Luther und uns
                selber zuliebe, beschlossen, einen Aufzug zu bewerkstelligen, von dem die spätesten
@@ -2093,7 +2101,7 @@
                einem einzigen und ersten Meisterschuß gleich ins Schwarze getroffen zu haben. Also
                Schlittenfahrt. Angenommen?«</p>
             <p>
-               <pb/> »Ja, ja.«</p>
+               <pb facs="#"/> »Ja, ja.«</p>
             <p>»So bleibt nur noch Rollenverteilung. Wer gibt den Luther?«</p>
             <p>»Schach.«</p>
             <p>»Er wird ablehnen.«</p>
@@ -2120,9 +2128,9 @@
                Bühnen-Luther contre cœur war) für einen Mummenschanz-Luther übrighabe. Daß wir
                diesen Mummenschanz in eine Zeit verlegen, die nicht einmal eine Fastnachtsfreiheit
                in Anspruch nehmen darf, bessert sicherlich nichts. Jüngeren Kameraden soll aber
-               durch diese meine Stellung zur Sache kein Zwang auferlegt<pb/> werden, und jedenfalls
-               darf man sich meiner Diskretion versichert halten. Ich bin nicht das Gewissen des
-               Regiments, noch weniger sein Aufpasser. Ihr Schach.«</p>
+               durch diese meine Stellung zur Sache kein Zwang auferlegt<pb facs="#"/> werden, und
+               jedenfalls darf man sich meiner Diskretion versichert halten. Ich bin nicht das
+               Gewissen des Regiments, noch weniger sein Aufpasser. Ihr Schach.«</p>
             <p>»Ich wußt es«, sagte Nostitz in aller Ruhe, während er das Schachsche Billet an dem
                ihm zunächststehenden Lichte verbrannte. »Kamerad Zieten ist größer in Vorschlägen
                und Phantastik als in Menschenkenntnis. Er will mir antworten, seh ich, aber ich kann
@@ -2148,13 +2156,13 @@
                melden.</p>
             <p>Alles, was danach noch zu ordnen war, ordnete sich rasch, und ehe zehn Minuten um
                waren, waren bereits die Hauptrollen verteilt: Graf Herzberg den Luther, Diricke den
-               Famulus, <pb/> Nostitz, wegen seiner kolossalen Größe, die Katharina von Bora. Der
-               Rest wurd einfach als Nonnenmaterial eingeschrieben, und nur Zieten, dem man sich
-               besonders verpflichtet fühlte, rückte zur Äbtissin auf. Er erklärte denn auch sofort,
-               auf seinem Schlittensitz ein »jeu entrieren« oder mit dem Klostervogt eine Partie
-               Mariage spielen zu wollen. Ein neuer Jubel brach aus, und nachdem noch in aller Kürze
-               der nächste Montag für die Maskerade festgesetzt, alles Ausplaudern aber aufs
-               strengste verboten worden war, schloß Nostitz die Sitzung.</p>
+               Famulus, <pb facs="#"/> Nostitz, wegen seiner kolossalen Größe, die Katharina von
+               Bora. Der Rest wurd einfach als Nonnenmaterial eingeschrieben, und nur Zieten, dem
+               man sich besonders verpflichtet fühlte, rückte zur Äbtissin auf. Er erklärte denn
+               auch sofort, auf seinem Schlittensitz ein »jeu entrieren« oder mit dem Klostervogt
+               eine Partie Mariage spielen zu wollen. Ein neuer Jubel brach aus, und nachdem noch in
+               aller Kürze der nächste Montag für die Maskerade festgesetzt, alles Ausplaudern aber
+               aufs strengste verboten worden war, schloß Nostitz die Sitzung.</p>
             <p>In der Tür drehte sich Diricke noch einmal um und fragte: »Aber wenn's regnet?«</p>
             <p>»Es darf nicht regnen.«</p>
             <p>»Und was wird aus dem Salz?«</p>
@@ -2162,8 +2170,8 @@
             <p>»Et pour la canaille«, schloß der jüngste Cornet.</p>
          </div>
          <div type="chapter">
-            <p>Elftes Kapitel</p>
-            <p>Die Schlittenfahrt</p>
+            <head>Elftes Kapitel</head>
+            <head>Die Schlittenfahrt</head>
             <p>Schweigen war gelobt worden, und es blieb auch wirklich verschwiegen. Ein vielleicht
                einzig dastehender Fall. Wohl erzählte man sich in der Stadt, daß die Gensdarmes
                »etwas vorhätten« und mal wieder über einem jener tollen Streiche brüteten, um
@@ -2175,11 +2183,11 @@
                überraschend herein.</p>
             <p>In einem der in der Nähe der Mittel- und Dorotheenstraße gelegenen Stallgebäude hatte
                man sich bei Dunkelwerden versammelt, und ein Dutzend prachtvoll gekleideter und von
-               Fackelträgern <pb/> begleiteter Vorreiter vorauf, ganz also, wie Zieten es proponiert
-               hatte, schoß man mit dem Glockenschlage neun an dem Akademiegebäude vorüber auf die
-               Linden zu, jagte weiter abwärts erst in die Wilhelms-, dann aber umkehrend in die
-               Behren- und Charlottenstraße hinein und wiederholte diese Fahrt um das eben
-               bezeichnete Lindencarré herum in einer immer gesteigerten Eile.</p>
+               Fackelträgern <pb facs="#"/> begleiteter Vorreiter vorauf, ganz also, wie Zieten es
+               proponiert hatte, schoß man mit dem Glockenschlage neun an dem Akademiegebäude
+               vorüber auf die Linden zu, jagte weiter abwärts erst in die Wilhelms-, dann aber
+               umkehrend in die Behren- und Charlottenstraße hinein und wiederholte diese Fahrt um
+               das eben bezeichnete Lindencarré herum in einer immer gesteigerten Eile.</p>
             <p>Als der Zug das erste Mal an dem Carayonschen Hause vorüberkam und das Licht der
                voraufreitenden Fackeln grell in alle Scheiben der Beletage fiel, eilte Frau von
                Carayon, die sich zufällig allein befand, erschreckt ans Fenster und sah auf die
@@ -2203,11 +2211,11 @@
                ein Mitschuldiger in diesem widerlichen Spiele, das er gutgeheißen oder wenigstens
                nicht gehindert hatte.</p>
             <p>
-               <pb/> Welche verkommne Welt, wie pietätlos, wie bar aller Schicklichkeit! Wie schal
-               und ekel. Ein Gefühl unendlichen Wehs ergriff sie, das Schöne verzerrt und das Reine
-               durch den Schlamm gezogen zu sehen. Und warum? Um einen Tag lang von sich reden zu
-               machen, um einer kleinlichen Eitelkeit willen. Und das war die Sphäre, darin sie
-               gedacht und gelacht, und gelebt und gewebt, und darin sie nach Liebe verlangt und
+               <pb facs="#"/> Welche verkommne Welt, wie pietätlos, wie bar aller Schicklichkeit!
+               Wie schal und ekel. Ein Gefühl unendlichen Wehs ergriff sie, das Schöne verzerrt und
+               das Reine durch den Schlamm gezogen zu sehen. Und warum? Um einen Tag lang von sich
+               reden zu machen, um einer kleinlichen Eitelkeit willen. Und das war die Sphäre, darin
+               sie gedacht und gelacht, und gelebt und gewebt, und darin sie nach Liebe verlangt und
                ach, das Schlimmste von allem, an Liebe geglaubt hatte!</p>
             <p>»Laß uns gehen«, sagte sie, während sie den Arm der Mutter nahm, und wandte sich, um
                in das Zimmer zurückzukehren. Aber ehe sie's erreichen konnte, wurde sie wie von
@@ -2230,20 +2238,21 @@
             <p>Frau von Carayon schickte Beaten, um den Arzt rufen zu lassen. In Wahrheit aber lag
                ihr weniger an dem Arzt als an einem Alleinsein und einer Aussprache mit dem
                geliebten Kinde.</p>
-            <p>»Was ist dir? Und wie du nur fliegst und zitterst. Und siehst <pb/> so starr. Ich
-               erkenne meine heitre Victoire nicht mehr. Überlege, Kind, was ist denn geschehen? Ein
-               toller Streich mehr, einer unter vielen, und ich weiß Zeiten, wo du diesen Übermut
-               mehr belacht als beklagt hättest. Es ist etwas andres, was dich quält und drückt; ich
-               seh es seit Tagen schon. Aber du verschweigst mir's, du hast ein Geheimnis. Ich
-               beschwöre dich, Victoire, sprich. Du darfst es. Es sei, was es sei.«</p>
+            <p>»Was ist dir? Und wie du nur fliegst und zitterst. Und siehst <pb facs="#"/> so
+               starr. Ich erkenne meine heitre Victoire nicht mehr. Überlege, Kind, was ist denn
+               geschehen? Ein toller Streich mehr, einer unter vielen, und ich weiß Zeiten, wo du
+               diesen Übermut mehr belacht als beklagt hättest. Es ist etwas andres, was dich quält
+               und drückt; ich seh es seit Tagen schon. Aber du verschweigst mir's, du hast ein
+               Geheimnis. Ich beschwöre dich, Victoire, sprich. Du darfst es. Es sei, was es
+               sei.«</p>
             <p>Victoire schlug ihren Arm um Frau von Carayons Hals, und ein Strom von Tränen
                entquoll ihrem Auge.</p>
             <p>»Beste Mutter!«</p>
             <p>Und sie zog sie fester an sich und küßte sie und beichtete ihr alles.</p>
          </div>
          <div type="chapter">
-            <p>Zwölftes Kapitel</p>
-            <p>Schach bei Frau von Carayon</p>
+            <head>Zwölftes Kapitel</head>
+            <head>Schach bei Frau von Carayon</head>
             <p>Am andern Vormittage saß Frau von Carayon am Bette der Tochter und sagte, während
                diese zärtlich und mit einem wiedergewonnenen ruhig-glücklichen Ausdruck zu der
                Mutter aufblickte: »Habe Vertrauen, Kind. Ich kenn ihn so lange Zeit. Er ist schwach
@@ -2261,8 +2270,8 @@
                nach der Aufführung des Stücks, und heute kommt er nach der Aufführung der
                Schlittenfahrt.</p>
             <p>
-               <pb/> Ich bin doch begierig, ob er mit dabei war. War er's, so sag ihm, wie sehr es
-               mich verletzt hat. Oder sag es lieber nicht.«</p>
+               <pb facs="#"/> Ich bin doch begierig, ob er mit dabei war. War er's, so sag ihm, wie
+               sehr es mich verletzt hat. Oder sag es lieber nicht.«</p>
             <p>Frau von Carayon war bewegt. »Ach, meine süße Victoire, du bist zu gut, viel zu gut.
                Er verdient es nicht; keiner.« Und sie streichelte die Tochter und ging über den
                Korridor fort in den Salon, wo Schach ihrer wartete.</p>
@@ -2291,7 +2300,7 @@
             <p>»Mutmaßlich infolge dieser Maskeradentollheit. Ich beklag es von ganzem Herzen.«</p>
             <p>»Und doch bin ich eben dieser Tollheit zu Danke verpflichtet. In dem Degout über die
                Mummerei, deren Zeuge sie sein mußte, löste sich ihr die Zunge; sie brach ihr langes
-               Schweigen <pb/> und vertraute mir ein Geheimnis an, ein Geheimnis, das Sie
+               Schweigen <pb facs="#"/> und vertraute mir ein Geheimnis an, ein Geheimnis, das Sie
                kennen.«</p>
             <p>Schach, der sich doppelt schuldig fühlte, war wie mit Blut übergossen.</p>
             <p>»Lieber Schach«, fuhr Frau von Carayon fort, während sie jetzt seine Hand nahm und
@@ -2317,21 +2326,21 @@
                Anwalt der Frau von Carayon zu sein, ihres Hauses und ihres Namens.«</p>
             <p>Es schien, daß Schach unterbrechen wollte. Sie ließ es aber nicht zu. »Noch einen
                Augenblick. Ich werde gleich gesagt haben, was ich zu sagen habe. Victoire hat mich
-               gebeten, über alles zu schweigen, nichts zu verraten, auch Ihnen nicht, und <pb/>
-               nichts zu verlangen. Zur Sühne für eine halbe Schuld (und ich rechne hoch, wenn ich
-               von einer halben Schuld spreche) will sie die ganze tragen, auch vor der Welt, und
-               will sich in jenem romantischen Zuge, der ihr eigen ist, aus ihrem Unglück ein Glück
-               erziehen. Sie gefällt sich in dem Hochgefühl des Opfers, in einem süßen Hinsterben
-               für den, den sie liebt, und für das, was sie lieben wird. Aber so schwach ich in
-               meiner Liebe zu Victoire bin, so bin ich doch nicht schwach genug, ihr in dieser
-               Großmutskomödie zu Willen zu sein. Ich gehöre der Gesellschaft an, deren Bedingungen
-               ich erfülle, deren Gesetzen ich mich unterwerfe; daraufhin bin ich erzogen, und ich
-               habe nicht Lust, einer Opfermarotte meiner einzig geliebten Tochter zuliebe, meine
-               gesellschaftliche Stellung mit zum Opfer zu bringen. Mit andern Worten, ich habe
-               nicht Lust, ins Kloster zu gehen oder die dem Irdischen entrückte Säulenheilige zu
-               spielen, auch nicht um Victoirens willen. Und so muß ich denn auf Legitimisierung des
-               Geschehenen dringen. Dies, mein Herr Rittmeister, war es, was ich Ihnen zu sagen
-               hatte.«</p>
+               gebeten, über alles zu schweigen, nichts zu verraten, auch Ihnen nicht, und <pb
+                  facs="#"/> nichts zu verlangen. Zur Sühne für eine halbe Schuld (und ich rechne
+               hoch, wenn ich von einer halben Schuld spreche) will sie die ganze tragen, auch vor
+               der Welt, und will sich in jenem romantischen Zuge, der ihr eigen ist, aus ihrem
+               Unglück ein Glück erziehen. Sie gefällt sich in dem Hochgefühl des Opfers, in einem
+               süßen Hinsterben für den, den sie liebt, und für das, was sie lieben wird. Aber so
+               schwach ich in meiner Liebe zu Victoire bin, so bin ich doch nicht schwach genug, ihr
+               in dieser Großmutskomödie zu Willen zu sein. Ich gehöre der Gesellschaft an, deren
+               Bedingungen ich erfülle, deren Gesetzen ich mich unterwerfe; daraufhin bin ich
+               erzogen, und ich habe nicht Lust, einer Opfermarotte meiner einzig geliebten Tochter
+               zuliebe, meine gesellschaftliche Stellung mit zum Opfer zu bringen. Mit andern
+               Worten, ich habe nicht Lust, ins Kloster zu gehen oder die dem Irdischen entrückte
+               Säulenheilige zu spielen, auch nicht um Victoirens willen. Und so muß ich denn auf
+               Legitimisierung des Geschehenen dringen. Dies, mein Herr Rittmeister, war es, was ich
+               Ihnen zu sagen hatte.«</p>
             <p>Schach, der inzwischen Gelegenheit gefunden hatte, sich wieder zu sammeln, erwiderte,
                »daß er wohl wisse, wie jegliches Ding im Leben seine natürliche Konsequenz habe. Und
                solcher Konsequenz gedenk er sich nicht zu entziehen. Wenn ihm das, was er jetzt
@@ -2346,18 +2355,18 @@
             <p>All dies wurde sehr artig und verbindlich gesprochen, aber doch zugleich auch mit
                einer bemerkenswerten Kühle.</p>
             <p>Dies empfand Frau von Carayon in einer ihr nicht nur schmerzlichen, sondern sie
-               geradezu verletzenden Weise; das, <pb/> was sie gehört hatte, war weder die Sprache
-               der Liebe noch der Schuld, und als Schach schwieg, erwiderte sie spitz: »Ich bin
-               Ihnen sehr dankbar für Ihre Worte, Herr von Schach, ganz besonders auch für das, was
-               sich darin an meine Person richtete. Daß Ihr ›Ja‹ rückhaltloser und ungesuchter hätte
-               klingen können, empfinden Sie wohl am eignen Herzen. Aber gleichviel, mir genügt das
-               ›Ja‹. Denn wonach dürst ich denn am Ende? Nach einer Trauung im Dom und einer
-               Galahochzeit. Ich will mich einmal wieder in gelbem Atlas sehn, der mir kleidet, und
-               haben wir dann erst unsren Fackeltanz getanzt und Victoirens Strumpfband zerschnitten
-               – denn ein wenig prinzeßlich werden wir's doch wohl halten müssen, schon um Tante
-               Margueritens willen –, nun, so geb ich Ihnen carte blanche, Sie sind dann wieder
-               frei, frei wie der Vogel in der Luft, in Tun und Lassen, in Haß und Liebe, denn es
-               ist dann einfach geschehen, was geschehen mußte.«</p>
+               geradezu verletzenden Weise; das, <pb facs="#"/> was sie gehört hatte, war weder die
+               Sprache der Liebe noch der Schuld, und als Schach schwieg, erwiderte sie spitz: »Ich
+               bin Ihnen sehr dankbar für Ihre Worte, Herr von Schach, ganz besonders auch für das,
+               was sich darin an meine Person richtete. Daß Ihr ›Ja‹ rückhaltloser und ungesuchter
+               hätte klingen können, empfinden Sie wohl am eignen Herzen. Aber gleichviel, mir
+               genügt das ›Ja‹. Denn wonach dürst ich denn am Ende? Nach einer Trauung im Dom und
+               einer Galahochzeit. Ich will mich einmal wieder in gelbem Atlas sehn, der mir
+               kleidet, und haben wir dann erst unsren Fackeltanz getanzt und Victoirens Strumpfband
+               zerschnitten – denn ein wenig prinzeßlich werden wir's doch wohl halten müssen, schon
+               um Tante Margueritens willen –, nun, so geb ich Ihnen carte blanche, Sie sind dann
+               wieder frei, frei wie der Vogel in der Luft, in Tun und Lassen, in Haß und Liebe,
+               denn es ist dann einfach geschehen, was geschehen mußte.«</p>
             <p>Schach schwieg.</p>
             <p>»Ich nehme vorläufig ein stilles Verlöbnis an. Über alles andere werden wir uns
                leicht verständigen. Wenn es sein muß, schriftlich. Aber die Kranke wartet jetzt auf
@@ -2366,16 +2375,16 @@
                Förmlichkeit, ohne daß weiter ein Wort zwischen ihnen gesprochen worden wäre.</p>
          </div>
          <div type="chapter">
-            <p>Dreizehntes Kapitel</p>
-            <p>»Le choix du Schach«</p>
+            <head>Dreizehntes Kapitel</head>
+            <head>»Le choix du Schach«</head>
             <p>In beinah offner Gegnerschaft hatte man sich getrennt. Aber es ging alles besser, als
                nach dieser gereizten Unterhaltung erwartet werden konnte, wozu sehr wesentlich ein
                Brief beitrug, den Schach anderntags an Frau von Carayon schrieb. Er bekannte sich
                darin in allem Freimut schuldig, schützte, wie schon während des Gesprächs selbst,
                Überraschung und Verwirrung vor und traf in all diesen Erklärungen einen wärmeren
-               Ton, <pb/> eine herzlichere Sprache. Ja, sein Rechtsgefühl, dem er ein Genüge tun
-               wollte, ließ ihn vielleicht mehr sagen, als zu sagen gut und klug war. Er sprach von
-               seiner Liebe zu Victoiren und vermied absichtlich oder zufällig all jene
+               Ton, <pb facs="#"/> eine herzlichere Sprache. Ja, sein Rechtsgefühl, dem er ein
+               Genüge tun wollte, ließ ihn vielleicht mehr sagen, als zu sagen gut und klug war. Er
+               sprach von seiner Liebe zu Victoiren und vermied absichtlich oder zufällig all jene
                Versicherungen von Respekt und Wertschätzung, die so bitter wehe tun, wo das einfache
                Geständnis einer herzlichen Neigung gefordert wird. Victoire sog jedes Wort ein, und
                als die Mama schließlich den Brief aus der Hand legte, sah diese letztre nicht ohne
@@ -2399,7 +2408,7 @@
                von alter Zeit her erschreckte. Hochzeit! Und Hochzeit mit wem? Mit einer Schönheit,
                die, wie der Prinz sich auszudrücken beliebt hatte, »durch ein Fegefeuer gegangen
                war«. »Aber«, so fuhr er in seinem Selbstgespräche fort, »ich stehe nicht auf dem
-               Standpunkte des Prinzen, ich schwärme nicht für <pb/> ›Läuterungsprozesse‹,
+               Standpunkte des Prinzen, ich schwärme nicht für <pb facs="#"/> ›Läuterungsprozesse‹,
                hinsichtlich deren nicht feststeht, ob der Verlust nicht größer ist als der Gewinn,
                und wenn ich mich auch persönlich zu diesem Standpunkte bekehren könnte, so bekehr
                ich doch nicht die Welt... Ich bin rettungslos dem Spott und Witz der Kameraden
@@ -2424,12 +2433,12 @@
             <p>Es war, als ob er sich durch das Selbstgespräch, das er geführt, von dem Drucke, der
                auf ihm lastete, frei gemacht habe. Seine Sprache der alten Freundin gegenüber war
                jetzt natürlich, beinah herzlich, und ohne daß auch nur eine kleinste Wolke das
-               wiederhergestellte Vertrauen der Frau von Carayon <pb/> getrübt hätte, besprachen
-               beide, was zu tun sei. Schach zeigte sich einverstanden mit allem: in einer Woche
-               Verlobung und nach drei Wochen die Hochzeit. Unmittelbar nach der Hochzeit aber
-               sollte das junge Paar eine Reise nach Italien antreten und nicht vor Ablauf eines
-               Jahres in die Heimat zurückkehren, Schach nach der Hauptstadt, Victoire nach
-               Wuthenow, dem alten Familiengute, das ihr, von einem früheren Besuche her (als
+               wiederhergestellte Vertrauen der Frau von Carayon <pb facs="#"/> getrübt hätte,
+               besprachen beide, was zu tun sei. Schach zeigte sich einverstanden mit allem: in
+               einer Woche Verlobung und nach drei Wochen die Hochzeit. Unmittelbar nach der
+               Hochzeit aber sollte das junge Paar eine Reise nach Italien antreten und nicht vor
+               Ablauf eines Jahres in die Heimat zurückkehren, Schach nach der Hauptstadt, Victoire
+               nach Wuthenow, dem alten Familiengute, das ihr, von einem früheren Besuche her (als
                Schachs Mutter noch lebte), in dankbarer und freundlicher Erinnerung war. Und war
                auch das Gut inzwischen in Pacht gegeben, so war doch noch das Schloß da, stand frei
                zur Verfügung und konnte jeden Augenblick bezogen werden.</p>
@@ -2452,26 +2461,26 @@
             <p>Armer Schach! Es war anders in den Sternen geschrieben.</p>
             <p>Die Woche, die bis zur Verlobungsanzeige vergehen sollte, war noch nicht um, als ihm
                ein Brief mit voller Titelaufschrift und einem großen roten Siegel ins Haus geschickt
-               wurde. Den <pb/> ersten Augenblick hielt er's für ein amtliches Schreiben (vielleicht
-               eine Bestallung) und zögerte mit dem Öffnen, um die Vorfreude der Erwartung nicht
-               abzukürzen. Aber woher kam es? von wem? Er prüfte neugierig das Siegel und erkannte
-               nun leicht, daß es überhaupt kein Siegel, sondern ein Gemmenabdruck sei. Sonderbar.
-               Und nun erbrach er's, und ein Bild fiel ihm entgegen, eine radierte Skizze mit der
-               Unterschrift: »Le choix du Schach«. Er wiederholte sich das Wort, ohne sich in ihm
-               oder dem Bilde selbst zurechtfinden zu können, und empfand nur ganz allgemein und
-               aufs Unbestimmte hin etwas von Angriff und Gefahr. Und wirklich, als er sich
-               orientiert hatte, sah er, daß sein erstes Gefühl ein richtiges gewesen war. Unter
-               einem Thronhimmel saß der persische Schach, erkennbar an seiner hohen Lammfellmütze,
-               während an der untersten Thronstufe zwei weibliche Gestalten standen und des
-               Augenblicks harrten, wo der von seiner Höhe her kalt und vornehm Dreinschauende seine
-               Wahl zwischen ihnen getroffen haben würde. Der persische Schach aber war einfach
-               unser Schach, und zwar in allerfrappantester Porträtähnlichkeit, während die beiden
-               ihn fragend anblickenden und um vieles flüchtiger skizzierten Frauenköpfe wenigstens
-               ähnlich genug waren, um Frau von Carayon und Victoire mit aller Leichtigkeit erkennen
-               zu lassen. Also nicht mehr und nicht weniger als eine Karikatur. Sein Verhältnis zu
-               den Carayons hatte sich in der Stadt herumgesprochen, und einer seiner Neider und
-               Gegner, deren er nur zu viele hatte, hatte die Gelegenheit ergriffen, seinem
-               boshaften Gelüst ein Genüge zu tun.</p>
+               wurde. Den <pb facs="#"/> ersten Augenblick hielt er's für ein amtliches Schreiben
+               (vielleicht eine Bestallung) und zögerte mit dem Öffnen, um die Vorfreude der
+               Erwartung nicht abzukürzen. Aber woher kam es? von wem? Er prüfte neugierig das
+               Siegel und erkannte nun leicht, daß es überhaupt kein Siegel, sondern ein
+               Gemmenabdruck sei. Sonderbar. Und nun erbrach er's, und ein Bild fiel ihm entgegen,
+               eine radierte Skizze mit der Unterschrift: »Le choix du Schach«. Er wiederholte sich
+               das Wort, ohne sich in ihm oder dem Bilde selbst zurechtfinden zu können, und empfand
+               nur ganz allgemein und aufs Unbestimmte hin etwas von Angriff und Gefahr. Und
+               wirklich, als er sich orientiert hatte, sah er, daß sein erstes Gefühl ein richtiges
+               gewesen war. Unter einem Thronhimmel saß der persische Schach, erkennbar an seiner
+               hohen Lammfellmütze, während an der untersten Thronstufe zwei weibliche Gestalten
+               standen und des Augenblicks harrten, wo der von seiner Höhe her kalt und vornehm
+               Dreinschauende seine Wahl zwischen ihnen getroffen haben würde. Der persische Schach
+               aber war einfach unser Schach, und zwar in allerfrappantester Porträtähnlichkeit,
+               während die beiden ihn fragend anblickenden und um vieles flüchtiger skizzierten
+               Frauenköpfe wenigstens ähnlich genug waren, um Frau von Carayon und Victoire mit
+               aller Leichtigkeit erkennen zu lassen. Also nicht mehr und nicht weniger als eine
+               Karikatur. Sein Verhältnis zu den Carayons hatte sich in der Stadt herumgesprochen,
+               und einer seiner Neider und Gegner, deren er nur zu viele hatte, hatte die
+               Gelegenheit ergriffen, seinem boshaften Gelüst ein Genüge zu tun.</p>
             <p>Schach zitterte vor Scham und Zorn, alles Blut stieg ihm zu Kopf, und es war ihm, als
                würd er vom Schlage getroffen.</p>
             <p>Einem natürlichen Verlangen nach Luft und Bewegung folgend, oder vielleicht auch von
@@ -2479,14 +2488,14 @@
                Degen, um einen Spaziergang zu machen. Begegnungen und Geplauder sollten ihn
                zerstreuen, ihm seine Ruhe wiedergeben. Was war es denn schließlich? Ein kleinlicher
                Akt der Rache.</p>
-            <p>Die Frische draußen tat ihm wohl; er atmete freier und hatte <pb/> seine gute Laune
-               fast schon wiedergewonnen, als er, vom Wilhelmsplatz her in die Linden einbiegend,
-               auf die schattigere Seite der Straße hinüberging, um hier ein paar Bekannte, die des
-               Wegs kamen, anzusprechen. Sie vermieden aber ein Gespräch und wurden sichtlich
-               verlegen. Auch Zieten kam, grüßte nonchalant und, wenn nicht alles täuschte, sogar
-               mit hämischer Miene. Schach sah ihm nach und sann und überlegte noch, was die
-               Suffisance des einen und die verlegenen Gesichter der andern bedeutet haben mochten,
-               als er, einige hundert Schritte weiter aufwärts, einer ungewöhnlich großen
+            <p>Die Frische draußen tat ihm wohl; er atmete freier und hatte <pb facs="#"/> seine
+               gute Laune fast schon wiedergewonnen, als er, vom Wilhelmsplatz her in die Linden
+               einbiegend, auf die schattigere Seite der Straße hinüberging, um hier ein paar
+               Bekannte, die des Wegs kamen, anzusprechen. Sie vermieden aber ein Gespräch und
+               wurden sichtlich verlegen. Auch Zieten kam, grüßte nonchalant und, wenn nicht alles
+               täuschte, sogar mit hämischer Miene. Schach sah ihm nach und sann und überlegte noch,
+               was die Suffisance des einen und die verlegenen Gesichter der andern bedeutet haben
+               mochten, als er, einige hundert Schritte weiter aufwärts, einer ungewöhnlich großen
                Menschenmenge gewahr wurde, die vor einem kleinen Bilderladen stand. Einige lachten,
                andre schwatzten, alle jedoch schienen zu fragen, »was es eigentlich sei?« Schach
                ging im Bogen um die Zuschauermenge herum, warf einen Blick über ihre Köpfe weg und
@@ -2507,7 +2516,7 @@
 
             <p>Sander warf nur einen flüchtigen Blick auf das Bild, das er kannte, setzte sich an
                sein Pult und antwortete:</p>
-            <p>»Mon genéral! Ich brauche dem Ursprunge nicht nachzugehen, <pb/> er ist mir
+            <p>»Mon genéral! Ich brauche dem Ursprunge nicht nachzugehen, <pb facs="#"/> er ist mir
                nachgegangen. Vor etwa vier, fünf Tagen erschien ein Herr in meinem Kontor und
                befragte mich, ob ich mich dazu verstehen würde, den Vertrieb einiger Zeichnungen in
                die Hand zu nehmen. Als ich sah, um was es sich handelte, lehnt ich ab. Es waren drei
@@ -2534,9 +2543,9 @@
                schönen Mutter ab- und der unschönen Tochter zugewandt. Über das Motiv erging man
                sich in allerlei Mutmaßungen, ohne dabei das Richtige zu treffen.</p>
             <p>Schach empfing auch die beiden andern Blätter unter Couvert. Das Siegel blieb
-               dasselbe. Blatt zwei hieß »La gazza ladra« <pb/> oder »Die diebische Schach-Elster«
-               und stellte eine Elster dar, die, zwei Ringe von ungleichem Werte musternd, den
-               unscheinbareren aus der Schmuckschale nimmt.</p>
+               dasselbe. Blatt zwei hieß »La gazza ladra« <pb facs="#"/> oder »Die diebische
+               Schach-Elster« und stellte eine Elster dar, die, zwei Ringe von ungleichem Werte
+               musternd, den unscheinbareren aus der Schmuckschale nimmt.</p>
             <p>Am weitaus verletzendsten aber berührte das den Salon der Frau von Carayon als
                Szenerie nehmende dritte Blatt. Auf dem Tische stand ein Schachbrett, dessen Figuren,
                wie nach einem verlorengegangenen Spiel und wie um die Niederlage zu besiegeln,
@@ -2552,8 +2561,8 @@
                verabschiedet zu haben.</p>
          </div>
          <div type="chapter">
-            <p>Vierzehntes Kapitel</p>
-            <p>In Wuthenow am See</p>
+            <head>Vierzehntes Kapitel</head>
+            <head>In Wuthenow am See</head>
             <p>Es schlug Mitternacht, als Schach in Wuthenow eintraf, an dessen entgegengesetzter
                Seite das auf einem Hügel erbaute, den Ruppiner See nach rechts und links hin
                überblickende Schloß Wuthenow lag. In den Häusern und Hütten war alles längst in
@@ -2561,8 +2570,8 @@
                oder das halblaute Brüllen einer Kuh.</p>
             <p>Schach passierte das Dorf und bog am Ausgang in einen schmalen Feldweg ein, der,
                allmählich ansteigend, auf den Schloßhügel hinaufführte. Rechts lagen die Bäume des
-               Außenparks, links eine gemähte Wiese, deren Heugeruch die Luft erfüllte. <pb/> Das
-               Schloß selbst aber war nichts als ein alter, weißgetünchter und von einer
+               Außenparks, links eine gemähte Wiese, deren Heugeruch die Luft erfüllte. <pb facs="#"
+               /> Das Schloß selbst aber war nichts als ein alter, weißgetünchter und von einer
                schwarzgeteerten Balkenlage durchzogener Fachwerkbau, dem erst Schachs Mutter, die
                »verstorbene Gnädige«, durch ein Doppeldach, einen Blitzableiter und eine prächtige,
                nach dem Muster von Sanssouci hergerichtete Terrasse das Ansehen allernüchternster
@@ -2588,8 +2597,8 @@
                angelegten Laden halb öffnete: »Laß dir Zeit, Alter.«</p>
             <p>Aber der Alte war schon aus dem Bette heraus und sagte nur immer, während er hin und
                her suchte: »Glieks, junge Herr, glieks. Man noch en beten.«</p>
-            <p>Und wirklich nicht lange, so sah Schach einen Schwefelfaden <pb/> brennen und hörte,
-               daß eine Laternentür auf- und wieder zugeknipst wurde. Richtig, ein erster
+            <p>Und wirklich nicht lange, so sah Schach einen Schwefelfaden <pb facs="#"/> brennen
+               und hörte, daß eine Laternentür auf- und wieder zugeknipst wurde. Richtig, ein erster
                Lichtschein blitzte jetzt durch die Scheiben, und ein Paar Holzpantinen klappten über
                den Lehmflur hin. Und nun wurde der Riegel zurückgeschoben, und Krist, der in aller
                Eile nichts als ein leinenes Beinkleid übergezogen hatte, stand vor seinem jungen
@@ -2616,19 +2625,19 @@
                sich denn auch die Schritte beider, und als Krist die halb verquollene Tür nicht ohne
                Müh und Anstrengung geöffnet hatte, trat man ein.</p>
             <p>Unter dem vielen, was an Kunst- und Erinnerungsgegenständen in diesem Gartensalon
-               umherstand, war auch ein bronzener <pb/> Doppelleuchter, den Schach selber, vor drei
-               Jahren erst, von seiner italienischen Reise mit nach Hause gebracht und seiner Mutter
-               verehrt hatte. Diesen Leuchter nahm jetzt Krist vom Kamin und zündete die beiden
-               Wachslichter an, die seit lange schon in den Leuchtertellern steckten und ihrerzeit
-               der verstorbenen Gnädigen zum Siegeln ihrer Briefe gedient hatten. Die Gnädige selbst
-               aber war erst seit einem Jahre tot, und da Schach, von jener Zeit an, nicht wieder
-               hiergewesen war, so hatte noch alles den alten Platz. Ein paar kleine Sofas standen
-               wie früher an den Schmalseiten einander gegenüber, während zwei größere die Mitte der
-               Längswand einnahmen und nichts als die vergoldete Rokokodoppeltür zwischen sich
-               hatten. Auch der runde Rosenholztisch (ein Stolz der Generalin) und die große
-               Marmorschale, darin alabasterne Weintrauben und Orangen und ein Pinienapfel lagen,
-               standen unverändert an ihrem Platz. In dem ganzen Zimmer aber, das seit lange nicht
-               gelüftet war, war eine stickige Schwüle.</p>
+               umherstand, war auch ein bronzener <pb facs="#"/> Doppelleuchter, den Schach selber,
+               vor drei Jahren erst, von seiner italienischen Reise mit nach Hause gebracht und
+               seiner Mutter verehrt hatte. Diesen Leuchter nahm jetzt Krist vom Kamin und zündete
+               die beiden Wachslichter an, die seit lange schon in den Leuchtertellern steckten und
+               ihrerzeit der verstorbenen Gnädigen zum Siegeln ihrer Briefe gedient hatten. Die
+               Gnädige selbst aber war erst seit einem Jahre tot, und da Schach, von jener Zeit an,
+               nicht wieder hiergewesen war, so hatte noch alles den alten Platz. Ein paar kleine
+               Sofas standen wie früher an den Schmalseiten einander gegenüber, während zwei größere
+               die Mitte der Längswand einnahmen und nichts als die vergoldete Rokokodoppeltür
+               zwischen sich hatten. Auch der runde Rosenholztisch (ein Stolz der Generalin) und die
+               große Marmorschale, darin alabasterne Weintrauben und Orangen und ein Pinienapfel
+               lagen, standen unverändert an ihrem Platz. In dem ganzen Zimmer aber, das seit lange
+               nicht gelüftet war, war eine stickige Schwüle.</p>
             <p>»Mach ein Fenster auf«, sagte Schach. »Und dann gib mir eine Decke. Die da.«</p>
             <p>»Wullen S' sich denn hier henleggen, junge Herr?«</p>
             <p>»Ja, Krist. Ich habe schon schlechter gelegen.«</p>
@@ -2642,8 +2651,8 @@
                hatte, wenigstens aus dem Gröbsten herauszubringen. Aber der dichte Staub, der
                aufstieg, zeigte nur das Vergebliche solcher Bemühungen, und Schach sagte mit einem
                Anfluge von guter Laune: »Störe den Staub nicht in seinem Frieden.« Und erst als er's
-               gesprochen hatte, fiel ihm der Doppelsinn <pb/> darin auf, und er gedachte der
-               Eltern, die drunten in der Dorfkirche in großen Kupfersärgen und mit einem
+               gesprochen hatte, fiel ihm der Doppelsinn <pb facs="#"/> darin auf, und er gedachte
+               der Eltern, die drunten in der Dorfkirche in großen Kupfersärgen und mit einem
                aufgelöteten Kruzifix darauf in der alten Gruft der Familie standen.</p>
             <p>Aber er hing dem Bilde nicht weiter nach und warf sich aufs Sofa. »Meinem Schimmel
                gib ein Stück Brot und einen Eimer Wasser; dann hält er aus bis morgen. Und nun
@@ -2669,8 +2678,8 @@
                Störenfriede wieder hinauszujagen. Aber das unter diesem Jagen und Schlagen immer nur
                ängstlicher werdende Geziefer schien sich zu verdoppeln und summte nur dichter und
                lauter als vorher um ihn herum. An Schlaf war nicht mehr zu denken, und so trat er
-               denn ans offne Fenster <pb/> und sprang hinaus, um, draußen umhergehend, den Morgen
-               abzuwarten.</p>
+               denn ans offne Fenster <pb facs="#"/> und sprang hinaus, um, draußen umhergehend, den
+               Morgen abzuwarten.</p>
             <p>Er sah nach der Uhr. Halb zwei. Die dicht vor dem Salon gelegene Gartenanlage bestand
                aus einem Rondel mit Sonnenuhr, um das herum, in meist dreieckigen und von Buchsbaum
                eingefaßten Beeten, allerlei Sommerblumen blühten: Reseda und Rittersporn und Lilien
@@ -2696,9 +2705,10 @@
                sich auch nur im geringsten um sie zu kümmern oder ihrer Bedeutung nachzuforschen;
                heut aber blieb er stehn und freute sich besonders aller derer, denen die Köpfe
                fehlten, weil sie die dunkelsten und unverständlichsten waren und sich am schwersten
-               <pb/> erraten ließen. Endlich war er den Laubengang hinunter, stieg ihn wieder hinauf
-               und wieder hinunter und stand nun am Dorfausgang und hörte, daß es zwei schlug. Oder
-               bedeuteten die beiden Schläge halb? War es halb drei? Nein, es war erst zwei.</p>
+                  <pb facs="#"/> erraten ließen. Endlich war er den Laubengang hinunter, stieg ihn
+               wieder hinauf und wieder hinunter und stand nun am Dorfausgang und hörte, daß es zwei
+               schlug. Oder bedeuteten die beiden Schläge halb? War es halb drei? Nein, es war erst
+               zwei.</p>
             <p>Er gab es auf, das Auf und Nieder seiner Promenade noch weiter fortzusetzen, und
                beschrieb lieber einen Halbkreis um den Fuß des Schloßhügels herum, bis er in Front
                des Schlosses selber war. Und nun sah er hinauf und sah die große Terrasse, die, von
@@ -2725,11 +2735,11 @@
                hörte nichts als ein leises Wehen und Rauschen und den Ton des Wassers, das sich
                glucksend an dem Schilfgürtel brach.</p>
             <p>
-               <pb/> Endlich aber war er in dem großen und eigentlichen See, durch den der Rhin
-               fließt, und die Stelle, wo der Strom ging, ließ sich an einem Gekräusel der sonst
-               spiegelglatten Fläche deutlich erkennen. In diese Strömung bog er jetzt ein, gab dem
-               Boote die rechte Richtung, legte sich und die Ruder ins Binsenstroh und fühlte
-               sofort, wie das Treiben und ein leises Schaukeln begann.</p>
+               <pb facs="#"/> Endlich aber war er in dem großen und eigentlichen See, durch den der
+               Rhin fließt, und die Stelle, wo der Strom ging, ließ sich an einem Gekräusel der
+               sonst spiegelglatten Fläche deutlich erkennen. In diese Strömung bog er jetzt ein,
+               gab dem Boote die rechte Richtung, legte sich und die Ruder ins Binsenstroh und
+               fühlte sofort, wie das Treiben und ein leises Schaukeln begann.</p>
             <p>Immer blasser wurden die Sterne, der Himmel rötete sich im Osten, und er schlief
                ein.</p>
             <p>Als er erwachte, war das mit dem Strom gehende Boot schon weit über die Stelle
@@ -2752,12 +2762,12 @@
                »Est-elle riche?« – »Sans doute.« – »Ah, je comprends.«</p>
             <p>Unter so wechselnden Bildern und Betrachtungen bog er wieder in die kurz vorher so
                stille Bucht ein, in deren Schilf jetzt ein buntes und bewegtes Leben herrschte. Die
-               darin nistenden Vögel kreischten oder gurrten, ein paar Kiebitze flogen <pb/> auf,
-               und eine Wildente, die sich neugierig umsah, tauchte nieder, als das Boot plötzlich
-               in Sicht kam. Eine Minute später, und Schach hielt wieder am Steg, schlang die Kette
-               fest um den Pflock und stieg unter Vermeidung jedes Umwegs die Terrasse hinauf, auf
-               deren oberstem Absatz er Krists Frau, der alten Mutter Kreepschen, begegnete, die
-               schon auf war, um ihrer Ziege das erste Grünfutter zu bringen.</p>
+               darin nistenden Vögel kreischten oder gurrten, ein paar Kiebitze flogen <pb facs="#"
+               /> auf, und eine Wildente, die sich neugierig umsah, tauchte nieder, als das Boot
+               plötzlich in Sicht kam. Eine Minute später, und Schach hielt wieder am Steg, schlang
+               die Kette fest um den Pflock und stieg unter Vermeidung jedes Umwegs die Terrasse
+               hinauf, auf deren oberstem Absatz er Krists Frau, der alten Mutter Kreepschen,
+               begegnete, die schon auf war, um ihrer Ziege das erste Grünfutter zu bringen.</p>
             <p>»Tag, Mutter Kreepschen.«</p>
             <p>Die Alte schrak zusammen, ihren drinnen im Gartensalon vermuteten jungen Herrn (um
                dessentwillen sie die Hühner nicht aus dem Stall gelassen hatte, bloß damit ihr
@@ -2781,10 +2791,10 @@
                wohrd se falsch. Und kumm ick denn un will ehr melken, joa, wat jloben Se woll, wat
                se denn deiht? Denn stött se mi. Un ümmer hier in 't Krüz, dicht bi de Hüft. Un
                worümm? Wiel se weet, dat ick doa miene Wehdag hebben deih. Awers nu kummen S' man
-               ihrst in uns Stuw, un setten <pb/> sich en beten dahl. Mien oll Kreepsch is joa nu
-               groad bie 't Pierd und schütt't em wat in. Awers keen Viertelstunn mihr, junge Herr,
-               denn hebben S' ehren Koffe. Un ook wat dato. De oll Semmelfru von Herzberg wihr joa
-               all hier.«</p>
+               ihrst in uns Stuw, un setten <pb facs="#"/> sich en beten dahl. Mien oll Kreepsch is
+               joa nu groad bie 't Pierd und schütt't em wat in. Awers keen Viertelstunn mihr, junge
+               Herr, denn hebben S' ehren Koffe. Un ook wat dato. De oll Semmelfru von Herzberg wihr
+               joa all hier.«</p>
             <p>Unter diesen Worten war Schach in Kreepschens gute Stube getreten. Alles darin war
                sauber und rein, nur die Luft nicht. Ein eigentümlicher Geruch herrschte vor, der von
                einem Pfeffer- und Koriandermixtum herrührte, das die Kreepschen als
@@ -2810,7 +2820,7 @@
                wollte, klangen vom Dorfe her die Kirchenglocken herauf.</p>
             <p>»Was ist denn das?« fragte Schach. »Es kann ja kaum sieben sein.«</p>
             <p>
-               <pb/> »Justement sieben, junge Herr.«</p>
+               <pb facs="#"/> »Justement sieben, junge Herr.«</p>
             <p>»Aber sonst war es doch erst um elf. Und um zwölfe dann Predigt.«</p>
             <p>»Joa, so wihr et. Awers nu nich mihr. Un ümmer den dritt'n Sünndag is et anners. Twee
                Sünndag, wenn de Radenslebensche kümmt, denn is't um twölwen, wiel he joa ihrst in
@@ -2836,9 +2846,9 @@
                er Berlin verlassen, war noch kein Bissen über seine Lippen gekommen. Endlich aber
                stand er auf, um in die Gartentür zu treten, und sah von hier aus über das Rondel und
                die Buchsbaumrabatten und weiter dahinter über die Baumwipfel des Parkes fort, bis
-               sein Auge schließlich <pb/> auf einem sonnenbeschienenen Storchenpaar ausruhte, das
-               unten, am Fuße des Hügels, über eine mit Ampfer und Ranunkel rot und gelb gemusterte
-               Wiese hinschritt.</p>
+               sein Auge schließlich <pb facs="#"/> auf einem sonnenbeschienenen Storchenpaar
+               ausruhte, das unten, am Fuße des Hügels, über eine mit Ampfer und Ranunkel rot und
+               gelb gemusterte Wiese hinschritt.</p>
             <p>Er verfiel im Anblicke dieses Bildes in allerlei Betrachtungen; aber es läutete
                gerade zum dritten Mal, und so ging er denn ins Dorf hinunter, um, von dem
                herrschaftlichen Chorstuhl aus, zu hören, »was ihm der alte Bienengräber zu sagen
@@ -2864,8 +2874,8 @@
                und das hier war das Bild seines eigenen Großvaters, des Obersten im Regiment
                Itzenplitz, der den Hochkirchner Kirchhof mit vierhundert Mann eine Stunde lang
                gehalten hatte. Schließlich fiel er, zerhauen und zerschossen, wie alle die, die mit
-               ihm waren. Und <pb/> dazwischen hingen die Frauen, einige schön, am schönsten aber
-               seine Mutter.</p>
+               ihm waren. Und <pb facs="#"/> dazwischen hingen die Frauen, einige schön, am
+               schönsten aber seine Mutter.</p>
             <p>Als er wieder in dem Gartensalon war, schlug es zwölf. Er warf sich in die Sofaecke,
                legte die Hand über Aug und Stirn und zählte die Schläge. »Zwölf. Jetzt bin ich zwölf
                Stunden hier, und mir ist, als wären es zwölf Jahre... Wie wird es sein? Alltags die
@@ -2886,12 +2896,13 @@
                ähnlich.‹ Oder soll ich ihm geradezu sagen: ›Machen Sie's gnädig‹... Nein, nein!«</p>
          </div>
          <div type="chapter">
-            <p>Fünfzehntes Kapitel</p>
-            <p>Die Schachs und die Carayons</p>
+            <head>Fünfzehntes Kapitel</head>
+            <head>Die Schachs und die Carayons</head>
             <p>Was immer geschieht, geschah auch diesmal: die Carayons erfuhren nichts von dem, was
                die halbe Stadt wußte. Dienstag, wie gewöhnlich, erschien Tante Marguerite, fand
-               Victoiren »um dem Kinn etwas spitz« und warf im Laufe der Tischunterhaltung <pb/>
-               hin: »Wißt ihr denn schon, es sollen ja Karikatüren erschienen sein?«</p>
+               Victoiren »um dem Kinn etwas spitz« und warf im Laufe der Tischunterhaltung <pb
+                  facs="#"/> hin: »Wißt ihr denn schon, es sollen ja Karikatüren erschienen
+               sein?«</p>
             <p>Aber dabei blieb es, da Tante Marguerite jenen alten Gesellschaftsdamen zuzählte, die
                nur immer von allem »gehört haben«, und als Victoire fragte: »Was denn, liebe
                Tante?«, wiederholte sie nur: »Karikatüren, liebes Kind. Ich weiß es ganz genau.« Und
@@ -2917,8 +2928,8 @@
                Und ein Glück, daß Sie standhaft blieben, als man Ihnen den Luther aufzwingen wollte.
                Das hätte mir Ihr Bild ein für allemal verdorben.«</p>
             <p>
-               <pb/> »Und doch, meine Gnädigste, schwankt ich einen Augenblick, ob ich ablehnen
-               sollte.«</p>
+               <pb facs="#"/> »Und doch, meine Gnädigste, schwankt ich einen Augenblick, ob ich
+               ablehnen sollte.«</p>
             <p>»Und weshalb?«</p>
             <p>»Weil unser beiderseitiger Freund unmittelbar vor her abgelehnt hatte. Nachgerade
                widersteht es mir, immer wieder und wieder in seine Fußtapfen zu treten. Gibt es
@@ -2945,7 +2956,8 @@
                Näheres über das von dem Tantchen Angedeutete hören zu wollen.</p>
             <p>Endlich empfahl sich Alvensleben, und Frau von Carayon, alles Zwanges nunmehr los und
                ledig, eilte, während Tränen ihren Augen entstürzten, in Victoirens Zimmer, um ihr
-               die <pb/> Mitteilung von Schachs Flucht zu machen. Denn eine Flucht war es.</p>
+               die <pb facs="#"/> Mitteilung von Schachs Flucht zu machen. Denn eine Flucht war
+               es.</p>
             <p>Victoire folgte jedem Wort. Aber ob es nun ihre Hoffnung und Zuversicht oder
                umgekehrt ihre Resignation war, gleichviel, sie blieb ruhig.</p>
             <p>»Ich bitte dich, urteile nicht zu früh. Ein Brief von ihm wird eintreffen und über
@@ -2971,9 +2983,9 @@
             <p>Victoire sah die Mama mit einem Anfluge schelmischer Verwunderung an.</p>
             <p>»Ja, lache nur, Kind, lache laut, ich verüble dir's nicht. Hast du mich doch selber
                oft genug über diese Dinge lachen sehen. Aber, meine süße Victoire, die Stunden sind
-               nicht gleich, und heute bitt ich deinem Vater ab und dank ihm von Herzen, weil <pb/>
-               er mir in seinem Adelsstolze, mit dem er mich zur Verzweiflung gebracht und aus
-               seiner Nähe hinweggelangweilt hat, eine willkommene Waffe gegen diesen mir
+               nicht gleich, und heute bitt ich deinem Vater ab und dank ihm von Herzen, weil <pb
+                  facs="#"/> er mir in seinem Adelsstolze, mit dem er mich zur Verzweiflung gebracht
+               und aus seiner Nähe hinweggelangweilt hat, eine willkommene Waffe gegen diesen mir
                unerträglichen Dünkel in die Hand gibt. Schach, Schach! Was ist Schach? Ich kenn ihre
                Geschichte nicht und will sie nicht kennen, aber ich wette diese meine Broche gegen
                eine Stecknadel, daß du, wenn du das ganze Geschlecht auf die Tenne wirfst, da, wo
@@ -2999,14 +3011,15 @@
                Carayons, mit vor Jerusalem und eroberten es und befreiten es. Und als sie heimkamen,
                da kamen Sänger an ihren Hof, und sie sangen selbst, und als Victoire de Carayon (ja,
                sie hieß auch Victoire) sich dem großen Grafen von Lusignan vermählte, dessen
-               erlauchter Bruder Großprior des hohen Ordens vom Spital und endlich König <pb/> von
-               Zypern war, da waren wir mit einem Königshause versippt und verschwägert, mit den
-               Lusignans, aus deren großem Hause die schöne Melusine kam, unglücklichen, aber Gott
-               sei Dank unprosaischen Angedenkens. Und von uns Carayons, die wir ganz andere Dinge
-               gesehn haben, will sich dieser Schach abwenden und sich hochmütig zurückziehn? Unsrer
-               will er sich schämen? Er, Schach. Will er es als Schach oder will er es als Grundherr
-               von Wuthenow? Ah, bah! Was ist es denn mit beiden? Schach ist ein blauer Rock mit
-               einem roten Kragen, und Wuthenow ist eine Lehmkate.«</p>
+               erlauchter Bruder Großprior des hohen Ordens vom Spital und endlich König <pb
+                  facs="#"/> von Zypern war, da waren wir mit einem Königshause versippt und
+               verschwägert, mit den Lusignans, aus deren großem Hause die schöne Melusine kam,
+               unglücklichen, aber Gott sei Dank unprosaischen Angedenkens. Und von uns Carayons,
+               die wir ganz andere Dinge gesehn haben, will sich dieser Schach abwenden und sich
+               hochmütig zurückziehn? Unsrer will er sich schämen? Er, Schach. Will er es als Schach
+               oder will er es als Grundherr von Wuthenow? Ah, bah! Was ist es denn mit beiden?
+               Schach ist ein blauer Rock mit einem roten Kragen, und Wuthenow ist eine
+               Lehmkate.«</p>
             <p>»Mama, glaube mir, du tust ihm unrecht. Ich such es nach einer andern Seite hin. Und
                da find ich es auch.«</p>
             <p>Frau von Carayon beugte sich zu Victoire nieder und küßte sie leidenschaftlich. »Ach,
@@ -3028,18 +3041,18 @@
             <p>Frau von Carayon kehrte nach diesem Zwiegespräch in das Eckzimmer zurück, setzte sich
                an Victoirens kleinen Schreibtisch und schrieb.</p>
             <p>
-               <pb/> »Einer Mitteilung Herrn von Alvenslebens entnehm ich, daß Sie, mein Herr von
-               Schach, heute, Sonnabend abend, Berlin verlassen und sich für einen Landaufenthalt in
-               Wuthenow entschieden haben. Ich habe keine Veranlassung, Ihnen diesen Landaufenthalt
-               zu mißgönnen oder Ihre Berechtigung dazu zu bestreiten, muß aber Ihrem Rechte das
-               meiner Tochter gegenüberstellen. Und so gestatten Sie mir denn, Ihnen in Erinnerung
-               zu bringen, daß die Veröffentlichung des Verlöbnisses für morgen, Sonntag, zwischen
-               uns verabredet worden ist. Auf diese Veröffentlichung besteh ich auch heute noch. Ist
-               sie bis Mittwoch früh nicht erfolgt, erfolgen meinerseits andre, durchaus
-               selbständige Schritte. Sosehr dies meiner Natur widerspricht (Victoirens ganz zu
-               geschweigen, die von diesem meinem Schreiben nichts weiß und nur bemüht sein würde,
-               mich daran zu hindern), so lassen mir doch die Verhältnisse, die Sie, das mindeste zu
-               sagen, nur zu gut kennen, keine Wahl. Also bis auf Mittwoch!</p>
+               <pb facs="#"/> »Einer Mitteilung Herrn von Alvenslebens entnehm ich, daß Sie, mein
+               Herr von Schach, heute, Sonnabend abend, Berlin verlassen und sich für einen
+               Landaufenthalt in Wuthenow entschieden haben. Ich habe keine Veranlassung, Ihnen
+               diesen Landaufenthalt zu mißgönnen oder Ihre Berechtigung dazu zu bestreiten, muß
+               aber Ihrem Rechte das meiner Tochter gegenüberstellen. Und so gestatten Sie mir denn,
+               Ihnen in Erinnerung zu bringen, daß die Veröffentlichung des Verlöbnisses für morgen,
+               Sonntag, zwischen uns verabredet worden ist. Auf diese Veröffentlichung besteh ich
+               auch heute noch. Ist sie bis Mittwoch früh nicht erfolgt, erfolgen meinerseits andre,
+               durchaus selbständige Schritte. Sosehr dies meiner Natur widerspricht (Victoirens
+               ganz zu geschweigen, die von diesem meinem Schreiben nichts weiß und nur bemüht sein
+               würde, mich daran zu hindern), so lassen mir doch die Verhältnisse, die Sie, das
+               mindeste zu sagen, nur zu gut kennen, keine Wahl. Also bis auf Mittwoch!</p>
             <!--milestone hi_start-->
             <p>Josephine von Carayon«</p>
             <!--milestone hi_end-->
@@ -3049,23 +3062,24 @@
             <p>Auf Antwort zu warten war ihm eigens untersagt worden.</p>
          </div>
          <div type="chapter">
-            <p>Sechzehntes Kapitel</p>
-            <p>Frau von Carayon und der alte Köckritz</p>
+            <head>Sechzehntes Kapitel</head>
+            <head>Frau von Carayon und der alte Köckritz</head>
             <p>Der Mittwoch kam und ging, ohne daß ein Brief Schachs oder gar die geforderte
                Verlobungsankündigung erschienen wäre. Frau von Carayon hatte dies nicht anders
                erwartet und ihre Vorbereitungen daraufhin getroffen.</p>
             <p>Am Donnerstag früh hielt ein Wagen vor ihrem Hause, der sie nach Potsdam hinüber
                führen sollte, wo sich der König seit einigen Wochen aufhielt. Sie hatte vor, einen
                Fußfall zu tun, ihm den ihr widerfahrenen Affront vorzustellen und seinen Beistand
-               anzurufen. Daß es in des Königs Macht stehen werde, <pb/> diesen Beistand zu gewähren
-               und einen Ausgleich herbeizuführen, war ihr außer Zweifel. Auch über die Mittel und
-               Wege, sich Seiner Majestät zu nähern, hatte sie nachgedacht, und mit gutem Erfolge.
-               Sie kannte den Generaladjutanten von Köckritz, der vor dreißig Jahren und länger, als
-               ein junger Lieutenant oder Stabskapitän, in ihrem elterlichen Hause verkehrt und der
-               »kleinen Josephine«, dem allgemeinen Verzuge, manche Bonbonniere geschenkt hatte. Der
-               war jetzt Liebling des Königs, einflußreichste Person seiner nächsten Umgebung, und
-               durch ihn, zu dem sie wenigstens in oberflächlichen Beziehungen geblieben war, hoffte
-               sie sich einer Audienz versichert halten zu dürfen.</p>
+               anzurufen. Daß es in des Königs Macht stehen werde, <pb facs="#"/> diesen Beistand zu
+               gewähren und einen Ausgleich herbeizuführen, war ihr außer Zweifel. Auch über die
+               Mittel und Wege, sich Seiner Majestät zu nähern, hatte sie nachgedacht, und mit gutem
+               Erfolge. Sie kannte den Generaladjutanten von Köckritz, der vor dreißig Jahren und
+               länger, als ein junger Lieutenant oder Stabskapitän, in ihrem elterlichen Hause
+               verkehrt und der »kleinen Josephine«, dem allgemeinen Verzuge, manche Bonbonniere
+               geschenkt hatte. Der war jetzt Liebling des Königs, einflußreichste Person seiner
+               nächsten Umgebung, und durch ihn, zu dem sie wenigstens in oberflächlichen
+               Beziehungen geblieben war, hoffte sie sich einer Audienz versichert halten zu
+               dürfen.</p>
             <p>Um die Mittagsstunde war Frau von Carayon drüben, stieg im »Einsiedler« ab, ordnete
                ihre Toilette und begab sich sofort ins Schloß. Aber hier mußte sie von einem
                zufällig die Freitreppe herabkommenden Kammerherrn in Erfahrung bringen, daß Seine
@@ -3084,7 +3098,7 @@
                werden konnte. So denn also warten bis morgen! Sie nahm ein kleines Diner, setzte
                sich wenigstens zu Tisch, und schien entschlossen, die langen, langen Stunden in
                Einsamkeit auf ihrem Zimmer zu verbringen. Aber die Gedanken und Bilder, die vor ihr
-               aufstiegen, und vor allem <pb/> die feierlichen Ansprachen, die sie sich zum
+               aufstiegen, und vor allem <pb facs="#"/> die feierlichen Ansprachen, die sie sich zum
                hundertsten Male wiederholte, so lange wiederholte, bis sie zuletzt fühlte, sie
                werde, wenn der Augenblick da sei, kein einziges Wort hervorbringen können – alles
                das gab ihr zuletzt den gesunden Entschluß ein, sich gewaltsam aus ihren Grübeleien
@@ -3111,7 +3125,7 @@
                Mittelgang einbog und gleich danach vor einem aus Backstein aufgeführten, im übrigen
                aber mit Gold und Marmor reich geschmückten Hause hielt.</p>
             <p>
-               <pb/> »Wem gehört es?«</p>
+               <pb facs="#"/> »Wem gehört es?«</p>
             <p>»Dem König.«</p>
             <p>»Und wie heißt es?«</p>
             <p>»Das Marmorpalais.«</p>
@@ -3139,14 +3153,14 @@
                war hell und licht.</p>
             <p>Am andern Morgen erschien, wie verabredet, ihre nun wieder ausgeruhte Berliner
                Equipage vor dem Hotel; da sie jedoch allen Grund hatte, der Kenntnis und Umsicht
-               ihres eigenen <pb/> Kutschers zu mißtrauen, engagierte sie, wie zur Aushilfe,
-               denselben Lohndiener wieder, der sich gestern, aller kleinen Eigenheiten seines
-               Standes unerachtet, so vorzüglich bewährt hatte. Das gelang ihm denn auch heute
-               wieder. Er wußte von jedem Dorf und Lustschloß, an dem man vorüberkam, zu berichten,
-               am meisten von Marquardt, aus dessen Parke, zu wenigstens vorübergehendem Interesse
-               der Frau von Carayon, jenes Gartenhäuschen hervorschimmerte, darin unter Zutun und
-               Anleitung des Generals von Bischofswerder dem »dicken Könige« (wie sich der immer
-               konfidentieller werdende Cicerone jetzt ohne weiteres ausdrückte) die Geister
+               ihres eigenen <pb facs="#"/> Kutschers zu mißtrauen, engagierte sie, wie zur
+               Aushilfe, denselben Lohndiener wieder, der sich gestern, aller kleinen Eigenheiten
+               seines Standes unerachtet, so vorzüglich bewährt hatte. Das gelang ihm denn auch
+               heute wieder. Er wußte von jedem Dorf und Lustschloß, an dem man vorüberkam, zu
+               berichten, am meisten von Marquardt, aus dessen Parke, zu wenigstens vorübergehendem
+               Interesse der Frau von Carayon, jenes Gartenhäuschen hervorschimmerte, darin unter
+               Zutun und Anleitung des Generals von Bischofswerder dem »dicken Könige« (wie sich der
+               immer konfidentieller werdende Cicerone jetzt ohne weiteres ausdrückte) die Geister
                erschienen waren.</p>
             <p>Eine Viertelmeile hinter Marquardt hatte man die Wublitz, einen von Mummeln
                überblühten Havelarm, zu passieren, dann folgten Äcker und Wiesengründe, die hoch in
@@ -3168,9 +3182,9 @@
             <p>»Frau von Carayon.«</p>
             <p>Der Lakai verneigte sich und kam mit der Antwort zurück: »Der Herr General lasse
                bitten, in das Vorzimmer einzutreten.«</p>
-            <p>Frau von Carayon hatte nicht lange zu warten. General von <pb/> Köckritz, von dem die
-               Sage ging, daß er außer seiner leidenschaftlichen Liebe zu seinem Könige keine
-               weitere Passion als eine Pfeife Tabak und einen Rubber Whist habe, trat ihr von
+            <p>Frau von Carayon hatte nicht lange zu warten. General von <pb facs="#"/> Köckritz,
+               von dem die Sage ging, daß er außer seiner leidenschaftlichen Liebe zu seinem Könige
+               keine weitere Passion als eine Pfeife Tabak und einen Rubber Whist habe, trat ihr von
                seinem Arbeitszimmer her entgegen, entsann sich sofort der alten Zeit und bat sie mit
                verbindlichster Handbewegung, Platz zu nehmen. Sein ganzes Wesen hatte so sehr den
                Ausdruck des Gütigen und Vertrauenerweckenden, daß die Frage nach seiner Klugheit nur
@@ -3196,21 +3210,21 @@
                Sachen, Sachen, von denen Seine Majestät nicht zu hören liebt, weshalb ich im
                allgemeinen darüber zu schweigen pflege, wohlverstanden, solange nicht Abhilfe zu
                schaffen und überhaupt nichts zu bessern ist. Hier aber ist zu bessern, und ich würde
-               meine Pflicht <pb/> versäumen und Seiner Majestät einen schlechten Dienst erweisen,
-               wenn ich ihm einen Fall wie den Ihrigen vorenthalten oder, da Sie selber gekommen
-               sind, Ihre Sache vorzutragen, Sie, meine gnädigste Frau, durch künstlich erfundene
-               Schwierigkeiten an solchem Vortrage behindern wollte. Denn solche Schwierigkeiten
-               sind allemalen erfundene Schwierigkeiten in einem Lande wie das unsre, wo von alter
-               Zeit her die Fürsten und Könige das Recht ihres Volkes wollen und nicht gesonnen
-               sind, der Forderung eines solchen Rechtes bequem aus dem Wege zu gehen. Am
-               allerwenigsten aber mein Allergnädigster König und Herr, der ein starkes Gefühl für
-               das Ebenmäßige des Rechts und eben deshalb einen wahren Widerwillen und rechten
-               Herzensabscheu gegen alle diejenigen hat, die sich, wie manche Herren Offiziers,
-               insonderheit aber die sonst so braven und tapfren Offiziers von Dero Regiment
-               Gensdarmes, aus einem schlechten Dünkel allerlei Narretei zu permittieren geneigt
-               sind und es für angemessen und löblich oder doch zum mindesten für nicht unstatthaft
-               halten, das Glück und den Ruf andrer ihrem Übermut und ihrer schlechten Moralité zu
-               opfern.«</p>
+               meine Pflicht <pb facs="#"/> versäumen und Seiner Majestät einen schlechten Dienst
+               erweisen, wenn ich ihm einen Fall wie den Ihrigen vorenthalten oder, da Sie selber
+               gekommen sind, Ihre Sache vorzutragen, Sie, meine gnädigste Frau, durch künstlich
+               erfundene Schwierigkeiten an solchem Vortrage behindern wollte. Denn solche
+               Schwierigkeiten sind allemalen erfundene Schwierigkeiten in einem Lande wie das
+               unsre, wo von alter Zeit her die Fürsten und Könige das Recht ihres Volkes wollen und
+               nicht gesonnen sind, der Forderung eines solchen Rechtes bequem aus dem Wege zu
+               gehen. Am allerwenigsten aber mein Allergnädigster König und Herr, der ein starkes
+               Gefühl für das Ebenmäßige des Rechts und eben deshalb einen wahren Widerwillen und
+               rechten Herzensabscheu gegen alle diejenigen hat, die sich, wie manche Herren
+               Offiziers, insonderheit aber die sonst so braven und tapfren Offiziers von Dero
+               Regiment Gensdarmes, aus einem schlechten Dünkel allerlei Narretei zu permittieren
+               geneigt sind und es für angemessen und löblich oder doch zum mindesten für nicht
+               unstatthaft halten, das Glück und den Ruf andrer ihrem Übermut und ihrer schlechten
+               Moralité zu opfern.«</p>
             <p>Frau von Carayons Augen füllten sich mit Tränen. »Que vous êtes bon, mon cher
                général.«</p>
             <p>»Nicht ich, meine teure Frau. Aber mein Allergnädigster König und Herr, der ist gut.
@@ -3223,7 +3237,7 @@
                eine Streitsache von so delikater Natur. Ja, wirklich ein Schabernack ist es und ein
                rechtes Schnippchen, das ihm die Laune der Frau Fortuna schlägt. Er will sich seines
                Liebesglückes freuen (Sie wissen, wie sehr er die Königin liebt), und in demselben
-               Augenblicke fast, der ihm sein Liebesglück bringen soll, hört er eine <pb/>
+               Augenblicke fast, der ihm sein Liebesglück bringen soll, hört er eine <pb facs="#"/>
                Geschichte von unglücklicher Liebe. Das verstimmt ihn. Aber er ist zu gütig, um
                dieser Verstimmung nicht Herr zu werden, und treffen wir's nur einigermaßen leidlich,
                so müssen wir uns aus eben diesem Zusammentreffen auch noch einen besonderen Vorteil
@@ -3252,9 +3266,9 @@
                zurückgeblieben) der König auf einer Steinbank saß.</p>
             <p>Er erhob sich, als er die schöne Frau sich nähern sah, und trat ihr ernst und
                freundlich entgegen. Frau von Carayon wolte sich auf ein Knie niederlassen, der König
-               aber litt es nicht, <pb/> nahm sie vielmehr aufrichtend bei der Hand und sagte: »Frau
-               von Carayon? Mir sehr wohl bekannt... Erinnre Kinderball... schöne Tochter...
-               Damals...«</p>
+               aber litt es nicht, <pb facs="#"/> nahm sie vielmehr aufrichtend bei der Hand und
+               sagte: »Frau von Carayon? Mir sehr wohl bekannt... Erinnre Kinderball... schöne
+               Tochter... Damals...«</p>
             <p>Er schwieg einen Augenblick, entweder in Verlegenheit über das ihm entschlüpfte
                letzte Wort oder aber aus Mitgefühl mit der tiefen Bewegung der unglücklichen und
                beinah zitternd vor ihm stehenden Mutter, und fuhr dann fort: »Köckeritz mir eben
@@ -3262,8 +3276,8 @@
                Mut... Und nun sprechen Sie.«</p>
          </div>
          <div type="chapter">
-            <p>Siebzehntes Kapitel</p>
-            <p>Schach in Charlottenburg</p>
+            <head>Siebzehntes Kapitel</head>
+            <head>Schach in Charlottenburg</head>
             <p>Eine Woche später hatten König und Königin Paretz wieder verlassen, und schon am Tage
                danach ritt Rittmeister von Schach in Veranlassung eines ihm in Schloß Wuthenow
                übergebenen Cabinetsschreibens nach Charlottenburg hinaus, wohin inzwischen der Hof
@@ -3279,13 +3293,13 @@
                ein paar Offiziere von Schachs Regiment. Schach erwiderte ihren Gruß, passierte den
                Landwehrgraben und ritt bald danach in die breite Charlottenburger Hauptstraße mit
                ihren Sommerhäusern und Vorgärten ein.</p>
-            <p>Am Türkischen Zelt, das sonst wohl sein Ziel zu sein pflegte, <pb/> wollte sein Pferd
-               einbiegen; er zwang es aber weiter und hielt erst bei dem Morellischen Kaffeehause,
-               das ihm heute für den Gang, den er vorhatte, bequemer gelegen war. Er schwang sich
-               aus dem Sattel, gab der Ordonnanz den Zügel und ging ohne Versäumnis auf das Schloß
-               zu. Hier trat er nach Passierung eines öden und von der Julisonne längst verbrannten
-               Grasvierecks erst in ein geräumiges Treppenhaus und bald danach in einen schmalen
-               Korridor ein, an dessen Wänden in anscheinend überlebensgroßen Porträts die
+            <p>Am Türkischen Zelt, das sonst wohl sein Ziel zu sein pflegte, <pb facs="#"/> wollte
+               sein Pferd einbiegen; er zwang es aber weiter und hielt erst bei dem Morellischen
+               Kaffeehause, das ihm heute für den Gang, den er vorhatte, bequemer gelegen war. Er
+               schwang sich aus dem Sattel, gab der Ordonnanz den Zügel und ging ohne Versäumnis auf
+               das Schloß zu. Hier trat er nach Passierung eines öden und von der Julisonne längst
+               verbrannten Grasvierecks erst in ein geräumiges Treppenhaus und bald danach in einen
+               schmalen Korridor ein, an dessen Wänden in anscheinend überlebensgroßen Porträts die
                glotzäugigen blauen Riesen König Friedrich Wilhelms I. paradierten. Am Ende dieses
                Ganges aber traf er einen Kammerdiener, der ihn, nach vorgängiger Meldung, in das
                Arbeitscabinet des Königs führte.</p>
@@ -3309,7 +3323,7 @@
                Töchtern (Pardon, lieber Schach) die Stiftsanwartschaft auf Marienfließ oder
                Heiligengrabe nicht verderben. Abgemacht also.</p>
             <p>
-               <pb/> Rechne darauf, dringe darauf. Und werden mir Meldung machen.«</p>
+               <pb facs="#"/> Rechne darauf, dringe darauf. Und werden mir Meldung machen.«</p>
             <p>»Zu Befehl, Euer Majestät.«</p>
             <p>»Und noch eines; habe mit der Königin darüber gesprochen; will Sie sehn; Frauenlaune.
                Werden sie drüben in der Orangerie treffen... Dank Ihnen.«</p>
@@ -3337,16 +3351,16 @@
                ich von Pyrmont wieder in Paretz eintraf, und ich kann Ihnen kaum aussprechen, wie
                groß meine Teilnahme mit dem Fräulein war.</p>
             <p>
-               <pb/> Und nun wollen Sie, gerade Sie, dem lieben Kinde diese Teilnahme versagen und
-               mit dieser Teilnahme zugleich sein Recht. Das ist unmöglich. Ich kenne Sie so lange
-               Zeit und habe Sie jederzeit als einen Kavalier und Mann von Ehre befunden. Und dabei,
-               denk ich, belassen wir's. Ich habe von den Spottbildern gehört, die publiziert worden
-               sind, und diese Bilder, so nehm ich an, haben Sie verwirrt und Ihnen Ihr ruhiges
-               Urteil genommen. Ich begreife das, weiß ich doch aus allereigenster Erfahrung, wie
-               weh dergleichen tut und wie der giftige Pfeil uns nicht bloß in unserem Gemüte
-               verwundet, sondern auch verwandelt und nicht verwandelt zum Besseren. Aber wie dem
-               auch sei, Sie mußten sich auf sich selbst besinnen und damit zugleich auch auf das,
-               was Pflicht und Ehre von Ihnen fordern.«</p>
+               <pb facs="#"/> Und nun wollen Sie, gerade Sie, dem lieben Kinde diese Teilnahme
+               versagen und mit dieser Teilnahme zugleich sein Recht. Das ist unmöglich. Ich kenne
+               Sie so lange Zeit und habe Sie jederzeit als einen Kavalier und Mann von Ehre
+               befunden. Und dabei, denk ich, belassen wir's. Ich habe von den Spottbildern gehört,
+               die publiziert worden sind, und diese Bilder, so nehm ich an, haben Sie verwirrt und
+               Ihnen Ihr ruhiges Urteil genommen. Ich begreife das, weiß ich doch aus allereigenster
+               Erfahrung, wie weh dergleichen tut und wie der giftige Pfeil uns nicht bloß in
+               unserem Gemüte verwundet, sondern auch verwandelt und nicht verwandelt zum Besseren.
+               Aber wie dem auch sei, Sie mußten sich auf sich selbst besinnen und damit zugleich
+               auch auf das, was Pflicht und Ehre von Ihnen fordern.«</p>
             <p>Schach schwieg.</p>
             <p>»Und Sie werden es«, fuhr die Königin immer lebhafter werdend fort, »und werden sich
                als einen Reuigen und Bußfertigen zeigen. Es kann Ihnen nicht schwer werden, denn
@@ -3364,9 +3378,9 @@
                Ihrer Königin als erste Taufpatin in Ihr Wuthenower Kirchenbuch eintragen lassen. Und
                nun Gott befohlen.«</p>
             <p>Ein Gruß und eine freundliche Handbewegung begleiteten diese Worte: Schach aber, als
-               er sich kurz vor der Gartenfront <pb/> noch einmal umsah, sah, wie beide Damen in
-               einen Seitenweg einbogen und auf eine schattigere, mehr der Spree zu gelegene Partie
-               des Parkes zuschritten.</p>
+               er sich kurz vor der Gartenfront <pb facs="#"/> noch einmal umsah, sah, wie beide
+               Damen in einen Seitenweg einbogen und auf eine schattigere, mehr der Spree zu
+               gelegene Partie des Parkes zuschritten.</p>
             <p>Er selbst saß eine Viertelstunde später wieder im Sattel; Ordonnanz Baarsch
                folgte.</p>
             <p>Die gnädigen Worte beider Majestäten hatten eines Eindrucks auf ihn nicht verfehlt;
@@ -3393,8 +3407,8 @@
             <p>»Jott, Herr Rittmeister, for Ihnen grade nich, aber for mir...«</p>
             <p>»Wie das?«</p>
             <p>
-               <pb/> »Weil ich mit Untroffzier Czepanski gewett' hab, es würd doch nichts. Un wer
-               verliert, muß die ganze Korporalschaft freihalten.«</p>
+               <pb facs="#"/> »Weil ich mit Untroffzier Czepanski gewett' hab, es würd doch nichts.
+               Un wer verliert, muß die ganze Korporalschaft freihalten.«</p>
             <p>»Aber woher wußtet ihr denn davon?«</p>
             <p>»I Jott, des munkelt ja nu all lang. Un wie nu vorige Woch ooch noch die Bilders
                kamen...«</p>
@@ -3407,8 +3421,8 @@
                cassés.«</p>
          </div>
          <div type="chapter">
-            <p>Achtzehntes Kapitel</p>
-            <p>Fata Morgana</p>
+            <head>Achtzehntes Kapitel</head>
+            <head>Fata Morgana</head>
             <p>Schach war zu guter Stunde wieder heim, und noch denselben Abend schrieb er ein
                Billet an Frau von Carayon, in dem er in anscheinend aufrichtigen Worten um seines
                Benehmens willen um Entschuldigung bat. Ein Cabinetsschreiben, das er vorgestern in
@@ -3421,8 +3435,8 @@
                hinzugefügt, »daß er durch eine Krisis gegangen sei; diese Krisis aber liege jetzt
                hinter ihm, und er hoffe sagen zu dürfen, ein Grund, an ihm oder seinem Rechtsgefühle
                zu zweifeln, werde nicht wiederkehren. Er lebe nur noch dem einen Wunsch und
-               Gedanken, alles, was geschehen <pb/> sei, durch Gesetzlichkeit auszugleichen. Über
-               ein Mehr leg er sich vorläufig Schweigen auf.«</p>
+               Gedanken, alles, was geschehen <pb facs="#"/> sei, durch Gesetzlichkeit
+               auszugleichen. Über ein Mehr leg er sich vorläufig Schweigen auf.«</p>
             <p>Dies Billet, das der kleine Groom überbrachte, wurde, trotz der schon vorgerückten
                Stunde, von Frau von Carayon auf der Stelle beantwortet. Sie freue sich, in seinen
                Zeilen einer so versöhnlichen Sprache zu begegnen. Über alles, was seinem Briefe nach
@@ -3448,12 +3462,12 @@
                heraus entwickelt, und weder die Flucht, die Schach bewerkstelligt, noch die Klage,
                die Frau von Carayon an oberster Stelle geführt hatte, hatten Übelwollen oder
                Gehässigkeit ausdrücken sollen.</p>
-            <p>Als das Gespräch einen Augenblick zu stocken begann, erschien <pb/> Victoire. Sie sah
-               sehr gut aus, nicht abgehärmt, vielmehr frischer als sonst. Er trat ihr entgegen,
-               nicht kalt und zeremoniös, sondern herzlich, und der Ausdruck einer innigen und
-               aufrichtigen Teilnahme, womit er auf sie sah und ihr die Hand reichte, besiegelte den
-               Frieden. Es war kein Zweifel, er war ergriffen, und während Victoire vor Freude
-               strahlte, füllten Tränen das Auge der Mutter.</p>
+            <p>Als das Gespräch einen Augenblick zu stocken begann, erschien <pb facs="#"/>
+               Victoire. Sie sah sehr gut aus, nicht abgehärmt, vielmehr frischer als sonst. Er trat
+               ihr entgegen, nicht kalt und zeremoniös, sondern herzlich, und der Ausdruck einer
+               innigen und aufrichtigen Teilnahme, womit er auf sie sah und ihr die Hand reichte,
+               besiegelte den Frieden. Es war kein Zweifel, er war ergriffen, und während Victoire
+               vor Freude strahlte, füllten Tränen das Auge der Mutter.</p>
             <p>Es war der beste Moment, das Eisen zu schmieden. Sie bat also Schach, der sich schon
                erhoben hatte, seinen Platz noch einmal auf einen kurzen Augenblick einnehmen zu
                wollen, um gemeinschaftlich mit ihm die nötigsten Festsetzungen zu treffen. Was sie
@@ -3474,9 +3488,9 @@
             <p>So ging das Geplauder, und so verging der Besuch.</p>
             <p>Am Sonntage, wie verabredet, erfolgte das Aufgebot, und der Freitag, an dem die
                Hochzeit stattfinden sollte, rückte heran. Alles im Carayonschen Hause war Aufregung,
-               am aufgeregtesten Tante Marguerite, die jetzt täglich erschien und <pb/> durch ihre
-               naive Glückseligkeit alles Unbequeme balancierte, das sonst unzertrennlich von ihrem
-               Erscheinen war.</p>
+               am aufgeregtesten Tante Marguerite, die jetzt täglich erschien und <pb facs="#"/>
+               durch ihre naive Glückseligkeit alles Unbequeme balancierte, das sonst unzertrennlich
+               von ihrem Erscheinen war.</p>
             <p>Abends kam Schach. Er war heitrer und in seinem Urteile milder als sonst und vermied
                nur in ebenso bemerkenswerter wie zum Glück unbemerkt bleibender Weise, von der
                Hochzeit und den Vorbereitungen dazu zu sprechen. Wurd er gefragt, ob er dies oder
@@ -3501,17 +3515,17 @@
                Gestalten ihrer Laterna magica, und während eben noch ein ermüdeter Zug über den
                gelben Sand ziehe, dehne sich's plötzlich wie grüne Triften, und unter der
                schattengebenden Palme säße die Schar der Männer, die Köpfe gebeugt und alle Pfeifen
-               in Brand, und schwarz und braune Mädchen, ihre Flechten gelöst <pb/> und wie zum
-               Tanze geschürzt, erhüben die Becken und schlügen das Tamburin. Und mitunter sei's,
-               als lach es. Und dann schwieg' es und schwänd es wieder. Und diese Spiegelung aus der
-               geheimnisvollen Ferne, das sei das Ziel!</p>
+               in Brand, und schwarz und braune Mädchen, ihre Flechten gelöst <pb facs="#"/> und wie
+               zum Tanze geschürzt, erhüben die Becken und schlügen das Tamburin. Und mitunter
+               sei's, als lach es. Und dann schwieg' es und schwänd es wieder. Und diese Spiegelung
+               aus der geheimnisvollen Ferne, das sei das Ziel!</p>
             <p>Und Victoire jubelte, hingerissen von der Lebhaftigkeit seiner Schilderung.</p>
             <p>Aber im selben Augenblick überkam es sie bang und düster, und in ihrer Seele rief
                eine Stimme: Fata Morgana.</p>
          </div>
          <div type="chapter">
-            <p>Neunzehntes Kapitel</p>
-            <p>Die Hochzeit</p>
+            <head>Neunzehntes Kapitel</head>
+            <head>Die Hochzeit</head>
             <p>Die Trauung hatte stattgefunden, und um die vierte Stunde versammelten sich die zur
                Hochzeit Geladenen in dem nach dem Hofe hinaus gelegenen großen Eßsaale, der für
                gewöhnlich als ein bloßes unbequemes Anhängsel der Carayonschen Wohnung angesehen und
@@ -3529,8 +3543,8 @@
                alter Gegner, war nicht mehr in Berlin und hätte wohl auch gefehlt, wenn er noch
                dagewesen wäre.</p>
             <p>Die Tafelstimmung verharrte bis zum ersten Trinkspruch in der herkömmlichen
-               Feierlichkeit; als indessen der alte Konsistorialrat <pb/> gesprochen und in einem
-               dreigeteilten und als »historischer Rückblick« zu bezeichnenden Toast erst des
+               Feierlichkeit; als indessen der alte Konsistorialrat <pb facs="#"/> gesprochen und in
+               einem dreigeteilten und als »historischer Rückblick« zu bezeichnenden Toast erst des
                großväterlichen Generalfinanzpächterhauses, dann der Trauung der Frau von Carayon und
                drittens (und zwar unter Zitierung des ihr mit auf den Lebensweg gegebenen
                Bibelspruches) der Konfirmation Victoirens gedacht, endlich aber mit einem halb
@@ -3558,9 +3572,9 @@
                Nachmittag an, wo sie die Fahrt nach Tempelhof und den Gang nach der Kürche gemacht
                hätten.</p>
             <p>
-               <pb/> Denn sie hab es wohl gesehen, daß Victoire neben dem großen, für die Mama
-               bestimmten Veilchenstrauß auch noch einen kleinen Strauß in der Hand gehalten hätte,
-               den habe sie dem lieben Bräutigam, dem Herrn von Schach, in der Kürchentüre
+               <pb facs="#"/> Denn sie hab es wohl gesehen, daß Victoire neben dem großen, für die
+               Mama bestimmten Veilchenstrauß auch noch einen kleinen Strauß in der Hand gehalten
+               hätte, den habe sie dem lieben Bräutigam, dem Herrn von Schach, in der Kürchentüre
                präsentieren wollen. Aber als er dann gekommen sei, habe sie das kleine Bouquet
                wieder weggeworfen, und es sei dicht neben der Tür auf ein Kindergrab gefallen, was
                immer etwas bedeute und auch diesmal etwas bedeutet habe. Denn sosehr sie gegen dem
@@ -3586,7 +3600,7 @@
                zu wollen. In allem, was er sagte, sprach sich Freundlichkeit und ein Hang nach
                Versöhnung aus.</p>
             <p>In diesem Hange nach Versöhnung stand er aber nicht allein da, sondern begegnete sich
-               darin mit Frau von Carayon. Als <pb/> ihm diese persönlich eine zweite Tasse
+               darin mit Frau von Carayon. Als <pb facs="#"/> ihm diese persönlich eine zweite Tasse
                präsentierte, sagte sie, während er den Zucker aus der Schale nahm: »Auf ein Wort,
                lieber Schach. Aber im Nebenzimmer.«</p>
             <p>Und sie ging ihm dahin vorauf.</p>
@@ -3614,9 +3628,9 @@
                vergessen lassen konnte.«</p>
             <p>Sie schwieg einen Augenblick. Aber als Schach antworten wollte, litt sie's nicht und
                sagte: »Nur ein Wort noch. Alles, was ich in jenen Tagen gesagt und gedacht habe,
-               bedrückte mich <pb/> und verlangte nach dieser Beichte. Nun erst ist alles wieder
-               klar zwischen uns, und ich kann Ihnen wieder frei ins Auge sehen. Aber nun genug.
-               Kommen Sie. Man wird uns ohnehin schon vermißt haben.«</p>
+               bedrückte mich <pb facs="#"/> und verlangte nach dieser Beichte. Nun erst ist alles
+               wieder klar zwischen uns, und ich kann Ihnen wieder frei ins Auge sehen. Aber nun
+               genug. Kommen Sie. Man wird uns ohnehin schon vermißt haben.«</p>
             <p>Und sie nahm seinen Arm und scherzte: »Nicht wahr? On revient toujours à ses premiers
                amours. Und ein Glück, daß ich es Ihnen lachend aussprechen kann, und in einem
                Momente reiner und ganzer Freude.«</p>
@@ -3641,11 +3655,11 @@
             <p>»Auf Wiedersehn, Mirabelle.«</p>
             <p>Und nachhorchend hörte sie noch seinen Schritt auf dem Flur. Dann fiel die Haustür
                ins Schloß, und der Wagen rollte die Straße hinunter.</p>
-            <p>Auf dem Bocke saßen Ordonnanz Baarsch und der Groom, <pb/> von denen jener sich's
-               eigens ausbedungen hatte, seinen Rittmeister und Gutsherrn an diesem seinem Ehrentage
-               fahren zu dürfen. Was denn auch ohne weiteres bewilligt worden war. Als der Wagen aus
-               der Behren- in die Wilhelmsstraße einbog, gab es einen Ruck oder Schlag, ohne daß ein
-               Stoß von unten her verspürt worden wäre.</p>
+            <p>Auf dem Bocke saßen Ordonnanz Baarsch und der Groom, <pb facs="#"/> von denen jener
+               sich's eigens ausbedungen hatte, seinen Rittmeister und Gutsherrn an diesem seinem
+               Ehrentage fahren zu dürfen. Was denn auch ohne weiteres bewilligt worden war. Als der
+               Wagen aus der Behren- in die Wilhelmsstraße einbog, gab es einen Ruck oder Schlag,
+               ohne daß ein Stoß von unten her verspürt worden wäre.</p>
             <p>»Damn«, sagte der Groom. »What's that?«</p>
             <p>»Wat et is? Wat soll et sind, Kleener? En Steen is et; en doter Feldwebel.«</p>
             <p>»Oh no, Baarsch. Nich stone. 't was something... dear me..., like shooting.«</p>
@@ -3664,30 +3678,30 @@
                alle Bauern.</p>
          </div>
          <div type="chapter">
-            <p>Zwanzigstes Kapitel</p>
-            <p>Bülow an Sander</p>
+            <head>Zwanzigstes Kapitel</head>
+            <head>Bülow an Sander</head>
             <!--milestone head_start-->
             <p> Königsberg, 14. September 1806</p>
             <!--milestone head_end-->
 
             <p>... Sie schreiben mir, lieber Sander, auch von Schach. Das rein Tatsächliche wußt ich
                schon, die Königsberger Zeitung hatte der Sache kurz erwähnt, aber erst Ihrem Briefe
-               verdank ich die Aufklärung, soweit sie gegeben werden kann. Sie kennen meine <pb/>
-               Neigung (und dieser folg ich auch heut), aus dem Einzelnen aufs Ganze zu schließen,
-               aber freilich auch umgekehrt aus dem Ganzen aufs Einzelne, was mit dem Generalisieren
-               zusammenhängt. Es mag das sein Mißliches haben und mich oft zu weit führen. Indessen
-               wenn jemals eine Berechtigung dazu vorlag, so hier, und speziell Sie werden es
-               begreiflich finden, daß mich dieser Schach-Fall, der nur ein Symptom ist, um eben
-               seiner symptomatischen Bedeutung willen aufs ernsteste beschäftigt. Er ist durchaus
-               Zeiterscheinung, aber wohlverstanden mit lokaler Begrenzung, ein in seinen Ursachen
-               ganz abnormer Fall, der sich in dieser Art und Weise nur in Seiner Königlichen
-               Majestät von Preußen Haupt- und Residenzstadt oder, wenn über diese hinaus, immer nur
-               in den Reihen unsrer nachgeborenen friderizianischen Armee zutragen konnte, einer
-               Armee, die statt der Ehre nur noch den Dünkel und statt der Seele nur noch ein
-               Uhrwerk hat – ein Uhrwerk, das bald genug abgelaufen sein wird. Der große König hat
-               diesen schlimmen Zustand der Dinge vorbereitet, aber daß er so schlimm werden konnte,
-               dazu mußten sich die großen Königsaugen erst schließen, vor denen bekanntermaßen
-               jeder mehr erbangte als vor Schlacht und Tod.</p>
+               verdank ich die Aufklärung, soweit sie gegeben werden kann. Sie kennen meine <pb
+                  facs="#"/> Neigung (und dieser folg ich auch heut), aus dem Einzelnen aufs Ganze
+               zu schließen, aber freilich auch umgekehrt aus dem Ganzen aufs Einzelne, was mit dem
+               Generalisieren zusammenhängt. Es mag das sein Mißliches haben und mich oft zu weit
+               führen. Indessen wenn jemals eine Berechtigung dazu vorlag, so hier, und speziell Sie
+               werden es begreiflich finden, daß mich dieser Schach-Fall, der nur ein Symptom ist,
+               um eben seiner symptomatischen Bedeutung willen aufs ernsteste beschäftigt. Er ist
+               durchaus Zeiterscheinung, aber wohlverstanden mit lokaler Begrenzung, ein in seinen
+               Ursachen ganz abnormer Fall, der sich in dieser Art und Weise nur in Seiner
+               Königlichen Majestät von Preußen Haupt- und Residenzstadt oder, wenn über diese
+               hinaus, immer nur in den Reihen unsrer nachgeborenen friderizianischen Armee zutragen
+               konnte, einer Armee, die statt der Ehre nur noch den Dünkel und statt der Seele nur
+               noch ein Uhrwerk hat – ein Uhrwerk, das bald genug abgelaufen sein wird. Der große
+               König hat diesen schlimmen Zustand der Dinge vorbereitet, aber daß er so schlimm
+               werden konnte, dazu mußten sich die großen Königsaugen erst schließen, vor denen
+               bekanntermaßen jeder mehr erbangte als vor Schlacht und Tod.</p>
             <p>Ich habe lange genug dieser Armee angehört, um zu wissen, daß »Ehre« das dritte Wort
                in ihr ist; eine Tänzerin ist charmant »auf Ehre«, eine Schimmelstute magnifique »auf
                Ehre«, ja mir sind Wucherer empfohlen und vorgestellt worden, die superb »auf Ehre«
@@ -3698,22 +3712,22 @@
             <p>Wie lag es denn? Ein Offizier verkehrt in einem adligen Hause; die Mutter gefällt
                ihm, und an einem schönen Maitage gefällt ihm auch die Tochter, vielleicht, oder
                sagen wir lieber sehr wahrscheinlich, weil ihm Prinz Louis eine halbe Woche vorher
-               einen Vortrag über »beauté du diable« gehalten hat. Aber<pb/> gleichviel, sie gefällt
-               ihm, und die Natur zieht ihre Konsequenzen. Was, unter so gegebenen Verhältnissen,
-               wäre nun wohl einfacher und natürlicher gewesen als Ausgleich durch einen Eheschluß,
-               durch eine Verbindung, die weder gegen den äußeren Vorteil noch gegen irgendein
-               Vorurteil verstoßen hätte. Was aber geschieht? Er flieht nach Wuthenow, einfach weil
-               das holde Geschöpf, um das sich's handelt, ein paar Grübchen mehr in der Wange hat,
-               als gerade modisch oder herkömmlich ist, und weil diese »paar Grübchen zuviel« unsren
-               glatten und wie mit Schachtelhalm polierten Schach auf vier Wochen in eine von seinen
-               Feinden bewitzelte Stellung hätten bringen können. Er flieht also, sag ich, löst sich
-               feige von Pflicht und Wort, und als ihn schließlich, um ihn selber sprechen zu
-               lassen, sein »Allergnädigster König und Herr« an Pflicht und Wort erinnert und
-               strikten Gehorsam fordert, da gehorcht er, aber nur, um im Momente des Gehorchens den
-               Gehorsam in einer allerbrüskesten Weise zu brechen. Er kann nun mal Zietens
-               spöttischen Blick nicht ertragen, noch viel weniger einen neuen Ansturm von
-               Karikaturen, und in Angst gesetzt durch einen Schatten, eine Erbsenblase, greift er
-               zu dem alten Auskunftsmittel der Verzweifelten: un peu de poudre.</p>
+               einen Vortrag über »beauté du diable« gehalten hat. Aber<pb facs="#"/> gleichviel,
+               sie gefällt ihm, und die Natur zieht ihre Konsequenzen. Was, unter so gegebenen
+               Verhältnissen, wäre nun wohl einfacher und natürlicher gewesen als Ausgleich durch
+               einen Eheschluß, durch eine Verbindung, die weder gegen den äußeren Vorteil noch
+               gegen irgendein Vorurteil verstoßen hätte. Was aber geschieht? Er flieht nach
+               Wuthenow, einfach weil das holde Geschöpf, um das sich's handelt, ein paar Grübchen
+               mehr in der Wange hat, als gerade modisch oder herkömmlich ist, und weil diese »paar
+               Grübchen zuviel« unsren glatten und wie mit Schachtelhalm polierten Schach auf vier
+               Wochen in eine von seinen Feinden bewitzelte Stellung hätten bringen können. Er
+               flieht also, sag ich, löst sich feige von Pflicht und Wort, und als ihn schließlich,
+               um ihn selber sprechen zu lassen, sein »Allergnädigster König und Herr« an Pflicht
+               und Wort erinnert und strikten Gehorsam fordert, da gehorcht er, aber nur, um im
+               Momente des Gehorchens den Gehorsam in einer allerbrüskesten Weise zu brechen. Er
+               kann nun mal Zietens spöttischen Blick nicht ertragen, noch viel weniger einen neuen
+               Ansturm von Karikaturen, und in Angst gesetzt durch einen Schatten, eine Erbsenblase,
+               greift er zu dem alten Auskunftsmittel der Verzweifelten: un peu de poudre.</p>
             <p>Da haben Sie das Wesen der falschen Ehre. Sie macht uns abhängig von dem
                Schwankendsten und Willkürlichsten, was es gibt, von dem auf Triebsand aufgebauten
                Urteile der Gesellschaft, und veranlaßt uns, die heiligsten Gebote, die schönsten und
@@ -3724,10 +3738,11 @@
                hören und nicht zu sehen. Aber diese Straußenvorsicht hat noch nie gerettet. Als es
                mit der Mingdynastie zur Neige ging und die siegreichen Mandschuheere schon in die
                Palastgärten von Peking eingedrungen waren, erschienen immer noch Boten und
-               Abgesandte, die dem Kaiser von Siegen und wieder Siegen meldeten, weil es <pb/> gegen
-               »den Ton« der guten Gesellschaft und des Hofes war, von Niederlagen zu sprechen. Oh,
-               dieser gute Ton! Eine Stunde später war ein Reich zertrümmert und ein Thron gestürzt.
-               Und warum? weil alles Geschraubte zur Lüge führt und alle Lüge zum Tod.</p>
+               Abgesandte, die dem Kaiser von Siegen und wieder Siegen meldeten, weil es <pb
+                  facs="#"/> gegen »den Ton« der guten Gesellschaft und des Hofes war, von
+               Niederlagen zu sprechen. Oh, dieser gute Ton! Eine Stunde später war ein Reich
+               zertrümmert und ein Thron gestürzt. Und warum? weil alles Geschraubte zur Lüge führt
+               und alle Lüge zum Tod.</p>
             <p>Entsinnen Sie sich des Abends in Frau von Carayons Salon, wo bei dem Thema »Hannibal
                ante portas« Ähnliches über meine Lippen kam? Schach tadelte mich damals als
                unpatriotisch. Unpatriotisch! Die Warner sind noch immer bei diesem Namen genannt
@@ -3750,8 +3765,8 @@
             <p>B</p>
          </div>
          <div type="chapter">
-            <p>Einundzwanzigstes Kapitel</p>
-            <p>Victoire von Schach an Lisette von Perbandt</p>
+            <head>Einundzwanzigstes Kapitel</head>
+            <head>Victoire von Schach an Lisette von Perbandt</head>
             <!--milestone head_start-->
             <p> Rom, 18. August 1807</p>
             <!--milestone head_end-->
@@ -3759,8 +3774,8 @@
             <p>Ma chère Lisette.</p>
             <p>Daß ich Dir sagen könnte, wie gerührt ich war über so liebe Zeilen! Aus dem Elend des
                Krieges, aus Kränkungen und Verlusten heraus hast Du mich mit Zeichen alter,
-               unveränderter <pb/> Freundschaft überschüttet und mir meine Versäumnisse nicht zum
-               Üblen gedeutet.</p>
+               unveränderter <pb facs="#"/> Freundschaft überschüttet und mir meine Versäumnisse
+               nicht zum Üblen gedeutet.</p>
             <p>Mama wollte mehr als einmal schreiben, aber ich selber bat sie, damit zu warten.</p>
             <p>Ach, meine teure Lisette, Du nimmst teil an meinem Schicksal und glaubst, der
                Zeitpunkt sei nun da, mich gegen Dich auszusprechen. Und Du hast recht. Ich will es
@@ -3785,10 +3800,10 @@
                war es. Er gehörte durchaus, und mehr als irgendwer, den ich kennengelernt habe, zu
                den Männern, die nicht für die Ehe geschaffen sind. Ich erzählte Dir schon, bei
                früherer Gelegenheit, von einem Ausfluge nach Tempelhof, der überhaupt in mehr als
-               einer Beziehung einen Wendepunkt für uns <pb/> bedeutete. Heimkehrend aus der Kirche,
-               sprachen wir über Ordensritter und Ordensregeln, und der ungesucht ernste Ton, mit
-               dem er, trotz meiner Neckereien, den Gegenstand behandelte, zeigte mir deutlich,
-               welchen Idealen er nachhing. Und unter diesen Idealen – all seiner Liaisons
+               einer Beziehung einen Wendepunkt für uns <pb facs="#"/> bedeutete. Heimkehrend aus
+               der Kirche, sprachen wir über Ordensritter und Ordensregeln, und der ungesucht ernste
+               Ton, mit dem er, trotz meiner Neckereien, den Gegenstand behandelte, zeigte mir
+               deutlich, welchen Idealen er nachhing. Und unter diesen Idealen – all seiner Liaisons
                unerachtet, oder vielleicht auch um dieser Liaisons willen – war sicherlich nicht die
                Ehe. Noch jetzt darf ich Dir versichern, und die Sehnsucht meines Herzens ändert
                nichts an dieser Erkenntnis, daß es mir schwer, ja fast unmöglich ist, ihn mir au
@@ -3811,7 +3826,7 @@
                jeder Carrière herausgerissen und ihn nach Wuthenow hingezwungen, um mit mir ein
                Spargelbeet anzulegen oder der Kluckhenne die Küchelchen wegzunehmen. Davor erschrak
                er. Er sah ein kleines und beschränktes Leben vor sich und war, ich will nicht sagen
-               auf ein <pb/> großes gestellt, aber doch auf ein solches, das ihm als groß
+               auf ein <pb facs="#"/> großes gestellt, aber doch auf ein solches, das ihm als groß
                erschien.</p>
             <p>Über meine Nichtschönheit wär er hinweggekommen. Ich hab ihm, ich zögre fast, es
                niederzuschreiben, nicht eigentlich mißfallen, und vielleicht hat er mich wirklich
@@ -3838,9 +3853,9 @@
                seiner Fürsprache sicher war, und dieses Zutrauen muß den Bambino gerührt haben. Denn
                sieh, er half. Eine Krisis kam unmittelbar, und der Dottore verkündigte sein »va
                bene«; die Wirtin aber lächelte, wie wenn sie selber das Wunder verrichtet hätte.</p>
-            <p>Und dabei kommt mir die Frage, was wohl Tante Marguerite, <pb/> wenn sie davon hörte,
-               zu all dem »Aber glauben« sagen würde? Sie würde mich vor der »alten Kürche« warnen,
-               und mit mehr Grund, als sie weiß.</p>
+            <p>Und dabei kommt mir die Frage, was wohl Tante Marguerite, <pb facs="#"/> wenn sie
+               davon hörte, zu all dem »Aber glauben« sagen würde? Sie würde mich vor der »alten
+               Kürche« warnen, und mit mehr Grund, als sie weiß.</p>
             <p>Denn nicht nur alt ist Araceli, sondern auch trostreich und labevoll und kühl und
                schön.</p>
             <p>Sein Schönstes aber ist sein Name, der »Altar des Himmels« bedeutet. Und auf diesem
