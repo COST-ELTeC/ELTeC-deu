@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../WG1/distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../WG1/distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de" xml:id="DEU083">
    <teiHeader>
       <fileDesc>
@@ -46,11 +46,11 @@
    </teiHeader>
 
    <text>
-      
+
       <body>
          <div type="chapter">
             <head>
-               <pb facs="#"/> Das Turkosgrab</head>
+               <pb/> Das Turkosgrab</head>
             <p>Vier Thujabäume lispeln mürrisch, rauschen à la Byron und stehen gelangweilt tagaus
                tagein auf der Ruhestätte der in deutscher Gefangenschaft gestorbenen Turkos Mohamed
                Ben Abdelkader und Achmed Ben Hemen und kopfgroße Stücke grauen Muschelkalkes hat man
@@ -75,9 +75,9 @@
                schwebe, ich fliege, oh alle Welt: ich bin frei und schwerelos!</p>
             <p>Ich bin nicht frei, ich bin nicht allein – allein in ihren Kobaltarmen, ihren
                schreckhaft flatternden Falterflügeln! Aber daß ich mit Menschen reden muß, daß ich
-               ihre hohlen Stimmen hören, <pb facs="#"/> ihre kriechenden Gedanken, ihre Gedanken
-               ohne Klang! erdulden, ihren übel riechenden Atem, ihre ganze unsägliche
-               Erbärmlichkeit und unheilbare Blindheit über mich ergehen lassen muß –!</p>
+               ihre hohlen Stimmen hören, <pb/> ihre kriechenden Gedanken, ihre Gedanken ohne Klang!
+               erdulden, ihren übel riechenden Atem, ihre ganze unsägliche Erbärmlichkeit und
+               unheilbare Blindheit über mich ergehen lassen muß –!</p>
             <p>Ich bin mir zu gut und liebe mich zu sehr, ich halte mich viel zu gerne an goldenen
                Zügeln, um über euch meinen fressenden Hohn zu gießen, ich beschmutze mich nicht, ich
                werde nicht rasend und dionysisch rabiat, aber –: zwischen zwei Propellern,
@@ -105,25 +105,25 @@
                – strafen, o heiliger Aristoteles, das Nichts setzt sich in Positur! –, wir haben es
                ihn so gelehrt, wie wir ihn daran gewöhnt haben, in seiner Verwachsenheit die Krone
                zu sehen der Kraft, in seiner Steifheit die Höhe der Eleganz und in seiner
-               granitummauerten Borniertheit <pb facs="#"/> das Privilegium souveräner Verachtung
-               der einfarbig gekleideten Intelligenz. Er kommt daher ein buntes dummes Tier, aber
-               ein gefährliches Tier, das instinktmäßig die ihm gegen übertretende Überlegenheit
-               fühlt und sie dann ankollert – ein Truthahn! Vorsicht! ein Truthahn! Und in
-               erotischer Beziehung ist er nicht intakt, er ist ohne Frage ausgepichter Onanist,
-               denn er vermeidet das Adjektiv »geschlechtlich«, er übergeht es beim Vorlesen und
-               wird rot dabei, das vierzigjährige Kind mit den Propellern und Verschönerungsbarteln.
-               Er kriecht vor seinen Vorgesetzten wie ein Pinscher, der alsobald geprügelt werden
-               soll, aber ist er mit seiner grinsenden Kompagnie allein, so sieht er ihr Grinsen
-               nicht und kreuzt die Arme und schlingt den Mantel um sich, er stellt die Beine breit,
-               der Zweiseitengewehregroß, der Napoleonknirps, die Unfähigkeit und Minderwertigkeit
-               und Mannlosigkeit – sogar zum Studium war er zu dumm, so wurde er Offizier, der
-               Schwarm der Frau, vielmehr die unerschütterliche Einbildung des Schwarms der Frau,
-               die Stütze und der Stolz des Staats und seiner Untertanen zielbewußter Erzieher, der
-               Edelmensch, das Rassetier, der gott-und königstreue Pfau, das wandelnde Schimpfwort
-               und der stolzierende Paragraph, eines Hohlraums Strafgewalt und der nicht mehr nur
-               zum Lachen reizende Bramarbas, der inkarnierte – deutsche Pöbelgeist! Daß ich nicht
-               allein sein kann! Daß ich mit symbolisierenden Warzen, mit priviligierten Truthähnen
-               leben muß! –</p>
+               granitummauerten Borniertheit <pb/> das Privilegium souveräner Verachtung der
+               einfarbig gekleideten Intelligenz. Er kommt daher ein buntes dummes Tier, aber ein
+               gefährliches Tier, das instinktmäßig die ihm gegen übertretende Überlegenheit fühlt
+               und sie dann ankollert – ein Truthahn! Vorsicht! ein Truthahn! Und in erotischer
+               Beziehung ist er nicht intakt, er ist ohne Frage ausgepichter Onanist, denn er
+               vermeidet das Adjektiv »geschlechtlich«, er übergeht es beim Vorlesen und wird rot
+               dabei, das vierzigjährige Kind mit den Propellern und Verschönerungsbarteln. Er
+               kriecht vor seinen Vorgesetzten wie ein Pinscher, der alsobald geprügelt werden soll,
+               aber ist er mit seiner grinsenden Kompagnie allein, so sieht er ihr Grinsen nicht und
+               kreuzt die Arme und schlingt den Mantel um sich, er stellt die Beine breit, der
+               Zweiseitengewehregroß, der Napoleonknirps, die Unfähigkeit und Minderwertigkeit und
+               Mannlosigkeit – sogar zum Studium war er zu dumm, so wurde er Offizier, der Schwarm
+               der Frau, vielmehr die unerschütterliche Einbildung des Schwarms der Frau, die Stütze
+               und der Stolz des Staats und seiner Untertanen zielbewußter Erzieher, der Edelmensch,
+               das Rassetier, der gott-und königstreue Pfau, das wandelnde Schimpfwort und der
+               stolzierende Paragraph, eines Hohlraums Strafgewalt und der nicht mehr nur zum Lachen
+               reizende Bramarbas, der inkarnierte – deutsche Pöbelgeist! Daß ich nicht allein sein
+               kann! Daß ich mit symbolisierenden Warzen, mit priviligierten Truthähnen leben muß!
+               –</p>
             <p>Brauner fließt das wuselige Wolkenöl aus den himmlischen Tuben und es schauert und
                friert den schwindenden Tag; kalt und grünlich schimmert seine wasserblaue Haut und
                knisternd schließen sich die Lechfelddisteln – Timbuktu! gesungen habt ihr den Namen
@@ -135,23 +135,22 @@
                die der Wüstenwind, der Wind aus der ewigen Wüste, den Sand in grauen Wolken treibt,
                in denen die Sonne zusammenschrumpft, um dann wieder aus ihnen hervorzuglühen wie das
                blutunterlaufene Auge eines zornigen Elefanten! Timbuktu! Dschingere-ber! Es singt
-               der Sand und unter der blutunterlaufenen Sonne glüht dein Turm wie eine reifende <pb
-                  facs="#"/> Banane, bräunlich-gelb wie eine Banane aus Monrovia, wie ein ins
-               Ungeheure gewachsener Opal. – Es schneite, als man deinen Freund begrub, und es
-               schneite, als du nach acht Wochen kalter Einsamkeit zum letzten Mal aus deiner
-               Baracke tratest. In grauen Geschwadern, in ewigen Ketten trieb der Sturm die
-               kugelnden Wolken über dich und leise pfeifend und klatschend – es singt der Sand! –
-               umtanzte umschlug umwirbelte dich der Schnee. Drei Schritte weit flackerte dein Auge,
-               dann ward Alles weiße Unendlichkeit. Die fraß sich in dich und biß sich in dich und
-               verbrannte zischend dein Herz – es singt der Sand! – Und dann wird es wohl wieder
-               geschneit haben, als man auch dich begrub und kopfgroße Stücke grauen Muschelkalks
-               über euch häufte – – bis an die Knöchel sinken die Stiefel ein und die Stapfen, die
-               sie nachlassen, sind grau und schimmern von der Seite gesehen ziegelrot auf dem
-               glitzernden Tuch; einen Ring bilden sie um das schwarz-graue Viereck, das die
-               ekelhafte contradictio in adjecto des militärischen Pfaffen mit drei leutseligen
-               Worten beschmutzte, und laufen dann in einer melancholischen Serpentine zurück zu den
-               Asphaltdächern, hinter denen gerade die Sonne herabgefallen ist – – Timbuktu!
-               Tombuktu!</p>
+               der Sand und unter der blutunterlaufenen Sonne glüht dein Turm wie eine reifende
+               <pb/> Banane, bräunlich-gelb wie eine Banane aus Monrovia, wie ein ins Ungeheure
+               gewachsener Opal. – Es schneite, als man deinen Freund begrub, und es schneite, als
+               du nach acht Wochen kalter Einsamkeit zum letzten Mal aus deiner Baracke tratest. In
+               grauen Geschwadern, in ewigen Ketten trieb der Sturm die kugelnden Wolken über dich
+               und leise pfeifend und klatschend – es singt der Sand! – umtanzte umschlug umwirbelte
+               dich der Schnee. Drei Schritte weit flackerte dein Auge, dann ward Alles weiße
+               Unendlichkeit. Die fraß sich in dich und biß sich in dich und verbrannte zischend
+               dein Herz – es singt der Sand! – Und dann wird es wohl wieder geschneit haben, als
+               man auch dich begrub und kopfgroße Stücke grauen Muschelkalks über euch häufte – –
+               bis an die Knöchel sinken die Stiefel ein und die Stapfen, die sie nachlassen, sind
+               grau und schimmern von der Seite gesehen ziegelrot auf dem glitzernden Tuch; einen
+               Ring bilden sie um das schwarz-graue Viereck, das die ekelhafte contradictio in
+               adjecto des militärischen Pfaffen mit drei leutseligen Worten beschmutzte, und laufen
+               dann in einer melancholischen Serpentine zurück zu den Asphaltdächern, hinter denen
+               gerade die Sonne herabgefallen ist – – Timbuktu! Tombuktu!</p>
             <p>Gleich vier schwarzgrünen Bronzestatuen stehen die Thujabäume über dem einsamen Grab,
                düster à la Byron und voll ewiger Langerweile, und die grauen Muschelkalksteine unter
                ihnen schimmern bleich und weiß wie dicke Dinosaurierknochen. –</p>
@@ -166,10 +165,10 @@
                gekäfigten Spinnen der Sage nach einem Jahr Hungerns, zum Diamanten würde; aber mir
                widersteht der Asket und ich bin zu wenig kalt und klar für solche glänzenden Kohlen
                und kalten Schmuckschaustücke. Ich möchte sein wie ihr: ein unbewußter Trieb, der
-               sich bewußt und wirklich glaubt und sich geborgen fühlt in allen <pb facs="#"/>
-               Pöbelgöttern – geborgen, gefesselt, denn drüben liegt der Wahnsinn und lauert der
-               süße – Sprung in den Himmel! Aber – daß ich mit Menschen leben muß und daß es eben –
-               Menschen von heute sind! Ein Stück meines Problems, ihr ironischen Sterne.</p>
+               sich bewußt und wirklich glaubt und sich geborgen fühlt in allen <pb/> Pöbelgöttern –
+               geborgen, gefesselt, denn drüben liegt der Wahnsinn und lauert der süße – Sprung in
+               den Himmel! Aber – daß ich mit Menschen leben muß und daß es eben – Menschen von
+               heute sind! Ein Stück meines Problems, ihr ironischen Sterne.</p>
             <p>Ihr verkriecht euch, ihr laßt einen silbernen Schleier unter euch fallen und eine
                Brücke baut ihr unter euch, eine Hängebrücke von weißen Wolken, geradewegs über den
                Zenit eine Wogenwolkenbrücke, eine geschwungene Silberwolkenleiter? Ich will auf ihr
@@ -196,13 +195,13 @@
                der Morgen braust!</p>
             <p>Eine Mulde hat sich der Lech in den Kies geschnitten, der grimmige schäumende Narr
                und Umsonst, aber die zähere Zeit zwängte ihn ein und hat Gras und Enziane über sie
-               geworfen: hier liegen wir, frierend, ewig wartend und flach auf dem Leib <pb facs="#"
-               /> wie hingemäht – wenn die Raketen fauchend in ihrem grünlichen Lichtschein über uns
-               eilen und mit auffallend verkürztem letzten Schenkel ihrer parabolischen Bahn
-               zischend zwischen uns niederfahren oder die Scheinwerfer mit unheimlichen
-               Phosphorfingern über uns tasten und die fernen Baumgruppen aufflammen lassen in einem
-               kalten giftigen Schweinfurter Grün, so pressen wir unsere Köpfe noch tiefer in das
-               Gras, dessen schwerer Tau nun fast zu Reif geworden ist.</p>
+               geworfen: hier liegen wir, frierend, ewig wartend und flach auf dem Leib <pb/> wie
+               hingemäht – wenn die Raketen fauchend in ihrem grünlichen Lichtschein über uns eilen
+               und mit auffallend verkürztem letzten Schenkel ihrer parabolischen Bahn zischend
+               zwischen uns niederfahren oder die Scheinwerfer mit unheimlichen Phosphorfingern über
+               uns tasten und die fernen Baumgruppen aufflammen lassen in einem kalten giftigen
+               Schweinfurter Grün, so pressen wir unsere Köpfe noch tiefer in das Gras, dessen
+               schwerer Tau nun fast zu Reif geworden ist.</p>
             <p>Die Sprossen der zerbrochenen Leiter – denn die Morgenkälte knickte sie wie Glas –
                sind herabgefallen und liegen leuchtend wie aufgehäufter Silberschutt am Horizont.
                Aber die Nacht formt sich einen Fächer daraus und hebt ihn und hält ihn abwehrend
@@ -224,10 +223,9 @@
             <head>Das Heiligenbild</head>
             <p>Ich hatte es meiner geraden Figur und dem Teufel, der mich unter euch hat geboren
                werden lassen, zu verdanken, daß ich zu einer achtwöchentlichen Übung eingezogen war,
-               und ich war glücklich, wie man in deutscher Vergewaltigung glücklich sein <pb
-                  facs="#"/> kann, wenn ich zwischen Steinen und Wolken und Bäumen, deren
-               Zusammenleben mir als Flachländer neuartig und verlockend war, eben diese
-               Vergewaltigung vergaß.</p>
+               und ich war glücklich, wie man in deutscher Vergewaltigung glücklich sein <pb/> kann,
+               wenn ich zwischen Steinen und Wolken und Bäumen, deren Zusammenleben mir als
+               Flachländer neuartig und verlockend war, eben diese Vergewaltigung vergaß.</p>
             <p>Denn ich bin kein Patriot und kein Staatsbürger privilegierter Richtung, und bin
                Wanderer und Klausner und nenne mich euch gegenüber einen Kosmoaristokraten und stehe
                bewußt und selbstgewollt außerhalb jeder Massenvereinigung. Die Bürgervorteile und
@@ -257,7 +255,7 @@
                goldenes Leben, meine durstigen Augen! Oh mein heller Blitz in der ewigen Nacht!
                –</p>
             <p>
-               <pb facs="#"/> Mein anständiger Antipode, falls Dummheit sanktioniert, ist aber der
+               <pb/> Mein anständiger Antipode, falls Dummheit sanktioniert, ist aber der
                Korpsstudent, der heute schweißtriefend neben mir marschiert. Er ist so dumm; ihm ist
                alles und gar er selbst so klar und fest, so unzweifelhafte Wirklichkeit; er hat sich
                so selbstverständlich in sie eingefügt, wie man in einem Bau einen Ziegel zwischen
@@ -286,9 +284,9 @@
                meine Muskeln, in mein Blut, in meine Nerven aufnehme, ihn als ein Nichts, als die
                immateriellen Beziehungen körperlicher Dinge zueinander, als einen nur in meinem
                Gehirn flatternden Gedanken konzentriere. (Und hier freue ich mich wieder, den Punkt
-               zu haben, um den sich Alles dreht: denn dieser Gedanke ist das im <pb facs="#"/>
-               Kontakt stehen irgend welcher vielleicht irgend wie chemisch veränderter Hirnzellen,
-               und diese Hirnzellen und ihr gegenseitiger Kontakt, vielmehr das Gedachtwerden dieser
+               zu haben, um den sich Alles dreht: denn dieser Gedanke ist das im <pb/> Kontakt
+               stehen irgend welcher vielleicht irgend wie chemisch veränderter Hirnzellen, und
+               diese Hirnzellen und ihr gegenseitiger Kontakt, vielmehr das Gedachtwerden dieser
                Hirnzellen und ihres Kontakts, ist das im Kontakt Stehen irgend welcher vielleicht
                irgend wie chemisch veränderter Hirnzellen – – –) Aber ich gebe diesem nur durch mich
                und nur in mir existierenden Nichts die absonderlichsten Namen, immerzu immerfort,
@@ -318,10 +316,10 @@
                lungerndes Leben. Und das tut, als sei es die Quintessenz und das Extrakt der Welt,
                das stellt sich an, als ob es allein das Privileg des – Lebens hätte, das gibt sich,
                als sei es da, die Welt zu – fressen und zu – erlösen; wovon? von dem Fluch des
-               Lebens! <pb facs="#"/> Das hängt einem ja zum Halse heraus! Ich denke, ihr werdet
-               euch eures Lebens nicht mehr bewußt, ich muß annehmen, ihr habt es nicht, ihr wiegt
-               es nicht auf der Hand, wo ihr vor lauter Leben nicht mehr den Kontrast und den Stein
-               seht; ich postuliere, daß es für euch schon eine Erlösung sein muß, Brücken zu sehen,
+               Lebens! <pb/> Das hängt einem ja zum Halse heraus! Ich denke, ihr werdet euch eures
+               Lebens nicht mehr bewußt, ich muß annehmen, ihr habt es nicht, ihr wiegt es nicht auf
+               der Hand, wo ihr vor lauter Leben nicht mehr den Kontrast und den Stein seht; ich
+               postuliere, daß es für euch schon eine Erlösung sein muß, Brücken zu sehen,
                Maschinen, geschmeidiges wuchtendes hohnlachendes Eisen (statt dessen aber kriecht
                ihr vor eurem Eisen und euren Maschinen und macht, wie immer, eure Schöpfung zum
                Gott, der euch erdrückt und zermalmt). Ich, ich bevorzuge Schneepaläste und mag mich
@@ -348,9 +346,9 @@
                Diarrhöe! Dieses heimliche Stehlen der Wurzelfaser am Stein, diese
                Pygmäendiebssaugnäpfe des autokannibalistischen Größenwahnwurms! Aber das Organische
                ist ein schnell verschwindender verschwindend kleiner Einzelfall, eine kleine
-               Verirrung, ein dunkler Punkt, <pb facs="#"/> der Stein ist die Welt und erst im Stein
-               liegt ihr Abgrund und ihre furchtbare Tiefe. Oh, wenn ihr einen Begriff hättet von
-               der Vornehmheit, der sarkastischen Aristokratie des Gesteins!</p>
+               Verirrung, ein dunkler Punkt, <pb/> der Stein ist die Welt und erst im Stein liegt
+               ihr Abgrund und ihre furchtbare Tiefe. Oh, wenn ihr einen Begriff hättet von der
+               Vornehmheit, der sarkastischen Aristokratie des Gesteins!</p>
             <p>Er hatte sich außer Atem geredet und merkte es und ward mürrisch darob und schwieg,
                und stapfte neben mir mit seinem ledernen verkniffenen Gesicht, seiner breitbeinigen
                staubbedeckten Landstraßenfigur. –</p>
@@ -378,9 +376,9 @@
                Igel, du Hohltopf-Hohlkopf und Positivist und billiger Wortejongleur! Du – Mensch von
                heute! Du – Tornister!! Laß uns nachdenklich sein. Das gleiche Atom, das in der
                Schneeflocke niederfällt oder im Dolomit des Marmolata schläft, kreist in der Buche,
-               die dort zwischen <pb facs="#"/> den Fichten schon gelb werden will, und in mir,
-               dessen Auge ungewollt auf ihr haften bleibt; derselbe Zauber, der die Nordlichter an
-               den Himmel wirft, begleitet jeden Gedanken in mir und jeden Schmerz – –</p>
+               die dort zwischen <pb/> den Fichten schon gelb werden will, und in mir, dessen Auge
+               ungewollt auf ihr haften bleibt; derselbe Zauber, der die Nordlichter an den Himmel
+               wirft, begleitet jeden Gedanken in mir und jeden Schmerz – –</p>
             <p>Still! Ihr könnt keine Gegensätze sehen; ihr versteift euch immer auf Übergänge und
                Anklänge und Ähnlichkeiten und behauptet sogar, Gleichartigkeiten sehen zu können –
                faule Kompromisten.</p>
@@ -408,8 +406,8 @@
                rauben, daß ihr kopfüber in die Schwerelosigkeit und den Wahnsinn purzeltet. Es
                genügt und ich bin es zufrieden, wenn ihr einmal im Jahre fühlt, daß ihr über einer
                Gähnung wandelt, unbewußt, blind, wie die Kinder – oh ihr Kinder! Und wenn euch nur
-               einmal im Leben der Gedanke <pb facs="#"/> durchhaut, daß die Brücke, auf der ihr
-               steht und Jahrmarkt spielt, dünn ist wie Glas – –</p>
+               einmal im Leben der Gedanke <pb/> durchhaut, daß die Brücke, auf der ihr steht und
+               Jahrmarkt spielt, dünn ist wie Glas – –</p>
             <p>Du – da du doch nach Art alter Positivisten und Journalisten mit mir einen
                Seitensprung ins Transzendente tust – und es ist noch etwas anderes Furchtbares –:
                ich fühle das dünne Glas ewig unter mir und mir wird es hohl und schwerelos – ich
@@ -439,12 +437,12 @@
                für alles kompetent –, sind ihre Gesichter gespannt und sie lächeln verständnisvoll
                und ehrerbietig stupid – wenn der nicht wahnsinnig werden sollte! Wenn dieser
                zweifache, dreifache Verwesungspriester nicht Grund hat, wahnsinnig zu werden! – Aber
-               sein Gewissen ist schwarz wie <pb facs="#"/> sein Kleid und tot wie seine Herde,
-               seine Fühlhörner sind kürzer als wir ahnen, aber sie reichen dazu aus, um ihn wissen
-               zu lassen, daß er in stündlicher Lüge lebt, in stündlichem Selbstbetrug; sein Ernst
-               ist eben gegenüber dem unseren wie eine Seifenblase, die an einer Mauer zerschellt.
-               Unser lustiger Ernst und unsere schmerzliche Lustigkeit, unser – ungeheurer Ernst,
-               der – bringt dich um! Weiter weiter, wir gehen ins Manöver, mein Freund.</p>
+               sein Gewissen ist schwarz wie <pb/> sein Kleid und tot wie seine Herde, seine
+               Fühlhörner sind kürzer als wir ahnen, aber sie reichen dazu aus, um ihn wissen zu
+               lassen, daß er in stündlicher Lüge lebt, in stündlichem Selbstbetrug; sein Ernst ist
+               eben gegenüber dem unseren wie eine Seifenblase, die an einer Mauer zerschellt. Unser
+               lustiger Ernst und unsere schmerzliche Lustigkeit, unser – ungeheurer Ernst, der –
+               bringt dich um! Weiter weiter, wir gehen ins Manöver, mein Freund.</p>
             <p>Auf staubigen Straßen, über Stoppelfelder, über vergrämte Moore entlang an schwarzen
                giftigen Teichen – hoppla! stolperst du, mein Kamerad?</p>
 
@@ -472,50 +470,50 @@
                und auf dessen Retina der Nachthimmel sich gelb und grau und blau wie im Leben malt,
                muß es nicht ganz anders sein. Nur daß ich eben mir meines Sehens alle Stunden drei
                Male und dann wie im Traum bewußt ward; in der Zwischenzeit war ich gestorben,
-               empfindungslos, ein Gras, ein Baum wie die anderen <pb facs="#"/> Menschen. Oder
-               auch: meine Haut hatte sich gedehnt, riesenweit, und war durchsichtig geworden und
-               auf ihr malten sich wie auf öldurchtränktem Papier der Mond und die Wolken, meine
-               dösende Silhouette und die überflüssige Fichte; auf einer ungeheuren Kugel und
-               aufgeblasenen Schweinsblase, mit der man dir Faschings um die langen Ohren schlägt,
-               waren sie impressionistisch mit Strichen und dicken Klecksen aufgemalt; und alle
-               Stunden drei Male tippte ein Finger an diesen im Raume aufgehängten Pergamentenball,
-               daß er zuckte und leise vibrierte: dann eben ward ich mir meines Sehens bewußt. – –
-               Als aber der Morgen zwischen Tag und Nacht seinen orangefarbenen Gedankenstrich am
-               Osthimmel zog und die Kälte mit einem Male wie durch einen Riß ungehindert vom Himmel
-               fiel, sah ich wieder die Welt und erkannte mein Ich wieder, mein nie zu fassendes,
-               ruhlos gespensterndes, ich erkannte beide, die immer eins und ewig zwei sind, wieder
-               im Anschaun meiner Welt und konnte wieder zu mir reden. Denn über Nacht hatte es in
-               den Bergen geschneit und der von allen Winden reingefegte Himmel überzog sich
-               bräunlich rot und hing wie die von einem unglaubwürdigen Irgendwo spöttisch
-               hergeflatterte Seligkeit über dem Schnee und der grummetgrünen Ebene, ihren weißen
-               Türmen und schwarzen Fichtengruppen und ihren zwanzig nebelkochenden Schluchten,
-               leuchtend über den Vorbergen, die Kopf an Kopf wie wüste schwarze Berberlöwen das
-               selige Gebirge schirmten. Das sickerte und drang und wuchs, wuchs immer
-               eindringlicher und stürmte mit immer süßerer Leidenschaft in mich, das zog mich immer
-               höher, immer näher mitten hinein in seine braune Morgentrunkenheit, bis ich plötzlich
-               meiner harten Einsamkeit wieder gewahr wurde und zu taumeln begann und mich gegen das
-               Furchtbare wehren mußte und nach den – Namen der Bergspitzen fragte und traurig wurde
-               bis zum Tod. Denn ich stehe noch auf der Brücke und noch manche Gott- und
-               Muckernachklänge brummen verführerisch in mir fort: ich tauche noch zu gerne mystisch
-               unter in das All und verliere noch immer zu gerne mein Ich. Aber kein noch so
-               intensives Welt- und Allgefühl sollte in mir den Wert des Bewußtseins meiner
-               umschlossenen Einzigartigkeit und meines Alleinseins mehr aufwiegen dürfen. Noch
-               taumele ich oft zwischen der Wortwelt der Menschen und einer abstrusen atavistischen
-               unio mystica. Es soll klar um mich sein und rein: Ich und die Wirklichkeit, die ich
-               raubend in mich ziehe <pb facs="#"/> und forme und genieße. – Aber nun – konnte ich
-               wieder zu mir reden. Mit einem Male fangen die Schluchten an überzukochen, sprudelnd
-               wie siedende Milch und gelöschte Kalke, die Berberlöwen beginnen zu fauchen und ihre
-               Nüstern zu blähen und über dem Karwendel kriecht eine lange Wolke wie eine
-               Riesenwegschnecke; da wirft der Tag die Sonne wuchtig wie einen Ball ins Land, ein
-               Zittern geht durch die Luft und die Wolkenkephalophore färbt sich rot wie mit dem
-               Safte der Purpurschnecken von Es Sur und kriecht träge, unendlich träge über die
-               Berge und bedeckt sie mit bläulichem Schleim. Und nun währt es nicht lange und der
-               Rauch der Schluchten und der Atem der fauchenden Berberlöwen flattert grau und
-               zerrissen über die Ebene, bleibt hier an einem Kirchturm hängen und verfängt sich
-               dort in einer Fichtenhöhe, und als die Sonne den ruhlosen nutzlosen endlich
-               aufgetrunken hat, stehen die Berge da fern und fremd wie blaue Schatten – es ist
-               heißer Tag und wir sind schon lange wieder auf staubigen Straßen, die sich wie weiße
-               Schlangen in bösen Krümmungen von Hügel zu Hügel winden.</p>
+               empfindungslos, ein Gras, ein Baum wie die anderen <pb/> Menschen. Oder auch: meine
+               Haut hatte sich gedehnt, riesenweit, und war durchsichtig geworden und auf ihr malten
+               sich wie auf öldurchtränktem Papier der Mond und die Wolken, meine dösende Silhouette
+               und die überflüssige Fichte; auf einer ungeheuren Kugel und aufgeblasenen
+               Schweinsblase, mit der man dir Faschings um die langen Ohren schlägt, waren sie
+               impressionistisch mit Strichen und dicken Klecksen aufgemalt; und alle Stunden drei
+               Male tippte ein Finger an diesen im Raume aufgehängten Pergamentenball, daß er zuckte
+               und leise vibrierte: dann eben ward ich mir meines Sehens bewußt. – – Als aber der
+               Morgen zwischen Tag und Nacht seinen orangefarbenen Gedankenstrich am Osthimmel zog
+               und die Kälte mit einem Male wie durch einen Riß ungehindert vom Himmel fiel, sah ich
+               wieder die Welt und erkannte mein Ich wieder, mein nie zu fassendes, ruhlos
+               gespensterndes, ich erkannte beide, die immer eins und ewig zwei sind, wieder im
+               Anschaun meiner Welt und konnte wieder zu mir reden. Denn über Nacht hatte es in den
+               Bergen geschneit und der von allen Winden reingefegte Himmel überzog sich bräunlich
+               rot und hing wie die von einem unglaubwürdigen Irgendwo spöttisch hergeflatterte
+               Seligkeit über dem Schnee und der grummetgrünen Ebene, ihren weißen Türmen und
+               schwarzen Fichtengruppen und ihren zwanzig nebelkochenden Schluchten, leuchtend über
+               den Vorbergen, die Kopf an Kopf wie wüste schwarze Berberlöwen das selige Gebirge
+               schirmten. Das sickerte und drang und wuchs, wuchs immer eindringlicher und stürmte
+               mit immer süßerer Leidenschaft in mich, das zog mich immer höher, immer näher mitten
+               hinein in seine braune Morgentrunkenheit, bis ich plötzlich meiner harten Einsamkeit
+               wieder gewahr wurde und zu taumeln begann und mich gegen das Furchtbare wehren mußte
+               und nach den – Namen der Bergspitzen fragte und traurig wurde bis zum Tod. Denn ich
+               stehe noch auf der Brücke und noch manche Gott- und Muckernachklänge brummen
+               verführerisch in mir fort: ich tauche noch zu gerne mystisch unter in das All und
+               verliere noch immer zu gerne mein Ich. Aber kein noch so intensives Welt- und
+               Allgefühl sollte in mir den Wert des Bewußtseins meiner umschlossenen Einzigartigkeit
+               und meines Alleinseins mehr aufwiegen dürfen. Noch taumele ich oft zwischen der
+               Wortwelt der Menschen und einer abstrusen atavistischen unio mystica. Es soll klar um
+               mich sein und rein: Ich und die Wirklichkeit, die ich raubend in mich ziehe <pb/> und
+               forme und genieße. – Aber nun – konnte ich wieder zu mir reden. Mit einem Male fangen
+               die Schluchten an überzukochen, sprudelnd wie siedende Milch und gelöschte Kalke, die
+               Berberlöwen beginnen zu fauchen und ihre Nüstern zu blähen und über dem Karwendel
+               kriecht eine lange Wolke wie eine Riesenwegschnecke; da wirft der Tag die Sonne
+               wuchtig wie einen Ball ins Land, ein Zittern geht durch die Luft und die
+               Wolkenkephalophore färbt sich rot wie mit dem Safte der Purpurschnecken von Es Sur
+               und kriecht träge, unendlich träge über die Berge und bedeckt sie mit bläulichem
+               Schleim. Und nun währt es nicht lange und der Rauch der Schluchten und der Atem der
+               fauchenden Berberlöwen flattert grau und zerrissen über die Ebene, bleibt hier an
+               einem Kirchturm hängen und verfängt sich dort in einer Fichtenhöhe, und als die Sonne
+               den ruhlosen nutzlosen endlich aufgetrunken hat, stehen die Berge da fern und fremd
+               wie blaue Schatten – es ist heißer Tag und wir sind schon lange wieder auf staubigen
+               Straßen, die sich wie weiße Schlangen in bösen Krümmungen von Hügel zu Hügel
+               winden.</p>
             <p>Als wir einige Stunden marschiert waren, mißmutig und in verbissenem Schweigen,
                begann mich das Bild eines schwangeren Bauernmädchens, das mich am Morgen zwischen
                ihren patzigen Stockmalven und Dahlien angelacht hatte, zu belästigen. Meine Gedanken
@@ -533,25 +531,24 @@
                im Stolpern die Hure in den Graben wirft, wo sie nichts mehr ist als eben eine Hure
                und ein ungewaschenes Weib. Dann stapfte er weiter neben mir.</p>
             <p>
-               <pb facs="#"/> Sieh! von der habe ich dich nun befreit; ein Teufel schlägt den
-               anderen tot. Aber – – he! bist du vielleicht verliebt? Weißt du, wie die Schwätzer,
-               die veilchenblauen Träumer und samtenen Gefühlsjongleure? Das ist mir eine gar
-               köstliche Sache! Man heißt es das reine Glück, den Hauch der Seligkeit, das tiefe
-               Untertauchen in den Rausch der Dinge und das Ahnen einer Unsterblichkeit, und es ist
-               doch das pure Plebejertum und die Schamlosigkeit katexochen. Und merke, weniger die
-               Liebe, aber das Dulden, geliebt zu werden. Nicht die Liebe, die springt aus dem
-               Fleisch, das ich soeben in den Graben warf; eine angenehme tierische Sache, die sich
-               feige umlügt in die stupide Adoration eines Ideals, seines Ideals, im Grunde seiner
-               Selbst; man kann sie als zwiefache Belästigung definieren. Ich habe im Grunde nichts
-               wider sie, nur lüge man sich nichts vor und wolle nur das pralle Fleisch. Aber das
-               Dulden, geliebt zu werden! He! wirst du vielleicht geliebt? Ich meine, nimmst du die
-               Liebe eines Anderen entgegen, ohne daß dich ihre Komik zum Lachen und ihre Anmaßung
-               zur Empörung bringt? Denn in Käuze deiner Art verliebt sich mancherlei – eine tiefe
-               Melancholie, eine blanke Ironie und ein weich-kluges Gesicht, ein dichtes Haar, in
-               dem man zausen kann und ein robuster Leib! Aber kannst du es vor dir verteidigen,
-               geliebt zu werden? Bist du – klein genug, geliebt zu sein? Willst du wirklich in den
-               Staub gezogen werden? Mit blutigen fleischigen Tatzen heraus aus deiner stolzen
-               Einsamkeit?</p>
+               <pb/> Sieh! von der habe ich dich nun befreit; ein Teufel schlägt den anderen tot.
+               Aber – – he! bist du vielleicht verliebt? Weißt du, wie die Schwätzer, die
+               veilchenblauen Träumer und samtenen Gefühlsjongleure? Das ist mir eine gar köstliche
+               Sache! Man heißt es das reine Glück, den Hauch der Seligkeit, das tiefe Untertauchen
+               in den Rausch der Dinge und das Ahnen einer Unsterblichkeit, und es ist doch das pure
+               Plebejertum und die Schamlosigkeit katexochen. Und merke, weniger die Liebe, aber das
+               Dulden, geliebt zu werden. Nicht die Liebe, die springt aus dem Fleisch, das ich
+               soeben in den Graben warf; eine angenehme tierische Sache, die sich feige umlügt in
+               die stupide Adoration eines Ideals, seines Ideals, im Grunde seiner Selbst; man kann
+               sie als zwiefache Belästigung definieren. Ich habe im Grunde nichts wider sie, nur
+               lüge man sich nichts vor und wolle nur das pralle Fleisch. Aber das Dulden, geliebt
+               zu werden! He! wirst du vielleicht geliebt? Ich meine, nimmst du die Liebe eines
+               Anderen entgegen, ohne daß dich ihre Komik zum Lachen und ihre Anmaßung zur Empörung
+               bringt? Denn in Käuze deiner Art verliebt sich mancherlei – eine tiefe Melancholie,
+               eine blanke Ironie und ein weich-kluges Gesicht, ein dichtes Haar, in dem man zausen
+               kann und ein robuster Leib! Aber kannst du es vor dir verteidigen, geliebt zu werden?
+               Bist du – klein genug, geliebt zu sein? Willst du wirklich in den Staub gezogen
+               werden? Mit blutigen fleischigen Tatzen heraus aus deiner stolzen Einsamkeit?</p>
             <p>Denn – Wasser auf deine Muckermühle – die Liebe ist der größte in den Staub Zieher,
                weil sie der gröbste Verwirklicher ist. Deine Gestalt, dein Haar, dein helles Auge,
                deine Stimme – oh deine Stimme! – das ist und ist in ihren Augen unbestreitbare
@@ -564,7 +561,7 @@
                Fleisch, in den üblen Geruch der Masse, nicht wirklich und plump wesenhaft, Frage und
                Fragwürdigkeit – meinthalb kokette – mußt du sein und leuchtender Abgrund – es muß
                dich empören, geliebt zu werden! – – Es erübrigt sich, daran zu erinnern, daß die
-               Frau <pb facs="#"/> nicht uns liebt, sondern ihr irgendwie verlogenes, überliefertes,
+               Frau <pb/> nicht uns liebt, sondern ihr irgendwie verlogenes, überliefertes,
                irgendwie aufgezwungenes Ideal des sie vollendenden anderen Geschlechts, dieses
                Ideal, in das sie das Wenige, das sie von uns weiß, d.i. das Nichts, das sie von uns
                weiß, notdürftig hinein preßt und lügt. Und wenn du ferner in Erwägung ziehst, daß
@@ -595,10 +592,9 @@
                den heißen Hügeln über mich gekommen war.</p>
             <p>Er hat wohl recht – mich herzugeben für ein verbautes und wurmstichig erbärmliches
                Holzgestell, das ein Weib mit den Bändchen und Fähnchen ihres Ideals verbrämen wird,
-               um es <pb facs="#"/> brünstig als ihren Popanz anzubeten! Und das nennt man nun – so
-               ist eben alles vermiesquemt und verdreht. Soll man sich aber dessen stündlich bewußt
-               sein und mit Pose seinen Fuß auf die Rücken von hundert erschlagenen Lügen
-               stellen?</p>
+               um es <pb/> brünstig als ihren Popanz anzubeten! Und das nennt man nun – so ist eben
+               alles vermiesquemt und verdreht. Soll man sich aber dessen stündlich bewußt sein und
+               mit Pose seinen Fuß auf die Rücken von hundert erschlagenen Lügen stellen?</p>
             <p>Siehst du! Aber man könnte auch auf diesen schillernden Lügen, wie auf seinen
                Trieben, reiten und auf ihnen mitten hinein ins Epikuraikum voltigieren. Aber dazu
                bist du zu dick und zu dumm, wer weiß? dazu bist du zu deutsch – das hilft dir
@@ -629,9 +625,9 @@
                Blumen und Himmel und Monde, verschwände, so würde er es fortwischen, wie wir unsere
                melancholischen Gedanken verscheuchen. Aber er will es noch nicht, er spielt noch ein
                wenig mit seinen Bildern und Winkelstraßen, lustig traurig – ein weißer Bajazzo.</p>
-            <p>Wie unnötig das ist, wie unnötig deine Lustigkeit, deine Traurigkeit <pb facs="#"/>
-               und du selber, wie über die Maßen unnötig! Es liegt keine Nötigung vor, zu sein; denn
-               sonst wärst du nicht der Eine stolze Bajazzo. – Wie doch das Ding an Sich und die
+            <p>Wie unnötig das ist, wie unnötig deine Lustigkeit, deine Traurigkeit <pb/> und du
+               selber, wie über die Maßen unnötig! Es liegt keine Nötigung vor, zu sein; denn sonst
+               wärst du nicht der Eine stolze Bajazzo. – Wie doch das Ding an Sich und die
                Eindeutigkeit und Einheit der Welt in einen Narrenwitz ausläuft! Ein Ding kann nur
                immer dadurch bestehen, daß es durch ein anderes bedingt wird; denn »es hat seinen
                Grund in sich« heißt soviel wie: der Schnee ist weiß weil er weiß ist. Du mußt immer
@@ -659,7 +655,7 @@
                lag. Megascolides australis! murmelten sie und senkten ihn hinab und baten mich, die
                Grabrede zu sprechen. Und ich hielt damals jene Rede über den Regenwurm.</p>
             <p>»Nein, ich meine nicht jenen speckweißen Darm, jenen mit tausend Mäulern, mit seiner
-               ganzen Haut fressenden blinden tauben <pb facs="#"/> Schlauch, der in den eitergelben
+               ganzen Haut fressenden blinden tauben <pb/> Schlauch, der in den eitergelben
                Hautgeschwüren des Rindes oder eines Rehbocks schmarotzt, um sich von dort aus
                schillernd wie angelaufener Stahl und leuchtend wie der unwirkliche Spuk des
                zerteilten Lichts zu Tänzen und Nektartränken und Liebesspielen in die Luft zu
@@ -692,8 +688,7 @@
                und den deine Brüder im Wurme weiter fressen, das sind deine Bücher, deine klugen
                Bücher – –</p>
             <p>
-               <pb facs="#"/> Hoppla, stelle dich auf den Kopf und – tanze, meine liebe Seele!
-               –«</p>
+               <pb/> Hoppla, stelle dich auf den Kopf und – tanze, meine liebe Seele! –«</p>
             <p>Hoppla, stelle dich auf den Kopf und tanze, meine liebe Seele! murmelten sie und
                schaufelten die Erde in das Grab und machten dann zusamt einen Sprung, daß sie alle
                auf den Kopf zu stehen kamen. Und so begannen sie mit ihrem Kopf die aufgeschüttete
@@ -722,7 +717,7 @@
             <p>Ich bin allein und die Leute sind fort, auch der Tornister liegt oben und macht ein
                verdrießliches Gesicht, ich bin allein zwischen Blättern und Früchten und
                Kieselsteinen und kalten Wellen, die da hinten aus einem Moos zwischen den Bergen
-               kommen. <pb facs="#"/> Oben auf der Höhe aber mitten in der Sonne sind die Feldküchen
+               kommen. <pb/> Oben auf der Höhe aber mitten in der Sonne sind die Feldküchen
                angelangt und rauchen und lassen von einem verspäteten Vormittagswind ihren schweren
                Speisegeruch in mein zärtliches Tal tragen, für einen Augenblick nur, dann stirbt der
                Wind – Bierfässer werden angefahren und mit hohlen Hammerschlägen angezapft, auf
@@ -751,11 +746,11 @@
                Weib, ohne Seele und voll seliger Sehnsüchte – ihr seid anders als das Meer und ich
                hasse euch, weil ich noch nicht ganz bin wie ihr. Nun aber spielt die rote Sonne auf
                eurem Schnee, es wird Abend auch für euch und ihr fangt an, eures harten Stolzes müde
-               zu werden – wie ihr träumt <pb facs="#"/> und Wünsche werdet! verlangende, in alle
-               Fernen weisende, wieder junge immer junge Wünsche! Nun liebe ich euch. Aber der Abend
-               geht und läßt euch stehen wie blaue Schatten und gläserne Unwirklichkeiten. Jetzt
-               hüllt ihr euch frierend in eure Wolkenwatte und die Nacht, der Mond und der Spuk ist
-               wieder Herr geworden.</p>
+               zu werden – wie ihr träumt <pb/> und Wünsche werdet! verlangende, in alle Fernen
+               weisende, wieder junge immer junge Wünsche! Nun liebe ich euch. Aber der Abend geht
+               und läßt euch stehen wie blaue Schatten und gläserne Unwirklichkeiten. Jetzt hüllt
+               ihr euch frierend in eure Wolkenwatte und die Nacht, der Mond und der Spuk ist wieder
+               Herr geworden.</p>
             <p>Nun liegt der Tornister in Reih und Glied und friert und friert und schauert unter
                dem Tau, den die müde Luft vor lauter Müdigkeit und Überdruß weinen zu müssen glaubt,
                während die vier Feuer immer wieder dicke rote Kleckse auf die Flechten und Fichten
@@ -781,12 +776,12 @@
                so kurz und weit es geht, zu reinigen, was wir als fälschende,
                anthropomorphisierende, Zutat früherer Zeitalter erkannt haben, fiel ich heraus aus
                eurer Welt und wies traurig zynisch auf eure Mäntelchen und Mätzchen, auf unsere
-               lustig windbeutelnden Weisheiten hin. Da fingen die Weiber an, <pb facs="#"/> mir
-               nachzulaufen – weiß Gott, warum? – und die Frauen begannen mich zu »lieben«, und ich
-               ließ es eine faule lange Weile mir wohl unter ihnen sein; ich belog mich wohl und
-               nannte sie einen schönen schweren Rausch, in dem ich die Fragwürdigkeit meiner Welt –
-               denn eure Welt ist fest! –, die ich nicht glaubte ertragen zu können, vergäße.
-               Nebenbei liebte ich sie als das unverhüllteste Tier gegenüber unserer erbärmlichen
+               lustig windbeutelnden Weisheiten hin. Da fingen die Weiber an, <pb/> mir nachzulaufen
+               – weiß Gott, warum? – und die Frauen begannen mich zu »lieben«, und ich ließ es eine
+               faule lange Weile mir wohl unter ihnen sein; ich belog mich wohl und nannte sie einen
+               schönen schweren Rausch, in dem ich die Fragwürdigkeit meiner Welt – denn eure Welt
+               ist fest! –, die ich nicht glaubte ertragen zu können, vergäße. Nebenbei liebte ich
+               sie als das unverhüllteste Tier gegenüber unserer erbärmlichen
                Manns-Kultur-Verkleidung und krüppelhaften Feigheit. Denn ich habe nie das Leben an
                sich verneint, dazu verlange ich zu wenig von ihm, dazu kenne ich zu wenig eine
                Hinterwelt und ein künftiges Leben, dazu bin ich zu wenig Pfaff und schmollendes
@@ -812,8 +807,8 @@
                Flatter-Flügel; ein zerbrochenes Rückgrat – – oh ewiges – Umsonst!«</p>
             <p>Aber ich bin nun für alle Zeit jedes Wahnes und jedes Rausches müde, ich will endlich
                frei und rein und ganz gewollt einsam sein und dem Furchtbaren, denn das Leben ist
-               etwas über <pb facs="#"/> alle Maßen Furchtbares, furchtlos in die Augen sehen und es
-               immer mehr umhämmern zu einem willfährigen Objekt meiner Lust – nicht eines
+               etwas über <pb/> alle Maßen Furchtbares, furchtlos in die Augen sehen und es immer
+               mehr umhämmern zu einem willfährigen Objekt meiner Lust – nicht eines
                »uninteressierten« Erkennens, nicht einer größenwahnsinnigen Kunst.</p>
             <p>Aber deswegen muß ich zurück in die Stadt, in ihre tausend Verführungen zum Rausch,
                ihre alles übertosen wollenden brausenden Massenwiegenlieder, ihre tausend stürmenden
@@ -842,15 +837,14 @@
          <div type="chapter">
             <head>Intermezzo</head>
             <p>Ich gleite über einer Tiefe, die so klar und zärtlich grün ist, daß das Verlangen, in
-               sie hinab zu stürzen, zu einer schmerzlichen <pb facs="#"/> Qual wird, und deren
-               Oberfläche so blaßblau opalisiert wie leidende Kampanulazeen und so rotviolett wie
-               kleine sehnsüchtige Enziane und so grünlich gelb wie der Himmel über den
-               Winterabendröten zu der Stunde, wenn der traurige Abendstern zu scheinen beginnt; die
-               Höhen aber auf den Ufern dieses Sees, in dem ein König ertrank, des Namens eines
-               Königs wert, leuchten unter der müden Herbstsonne in gelbem und rotem Laub und
-               strecken sich in schwarzem Fichtensamt und braunen Eichenblättern, sie haben sich
-               Leopardenfelle übergezogen, zwischen denen der See wie eine Perlmutterschale
-               ruht.</p>
+               sie hinab zu stürzen, zu einer schmerzlichen <pb/> Qual wird, und deren Oberfläche so
+               blaßblau opalisiert wie leidende Kampanulazeen und so rotviolett wie kleine
+               sehnsüchtige Enziane und so grünlich gelb wie der Himmel über den Winterabendröten zu
+               der Stunde, wenn der traurige Abendstern zu scheinen beginnt; die Höhen aber auf den
+               Ufern dieses Sees, in dem ein König ertrank, des Namens eines Königs wert, leuchten
+               unter der müden Herbstsonne in gelbem und rotem Laub und strecken sich in schwarzem
+               Fichtensamt und braunen Eichenblättern, sie haben sich Leopardenfelle übergezogen,
+               zwischen denen der See wie eine Perlmutterschale ruht.</p>
             <p>Der Wind der Höhe bläst um mich unruhig und stolz und über mir kleben die Legföhren
                an den weißgrauen Klippen des Wendelsteins wie Samt und dunkles Moos, aber in weißer
                blendender Unwirklichkeit, ein erstarrtes seliges Meer von Eis – oh ich sehe den
@@ -872,11 +866,10 @@
                Staubstraßenschlangen und unter glühenden Sonnenkohlenbecken, unter klatschenden
                Regenwolkeneimern und unter schweigsamen Mondspukspiegeln marschiertest du tapfer
                neben mir – das Manöver ist aus und die Kette der Vergewaltigung tat einen Riß und du
-               wirst wieder, <pb facs="#"/> nachdem der Geist dich trug, auf fleischernen Rücken
-               hocken, bleiern und faul und ewig gelangweilt und zu deiner ledernen Realität
-               verdammt. Lebewohl, du zottiger Phonograph, du schwätzendes Nichts und unwirkliche
-               Beziehung zwischen malträtierten Muskeln und einem Rinderlederranzen! Lebewohl – –
-               –</p>
+               wirst wieder, <pb/> nachdem der Geist dich trug, auf fleischernen Rücken hocken,
+               bleiern und faul und ewig gelangweilt und zu deiner ledernen Realität verdammt.
+               Lebewohl, du zottiger Phonograph, du schwätzendes Nichts und unwirkliche Beziehung
+               zwischen malträtierten Muskeln und einem Rinderlederranzen! Lebewohl – – –</p>
             <p>Auf den Schotterflächen, den Kiesen, die die Schmelzwasser der Gletscher liegen
                ließen, hat sich der steinerne Krake hingelegt und läßt seine Augen hungrig in den
                Himmel glühen und seinen zornigen Atem brausen, seine rauchenden Nüstern schwärzen
@@ -903,11 +896,11 @@
                so tut er es nur, um am Mittag wieder von neuem rasend aufzubrüllen, und wenn er sich
                des Abends schlafen legt, so tut er es nur, um Kraft zu sammeln zu neuen Hunger-und
                Begattungsschreien – ah! diese zusammengepreßt gierige, sich vor sich selber ekelnde,
-               von sich selber ruhlos besinnungslos durch die Tage gepeitschte Masse! Mit dem <pb
-                  facs="#"/> Stein, den sie in ihre Adern stampft, mit dem Eisenstück, durch das sie
-               ihre Knochen stützt, dient sie letzten Grundes ihren zwei Teufeln, die ihre Seele
-               umbrausen und ihr langsam den Wahnsinn einblasen, sie zu stillen, sie zu befriedigen
-               und hinzuhalten, sie zu verkleiden und zu verschönern, es ist kein Ding in ihr, kein
+               von sich selber ruhlos besinnungslos durch die Tage gepeitschte Masse! Mit dem <pb/>
+               Stein, den sie in ihre Adern stampft, mit dem Eisenstück, durch das sie ihre Knochen
+               stützt, dient sie letzten Grundes ihren zwei Teufeln, die ihre Seele umbrausen und
+               ihr langsam den Wahnsinn einblasen, sie zu stillen, sie zu befriedigen und
+               hinzuhalten, sie zu verkleiden und zu verschönern, es ist kein Ding in ihr, kein
                Stein, kein Ziegel, kein Wagen, kein Pferd, kein Altar und klingendes Instrument,
                kein Hund, keine Blume und plärrender Papagei, kein Teppich, kein Sessel und Stuhl,
                kein Wort wird gesprochen, kein Fluch gebrüllt, kein Messer geschwungen und kein Gift
@@ -933,13 +926,13 @@
                Lärm in seinen Eisenmagen wieder aus – –</p>
             <p>und auf dem Bahnhof empfing mich meine Geliebte- wild, fiebernd, ein schönes Tier.
                Und heute, nach sieben Tagen, da draußen der rote Nebel glüht und brüllt, sitze ich
-               still auf meinem Zimmer, mitten im Herz des Kraken schreibe ich an diesem <pb
-                  facs="#"/> Buch; groß und steil, neunundfünfzig Bogen schrieb ich voll, ich werde
-               anfangen müssen, kleiner zu schreiben, ganz klein – wie die Schlote und Kirchtürme
-               vom Berge aus gesehen; und der Tabakrauch, den ich in zitternden Ringschleiern über
-               sie blase, sind Wolken, die aus den Schluchten der Berge kommen, und meine Stirne der
-               Berg im Vorland, um den sie sich scharen; so stehe ich auf mir und schaue ins Land,
-               auf den Monolog eines langsam – mente captus!</p>
+               still auf meinem Zimmer, mitten im Herz des Kraken schreibe ich an diesem <pb/> Buch;
+               groß und steil, neunundfünfzig Bogen schrieb ich voll, ich werde anfangen müssen,
+               kleiner zu schreiben, ganz klein – wie die Schlote und Kirchtürme vom Berge aus
+               gesehen; und der Tabakrauch, den ich in zitternden Ringschleiern über sie blase, sind
+               Wolken, die aus den Schluchten der Berge kommen, und meine Stirne der Berg im
+               Vorland, um den sie sich scharen; so stehe ich auf mir und schaue ins Land, auf den
+               Monolog eines langsam – mente captus!</p>
             <p>Mein enges Zimmer ist voll von Rauch und voll brütender Melancholie, auf Schränken
                und Bänken und wurmstichigen Regalen verschlafen meine Bücher die Zeit, meine klugen
                Bücher die ewig strömende Zeit –</p>
@@ -975,14 +968,14 @@
                mit mir Wand an Wand; nachdem sie den Tag über einem abgenutzten Gelehrten Romane hat
                vorlesen müssen, Pariser, Münchener Kitsch, hat sie ihr Haar geöffnet und reckt und
                dehnt ihre nackten Glieder und öffnet die Schenkel und schleudert mit einem Male wie
-               besessen die Kissen herab und – wie kühl die Luft ist! Aber sie ist nicht <pb
-                  facs="#"/> immer so; es ist dunstig heute und still und der Krake hat seinen Tag,
-               an dem es nebelt und der Ekel vom Himmel fällt; dann hat sie ihre Stunde, in der sie
-               die Haare in Zöpfen flicht, im weißen Nachtkleid unter hohen Plumeaus liegt und Thee
-               mit spitzen Lippen trinkt und dazu Niels Lyhne liest. Sie hört, wie durch den dicken
-               Nebel hinten im Wald die Blätter fallen, und wenn sie das denkt, durch den die
-               letzten Blätter taumeln, schmiegt sie sich in die Kissen und sieht aus klugen Augen
-               nach der Tür, die sich doch gleich öffnen muß.</p>
+               besessen die Kissen herab und – wie kühl die Luft ist! Aber sie ist nicht <pb/> immer
+               so; es ist dunstig heute und still und der Krake hat seinen Tag, an dem es nebelt und
+               der Ekel vom Himmel fällt; dann hat sie ihre Stunde, in der sie die Haare in Zöpfen
+               flicht, im weißen Nachtkleid unter hohen Plumeaus liegt und Thee mit spitzen Lippen
+               trinkt und dazu Niels Lyhne liest. Sie hört, wie durch den dicken Nebel hinten im
+               Wald die Blätter fallen, und wenn sie das denkt, durch den die letzten Blätter
+               taumeln, schmiegt sie sich in die Kissen und sieht aus klugen Augen nach der Tür, die
+               sich doch gleich öffnen muß.</p>
             <p>Wie derart ein zur Kunst und Liebeskunst destillierter Massentrieb ein Leben, das
                sich sonst längst fortgeworfen hätte, schwebend tragen kann! Und nun muß er ganz
                ausbrennen in ihr und sich nicht um den Leib kümmern, auch wenn er schon morsch und
@@ -1006,9 +999,9 @@
                wir sie nennen und lügen, um einmal vor ewiger Langerweile zu hujahnen, und zum
                andern vor Hunger und brünstiger Not zu brüllen, aber Tag um Tag, einmal an jedem
                Tage zündet sie ihre verfluchte Schönheit an und wird dünn und durchsichtig und
-               unwirklich wie Glas, daß <pb facs="#"/> man ihre Abgründe und die Quellen ihrer
-               Abgründe rauschen zu hören glaubt – ich will nicht mehr in sie hinaus, sie macht mich
-               taumeln und ganz verrückt!</p>
+               unwirklich wie Glas, daß <pb/> man ihre Abgründe und die Quellen ihrer Abgründe
+               rauschen zu hören glaubt – ich will nicht mehr in sie hinaus, sie macht mich taumeln
+               und ganz verrückt!</p>
             <p>Aber wenn du auch über den Dächern flatterst und aus grasgrünen Augen auf die goldne
                Stunde lauerst, in der du dich mit dem Furchtbaren vereinigst, das in mir wie ein
                Kolben bis an die Hirnschale hochstoßen und sie durchbrechen und aus mir als ein
@@ -1037,10 +1030,10 @@
                Wollüste und Schrecken des Wahnsinns durchjagen und mich gegen ihn bäumen werde, daß
                ich über ihn springe, hussa! über ihn setze und mit einem Satz wieder Mensch unter
                Menschen bin.</p>
-            <p>Wohl weiß ich, daß der Leib des Paralytikers verfällt und verfault, <pb facs="#"/>
-               wohl kenne ich das »langsame aber stetige Schwinden des Intellekts«, aber ich lasse
-               nicht von meinem Geist, ich halte ihn fest, ich reite auf ihm und zwinge ihn und
-               seinen Knecht durch!</p>
+            <p>Wohl weiß ich, daß der Leib des Paralytikers verfällt und verfault, <pb/> wohl kenne
+               ich das »langsame aber stetige Schwinden des Intellekts«, aber ich lasse nicht von
+               meinem Geist, ich halte ihn fest, ich reite auf ihm und zwinge ihn und seinen Knecht
+               durch!</p>
             <p>Trotzdem, trotzalledem, ich will mich auf die Stunde rüsten und mich wohl wappnen;
                ich will hart an mich halten und meine blauen Flügel schon stutzen; ich will nur von
                Tatsachen schreiben und solchen Tatsachen, wie ihr sie seht, klein, wahr, eng, ohne
@@ -1070,8 +1063,8 @@
                Presse; ein rechter Mann muß sie verachten und darf nur über sie reden, als wenn sie
                Buben wären und er den Bakel führte.</p>
             <p>
-               <pb facs="#"/> Nachzutragen habe ich, daß sie eine kleine Blender-Glanzzeit haben,
-               aber schnell ist ihr einer Gedanke, vielmehr die eigenartige Färbung und einseitige
+               <pb/> Nachzutragen habe ich, daß sie eine kleine Blender-Glanzzeit haben, aber
+               schnell ist ihr einer Gedanke, vielmehr die eigenartige Färbung und einseitige
                Betonung, die der gestohlene und kastrierte in ihnen annahm, zu Tode gehetzt und
                –</p>
             <p>und ein solcher Kläffer, der sich selbst zu Tode kläffte, war der Mann, der faul und
@@ -1101,9 +1094,9 @@
                die Liebe einer klugen Frau, die reich war.</p>
             <p>Aber diese Essays über allerhand blieben eben einige, denn bald hatte er seinen einen
                Gedanken, den des übertriebenen und hemmenden Historizismus, der der Grund und der
-               fortschrittlich <pb facs="#"/> affektvolle Ausklang seiner blendenden Kritiken war,
-               zu Tode geschrieben. Es war sein Pech, daß er klug genug war, dieses armselige zu
-               Tode Treiben als solches zu erkennen, und so warf er nach einem Jahr seine kritische
+               fortschrittlich <pb/> affektvolle Ausklang seiner blendenden Kritiken war, zu Tode
+               geschrieben. Es war sein Pech, daß er klug genug war, dieses armselige zu Tode
+               Treiben als solches zu erkennen, und so warf er nach einem Jahr seine kritische
                Feuilletonfeder in die Ecke und lebte von dem Gelde seiner Frau.</p>
             <p>Und als das Geld auf Reisen und so weiter ausgehen wollte, kaufte seine Frau ein
                Haus, in dem sie möblierte Zimmer vermietete, an Studenten und Litteratenvolk
@@ -1131,17 +1124,17 @@
                muß man an den Selbstmord denken, ob es nicht bald Zeit wird. Denn ich will ganz Herr
                über mich sein und meinen Faden abschneiden wann ich will und nicht, wann es jenem
                Lehmkloß beliebt, der mich aufwarf wie das Wasser aus seiner morastigen Tiefe Blasen
-               wirft. Aber ich war mehr bei meinen Freunden, bei<pb facs="#"/> den Menschen, die
-               mich kennen, – wie sie sich wohl geben und was sie wohl sagen würden, wenn ich nicht
-               mehr da wäre. Die Eitelkeit fliegt über den Tod, sie ist unsterblich und sieht aus
-               wie ich, denn ich bin der eitelste Mensch, einer der am bewußtesten schreibt und am
-               affektiertesten seine Sätze baut, einer der immer sich selber zuhört und nicht müde
-               werden mag, nach dem Klang seiner Worte die Ohren zu spitzen, einer der mit jeder
-               Silbe kokettiert, weil er nichts anderes hat, mit dem er liebäugeln könnte, und der
-               furchtsamste, denn die Stille, die Stille – wie ein Tiger, der gleich aufspringen
-               will, schaut sie der heulenden Nebelkugel zu – wenn er doch zuspringen wollte, wenn
-               er doch mitheulen wollte, wenn er doch sich um sich selber kugelnd sich in den
-               Schwanz bisse: hei is verrückt! – –</p>
+               wirft. Aber ich war mehr bei meinen Freunden, bei<pb/> den Menschen, die mich kennen,
+               – wie sie sich wohl geben und was sie wohl sagen würden, wenn ich nicht mehr da wäre.
+               Die Eitelkeit fliegt über den Tod, sie ist unsterblich und sieht aus wie ich, denn
+               ich bin der eitelste Mensch, einer der am bewußtesten schreibt und am affektiertesten
+               seine Sätze baut, einer der immer sich selber zuhört und nicht müde werden mag, nach
+               dem Klang seiner Worte die Ohren zu spitzen, einer der mit jeder Silbe kokettiert,
+               weil er nichts anderes hat, mit dem er liebäugeln könnte, und der furchtsamste, denn
+               die Stille, die Stille – wie ein Tiger, der gleich aufspringen will, schaut sie der
+               heulenden Nebelkugel zu – wenn er doch zuspringen wollte, wenn er doch mitheulen
+               wollte, wenn er doch sich um sich selber kugelnd sich in den Schwanz bisse: hei is
+               verrückt! – –</p>
             <p>Eins, zwei, drei – – nun schlägt es zwölf! Und mein Zimmer sinkt, sinkt durch die
                Stockwerke, die Schottermassen – auf den Schotterflächen, den Kiesen, die die
                Schmelzwasser der Gletscher liegen ließen, hat sich der steinerne Krake hingelegt und
@@ -1162,11 +1155,11 @@
             <p>Der Stein liegt tief im Schlaf, oben, unten, und auch die Stille schreit nicht mehr.
                Der Tabakrauch aber spielt zaghaft kapriziös über den feuchten schwarzen Strichen,
                die irgend ein Etwas mich malen heißt, bedachtsam und steif; es ist gewiß der Stein,
-               der <pb facs="#"/> seine Träume endlos spinnt und mich sie ewig krummen Rückens malen
-               heißt; von allen Seiten, oben, unten, durch alle Poren, Augen, Ohren dringen sie in
-               mich und führen meine müde willenlose Hand – ich bin überhaupt Stein, ich bin das
-               Gehirn des Steins, und was die Leute oben Welt und Leben nennen, das sind nur meine
-               Träume, meine Träume, deren Leib der Stein der Erde ist – ich bin gewiß der Sinn und
+               der <pb/> seine Träume endlos spinnt und mich sie ewig krummen Rückens malen heißt;
+               von allen Seiten, oben, unten, durch alle Poren, Augen, Ohren dringen sie in mich und
+               führen meine müde willenlose Hand – ich bin überhaupt Stein, ich bin das Gehirn des
+               Steins, und was die Leute oben Welt und Leben nennen, das sind nur meine Träume,
+               meine Träume, deren Leib der Stein der Erde ist – ich bin gewiß der Sinn und
                sicherlich das Herz der Welt. Wie simpel doch die Lösung ist, die einst unmöglich
                schien –: der Traum des Steins, und der Stein des Traums; das Signum der Welt ist die
                umgefallene 8 und die Unendlichkeit. Nun muß ich wach bleiben, damit der Stein
@@ -1195,11 +1188,11 @@
                Aber brüllte ich auch auf wie ein Stier, es hörte mich keiner, es hört uns
                keiner.</p>
             <p>
-               <pb facs="#"/> Glaubt nur nicht, daß ich toll bin, wähnt ja nicht, daß ich lebendig
-               begraben bin, oh! Traumaufzeichner ist mein Titel und die Träume des Steins hören zu
-               können, ist mein Beruf; ich träume sie und ich träume mich selber zunichte. Ich habe
-               nichts anderes, womit ich mich zunichte richten könnte, wo ich mich doch einmal
-               zunichte richten muß! –</p>
+               <pb/> Glaubt nur nicht, daß ich toll bin, wähnt ja nicht, daß ich lebendig begraben
+               bin, oh! Traumaufzeichner ist mein Titel und die Träume des Steins hören zu können,
+               ist mein Beruf; ich träume sie und ich träume mich selber zunichte. Ich habe nichts
+               anderes, womit ich mich zunichte richten könnte, wo ich mich doch einmal zunichte
+               richten muß! –</p>
             <p>Nun ist es oben Herbst geworden und über die weißen Staubstraßenschlangen bläst ein
                harter Wind; über das Haar eines Eichenbusches kommt er klirrend gesprungen und fällt
                klagend und blätterraschelnd über den Hügel hinab, auf dessen Stoppeln und
@@ -1225,8 +1218,8 @@
                das Barometer stand hoch und die Winde, die auf der See hinein in die
                Luftaufwirbelung wehten, kamen vorwiegend aus Osten und waren frisch und bewegt; Tag
                für Tag war die Sonne als rote Feuerkugel in das Meer gesunken und von keiner
-               glummenden Nebelbank hinabgetragen und keiner <pb facs="#"/> kitschigen Waberlohe zu
-               Grabe gebracht, rein und einsam fiel sie zu Tode und machte die Menschen seltsam
+               glummenden Nebelbank hinabgetragen und keiner <pb/> kitschigen Waberlohe zu Grabe
+               gebracht, rein und einsam fiel sie zu Tode und machte die Menschen seltsam
                sehnsüchtig und fiebernd erregt.</p>
             <p>Aber wenn sie sich schon anschickte, senkrecht durch den ehern hellen Himmel zu
                fallen, tauchte unter dem Horizont ein glatter Streifen auf, glänzend silbergrau;
@@ -1255,13 +1248,13 @@
                in die Erde geschlagen hat, war der Himmel wieder unbewölkt, fünf weiße Wolkenfäden
                und eine dumme Gänsefeder taumeln verloren über ihn, sonst ist er unbewölkt und so
                strahlend einsam, daß man weinen möchte, und wird nun, so rein ist seine Atmosphäre,
-               über dem blauen Meer rosenrot. Und die Sonne in ihm ist feurig ernst und drohend <pb
-                  facs="#"/> groß, und je tiefer sie fällt und je ovaler sie wird, desto
-               eindringlicher wird die dunkle Wellenlinie des Horizonts, und wie sie die leise
-               wogende endlich berührt hat, ist sie eine saffrangelbe Ellipse geworden. Nun sinkt
-               sie schnell, jetzt nur noch ein schmales langgestrecktes Segment, dann verschwindet
-               auch dieses und hinterläßt nichts denn eine lange leuchtend goldne Linie – das sind
-               die noch erleuchteten Wogen des fernen Meeres.</p>
+               über dem blauen Meer rosenrot. Und die Sonne in ihm ist feurig ernst und drohend
+               <pb/> groß, und je tiefer sie fällt und je ovaler sie wird, desto eindringlicher wird
+               die dunkle Wellenlinie des Horizonts, und wie sie die leise wogende endlich berührt
+               hat, ist sie eine saffrangelbe Ellipse geworden. Nun sinkt sie schnell, jetzt nur
+               noch ein schmales langgestrecktes Segment, dann verschwindet auch dieses und
+               hinterläßt nichts denn eine lange leuchtend goldne Linie – das sind die noch
+               erleuchteten Wogen des fernen Meeres.</p>
             <p>Noch ist der Silberstreifen glatt und vornehm silbergrau, wie er war, da die
                vorüberfahrenden Schiffe mit ihren luftigen Konterfeien Raen und Rauchwolken
                verhedderten, oder da die Sonne noch wie ein zusammengepreßter Ball leuchtend süßer
@@ -1287,10 +1280,10 @@
                Becher, einen Sonnenbecher, dessen gold dunkler Haute Sauterner in der Horizontlinie
                wallend überschäumt – – –</p>
             <p>Aber der Becher zerbricht und zerfließt wie ein schöner Rausch; der Stiel zwischen
-               Fuß und Schale wird dünn und <pb facs="#"/> schmal, ein dünner Stiel, der rasch
-               zerreißt, so daß nun bald nur ein Riesengoldtropfen von der wallend glänzenden Linie
-               des Horizontes gegen ein immer schmaler werdendes Segment aus purem Golde hängt, das
-               sich von dem unteren Rande des silbergrauen Streifens ihm entgegen hebt.</p>
+               Fuß und Schale wird dünn und <pb/> schmal, ein dünner Stiel, der rasch zerreißt, so
+               daß nun bald nur ein Riesengoldtropfen von der wallend glänzenden Linie des
+               Horizontes gegen ein immer schmaler werdendes Segment aus purem Golde hängt, das sich
+               von dem unteren Rande des silbergrauen Streifens ihm entgegen hebt.</p>
             <p>Immer vollkommener wird der Strom des Silberstreifens, Segment und Tropfen spült er
                fort, auch die wogend goldne Linie des Horizonts ist mit einem Male verschwunden –
                lachend springt der Teufel ins Meer.</p>
@@ -1317,8 +1310,8 @@
                dazu läßt sie diese ihre karmoisinroten Blütenköpfe melancholisch hängen und riecht
                ein wenig nach toten Fröschen oder Ähnlichem – denken Sie nicht an sie. Doch bitte,
                denken Sie an sie. Denn diese melancholischen Blumenköpfe, oh liebster Freund, diese
-               melancholischen Köpfe – ich habe Ihnen die Syphilis gegeben. Kennst du <pb facs="#"/>
-               sie, Geliebter? Ich hab mir sagen lassen, es ist so ein kleines Viech, so ein kleines
+               melancholischen Köpfe – ich habe Ihnen die Syphilis gegeben. Kennst du <pb/> sie,
+               Geliebter? Ich hab mir sagen lassen, es ist so ein kleines Viech, so ein kleines
                Korkenzieherviech. Sei nicht böse, Liebster, – so ein kleines Viech! Sehen Sie, die
                Sonne ist auch zuweilen nur eine Punschterrine.</p>
             <p>Wissen Sie noch – ach Liebster! Liebster! Aber mein Freund, nun schenken Sie mir –
@@ -1347,8 +1340,8 @@
                die Narren Tag um Tag, denn hätte ich sie geliebt, blauäugig gänseweiß und mit einem
                kleinen Geruch nach Butterbrot, so wäre ich von meiner süßen Höhe hinab in die blinde
                Brunst, oh Gott! in den Schrei nach dem Kinde getaumelt; ich liebe eben nur mich und
-               meine helläugige Verachtung. Und <pb facs="#"/> gerade, sieh Liebster, wie gut mein
-               süßer Heiliger es mit mir meint, als diese Lust ihre zarte Hand verlieren und alt und
+               meine helläugige Verachtung. Und <pb/> gerade, sieh Liebster, wie gut mein süßer
+               Heiliger es mit mir meint, als diese Lust ihre zarte Hand verlieren und alt und
                schwerblütig werden wollte, wurde ich in einer roten Nacht – du weißt. Und nun
                träufelte die Grausamkeit ihren jungen Saft in meine alternde Lust. Mit unergründlich
                süßen Augen gab ich ewig lächelnd Lust und Tod, ich war wie das Leben selbst, das in
@@ -1377,8 +1370,8 @@
                überraschender duftet und raschelt und knistert und gestickt und gefärbt ist als die
                vorige, während ich nicht mehr aus mir und aus dem Leben herauskonnte; ich vermochte
                nicht mehr – objektiv zu werden, wie Sie, mein weiser Freund und teurer Weiser. So
-               war das erste, was ich Ihnen gegenüber empfand, Neid und Haß, <pb facs="#"/> ich war
-               ein Ressentimenttierchen par excellence gegenüber Ihrer aristokratischen Ironie und
+               war das erste, was ich Ihnen gegenüber empfand, Neid und Haß, <pb/> ich war ein
+               Ressentimenttierchen par excellence gegenüber Ihrer aristokratischen Ironie und
                ironischen Objektivität und, wie es so geht, verliebte ich mich in Ihre
                Vollkommenheit, während ich sie Ihnen gleichzeitig neidete und Sie haßte, weil ich
                Sie beneidete, und Sie tausendmal haßte, weil ich Sie liebte. Darum mußte ich dich
@@ -1410,9 +1403,9 @@
                schließt, schloß sich der Stein und fauchend entflog die Luft – – – langsam tückisch
                kriechend von den Bergen schwillt sie zu trockenem klingendem Sturm und bricht wie
                ein Räuber pfeilgerade als Mistral in das Meer.</p>
-            <p>Nun wird sich der Stein weiter ineinander schließen, wie eine <pb facs="#"/> Faust
-               grimmig sich schließt, er wird mich zerdrücken wie man ein Rosenblatt zerreibt; und
-               meine arme Seele – gleich dem Duft, der jenem roten Saft entsteigt, wird sie hoch und
+            <p>Nun wird sich der Stein weiter ineinander schließen, wie eine <pb/> Faust grimmig
+               sich schließt, er wird mich zerdrücken wie man ein Rosenblatt zerreibt; und meine
+               arme Seele – gleich dem Duft, der jenem roten Saft entsteigt, wird sie hoch und
                schwerelos durch die Poren des Steines dringen und ein Ich weiß nicht, was? flattern
                in ein Ich weiß nicht, wohin?, eine Magelhansche Wolke, ein schimmernder Sternennebel
                en miniature – ein flimmernder Quark, ein okkulter Mist.</p>
@@ -1440,10 +1433,10 @@
                eingekerkerten Verborgenheit und der langen Zeit bis dahin, wann er Flamme wird und
                heller Wahn: ich bin gewiß krank und warte nur darauf, ganz krank zu sein.</p>
             <p>Glaubt nicht, daß ich ängstlich bin, wähnt ja nicht, daß ich ein Zittern mit harten
-               Zähnen zerbeiße, ich halte meinen Geist schon <pb facs="#"/> fest, ich zwinge ihn
-               schon durch, auch wenn ich im Nebel versunken bin, auch wenn ich im Stein vergraben
-               bin, auch wenn ich aus dem Herz des Kraken herabfiel in diese Tiefe, denn – im
-               Frühjahr, im Frühling werde ich auf mein Haupt Schnee und Sonne streuen. –</p>
+               Zähnen zerbeiße, ich halte meinen Geist schon <pb/> fest, ich zwinge ihn schon durch,
+               auch wenn ich im Nebel versunken bin, auch wenn ich im Stein vergraben bin, auch wenn
+               ich aus dem Herz des Kraken herabfiel in diese Tiefe, denn – im Frühjahr, im Frühling
+               werde ich auf mein Haupt Schnee und Sonne streuen. –</p>
             <p>Es ist der siebente Tag nach dem heiligen des vorigen Monds, an dem die Erde sich
                auftat und mich verschluckte. Nun werden sie sich oben, die Tiere und glückhaften
                Narren, an das gähnende Nichts, in das sie vom Flur aus treten und durch das sie
@@ -1469,9 +1462,9 @@
                dich und reite auf dir! Oh Liebster, halte an dich! Es ist, als seien an meiner
                Schädeldecke elf Bindfäden befestigt – halte sie fest, lüfte nicht für eine Sekunde
                die Hand! Denn wenn du losläßt – –! Noch nicht, es ist noch nicht an der Zeit, der
-               Funke ist noch nicht zur Flamme geworden, der Stein <pb facs="#"/> der Erde ward noch
-               nicht brüchig genug und morsch, ich halte die zuckenden zitternden lüstern zerrenden
-               Fäden noch fest – noch nicht!</p>
+               Funke ist noch nicht zur Flamme geworden, der Stein <pb/> der Erde ward noch nicht
+               brüchig genug und morsch, ich halte die zuckenden zitternden lüstern zerrenden Fäden
+               noch fest – noch nicht!</p>
             <p>Ich habe folgendes an mir konstatiert. Die Zeit, in der mein Geist, verbohrt genug,
                noch Sturm lief gegen das Seiende und sich im heroischen Pathos an ihm töricht
                zerschmetternd gefiel, die Zeit, in der noch Schwung in mir war und ich mir noch
@@ -1513,19 +1506,19 @@
 
 
             <p>
-               <pb facs="#"/> Aber das Sprungbrett schnellte nicht mehr und über diese »Weisheit«
-               und ihren kleinen Stolz kam ich nicht hinaus und – wurde müd und taub und blind. Wohl
-               kannte ich meinen in eine neue Zeit sehnsüchtig winkenden Raritätenwert und betonte
-               ihn um so mehr, je mehr ich fühlte, daß er mein Einziges und Letztes war, aber mein
-               impetus verfaulte und ich wurde traurig steril. Da begann ich zu trinken und
-               abermalen die Weiber zu lieben um ihrer Brüste und nackten Bäuche willen und modelte
-               mir eine feine Rauschtheorie: das Ungeheure ist nur zu ertragen im Rausch und alle
-               unsere Handlungen sind narcotica. Aber als diese narcotica auch anfingen, mir zuwider
-               zu werden und ich erkannte, daß die Flucht zu ihnen auch nur eben eine Flucht und
-               Feigheit war, blieb mir nichts als der resignierende Satz: einsam und rein! und das
-               traurige Symbolum des Steins, hart und taub und kalt wie er und ganz steril. Auf
-               meinem Schreibtisch, plump und stumm und wund von Gletscherschliffen, aus der Heide
-               brachte ich ihn heim, ein alter Heidenstein und dummer Reim:</p>
+               <pb/> Aber das Sprungbrett schnellte nicht mehr und über diese »Weisheit« und ihren
+               kleinen Stolz kam ich nicht hinaus und – wurde müd und taub und blind. Wohl kannte
+               ich meinen in eine neue Zeit sehnsüchtig winkenden Raritätenwert und betonte ihn um
+               so mehr, je mehr ich fühlte, daß er mein Einziges und Letztes war, aber mein impetus
+               verfaulte und ich wurde traurig steril. Da begann ich zu trinken und abermalen die
+               Weiber zu lieben um ihrer Brüste und nackten Bäuche willen und modelte mir eine feine
+               Rauschtheorie: das Ungeheure ist nur zu ertragen im Rausch und alle unsere Handlungen
+               sind narcotica. Aber als diese narcotica auch anfingen, mir zuwider zu werden und ich
+               erkannte, daß die Flucht zu ihnen auch nur eben eine Flucht und Feigheit war, blieb
+               mir nichts als der resignierende Satz: einsam und rein! und das traurige Symbolum des
+               Steins, hart und taub und kalt wie er und ganz steril. Auf meinem Schreibtisch, plump
+               und stumm und wund von Gletscherschliffen, aus der Heide brachte ich ihn heim, ein
+               alter Heidenstein und dummer Reim:</p>
 
 
             <l>So bist du mir das Symbolum der Welt</l>
@@ -1555,12 +1548,12 @@
 
             <p>Und meine Sprache ward glatt und kokett und anstatt Handwerkszeug und Meißel zu sein,
                ward sie autokratisch und tat nichts als nur mit Worten spielen, mit Worten spielen
-               nur des <pb facs="#"/> Spielens und müden Spielens und des koketten Klingens wegen.
-               Ich bin gewiß so weit, wie ich wollte, hart und taub und kalt und ganz steril,
-               schimmernd in toten Farben, klingend in toten Klängen. Und ich pflege eine müde böse
-               Lust der Selbstbeobachtung, eine Lust, die mich immer schneller meiner Auflösung
-               zutreibt und die doch keine neue Welt aus sich springen läßt. Denn das agens ist nur
-               die Eitelkeit, grausam gegen mich sein und die letzten Funken meines nun bald völlig
+               nur des <pb/> Spielens und müden Spielens und des koketten Klingens wegen. Ich bin
+               gewiß so weit, wie ich wollte, hart und taub und kalt und ganz steril, schimmernd in
+               toten Farben, klingend in toten Klängen. Und ich pflege eine müde böse Lust der
+               Selbstbeobachtung, eine Lust, die mich immer schneller meiner Auflösung zutreibt und
+               die doch keine neue Welt aus sich springen läßt. Denn das agens ist nur die
+               Eitelkeit, grausam gegen mich sein und die letzten Funken meines nun bald völlig
                erlöschenden Intellekts melancholisch spielend genießen zu können – ein ganz normaler
                Verlauf: voilà »das langsame aber unaufhaltsame Schwinden des Intellekts.« Sehen Sie,
                ich bin gewiß ein Mensch, an dem die Natur das Experiment einer langsamen Zerstörung
@@ -1584,9 +1577,9 @@
                sich und in meinem hortensienroten Hirnblumenkohl wachsen tückische
                Granulationsgeschwüre, die degenerieren fettig und verkäsen und werden schwielig
                fibrös und erlangen eine harte Konsistenz: verkalkte Gummiknoten wie Taubeneier groß
-               liegen in meinem armen Hirn, gallertige Flächenmassen, grau, graurot, <pb facs="#"/>
-               von schleimiger Weichheit, gleich Bleikugeln und fließendem Hydrargium drücken sie
-               sich in den einst so köstlichen Teig und lassen meinen Kopf in einem dumpfen Schmerz
+               liegen in meinem armen Hirn, gallertige Flächenmassen, grau, graurot, <pb/> von
+               schleimiger Weichheit, gleich Bleikugeln und fließendem Hydrargium drücken sie sich
+               in den einst so köstlichen Teig und lassen meinen Kopf in einem dumpfen Schmerz
                schwimmen; sie machen meine Augen starr und mein Gesicht gedunsen und bleich und
                lassen ruhelos über seine verwaschenen Züge ein Wetterleuchten huschen, das sieht aus
                wie bei einem, der römische Elegien liest. Ich taumle, meine Hände zittern und stoßen
@@ -1614,10 +1607,10 @@
             <p>Die Welt – ein Produkt von Stoff und Raum und Zeit; du kannst auch für das eine das
                andere setzen oder für alle das Wörtchen Energie: denn die Stoffe sind in diesen
                Tagen zur Energie geworden; einstmals nannten wir sie die Ursachen unserer
-               Empfindungen, und die letzte Ursache ihrer Änderungen untereinander <pb facs="#"/>
-               und ihrer veränderten Beziehungen zu unseren Sinnesorganen, aus welchen Beziehungen
-               die Empfindungen wachsen, nannten wir die Kraft. Und da wir es nicht zu Ende
-               sophisten können, wie die Kraft – was ist die Kraft? wirklich die Funktion bewegter
+               Empfindungen, und die letzte Ursache ihrer Änderungen untereinander <pb/> und ihrer
+               veränderten Beziehungen zu unseren Sinnesorganen, aus welchen Beziehungen die
+               Empfindungen wachsen, nannten wir die Kraft. Und da wir es nicht zu Ende sophisten
+               können, wie die Kraft – was ist die Kraft? wirklich die Funktion bewegter
                energetischer Raumzentren? – am Stoffe angreift, – vielmehr: wie die Kraft die
                Funktion des Stoffes ist, denn die Ursächlichkeit haben wir eskamotiert – so ziehen
                wir das, was wir intensiver in unseren Muskeln fühlen, die Kraft, der schon
@@ -1645,8 +1638,8 @@
                Wahrnehmungen. Und das Ich –? Ein Gefühl? Im »Gefühl« steckt bereits Subjekt und
                Prädikat: Ich fühle Mich. Und dieses Ich? Nun, vorläufig ein Wort, ein Substantiv;
                und wenn ein Substantiv die Subjektsfunktion übernimmt, so ist es damit ein
-               Kraftzentrum geworden, und <pb facs="#"/> zwar ein objektiv vorhandenes, als dessen
-               Wirkungen die wahrgenommenen Vorgänge aufgefaßt werden.</p>
+               Kraftzentrum geworden, und <pb/> zwar ein objektiv vorhandenes, als dessen Wirkungen
+               die wahrgenommenen Vorgänge aufgefaßt werden.</p>
             <p>Und die Korrelate der Kraft, die Kapazitäten für Energie, d.i. die Masse, diese
                Massen der Körper ziehen einander an; und da die Körper Molekularbewegungen von
                Energiezentren sind und die Energie letzten Endes eine zweckzielende Tätigkeit, ein
@@ -1676,11 +1669,11 @@
                dieses übernimmt alles der geduldsame Äther; in den letzten Tagen ist es gar die
                einzig dauernde Substanz geworden, die zwar Masse hat, ob auch Schwere, das ist
                unbestimmt. Und diesen Äther – d.i. den Sohn der Finsternis und der Nacht oder die
-               Allem zugrunde <pb facs="#"/> liegende Substanz – zerlegen wir in Atome, wie wir es
-               schon mit den ponderablen Körpern getan und, bei dieser Zerfällung des mit Qualitäten
-               erfüllten Raumes in kleinste Teile, eine Verwechselung begangen hatten zwischen den
-               gedachten kleinsten Teilen des Raumes und den letzten undenkbaren Teilen des Stoffes;
-               – diese Ätheratome rasen regellos und mit derselben unnennbar hohen Geschwindigkeit
+               Allem zugrunde <pb/> liegende Substanz – zerlegen wir in Atome, wie wir es schon mit
+               den ponderablen Körpern getan und, bei dieser Zerfällung des mit Qualitäten erfüllten
+               Raumes in kleinste Teile, eine Verwechselung begangen hatten zwischen den gedachten
+               kleinsten Teilen des Raumes und den letzten undenkbaren Teilen des Stoffes; – diese
+               Ätheratome rasen regellos und mit derselben unnennbar hohen Geschwindigkeit
                durcheinander und treiben die Körper, die gegenseitig eine Art Schirmwirkung ausüben
                – die Körper, deren letzte Bestandteile notabene von Ätheratomen umkreiste Atome
                sind, die hinwiederum dichtere Ätheratome darstellen – aufeinander und schaffen
@@ -1707,11 +1700,11 @@
                Etwas, das Erinnerungen hat –, habe Erinnerungen. Cogito – das sagt nur: etwas hat
                das Bewußtsein seiner Dauer. Seiner Dauer? Seines Seins?</p>
             <p>
-               <pb facs="#"/> Auf das »Sein« kommt es hinaus? Auf das Sein, als das einzig
-               Wirkliche? Aber um dieses einzig Wirkliche zu finden, muß ich von allem Wirklichen
-               abstrahieren; denn das Sein bleibt übrig, wenn ich von der Wirklichkeitswelt, nämlich
-               von dem sich gegenseitig bedingenden und tragenden Netz der Eigenschaften, Stück für
-               Stück alles nehme, was begriffen werden kann.</p>
+               <pb/> Auf das »Sein« kommt es hinaus? Auf das Sein, als das einzig Wirkliche? Aber um
+               dieses einzig Wirkliche zu finden, muß ich von allem Wirklichen abstrahieren; denn
+               das Sein bleibt übrig, wenn ich von der Wirklichkeitswelt, nämlich von dem sich
+               gegenseitig bedingenden und tragenden Netz der Eigenschaften, Stück für Stück alles
+               nehme, was begriffen werden kann.</p>
             <p>Begriffen werden kann? Begreifen? Das heißt nicht einmal: ich erkenne die Identität
                zweier oder mehrerer Vorstellungen, sondern nur: ich führe eine neue Empfindung, eine
                neue Vorstellung auf alte, gewohnte, nicht mehr mir fremde, nicht mehr mich
@@ -1737,8 +1730,8 @@
                füllt die Farbe meine Höhle, wie die Sprache kleiner Märchen meine Riesenhöhle. Auf
                leichten weichen Flügelschlägen schwimme ich, ein einsamer Punkt, durch das ungeheure
                Märchen, durch die endlose sehnsüchtige Süßigkeit. Jetzt bin ich nur noch ein Wort,
-               ein kleines zartes Wort, das mit einer verzuckerten <pb facs="#"/> Traurigkeit
-               unsterblich durch die Jahrtausende fliegt, durch die Sprache der Menschen, durch ihre
+               ein kleines zartes Wort, das mit einer verzuckerten <pb/> Traurigkeit unsterblich
+               durch die Jahrtausende fliegt, durch die Sprache der Menschen, durch ihre
                märchenschöne Welt, durch alle ihre Geheimnisse und Rätsel, die doch gar keine Rätsel
                und Geheimnisse, die feine süße Klänge und spielende, ein ganz klein wenig verlogene
                Kaprizzios sind, singe und fliege ich; und ich bin nur einer dieser Klänge, nur ihr
@@ -1770,7 +1763,7 @@
             <l>in deiner Sinne Farbenglut,</l>
             <l>in deiner Sprachen Märchengut</l>
             <l>herrscht herrisch der Instinkte Wut!</l>
-            <pb facs="#"/>
+            <pb/>
             <l>Versteck dich nicht – wir kennen dich:</l>
             <l>aus jedem Finger spricht Verrat,</l>
             <l>aus deiner erdenfernsten Tat</l>
@@ -1802,11 +1795,11 @@
                haben mich schweigend eingeschlossen, stumm sitze ich wieder mitten im Grund der
                Erde.</p>
             <p>
-               <pb facs="#"/> Es ist totenstill – – es knistert! Es knackt – es bricht irgendwo und
-               leuchtet – es wird Nacht und die Lampe erlischt – es poltert donnernd und irgendwo
-               stürzen Bergemassen ein – es schlägt eine Flamme lohend hoch und verbrennt die Welt –
-               – – – – – welch weißer Glanz?</p>
-            <pb facs="#"/>
+               <pb/> Es ist totenstill – – es knistert! Es knackt – es bricht irgendwo und leuchtet
+               – es wird Nacht und die Lampe erlischt – es poltert donnernd und irgendwo stürzen
+               Bergemassen ein – es schlägt eine Flamme lohend hoch und verbrennt die Welt – – – – –
+               – welch weißer Glanz?</p>
+            <pb/>
          </div>
       </body>
    </text>

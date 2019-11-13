@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../WG1/distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../WG1/distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de" xml:id="DEU080">
    <teiHeader>
       <fileDesc>
@@ -46,16 +46,15 @@
    </teiHeader>
 
    <text>
-      
+
       <body>
-         <div type="chapter">
+         <div type="group">
             <div type="chapter">
 
                <head>Eduard von Keyserling</head>
                <head>Dumala</head>
                <l>
-                  <pb facs="#"/> Der Pastor von Dumala, Erwin Werner, stand an seinem Klavier und
-                  sang:</l>
+                  <pb/> Der Pastor von Dumala, Erwin Werner, stand an seinem Klavier und sang:</l>
 
                <!--milestone hi_start-->
 
@@ -82,7 +81,7 @@
                <p>Es war zu schön, wie der Mann, von der Musik hingerissen, sich wiegte, wie er
                   wuchs, größer und breiter wurde, wie all das Süße und Starke, all die Leidenschaft
                   herausströmten. Das gab ihr einen köstlichen Rausch. Tränen schnürten ihr die
-                  Kehle <pb facs="#"/> zusammen und um das Herz wurde es ihr seltsam beklommen.</p>
+                  Kehle <pb/> zusammen und um das Herz wurde es ihr seltsam beklommen.</p>
 
                <!--milestone hi_start-->
                <p>»Seit jener Stunde verzehrt sich mein Leib,</p>
@@ -119,7 +118,7 @@
                   zu klappern.</p>
                <p>»Wie Siegfried!« kam es leise über die Lippen der kleinen Frau.</p>
                <p>
-                  <pb facs="#"/> »Wer?« fuhr Pastor Werner auf.</p>
+                  <pb/> »Wer?« fuhr Pastor Werner auf.</p>
                <p>»Du«, sagte seine Frau.</p>
                <p>Werner lachte spöttisch, wandte sich ab und begann, die Hände auf dem Rücken, im
                   Zimmer auf und ab zu gehen.</p>
@@ -144,8 +143,8 @@
                   gehörte.</p>
                <p>»Die Baronin aus Dumala fuhr heute hier vorüber«, berichtete sie.</p>
                <p>
-                  <pb facs="#"/> »So«, meinte Werner, und sah über das Schnapsglas, das er zum Munde
-                  führen wollte, hinweg seine Frau scharf an: »Nun – und?«</p>
+                  <pb/> »So«, meinte Werner, und sah über das Schnapsglas, das er zum Munde führen
+                  wollte, hinweg seine Frau scharf an: »Nun – und?«</p>
                <p>»Nun, ja. Sie hatte eine neue Pelzjacke an. Entzückend!«</p>
                <p>Werner trank seinen Schnaps aus und fragte dann:</p>
                <p>»Stand sie ihr gut, diese Jacke?«</p>
@@ -168,8 +167,8 @@
                   gutmütigen Neufundländer. Ein wenig schweigsam war er, aber das pflegte er am
                   Sonnabend immer zu sein, wenn die Predigt ihm im Kopfe herumging.</p>
                <p>Nach dem Essen saß das Ehepaar am Kaminfeuer. Durch das Fenster, an dem die Läden
-                  offen geblieben<pb facs="#"/> waren, schaute die bleiche Schneenacht in das
-                  Zimmer. Aus der Gesindestube klang Tijas dünne, zitternde Stimme. Sie sang einen
+                  offen geblieben<pb/> waren, schaute die bleiche Schneenacht in das Zimmer. Aus der
+                  Gesindestube klang Tijas dünne, zitternde Stimme. Sie sang einen
                   Gesangbuchvers.</p>
                <p>»So ist's hübsch«, sagte Lene. »So ist's gemütlich! Nicht wahr? Alles ist still,
                   und das Feuer, – und man sitzt beisammen.«</p>
@@ -195,7 +194,7 @@
                   ganz bang.«</p>
                <p>Er zuckte die Achseln.</p>
                <p>
-                  <pb facs="#"/> »Seit wann willst du denn Einfluß auf meine Predigten nehmen?«</p>
+                  <pb/> »Seit wann willst du denn Einfluß auf meine Predigten nehmen?«</p>
                <p>Also nun hatte sie ihn auch noch geärgert. Sie schwieg. Während Werner, die Hände
                   auf dem Rücken, im Zimmer auf und ab ging, kauerte sie auf ihrem Sessel und folgte
                   ihm unverwandt mit den Blicken. Eben noch hatte sie sich glücklich gefühlt, jetzt
@@ -217,7 +216,7 @@
                <p>»Ja so – der Friede des Pastorats« – dachte er nicht ohne Bitterkeit. Weiß es
                   Gott! ihm war wenig friedlich zumute!</p>
                <p>
-                  <pb facs="#"/> Er stellte sich an das Fenster, schaute in die Nacht hinaus.</p>
+                  <pb/> Er stellte sich an das Fenster, schaute in die Nacht hinaus.</p>
                <p>Oben am Himmel war Aufregung unter den Wolken, zerfetzt und gebläht wie Segel
                   schoben sie sich aneinander vorüber. Der Mond mußte irgendwo sein, aber er wurde
                   verdeckt, nur ein schwaches, müdes Dämmerlicht lag über der Ebene.</p>
@@ -240,8 +239,7 @@
                <p>Ärgerlich wandte er sich vom Fenster ab. Es war zu dumm! Dieses Predigtmachen ließ
                   jedesmal alles in ihm toller rumoren denn je!</p>
                <p>
-                  <pb facs="#"/> Er begann wieder auf und ab zu gehen, dann blieb er vor Lene
-                  stehen.</p>
+                  <pb/> Er begann wieder auf und ab zu gehen, dann blieb er vor Lene stehen.</p>
                <p>Sie hatte die Füße auf den Sessel hinaufgezogen, die Wange an die Stuhllehne
                   gestützt. So schlief sie. Die Lippen halb geöffnet, atmete sie tief, auf dem
                   Gesichte den ernsten, besorgten Ausdruck, den Men schen in schwerem Schlafe
@@ -260,10 +258,9 @@
                   Sicherlich hatte der Mann wieder die ganze Nacht durch gesoffen. Die alte Orgel
                   stöhnte und seufzte ordentlich unter seinen rücksichtslosen Fingern.</p>
                <p>
-                  <pb facs="#"/> Werner sang nicht mit. Er schaute zum Fenster hinaus. Es taute und
-                  die Sonne schien. Die Bäume hingen ganz voll blanker Tropfen und das beständige
-                  Tropfen vom Dache und den Traufen legte um die Kirche ein helles Blitzen und
-                  Klingen.</p>
+                  <pb/> Werner sang nicht mit. Er schaute zum Fenster hinaus. Es taute und die Sonne
+                  schien. Die Bäume hingen ganz voll blanker Tropfen und das beständige Tropfen vom
+                  Dache und den Traufen legte um die Kirche ein helles Blitzen und Klingen.</p>
                <p>Sonntäglich! Die Sonntagsstimmung war da, die kam immer, aus alter Gewohnheit,
                   anfangs feierlich, später angenehm schläfrig. Er liebte diesen Augenblick in der
                   Sakristei vor der Predigt, wenn er dasaß und sich voll großer Worte, voll lauter,
@@ -284,9 +281,8 @@
                <p>Nun war es Zeit, auf die Kanzel zu steigen, sie sangen da drin schon den letzten
                   Vers des Liedes. Werner freute sich, zu finden, daß die Kirche voller Licht war.
                   Wenn die breiten, gelben Lichtbänder durch die hohen Fenster in den Raum fluteten,
-                  dann bekam seine Predigt auch anders helle Farben, als wenn die<pb facs="#"/>
-                  Kirche voll grauer Dämmerung war, und der Regen gegen die Fensterscheiben
-                  klopfte.</p>
+                  dann bekam seine Predigt auch anders helle Farben, als wenn die<pb/> Kirche voll
+                  grauer Dämmerung war, und der Regen gegen die Fensterscheiben klopfte.</p>
                <p>Es roch nach nassen, schweren Wollkleidern, frischgewaschenen Kattuntüchern und
                   Transtiefeln.</p>
                <p>Werner beugte sich über das Pult auf der Kanzel zum Gebet. Dieser Augenblick
@@ -308,8 +304,8 @@
                   groß und liebenswert erscheinst, weil wir zu dir wollen. Der Böse will, daß wir
                   die Sünde lieben, daß wir sie anbeten. Das ist sein Triumph. Das ist das tiefe,
                   furchtbare Geheimnis der Sünde.« Die Stimme des Pastors hatte hier einen tiefen,
-                     <pb facs="#"/> geheimnisvollen und leidenschaftlichen Tonfall angenommen, wie
-                  eine unheimliche Liebeserklärung an die Sünde klang es.</p>
+                  <pb/> geheimnisvollen und leidenschaftlichen Tonfall angenommen, wie eine
+                  unheimliche Liebeserklärung an die Sünde klang es.</p>
                <p>Er hielt inne, selbst erstaunt über das, was er sagte. Es klang fremd in die
                   Kirche hinein, und zugleich schien es ihm, als verriete er etwas, als spräche er
                   etwas aus, das geheim sein sollte und nur von ihm geahnt wurde.</p>
@@ -332,9 +328,9 @@
                   sprechen.«</p>
                <p>Leute kamen zu ihm, die Waldhäuslerin Marri, ihre Mutter, die alte Gehda, konnte
                   nicht sterben, das dauerte nun schon Wochen. Der Herr Pastor soll herüberkommen.
-                  Werner fertigte die Leute eilig und <pb facs="#"/> mechanisch ab, sagte das nötige
-                  »Gott weiß am besten, wenn er uns zu sich ruft. Wir müssen warten«. Die
-                  Waldhüterin klagte, daß ihr Mann sie zuschanden schlug, wenn er besoffen war.</p>
+                  Werner fertigte die Leute eilig und <pb/> mechanisch ab, sagte das nötige »Gott
+                  weiß am besten, wenn er uns zu sich ruft. Wir müssen warten«. Die Waldhüterin
+                  klagte, daß ihr Mann sie zuschanden schlug, wenn er besoffen war.</p>
                <p>Werner zog sich seinen Pelz an. »Ja, ja – ich komme mal an. Gott behüt' euch
                   lieben Leute – Gott befohlen.« Eilig ging er hinaus.</p>
                <p>Die Baronin Karola stand vor ihrem Schlitten, sehr schlank, fest in die blaue
@@ -355,9 +351,9 @@
                <p>Er half der Baronin in den Schlitten, setzte sich neben sie, und da lächelte auch
                   das kränkliche Knabengesicht und errötete.</p>
                <p>
-                  <pb facs="#"/> Werner stand noch eine Weile da und schaute dem Schlitten, dem
-                  Wehen des blauen Schleiers auf dem Fischottermützchen nach, er schützte die Augen
-                  mit der Hand vor der Sonne, um länger und besser sehen zu können.</p>
+                  <pb/> Werner stand noch eine Weile da und schaute dem Schlitten, dem Wehen des
+                  blauen Schleiers auf dem Fischottermützchen nach, er schützte die Augen mit der
+                  Hand vor der Sonne, um länger und besser sehen zu können.</p>
 
                <p>»Ich finde es rücksichtslos«, sagte Lene beim Mittagessen zu ihrem Mann, »daß die
                   Werlands dich immerfort hinüber bitten. Ich bin jeden Sonntagabend allein. Der
@@ -375,9 +371,9 @@
                   Gesellschaft haben. Es ist ihr nicht genug, daß der arme Pichwit sie verliebt
                   ansieht, sie will so 'n großen, schönen Mann wie dich zum Kokettieren haben.«</p>
                <p>Werner wurde bleich, wie immer, wenn der Zorn in ihm aufstieg. »Lene«, – rief er
-                  und schlug mit der Hand auf den Tisch, daß die Teller klirrten, <pb facs="#"/>
-                  »was ist das für ein Geschwätz. Hier an meinem Tisch wird nicht so über diese
-                  edle, geprüfte Frau gesprochen.«</p>
+                  und schlug mit der Hand auf den Tisch, daß die Teller klirrten, <pb/> »was ist das
+                  für ein Geschwätz. Hier an meinem Tisch wird nicht so über diese edle, geprüfte
+                  Frau gesprochen.«</p>
                <p>Lene wurde zwar sehr rot, ließ sich jedoch nicht einschüchtern. Sie murmelte, um
                   das letzte Wort zu behalten:</p>
                <p>»Es ist aber doch so.«</p>
@@ -400,11 +396,11 @@
                <p>»Und schlecht geht es uns heute auch«, berichtete Jakobs klagende Stimme weiter.
                   »Wir haben starke Schmerzen im Bein.« Das Kaminzimmer war von der großen, grün
                   verhangenen Lampe matt erleuchtet, ein Krankenstubenlicht. Baron Werland saß in
-                     seinem<pb facs="#"/> Sessel am Feuer, die Füße in die rote Decke gehüllt, die
-                  Gestalt ein wenig in sich zusammengesunken. Das regelmäßige Gesicht war
-                  wachsbleich, das Haar sorgsam gelockt, der Schnurrbart hinaufgedreht. Nur die
-                  tiefen Augenhöhlen über den unruhig flackernden Augen legten sehr dunkle Flecken
-                  in diese Blässe. Ein starker Opoponaxduft umgab den Kranken.</p>
+                  seinem<pb/> Sessel am Feuer, die Füße in die rote Decke gehüllt, die Gestalt ein
+                  wenig in sich zusammengesunken. Das regelmäßige Gesicht war wachsbleich, das Haar
+                  sorgsam gelockt, der Schnurrbart hinaufgedreht. Nur die tiefen Augenhöhlen über
+                  den unruhig flackernden Augen legten sehr dunkle Flecken in diese Blässe. Ein
+                  starker Opoponaxduft umgab den Kranken.</p>
                <p>»Aha – unser Seelsorger«, rief er mit seiner hohen Stimme Werner entgegen. »Es ist
                   doch gut, daß man einen hat, der von Amts wegen barmherzig sein muß, der sozusagen
                   dafür bezahlt wird.« Werner lachte: »Na – es gibt auch Leute, die das aus Sport
@@ -426,7 +422,7 @@
                   Das gehört zum Amt. Nur hilft das nichts. Wissen Sie, was ich mal hören möchte,
                   der Abwechslung wegen?«</p>
                <p>
-                  <pb facs="#"/> »Nun?«</p>
+                  <pb/> »Nun?«</p>
                <p>»Wenn ich sage: mir geht's schlecht, daß mal einer, so von Herzen, mir antwortet:
                   das freut mich. – So von Herzen – wissen Sie. Das wär' mal was Neues. Darüber
                   könnte ich recht lachen.«</p>
@@ -449,10 +445,10 @@
                <p>»Natürlich! Ihr seid gesund. Ihr denkt so nebenbei einmal: Unsterblichkeit – wie
                   schön! Leben nach dein Tode – entzückend! und damit ist's gut. Aber ich – mich
                   geht das jetzt was an. Sehen Sie, Pastor, wenn Sie zu Hause bleiben wollen, nun,
-                  dann ist's <pb facs="#"/> Ihnen gleich, wann der Schnellzug nach Paris geht und ob
-                  er Anschluß hat. Sie sagen wohl so im allgemeinen – ach – der Schnellzug, wie
-                  schön! Aber wenn die Koffer gepackt sind, ja, dann blättern Sie im Kursbuch, dann
-                  kommt es auf Genauigkeit an. Na – also – ich, – ich seh' mir das Kursbuch an und,
+                  dann ist's <pb/> Ihnen gleich, wann der Schnellzug nach Paris geht und ob er
+                  Anschluß hat. Sie sagen wohl so im allgemeinen – ach – der Schnellzug, wie schön!
+                  Aber wenn die Koffer gepackt sind, ja, dann blättern Sie im Kursbuch, dann kommt
+                  es auf Genauigkeit an. Na – also – ich, – ich seh' mir das Kursbuch an und,
                   Pastor, ich sag' Ihnen, es gibt keinen Anschluß. Wir bleiben liegen.«</p>
                <p>Die Wärme des Kaminfeuers machte Werner die Glieder schlaff und die Augenlider
                   schwer. Er hörte nur halb der hohen, erregten Stimme des Kranken zu. Er schaute
@@ -470,8 +466,8 @@
                   untauglich – zum Fortwerfen. Alles aus – finis –. Man lebt nur, um die Füße in die
                   rote Decke zu wickeln, und auf Schmerzen zu warten. Ein Unsinn, so 'n Leben. Dafür
                   all die Umstände mit dem Geborenwerden und Aufgezogenwerden. Aber, sagen Sie,
-                  Pastor, wo steht es <pb facs="#"/> geschrieben, daß das Leben einen Sinn haben
-                  muß? Bitte, wo steht das? Karola, Kind, was sagst du dazu?«</p>
+                  Pastor, wo steht es <pb/> geschrieben, daß das Leben einen Sinn haben muß? Bitte,
+                  wo steht das? Karola, Kind, was sagst du dazu?«</p>
                <p>Karola reckte sich ein wenig in ihrem Sessel. »Ich?« sagte sie mit müder Stimme.
                   »Warum soll man nicht darauf hoffen, warten? Man sieht eine Allee hinab, eine
                   lange, lange Allee. Warum sollen wir uns da plötzlich eine schwarze Mauer denken?
@@ -492,8 +488,8 @@
                   alle Tore des Lebens zu schließen. Werner sah zu Karola hinüber und begegnete
                   ihrem Blick, dem seltsam schillernden Blick der schmalen, grauen Augen. Die
                   Mundwinkel bogen sich hinauf, wie im Beginne eines Lächelns. Werner und Karola
-                  sahen sich ruhig an, <pb facs="#"/> wie um sich aus der bedrückenden Traurigkeit
-                  dieses Gemaches in das Leben zurück zu retten.</p>
+                  sahen sich ruhig an, <pb/> wie um sich aus der bedrückenden Traurigkeit dieses
+                  Gemaches in das Leben zurück zu retten.</p>
                <p>Jakob brachte den Tee. Mit ihm erschien Karl Pichwit. Er verbeugte sich stumm und
                   setzte sich.</p>
                <p>»Ah!« rief der Baron. »Herr Pichwit der Page. Herr Pichwit der Troubadour!«</p>
@@ -516,8 +512,8 @@
                   denn das bißchen Eitelkeit die ganze Geschichte?«</p>
                <p>»Ich kenne den Baron zu wenig, um über ihn urteilen zu können«, sagte Werner
                   ablehnend.</p>
-               <p>»Sie werden ihn kennenlernen«, fuhr Werland <pb facs="#"/> fort. »Nehmen Sie die
-                  Schafe Ihrer Herde in acht, Pastor, Rast ist ein unmäßiger Weiberkonsument.«</p>
+               <p>»Sie werden ihn kennenlernen«, fuhr Werland <pb/> fort. »Nehmen Sie die Schafe
+                  Ihrer Herde in acht, Pastor, Rast ist ein unmäßiger Weiberkonsument.«</p>
                <p>»Behrent Rast ist sehr unterhaltend«, bemerkte Karola.</p>
                <p>Der Baron lachte. »Ja, die Weiber lieben so was. Schauspieler in jeder Form.
                   Merken Sie sich das, Herr Pichwit, wollen Sie einem Weibe gefallen, so müssen Sie
@@ -537,9 +533,9 @@
                   manche Abende fallen diese Augen mir auf die Nerven. Laß ihn nur auf sein Zimmer
                   gehn. Heute ist so was wie Mondschein am Himmel. Da kann er ja dichten. Herr
                   Pichwit dichtet nämlich. Honig in den Augen und Chinin im Herzen, bittersüß, das
-                  gibt bei diesen jungen Leuten jedesmal einen Lyriker. Oh! Du verflucht!« Er <pb
-                     facs="#"/> faßte sich an sein Bein. »Karola – Kind – komm, reib' das Bein ein
-                  wenig. Sie müssen wissen, Pastor, die Frau hat so was wie magnetische Kraft in den
+                  gibt bei diesen jungen Leuten jedesmal einen Lyriker. Oh! Du verflucht!« Er <pb/>
+                  faßte sich an sein Bein. »Karola – Kind – komm, reib' das Bein ein wenig. Sie
+                  müssen wissen, Pastor, die Frau hat so was wie magnetische Kraft in den
                   Fingern.«</p>
                <p>Karola rückte ein niedriges Stühlchen an den Sessel ihres Mannes heran, setzte
                   sich und begann sachte mit der Hand über die rote Decke hinzufahren, das Bein des
@@ -564,7 +560,7 @@
                <p>»Natürlich? Warum?«</p>
                <p>»Pastorenehen sind immer glücklich.«</p>
                <p>
-                  <pb facs="#"/> »Ja so!«</p>
+                  <pb/> »Ja so!«</p>
                <p>Beide lächelten.</p>
                <p>Der Kranke stöhnte heftiger.</p>
                <p>»Jakob soll ihn zu Bett bringen«, beschloß Karola.</p>
@@ -587,8 +583,8 @@
                   Mundwinkel, als wüßte sie, daß er dorthin – dorthin, wo es »so gemütlich« war,
                   jetzt nicht konnte.</p>
                <p>
-                  <pb facs="#"/> Er bog in den dem Pastorat entgegengesetzten Weg ein, fuhr dem
-                  Walde zu. Nur vorwärts – vorwärts!</p>
+                  <pb/> Er bog in den dem Pastorat entgegengesetzten Weg ein, fuhr dem Walde zu. Nur
+                  vorwärts – vorwärts!</p>
                <p>In den engen Waldwegen war es finster, über ihm rauschten die Föhren, ein
                   leidenschaftliches Brausen, das nachließ, wieder anschwoll, wie der Atem einer
                   Riesenbrust. Hier und da knarrte ein morscher Zweig durchdringend schrill, wie ein
@@ -612,9 +608,9 @@
                   trocknen Sie es ab. Und dann einen Grog – geschwind.«</p>
                <p>Werner trat in die Krugstube. Eine Lampe rauchte an der Wand. Ein Holzknecht saß
                   am Tisch, hatte den Kopf auf die Arme gelegt und schlief. Am Ofen, den Kopf auf
-                  sein Bündel gestützt, schlief ein Hausierer.<pb facs="#"/> Die beiden Schläfer
-                  riefen rauhe, schnarchende Gurgeltöne zueinander hinüber. Die Tür zum Nebenzimmer,
-                  zum »Herrenzimmer«, war angelehnt. Dort flüsterten Stimmen.</p>
+                  sein Bündel gestützt, schlief ein Hausierer.<pb/> Die beiden Schläfer riefen
+                  rauhe, schnarchende Gurgeltöne zueinander hinüber. Die Tür zum Nebenzimmer, zum
+                  »Herrenzimmer«, war angelehnt. Dort flüsterten Stimmen.</p>
                <p>Werner stieß sie auf.</p>
                <p>»Ah – da find' ich Gesellschaft«, rief er. Da saßen der Organist Sahlit und der
                   Lehrer Gröv bei einer schwelenden Lampe und tranken Grog. Sie blickten scheu zur
@@ -636,8 +632,8 @@
                <p>»Wenn ich eine Orgel wäre, würde ich Ihnen auch nicht parieren«, fuhr Werner fort.
                   »Und Sie, Gröv, kommen wegen der roten Marri her. Das ist für einen Lehrer
                   unpassend.«</p>
-               <p>»Ich tu die Woche über meine Pflicht«, erwiderte<pb facs="#"/> Gröv stolz, »für
-                  den Sonntag verantworte ich – für mich.«</p>
+               <p>»Ich tu die Woche über meine Pflicht«, erwiderte<pb/> Gröv stolz, »für den Sonntag
+                  verantworte ich – für mich.«</p>
                <p>»So! Da ist ja der Grog«, brach Werner das Gespräch ab. Marri, groß, rothaarig,
                   seltsam rote Augenbrauen im weißen Gesicht, brachte den Grog, stellte sich dann an
                   den Ofen und sah Werner unverwandt an.</p>
@@ -659,9 +655,9 @@
                   billig.«</p>
                <p>»Mein ist der Stolz und mein ist die Sünde«, sagte Gröv fest.</p>
                <p>»Gut, Gröv.« Werner trank ihm zu. »Sie nehmen es auf Ihre Kappe. Sie verantworten
-                  es, obgleich Sie sich einbilden, ein sehr großer, verwegener Sünder <pb facs="#"/>
-                  zu sein, der Marri wegen und des Grogs wegen. ja, das macht Sie stolz, so 'n ganz
-                  großer Sünder zu sein? Da ist man doch mal was.«</p>
+                  es, obgleich Sie sich einbilden, ein sehr großer, verwegener Sünder <pb/> zu sein,
+                  der Marri wegen und des Grogs wegen. ja, das macht Sie stolz, so 'n ganz großer
+                  Sünder zu sein? Da ist man doch mal was.«</p>
                <p>»Ich verantworte«, sagte Gröv wieder sehr entschlossen.</p>
                <p>»Sünder ist man – was kann man machen«, brummte Sahlit.</p>
                <p>Werner lachte: »Aber ihr seid ja gar keine großen Sünder! Das bildet ihr euch ein,
@@ -681,12 +677,12 @@
                   hoher Stimmlage:</p>
                <p>»Vielleicht, Herr Pastor, sind die Sünden der vornehmen Herren nichts für uns. Wir
                   sind arme kleine Leute. Wo sollen wir die großen Sünden hernehmen? Die sind nichts
-                  für uns. Sowieso hat man nichts vom Leben, auch – auch von den Sünden nichts. <pb
-                     facs="#"/> Das ist mal so die Gerechtigkeit der Gesellschaft. Es ist möglich,
-                  daß der Herr Pastor sich mehr für die vornehmen Sünder interessiert, jeder streckt
-                  sich nach seiner Decke. Ich hab' die Welt nicht gemacht. Ich möchte auch lieber
-                  eine Lampe, die nicht raucht, und einen Grog ohne Fusel und – und –«, er errötete.
-                  Der Mut seines Angriffes stieg ihm zu Kopfe – »und 'ne vornehme Dame.«</p>
+                  für uns. Sowieso hat man nichts vom Leben, auch – auch von den Sünden nichts.
+                  <pb/> Das ist mal so die Gerechtigkeit der Gesellschaft. Es ist möglich, daß der
+                  Herr Pastor sich mehr für die vornehmen Sünder interessiert, jeder streckt sich
+                  nach seiner Decke. Ich hab' die Welt nicht gemacht. Ich möchte auch lieber eine
+                  Lampe, die nicht raucht, und einen Grog ohne Fusel und – und –«, er errötete. Der
+                  Mut seines Angriffes stieg ihm zu Kopfe – »und 'ne vornehme Dame.«</p>
                <p>»Bravo, Gröv!« rief Werner. »Marri, noch ein Glas. Ihr Lehrer ist ein Mann. Sie
                   wollen gleichmäßige Verteilung der Sünden? Recht haben Sie, Mann.«</p>
                <p>»Das wird auch noch kommen«, prophezeite Gröv.</p>
@@ -703,10 +699,10 @@
                   dick von dem Qualm der Lampe, dem Dampf des Grogs. Sahlit weinte jetzt. Grövs
                   Stolz wurde gespenstischer, dabei warf er verliebte Blicke dem Mädchen am Ofen zu.
                   Und dieses Mädchen, das Werner mit den runden, bleichen Augen stetig ansah, mit
-                  dem großen, weißen Gesichte, den nackten Armen, dem weichen Quellen<pb facs="#"/>
-                  des Busens, mit all dem weißen, lasterhaften Fleisch, es erregte Ekel in Werner,
-                  um so stärker, weil es in seinem Blute doch ein Brennen entzündete, das ihm
-                  unendlich zuwider war.</p>
+                  dem großen, weißen Gesichte, den nackten Armen, dem weichen Quellen<pb/> des
+                  Busens, mit all dem weißen, lasterhaften Fleisch, es erregte Ekel in Werner, um so
+                  stärker, weil es in seinem Blute doch ein Brennen entzündete, das ihm unendlich
+                  zuwider war.</p>
                <p>Er stand auf. »Jetzt fahren wir. Und die Herren kommen mit mir.«</p>
                <p>»Danke, danke«, lallte Sahlit.</p>
                <p>Im Schlitten befahl Werner dein Krüger, die Decke fest zuzuknöpfen – »sonst
@@ -728,10 +724,10 @@
                   auf einigen hohen Pfosten. Alles war jetzt morsch und faul, das Geländer
                   fortgebrochen. Längst wagte keiner mehr diese Brücke zu befahren oder auch nur zu
                   betreten. Der Rübensimon, der Säufer, hatte sich mitten auf der Brücke erhängt,
-                     die<pb facs="#"/> Beine über dem Abgrund, und als der Strick gerissen war, war
-                  der Rübensimon in das Wasser gefallen, und man hatte seine Leiche nie finden
-                  können, ein so tiefes Loch mußte dort unten in dem schwarzen Wasser sein; so
-                  erzählten sich die Leute.</p>
+                  die<pb/> Beine über dem Abgrund, und als der Strick gerissen war, war der
+                  Rübensimon in das Wasser gefallen, und man hatte seine Leiche nie finden können,
+                  ein so tiefes Loch mußte dort unten in dem schwarzen Wasser sein; so erzählten
+                  sich die Leute.</p>
                <p>»Herr Pastor!« sagte Gröv heiser.</p>
                <p>»Gnade!« wimmerte Sahlit.</p>
                <p>Aber der Scheck jagte hin. Er führte eine Art Tanz auf, um über die morschen
@@ -755,7 +751,7 @@
                   erwacht.</p>
                <p>»Danke, danke, Herr Pastor«, stammelte er.</p>
                <p>
-                  <pb facs="#"/> Der Mond beschien einen Augenblick das Gesicht des Lehrers, ein
+                  <pb/> Der Mond beschien einen Augenblick das Gesicht des Lehrers, ein
                   geisterbleiches Gesicht. Über die spitzen Backenknochen mit den roten Flecken
                   flossen Tränen, die ganz blank im Mondlicht wurden.</p>
                <p>»Sie weinen ja, Gröv?« sagte Werner.</p>
@@ -777,9 +773,9 @@
                <p>Es war spät am Nachmittag. Werner ging zu der alten Waldhäuslersmutter Gehda, die
                   nicht sterben konnte.</p>
                <p>Ganz dürr und gelb, wie ein großes Heimchen, lag die Alte in ihrem Bett. Aus den
-                  tiefen Augenhöhlen lugten die trüben Augen geduldig und stetig hervor<pb facs="#"
-                  /> und warteten. Als der Pastor sich an ihr Bett setzte und fragte: »Wie geht es,
-                  Mutter Gehda?« – schwieg sie, als verlohne es sich nicht, darauf zu antworten. Die
+                  tiefen Augenhöhlen lugten die trüben Augen geduldig und stetig hervor<pb/> und
+                  warteten. Als der Pastor sich an ihr Bett setzte und fragte: »Wie geht es, Mutter
+                  Gehda?« – schwieg sie, als verlohne es sich nicht, darauf zu antworten. Die
                   Schwiegertochter, die Waldhäuslerin, antwortete redselig:</p>
                <p>»Ach, Herr Pastor, kein Atem, was ist das für'n Leben! Man is alt, man will
                   sterben, nu ja! Gestern haben wir ihr ein warmes Bad gemacht, haben sie gut
@@ -800,9 +796,9 @@
                <p>Die Sonne ging rot hinter den bereiften Bäumen unter.</p>
                <p>Das »Man will seine Ruhe haben« der Alten klang Werner nach, während er durch den
                   Wald ging, – beruhigend und friedlich. Dazu lebt man, um diese Sehnsucht nach
-                  tiefer Ruhe, diesen Durst nach der Wohltat des Todes zu haben. Was sollte <pb
-                     facs="#"/> er der alten Frau von einer ewigen Seligkeit, einem ewigen Leben
-                  sprechen. Sie verlangte nach ewiger Ruhe vom Mistzerstreuen und Unkrautjäten.</p>
+                  tiefer Ruhe, diesen Durst nach der Wohltat des Todes zu haben. Was sollte <pb/> er
+                  der alten Frau von einer ewigen Seligkeit, einem ewigen Leben sprechen. Sie
+                  verlangte nach ewiger Ruhe vom Mistzerstreuen und Unkrautjäten.</p>
                <p>Lustig waren der weiße Wald mit dem roten Sonnenschein und die klare Frostluft.
                   Alles sah so geschmückt aus, als sollte hier etwas Gutes, etwas Festliches
                   geschehen.</p>
@@ -823,11 +819,11 @@
                <p>Sie ging neben ihm her, sprach erregt: »Einen Besuch hab' ich gemacht bei der
                   Baronin Huhn in Debschen. Oh! war das langweilig! Schon wenn ich die Zwiebäcke in
                   Debschen sehe, macht es mich traurig. Alles riecht dort nach Zwiebäcken. Woher das
-                  wohl kommen mag? Das Leben dort muß <pb facs="#"/> eine einzige, langweilige
-                  Kaffeestunde sein. Ich sehnte mich hinaus. Der Wald jetzt ist doch das
-                  Eleganteste, das es gibt. Wie fein der Schnee knirscht, wenn man darauf geht, wie
-                  Zucker. Das müßte man im Sommer machen, einen Weg mit Zucker bestreuen, und am
-                  Rande müßten ganz rote Tulpen stehen. Und wo waren Sie?«</p>
+                  wohl kommen mag? Das Leben dort muß <pb/> eine einzige, langweilige Kaffeestunde
+                  sein. Ich sehnte mich hinaus. Der Wald jetzt ist doch das Eleganteste, das es
+                  gibt. Wie fein der Schnee knirscht, wenn man darauf geht, wie Zucker. Das müßte
+                  man im Sommer machen, einen Weg mit Zucker bestreuen, und am Rande müßten ganz
+                  rote Tulpen stehen. Und wo waren Sie?«</p>
                <p>Werner erzählte von der Mutter Gehda und wie sie den Tod nicht erwarten
                   konnte.</p>
                <p>»Dieser Besuch hat Sie wohl traurig gemacht?« fragte Karola und sah enttäuscht zu
@@ -845,8 +841,8 @@
                   stehen. Das rotangeleuchtete Gesicht hob sie zu Werner auf:</p>
                <p>»Stehen Sie still«, rief sie ihm zu. »Fühlen Sie, wie's an einem niederfließt? Ich
                   spür' ordentlich, wie die Wellen kommen, rosa und goldene Wellen.«</p>
-               <p>Sie schaute in die Sonne. Ihre Augen wurden <pb facs="#"/> wieder ganz schmal,
-                  leuchtende Striche zwischen den schwarzen Wimpern.</p>
+               <p>Sie schaute in die Sonne. Ihre Augen wurden <pb/> wieder ganz schmal, leuchtende
+                  Striche zwischen den schwarzen Wimpern.</p>
                <p>»Sie sind auch ganz rosa, Pastor, ein rosa Gesicht, einen rosa Bart.«</p>
                <p>Sie lachten sich an, öffneten den Mund, als könnten sie das Licht trinken.</p>
                <p>Die Sonne sank. Sie war nur noch eine rote Halbkugel.</p>
@@ -868,9 +864,9 @@
                   geduldig und fröhlich.«</p>
                <p>Karola zuckte die Achseln.</p>
                <p>
-                  <pb facs="#"/> »Das haben Sie schon zuweilen gesagt, Pastor, Sie wollen an mir
-                  wohl eine Tugend loben. Geduldig, mein Gott! Ich mag es aber nicht besonders, wenn
-                  Sie mich bemitleiden.«</p>
+                  <pb/> »Das haben Sie schon zuweilen gesagt, Pastor, Sie wollen an mir wohl eine
+                  Tugend loben. Geduldig, mein Gott! Ich mag es aber nicht besonders, wenn Sie mich
+                  bemitleiden.«</p>
                <p>»Nein – Sie darf man nicht bemitleiden«, versetzte Werner schnell.</p>
                <p>»Mich nicht?« Sie hob ein wenig den Kopf und sah Werner mit dem scharfen Blitzen
                   ihrer Augen an. »Warum?«</p>
@@ -890,8 +886,8 @@
                   wenig gebückt, ein wenig mühsam vielleicht. Sonst war aber nichts Besonderes an
                   ihnen zu sehen. Aber neben ihnen, auf dem Boden, gingen ihre Schatten her –
                   riesige, dunkle Schatten, und diese Schatten waren seltsam unförmig. Die Schatten
-                  hatten Buckel und Ausbuchtungen <pb facs="#"/> und Beulen. Die Schatten trugen an
-                  etwas schwer, sie verrieten es, wie schwer beladen diese Leute waren.«</p>
+                  hatten Buckel und Ausbuchtungen <pb/> und Beulen. Die Schatten trugen an etwas
+                  schwer, sie verrieten es, wie schwer beladen diese Leute waren.«</p>
                <p>»Ich versteh' nicht recht«, sagte Karola und schaute aufmerksam auf ihren Schatten
                   nieder.</p>
                <p>»Nun«, erklärte Werner, »Leute, die heimlich schwer an etwas tragen, die
@@ -915,9 +911,8 @@
                   Kommen Sie bald, Pastor. Verlassen Sie uns nicht.«</p>
                <p>Sie reichte ihm die Hand, stand ganz nahe vor ihm und sah ihm in die Augen.</p>
                <p>
-                  <pb facs="#"/> »Gewiß, Frau Baronin, ich komme«, sagte Werner, weich, als sei es
-                  eine Liebeserklärung. Sie setzte sich in den Schlitten und fuhr die Allee
-                  hinab.</p>
+                  <pb/> »Gewiß, Frau Baronin, ich komme«, sagte Werner, weich, als sei es eine
+                  Liebeserklärung. Sie setzte sich in den Schlitten und fuhr die Allee hinab.</p>
                <p>Werner stand noch lange an derselben Stelle und hörte dem Klingeln der Schellen
                   zu, das so hell in die Mondnacht hinauslachte.</p>
                <p>Langsam und sinnend ging er dann heim, einer stillen, heimlichen Heiterkeit in
@@ -941,7 +936,7 @@
                <p>Lene setzte sich an das Klavier und schlug die Noten auf.</p>
                <p>Werner plauderte unbefangen weiter.</p>
                <p>
-                  <pb facs="#"/> »Der Baronin Werland bin ich begegnet.«</p>
+                  <pb/> »Der Baronin Werland bin ich begegnet.«</p>
                <p>»So! deshalb kamst du wohl so spät nach Hause?«</p>
                <p>»Ja, wir gingen ein Stück zusammen.« Werner sorgte dafür, daß nicht die geringste
                   Ungeduld aus seiner Stimme klang.</p>
@@ -966,9 +961,9 @@
                <p>»Für wen?«</p>
                <p>»Für dich.«</p>
                <p>
-                  <pb facs="#"/> »Für mich?« fuhr Lene auf »Plötzlich sind dir meine Hände nicht
-                  weiß genug. Ja, ich hab' rote Hände. Natürlich, bei der Arbeit! Aber ich danke für
-                  das Wasser der alten Huhn. Bisher ist dir das nicht aufgefallen.«</p>
+                  <pb/> »Für mich?« fuhr Lene auf »Plötzlich sind dir meine Hände nicht weiß genug.
+                  Ja, ich hab' rote Hände. Natürlich, bei der Arbeit! Aber ich danke für das Wasser
+                  der alten Huhn. Bisher ist dir das nicht aufgefallen.«</p>
                <p>»Warum regst du dich auf?« Werner versuchte zu lachen. »Es ist doch angenehmer,
                   weiße Hände zu haben als rote, und wenn – – –«</p>
                <p>»Gewiß.« Lene fing zu weinen an.</p>
@@ -990,8 +985,8 @@
                <p>Lene stand vor Werner und wollte seinen Rat.</p>
                <p>»Was soll ich anziehen?«</p>
                <p>
-                  <pb facs="#"/> Werner antwortete nicht gleich, weil er in dem Buch vor sich die
-                  Zahlenreihe zusammenaddieren wollte.</p>
+                  <pb/> Werner antwortete nicht gleich, weil er in dem Buch vor sich die Zahlenreihe
+                  zusammenaddieren wollte.</p>
                <p>»Das Schwarzseidene?«</p>
                <p>»Ja – ich denke«, sagte Werner ohne aufzuschauen.</p>
                <p>Lene dachte nach.</p>
@@ -1014,9 +1009,9 @@
                <p>Als Werners in das Kaminzimmer traten, waren die anderen Gäste dort schon
                   versammelt.</p>
                <p>Die Baronin Huhn aus Debschen, in eine blanke, graue Atlasrobe, wie in einen
-                  Spiegel gekleidet, sehr<pb facs="#"/> erhitzt unter ihrer weißen Perücke,
-                  unterhielt sich mit dem Baron Werland, der im Gesellschaftsanzuge noch schmäler
-                  und gebrechlicher als sonst aussah.</p>
+                  Spiegel gekleidet, sehr<pb/> erhitzt unter ihrer weißen Perücke, unterhielt sich
+                  mit dem Baron Werland, der im Gesellschaftsanzuge noch schmäler und gebrechlicher
+                  als sonst aussah.</p>
                <p>Neben ihm am Kamin lehnte Behrent von Rast, breitschulterig und groß. Der Kopf war
                   seltsam grell, mit dem kurz geschorenen schwarzen Haar über der geraden, niedrigen
                   Stirn, mit dem Bart, der am Kinn geteilt, wie zwei schwarzblaue Flammen von beiden
@@ -1037,8 +1032,8 @@
                <p>»Danke! ja, ich muß mich führen lassen«, meinte Werland. »Ich hätte nicht gedacht,
                   daß ich noch die Beine anderer Leute werde pumpen müssen.«</p>
                <p>»Mach' dir nichts draus«, tröstete Rast. »Es ist noch lange nicht erwiesen, daß
-                  Beine für ein angenehmes <pb facs="#"/> Leben durchaus nötig sind. Die großen
-                  Damen in China haben die Füße so gut wie abgeschafft.«</p>
+                  Beine für ein angenehmes <pb/> Leben durchaus nötig sind. Die großen Damen in
+                  China haben die Füße so gut wie abgeschafft.«</p>
                <p>Bei Tisch saß Rast neben Lene, Werland nahm ihn jedoch in Anspruch. Er wollte mehr
                   von den großen Damen in China hören. Werner unterhielt sich mit der Baronin Huhn,
                   die von ihren Dienstboten sprach.</p>
@@ -1063,7 +1058,7 @@
                   Lene machte ein sehr ernstes Gesicht. Sie wollte ihn in seine Schranken
                   zurückweisen.</p>
                <p>
-                  <pb facs="#"/> Er wandte sich von ihr ab und rief zu Karola hinüber:</p>
+                  <pb/> Er wandte sich von ihr ab und rief zu Karola hinüber:</p>
                <p>»Wissen Sie, Baronin, Ihr Diner ist das beste, das ich seit langem gegessen habe,
                   daher darf ich das sagen. Man schmeckt sofort Tradition heraus.«</p>
                <p>»Unser Jansohn ist auch der konservativste aller Köche«, berichtete Werland.</p>
@@ -1084,9 +1079,9 @@
                   Rast und Karola. Werner konnte Karolas Profil sehen, das sich scharf und rein von
                   dem dunkeln Vorhang abhob. Sie stand sehr gerade, die Taille ein wenig
                   zurückgebogen. Werner hörte nur scheinbar der Geschichte von einer Trine zu,
-                  welche <pb facs="#"/> widerwillig war, die die Baronin Huhn ihm erzählte. Eine
-                  tiefe Verstimmung quälte ihn, ein Gefühl, als sei es nun mit etwas vorüber, das
-                  ihm lieb und nötig gewesen war.</p>
+                  welche <pb/> widerwillig war, die die Baronin Huhn ihm erzählte. Eine tiefe
+                  Verstimmung quälte ihn, ein Gefühl, als sei es nun mit etwas vorüber, das ihm lieb
+                  und nötig gewesen war.</p>
                <p>Warum lachte Lene so unnatürlich? Und dann bewegte sie die Hände zuviel beim
                   Sprechen, das sah ungeschickt aus. Er horchte zum Fenster hinüber. Rast schien von
                   Pferden zu sprechen und von Rennen. Auch Karola lachte heute, wie sie sonst nicht
@@ -1109,10 +1104,10 @@
                <p>Werner erhob sich. »Lene, es ist spät.«</p>
                <p>Man brach auf.</p>
                <p>
-                  <pb facs="#"/> Auf der Heimfahrt, im Schlitten, war Lene sehr gesprächig: sie
-                  hatte sich gut unterhalten, dieser Baron Rast war sehr merkwürdig –, interessant
-                  konnte man sagen. Man mußte mit ihm auf seiner Hut sein, mußte ihn in seine
-                  Schranken zurückweisen. Aber unterhaltend war er.</p>
+                  <pb/> Auf der Heimfahrt, im Schlitten, war Lene sehr gesprächig: sie hatte sich
+                  gut unterhalten, dieser Baron Rast war sehr merkwürdig –, interessant konnte man
+                  sagen. Man mußte mit ihm auf seiner Hut sein, mußte ihn in seine Schranken
+                  zurückweisen. Aber unterhaltend war er.</p>
                <p>»Hast du ihn in seine Schranken zurückgewiesen?« fragte Werner spöttisch.</p>
                <p>»Gewiß« – erwiderte Lene.</p>
                <p>»Übrigens«, sagte Werner, »mußt du darauf achten, beim Sprechen nicht soviel zu
@@ -1129,8 +1124,8 @@
 
                <p>Werner hatte aus Schloß Dumala längere Zeit nichts gehört. Der Winter mit
                   plötzlichem Frost und dann wieder Tauwetter fing übel an. Überall herrschten
-                  Krankheiten. Werner mußte Krankenbesuche machen <pb facs="#"/> und
-                  Beerdigungsreden halten. Er arbeitete stark und eifrig.</p>
+                  Krankheiten. Werner mußte Krankenbesuche machen <pb/> und Beerdigungsreden halten.
+                  Er arbeitete stark und eifrig.</p>
                <p>Der letzte Abend im Schlosse hatte etwas wie eine Unruhe, eine Qual in ihm
                   zurückgelassen. Die mußten niedergekämpft werden, da sie ihm verdächtig
                   erschienen.</p>
@@ -1157,7 +1152,7 @@
                <p>»Ja, ich will in Dumala nach dem Baron sehen.«</p>
                <p>– »Jetzt – plötzlich?«</p>
                <p>
-                  <pb facs="#"/> – »Ja, jetzt – plötzlich.«</p>
+                  <pb/> – »Ja, jetzt – plötzlich.«</p>
                <p>Draußen vermochte er kaum drei Schritte weit zu sehen. Überall das weiße, kalte
                   Fließen, das alles verhängte, in dem er allein war, ganz, ganz allein. Alles
                   andere war ausgelöscht, selbst die Töne erstarben. Das tat wohl. Wie in einer
@@ -1179,9 +1174,9 @@
                   verdrießlichen Ausdruck, den sie in der letzten Zeit hatte, weil sie sich über den
                   Tod ärgerte. Dann erzählte Werner von dem Waldhüter, der von Wilderern erschossen
                   worden war. Er erzählte langsam und umständlich. Er sah dabei auf Karolas Hand,
-                  auf die blitzenden Ringe, die die Decke auf und ab fuhren, er sah zu ihrem <pb
-                     facs="#"/> Gesicht, zu ihren Augen auf, zögernd, als fürchtete er sich vor
-                  etwas, das er dort finden könnte.</p>
+                  auf die blitzenden Ringe, die die Decke auf und ab fuhren, er sah zu ihrem <pb/>
+                  Gesicht, zu ihren Augen auf, zögernd, als fürchtete er sich vor etwas, das er dort
+                  finden könnte.</p>
                <p>Karola schaute nachdenklich in das Feuer, mit stetigen, seltsam schillernden
                   Augen. Werner sah es diesen Augen an, daß sie ihm längst nicht mehr zuhörte. Sie
                   war mit ihren Gedanken sehr weit fort.</p>
@@ -1205,8 +1200,8 @@
                   Hand weich wie Wachs sein, wenn Sie ihnen von Licht sprechen. Na, und Licht kommt
                   doch in der Religion vor.«</p>
                <p>Er hatte viel erlebt. Jagden und Pferde wurden durchgegangen. Karola, von ihrem
-                  niedrigen Stühlchen, <pb facs="#"/> sah zu ihm auf, die Mundwinkel zu einem
-                  Lächeln bereit.</p>
+                  niedrigen Stühlchen, <pb/> sah zu ihm auf, die Mundwinkel zu einem Lächeln
+                  bereit.</p>
                <p>In der Zimmerflucht wurden die Lampen angesteckt. Jakob brachte den Tee.</p>
                <p>Werland wurde auch gesprächig, er erzählte aus den Zeiten, da »ich noch meine
                   Beine hatte«. Er neckte Pichwit, der zum Tee erschien und die Gesellschaft stumm
@@ -1231,9 +1226,9 @@
                <p>»Denen da.«</p>
                <p>»Denen?«</p>
                <p>
-                  <pb facs="#"/> Werland winkte, er sollte leise sprechen. »Ich will Ihnen mal was
-                  sagen, Pastor. Wenn der Pichwit verliebt ist, das ist in der Ordnung, das macht
-                  mir Spaß; und Sie –«</p>
+                  <pb/> Werland winkte, er sollte leise sprechen. »Ich will Ihnen mal was sagen,
+                  Pastor. Wenn der Pichwit verliebt ist, das ist in der Ordnung, das macht mir Spaß;
+                  und Sie –«</p>
                <p>»Ich?«</p>
                <p>»Gleichviel, sprechen wir nicht von Ihnen«, fuhr Werland ungeduldig fort. »Das
                   alles ist nichts. Das muß eine Frau haben. Aber der da«, er zeigte mit dein Daumen
@@ -1256,8 +1251,8 @@
                <p>»Gott gab Ihnen, Herr Baron, eine Gattin von so klarem, reinem Blick und so
                   ruhiger Güte und Geduld, daß es undankbar ist, so zu sprechen.«</p>
                <p>
-                  <pb facs="#"/> »Danke, Pastor, danke«, unterbrach ihn Werland, »Predigten erbauen,
-                  aber beweisen nichts. Klaren Blick, sagen Sie. ja, aber gerade die Klügsten sind
+                  <pb/> »Danke, Pastor, danke«, unterbrach ihn Werland, »Predigten erbauen, aber
+                  beweisen nichts. Klaren Blick, sagen Sie. ja, aber gerade die Klügsten sind
                   hilflos vor so gewissen Dummheiten des Lebens. Diese Frauen werfen bei gewissen
                   Gelegenheiten ihren Verstand mit Genuß beiseite, so wie sie ein enges Mieder
                   aufhaken.«</p>
@@ -1279,10 +1274,10 @@
                <p>»Wenn es Sie beunruhigt«, begann Werner ein wenig mühsam, »muß denn – – muß denn –
                   der Baron Rast kommen?«</p>
                <p>
-                  <pb facs="#"/> »Was wollen Sie!« meinte Werland. »Soll ich ihm sagen: du – Rast –
-                  komm nicht, ich bin eifersüchtig? Das wäre so was für den. Nein, Pastor, Beine
-                  haben wir zwar nicht, aber lächerlich machen wir uns trotzdem nicht. Es geschieht
-                  ja nichts! Konversation! Sie sind Pastor, Ihnen kann man beichten. Ein Beichtvater
+                  <pb/> »Was wollen Sie!« meinte Werland. »Soll ich ihm sagen: du – Rast – komm
+                  nicht, ich bin eifersüchtig? Das wäre so was für den. Nein, Pastor, Beine haben
+                  wir zwar nicht, aber lächerlich machen wir uns trotzdem nicht. Es geschieht ja
+                  nichts! Konversation! Sie sind Pastor, Ihnen kann man beichten. Ein Beichtvater
                   ist ein Mann, dem ich die lächerlichsten Sachen erzählen kann und der mich nicht
                   auslachen darf. Nehmen wir an, ich hätte nichts gesagt.«</p>
                <p>Er schaute durch die Tür in den Saal.</p>
@@ -1303,9 +1298,9 @@
                   man gewöhnlich mit Liebe bezeichnet. Na, – aber Schluß. Reden wir von etwas
                   anderem. Bilden Sie sich nicht ein, Pastor, daß ich klage und daß Sie mich
                   bemitleiden müssen.«</p>
-               <p>»Wir haben zuweilen seltsam erregte Momente.<pb facs="#"/> Das kommt, wir können
-                  nichts dafür.« Werner versuchte, etwas Passendes zu sagen, aber es klang ihm
-                  selber leer und verlogen.</p>
+               <p>»Wir haben zuweilen seltsam erregte Momente.<pb/> Das kommt, wir können nichts
+                  dafür.« Werner versuchte, etwas Passendes zu sagen, aber es klang ihm selber leer
+                  und verlogen.</p>
                <p>»Danke, danke«, unterbrach ihn Werland. »Wie sagten Sie – Pflichterfüllung? Über
                   den malaiischen Weibern und dem Interesse am alten Turmzimmer ist mein Bein heute
                   doch ein wenig in Vergessenheit geraten. Na – ich sage nichts. Schluß.«</p>
@@ -1327,9 +1322,9 @@
                   fuhren.</p>
                <p>»Ja«, erwiderte Werner kühl, »manches Schwere ist diesem Hause auferlegt.«</p>
                <p>»Schwere?« wiederholte Rast. »Ja, wegen des Werland. – Alle haben da was. Werland
-                  mit dem <pb facs="#"/> Bein, und die schöne Frau, und das kleine Gespenst von
-                  Sekretär, alle seltsam einsam, aber eine Einsamkeit, die fiebert –, die fiebern
-                  alle vor Einsamkeit. Das regt ordentlich auf, steckt an.«</p>
+                  mit dem <pb/> Bein, und die schöne Frau, und das kleine Gespenst von Sekretär,
+                  alle seltsam einsam, aber eine Einsamkeit, die fiebert –, die fiebern alle vor
+                  Einsamkeit. Das regt ordentlich auf, steckt an.«</p>
                <p>»So Schweres auch dem Hause auferlegt ist«, sagte Werner, und er ärgerte sich
                   selbst darüber, daß das so salbungsvoll klang, »die Baronin versteht es mit ihrer
                   Güte und Klarheit, da Harmonie hineinzubringen.«</p>
@@ -1353,12 +1348,12 @@
                   fährt und es eine Erlösung ist, die Hand schwer auf eine Wange niedersausen zu
                   lassen.</p>
                <p>
-                  <pb facs="#"/> Aber dieses jetzt war anders: – Dieses bohrende, beständige Denken
-                  an einen Mann mit dem Gefühl des Widerwillens, mit fast körperlichem Schmerz. Die
-                  Gedanken begannen zu mahlen. Rast bleich und hilflos zwischen Werners Händen. Rast
-                  vor Karolas Augen gedemütigt – lächerlich und verächtlich. Kindische Phantasmen,
-                  denen er nicht wehren konnte. Immer das quälende, heiße Verlangen, Rast leiden zu
-                  sehen, quälend, aufdringlich, wie ungestilltes, sinnliches Begehren.</p>
+                  <pb/> Aber dieses jetzt war anders: – Dieses bohrende, beständige Denken an einen
+                  Mann mit dem Gefühl des Widerwillens, mit fast körperlichem Schmerz. Die Gedanken
+                  begannen zu mahlen. Rast bleich und hilflos zwischen Werners Händen. Rast vor
+                  Karolas Augen gedemütigt – lächerlich und verächtlich. Kindische Phantasmen, denen
+                  er nicht wehren konnte. Immer das quälende, heiße Verlangen, Rast leiden zu sehen,
+                  quälend, aufdringlich, wie ungestilltes, sinnliches Begehren.</p>
                <p>Da sollte er nun die Leute trösten und ihnen in die Seele reden. Was wissen wir
                   denn, was in unseren Seelen ist. Etwas Fremdes kommt, herrscht. Wir können nur
                   zusehen.</p>
@@ -1374,8 +1369,8 @@
                <p>»Wieso?«</p>
                <p>»Der Baron Rast fährt ja so häufig hier vorüber.«</p>
                <p>
-                  <pb facs="#"/> »Seine Sache«, meinte Werner. »Du scheinst dich dafür zu
-                  interessieren, ob er vorüberfährt.«</p>
+                  <pb/> »Seine Sache«, meinte Werner. »Du scheinst dich dafür zu interessieren, ob
+                  er vorüberfährt.«</p>
                <p>Nun schlug Lene die Hände vor das Gesicht, weinte und klagte:</p>
                <p>»Was soll ich denn tun? Ich bin ja immer allein. Nun soll ich nicht einmal mehr
                   sehen, wer vorüberfährt!«</p>
@@ -1397,9 +1392,9 @@
                   seinem englischen Parfüm. Die Lichter wurden angezündet. Es wurde festlich, ihm zu
                   Ehren.</p>
                <p>Wenn nach dem Tee Karola und Rast im Saal auf und ab gingen, saßen Werland,
-                  Pichwit und Werner am Kamin, schweigsam und wachsam. Wenn <pb facs="#"/> sie
-                  sprachen, so sprachen sie mit gedämpfter Stimme. Pichwit ging nach dem Barometer
-                  und blieb lange fort. Werland flüsterte und kicherte:</p>
+                  Pichwit und Werner am Kamin, schweigsam und wachsam. Wenn <pb/> sie sprachen, so
+                  sprachen sie mit gedämpfter Stimme. Pichwit ging nach dem Barometer und blieb
+                  lange fort. Werland flüsterte und kicherte:</p>
                <p>»Haben Sie bemerkt, Pastor, denen dort geht nie der Stoff zur Konversation
                   aus.«</p>
                <p>»Ja, Baron Rast ist sehr unterhaltend«, erwiderte Werner matt.</p>
@@ -1421,8 +1416,8 @@
                <p>»Ah, Pastor, das ist hübsch!«</p>
                <p>»So allein hier?« fragte Werner.</p>
                <p>»Allein«, erwiderte Karola. »Natürlich! Ich habe einen Spaziergang gemacht. Sehen
-                  Sie, wieder das<pb facs="#"/> schöne Licht. Erinnern Sie sich, wie wir das
-                  letztemal im Abendrot nach Hause gingen? Das war schön!«</p>
+                  Sie, wieder das<pb/> schöne Licht. Erinnern Sie sich, wie wir das letztemal im
+                  Abendrot nach Hause gingen? Das war schön!«</p>
                <p>»Ja, das liegt doch nicht gar so weit zurück«, meinte Werner.</p>
                <p>»Nicht?« sagte Karola. »Ach, alles geht so schnell – schnell vorüber, wie Laterna
                   magica-Bilder.«</p>
@@ -1445,7 +1440,7 @@
                <p>Das Abendlicht floß wieder grell über die Ebene, als sie aus dein Walde traten und
                   in die lange Allee einbogen.</p>
                <p>»Warum sprechen Sie von – Geschützt-werden«, fragte Werner. »Kann ich – – – wollen
-                  Sie <pb facs="#"/> geschützt sein?« Das kam zögernd und ungeschickt heraus.</p>
+                  Sie <pb/> geschützt sein?« Das kam zögernd und ungeschickt heraus.</p>
                <p>»Ich?« Karola lachte. »Mein Gott! Ich bin ja so furchtbar geborgen.«</p>
                <p>Dann zeigte sie auf ihre Schatten, die vor ihnen auf dem Schnee lagen. »Und die
                   Schatten, haben die sich verändert?«</p>
@@ -1464,8 +1459,8 @@
 
                <p>Der Waldhüter Erman war bei Werner. Gott! sah der Mann zerlumpt aus mit seinen
                   Bastschuhen, der schlechtgeflickten Hose, dazu das traurige Trinkergesicht. Er war
-                  auch heute leicht angetrunken. Werner<pb facs="#"/> hatte ihn zu sich bestellt, um
-                  ihm eine Strafrede zu halten. Seine Frau klagte beständig über ihn.</p>
+                  auch heute leicht angetrunken. Werner<pb/> hatte ihn zu sich bestellt, um ihm eine
+                  Strafrede zu halten. Seine Frau klagte beständig über ihn.</p>
                <p>»Eine Schande ist es«, fuhr er ihn an. »Sieht so ein herrschaftlicher Waldhüter
                   aus? Nicht einmal Stiefel hast du bei diesem Saufen, und Frau und Kinder
                   verhungern.«</p>
@@ -1490,9 +1485,9 @@
                   werden die Hasen nicht festliegen, denk' ich. Und wie ich zur Galgenbrücke komme,
                   denk' ich, ich setz' mich hin und rauche eine Pfeife. Und wie ich sitz' und
                   rauch', da seh' ich vor mich hin, und da seh' ich, über die Brücke geht eine Spur
-                  – eine frische <pb facs="#"/> Schlittenspur. Die Bretter waren weiß vom Reif und –
-                  eine Spur. Da ist einer gefahren, siehst du mal an! Von der Sielenschen Seit' nach
-                  der Dumalaschen. Das kann nur der Teufel sein. Ich sitz' und denk': der muß Eile
+                  – eine frische <pb/> Schlittenspur. Die Bretter waren weiß vom Reif und – eine
+                  Spur. Da ist einer gefahren, siehst du mal an! Von der Sielenschen Seit' nach der
+                  Dumalaschen. Das kann nur der Teufel sein. Ich sitz' und denk': der muß Eile
                   gehabt haben, auf dem kürzesten Wege nach Dumala zu kommen. Und richtig, da kommt
                   was von der Dumalaschen Seite, den kleinen Weg hinauf. Kommt still, still, ohne
                   Schellen, ein großes, schwarzes Pferd und ein Schlitten, und drin sitzt der
@@ -1514,8 +1509,8 @@
                <p>»Nach ein Uhr?« fragte Werner.</p>
                <p>»Ja, so was wird's wohl gewesen sein«, meinte Erman.</p>
                <p>
-                  <pb facs="#"/> Werner stand einen Augenblick schweigend da, sehr bleich und nagte
-                  an seiner Unterlippe.</p>
+                  <pb/> Werner stand einen Augenblick schweigend da, sehr bleich und nagte an seiner
+                  Unterlippe.</p>
                <p>»So über die verfaulten Bretter«, erzählte Erman weiter, »unten gurgelt das
                   Wasser. Ist das ein Gespenst, denk' ich! Du gehst, denk' ich mir, und schaust dir
                   die Spur an. Gespenster haben keine Spur. Und richtig, eine gute Schlittenspur.
@@ -1539,7 +1534,7 @@
                   Sünde, sagt der Herr Pastor. Herrschaften haben wieder ihre Sachen. Na, wenn einer
                   Augen hat, sieht er mal was. Da kann ich nichts dafür.«</p>
                <p>
-                  <pb facs="#"/> So vor sich hinbrummend, schob er sich langsam zur Tür hinaus.</p>
+                  <pb/> So vor sich hinbrummend, schob er sich langsam zur Tür hinaus.</p>
                <p>Werner saß regungslos auf dem Sessel am Schreibtisch die langen Nachmittagsstunden
                   hindurch. Vor ihm lag ein Kontobuch aufgeschlagen. Die Sonne ging unter. Rote
                   Abendlichter zogen über die Wand. Die Blätter des Kontobuches wurden rot. Werners
@@ -1563,7 +1558,7 @@
                <p>Werner fuhr aus seinen Gedanken auf. »Ja – ich – ich – hab' über etwas
                   nachgedacht.«</p>
                <p>
-                  <pb facs="#"/> »Soll ich die Lampe bringen?«</p>
+                  <pb/> »Soll ich die Lampe bringen?«</p>
                <p>»Nein – nein – ich komme an den Kamin.«</p>
                <p>Er sehnte sich jetzt nach Licht, nach Traulichkeit, nach Lenes Geplauder, dann
                   würde es vielleicht nachlassen, dieses angestrengte, ermüdende Denken des einen
@@ -1586,8 +1581,7 @@
                   daraus schloß er, daß auch er einen gemütlichen Eindruck machte. Lene freute sich
                   beim Abendessen, daß es ihm schmeckte, also schien es, daß er mit Appetit aß.</p>
                <p>
-                  <pb facs="#"/> Später zog er sich wieder in sein Zimmer zurück, um zu
-                  arbeiten.</p>
+                  <pb/> Später zog er sich wieder in sein Zimmer zurück, um zu arbeiten.</p>
                <p>Er stützte den Kopf in die Hand und schaute in das Kontobuch.</p>
                <p>– Jetzt wußte er es, er mußte hinaus, er mußte dort an der Brücke und am
                   Parkgitter stehen.</p>
@@ -1610,8 +1604,8 @@
                <p>Er trat seinen Weg an, sah zum Sternhimmel auf, bewunderte das Flimmern. Wie
                   geschäftig solch ein Sternlicht ist, keinen Augenblick ruhig. Über den ganzen
                   Himmel dieses eifrige, goldene Sichregen. Die jungen Tannen dufteten erfrischend
-                  bitter und strichen mit ihren vom Reif überglasten <pb facs="#"/> Nadeln, wie mit
-                  kleinen, kalten Krallen, über Werners Wange.</p>
+                  bitter und strichen mit ihren vom Reif überglasten <pb/> Nadeln, wie mit kleinen,
+                  kalten Krallen, über Werners Wange.</p>
                <p>Ein Fuchs kam des Weges daher, den Kopf am Boden suchte er wohl eine Spur, die ihm
                   verlorengegangen sein mochte. Furchtlos ging er an Werner vorüber.</p>
                <p>Werner mußte lachen.</p>
@@ -1632,14 +1626,14 @@
                <p>Etwas wie eine große Enttäuschung machte Werner das Herz schwer.</p>
                <p>Der Schlitten näherte sich ihm, er hörte den Hufschlag im weichen Schnee.</p>
                <p>
-                  <pb facs="#"/> Von einer dichten Hecke junger Tannen verborgen, spähte er hinaus,
-                  wie das Gefährt an ihm vorübereilte. Er sah deutlich Rast, mit wehendem
-                  tintenschwarzem Bart. Er kutschte und hatte eine Zigarre im Munde. Neben ihm
-                  Damkewitz, der Groom, dieses seltsame Geschöpf, groß wie ein zehnjähriger Knabe,
-                  mit dem verwitterten Kindergesicht, das voller Falten war, wie gedörrt. Rast
-                  schnalzte mit der Zunge, um das Pferd anzutreiben, und der große, schwarze Traber
-                  griff mächtig aus. – Nun waren sie vorüber. Der Duft der Zigarre mischte sich mit
-                  dem herben Geruch der Tannen.</p>
+                  <pb/> Von einer dichten Hecke junger Tannen verborgen, spähte er hinaus, wie das
+                  Gefährt an ihm vorübereilte. Er sah deutlich Rast, mit wehendem tintenschwarzem
+                  Bart. Er kutschte und hatte eine Zigarre im Munde. Neben ihm Damkewitz, der Groom,
+                  dieses seltsame Geschöpf, groß wie ein zehnjähriger Knabe, mit dem verwitterten
+                  Kindergesicht, das voller Falten war, wie gedörrt. Rast schnalzte mit der Zunge,
+                  um das Pferd anzutreiben, und der große, schwarze Traber griff mächtig aus. – Nun
+                  waren sie vorüber. Der Duft der Zigarre mischte sich mit dem herben Geruch der
+                  Tannen.</p>
                <p>Werner ging den Weg, den der Schlitten gefahren war, hinab, ohne deutlichen
                   Gedanken, mechanisch, ein wenig müde, wie wir es sind, wenn eine starke Spannung
                   plötzlich nachgelassen hat, er ging, um das Programm, das er sich gemacht hatte,
@@ -1654,14 +1648,13 @@
                   schlief.</p>
                <p>»Wie das alles stimmt«, dachte Werner. Er fühlte einen Augenblick die Befriedigung
                   eines Rechners, dem sein Exempel überraschend gut ausgekommen ist.</p>
-               <p>Er ging bis zu der großen Fliederhecke, dem alten<pb facs="#"/> Flügel und dem
-                  Turm gegenüber, stand dort und sah das dunkle Gebäude an. Nirgends ein
-                  Lichtschein. Der wahrte sein Geheimnis, dieser »Sündenflügel«, wie Werland sagte.
-                  Kein Zeichen von Leben. Aber wie Werner dastand in den weißen Zweigen der
-                  Fliederhecke und hinüberstarrte, da war es ihm, als sehe er, was da drin vorging,
-                  sehe es mit unerträglicher Deutlichkeit – wie sie sich ganz schlank und weiß – mit
-                  flimmernden Augen zurückbiegt in seine Arme, die Lippen fieberrot und halb
-                  geöffnet. – –</p>
+               <p>Er ging bis zu der großen Fliederhecke, dem alten<pb/> Flügel und dem Turm
+                  gegenüber, stand dort und sah das dunkle Gebäude an. Nirgends ein Lichtschein. Der
+                  wahrte sein Geheimnis, dieser »Sündenflügel«, wie Werland sagte. Kein Zeichen von
+                  Leben. Aber wie Werner dastand in den weißen Zweigen der Fliederhecke und
+                  hinüberstarrte, da war es ihm, als sehe er, was da drin vorging, sehe es mit
+                  unerträglicher Deutlichkeit – wie sie sich ganz schlank und weiß – mit flimmernden
+                  Augen zurückbiegt in seine Arme, die Lippen fieberrot und halb geöffnet. – –</p>
                <p>Werner tauchte seine Hand in die beschneiten Zweige, um sie zu fühlen, er faßte
                   sie und knickte sie, ließ sie knirschen. Er mußte fühlen, wie er etwas zerbrach
                   und zerstörte. – Das Dunkel des schweigenden Hauses war unendlich qualvoll. Wo
@@ -1680,9 +1673,9 @@
                <p>»Ja – ja – ich seh' es.«</p>
                <p>»Das ist das Turmzimmer, in dem das alte, goldene Bett steht«, berichtete
                   Pichwit.</p>
-               <p>Dann schwiegen beide. Sie standen nebeneinander<pb facs="#"/> und schauten zu dem
-                  schwachen Lichtstreifen am Turmfenster empor. Der eine hörte den beklommenen Atem
-                  des anderen und daneben einen leisen, dumpfen Ton, als ginge jemand sachte durch
+               <p>Dann schwiegen beide. Sie standen nebeneinander<pb/> und schauten zu dem schwachen
+                  Lichtstreifen am Turmfenster empor. Der eine hörte den beklommenen Atem des
+                  anderen und daneben einen leisen, dumpfen Ton, als ginge jemand sachte durch
                   weichen Schnee. Das war das Pochen des eignen Herzens.</p>
                <p>Die Schloßuhr schnarrte, als räuspere sie sich, und schlug zwei.</p>
                <p>»Jetzt«, flüsterte Pichwit.</p>
@@ -1704,8 +1697,8 @@
                   Werner lauschten. Das Knarren einer Fehmerstange drang zu ihnen, das Gleiten eines
                   Schlittens, das vorsichtige Zuklappen eines Tores.</p>
                <p>»Er ist fort«, flüsterte Pichwit. Da stand Werner nun mit seiner Gewißheit, nach
-                  der er sich gesehnt<pb facs="#"/> hatte, stand da und fühlte sich ganz ohnmächtig,
-                  ganz schwach, ganz elend. Er hätte heulen können wie ein Schuljunge.</p>
+                  der er sich gesehnt<pb/> hatte, stand da und fühlte sich ganz ohnmächtig, ganz
+                  schwach, ganz elend. Er hätte heulen können wie ein Schuljunge.</p>
                <p>»Gehn wir, Herr Pastor«, sagte Pichwit und berührte Werners Arm. Sie gingen durch
                   die Parkwege, wo die Statuen in ihren hölzernen Winterhäuschen schliefen und die
                   Rosen, dicht in Moos verpackt, auf den Beeten lagen.</p>
@@ -1727,12 +1720,12 @@
                   – ich kann nicht. Sie hat es verboten.«</p>
                <p>»Sie hat es verboten?« wiederholte Werner erstaunt.</p>
                <p>
-                  <pb facs="#"/> »Ja – ja« – sagte Pichwit. »Ich sagte ihr gute Nacht. Da reichte
-                  sie mir die Hand und sagte – sagte leise, so daß die anderen es nicht hörten:
-                  ›Herr Pichwit ist mein treuer Page. Auf den kann ich mich ver lassen.‹ Und da
-                  verstehn Sie, Herr Pastor, ich kann nichts tun. Wenn sie wollte, ich soll hier
-                  Wache stehn, während er oben ist, damit keiner sie stört, ich müßte es tun. Aber
-                  Sie – Herr Pastor, Sie!«</p>
+                  <pb/> »Ja – ja« – sagte Pichwit. »Ich sagte ihr gute Nacht. Da reichte sie mir die
+                  Hand und sagte – sagte leise, so daß die anderen es nicht hörten: ›Herr Pichwit
+                  ist mein treuer Page. Auf den kann ich mich ver lassen.‹ Und da verstehn Sie, Herr
+                  Pastor, ich kann nichts tun. Wenn sie wollte, ich soll hier Wache stehn, während
+                  er oben ist, damit keiner sie stört, ich müßte es tun. Aber Sie – Herr Pastor,
+                  Sie!«</p>
                <p>»Ach – ich!« sagte Werner matt.</p>
                <p>Aber Pichwit wurde eindringlich. »Sie sind groß, Sie sind stark, Sie sind schön.
                   Ach! Ich war so eifersüchtig auf Sie. Ich sah es, wie sie sich freute, wenn Sie
@@ -1750,9 +1743,9 @@
                <p>»An das Krankwerden. Wenn ich krank werde, zum Sterben krank, wissen Sie, dann
                   kommt sie zu nur, das wird sie wohl tun. Und dann sag' ich ihr alles. Wenn man
                   stirbt, dann wird man ernst genommen, dann steigt man in der Achtung. Nicht wahr?
-                  Ein Sterbender ist nicht lächerlich. Was <pb facs="#"/> er sagt, das wird gehört.
-                  Es ist schon vorgekommen, daß das Wort eines Sterbenden einen Lebenden gerettet
-                  hat ...«</p>
+                  Ein Sterbender ist nicht lächerlich. Was <pb/> er sagt, das wird gehört. Es ist
+                  schon vorgekommen, daß das Wort eines Sterbenden einen Lebenden gerettet hat
+                  ...«</p>
                <p>»Kind, Sie träumen«, unterbrach ihn Werner. »Gehn Sie, legen Sie sich nieder,
                   decken Sie sich gut zu – und – keine Unvorsichtigkeiten.«</p>
                <p>Werner hatte die Hand auf Pichwits Schulter gelegt. So redete er ihm väterlich
@@ -1773,8 +1766,8 @@
                <p>»Sie werden etwas tun«, klang Karl Pichwits erregte Stimme ihm ins Ohr. Das war
                   es!</p>
                <p>Der Tag war hell, das Pastorat voll gelben Sonnenscheins. Lene war rosig und
-                  gesprächig. Während<pb facs="#"/> Werner seinen Morgentee trank, lachte er mit ihr
-                  über irgendwelche geringfügige Dinge.</p>
+                  gesprächig. Während<pb/> Werner seinen Morgentee trank, lachte er mit ihr über
+                  irgendwelche geringfügige Dinge.</p>
                <p>Er ging an seine Amtsgeschäfte. Leute kamen. Er ermahnte und schalt sie, war
                   väterlich und jovial. All das ging gut vonstatten, nur erschien es ihm alles so
                   vorläufig. Eine Aufgabe wartete seiner, das andere war nur ein Hinbringen der Zeit
@@ -1798,9 +1791,9 @@
                <p>»Der Herr Baron wird sich freuen. Der Herr Baron ist allein, und ihm wird die Zeit
                   lang. Etwas Gesellschaft wird dem Herrn Baron angenehm sein.«</p>
                <p>
-                  <pb facs="#"/> Werner fand Rast in einem großen Zimmer, das ein mächtiges
-                  Kaminfeuer stark überheizte. Überall lagen und hingen Teppiche. Rast hatte sich in
-                  einen Burnus aus weißem Tuch gehüllt, lag auf dem Diwan und rauchte.</p>
+                  <pb/> Werner fand Rast in einem großen Zimmer, das ein mächtiges Kaminfeuer stark
+                  überheizte. Überall lagen und hingen Teppiche. Rast hatte sich in einen Burnus aus
+                  weißem Tuch gehüllt, lag auf dem Diwan und rauchte.</p>
                <p>»Der Pastor, das ist hübsch. Also Sie gedenken doch der Einsamen«, rief er Werner
                   entgegen.</p>
                <p>Werner war steif und befangen, wie meist am Anfang eines Besuches.</p>
@@ -1818,10 +1811,10 @@
                <p>Rast war gesprächig, wie Leute es sind, die einen einsamen Tag verbracht haben und
                   es nun ausnützen, daß sie jemanden haben, der ihnen zuhört.</p>
                <p>»Ja, rauchen müssen Sie der Gerechtigkeit wegen. Bei einer Unterhaltung ist es
-                  ungerecht, wenn nur einer raucht, dadurch bekommt der andere einen zu<pb facs="#"
-                  /> großen Teil der Unterhaltung. Sehen Sie, wenn beide rauchen und dem einen geht
-                  die Zigarre aus, dann weiß man gleich, daß er ein zu großes Stück des Gespräches
-                  an sich gerissen hat.«</p>
+                  ungerecht, wenn nur einer raucht, dadurch bekommt der andere einen zu<pb/> großen
+                  Teil der Unterhaltung. Sehen Sie, wenn beide rauchen und dem einen geht die
+                  Zigarre aus, dann weiß man gleich, daß er ein zu großes Stück des Gespräches an
+                  sich gerissen hat.«</p>
                <p>Werner lächelte.</p>
                <p>»Nun, Herr Baron, in diesem Falle wollte ich auch mehr eine Mitteilung machen, als
                   daß es hier auf eine Erwiderung ankäme.«</p>
@@ -1843,8 +1836,8 @@
                   ist, eine Dame zu kompromittieren. Wie gesagt, da es Sie betrifft, hielt ich es
                   für meine Pflicht, Ihnen davon Mitteilung zu machen.«</p>
                <p>
-                  <pb facs="#"/> »Ah!« sagte Rast und schaute auf seine Zigarre nieder: »Sehr
-                  interessant. Worum handelt es sich denn?«</p>
+                  <pb/> »Ah!« sagte Rast und schaute auf seine Zigarre nieder: »Sehr interessant.
+                  Worum handelt es sich denn?«</p>
                <p>So leicht hier das gesagt war, Werner glaubte aus dem kühlen, ein wenig
                   spöttischen Ton etwas wie eine Herausforderung herauszuhören, und das freute ihn,
                   das machte ihn warm.</p>
@@ -1866,11 +1859,11 @@
                <p>»Sehen Sie«, meinte Rast, »das mit dem Ehrenmann. Ein jeder setzt bei dem anderen
                   voraus, daß er weiß, was ein Ehrenmann zu tun hat. Gewiß – sonst wär's ja
                   beleidigend. Aber es ist besser, sich da nicht weiter auf Einzelheiten
-                  einzulassen. Es entstehen dann doch leicht Meinungsverschiedenheiten. Und<pb
-                     facs="#"/> Freund, mein Gott, Gefühle komplizieren die Sachen nur. Aber Pastor
-                  –, Pastor ist klar. Sie sind als Pastor verpflichtet, sich in die Angelegenheiten
-                  anderer Leute zu mischen, das ist Ihre Amtspflicht, peinlich vielleicht, aber sie
-                  wird erfüllt. Sehr achtbar!«</p>
+                  einzulassen. Es entstehen dann doch leicht Meinungsverschiedenheiten. Und<pb/>
+                  Freund, mein Gott, Gefühle komplizieren die Sachen nur. Aber Pastor –, Pastor ist
+                  klar. Sie sind als Pastor verpflichtet, sich in die Angelegenheiten anderer Leute
+                  zu mischen, das ist Ihre Amtspflicht, peinlich vielleicht, aber sie wird erfüllt.
+                  Sehr achtbar!«</p>
                <p>»Es handelt sich hier nicht um mich«, versetzte Werner hitzig. »Es handelt sich
                   darum, daß eine Dame ...?«</p>
                <p>»O bitte«, unterbrach ihn Rast sanft, »doch, es handelt sich um Sie. Sie tun Ihre
@@ -1891,8 +1884,8 @@
                   nennt, Gutes tun. Sie wollen keine Antwort oder Erklärung. In Ihren Predigten
                   fragen Sie auch zuweilen, aber Sie wollen doch keine Antwort darauf. Darauf zu
                   antworten, wäre unpassend. So auch hier. Sie wollen Gutes tun, Sie wollen
-                  ermahnen, Sie wollen keine <pb facs="#"/> Antwort von mir. Das sagten Sie ja
-                  vorhin. Ich verstehe Sie vollkommen.«</p>
+                  ermahnen, Sie wollen keine <pb/> Antwort von mir. Das sagten Sie ja vorhin. Ich
+                  verstehe Sie vollkommen.«</p>
                <p>Werner erhob sich von seinem Stuhl. Der Zorn schoß ihm ganz heiß in das Blut.
                   Seine Schläfen brannten.</p>
                <p>»Herr Baron«, sagte er feierlich, »ich sehe, daß etwas Unerhörtes geschieht, und
@@ -1915,8 +1908,8 @@
                   fürchte, ich bin Ihnen nicht sympathisch, das bedauere ich ...«</p>
                <p>Werner war plötzlich ganz ruhig geworden. Er lächelte sogar.</p>
                <p>
-                  <pb facs="#"/> »Sympathisch – nein. Ich kam wohl auch nicht, um eine
-                  Liebeserklärung zu machen.«</p>
+                  <pb/> »Sympathisch – nein. Ich kam wohl auch nicht, um eine Liebeserklärung zu
+                  machen.«</p>
                <p>»Selbstverständlich!« gab Rast zu und lächelte auch. »Ich meine nur, warum sind
                   Sie mit mir nicht zufrieden? Sie kommen zu mir, um mir eine Mitteilung zu machen,
                   um mir eine Mahnung zugehen zu lassen. Gut! Ich nehme die Mitteilung dankbar
@@ -1938,10 +1931,10 @@
                <p>Auf dem Heimwege wurde Werner den Gedanken nicht los, wie häßlich und
                   widernatürlich doch diese sogenannte Kultur war. Zwei haßten sich. War es da nicht
                   schöner, sich zu fassen, um den Leib, das fiebernde Fleisch aneinanderzudrücken,
-                  sich den glühenden <pb facs="#"/> Atem in das Gesicht zu blasen und zu suchen,
-                  einander weh zu tun ..., zu verwunden, wie die Bauernburschen es unten im Kruge
-                  tun? Statt dessen reicht man sich die Hand, lächelt: »Besten Dank! Auf
-                  Wiedersehen.« – Pfui!</p>
+                  sich den glühenden <pb/> Atem in das Gesicht zu blasen und zu suchen, einander weh
+                  zu tun ..., zu verwunden, wie die Bauernburschen es unten im Kruge tun? Statt
+                  dessen reicht man sich die Hand, lächelt: »Besten Dank! Auf Wiedersehen.« –
+                  Pfui!</p>
 
                <p>Die Adventszeit war da. Lene saß abends am Klavier und sang Choräle. Werner hielt
                   Nachmittagsandachten, während die untergehende Sonne durch die Kirchenfenster
@@ -1959,9 +1952,9 @@
                <p>Aber neben dem Pastor Werner ging ein anderer her. Er versteckte sich, er war
                   jedoch da – fremd – unheimlich – unentrinnbar.</p>
                <p>
-                  <pb facs="#"/> Wenn Werner abends bei der Lampe Lene gegenübersaß und zuhörte, wie
-                  Lene über friedliche, kleine Dinge plauderte, dann geschah es wohl, daß sie
-                  plötzlich ausrief</p>
+                  <pb/> Wenn Werner abends bei der Lampe Lene gegenübersaß und zuhörte, wie Lene
+                  über friedliche, kleine Dinge plauderte, dann geschah es wohl, daß sie plötzlich
+                  ausrief</p>
                <p>»Was ist dir?«</p>
                <p>»Mir? Nichts – warum?«</p>
                <p>»Du machst ein Gesicht, als schmerzte dich was.«</p>
@@ -1984,8 +1977,8 @@
                   Wildes im Dickicht. Er gehörte zu ihnen allen, die ihn umstanden, sie waren seine
                   Mitwisser.</p>
                <p>Durch die Tannenschonung ging er in den Wald hinein, bis er den schmalen weißen
-                  Strich über dem<pb facs="#"/> Abgrunde sah. Dort setzte er sich auf einen
-                  Baumstumpf im Gebüsch und wartete.</p>
+                  Strich über dem<pb/> Abgrunde sah. Dort setzte er sich auf einen Baumstumpf im
+                  Gebüsch und wartete.</p>
                <p>Wenn es in seiner Nähe raschelte, dann wußte er, es war der Fuchs, der auf die
                   Jagd ging. Die regungslose Gestalt auf dem Baumstumpf schreckte den Fuchs nicht.
                   Er war an sie gewöhnt. Er mochte gemerkt haben, daß dieses Raubtier, das so still
@@ -2006,9 +1999,9 @@
                   auf, ging auf die Brücke hinauf, vorsichtig und aufmerksam. Er betrachtete sorgsam
                   jedes Brett, prüfte es mit der Hand. Dieses war ganz morsch, dieses lag nur lose
                   auf – hier war ein Spalt. Es mußte einmal geschehen. Wenn einer eines dieser
-                  Bretter zufällig mit dem Fuß oder mit der Hand verschob – – ein leichter <pb
-                     facs="#"/> Schwindel faßte ihn. Er mußte für einen Moment die Augen schließen.
-                  Dann ging er wieder an seinen Platz zurück.</p>
+                  Bretter zufällig mit dem Fuß oder mit der Hand verschob – – ein leichter <pb/>
+                  Schwindel faßte ihn. Er mußte für einen Moment die Augen schließen. Dann ging er
+                  wieder an seinen Platz zurück.</p>
                <p>»Wenn einer zufällig mit dem Fuß oder mit der Hand eines dieser Bretter
                   verschiebt« – klang es in ihm wider, eintönig, eigensinnig, wie ein sinnloser
                   Refrain. Und um ihn flüsterten die kleinen Tannen » – ver – schiebt – ver –
@@ -2028,9 +2021,9 @@
                <p>Das war heiter. Werner klangen noch die Lieder im Ohr, die er eben von den Kindern
                   gehört hatte.</p>
                <p>»So viel Licht, daß man nichts mehr unterscheidet«, hatte Karola gesagt. So dachte
-                  sie sich das Jenseits. <pb facs="#"/> Das war es. So mußte die Religion für die
-                  Armen und Gedrückten sein, – Licht, nicht das zeigt und aufdeckt, nein, Licht, das
-                  verhüllt, das wie ein leuchtender Schleier sich über das graue Leben breitet.</p>
+                  sie sich das Jenseits. <pb/> Das war es. So mußte die Religion für die Armen und
+                  Gedrückten sein, – Licht, nicht das zeigt und aufdeckt, nein, Licht, das verhüllt,
+                  das wie ein leuchtender Schleier sich über das graue Leben breitet.</p>
                <p>Von dem engen Waldpfade bog er in die kleine Waldlichtung ein und – trat leise
                   zurück.</p>
                <p>Wie eine Vision stand es vor ihm.</p>
@@ -2056,7 +2049,7 @@
                <p>Dann setzte er Karola in den Schlitten.</p>
                <p>»Jetzt fahren wir los«, sagte er.</p>
                <p>
-                  <pb facs="#"/> »Jetzt fahren wir los«, wiederholte Karola lustig.</p>
+                  <pb/> »Jetzt fahren wir los«, wiederholte Karola lustig.</p>
                <p>Sie ließ sich zurechtsetzen, einhüllen, willenlos wie eine Sache, wie seine
                   Sache.</p>
                <p>– »Hü!«rief Rast dem Pferde zu, und sie fuhren in all das Weiß der Büsche
@@ -2080,10 +2073,10 @@
                <p>Am Nachmittag kam der Doktor Braun. Er saß am Kamin und erzählte:</p>
                <p>Mit dem Baron in Dumala war es so – so. Er machte dem Doktor Sorge. Das Herz matt
                   und die Schmerzen. »Sie sollen doch herüberkommen, Pastor, läßt er Ihnen sagen. Er
-                  schimpft schon. Ein Doktor und ein Pastor würden dafür bezahlt, daß <pb facs="#"/>
-                  sie die Kranken besuchen – sagt er, ›von einem Bankdirektor verlang' ich das
-                  nicht. Was denkt sich der Werner eigentlich!‹ Ja, die Laune ist nicht die beste.
-                  Und die arme Frau. Die sitzt bei ihm, erträgt jede Laune. Eine Heilige.«</p>
+                  schimpft schon. Ein Doktor und ein Pastor würden dafür bezahlt, daß <pb/> sie die
+                  Kranken besuchen – sagt er, ›von einem Bankdirektor verlang' ich das nicht. Was
+                  denkt sich der Werner eigentlich!‹ Ja, die Laune ist nicht die beste. Und die arme
+                  Frau. Die sitzt bei ihm, erträgt jede Laune. Eine Heilige.«</p>
                <p>»Ja – eine Heilige«, wiederholte Werner.</p>
                <p>»Und denken Sie sich!« Der Doktor wurde ganz rot vor Aufregung. »Die Alte in
                   Debschen sagt mir – es ist unglaublich – sie habe von Gerüchten – von Gerede
@@ -2104,7 +2097,7 @@
                <p>Und Werner empfand diese ruhige Zufriedenheit als klein, er verachtete sie fast
                   seiner eigenen Qual gegenüber.</p>
                <p>
-                  <pb facs="#"/> Der Abend verging still und gemütlich.</p>
+                  <pb/> Der Abend verging still und gemütlich.</p>
                <p>In der Nacht machte Werner sich pünktlich zu seinem Posten auf den Weg. Er
                   überlegte sich das nicht mehr. Wozu? Er wußte es ja doch, zu der bestimmten Stunde
                   würde er unten im Walde sein.</p>
@@ -2127,9 +2120,9 @@
                   versuchte es, die Flocken zu zählen, die am Fenster vorüberzogen, bis ihm die
                   Augen zufielen.</p>
                <p>Ein leises Geräusch ließ ihn aufschauen. Rasts Schlitten war schon mitten auf der
-                  Brücke. Rast sagte etwas, und der Zwerg antwortete mit seiner gedrückten <pb
-                     facs="#"/> Altweiberstimme, schläfrig, als fahre er auf sicherer Landstraße
-                  hin. Nun waren sie – hinüber – wirklich hinüber und fort.</p>
+                  Brücke. Rast sagte etwas, und der Zwerg antwortete mit seiner gedrückten <pb/>
+                  Altweiberstimme, schläfrig, als fahre er auf sicherer Landstraße hin. Nun waren
+                  sie – hinüber – wirklich hinüber und fort.</p>
                <p>Werner schaute auf die Brücke – erstaunt. Es war ihm gewesen, als müßte es heute
                   sein. Er hatte das so fest erwartet, daß es ihn ruhig gemacht hatte – heute würde
                   er es sehen, daß der Schlitten mitten auf der Brücke verschwand – und nun – –
@@ -2153,8 +2146,8 @@
                <p>Vor ihm gähnte ein großes, schwarzes Loch. Er stand am Rande und schaute hinein.
                   Eine schwere Mattigkeit machte ihm die Glieder weich, nahm ihm alle Kraft. Am
                   liebsten hätte er sich auch in das schwarze Loch hinabgleiten lassen. Ein
-                     Aufschlagen<pb facs="#"/> des Wassers, ein Gurgeln und die tiefe Stille hätte
-                  sich auch über ihn gelegt, kühl und wohltuend.</p>
+                  Aufschlagen<pb/> des Wassers, ein Gurgeln und die tiefe Stille hätte sich auch
+                  über ihn gelegt, kühl und wohltuend.</p>
                <p>Vorsichtig trat er den Rückweg an und setzte sich wieder auf den Baumstumpf. Er
                   zündete sich eine Zigarette an, sah beim Schein des Zündholzes nach der Uhr. Es
                   ging ihm durch den Kopf, daß der niederfallende Schnee jede Spur verwischte. Er
@@ -2179,7 +2172,7 @@
                <p>»Fahren Sie nicht weiter«, sagte Werner.</p>
                <p>»Ja – warum?«</p>
                <p>
-                  <pb facs="#"/> »Weil die Brücke eingestürzt ist, – da – in der Mitte.«</p>
+                  <pb/> »Weil die Brücke eingestürzt ist, – da – in der Mitte.«</p>
                <p>»So.«</p>
                <p>Rast ließ das Pferd einige Schritte zurückgehen, stieg dann aus.</p>
                <p>»Gebrochen, sagen Sie«, meinte er, »wie wissen Sie das?«</p>
@@ -2203,8 +2196,7 @@
                   Sie müssen gefroren haben. Nein, nein, keine Einwendungen. Ich bin Ihnen zu großem
                   Dank verpflichtet. Sie sind, was man so nennt, mein Lebensretter.«</p>
                <p>
-                  <pb facs="#"/> Er drängte Werner in den Schlitten hinein, deckte ihn sorgsam
-                  zu.</p>
+                  <pb/> Er drängte Werner in den Schlitten hinein, deckte ihn sorgsam zu.</p>
                <p>Werner ließ es geschehen. Willenlosigkeit lag lähmend auf ihm, wie wir sie in
                   einem schweren Traum empfinden, wenn wir die düsteren Traumereignisse
                   widerstandslos über uns ergehen lassen müssen.</p>
@@ -2228,10 +2220,10 @@
                <p>»Ja – ja! Damkewitz, trocknen Sie den Gaul ab. Lassen Sie sich einen Grog geben,
                   so!«</p>
                <p>
-                  <pb facs="#"/> Werner folgte Rast in den Krug mit der traumhaften Willenlosigkeit,
-                  die er nicht abschütteln konnte. Alle Aufregung in ihm hatte sich gelegt, nur
-                  etwas wie Neugierde lebte in ihm, Neugierde, wie dieser entsetzliche Traum
-                  weitergehen würde.</p>
+                  <pb/> Werner folgte Rast in den Krug mit der traumhaften Willenlosigkeit, die er
+                  nicht abschütteln konnte. Alle Aufregung in ihm hatte sich gelegt, nur etwas wie
+                  Neugierde lebte in ihm, Neugierde, wie dieser entsetzliche Traum weitergehen
+                  würde.</p>
                <p>Die Lampe wurde im Herrenzimmer angesteckt, Feuer im Ofen angemacht.</p>
                <p>»Und nun Ihren Sündersekt«, befahlt Rast: »Ein armer Jude hat nämlich Sekt hier
                   bei dem Jost einmal versteckt, um ihn bei Gelegenheit über die Grenze zu schaffen.
@@ -2253,7 +2245,7 @@
                   Zug leerte. Seine schönen Samtaugen ruhten freundlich und wohlgefällig auf
                   Werner.</p>
                <p>
-                  <pb facs="#"/> »Geschmeckt? jetzt wird's besser?« fragte er besorgt.</p>
+                  <pb/> »Geschmeckt? jetzt wird's besser?« fragte er besorgt.</p>
                <p>»Das wärmt«, erwiderte Werner und lächelte müde.</p>
                <p>»Also!« Rast schien wesentlich erleichtert zu sein, als er Werner lächeln sah:
                   »Wissen Sie, Pastor, Sie sind ein famoser Mensch. Das hab' ich gleich gewußt, als
@@ -2275,9 +2267,9 @@
                   und Rast und das Zimmer mit den roten Vorhängen an dem kleinen Fenster, das große
                   Ofenfeuer, Marri, die halb nackt in ihrer lasterhaften Üppigkeit ab und zu ging,
                   all das war wie eine Erscheinung, die gleich verschwinden würde.</p>
-               <p>»Seltsam ist es immerhin«, hörte er Rast nachdenklich <pb facs="#"/> sagen,
-                  »gerade in der Mitte. Ich bin doch vor wenig Stunden hinübergefahren. Ob es so von
-                  selbst ...?«</p>
+               <p>»Seltsam ist es immerhin«, hörte er Rast nachdenklich <pb/> sagen, »gerade in der
+                  Mitte. Ich bin doch vor wenig Stunden hinübergefahren. Ob es so von selbst
+                  ...?«</p>
                <p>»Morsch genug war es«, hörte Werner sich sagen.</p>
                <p>»Allerdings«, gab Rast zu. »Sagen Sie, Pastor – ob da vielleicht einer
                   hinübergefahren ist – und – –«</p>
@@ -2299,11 +2291,11 @@
                   steckte wohl noch unten in den Latten – und dann, das große Brett –«</p>
                <p>»Sehr morsch« – wandte Werner ein.</p>
                <p>
-                  <pb facs="#"/> »Immerhin«, sagte Rast, »ein hübsches Stück Arbeit. Alle Achtung.
-                  Ob der da wo im Gebüsch gestanden hat und gewartet, daß ich in die Falle gehe? Was
-                  denken Sie? An seiner Stelle hätte ich gewartet – bis – bis es unten aufklatscht.
-                  Das hätte mich gefreut – wenn ich das gewollt hätte. Ob er da war? Sie haben
-                  nichts bemerkt?«</p>
+                  <pb/> »Immerhin«, sagte Rast, »ein hübsches Stück Arbeit. Alle Achtung. Ob der da
+                  wo im Gebüsch gestanden hat und gewartet, daß ich in die Falle gehe? Was denken
+                  Sie? An seiner Stelle hätte ich gewartet – bis – bis es unten aufklatscht. Das
+                  hätte mich gefreut – wenn ich das gewollt hätte. Ob er da war? Sie haben nichts
+                  bemerkt?«</p>
                <p>Rast nahm sein Glas, trank langsam daraus und sah über den Rand des Glases hinweg
                   Werner mit seinen sentimentalen Augen sinnend an.</p>
                <p>»Sie haben ihn nicht gesehen?« wiederholte er leise.</p>
@@ -2323,9 +2315,9 @@
                   Leute, die müde sind, und sahen dem Ofenfeuer zu.</p>
                <p>Plötzlich richtete sich Rast auf, griff nach seinem Glase:</p>
                <p>»Prosit, Pastor, prosit, Lebensretter! Natürlich wußt' ich's. Auf Ihr Wohl! Hier
-                  in der Gegend <pb facs="#"/> sind Sie der einzige, der so was kann. Teufel noch
-                  einmal, so was! Eine Falle wie für einen Wolf. Herr, Sie müssen ordentlich hassen
-                  können. Aber gekonnt, bis zu Ende gekonnt haben Sie's auch nicht.«</p>
+                  in der Gegend <pb/> sind Sie der einzige, der so was kann. Teufel noch einmal, so
+                  was! Eine Falle wie für einen Wolf. Herr, Sie müssen ordentlich hassen können.
+                  Aber gekonnt, bis zu Ende gekonnt haben Sie's auch nicht.«</p>
                <p>»Nein«, sagte Werner wie in Gedanken, »das sollte nicht sein. Sie waren nicht in
                   meine Hand gegeben.«</p>
                <p>Rast lächelte sein liebenswürdiges Lächeln.</p>
@@ -2345,11 +2337,11 @@
                   auszumachen haben – –«</p>
                <p>»Aber lieber Pastor«, unterbrach ihn Rast, »ich hoffe, ich habe Sie nicht
                   verletzt. Sie haben recht, es war taktlos von mir, diese Frage zu stellen. Sie
-                  können ruhig sein, das wird nicht mehr vorkommen,<pb facs="#"/> keine Frage. Für
-                  eine Unterhaltung in Fragen sind wir beide zu gut erzogen. Und dann, Sie sprechen
-                  von einer Tat. Hier gibt es keine Tat, kaum das Gespenst einer Tat. Und Rechte,
-                  welche Rechte soll ich haben? Ich bin für Ihre Mitteilung dankbar, sie hat mich
-                  sehr interessiert. Wenn ich Ihnen einen Gegendienst leisten kann, wird es mich
+                  können ruhig sein, das wird nicht mehr vorkommen,<pb/> keine Frage. Für eine
+                  Unterhaltung in Fragen sind wir beide zu gut erzogen. Und dann, Sie sprechen von
+                  einer Tat. Hier gibt es keine Tat, kaum das Gespenst einer Tat. Und Rechte, welche
+                  Rechte soll ich haben? Ich bin für Ihre Mitteilung dankbar, sie hat mich sehr
+                  interessiert. Wenn ich Ihnen einen Gegendienst leisten kann, wird es mich
                   freuen.«</p>
                <p>Werner stand noch immer und sah auf Rast hinab. Plötzlich ging ein merkwürdig
                   hochmütiges Lächeln über sein Gesicht.</p>
@@ -2369,8 +2361,8 @@
                   frischgefallenen Schnee kam der Tag sehr weiß und rein herauf.</p>
 
                <p>
-                  <pb facs="#"/> »Bist du mit den dummen Rechnungen fertig?« fragte Lene. »Du
-                  schläfst ja keine Nacht mehr.«</p>
+                  <pb/> »Bist du mit den dummen Rechnungen fertig?« fragte Lene. »Du schläfst ja
+                  keine Nacht mehr.«</p>
                <p>»Ja – fertig«, antwortete Werner und drückte sich fester in den Sessel am Kamin
                   hinein.</p>
                <p>»So sing' wieder«, bat Lene.</p>
@@ -2394,7 +2386,7 @@
                   das Wasser, und das Wasser spritzte auf, schwarz wie Tinte, und vor ihm gähnte das
                   dunkle Loch. Dann erwachte er todmüde, wie gehetzt von dem Traum.</p>
                <p>
-                  <pb facs="#"/> Mit Rast traf er eines Nachmittags in Debschen bei der Baronin Huhn
+                  <pb/> Mit Rast traf er eines Nachmittags in Debschen bei der Baronin Huhn
                   zusammen.</p>
                <p>Rast begrüßte ihn sehr herzlich, als seien sie alte Freunde. »Ach, Pastor!
                   Angenehm, daß man sich wieder trifft.«</p>
@@ -2421,9 +2413,9 @@
                   langweiligsten Geschichten beichtet. Also kommen Sie.«</p>
 
                <p>
-                  <pb facs="#"/> Werner wunderte sich, als hätte er es anders erwartet, Dumala ganz
-                  so zu finden, wie er es immer gesehen hatte – die tiefe Dämmerung in dem Zimmer,
-                  das diskrete, faltige Gesicht des alten Jakob, das Kammzimmer mit der grünen
+                  <pb/> Werner wunderte sich, als hätte er es anders erwartet, Dumala ganz so zu
+                  finden, wie er es immer gesehen hatte – die tiefe Dämmerung in dem Zimmer, das
+                  diskrete, faltige Gesicht des alten Jakob, das Kammzimmer mit der grünen
                   Lampe.</p>
                <p>Werland, in die rote Decke gewickelt, saß am Kamin, und die Augen schauten
                   flackernd aus den tiefen Höhlen.</p>
@@ -2445,13 +2437,13 @@
                   nach. Man wird sehen.« Er schloß wieder die Augen. Karola war schweigsam, rieb
                   Werlands Bein und schaute in das Feuer.</p>
                <p>
-                  <pb facs="#"/> Werner betrachtete dieses Gesicht. Er suchte darin nach etwas
-                  Neuem, etwas Fremdem, etwas, das verriet. Allein die Züge hatten wie immer ihre
-                  klare Reinheit, die Augen ihr verträumtes, geheimnisvolles Licht. Nichts war
-                  verändert, nichts war von der Karola da, die sich dort in der Waldlichtung in den
-                  Sonnenschein emporheben ließ. Das beunruhigte Werner, er wollte etwas finden, was
-                  diese Frau ihm fremd und verächtlich machte, und nun schaute er in das Gesicht,
-                  das ihn mit törichten, knabenhaft weichen Gefühlen erfüllte.</p>
+                  <pb/> Werner betrachtete dieses Gesicht. Er suchte darin nach etwas Neuem, etwas
+                  Fremdem, etwas, das verriet. Allein die Züge hatten wie immer ihre klare Reinheit,
+                  die Augen ihr verträumtes, geheimnisvolles Licht. Nichts war verändert, nichts war
+                  von der Karola da, die sich dort in der Waldlichtung in den Sonnenschein
+                  emporheben ließ. Das beunruhigte Werner, er wollte etwas finden, was diese Frau
+                  ihm fremd und verächtlich machte, und nun schaute er in das Gesicht, das ihn mit
+                  törichten, knabenhaft weichen Gefühlen erfüllte.</p>
                <p>»Die Galgenbrücke hat Rast einreißen lassen«, sagte Werland.</p>
                <p>»Ja, es war Zeit«, erwiderte Werner zerstreut.</p>
                <p>»Eine Gelegenheit weniger, sich aus der Welt zu befördern«, meinte Werland, »aber
@@ -2468,8 +2460,8 @@
                   durch jahrhundertlange Erziehung zur Langeweile möglich. Ist es nicht so, Kind?«
                   wandte er sich an Karola und strich ihr mit der Hand über den Scheitel.</p>
                <p>
-                  <pb facs="#"/> »O ja, das können wir!« sagte sie, und ihr Gesicht wurde einen
-                  Augenblick von dem hübschen, durchtriebenen Lachen erhellt.</p>
+                  <pb/> »O ja, das können wir!« sagte sie, und ihr Gesicht wurde einen Augenblick
+                  von dem hübschen, durchtriebenen Lachen erhellt.</p>
                <p>Pichwit kam zum Tee, war schweigsam und hochmütig wie sonst.</p>
                <p>Als Karola sich erhob und in das Nebenzimmer ging, um Jakob eine Bestellung zu
                   machen, folgte Werner ihr mit den Blicken, und da – da fand er es, das Fremde, das
@@ -2490,8 +2482,8 @@
                <p>»Pastor, nicht wahr, Sie kommen öfter, er braucht Sie.«</p>
                <p>»Gewiß, Frau Baronin«, erwiderte Werner förmlich, »aber solange er Sie hat, wen
                   braucht er da!«</p>
-               <p>»Doch – er braucht Sie«, wiederholte Karola. <pb facs="#"/> »Sie haben so viel
-                  starkes Leben, das muß er haben, er verbraucht viel –«</p>
+               <p>»Doch – er braucht Sie«, wiederholte Karola. <pb/> »Sie haben so viel starkes
+                  Leben, das muß er haben, er verbraucht viel –«</p>
                <p>»Wer?«</p>
                <p>»Der, bei dem das Leben zu – zu versiegen anfängt.«</p>
                <p>»Ja,« sagte Werner, um etwas darauf zu erwidern, »unser Leben wird uns für die
@@ -2513,7 +2505,7 @@
                <p>Am Vormittage saß Werner an seinem Schreibtisch, und vor ihm stand Kathe, die
                   Knechtstochter, und weinte bitterlich.</p>
                <p>
-                  <pb facs="#"/> Werner hatte seine strenge Pastorenmiene aufgesetzt.</p>
+                  <pb/> Werner hatte seine strenge Pastorenmiene aufgesetzt.</p>
                <p>Immer das alte Lied! So lange wird den Jungen nachgelaufen, bis das Unglück da
                   ist, und dann kommen die Tränen und der Jammer. Was, der Simon war der Vater? Und
                   vom Heiraten spricht er nicht? Na, mit dem würde man schon sprechen! Aber die
@@ -2535,8 +2527,8 @@
                <p>Die Tür wurde heftig aufgerissen, und Karl Pichwit stürzte in das Zimmer. Er blieb
                   an der Tür atemlos stehen.</p>
                <p>
-                  <pb facs="#"/> »Herr Pichwit«, sagte Werner, »wie sehen Sie aus? Sind Sie ohne
-                  Mantel herübergekommen?«</p>
+                  <pb/> »Herr Pichwit«, sagte Werner, »wie sehen Sie aus? Sind Sie ohne Mantel
+                  herübergekommen?«</p>
                <p>Pichwit stand noch immer regungslos da, die Lippen blau vor Kälte. Die Augen sahen
                   seltsam abwesend und wie erstaunt aufgerissen vor sich hin. »Ja, Herr Pastor«,
                   sagte er leise.</p>
@@ -2561,8 +2553,8 @@
                   weiß nicht, was darin stand.«</p>
                <p>»Und er?« fragte Werner.</p>
                <p>
-                  <pb facs="#"/> »Der Baron?« sagte Pichwit. »Er trank seinen Tee wie sonst, als ich
-                  ihn sah und tat so, als läse er die Zeitung.</p>
+                  <pb/> »Der Baron?« sagte Pichwit. »Er trank seinen Tee wie sonst, als ich ihn sah
+                  und tat so, als läse er die Zeitung.</p>
                <p>Dann saß er auf seinem Stuhl und hielt die Augen geschlossen. Ich glaube nicht,
                   daß er schlief Aber ich – ich hab' es gewußt.«</p>
                <p>»Sie?«</p>
@@ -2587,9 +2579,9 @@
                   Lene gedrungen. Die Baronin Huhn war am Pastorat angefahren, nur, um die Neuigkeit
                   mitzuteilen und vielleicht welche zu hören.</p>
                <p>
-                  <pb facs="#"/> Lene ereiferte sich sehr über den Fall. Sie war entrüstet. Etwas
-                  Ähnliches hätte sie dieser Frau schon zugetraut, aber das war unerhört. Den
-                  todkranken Mann zu verlassen, um mit diesem Rast durchzugehen!</p>
+                  <pb/> Lene ereiferte sich sehr über den Fall. Sie war entrüstet. Etwas Ähnliches
+                  hätte sie dieser Frau schon zugetraut, aber das war unerhört. Den todkranken Mann
+                  zu verlassen, um mit diesem Rast durchzugehen!</p>
                <p>Werner schob seinen Teller fort und stand vom Tische auf.</p>
                <p>»Willst du nicht essen?« fragte Lene.</p>
                <p>»Nein,« antwortete er, »nicht mehr essen und nicht mehr hören.« Damit ging er
@@ -2609,8 +2601,8 @@
                <p>Außer Atem hielt sie inne und sah ihren Mann an, erwartete mutig einen
                   Zornesausbruch, ein donnerndes »Lene!«</p>
                <p>Er schwieg aber, und als er sprach, klang es sanft und müde:</p>
-               <p>»Ach, Kind! Was wissen wir, was verstehen wir<pb facs="#"/> von dem, was in
-                  anderen vorgeht! Wie können wir urteilen!</p>
+               <p>»Ach, Kind! Was wissen wir, was verstehen wir<pb/> von dem, was in anderen
+                  vorgeht! Wie können wir urteilen!</p>
                <p>Du und ich, wir leben nah beieinander. Was wissen wir voneinander? Was können wir
                   füreinander tun? Wie die Pakete im Güterwagen, so stehen die Menschen
                   nebeneinander. Ein jeder gut verpackt und versiegelt, mit einer Adresse. Was drin
@@ -2630,8 +2622,8 @@
                   Baron sei leidend und empfange nicht.</p>
                <p>»Ein böser Anfall«, sagte Doktor Braun.</p>
                <p>»Na, kein Wunder. Ich hätte selbst davon einen Anfall bekommen können.«</p>
-               <p>Eines Nachmittags schickte Werland in das Pastorat <pb facs="#"/> hinüber und ließ
-                  den Pastor bitten, doch zu ihm zu kommen.</p>
+               <p>Eines Nachmittags schickte Werland in das Pastorat <pb/> hinüber und ließ den
+                  Pastor bitten, doch zu ihm zu kommen.</p>
                <p>Werner fand den Baron auf seinem gewohnten Platz am Kaminfeuer, wohl frisiert und
                   parfümiert. Er rief dem Pastor sein gewöhnliches »Ach – unser Seelsorger!«
                   entgegen.</p>
@@ -2655,8 +2647,8 @@
                <p>»Ich glaubte, er litte an der sauren Liebe, aber wie es scheint, wird er milder.
                   Ich wollte Ihnen sagen, Pastor, ich habe Nachricht erhalten, gleichviel wie. – Sie
                   sind in Florenz. Gut! Da hab' ich nun einen Brief geschrieben. Ich will ihn nicht
-                  von hier aus auf die Post geben und ihn auch nicht <pb facs="#"/> selbst
-                  adressieren. Hier ist er. Adressieren Sie ihn und geben Sie ihn auf die Post.«</p>
+                  von hier aus auf die Post geben und ihn auch nicht <pb/> selbst adressieren. Hier
+                  ist er. Adressieren Sie ihn und geben Sie ihn auf die Post.«</p>
                <p>»Gewiß, gern«, sagte Werner und nahm den Brief entgegen.</p>
                <p>»Ich kann Ihnen auch sagen«, fuhr Werland fort, »was in dem Brief steht. Sie
                   werden sich vielleicht darüber wundern. Ich schreibe ihr: ›Du kannst Jeden
@@ -2677,10 +2669,10 @@
                   den Tee ein, geht hier herum, wie früher. Und sie wird kommen. Also den
                   Brief.«</p>
                <p>Werner verbeugte sich stumm. Von nun an war nie mehr von Karola die Rede.</p>
-               <p>Werner ging oft nach Dumala hinüber. Die drei<pb facs="#"/> Männer saßen
-                  beisammen. Werland schlief viel, oder man sprach von dem Frost und den Rehen.
-                  Pichwit rieb das Bein des Barons. Oder man hörte schweigend zu, wie die Mäuse
-                  hinter dem Getäfel arbeiteten.</p>
+               <p>Werner ging oft nach Dumala hinüber. Die drei<pb/> Männer saßen beisammen. Werland
+                  schlief viel, oder man sprach von dem Frost und den Rehen. Pichwit rieb das Bein
+                  des Barons. Oder man hörte schweigend zu, wie die Mäuse hinter dem Getäfel
+                  arbeiteten.</p>
                <p>Nur wenn draußen ein Ton erwachte, schlug Werland die Augen auf und horchte. Und
                   Pichwit hielt im Reiben inne und horchte.</p>
                <p>»Fährt da einer?« fragte Werland.</p>
@@ -2702,12 +2694,12 @@
                   Kissen. Die flackernden, blauen Augen schienen das einzig Lebendige, böse und
                   erregt lauerten sie aus all dem Weiß heraus.</p>
                <p>
-                  <pb facs="#"/> »Pastor«, sagte er, als Werner sich an sein Bett setzte, »ich bin
-                  wütend. Dieser Husten, eine ganz unsinnige Beschäftigung. Sie werden natürlich
-                  sagen, auch der Husten ist eine weise Einrichtung, der Schleim muß aus den Lungen
-                  gebracht werden. Gut! Aber wozu ist Schleim in den Lungen? Das nennen Sie
-                  Vorsehung. Ich kann nur nicht denken, daß, wenn ich Schöpfer wäre, ich mir die
-                  Zeit damit vertreiben würde, mir solche merkwürdige Kombinationen auszudenken, wie
+                  <pb/> »Pastor«, sagte er, als Werner sich an sein Bett setzte, »ich bin wütend.
+                  Dieser Husten, eine ganz unsinnige Beschäftigung. Sie werden natürlich sagen, auch
+                  der Husten ist eine weise Einrichtung, der Schleim muß aus den Lungen gebracht
+                  werden. Gut! Aber wozu ist Schleim in den Lungen? Das nennen Sie Vorsehung. Ich
+                  kann nur nicht denken, daß, wenn ich Schöpfer wäre, ich mir die Zeit damit
+                  vertreiben würde, mir solche merkwürdige Kombinationen auszudenken, wie
                   diese.«</p>
                <p>»Wir sollen daran vielleicht Geduld lernen«, meinte Werner.</p>
                <p>Werland lachte ärgerlich.</p>
@@ -2724,12 +2716,12 @@
                <p>Werland lag eine Weile mit geschlossenen Augen still da. Plötzlich begann er zu
                   sprechen, und zwar so, als setzte er eine Unterhaltung fort.</p>
                <p>»Und dann, sehen Sie, das ist auch ein Argument gegen Ihre Unsterblichkeit. Wenn
-                  die so 'ne große<pb facs="#"/> Sache ist, und Sie sagen doch – das Leben nach dem
-                  Tode, das ist die Hauptsache –, na, da müßte man doch, wenn man ihr näherrückt, so
-                  was wie 'n Gefühl haben – ›nun kommt's‹, etwas steht bevor. Vor einem Duell, vor
-                  einem Rendezvous – vor meiner Trauung, ja, am Abend vor einer Jagd hab' ich das
-                  gehabt. Jetzt – nichts davon. Die Lampe ist heruntergeschroben, immer tiefer –
-                  dann dunkel. Alles das sieht mehr nach Ende als nach Anfang aus.«</p>
+                  die so 'ne große<pb/> Sache ist, und Sie sagen doch – das Leben nach dem Tode, das
+                  ist die Hauptsache –, na, da müßte man doch, wenn man ihr näherrückt, so was wie
+                  'n Gefühl haben – ›nun kommt's‹, etwas steht bevor. Vor einem Duell, vor einem
+                  Rendezvous – vor meiner Trauung, ja, am Abend vor einer Jagd hab' ich das gehabt.
+                  Jetzt – nichts davon. Die Lampe ist heruntergeschroben, immer tiefer – dann
+                  dunkel. Alles das sieht mehr nach Ende als nach Anfang aus.«</p>
                <p>Er sprach schnell und geläufig, wie Fiebernde es tun.</p>
                <p>»Ja!« schloß er mit einem Seufzer. »Ich will nichts behaupten, besonders aufgelegt
                   für eine Ewigkeit fühl' ich mich jetzt nicht.«</p>
@@ -2749,7 +2741,7 @@
                   Allee heraufkommen sollte, auf den sie warteten, was anderes noch war es, dem sie
                   ernst und gespannt entgegensahen.</p>
                <p>
-                  <pb facs="#"/> »Der Doktor wollte kommen«, sagte der Baron.</p>
+                  <pb/> »Der Doktor wollte kommen«, sagte der Baron.</p>
                <p>»Ja, um zehn Uhr«, erwiderte Pichwit.</p>
                <p>»Ein guter Mensch, der Doktor«, fuhr Werland fort, »aber er weiß wohl ebensoviel
                   von dem, was auf dein Monde passiert –, wie von dem, was in meinem Körper vorgeht.
@@ -2774,11 +2766,11 @@
                   und schließlich –«</p>
                <p>Aber Werland unterbrach ihn:</p>
                <p>
-                  <pb facs="#"/> »Lieber Pastor, manche haben den Tag über ein Gefühl der inneren
-                  Unordnung, wenn sie am Morgen nicht ihre Andacht abgehalten haben. So hör' ich.
-                  Ich hab' ein Gefühl innerer Unordnung, wenn ich nicht frisiert bin. Das ist
-                  individuell. Also Jakob, vorwärts. Die Herren werden entschuldigen, wenn wir's
-                  hier vor ihnen vornehmen.«</p>
+                  <pb/> »Lieber Pastor, manche haben den Tag über ein Gefühl der inneren Unordnung,
+                  wenn sie am Morgen nicht ihre Andacht abgehalten haben. So hör' ich. Ich hab' ein
+                  Gefühl innerer Unordnung, wenn ich nicht frisiert bin. Das ist individuell. Also
+                  Jakob, vorwärts. Die Herren werden entschuldigen, wenn wir's hier vor ihnen
+                  vornehmen.«</p>
                <p>Jakob brachte einen Spiegel und stellte ihn vor den Kranken hin, auf jeder Seite
                   wurde eine Kerze angezündet, und Jakob begann ihn zu frisieren, wusch den Kopf mit
                   Haarwasser und bog mit der Brennschere vorsichtig die Löckchen ein.</p>
@@ -2795,9 +2787,8 @@
                   manches zu besprechen«, meldete Jakob im Pastorat.</p>
                <p>»Die Exzellenz?« fragte Werner.</p>
                <p>»Ja, die Exzellenz ist da«, berichtete Jakob, »und der Herr Graf und die Frau
-                  Gräfin mit den Kindern, und die Frau Baronin mit den Kindern, und die <pb facs="#"
-                  /> Herren Leutnants – alle sind da. Das ist bei uns jetzt ein Leben –, mein
-                  Gott!«</p>
+                  Gräfin mit den Kindern, und die Frau Baronin mit den Kindern, und die <pb/> Herren
+                  Leutnants – alle sind da. Das ist bei uns jetzt ein Leben –, mein Gott!«</p>
                <p>Ein Seufzer unterbrach die korrekte Dienerstimme, die zu zittern begann.</p>
                <p>»Gut, gut! Ich komme«, sagte Werner, »das geht vorüber, Jakob, noch einen
                   Tag.«</p>
@@ -2820,8 +2811,8 @@
                   Bewegung hat, gleich ist etwas mit dem Magen nicht in Ordnung. Aber natürlich, es
                   darf nicht vergessen werden, daß die teure Hülle noch unter uns weilt.«</p>
                <p>Die Gräfin wurde ernst und betrübt: »Ja, er hat es nicht leicht gehabt, der
-                  Verstorbene. Noch zuletzt <pb facs="#"/> die bittere Erfahrung. Ich glaube fest,
-                  das hat ihm das Herz gebrochen.«</p>
+                  Verstorbene. Noch zuletzt <pb/> die bittere Erfahrung. Ich glaube fest, das hat
+                  ihm das Herz gebrochen.«</p>
                <p>Wieder erhoben sich die ausgelassenen Kinderstimmen, und die Schar stürzte
                   herein.</p>
                <p>»Still – Kinder«, rief die Gräfin, »das geht nicht. Mademoiselle«, – wandte sie
@@ -2844,10 +2835,10 @@
                <p>»Ja, Geschäfte«, begann die Exzellenz. »Eigentlich Geschäfte kann man das nicht
                   nennen. Es handelt sich hier mehr um ein ..., wie soll ich sagen?« die Exzellenz
                   klemmte sich ein Glas in das linke Auge, um schärfer zu denken, »um eine
-                  Orientierung. Sie, Herr Pastor, haben mit dem Verstorbenen intim <pb facs="#"/>
-                  verkehrt. Er hatte Vertrauen zu Ihnen, natürlich. Ist Ihnen vielleicht etwas über
-                  seine letzten Bestimmungen oder vielmehr über eine in letzter Zeit vorgenommene
-                  Änderung seiner letzten Bestimmungen bekannt?«</p>
+                  Orientierung. Sie, Herr Pastor, haben mit dem Verstorbenen intim <pb/> verkehrt.
+                  Er hatte Vertrauen zu Ihnen, natürlich. Ist Ihnen vielleicht etwas über seine
+                  letzten Bestimmungen oder vielmehr über eine in letzter Zeit vorgenommene Änderung
+                  seiner letzten Bestimmungen bekannt?«</p>
                <p>Werner zuckte leicht die Achseln. »Von einer Änderung ist mir nichts bekannt,
                   Exzellenz.«</p>
                <p>»So!« fuhr die Exzellenz in höflichem Verhörston fort, »der Notar, der Anwalt –
@@ -2867,8 +2858,8 @@
                <p>»Doch, doch«, sagte die Exzellenz ermahnend. »Unsere Gesellschaft – unsere, bitte
                   – steht denn doch glücklicherweise noch auf dem Standpunkt, daß der Pastor überall
                   mitsprechen darf.«</p>
-               <p>»Ich bedaure«, wiederholte Werner. »Ich kann <pb facs="#"/> nur sagen, daß in
-                  letzter Zeit eine Änderung im Testament nicht vorgenommen wurde.«</p>
+               <p>»Ich bedaure«, wiederholte Werner. »Ich kann <pb/> nur sagen, daß in letzter Zeit
+                  eine Änderung im Testament nicht vorgenommen wurde.«</p>
                <p>Die Exzellenz fand das sehr bedenklich. Als der Schwiegersohn, der Graf Gleiß,
                   kam, blond, als hätte er kein Haar, mit einem Mädchenteint und langem, goldenem
                   Backenbart, rief sein Schwiegervater ihm entgegen:</p>
@@ -2890,9 +2881,8 @@
                   sie für eine Tante zuviel sei. Dann kamen die Kinder des Grafen, die Zwillinge der
                   Tante Sophie, fette, sechzehnjährige Mädchen, denen dicke blonde Zöpfe über den
                   Rücken niederhingen, und die zwei Dragonerleutnants und Mademoiselle Pin. Das
-                  schwirrte alles heran. Die Kinder stritten sich um die Plätze. Leutnant <pb
-                     facs="#"/> Emmerich sah sich die Etiketten der Weinflaschen an, wie im
-                  Hotel.</p>
+                  schwirrte alles heran. Die Kinder stritten sich um die Plätze. Leutnant <pb/>
+                  Emmerich sah sich die Etiketten der Weinflaschen an, wie im Hotel.</p>
                <p>Die Exzellenz leitete oben am Tisch die Unterhaltung. Sie sprach von der
                   ökonomischen Lage der Gegend. Der Wald mußte besser verwertet werden.</p>
                <p>»Ich würde den alten Flügel einreißen lassen«, sagte die Baronin Sophie.</p>
@@ -2918,9 +2908,9 @@
                <p>Die Exzellenz schüttelte den Kopf, warum man auch solche Dinge den Kindern in die
                   Hände gab.</p>
                <p>
-                  <pb facs="#"/> Nach dem Essen saß man im Saal beisammen und sprach von den
-                  Umbauten, die das Schloß nötig hatte. Nebenan spielte die Jugend
-                  Gesellschaftsspiele. Lautes Lachen füllte die Räume von Dumala.</p>
+                  <pb/> Nach dem Essen saß man im Saal beisammen und sprach von den Umbauten, die
+                  das Schloß nötig hatte. Nebenan spielte die Jugend Gesellschaftsspiele. Lautes
+                  Lachen füllte die Räume von Dumala.</p>
                <p>Lola steckte einmal den Kopf durch die Tür und meldete: »Eben hat Vetter Emmerich
                   Mademoiselle geküßt.«</p>
                <p>»Dieses Kind ist unmöglich –«, sagte die Exzellenz.</p>
@@ -2942,8 +2932,8 @@
                <p>»Wie friedlich er ruht«, flüsterte die Gräfin. »Die Blumen haben wir aus Berlin
                   kommen lassen.«</p>
                <p>Eine Weile standen sie und schauten den Toten an, der sehr korrekt vor ihnen lag
-                  und aus der Menge südlicher Frühlingsblumen mit dem kleinen, <pb facs="#"/>
-                  schadenfrohen Gesicht hervorlugte. Dann gingen sie hinaus.</p>
+                  und aus der Menge südlicher Frühlingsblumen mit dem kleinen, <pb/> schadenfrohen
+                  Gesicht hervorlugte. Dann gingen sie hinaus.</p>
                <p>Im Vorzimmer stand Lola und weinte. Um ihr Pfand auszulösen, mußte sie bis zur Tür
                   des Totenzimmers gehen und einen Knicks machen, und nun fürchtete sie sich und
                   wollte nicht.</p>
@@ -2966,9 +2956,9 @@
                   Buche umzuwenden, wenn es zu Ende scheint. Und in Ihrem Buche kann noch soviel
                   stehen, – recht viel Gutes – hoffe ich und wünsche es Ihnen.«</p>
                <p>
-                  <pb facs="#"/> »Danke, Herr Pastor«, erwiderte Pichwit. »Ich werde noch ein wenig
-                  zu dem Baron hineingehen. Seltsam, ich hab' immer das Gefühl, als warte er auf
-                  mich, damit ich ihm das Bein reibe. Leben Sie wohl, Herr Pastor.«</p>
+                  <pb/> »Danke, Herr Pastor«, erwiderte Pichwit. »Ich werde noch ein wenig zu dem
+                  Baron hineingehen. Seltsam, ich hab' immer das Gefühl, als warte er auf mich,
+                  damit ich ihm das Bein reibe. Leben Sie wohl, Herr Pastor.«</p>
                <p>»Leben Sie wohl, Pichwit!«</p>
 
                <p>Unter hellem Sonnenschein, durch das weiße, knisternde Land, trugen die Waldhüter
@@ -2987,9 +2977,9 @@
                   angesammelt hatte, sie ließ die farbigen Tücher lustig leuchten, spiegelte sich in
                   den Glatzen der alten Männer.</p>
                <p>Es fror. Die Exzellenz stand ganz vorn am Grabe und wechselte häufig das Stehbein
-                  und steckte die<pb facs="#"/> Nase fast ganz in den seidenen Schal. Die Gräfin
-                  legte dem einen oder dem anderen der Kinder ein Tuch um die Schultern. Alle
-                  warteten ungeduldig auf das Ende.</p>
+                  und steckte die<pb/> Nase fast ganz in den seidenen Schal. Die Gräfin legte dem
+                  einen oder dem anderen der Kinder ein Tuch um die Schultern. Alle warteten
+                  ungeduldig auf das Ende.</p>
                <p>Plötzlich bemerkte Werner eine Unruhe in der Versammlung. Die Leute schauten sich
                   um. Die Trauernden am Sarg rückten scheu zur Seite. Es wurde geflüstert. Die
                   Gräfin sah ihren Vater an und schüttelte traurig den Kopf Sie winkte ihre Kinder
@@ -3015,7 +3005,7 @@
                <p>»Litt er zuletzt?«</p>
                <p>»Nein, ich glaube es nicht.«</p>
                <p>
-                  <pb facs="#"/> Sie gingen nun nebeneinander die Wege zwischen den Gräbern hin.</p>
+                  <pb/> Sie gingen nun nebeneinander die Wege zwischen den Gräbern hin.</p>
                <p>»Ich bleibe jetzt hier«, sagte Karola. »Das hat er wohl gewollt.«</p>
                <p>»Das würde er wohl gewünscht haben«, bestätigte Werner.</p>
                <p>»Où sont les enfants?« hörte man die scharfe Stimme der Gräfin. »So komm doch! Was
@@ -3036,8 +3026,8 @@
                   Zusammengehen muß ich kein Talent haben. Entweder tu ich den anderen weh, oder sie
                   tun mir weh. Vielleicht braucht das nicht zu sein.«</p>
                <p>Sie reichte ihm die Hand. »Adieu, Herr Pastor.« Sie schaute den Weg hinab, auf dem
-                  die schwarze<pb facs="#"/> Schar der Verwandten dem Schlosse zuzog. Sie lächelte.
-                  »Wie sie ziehen! Gehaßt zu werden, das ist für mich etwas ganz Neues.«</p>
+                  die schwarze<pb/> Schar der Verwandten dem Schlosse zuzog. Sie lächelte. »Wie sie
+                  ziehen! Gehaßt zu werden, das ist für mich etwas ganz Neues.«</p>
                <p>Dann ging sie mit wehenden Schleiern zwischen den weißen Grabsteinen hin, dem
                   Ausgang zu.</p>
 

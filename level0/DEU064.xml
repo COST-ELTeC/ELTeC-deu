@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../WG1/distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../WG1/distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de" xml:id="DEU064">
    <teiHeader>
       <fileDesc>
@@ -46,15 +46,15 @@
    </teiHeader>
 
    <text>
-      
+
       <body>
-         <div type="chapter">
+         <div type="group">
             <div type="chapter">
                <head>Ada Christen</head>
                <head>Jungfer Mutter</head>
                <p>
-                  <pb facs="#"/> Die Geschichte, wie die Walter Hanni eine alte Jungfer geworden ist
-                  und warum sie von den Leuten in der Blauen Gans Jungfer Mutter genannt wurde, ist
+                  <pb/> Die Geschichte, wie die Walter Hanni eine alte Jungfer geworden ist und
+                  warum sie von den Leuten in der Blauen Gans Jungfer Mutter genannt wurde, ist
                   nicht so leicht und schnell zu erzählen, als man meinen könnte, daß sich ein armes
                   kleines Leben erzählen läßt. Sie wundert sich heute noch, wenn man ihr sagt, daß
                   sie viel erlebte, denn so eigentlich weiß sie nur, daß sie immer fleißig
@@ -79,8 +79,8 @@
                   allnächtlich als kohlschwarzer Mann schütteln und beuteln, bis ihr die Seel halb
                   aus ihrem wunderschönen heiligen Leib fliege, wenn sie den letzten Willen nicht
                   erfüllen sollte.</p>
-               <p>Die Leni war und ist immer eine ehrbare, tugendhafte, fromme <pb facs="#"/> Frau
-                  und so felsenfest überzeugt von der dies- und jenseitigen Nichtsnutzigkeit ihres
+               <p>Die Leni war und ist immer eine ehrbare, tugendhafte, fromme <pb/> Frau und so
+                  felsenfest überzeugt von der dies- und jenseitigen Nichtsnutzigkeit ihres
                   Ehemannes, daß sie an seinen nächtlichen Ausflügen nach dem Tode niemals
                   zweifelte. Sie ließ auch darum gleich am nächsten Morgen das Kind zu ihrer
                   »falschen Freundin« tragen und dem Toten ein teures Begräbnis bereiten. Bald stand
@@ -107,9 +107,9 @@
                   gegenüber widerspenstig. Sie nahm keinen Kreuzer und ließ die Frau Mutter des
                   Polderl nur um zwei Dinge bitten: Zuerst, daß sie die alte Einrichtung der Wohnung
                   behalten dürfe für ihren Ziehsohn, als Erbschaft von seinen Urgroßeltern,
-                  Großeltern <pb facs="#"/> und Vater, und dann, daß die Frau Mutter das Geld für
-                  den Polderl in die Sparkasse legen möchte bis zu der Zeit, in der er ein Handwerk
-                  lernen müßte. Dabei blieb es.</p>
+                  Großeltern <pb/> und Vater, und dann, daß die Frau Mutter das Geld für den Polderl
+                  in die Sparkasse legen möchte bis zu der Zeit, in der er ein Handwerk lernen
+                  müßte. Dabei blieb es.</p>
                <p>Der Polderl wurde ein Poldl, ein Leopold endlich, als er die Kunstschlosserei
                   erlernt hatte, aber seine »Jungfer Mutter« hatte von seiner »Frau Mutter« noch
                   immer kein Geld genommen. »Ich laß mich derweil recht schön bedanken, ich kann
@@ -141,9 +141,9 @@
                <!--milestone hi_end-->
 
                <p>
-                  <pb facs="#"/> Die Frau Mutter legte den Brief hübsch zu manchen andern und
-                  wartete mit ihrem Segen, bis der Leopold kam und ihn holte und damit versehen nach
-                  Bosnien marschierte.</p>
+                  <pb/> Die Frau Mutter legte den Brief hübsch zu manchen andern und wartete mit
+                  ihrem Segen, bis der Leopold kam und ihn holte und damit versehen nach Bosnien
+                  marschierte.</p>
                <p>Für die »Jungfer Mutter« begann eine schwere Zeit, aber sie hielt sich aufrecht
                   und still wie allzeit. Sie saß am Fenster bei ihrer längst neumodischen
                   Handmaschine und dachte an den fernen Sohn ...</p>
@@ -169,9 +169,9 @@
                <p>»Wart nur, bis mein Sohn wieder da ist, dann zeig ich dir alles.«</p>
                <p>»Ja – nein – aber, weißt, die Laternenanzünder-Godel erzählt's schon allen großen
                   Leuten, daß 's den Rosenbuschen von seiner Frau Mutter g'sehn hat, und alle Kinder
-                  haben ihn unterm Haustor g'rochen, gleich wie ihn der Dienstmann bracht hat, <pb
-                     facs="#"/> mit ein' seidernen Papier! Das seiderne Papier will ich aber auch
-                  sehn!« schreit sie herausfordernd und springt wieder davon.</p>
+                  haben ihn unterm Haustor g'rochen, gleich wie ihn der Dienstmann bracht hat, <pb/>
+                  mit ein' seidernen Papier! Das seiderne Papier will ich aber auch sehn!« schreit
+                  sie herausfordernd und springt wieder davon.</p>
                <p>Die alte Jungfer streicht ihre Scheitel zurecht, glättet ihre frische Schürze und
                   schaut wieder auf den Torbogen. »Er müßt schon da sein, der Eisenbahnzug ist gewiß
                   in Wien ... wenn er keine Verspätung hat«, fügt sie in Gedanken bei.</p>
@@ -183,8 +183,8 @@
                <p>Sie sucht die Zeit hinzubringen, wie es nur angeht. Sie hat viel gearbeitet,
                   gebetet, mit den Nachbarn geplaudert, die sich zu ihrem Fenster stellten, sie hat
                   sogar gesungen! Alle die lustigen und empfindsamen Wiener Lieder, die er als Kind
-                  mit <pb facs="#"/> ihr zwitscherte, und so ist der Tag hingegangen, sie aber
-                  lauscht und wartet.</p>
+                  mit <pb/> ihr zwitscherte, und so ist der Tag hingegangen, sie aber lauscht und
+                  wartet.</p>
                <p>Draußen im Hof verklingen die schrillen Kindersrimmen, der Tageslärm erstirbt, und
                   der Herbstabend fällt ein, schnell, düster, wie von dem wimmernden Wind
                   heruntergedrückt, der noch in der Höhe saust. Jetzt fährt er schon über die
@@ -211,11 +211,11 @@
                   ihm nur drei Packeln Tabak schenkst zum Geburtstag«, flüstert die Hanni, und die
                   beiden nicken sich zu und lachen lustig.</p>
                <p>
-                  <pb facs="#"/> »Seine Frau Mutter hat ihm einen Rosenbuschen g'schickt mit einer
-                  seidernen Einfassung! Fuffzig Rosen beieinander auf einmal, mir scheint, man
-                  riecht's bis daher, gelt? Und eine Visitenkarte steckt mittendrin, da steht drauf,
-                  sagt der einsame Spatz: Mei-nem Heim-gekehr-ten zum Geburtstage. Siehst, sie denkt
-                  halt doch an ihn.«</p>
+                  <pb/> »Seine Frau Mutter hat ihm einen Rosenbuschen g'schickt mit einer seidernen
+                  Einfassung! Fuffzig Rosen beieinander auf einmal, mir scheint, man riecht's bis
+                  daher, gelt? Und eine Visitenkarte steckt mittendrin, da steht drauf, sagt der
+                  einsame Spatz: Mei-nem Heim-gekehr-ten zum Geburtstage. Siehst, sie denkt halt
+                  doch an ihn.«</p>
                <p>»Mei-nem?!« Der Alte lacht kurz auf. »Bin ich mein Weib«, knurrt er dann, »daß ich
                   aus allem, was die Lenerl zu heiligen Zeiten tut, ein blaues Wunder mach? Was hat
                   er denn von die fuffzig Rosen? Laß anschaun!«</p>
@@ -241,8 +241,8 @@
                <p>»Na, hörst! Und sie? Sie kommt nicht g'rennt und hockt sich daher und wart't auf
                   ihn, gelt? – Da ist sie z'nobel, sie kann's kommoder z'Haus tun«, schreit der Alte
                   entrüstet. »Weißt, ich mag mit der Meinigen nimmer streiten, jetzt sein wir schon
-                     <pb facs="#"/> zu alt dazu, aber den Magen dreht's mir um, wenn sie die Lenerl
-                  so in Himmel hebt.«</p>
+                  <pb/> zu alt dazu, aber den Magen dreht's mir um, wenn sie die Lenerl so in Himmel
+                  hebt.«</p>
                <p>»Mußt nicht ungerecht sein!«</p>
                <p>»Laß mich aus mit ihr, seit's das Geschäft von der alten Blank, von der
                   Mode-Madam, übernommen hat, tut's ja, als ob's gar nicht mehr reden könnt mit
@@ -250,9 +250,9 @@
                   saubere Person, und jung ausschaun tut's! Von auswendig könntst du ihre Großmutter
                   sein, und ihr seid's doch in ein' Alter?«</p>
                <p>
-                  <pb facs="#"/> »Nein, nein«, sagt die Hanni eifrig, »sie ist um sechs Monat
-                  jünger, und nachher hat sie sich halt pflegen können, gut essen und trinken, hat
-                  keine schwere Arbeit g'habt, keine Sorgen und keine Kinder!«</p>
+                  <pb/> »Nein, nein«, sagt die Hanni eifrig, »sie ist um sechs Monat jünger, und
+                  nachher hat sie sich halt pflegen können, gut essen und trinken, hat keine schwere
+                  Arbeit g'habt, keine Sorgen und keine Kinder!«</p>
                <p>Er lacht und lacht, daß seine hagern Glieder schlottern: »Jetzt fehlt nur noch,
                   daß du dir einbildst, du hast ihren Buben geboren, nachher bist ganz verruckt! –
                   Bist und bleibst halt eine alte dumme Urschel!«</p>
@@ -277,9 +277,9 @@
                <p>Weit, weit liegt sie dahinter mit ihrem unklaren Leid ... Sie sitzt ja schon bald
                   ein Vierteljahrhundert da an dem Fenster und arbeitet für den Sohn des toten
                   Leopold und seiner schönen Frau. Bringt die stille Geburtstagsfeier das holde
-                  Gesicht der Jugendfreundin so lebendig vor ihre Augen?... Die Leni <pb facs="#"/>
-                  kommt ja niemals da herunter in die Dunkelheit ... die lebt oben im Licht, geehrt,
-                  reich, schön, was soll sie da auf dem vergessenen armen Platz?</p>
+                  Gesicht der Jugendfreundin so lebendig vor ihre Augen?... Die Leni <pb/> kommt ja
+                  niemals da herunter in die Dunkelheit ... die lebt oben im Licht, geehrt, reich,
+                  schön, was soll sie da auf dem vergessenen armen Platz?</p>
                <p>Sie aber, die Einsame, hat sich diesen Platz schwer errungen durch harte Arbeit,
                   stumme Demut, tiefes Mitleid und grenzenlose Liebe. Ein verlorner Posten sitzt da,
                   dessen keiner gedenkt als er ... Die Vergangenheit versinkt ... Er ... ihr Sohn,
@@ -307,23 +307,23 @@
                   sein wollen, Jungfer Murter! Du, was riecht denn so gut bei uns?«</p>
                <p>»Jesus ja! Laß den Vorhang runter und zünd's Licht an, ich möcht dich ja sehn
                   als'r Ganzer!«</p>
-               <p>Er zieht rasch den Vorhang vor und zündet mit einem Griff <pb facs="#"/> die Lampe
-                  an, sie aber rückt die geweihten Kerzen, die auf dem Schubladenkasten neben dem
-                  Christus stehen, vorsichtig näher und steckt sie feierlich an, dann nimmt sie den
-                  jungen Soldaten bei der Hand, führt ihn zu dem Kasten und fragt geheimnisvoll:
-                  »Weißt, was heut für ein Tag ist?«</p>
+               <p>Er zieht rasch den Vorhang vor und zündet mit einem Griff <pb/> die Lampe an, sie
+                  aber rückt die geweihten Kerzen, die auf dem Schubladenkasten neben dem Christus
+                  stehen, vorsichtig näher und steckt sie feierlich an, dann nimmt sie den jungen
+                  Soldaten bei der Hand, führt ihn zu dem Kasten und fragt geheimnisvoll: »Weißt,
+                  was heut für ein Tag ist?«</p>
                <p>»Nein, Murterl, ich hab ja unter den Wilden g'lebt!«</p>
                <p>»Alsdann«, sagt sie immer noch sehr feierlich, »dein Geburtstag!«</p>
                <p>»Der – meiner Seel!«</p>
                <p>»Der noble Rosenbuschen da, der so gut riecht im Zimmer, ist von deiner Frau
                   Mutter, der Gugelhupf da ist von der Laternanzünder-Godel!«</p>
                <p>»Hat's recht stark g'weint, wie's ihn g'macht hat, die Frau Patin?« unterbricht er
-                  die Hanne in kläglichem Ton und <pb facs="#"/> geschraubtem Hochdeutsch, und dann
-                  lachen beide gutmütig. »Da sein drei Packeln Tabak vom Laternanzünder-Göden, und
-                  da ... zwölf Paar Zwirnsöckeln, die hab ich dir g'strickt bei der Nacht, im Bett,
-                  in der Finster, wann ich nicht schlafen hab können und viel hundert Vatterunser
-                  für dich bet't hab und für die arme Seel im Fegfeuer, für dein Vattern. Kein
-                  Fürscht hat schönere. Und jetzt, jetzt kommt der Oberskaffee!«</p>
+                  die Hanne in kläglichem Ton und <pb/> geschraubtem Hochdeutsch, und dann lachen
+                  beide gutmütig. »Da sein drei Packeln Tabak vom Laternanzünder-Göden, und da ...
+                  zwölf Paar Zwirnsöckeln, die hab ich dir g'strickt bei der Nacht, im Bett, in der
+                  Finster, wann ich nicht schlafen hab können und viel hundert Vatterunser für dich
+                  bet't hab und für die arme Seel im Fegfeuer, für dein Vattern. Kein Fürscht hat
+                  schönere. Und jetzt, jetzt kommt der Oberskaffee!«</p>
 
                <p>Sie sitzen lange beieinander und reden nur von der Zukunft, von dem glücklichen
                   Beisammenbleiben bis an ihr Lebensende.</p>
@@ -346,8 +346,8 @@
                   Lächelns huscht es dabei über seine hübschen Züge, und mehr zu sich selbst sagt er
                   halblaut: »Bin halt noch allerweil für dich der kleine Bub.«</p>
                <p>
-                  <pb facs="#"/> Als sie das Fenster geschlossen hat, schiebt sie den Bettschirm vor
-                  ihr Lager und liegt nun still dahinter mit gefalteten Händen, bewegt die Lippen
+                  <pb/> Als sie das Fenster geschlossen hat, schiebt sie den Bettschirm vor ihr
+                  Lager und liegt nun still dahinter mit gefalteten Händen, bewegt die Lippen
                   wortlos und horcht auf die Atemzüge ihres Kindes. Er muß ja heute gut schlafen,
                   zum erstenmal wieder daheim nach Jahren. Eine Weile lauscht die Hanni vergeblich,
                   dann hört sie ihn leise reden, wie im Traum.</p>
@@ -375,15 +375,15 @@
                   weil du auch nicht schlafen kannst, die G'schicht von meinen Eltern. Jetzt bin ich
                   doch alt genug dazu, daß ich alles wissen kann? – Morgen, wenn ich ausgerast't
                   bin, muß ich nachschauen, wie's der Frau Mutter geht.«</p>
-               <p>Eine Weile schweigt die Hanni, denn das Herz klopft bleischwer<pb facs="#"/> , sie
-                  setzt sich in ihrem Bett sachte auf und sagt halblaut verlegen: »Ja, das ist halt
-                  schwer ... Wissen tu ich alles ganz genau, aber erzählen kann ich's dir nicht so
-                  wie es eigentlich war, so nacheinander. Der einsame Spatz hat sich die ganze
-                  G'schicht aufgeschrieben, so, wie ich sie ihm einmal erklärt hab. Dann hat er sie
-                  mir wieder vorg'lesen, und es war alles ganz recht, nur so, so halt, als ob er
-                  besser gewußt hätt, was wir uns alle miteinander denkt haben. Les' das in Gottes
-                  Namen, mein Kind, wenn du eh' nicht schlafen kannst. Im Schubladkasten, in der
-                  ersten Lad auf der rechten Seiten liegt das geschriebene Büchel.«</p>
+               <p>Eine Weile schweigt die Hanni, denn das Herz klopft bleischwer<pb/> , sie setzt
+                  sich in ihrem Bett sachte auf und sagt halblaut verlegen: »Ja, das ist halt schwer
+                  ... Wissen tu ich alles ganz genau, aber erzählen kann ich's dir nicht so wie es
+                  eigentlich war, so nacheinander. Der einsame Spatz hat sich die ganze G'schicht
+                  aufgeschrieben, so, wie ich sie ihm einmal erklärt hab. Dann hat er sie mir wieder
+                  vorg'lesen, und es war alles ganz recht, nur so, so halt, als ob er besser gewußt
+                  hätt, was wir uns alle miteinander denkt haben. Les' das in Gottes Namen, mein
+                  Kind, wenn du eh' nicht schlafen kannst. Im Schubladkasten, in der ersten Lad auf
+                  der rechten Seiten liegt das geschriebene Büchel.«</p>
                <p>Der junge Soldat zündet die Lampe wieder an, holt sich das Buch, atmet so tief,
                   als ob er den süßen Rosenduft trinken wollte, und beginnt dann zu lesen.</p>
 
@@ -404,8 +404,8 @@
                   Kind, lieber ein totes«, erklärte selbst ihre Mutter, die eine böse Zunge und ein
                   rohes Herz hatte.</p>
                <p>»Die Lenerl ist die Schönste und der Hannerl ihre beste Freundin, die muß schwarz
-                  verschleiert mit der abgebrochnen <pb facs="#"/> Kerzen hinter der Totentruhen
-                  gehn als allererste«, bestimmten die halbwüchsigen Mädeln.</p>
+                  verschleiert mit der abgebrochnen <pb/> Kerzen hinter der Totentruhen gehn als
+                  allererste«, bestimmten die halbwüchsigen Mädeln.</p>
                <p>Aber die Hanni ist nicht gestorben, das Kind hat sich langsam erholt, nachdem die
                   Glieder gut eingerichtet waren, und nach einem Jahr gemahnte nichts mehr an das
                   Unglück. Und nun kam die Zeit des Lachens wieder: »Laß nur gehn, bis d' heiratst
@@ -431,12 +431,12 @@
                <p>Das kleine Kirchlein konnte die Menge gar nicht aufnehmen, da wurden denn wieder,
                   wie bei allen besonderen Festen, wenn Mangel an Raum war, die Kinder, die zu
                   erwischen waren, hinausgejagt. Eine Weile heulten sie vor der Kirchentüre, dann
-                  kletterten sie auf das niedere Schindeldach, welches <pb facs="#"/> seitwärts in
-                  Manneshöhe von der Kirchenmauer abstand, weil unter diesem Schutze die
-                  Feuerleitern und die roten Löscheimer der Gemeinde aufbewahrt hingen. Mit einer
-                  langen eisernen Kette und einem großen Anhängeschloß daran waren sie fest
-                  zusammengesperrt, das Wetter konnte diesem Gemeindestolz nicht bei, und ich
-                  glaube, selbst freundnachbarliche Diebe hatten Ehrfurcht vor ihnen.</p>
+                  kletterten sie auf das niedere Schindeldach, welches <pb/> seitwärts in Manneshöhe
+                  von der Kirchenmauer abstand, weil unter diesem Schutze die Feuerleitern und die
+                  roten Löscheimer der Gemeinde aufbewahrt hingen. Mit einer langen eisernen Kette
+                  und einem großen Anhängeschloß daran waren sie fest zusammengesperrt, das Wetter
+                  konnte diesem Gemeindestolz nicht bei, und ich glaube, selbst freundnachbarliche
+                  Diebe hatten Ehrfurcht vor ihnen.</p>
                <p>Auf diesem Vordach über den Feuerleitern und Eimern hockten die Ausgewiesenen; die
                   Röcke der Mädeln verfingen sich in den langen Schindelnägeln, die Sonntagshosen
                   der Buben bekamen ausgebohrte Knie, alle saßen elendiglich da oben, aber halb aus
@@ -460,10 +460,10 @@
                   duckmäuserischer Knirps von einem Buben, der neben ihr saß, nicht gleich
                   beistimmte, gab sie ihm mit dem Ellenbogen einen Stoß und sah ihn herausfordernd
                   an.</p>
-               <p>»Was willst denn?... Schaust am Stephansturm und redst dabei<pb facs="#"/> !...
-                  Auweh!... Freilich ist sie schön!... Ich rück weg von dir!« zeterte der Bursche,
-                  setzte sich aber aus Furcht vor ihrem Ellenbogen ganz nahe zu ihr. »Da kann's
-                  nicht puffen«, lachte er schlau.</p>
+               <p>»Was willst denn?... Schaust am Stephansturm und redst dabei<pb/> !... Auweh!...
+                  Freilich ist sie schön!... Ich rück weg von dir!« zeterte der Bursche, setzte sich
+                  aber aus Furcht vor ihrem Ellenbogen ganz nahe zu ihr. »Da kann's nicht puffen«,
+                  lachte er schlau.</p>
                <p>»Freilich ist sie heute schön, aber rote Haare hat sie doch«, sagte nachdenklich
                   ein blasses kleines Mädchen mit einer stark vorgebauten Stirne. Die Kleine knüpfte
                   ihre dichten blonden Zöpfe unter dem Kinn zu einer Schleife; sie saß ganz vorne am
@@ -493,12 +493,11 @@
                   Korb am Arme, der war sauber und zierlich, als ob er gerade aus dem Kaufladen
                   käme, trotzdem man die beiden nie ohne Deckelkörbe sah. Hinter ihnen gab es eine
                   bunte Gesellschaft, die nachzottelte mit den Händen in den Taschen. Da waren drei
-                  oder vier Hausherrensöhne der Vorstadt<pb facs="#"/> , ein paar Soldaten,
-                  Gesellen, die bis Mitte der Woche blauen Montag machten, ein bekannter alter
-                  Fabrikant, der die große üppige Klara ins Herz geschlossen hatte, aber von einer
-                  Heirat nichts wissen wollte. Als die übermütigen Leute an der Kirche vorbeizogen,
-                  lachten sie laut auf, und mit heiserer Stimme sang einer der Soldaten: »Ist wieder
-                  einmal Hochzeit.«</p>
+                  oder vier Hausherrensöhne der Vorstadt<pb/> , ein paar Soldaten, Gesellen, die bis
+                  Mitte der Woche blauen Montag machten, ein bekannter alter Fabrikant, der die
+                  große üppige Klara ins Herz geschlossen hatte, aber von einer Heirat nichts wissen
+                  wollte. Als die übermütigen Leute an der Kirche vorbeizogen, lachten sie laut auf,
+                  und mit heiserer Stimme sang einer der Soldaten: »Ist wieder einmal Hochzeit.«</p>
                <p>»Möchtest mich nicht heiraten, Marie? Schau, es ginge jetzt gleich in einem«, rief
                   mit ironischer Zutunlichkeit das jüngste Hausherrnsöhnlein der zierlicheren von
                   den beiden zu.</p>
@@ -525,8 +524,8 @@
                <p>»Aber Nachbarin«, flüsterte ein hochbusiges, lebensfrohes Weib, »heut haben wir ja
                   keine Leiche, sondern eine Hochzeit!«</p>
                <p>
-                  <pb facs="#"/> »Freilich, wahr ist's«, seufzte die Frau und weinte weiter, da sie
-                  einmal begonnen.</p>
+                  <pb/> »Freilich, wahr ist's«, seufzte die Frau und weinte weiter, da sie einmal
+                  begonnen.</p>
                <p>»Sie, Jungfer Braut, Sie müssen mehr denn je Ihrer Pflichten eingedenk sein, Sie
                   müssen Ihrem Manne mehr sein als jedes andere Weib dem Manne ist, Sie müssen seine
                   rechte Hand sein, und Ihr werdet wahrhaftig den Weg des Herrn in Frieden wandeln
@@ -554,11 +553,11 @@
                   Meinige werden?« Ei, wie ihm bei der Frage etwas im Hals zitterte und wie er eine
                   Faust machte aus purer Verliebtheit, weil er sich nicht zu helfen wußte.</p>
                <p>
-                  <pb facs="#"/> Sie schaute ihn an, schmiegte sich ein wenig an ihn, lächelte und
-                  lief davon, ohne ein Wort zu sagen. Acht Tage später aber fragte sie in ihrer
-                  faulen, zurückhaltenden, kindischen Weise unauffällig, so wenn es sich schickte
-                  nur, alle alten Leute in der Blauen Gans: ob der Leopold hübsch sei, ob er eine
-                  Frau erhalten könne, ob er nie trinken würde so wie die andern paar leichtsinnigen
+                  <pb/> Sie schaute ihn an, schmiegte sich ein wenig an ihn, lächelte und lief
+                  davon, ohne ein Wort zu sagen. Acht Tage später aber fragte sie in ihrer faulen,
+                  zurückhaltenden, kindischen Weise unauffällig, so wenn es sich schickte nur, alle
+                  alten Leute in der Blauen Gans: ob der Leopold hübsch sei, ob er eine Frau
+                  erhalten könne, ob er nie trinken würde so wie die andern paar leichtsinnigen
                   Männer, die im Hause lebten, und ob er nicht sein Weib schlagen würde, so wie es
                   im Zorn oder im Rausch fast jeder einmal wenigstens getan hätte.</p>
                <p>Die Leute antworteten erst lachend, dann ernst dem Mädel, das kaum aus den
@@ -583,8 +582,8 @@
                <p>»Die Weiber in unserem Stand sind geschlagen genug mit Sorge, Arbeit und kleinen
                   Kindern«, sprach er mitleidig vor sich hin.</p>
                <p>»Kleine Kinder?« fragte sie erschreckt aufhorchend.</p>
-               <p>»Na ja, glaubst, sie kommen schon so groß auf die Welt und <pb facs="#"/> so schön
-                  wie du? Bis sie so werden, denk nur zurück, kosten sie viel Sorg und Pflege.«</p>
+               <p>»Na ja, glaubst, sie kommen schon so groß auf die Welt und <pb/> so schön wie du?
+                  Bis sie so werden, denk nur zurück, kosten sie viel Sorg und Pflege.«</p>
                <p>»Ich mag aber keine kleinen Kinder«, flüsterte sie trotzig. »Auch recht!« schrie
                   der Leopold übermütig und lachte wie toll in das junge blühende Gesicht.</p>
                <p>»Wenn du mir das alles versprichst, dann heirate ich dich«, sagte sie ernst und
@@ -595,9 +594,9 @@
 
                <p>Vier Wochen später war die Hochzeit, und Leopold dachte schmunzelnd zurück an die
                   drollige Verlobung am Brunnen, und darum hielt er seine Lene so fest an der Hand,
-                  damit der Kindskopf nicht fortlaufe, damit sie ihm keiner mehr nehmen <pb facs="#"
-                  /> könne ... Ah, bah! Jetzt waren sie ja wirklich Mann und Frau, jetzt gehörte sie
-                  ihm an, er schlug seinen Arm um ihren Leib und drückte sie fest an sich, sie aber
+                  damit der Kindskopf nicht fortlaufe, damit sie ihm keiner mehr nehmen <pb/> könne
+                  ... Ah, bah! Jetzt waren sie ja wirklich Mann und Frau, jetzt gehörte sie ihm an,
+                  er schlug seinen Arm um ihren Leib und drückte sie fest an sich, sie aber
                   blinzelte hinauf zu ihm und wisperte: »Aber Leopold! Du tust mir weh!« Und sie
                   kicherte schon in dem Augenblicke, als sich der Pfarrer umwendete und
                   hinausschritt.</p>
@@ -623,10 +622,10 @@
                   Zuge voran in die Blaue Gans.</p>
                <p>War das eine Herrlichkeit! Die große Waschküche war zum Speisesaal und Tanzsaal
                   mit bunten Öllämpchen, Tannenreisig und weißem Zeug hergerichtet, der glitzernde
-                  blanke Sand auf der Diele knirschte, und als sie nach der großen <pb facs="#"/>
-                  Esserei die Tische beiseite rückten und zu tanzen begannen, da liefen alle
-                  Nachbarn aus den nächsten Häusern herbei zu den Fenstern, machten lange Hälse und
-                  guckten hinein zu den lustigen Hochzeitsleuten.</p>
+                  blanke Sand auf der Diele knirschte, und als sie nach der großen <pb/> Esserei die
+                  Tische beiseite rückten und zu tanzen begannen, da liefen alle Nachbarn aus den
+                  nächsten Häusern herbei zu den Fenstern, machten lange Hälse und guckten hinein zu
+                  den lustigen Hochzeitsleuten.</p>
                <p>Der junge Hausherrnsohn, der fast immer mit den Strohschneidermädeln herumzog, und
                   noch ein zweiter leichtsinniger Mann, der geschieden von seiner Frau lebte und
                   seines Vaters Geld vertat, die beiden gingen frischweg hinein, schüttelten dem
@@ -652,7 +651,7 @@
                   die Achseln bedauernd und aburteilend. Als der Leopold kam, hängte sie sich an
                   seinen Arm und sagte so laut, daß es die beiden als Antwort nehmen konnten: »Führ
                   mich bald heim, es sind Leut da, die nicht hergehören.«</p>
-               <pb facs="#"/>
+               <pb/>
                <p>Das junge Ehepaar ging auch davon, ohne Abschied zu nehmen, sie liefen hinüber in
                   die stille große Stube. Die blendend weißen Vorhänge waren niedergelassen, der
                   Tisch war weiß gedeckt, und ein bunter Strauß stand neben dem Nachtlicht. Die
@@ -684,17 +683,17 @@
                <p>»Grüß dich Gott, Lene, wie geht's mit dem Buben jetzt?«</p>
                <p>»Na, es geht halt wie immer.«</p>
                <p>
-                  <pb facs="#"/> »Du lieber kleiner Kerl, du!« sagte die Hanne lachend und beugte
-                  ihren schmalen Körper zum Fenster hinein, küßte das Kind und setzte sich von außen
-                  der Lene gegenüber auf das Fensterbrett.</p>
+                  <pb/> »Du lieber kleiner Kerl, du!« sagte die Hanne lachend und beugte ihren
+                  schmalen Körper zum Fenster hinein, küßte das Kind und setzte sich von außen der
+                  Lene gegenüber auf das Fensterbrett.</p>
                <p>»Kommst aus der Stadt?«</p>
                <p>»Ja, ich war die Handschuhe abliefern. Ich bin alleweil froh, wenn ich wieder
                   daheraußen bin, die vielen Leut, die Wagen, der Lärm! Ganz dumm komm ich mir vor,
                   wenn ich außer unserem Haus bin.«</p>
                <p>Die Lene nickte und schaute nachsinnend auf das dunkle Kleid der Hanne. Es war
                   auch ein gar schlichtes Gewand, zugeschnitten wie für eine Nonne, ohne jeden
-                  Aufputz, und <pb facs="#"/> als die Augen des schönen Weibes hinaufrückten bis zu
-                  dem Kopf der andern, da lächelte sie bedauernd.</p>
+                  Aufputz, und <pb/> als die Augen des schönen Weibes hinaufrückten bis zu dem Kopf
+                  der andern, da lächelte sie bedauernd.</p>
                <p>Wer wird sich die Haare so glatt hinter die Ohren streichen; wie das Mädel
                   aussieht! dachte die Lene.</p>
                <p>Eigentlich war die Hanne nur größer geworden und sah geordneter aus, sonst war
@@ -720,10 +719,10 @@
                   sich dein Mann für dich! Er kann doch nicht auch Kinder warten? Denk doch nur nach
                   darüber. Du hättest keinen besseren Mann kriegen können.«</p>
                <p>Die Hanne hatte sich atemlos geredet, sie schwieg plötzlich erschrocken, das Kind
-                  weinte auch wieder, und die Lene, die <pb facs="#"/> keine Antwort zu geben wußte,
-                  brütete vor sich hin. Sie schüttelte das Kind mehr, als sie es wiegte, mit einmal
-                  aber fragte sie hochfahrend: »Bin ich vielleicht nicht mehr wert als die andern
-                  Weiber? Bin ich nicht schöner?«</p>
+                  weinte auch wieder, und die Lene, die <pb/> keine Antwort zu geben wußte, brütete
+                  vor sich hin. Sie schüttelte das Kind mehr, als sie es wiegte, mit einmal aber
+                  fragte sie hochfahrend: »Bin ich vielleicht nicht mehr wert als die andern Weiber?
+                  Bin ich nicht schöner?«</p>
                <p>Das war nun freilich für alle Bewohner der Blauen Gans ein überzeugender Grund.
                   Die Schönheit des jungen Weibes wurde wie etwas Kostbares, Wertvolles anerkannt
                   und von ihr selbst als solches hingestellt. Fremde konnten über dieses naive
@@ -749,9 +748,8 @@
                   Trinkgelder von den Damen.«</p>
                <p>»Den ganzen Tag schöne Kleider anprobieren, bei lauter noblen Leuten sein, kein
                   Kindergeschrei hören«, sagte die Lene mehr zu sich selbst und schaute nachsinnend
-                  auf das Mädchen<pb facs="#"/> , und nach einer Weile sprach sie laut, als ob sie
-                  eine lange Gedankenreihe abschließen würde: »Hätt sollen dich heiraten, der
-                  Leopold.«</p>
+                  auf das Mädchen<pb/> , und nach einer Weile sprach sie laut, als ob sie eine lange
+                  Gedankenreihe abschließen würde: »Hätt sollen dich heiraten, der Leopold.«</p>
                <p>Zwei-, dreimal flogen dunkelrote Schatten über das blasse Gesicht der Hanne, sie
                   zog die Ellenbogen an die Hüften und schob die Schultern hinauf, so, als ob sie
                   ihren dürftigen Leib noch schmaler machen wollte, und als sie endlich zaghaft zu
@@ -779,11 +777,10 @@
                   mit großen Sätzen heran. »Bist auch da, Hanne? So schön! Mein Bub reißt dir alle
                   Haare aus; wirst das bleibenlassen, kleiner Racker?«</p>
                <p>
-                  <pb facs="#"/> Er löste die Hand des Bübleins los, blickte aber dabei immer auf
-                  sein Weib, das sich nicht regte noch rührte, nur jetzt ein klein wenig den Kopf
-                  rückte, als er sie schallend küßte. »Ist's dir schon wieder nicht recht?« fragte
-                  er und nahm sie am Kinn, »soll ich dir nicht ›Grüß Gott‹ sagen in meiner
-                  Weis?«</p>
+                  <pb/> Er löste die Hand des Bübleins los, blickte aber dabei immer auf sein Weib,
+                  das sich nicht regte noch rührte, nur jetzt ein klein wenig den Kopf rückte, als
+                  er sie schallend küßte. »Ist's dir schon wieder nicht recht?« fragte er und nahm
+                  sie am Kinn, »soll ich dir nicht ›Grüß Gott‹ sagen in meiner Weis?«</p>
                <p>»Vor alle Leut?«</p>
                <p>»Und was weiter? Seit wann ist die Blaue Gans so nobel worden, daß sie es nicht
                   sehen kann, wenn sich Eheleut küssen?« rief er, lachte gezwungen und küßte sie
@@ -809,10 +806,10 @@
                   dann sagte er: »Lene, ich möcht essen.«</p>
                <p>»Hab nicht gekocht.«</p>
                <p>Der Mann schaute überrascht auf, dann lächelte er vergnügt, sie hatte ja seit
-                  langer Zeit kein einziges Mal gescherzt, und <pb facs="#"/> jetzt machte sie ein
-                  ganz ernsthaftes Gesicht zu dem Spaß; er wartete wieder, die Lene aber ging wie
-                  ein Pendel so gleichmäßig auf und nieder und wiegte das Kind, sonst aber rührte
-                  sie keinen Finger.</p>
+                  langer Zeit kein einziges Mal gescherzt, und <pb/> jetzt machte sie ein ganz
+                  ernsthaftes Gesicht zu dem Spaß; er wartete wieder, die Lene aber ging wie ein
+                  Pendel so gleichmäßig auf und nieder und wiegte das Kind, sonst aber rührte sie
+                  keinen Finger.</p>
                <p>»Du, das wird doch nicht dein Ernst sein?« sagte er plötzlich und wurde
                   blutrot.</p>
                <p>»Schau.«</p>
@@ -839,7 +836,7 @@
                <p>»Aber Lene!« flüsterte der Mann begütigend und legte seinen Arm um ihre Schultern,
                   »du bist viel schöner, als du warst!«</p>
                <p>
-                  <pb facs="#"/> Und seine Lippen suchten ihren Mund, sie aber entwand sich ihm.</p>
+                  <pb/> Und seine Lippen suchten ihren Mund, sie aber entwand sich ihm.</p>
                <p>»Es ist nicht wahr! Seit dem Kind bin ich ganz anders. Was soll ich anfangen?«</p>
                <p>»Freundlich sein.«</p>
                <p>Sie antwortete nicht, nur ihre Oberlippe hob sich. Endlich schlief das Kind, sie
@@ -867,9 +864,9 @@
                   So schlenderte er zum Tore hinaus, und die Lene starrte ihm nach, allmählich war
                   sie befriedigt, weil der Kleine schlief und ihr Mann nicht sprach.</p>
                <p>
-                  <pb facs="#"/> Auf dem Hofe draußen wurde es lebendig, Feierabend war, die Weiber
-                  kamen aus ihren Küchen und riefen laut nach ihren Kindern, die Männer kehrten von
-                  ihrer Arbeit heim, und so saß den großen Hof entlang vor jeder Türe ein Häuflein
+                  <pb/> Auf dem Hofe draußen wurde es lebendig, Feierabend war, die Weiber kamen aus
+                  ihren Küchen und riefen laut nach ihren Kindern, die Männer kehrten von ihrer
+                  Arbeit heim, und so saß den großen Hof entlang vor jeder Türe ein Häuflein
                   beisammen, alle aßen und plauderten, schrien einander zu und waren so fröhlich,
                   als säßen sie mitten im Überfluß. Die Lene hockte in ihrem Fenster, lauschte mit
                   halbem Ohr und schaute mit halbem Blick nach ihnen, nur wenn ein Kind aufschrie,
@@ -895,16 +892,16 @@
                   ließ die Vorhänge nieder und zündete die Lampe an.</p>
                <p>»Ei, sollen reden«, murrte sie vor sich hin. Sie richtete mißmutig die Betten für
                   die Nacht zurecht, und als das Kind halb im Schlafe leise aufweinte, gab sie im
-                  Vorübergehen der <pb facs="#"/> Wiege einen sachten Stoß, daß sie sanft
-                  weiterschaukelte. Immer vor sich hin brütend, löste sie ihr prächtiges rotes Haar,
-                  schüttelte es über die marmorweißen Schultern und liebäugelte mit ihrem Bilde, das
-                  selbst in diesem Spiegel noch schön blieb. Mit einmal nahm sie ein Kästchen von
-                  dem Putztische, kramte unter den Seidenbändern, die drin lagen, und zog endlich
-                  ein Päckchen Spielkarten hervor. Träge setzte sie sich an den Tisch, rückte die
-                  Lampe heran, mengte die Karten langsam und legte dann die Blätter in vier Reihen,
-                  eine unter die andere, vor sich hin. Da saß sie nun, und das feine kindliche
-                  Antlitz ruhte mit dem Kinn in der hohlen Hand, und die graugrünen Augen rückten
-                  spähend von einem Blatt auf das andere.</p>
+                  Vorübergehen der <pb/> Wiege einen sachten Stoß, daß sie sanft weiterschaukelte.
+                  Immer vor sich hin brütend, löste sie ihr prächtiges rotes Haar, schüttelte es
+                  über die marmorweißen Schultern und liebäugelte mit ihrem Bilde, das selbst in
+                  diesem Spiegel noch schön blieb. Mit einmal nahm sie ein Kästchen von dem
+                  Putztische, kramte unter den Seidenbändern, die drin lagen, und zog endlich ein
+                  Päckchen Spielkarten hervor. Träge setzte sie sich an den Tisch, rückte die Lampe
+                  heran, mengte die Karten langsam und legte dann die Blätter in vier Reihen, eine
+                  unter die andere, vor sich hin. Da saß sie nun, und das feine kindliche Antlitz
+                  ruhte mit dem Kinn in der hohlen Hand, und die graugrünen Augen rückten spähend
+                  von einem Blatt auf das andere.</p>
                <p>»Eins ... zwei ... drei ... vier ... fünf ... sechs ... sieben! Verdruß!« Sie
                   seufzte leise und zählte weiter bis zur nächsten Sieben. »Veränderung?!...
                   Richtig, drei Aß nebeneinander! Kummer! Unglück!... Und da wieder ein kleines
@@ -926,10 +923,9 @@
                <p>»Ah!... das ist arg«, sagte die Lene und setzte sich jäh im Bette auf, »wo warst
                   du?«</p>
                <p>
-                  <pb facs="#"/> »Alleweil im Wirtshaus. Hab aufs Heimgehen vergessen, weil es dort
-                  so lustig war und weil die Leut alle so freundlich mit mir waren. Die
-                  Allerhand-Mädeln haben gesungen, ein paar alte Kameraden waren da, getanzt ist
-                  worden und da ha ...«</p>
+                  <pb/> »Alleweil im Wirtshaus. Hab aufs Heimgehen vergessen, weil es dort so lustig
+                  war und weil die Leut alle so freundlich mit mir waren. Die Allerhand-Mädeln haben
+                  gesungen, ein paar alte Kameraden waren da, getanzt ist worden und da ha ...«</p>
                <p>»Sei still!«</p>
                <p>»Oho!«</p>
                <p>»Sei still. Ich bitt dich. Geh bald wieder fort«, sagte sie tonlos.</p>
@@ -937,10 +933,10 @@
                <p>»Ich kann dich in einem solchen Zustand nicht anschaun.«</p>
                <p>Der Leopold stand jetzt neben dem Lager seines Weibes, er hatte die Hand in der
                   Hosentasche stecken, und eine erloschene Zigarre hing aus dem Mundwinkel nieder,
-                  er spreizte die Beine weit auseinander und ließ sich immer von den Fersen <pb
-                     facs="#"/> auf die Zehen und von den Zehen wieder auf die Fersen sinken, dabei
-                  musterte er die Lene mit seinen rotunterlaufenen Augen und lachte ihr manchmal
-                  kurzweg ins Gesicht.</p>
+                  er spreizte die Beine weit auseinander und ließ sich immer von den Fersen <pb/>
+                  auf die Zehen und von den Zehen wieder auf die Fersen sinken, dabei musterte er
+                  die Lene mit seinen rotunterlaufenen Augen und lachte ihr manchmal kurzweg ins
+                  Gesicht.</p>
                <p>»Geh, sag ich dir!« rief sie eindringlich.</p>
                <p>»Und wenn ich nicht gehen will? Wenn ich mich jetzt niederlegen will und schlafen,
                   wer könnte mir das verbieten? Wer? Wer ist der Herr im Hause?«</p>
@@ -967,8 +963,8 @@
                   einzigen Lehnstuhl, der in der Kammer stand.</p>
                <p>»Ist dem Leopold etwas geschehen?« fragte das Mädchen zitternd.</p>
                <p>
-                  <pb facs="#"/> »Ah! Jetzt ist er heimgekommen! Die ganze Nacht im Wirtshaus, hat
-                  gesungen und getrunken und getanzt mit den verrufenen Weibsbildern, mit den
+                  <pb/> »Ah! Jetzt ist er heimgekommen! Die ganze Nacht im Wirtshaus, hat gesungen
+                  und getrunken und getanzt mit den verrufenen Weibsbildern, mit den
                   Allerhand-Mädeln!«</p>
                <p>»Aber was ist ihm da nur eingefallen?« klagte die Hanne hilflos, »und warum laufst
                   du so verstört herüber?«</p>
@@ -996,9 +992,9 @@
                   und wollte nicht in seiner Wiege bleiben; wenn sie ihn aufnahm, schwieg er; wie
                   aber konnte sie das Kind in den Armen halten, sie hatte doch über und über zu
                   schaffen?</p>
-               <p>Mit beschmutzten Stiefeln war der Leopold in der Stube herumgetrottet<pb facs="#"
-                  /> , die Betten standen zerwühlt da, Mitte der Woche war bereits, und sie mußte
-                  daran denken, das Bündel Wäsche rein zu machen, das unter dem Putztisch seit der
+               <p>Mit beschmutzten Stiefeln war der Leopold in der Stube herumgetrottet<pb/> , die
+                  Betten standen zerwühlt da, Mitte der Woche war bereits, und sie mußte daran
+                  denken, das Bündel Wäsche rein zu machen, das unter dem Putztisch seit der
                   vergangenen Woche versteckt lag, kochen sollte sie und den Schreihals warten. Sie
                   dachte dabei fortwährend an ihren Mann, seit einigen Stunden wußte sie, daß sie
                   das alles tun müsse. Das Kind hielt sie lässig in den Armen und reihte sich so
@@ -1024,9 +1020,9 @@
                   zusammengerackertes Geschöpf werden, wie die alte Frau Weis gewesen. Und warum muß
                   das sein?</p>
                <p>Zum ersten Male, seit sie die Frau des Leopold war, kamen ihr die Worte des
-                  Pfarrers in den Sinn, es war ihr, als hörte <pb facs="#"/> sie die Trauungsrede
-                  mit einer Deutlichkeit, daß sie nach der Ecke hinhorchte, denn von dort her sprach
-                  die eintönig pathetische Stimme zu ihr: »Freud und Leid miteinander tragen. Treu
+                  Pfarrers in den Sinn, es war ihr, als hörte <pb/> sie die Trauungsrede mit einer
+                  Deutlichkeit, daß sie nach der Ecke hinhorchte, denn von dort her sprach die
+                  eintönig pathetische Stimme zu ihr: »Freud und Leid miteinander tragen. Treu
                   bleiben bis in den Tod. Streng jede Pflicht erfüllen. Stets der Pflicht eingedenk
                   sein. In Wahrheit seine rechte Hand werden. In Frieden wandeln ...«</p>
                <p>Sie schüttelte sich bei dieser Erinnerung. Ja, ja! Das hat er alles gesagt, und
@@ -1051,10 +1047,10 @@
                   Genauigkeit eingeprägt, was sie zu tun habe, um den Frieden zu erhalten, und von
                   jenem Tage ab durfte der Mann nimmer über sein Hauswesen klagen. Was konnte ihm
                   das helfen, nach kurzer Zeit schon hätte er über jede Nachlässigkeit geschwiegen,
-                  wenn ihn ihre roten Lippen mit einem Kuß <pb facs="#"/> begrüßt hätten, und selbst
-                  wenn er sie halb im Zorn, halb in auflodernder Zärtlichkeit an seine Brust riß,
-                  konnte er doch kein liebevolles Wort aus ihr herauspressen. Und das ging Woche um
-                  Woche so fort.</p>
+                  wenn ihn ihre roten Lippen mit einem Kuß <pb/> begrüßt hätten, und selbst wenn er
+                  sie halb im Zorn, halb in auflodernder Zärtlichkeit an seine Brust riß, konnte er
+                  doch kein liebevolles Wort aus ihr herauspressen. Und das ging Woche um Woche so
+                  fort.</p>
                <p>»Was soll ich denn anfangen mit ihr?« sagte der Leopold zu dem Laternanzünder,
                   »sie ist jetzt für das Haus ein ganz tüchtiges Weib, sie ist nicht trotzig und
                   keift auch nicht wie die andern, aber man kommt halt zu keiner rechten Freud neben
@@ -1079,15 +1075,15 @@
                   Kleinlichkeiten, warum das armselige Bestechen des Weibes, dieses Spekulieren auf
                   ihre Eitelkeit, was half das alles, wenn ihr Herz kalt war?</p>
                <p>»Jetzt ist die Meinige alt«, knurrte der Laternanzünder in die schwermütigen
-                  Gedanken des Leopold, »jetzt ist sie alleweil <pb facs="#"/> gerührt über alles,
-                  ich glaub, das hat sie sich von der Christl ihrer Mutter angelernt, jetzt heult
-                  sie über jeden Knopf, wenn sie vergessen hat, einen anzunähen. Wenn es aber
-                  manchmal, so zum Quartal, einen tüchtigen Sturm im Haus gibt, dann kriegt sie
-                  keinen Atem, weil sie halt dick ist – dann schütt ich ihr einen Krug Wasser ins
-                  Genick, dann schnappt sie eine Weile wie ein Fisch, hockt sich in einen Winkel und
-                  jammert den ganzen Tag, als wenn ich ihr weiß Gott was tät. Neues Kleid aber
-                  kriegt sie doch keines!« Er schleuderte die Arme mit einer großartig verneinenden
-                  Bewegung auseinander.</p>
+                  Gedanken des Leopold, »jetzt ist sie alleweil <pb/> gerührt über alles, ich glaub,
+                  das hat sie sich von der Christl ihrer Mutter angelernt, jetzt heult sie über
+                  jeden Knopf, wenn sie vergessen hat, einen anzunähen. Wenn es aber manchmal, so
+                  zum Quartal, einen tüchtigen Sturm im Haus gibt, dann kriegt sie keinen Atem, weil
+                  sie halt dick ist – dann schütt ich ihr einen Krug Wasser ins Genick, dann
+                  schnappt sie eine Weile wie ein Fisch, hockt sich in einen Winkel und jammert den
+                  ganzen Tag, als wenn ich ihr weiß Gott was tät. Neues Kleid aber kriegt sie doch
+                  keines!« Er schleuderte die Arme mit einer großartig verneinenden Bewegung
+                  auseinander.</p>
                <p>Der Leopold war ganz still und weich geworden, er rieb den lackierten Schirm
                   seiner Mütze auf dem Knie und sagte dann recht gedrückt: »Ich dank dir,
                   Laternanzünder, für deinen guten Rat, du bist ja doch ihr Vormund und hast
@@ -1107,14 +1103,14 @@
                   hinausspielte – trotzdem es keinen treueren und besseren Ehemann in der Blauen
                   Gans gab –, aber das war eine Gewohnheit aus seiner lustigen Soldatenzeit her. Die
                   zweite Schwäche war gefährlicher, und sein Weib stand ihr vollständig hilflos
-                  gegenüber. Michl<pb facs="#"/> hatte sich nämlich aus den sonderbarsten Scharteken
-                  eine Art entsetzlicher Bildung und aus allerlei Erlebnissen und Erfahrungen, die
-                  sich in seinem Gehirn als Besonderes widerspiegelten, einen »philosophischen
-                  Standpunkt« aufgebaut. Die runde Frau wagte nicht zu atmen, wenn er ihr von dieser
-                  Höhe herab ihre Fehler vorhielt, sie verstand sein Kunterbunt beinahe ebensowenig
-                  wie er. War er aber einmal im Zuge, so mußte er sehr viel reden, das gab ihm
-                  Respekt vor sich selbst, und zum Schlusse erklärte er immer, daß die Blaue Gans
-                  ohne ihn und den einsamen Spatzen weder Licht noch Bildung hätte.</p>
+                  gegenüber. Michl<pb/> hatte sich nämlich aus den sonderbarsten Scharteken eine Art
+                  entsetzlicher Bildung und aus allerlei Erlebnissen und Erfahrungen, die sich in
+                  seinem Gehirn als Besonderes widerspiegelten, einen »philosophischen Standpunkt«
+                  aufgebaut. Die runde Frau wagte nicht zu atmen, wenn er ihr von dieser Höhe herab
+                  ihre Fehler vorhielt, sie verstand sein Kunterbunt beinahe ebensowenig wie er. War
+                  er aber einmal im Zuge, so mußte er sehr viel reden, das gab ihm Respekt vor sich
+                  selbst, und zum Schlusse erklärte er immer, daß die Blaue Gans ohne ihn und den
+                  einsamen Spatzen weder Licht noch Bildung hätte.</p>
                <p>Er hatte das Bedürfnis, vielen Leuten klarzumachen, daß er ein unentbehrlicher
                   Mensch sei, und diese vielen fand er nur in der Schenke; aber je eindringlicher er
                   redete, desto mehr wurde ihm zugetrunken, und je öfter er Bescheid tat, desto
@@ -1134,10 +1130,10 @@
                   Zielen am rechten Platz waren. An diesem Abend war es da draußen recht übel
                   beleuchtet, und als das letzte Lämpchen festsaß, beeilte sich der Laternanzünder,
                   wieder seine Zuhörerschaft im Wirtshaus aufzusuchen. Oben auf der Hauptstraße lief
-                  der Leopold von Laden zu <pb facs="#"/> Laden und suchte lange, bis er ein Kleid
-                  kaufte, das den Farben nach Aufsehen machen mußte in der Blauen Gans. Als
-                  Feierabend war, rannte er mit dem Zeuge heim, je näher er dem Hause kam, desto
-                  mehr freute er sich über die großen Augen seiner Lene.</p>
+                  der Leopold von Laden zu <pb/> Laden und suchte lange, bis er ein Kleid kaufte,
+                  das den Farben nach Aufsehen machen mußte in der Blauen Gans. Als Feierabend war,
+                  rannte er mit dem Zeuge heim, je näher er dem Hause kam, desto mehr freute er sich
+                  über die großen Augen seiner Lene.</p>
                <p>»Die wird dreinschauen!« Das Herz schlug ihm, als er in die Stube trat, und er
                   hätte gern aufgejauchzt vor Freude, anstatt daß er mit prahlerischer
                   Gleichgültigkeit das Umschlagpapier abwickelte und sein Geschenk auf den Tisch
@@ -1163,8 +1159,8 @@
                   das Kleid aufzubauschen.</p>
                <p>Das Weib hob die Augen nicht zu ihm auf, aber plötzlich schüttelte ihren schlanken
                   Leib ein verhaltenes Schluchzen. Das war es ja, beieinander bleiben für alle
-                  Lebenszeit, immer <pb facs="#"/> freundlich sein und ein heiteres Gesicht machen,
-                  wenn einem auch gar nicht so zumute ist; immer arbeiten, Tag um Tag das nämliche,
+                  Lebenszeit, immer <pb/> freundlich sein und ein heiteres Gesicht machen, wenn
+                  einem auch gar nicht so zumute ist; immer arbeiten, Tag um Tag das nämliche,
                   Freude haben, wenn der Mann solches Zeug daherbringt. Das grellfarbige Ding sollte
                   ihr Freude machen! Ein Falbel von den Röcken, die im Trockenhofe hingen, war mehr
                   wert als das ganze neue Kleid. Und wie der Leopold nur so dastehen konnte vor ihr?
@@ -1191,7 +1187,7 @@
                   nicht so dort, komm hervor, und schau dir wenigstens das neue Kleid in der Nähe
                   an.«</p>
                <p>Sie knüpfte sich das Tuch fester auf dem Rücken, ließ die Schultern einsinken und
-                  schob sich langsam zwischen dem <pb facs="#"/> Bett und der Wiege hervor. Wie ein
+                  schob sich langsam zwischen dem <pb/> Bett und der Wiege hervor. Wie ein
                   gescholtenes Schulmädchen stand sie neben dem Tische und zog die Ellenbogen an die
                   Hüften.</p>
                <p>»Du tust ja, als ob du alle Tage eine Tracht Prügel kriegen tätst!« rief er und
@@ -1221,7 +1217,7 @@
                   gehässig, als sie weitersprach: »Die Leut lachen mich aus, weil – weil ich einen
                   Dreiviertelmann geheiratet hab!« »Einen ...«, keuchte er.</p>
                <p>
-                  <pb facs="#"/> »Einen Krüppel!«</p>
+                  <pb/> »Einen Krüppel!«</p>
                <p>»Weib!« schrie der Leopold auf und stand mit erhobenem Arm vor ihr, »hat dir das
                   Gesindel nicht gesagt, daß ich dich und mein Kind mit dem einen Arm besser erhalte
                   als die andern Männer die ihrigen mit zwei Händen?«</p>
@@ -1232,12 +1228,11 @@
                <p>»Ja!« stieß sie rücksichtslos trotzig heraus, gleich dahinter aber rief sie
                   bittend: »Schlag nicht!«</p>
                <p>Es war zu spät, seine wuchtige Faust fiel auf ihren Nacken nieder ... Der Leopold
-                  wankte und torkelte, als ob er den <pb facs="#"/> Schlag bekommen hätte, das
-                  wutverzerrte Gesicht wurde nach und nach schlaff und fahl, er schleppte sich an
-                  das Fenster, ohne sein Weib anzusehen, er horchte und wußte nicht auf welchen
-                  Laut; als sich aber minutenlang nichts regte in der Stube, stöhnte er: »So weit
-                  kann ein Weib einen Mann bringen«, und ohne daß er den Kopf erhob, tappte er aus
-                  der Stube.</p>
+                  wankte und torkelte, als ob er den <pb/> Schlag bekommen hätte, das wutverzerrte
+                  Gesicht wurde nach und nach schlaff und fahl, er schleppte sich an das Fenster,
+                  ohne sein Weib anzusehen, er horchte und wußte nicht auf welchen Laut; als sich
+                  aber minutenlang nichts regte in der Stube, stöhnte er: »So weit kann ein Weib
+                  einen Mann bringen«, und ohne daß er den Kopf erhob, tappte er aus der Stube.</p>
                <p>Ohne Mütze, mit weitoffenem Rock und flatterndem Ärmel schritt er schwerfällig
                   durch den Hof, über die Straße und hinaus auf die Trockenwiese. Dort stand er
                   jetzt still, sah sich um und holte tief Atem, dann ging er langsam weiter über das
@@ -1260,13 +1255,13 @@
                   lebendigen Hand verzweifelt an die linke Schläfe fuhr und die Faust fest
                   andrückte, da war ihm, als ob die rechte entgegenpreßte, und als er die linke
                   mutlos zwischen die Knie sinken ließ, da fühlte er, wie die Finger, die längst
-                  vermodert <pb facs="#"/> waren, sich rührten und zwischen die lebendigen
-                  schlüpften, wie die beiden Hände sich ineinanderkrallten und flehend hinaufreckten
-                  zu dem dämmergrauen, stummen, mitleidlosen Herbsthimmel. – Der Rest seines Armes
-                  bewegte sich fort und fort, alle Muskeln dehnten sich, er spürte sein begrabenes
-                  Stück Körper wirklich wieder, das Herzleid hatte es lebendig gemacht, die Seele
-                  schrie nach diesem Glied, als könnte sich dann der gequälte Mensch wehren, als
-                  müßte sie nicht hilflos erdulden, was sie schädigte für alle Zeit.</p>
+                  vermodert <pb/> waren, sich rührten und zwischen die lebendigen schlüpften, wie
+                  die beiden Hände sich ineinanderkrallten und flehend hinaufreckten zu dem
+                  dämmergrauen, stummen, mitleidlosen Herbsthimmel. – Der Rest seines Armes bewegte
+                  sich fort und fort, alle Muskeln dehnten sich, er spürte sein begrabenes Stück
+                  Körper wirklich wieder, das Herzleid hatte es lebendig gemacht, die Seele schrie
+                  nach diesem Glied, als könnte sich dann der gequälte Mensch wehren, als müßte sie
+                  nicht hilflos erdulden, was sie schädigte für alle Zeit.</p>
                <p>Das war ein ganz anderer, der jetzt da auf dem Feldrain hockte, das war der
                   Leopold, den man nie äußerlich sah, das war der Mensch, der jetzt sich selbst
                   genau anschaute, als ob sein heimliches verborgenes Ich wie ein Zwillingsbruder,
@@ -1274,12 +1269,12 @@
                   gemacht haben aus dem blonden, lustigen Burschen: »Die Zeit ... und die Leut ...
                   und das Weib!...« Er hatte so redlich gesorgt für sie, er liebte sie so dumm, so
                   unsinnig, daß er sich schämte, es ihr zu sagen; die sonderbarsten Dinge flüsterte
-                  er vor sich hin, wenn er sie <pb facs="#"/> umarmte, so schöne Worte, wie er sie
-                  sprach, standen ja nur in den Büchern oder sagten die Leute auf dem Theater, das
-                  durfte sie nie hören, beileibe nicht, sie hätte ihn ja doch nicht verstanden –
-                  wenn es gut gegangen wäre, höchstens gelacht. Dafür aber konnte sie nichts, das
-                  war nicht ihre Schuld. Alle können ja nicht so sein wie der, welcher ihm
-                  gegenübersitzt und mit traurigen Augen auf die fahlen Grashalme schaut.</p>
+                  er vor sich hin, wenn er sie <pb/> umarmte, so schöne Worte, wie er sie sprach,
+                  standen ja nur in den Büchern oder sagten die Leute auf dem Theater, das durfte
+                  sie nie hören, beileibe nicht, sie hätte ihn ja doch nicht verstanden – wenn es
+                  gut gegangen wäre, höchstens gelacht. Dafür aber konnte sie nichts, das war nicht
+                  ihre Schuld. Alle können ja nicht so sein wie der, welcher ihm gegenübersitzt und
+                  mit traurigen Augen auf die fahlen Grashalme schaut.</p>
                <p>Sie ist so schön! – Wie liebte er sie, und sie konnte es dahin bringen, daß er
                   seinen männlichen Arm entehrte und den anderen noch im Grabe zuschanden machte
                   dadurch, daß er ein Weib schlug – sein Weib, dieselbe Lene, die er doch bis zur
@@ -1304,7 +1299,7 @@
                <p>Das Tier kroch hervor, machte wieder ein paar Sprünge, hielt plötzlich inne,
                   horchte auf und stellte sich dann leise knurrend neben den Mann.</p>
                <p>
-                  <pb facs="#"/> »Was gibt's?«</p>
+                  <pb/> »Was gibt's?«</p>
                <p>Der Hund schnupperte dem Trockenplatz zu.</p>
                <p>»Paß auf, Schuftl!«</p>
                <p>Jetzt schlug das Tier dreimal nacheinander laut an, wie immer, wenn jemand dem
@@ -1335,9 +1330,9 @@
                   wohnen, erfinden, aus der Luft holen und ein paar Wochen lang in die Luft
                   hinaussingen und pfeifen.</p>
                <p>
-                  <pb facs="#"/> Richtig, die Strohschneidermädeln, dachte der Leopold, hielt dem
-                  Hund die Schnauze zu, damit er nicht knurren oder bellen konnte, grub sein Gesicht
-                  in das wollige Fell des Schuftl und horchte.</p>
+                  <pb/> Richtig, die Strohschneidermädeln, dachte der Leopold, hielt dem Hund die
+                  Schnauze zu, damit er nicht knurren oder bellen konnte, grub sein Gesicht in das
+                  wollige Fell des Schuftl und horchte.</p>
                <p>Der Gesang hub wieder an, ernst, fast melancholisch, die beiden Stimmen erklangen
                   wirklich wie abgetönte Glocken, abwechselnd schwang sich jetzt eine über die
                   andere, immer reiner, immer höher, immer fröhlicher, und nun einigten sie sich in
@@ -1361,14 +1356,13 @@
                   hinüber zu dem Lauschenden.</p>
                <p>»Mitten dahinein in den Trubel, das wäre vielleicht das beste! – - Ganz den Herrn
                   zeigen, vielleicht hilft die Grobheit mehr als die dumme Lieb. Sie hat Respekt
-                  gekriegt vor dem einen Arm und kriegt viel leicht mehr Respekt vor dem <pb
-                     facs="#"/> Mann, der jetzt nicht heimkriecht und um Verzeihung bittet«, so
-                  grübelte der Leopold, während er noch den lustigen Menschen nachhorchte. »Ich
-                  könnt ihr heut nicht in die falschen Augen schauen, ob sie mich wieder so
-                  anblitzen täten oder verweint wären ... Verweint?... Es ist doch eine schmutzige
-                  Sache, so auf ein wehrloses Frauenzimmer hinschlagen wie auf einen Lumpen, der
-                  einen bei der Nacht anfallen will ... Es ist eine Schand! Ja ... es ist eine
-                  Schand!«</p>
+                  gekriegt vor dem einen Arm und kriegt viel leicht mehr Respekt vor dem <pb/> Mann,
+                  der jetzt nicht heimkriecht und um Verzeihung bittet«, so grübelte der Leopold,
+                  während er noch den lustigen Menschen nachhorchte. »Ich könnt ihr heut nicht in
+                  die falschen Augen schauen, ob sie mich wieder so anblitzen täten oder verweint
+                  wären ... Verweint?... Es ist doch eine schmutzige Sache, so auf ein wehrloses
+                  Frauenzimmer hinschlagen wie auf einen Lumpen, der einen bei der Nacht anfallen
+                  will ... Es ist eine Schand! Ja ... es ist eine Schand!«</p>
                <p>Jetzt war es totenstill um ihn, ein kühler, schwerer, trauriger Herbstabend brach
                   an; weit drüben lag ein leichtgeröteter Nebel, unter dem die Stadt steckte, und
                   die tausend und tausend Lichter gossen das feine Rot auf die schwere Nebelhülle.
@@ -1390,13 +1384,12 @@
                   Mond guckte mit halbem Gesicht über die Berge hervor, und sein mattes Licht rann
                   über den Nebel, der sich jetzt ansah, als ob er beweglich wäre, als ob sich da
                   unten ein geräuschloses Wasser ganz sachte heben und senken täte. Der Hund
-                  spreizte alle<pb facs="#"/> vier Beine steif von sich, zog den Schweif ein und
-                  heulte hinauf zu der gelbblassen Halbscheibe, und als ihn der Leopold am Ohre
-                  nachziehen wollte, winselte er jämmerlich und schmiegte sich eng an die Füße des
-                  Mannes. Der Mond kam immer höher herauf, und der Leopold ertappte sich dabei, daß
-                  er wohl eine Viertelstunde dagestanden war und so wie der Schuftl hinaufgestarrt
-                  hatte, jetzt aber schritt er rascher aus, und der Hund lief leise klagend neben
-                  ihm her.</p>
+                  spreizte alle<pb/> vier Beine steif von sich, zog den Schweif ein und heulte
+                  hinauf zu der gelbblassen Halbscheibe, und als ihn der Leopold am Ohre nachziehen
+                  wollte, winselte er jämmerlich und schmiegte sich eng an die Füße des Mannes. Der
+                  Mond kam immer höher herauf, und der Leopold ertappte sich dabei, daß er wohl eine
+                  Viertelstunde dagestanden war und so wie der Schuftl hinaufgestarrt hatte, jetzt
+                  aber schritt er rascher aus, und der Hund lief leise klagend neben ihm her.</p>
                <p>Da waren sie endlich; der Leopold stieß die feuchte Wirtshaustür weit auf,
                   Tabakrauch, Wein- und Bierdunst qualmte ihm entgegen, so daß er wie betäubt in das
                   Gewühl glotzte und wieder umkehren wollte, aber da johlten sie ihm schon zu: »Du
@@ -1421,7 +1414,7 @@
                   Wiederkommen nicht vergißt«, flüsterte ihm die Marie zu und sah mit zwinkernden
                   Augen zu ihm auf.</p>
                <p>»Probier's«, warf der Leopold leicht hin.</p>
-               <p>»Hat das neue Kleid geholfen?« frug der Laternanzünder <pb facs="#"/> und kam mit
+               <p>»Hat das neue Kleid geholfen?« frug der Laternanzünder <pb/> und kam mit
                   verglasten Augen, aber mit militärisch strammer Haltung kerzengerade auf ihn
                   zu.</p>
                <p>»Und wie es geholfen hat«, erwiderte der Leopold, er lachte dabei und ließ sich
@@ -1460,10 +1453,9 @@
                <p>Die Marie öffnete den Mund, sprach aber kein Wort, sie zeigte nur ihre blanken
                   Zähne, warf einen flüchtigen Blick auf den leeren Ärmel, und dann schaute sie
                   stumm vor sich hin auf die Tischplatte. Über den Augenbrauenenden, gegen die Nase
-                     <pb facs="#"/> herab, traten zwei scharfe Buckeln hervor, und ihr feiner,
-                  weißer Hals wurde allmählich rosig gefärbt, rasch schlang sie ihren Arm um den
-                  Hals des Leopold, legte ihre Lippen an sein Ohr und sang, als ob sie ihn
-                  küßte:</p>
+                  <pb/> herab, traten zwei scharfe Buckeln hervor, und ihr feiner, weißer Hals wurde
+                  allmählich rosig gefärbt, rasch schlang sie ihren Arm um den Hals des Leopold,
+                  legte ihre Lippen an sein Ohr und sang, als ob sie ihn küßte:</p>
 
 
                <l>»Red nicht von Betrug,</l>
@@ -1495,8 +1487,8 @@
                   sein muß, daß einen die Leut nicht noch auslachen – und wenn man
                   mutterseelenallein seine Schand und sein Leid hinunter würgen muß. Kannst du dich
                   vielleicht zufällig an die Zeit erinnern?«</p>
-               <p>Ein harter Blick glitt über das Mädchen. »Nein. – Besser <pb facs="#"/> wirst du's
-                  nicht verdient haben. Red von was anderem, wenn ich dich anhören soll.«</p>
+               <p>Ein harter Blick glitt über das Mädchen. »Nein. – Besser <pb/> wirst du's nicht
+                  verdient haben. Red von was anderem, wenn ich dich anhören soll.«</p>
                <p>»Nur anschaffen, das bist ja jetzt g'wöhnt als Eh'mann«, spöttelte Marie, zog aber
                   dann ein abgegriffenes Büchlein aus ihrer Schürzentasche und kritzelte ernsthaft,
                   nachsinnend eine Seite voll.</p>
@@ -1509,8 +1501,8 @@
                   so mir und dir nichts geschwind einen, auf den meine Liedeln passen? Das ist mein
                   Dank von dir«, schmollte sie.</p>
                <p>
-                  <pb facs="#"/> Rundum kicherten und brüllten lachend die Wirtshausgäste, wenn sie
-                  in die Ecke blinzelten, denn sie hielten sich fern von den beiden.</p>
+                  <pb/> Rundum kicherten und brüllten lachend die Wirtshausgäste, wenn sie in die
+                  Ecke blinzelten, denn sie hielten sich fern von den beiden.</p>
                <p>»Hat ihn schon erwischt, die Feine, bis in den grauen Tag halten wir ihn fest, die
                   Lene wird sich giften«, eiferte ein alter Kamerad des jungen Ehemannes.</p>
                <p>»Na, und wer soll denn nachher singen?« schrie die Klara, »ich hab heut schon den
@@ -1538,9 +1530,9 @@
                <p>Das Mädchen schmiegte sich an den Leopold und schloß die Augen.</p>
                <p>»Da schau hin, Klara!« zischelte einer.</p>
                <p>
-                  <pb facs="#"/> »Auch nicht übel!« brummte die ältere Schwester und ging zögernd in
-                  die Ecke, sie stemmte die Hände auf die Tischplatte, neigte sich vornüber und
-                  musterte das schweigende Paar mit einem wegwerfenden Lachen.</p>
+                  <pb/> »Auch nicht übel!« brummte die ältere Schwester und ging zögernd in die
+                  Ecke, sie stemmte die Hände auf die Tischplatte, neigte sich vornüber und musterte
+                  das schweigende Paar mit einem wegwerfenden Lachen.</p>
                <p>»He! Marie! Schlafst ein bei dem fidelen G'spann da? – Die Herren wollen ein neues
                   Lied von dir hören. Pack zusamm' und laß den allein sitzen.« Sie schlug dem
                   Mädchen leicht auf die Schulter und zog sie fort. »Es kann angehen« rief sie den
@@ -1569,9 +1561,9 @@
 
 
                <p>Das kam ihm so über die Lippen, ohne daß er recht wußte wie, es war ihm doch gar
-                  nicht darnach zumut, an eine andere <pb facs="#"/> zu denken, aber das traurige
-                  bleiche Gesicht des leichtfertigen Mädels stieg doch vor ihm auf, als er die Verse
-                  vor sich hin summte.</p>
+                  nicht darnach zumut, an eine andere <pb/> zu denken, aber das traurige bleiche
+                  Gesicht des leichtfertigen Mädels stieg doch vor ihm auf, als er die Verse vor
+                  sich hin summte.</p>
                <p>»Glaub fast, die tät keinen Mann, der es ehrlich mit ihr meint, so beschimpfen,
                   und sie ist doch ...« Der Leopold redete laut mit sich selbst und stolperte
                   weiter. Je näher er der Blauen Gans kam, desto langsamer ging er.</p>
@@ -1598,10 +1590,10 @@
                   sich noch schärfer abhoben. Nun wand sie ein schwarzes Schleiertüchelchen um den
                   Kopf, nahm ein warmes dunkles Tuch über die Schultern, und sie war fertig
                   hergerichtet wie zu einem Abendspaziergang mit ihrem Manne. Sie holte ihren
-                  Handkorb und packte einen <pb facs="#"/> Kamm, ein Paar Schuhe und ihr Gebetbuch
-                  ein, dann füllte sie den übrigen leeren Raum mit Wäsche. Sorgfältig versperrte sie
-                  die Schubladen und den großen Kleiderkasten und legte alle Schlüssel mitten auf
-                  den Tisch, dann richtete sie das Nachtlämpchen zurecht, stellte die Milch für den
+                  Handkorb und packte einen <pb/> Kamm, ein Paar Schuhe und ihr Gebetbuch ein, dann
+                  füllte sie den übrigen leeren Raum mit Wäsche. Sorgfältig versperrte sie die
+                  Schubladen und den großen Kleiderkasten und legte alle Schlüssel mitten auf den
+                  Tisch, dann richtete sie das Nachtlämpchen zurecht, stellte die Milch für den
                   Kleinen daneben, legte Kandiszucker und Zwieback dazu, und nun, da alles besorgt
                   war, wollte sie gehen. – Als sie die Türklinke in der Hand hatte, blieb sie stehen
                   und schaute durch die dämmrige Stube hinüber auf die Wiege, die zwischen den
@@ -1611,10 +1603,10 @@
                   vor der Wiege nie der und küßte leicht und sanft die roten Lippen des kleinen
                   Leopold, und damit sie ihn nicht wecke, machte sie mit dem Daumen in der Luft das
                   Kreuzzeichen über seine Stirne, seinen Mund und seine Brust. – Sie hockte lange
-                  dort und horchte, sie <pb facs="#"/> dachte, jetzt und jetzt müsse das Kind die
-                  Augen öffnen und – und was dann? Erschreckt stand sie auf, fuhr mit zitternden
-                  Händen über das Gesicht, bekreuzte sich selbst und ging mit festen, sicheren
-                  Schritten aus der Stube.</p>
+                  dort und horchte, sie <pb/> dachte, jetzt und jetzt müsse das Kind die Augen
+                  öffnen und – und was dann? Erschreckt stand sie auf, fuhr mit zitternden Händen
+                  über das Gesicht, bekreuzte sich selbst und ging mit festen, sicheren Schritten
+                  aus der Stube.</p>
                <p>Die Lene versperrte die Küchentür, rüttelte an der Klinke, um zu prüfen, ob auch
                   gut zugeschlossen sei, und eilte hinüber zu der Hanne.</p>
                <p>»Gelt, du schaust später hinüber zu meinem Buben, in einer Stund bin ich wieder
@@ -1639,10 +1631,10 @@
                   Arbeit. Wenn ein Handschuh fertig war, blies sie mit vollen Backen hinein, damit
                   sie sah, ob sich kein Finger daran verdrehte, zog ihn über dem Knie glatt und
                   richtete ihn so zurecht, daß der alte Herr Fuchs oft gesagt hatte: »Über meiner
-                     <pb facs="#"/> Käthe und der Walter Hanne ihre Handschuhe braucht man nur ein
-                  einziges Mal mit dem Zurichtholz zu fahren.« He! Mit fünfundsiebzig Jahren hatte
-                  der alte Handschuhzurichter das noch gesagt, und es fiel ihr jetzt wieder ein, als
-                  sie einen fertigen blütenweißen Ballhandschuh auf das Seidenpapier legte.</p>
+                  <pb/> Käthe und der Walter Hanne ihre Handschuhe braucht man nur ein einziges Mal
+                  mit dem Zurichtholz zu fahren.« He! Mit fünfundsiebzig Jahren hatte der alte
+                  Handschuhzurichter das noch gesagt, und es fiel ihr jetzt wieder ein, als sie
+                  einen fertigen blütenweißen Ballhandschuh auf das Seidenpapier legte.</p>
                <p>Bald sah sie nichts mehr, die Dunkelheit war so jäh hereingebrochen, daß die Hanne
                   die Hände in den Schoß sinken ließ und in den grauen Nebel hinausträumte. Es war
                   so friedlich, so heimlich da, von ihren Kindertagen ab zogen alle ihre Wünsche,
@@ -1667,10 +1659,10 @@
                   Leute früh zu Bette wie die Hühner und krochen schier noch früher aus den
                   Federn.</p>
                <p>
-                  <pb facs="#"/> Neun Uhr! So lange war die Lene noch nie fortgeblieben, und sie
-                  selbst, die Hanne, sie war zu jeder Nachtstunde bis in den grauenden Morgen oft
-                  vor ihrem Holzrößlein mit den Messingplatten gesessen, doch über die Sperrstunde
-                  war sie ihr Lebtag nicht außer dem Hause.</p>
+                  <pb/> Neun Uhr! So lange war die Lene noch nie fortgeblieben, und sie selbst, die
+                  Hanne, sie war zu jeder Nachtstunde bis in den grauenden Morgen oft vor ihrem
+                  Holzrößlein mit den Messingplatten gesessen, doch über die Sperrstunde war sie ihr
+                  Lebtag nicht außer dem Hause.</p>
                <p>Sie kannte die Stimmen der Nacht genau, das seufzende Weinen des Windes, der
                   zuweilen durch den kleinen Blechofen hereinwimmerte, den geheimnisvollen,
                   duftschweren Ton der Sommernächte, der gleichsam von der durchhitzten Erde
@@ -1695,14 +1687,14 @@
                   denkt.«</p>
                <p>Sooft die Torglocke läutete, stand das Mädchen von ihrer Arbeit auf, doch die
                   Ankömmlinge klopften an alle Fenster, nur nicht an das der Lene. Elf Uhr! – Zwölf
-                  Uhr! – Jetzt <pb facs="#"/> fehlte niemand mehr in der Blauen Gans außer dem
-                  Leopold und seinem Weibe. Der Fingerhut klopfte gleichmäßig an die Metallplatten,
-                  die Hanne arbeitete immer rascher, um ihre Unruhe zu verscheuchen, sie wollte
-                  nicht denken und träumen, dort lag ja das Kind im Fieber und fingerte mit den
-                  kleinen Händen in der Luft oder preßte die Fäustchen an die glühenden Wangen.
-                  Langsam und widerwillig sog es die Milch ein, die sie ihm gab, und wenn es auf
-                  eine Pulsschlaglänge die Lider hob, so waren die Augen glanzlos. Plötzlich wurde
-                  so scharf an der Glocke gezogen, daß sie noch eine Weile bimmelte, als der
+                  Uhr! – Jetzt <pb/> fehlte niemand mehr in der Blauen Gans außer dem Leopold und
+                  seinem Weibe. Der Fingerhut klopfte gleichmäßig an die Metallplatten, die Hanne
+                  arbeitete immer rascher, um ihre Unruhe zu verscheuchen, sie wollte nicht denken
+                  und träumen, dort lag ja das Kind im Fieber und fingerte mit den kleinen Händen in
+                  der Luft oder preßte die Fäustchen an die glühenden Wangen. Langsam und
+                  widerwillig sog es die Milch ein, die sie ihm gab, und wenn es auf eine
+                  Pulsschlaglänge die Lider hob, so waren die Augen glanzlos. Plötzlich wurde so
+                  scharf an der Glocke gezogen, daß sie noch eine Weile bimmelte, als der
                   Hausmeister schon das Tor aufgeschlossen hatte und wieder polternd zufallen
                   ließ.</p>
                <p>Unsichere, schnelle Schritte kamen näher und näher; die Hanne rückte ihr
@@ -1724,15 +1716,15 @@
                   und in den Schläfen spürte.</p>
                <p>Und wenn ich auf die Knie fallen müßte, da auf der Schwelle, und sie bitten, daß
                   sie mir verzeihen soll, wie ich ihr verzeih, ich tat es jetzt, ging ihm verworren
-                  durch den <pb facs="#"/> Kopf; er klopfte leise an die Scheiben und schritt rasch
-                  zu der Türe ... Die Hanne ging hinaus, schob den Riegel zurück und trat dann weg,
-                  um ihm Raum zu lassen, damit er an ihr vorbei in die Stube konnte; aber der Mann
-                  drehte hastig den Schlüssel um und langte in der Finsternis nach der
-                  Frauengestalt, zitternd ergriff er das Kleid, das er in seiner Nähe knistern
-                  hörte, klammerte sich daran und stotterte: »Ich ... ich hab einen brennenden
-                  Schädel ... der Schlag ... und der Wein ... und der Zorn, den ich so lang
-                  verschluckt hab ... und die Lieb zu dir. Weib! Weib, ich bitte dich ... ich will
-                  alles vergessen ... so wär es ja ein elendes Leben!«</p>
+                  durch den <pb/> Kopf; er klopfte leise an die Scheiben und schritt rasch zu der
+                  Türe ... Die Hanne ging hinaus, schob den Riegel zurück und trat dann weg, um ihm
+                  Raum zu lassen, damit er an ihr vorbei in die Stube konnte; aber der Mann drehte
+                  hastig den Schlüssel um und langte in der Finsternis nach der Frauengestalt,
+                  zitternd ergriff er das Kleid, das er in seiner Nähe knistern hörte, klammerte
+                  sich daran und stotterte: »Ich ... ich hab einen brennenden Schädel ... der Schlag
+                  ... und der Wein ... und der Zorn, den ich so lang verschluckt hab ... und die
+                  Lieb zu dir. Weib! Weib, ich bitte dich ... ich will alles vergessen ... so wär es
+                  ja ein elendes Leben!«</p>
                <p>Die Hanne wollte sich losmachen, sie wollte reden, aber der Schreck und ein
                   anderes beklemmend-erstarrendes Gefühl, das ihr die Kehle zuschnürte, ließ sie zu
                   keinem Wort kommen.</p>
@@ -1751,10 +1743,10 @@
                   Erregtheit, in der Verzweiflung und Furcht vor der Zukunft sprach der Mann, wie er
                   sonst nur in seinen Gedanken zu ihr redete. Sie sah ihn ja nicht, er brauchte sich
                   nicht zu schämen, einmal, ein einziges Mal mußte er doch die Last von seinem
-                  Herzen werfen. Er dachte nicht daran, ob <pb facs="#"/> sie ihn verstehen könne,
-                  ob sie seine leidenschaftlichen Worte nicht ängstigten, er wußte kaum, daß er ihr
-                  Kleid, ihre Hüfte, ihre Hand küßte und wieder küßte, als aber Tropfen um Tropfen
-                  aus ihren Augen auf seine Stirn fiel und das stumme Weinen des Weibes in ein
+                  Herzen werfen. Er dachte nicht daran, ob <pb/> sie ihn verstehen könne, ob sie
+                  seine leidenschaftlichen Worte nicht ängstigten, er wußte kaum, daß er ihr Kleid,
+                  ihre Hüfte, ihre Hand küßte und wieder küßte, als aber Tropfen um Tropfen aus
+                  ihren Augen auf seine Stirn fiel und das stumme Weinen des Weibes in ein
                   krampfhaftes Schluchzen überging, da richtete er sich an dem Leib der Fiebernden
                   mühsam auf, küßte gewaltsam zwei bebende Lippen, die seinen Kuß nicht erwiderten,
                   und zog die Gestalt in das erleuchtete Zimmer ... Die Hanne entwand sich seinem
@@ -1781,7 +1773,7 @@
                <p>»Na, daß sie dich da hinausgeschickt hat und kommod weiterschlaft«, er dehnte die
                   Worte und sprach laut, als ob er jemand wachrufen wollte.</p>
                <p>
-                  <pb facs="#"/> »Lepold!«</p>
+                  <pb/> »Lepold!«</p>
                <p>»War dir vielleicht um das Bussel z'tun, scheinheiliges Ding? Komm, ich geb dir
                   noch eins, mein Weib ist nicht eifersüchtig, das siehst du!«</p>
                <p>Alles das war für die Lene geredet, er wähnte, daß sie dort in ihren Kissen
@@ -1793,8 +1785,8 @@
                   das Weib mit ihrer Unsinnigkeit aus mir!</p>
                <p>»Hast du dein Weib nicht gesehen, Lepold?«</p>
                <p>
-                  <pb facs="#"/> Das fuhr in seine peinvollen Gedanken, er setzte sich matt nieder
-                  und frug: »Was hast du gesagt?«</p>
+                  <pb/> Das fuhr in seine peinvollen Gedanken, er setzte sich matt nieder und frug:
+                  »Was hast du gesagt?«</p>
                <p>»Die Lene ist in der Abendzeit fortgegangen und ist – erschrick nicht, ich bitt
                   dich – ist noch nicht heimgekommen«, sagte das Mädchen leise.</p>
                <p>»Nicht daheim! Jetzt? Mein Weib?« stammelte der Leopold, er stieß die Hanne
@@ -1823,8 +1815,8 @@
                   letzten Worte seines Weibes immer wiederholen, er sagte selbst jede Silbe nach,
                   aber er konnte nichts herausfinden, als daß sie mit einer Lüge ihn und das Kind
                   verlassen hatte.</p>
-               <p>»Lepold, sei doch ein wenig gefaßt«, bat die Hanne, »laß <pb facs="#"/> mich aus,
-                  ich muß zu dem Buben, der Husten ist so – dein Kind ist krank, hörst?«</p>
+               <p>»Lepold, sei doch ein wenig gefaßt«, bat die Hanne, »laß <pb/> mich aus, ich muß
+                  zu dem Buben, der Husten ist so – dein Kind ist krank, hörst?«</p>
                <p>»Auch das noch ...«</p>
                <p>Er nahm die Lampe und leuchtete dem Mädchen, das fürsorglich wie eine Mutter das
                   Kind aufhob.</p>
@@ -1855,13 +1847,13 @@
                <p>»Schau nur, Lepold, schau!« klagte die Hanne bittend und legte ihre Hand auf
                   seinen Arm.</p>
                <p>
-                  <pb facs="#"/> Der Mann aber blickte über die Achsel auf die zitternde hagere
-                  Mädchenhand nieder. Das fremde Geschöpf da ängstigte sich um seinen Buben,
-                  dasselbe unbeachtete stille Mädchen hatte schon als Kind den ganzen Reichtum der
-                  Armen, die geraden Glieder, hinaufgetragen auf das Hausdach und sie zerbrochen und
-                  zerschellt heruntergebracht, und das um seinetwillen, um ihm eine Freude zu machen
-                  ... Und nun steht sie wieder da neben ihm und zittert für sein Kind und verteidigt
-                  die nichtsnutzige Mutter ... sein Weib.</p>
+                  <pb/> Der Mann aber blickte über die Achsel auf die zitternde hagere Mädchenhand
+                  nieder. Das fremde Geschöpf da ängstigte sich um seinen Buben, dasselbe
+                  unbeachtete stille Mädchen hatte schon als Kind den ganzen Reichtum der Armen, die
+                  geraden Glieder, hinaufgetragen auf das Hausdach und sie zerbrochen und zerschellt
+                  heruntergebracht, und das um seinetwillen, um ihm eine Freude zu machen ... Und
+                  nun steht sie wieder da neben ihm und zittert für sein Kind und verteidigt die
+                  nichtsnutzige Mutter ... sein Weib.</p>
                <p>»Ein nichtsnutziges Weib«, murmelte er ingrimmig, und die Hanne schlang angstvoll
                   die Finger ineinander und drückte ihre Wange an das heiße Gesicht des Kleinen.</p>
                <p>»Lepold, ich bitt dich! – Oder da, bleib bei ihm, ich hol den Doktor!« Sie legte
@@ -1882,13 +1874,13 @@
                   ersterbende Licht warf nur mehr einen fingerbreiten Streifen über den Tisch, das
                   ganze Gemach lag in schwarzer Dunkelheit. Die Finsternis verwirrte den erregten
                   Mann noch mehr, er wollte das Fenster öffnen, darum legte er den Knaben auf sein
-                  Bett ... Oh!... Das ist ja <pb facs="#"/> nicht das seine, er hatte sich nur so
-                  hingetastet in der Finsternis, das ist ihr Lager ... sie hatte die weichsten
-                  Kissen, und da, wo ihr schöner Kopf ruhte, da roch es immer so frisch von ihren
-                  Haaren, als ob man den zarten Flaumduft eines jungen Huhnes einatmen würde. Wie
-                  liebte er dieses rote, gesunde, duftende Haar ... und da, freilich, da lag ihr
-                  Nachthäubchen und geriet ihm zwischen die Finger, und er ließ sein glühendes
-                  Gesicht darauf fallen.</p>
+                  Bett ... Oh!... Das ist ja <pb/> nicht das seine, er hatte sich nur so hingetastet
+                  in der Finsternis, das ist ihr Lager ... sie hatte die weichsten Kissen, und da,
+                  wo ihr schöner Kopf ruhte, da roch es immer so frisch von ihren Haaren, als ob man
+                  den zarten Flaumduft eines jungen Huhnes einatmen würde. Wie liebte er dieses
+                  rote, gesunde, duftende Haar ... und da, freilich, da lag ihr Nachthäubchen und
+                  geriet ihm zwischen die Finger, und er ließ sein glühendes Gesicht darauf
+                  fallen.</p>
                <p>Kam wirklich die Zimmerdecke langsam herunter, herabgedreht durch eine unsichtbare
                   Kurbel, die aber scharf kreischte?... Schrie sein Kind so heiser und hustete so
                   bellend?... Wahrhaftig! Da hatte er mit einmal seinen zweiten Arm wieder ...
@@ -1902,12 +1894,12 @@
                <p>Die Lampe knisterte, warf ein paar kleine Fünkchen ab, flammte auf und
                   erlosch.</p>
                <p>
-                  <pb facs="#"/> Zwischen den beiden Betten am Boden lag der Leopold lang
-                  ausgestreckt, ohne Atem, wie ein Erstickter, und sein Söhnlein wimmerte, als es
-                  nimmer schreien konnte. Der Mann hörte nichts, seine letzte krampfhafte Bewegung
-                  war, mit ausgespreizten Fingern die Decke zu halten, denn er sah, wie sie tiefer
-                  und tiefer herabsank ... sah, daß sie nur mehr handbreit von seinem Kopf entfernt
-                  ist und ihm jetzt das Hirn zusammendrücken werde.</p>
+                  <pb/> Zwischen den beiden Betten am Boden lag der Leopold lang ausgestreckt, ohne
+                  Atem, wie ein Erstickter, und sein Söhnlein wimmerte, als es nimmer schreien
+                  konnte. Der Mann hörte nichts, seine letzte krampfhafte Bewegung war, mit
+                  ausgespreizten Fingern die Decke zu halten, denn er sah, wie sie tiefer und tiefer
+                  herabsank ... sah, daß sie nur mehr handbreit von seinem Kopf entfernt ist und ihm
+                  jetzt das Hirn zusammendrücken werde.</p>
 
                <p>»Einmal muß aber die Geschichte doch ein End neh men, meinst nicht?« zischelte die
                   alte Frau Walter. Sie stand in der Küche des Leopold und schielte nach seiner
@@ -1931,8 +1923,8 @@
                   dir?« frug die Mutter boshaft und stemmte herausfordernd beide Arme in die Hüften.
                   »Ist denn das ganze Haus verändert, sind alle Leute anders worden in sechs
                   Wochen?« sagte die Hanne kleinmütig. »Vor sechs Wochen war ja der Leopold für alle
-                  ein braver, ehrlicher <pb facs="#"/> Mensch und die Lene für die meisten eine
-                  schöne, aber faule Gredel, und jetzt ...«</p>
+                  ein braver, ehrlicher <pb/> Mensch und die Lene für die meisten eine schöne, aber
+                  faule Gredel, und jetzt ...«</p>
                <p>»Das verstehst du nicht; eine Frau, die so schön ist, verdient eine schönere
                   Behandlung, alle Leut sagen das, die nobelsten Leut, und das G'richt gibt ihr
                   recht, nicht ihm.«</p>
@@ -1945,7 +1937,7 @@
                   anders!«</p>
                <p>Frau Walter streifte die Ärmel so weit hinauf, als sie sich schieben ließen, und
                   ging breitspurig durch die Küchentüre hinaus in den Hof. Draußen lauerten schon
-                  die Nachbarinnen, neugierig, ob die resolute Mutter das dumme Mädel <pb facs="#"/>
+                  die Nachbarinnen, neugierig, ob die resolute Mutter das dumme Mädel <pb/>
                   mitbrachte oder ob die Wirtschaft so weitergehen würde. Sie zuckten nur mitleidig
                   die Achseln, als die Alte allein kam, und steckten die Köpfe zusammen, als sie,
                   ohne ihnen lange Rede zu stehen, davonging.</p>
@@ -1973,8 +1965,8 @@
                   bis zu den geschmackvollsten Stiefeletten herab alles feil hatte, was zu dem Putz
                   einer eleganten Frau gehört. Sie hatte diese neue und vornehme Idee von ihrer
                   Vaterstadt, von Paris, hergebracht und sie klug zu verwerten begonnen. Alle
-                  älteren Geschäftsleute sperrten Maul und Augen auf, denn mit einigen <pb facs="#"
-                  /> wandhohen Spiegeln, Samtsofas und einer Menge künstlicher Blumen, kurz, mit
+                  älteren Geschäftsleute sperrten Maul und Augen auf, denn mit einigen <pb/>
+                  wandhohen Spiegeln, Samtsofas und einer Menge künstlicher Blumen, kurz, mit
                   allerhand solchem Firlefanz, an den ein aufrechter Kaufmann gar nicht denkt,
                   schnappte sie ihnen doch die allerschönsten Kunden vor der Nase weg.</p>
                <p>In dem Salon der »Madame Margot« gab es auch keine bedienenden jungen Herren, die
@@ -2001,11 +1993,11 @@
                   diesen empörenden Fall in die winzigen Hände nahm, nachdem er von ihr
                   zurechtgelegt war, einem geschickten Advokaten über gab und das mißhandelte schöne
                   Weib frischweg in ihr Geschäft nahm.</p>
-               <p>Ehe die Lene sich noch ganz mit sich zurechtgefunden hatte, <pb facs="#"/> waren
-                  schon ein Bündel Federn zerschrieben an einer langen Anklageschrift. Darin stand,
-                  daß der Leopold ein Wüstling sei, ein Säufer, daß er sein Weib fast erschlagen und
-                  daß die Lene einen solchen Widerwillen gegen ihn habe, daß sie in ehelicher
-                  Gemeinschaft nicht mehr mit ihm weiterleben könne.</p>
+               <p>Ehe die Lene sich noch ganz mit sich zurechtgefunden hatte, <pb/> waren schon ein
+                  Bündel Federn zerschrieben an einer langen Anklageschrift. Darin stand, daß der
+                  Leopold ein Wüstling sei, ein Säufer, daß er sein Weib fast erschlagen und daß die
+                  Lene einen solchen Widerwillen gegen ihn habe, daß sie in ehelicher Gemeinschaft
+                  nicht mehr mit ihm weiterleben könne.</p>
                <p>Der Leopold lag aber schon drei Wochen todkrank da, als ihm die Schrift in sein
                   Haus flog, er konnte sie nur mühsam lesen und verstand sie kaum, er wußte auch
                   nicht viel zu erwidern, als acht Tage darauf der Advokat kam und ihm das alles
@@ -2013,12 +2005,12 @@
                   habe, daß sie ihm treu gewesen, daß sie nichts verschwendet und seine Wirtschaft
                   in gutem Stand erhalten.</p>
                <p>
-                  <pb facs="#"/> »Gegen die Abneigung Ihrer geschätzten Frau gibt es kein Mittel,
-                  Zwang würde nichts nützen«, meinte der Advokat, »und, verzeihen Sie, lieber Mann,
-                  Sie dürfen sich bei alldem, was Sie getan haben, gar nicht wundern, wenn sich eine
-                  schöne ehrbare Frau von Ihnen lossagt«, schloß der Geschickte mit einem
-                  Hinblinzeln über die hilflose, krüppelhafte Gestalt des Kranken und mit einer
-                  würdevollen Handbewegung, die sich wie eine Verurteilung ansah.</p>
+                  <pb/> »Gegen die Abneigung Ihrer geschätzten Frau gibt es kein Mittel, Zwang würde
+                  nichts nützen«, meinte der Advokat, »und, verzeihen Sie, lieber Mann, Sie dürfen
+                  sich bei alldem, was Sie getan haben, gar nicht wundern, wenn sich eine schöne
+                  ehrbare Frau von Ihnen lossagt«, schloß der Geschickte mit einem Hinblinzeln über
+                  die hilflose, krüppelhafte Gestalt des Kranken und mit einer würdevollen
+                  Handbewegung, die sich wie eine Verurteilung ansah.</p>
                <p>Der Leopold glotzte den Advokaten an, er wunderte sich gar nicht über das Gebaren
                   seiner Frau, er besann sich nur, daß alles, was ihm dieser abgeschliffene und
                   gemessene Herr da sagte, schon in der langen Schrift zu lesen war, und dann – ja –
@@ -2040,11 +2032,11 @@
                   jede Leichtfertigkeit, der sie ihn beschuldigte, empfand er weniger beschämend als
                   die Mißachtung, die Abneigung, die sie für den Krüppel hatte. Als aber der Advokat
                   noch an der Türe umkehrte und sich wieder an das Krankenbett setzte und über die
-                  Scheidungsfrage deutlich zu unterhandeln anfing, da wurde der Leopold <pb facs="#"
-                  /> wild, denn ganz im Hintergrunde aller seiner Gedanken stand doch die Hoffnung,
-                  daß sie bald wieder heimkehren werde; jetzt aber wurde der Gedanke durch
-                  untilgbare Furcht verdrängt, sie könne einem anderen angehören, wenn er sich für
-                  immer von ihr lossagte.</p>
+                  Scheidungsfrage deutlich zu unterhandeln anfing, da wurde der Leopold <pb/> wild,
+                  denn ganz im Hintergrunde aller seiner Gedanken stand doch die Hoffnung, daß sie
+                  bald wieder heimkehren werde; jetzt aber wurde der Gedanke durch untilgbare Furcht
+                  verdrängt, sie könne einem anderen angehören, wenn er sich für immer von ihr
+                  lossagte.</p>
                <p>Er biß die Zähne übereinander und konnte das Bild nicht loswerden. – Der schöne,
                   weiße, kühle Leib in den Armen eines anderen Mannes, die roten Lippen geküßt von
                   anderen, fremden Lippen, die schöne Statue vielleicht lebendig.</p>
@@ -2068,11 +2060,11 @@
                   alle Leute festhielt da in dem Winkel, nicht das kranke Kind, das ihrem eigenen
                   Leib entsprossen, nicht er, der alles für sie tat und ließ, seit sie zueinander
                   gehörten, nichts, gar nichts hatte Macht gehabt über das wortkarge, gedankenscheue
-                  Weib. Und sie sei in ihrem Rechte, hatte der studierte Herr gesagt?... Wenn <pb
-                     facs="#"/> dem Advokaten, der jetzt da bei ihm saß, inzwischen daheim sein
-                  eigenes Weib davonliefe, würde er auch diesem das Recht zusprechen? Gewiß nicht,
-                  weil ... weil er zwei Arme hat ... mit dem Krüppel durften sie alle umspringen,
-                  wie sie wollten.</p>
+                  Weib. Und sie sei in ihrem Rechte, hatte der studierte Herr gesagt?... Wenn <pb/>
+                  dem Advokaten, der jetzt da bei ihm saß, inzwischen daheim sein eigenes Weib
+                  davonliefe, würde er auch diesem das Recht zusprechen? Gewiß nicht, weil ... weil
+                  er zwei Arme hat ... mit dem Krüppel durften sie alle umspringen, wie sie
+                  wollten.</p>
                <p>Mit solchen Gedanken schlug sich der Leopold herum, und wahrlich nicht zu seinem
                   Heil. Manchmal schlief er die langen Tage vor Erschöpfung, und die Nächte schrie
                   und jammerte er im Fieber. Wie die Zeit hinrann, wußte er sich nicht zu sagen, nur
@@ -2097,8 +2089,8 @@
                <p>»Na ja, daß einen da unser Herrgott straft, daß einen wenigstens der Schlag
                   trifft, ist doch ganz natürlich«, sagte gewichtig die Frau Walter.</p>
                <p>
-                  <pb facs="#"/> Somit war das Unglück des Weis Leopold zurechtgelegt und der Lene
-                  ein Stein in das Brett geschoben.</p>
+                  <pb/> Somit war das Unglück des Weis Leopold zurechtgelegt und der Lene ein Stein
+                  in das Brett geschoben.</p>
                <p>Am Anfang der Krankheit hatte noch hie und da eine der Frauen die Hanne auf einige
                   Stunden vom Nachtwachen abgelöst, als aber das Kind ganz außer Gefahr war, hatten
                   sie die Pflege des Vaters dem jungen Mädchen allein überlassen, und je mehr sich
@@ -2126,8 +2118,8 @@
                <p>»Aufgeschaut!... sie ist eine ehrbare Frau, hat der Herr Advokat gesagt. Mußt
                   niemals so eine ehrbare Frau werden, Mädel!«</p>
                <p>»Ich! – Dummes Zeug!« Die Hanne drehte sich jäh um und nahm wieder ihre Arbeit
-                  auf; nach einer Weile pochte der <pb facs="#"/> blanke Fingerhut gleichmäßig und
-                  flink an die flimmernde Metallplatte.</p>
+                  auf; nach einer Weile pochte der <pb/> blanke Fingerhut gleichmäßig und flink an
+                  die flimmernde Metallplatte.</p>
                <p>Seit kurzer Zeit konnte es der Leopold schon ertragen, daß sie in der Stube nähte,
                   früher war sie draußen in der Küche gesessen, recht nahe an der Türe, die nach dem
                   Hofe führte, so daß ein schwacher Lichtschein durch das Guckloch gerade auf ihre
@@ -2154,14 +2146,14 @@
                   verscheuchte Schwalben um das Fenster geirrt, an dem sie jetzt saß, da er niemand
                   auf der Welt hatte als sie?</p>
                <p>Draußen im Hofe zischelten und keiften die Leute miteinander und schielten von der
-                  Seite nach ihr hin. »Wo anpacken?« <pb facs="#"/> fragte sie sich. Wenn sie es
-                  auch versuchen wollte, die Lene umzustimmen, und wenn es ihr auch gelingen würde,
-                  die Übermütige heimzuführen, können die Eheleute jemals wieder miteinander in
-                  Frieden leben? Wo aber sonst anpacken, um dem Gebrochenen wieder auf- und
-                  weiterzuhelfen? Wenn er nur nicht so kichern und wispern würde hinter ihr; glaubt
-                  er, sie könne lachen, weiß er denn gar nicht, wie traurig sie ist? Während die
-                  Hanne so grübelte und hastig nähte, hatte sich der Leopold in die Decke gewickelt
-                  und war bis zu ihrem Stuhl hingeschlichen.</p>
+                  Seite nach ihr hin. »Wo anpacken?« <pb/> fragte sie sich. Wenn sie es auch
+                  versuchen wollte, die Lene umzustimmen, und wenn es ihr auch gelingen würde, die
+                  Übermütige heimzuführen, können die Eheleute jemals wieder miteinander in Frieden
+                  leben? Wo aber sonst anpacken, um dem Gebrochenen wieder auf- und weiterzuhelfen?
+                  Wenn er nur nicht so kichern und wispern würde hinter ihr; glaubt er, sie könne
+                  lachen, weiß er denn gar nicht, wie traurig sie ist? Während die Hanne so grübelte
+                  und hastig nähte, hatte sich der Leopold in die Decke gewickelt und war bis zu
+                  ihrem Stuhl hingeschlichen.</p>
                <p>»Da schau her! Da bin ich!«</p>
                <p>Das Mädchen sprang auf und breitete ihre Arme aus, um den Schwankenden zu halten,
                   wenn er wieder zusammenfallen sollte wie vor sechs Wochen, als sie ihn am Boden
@@ -2182,9 +2174,9 @@
                <p>»So lang, bis ...«</p>
                <p>»Bis?«</p>
                <p>Sie verschluckte einen Seufzer und setzte sich schweigend an ihre Arbeit.</p>
-               <p>Wieder war über eine Woche um, und der Leopold saß nun <pb facs="#"/> schon neben
-                  der Hanne am Fenster, und sein schwacher Arm zitterte, als er den kleinen Buben
-                  vor sich auf dem Schoß halten wollte.</p>
+               <p>Wieder war über eine Woche um, und der Leopold saß nun <pb/> schon neben der Hanne
+                  am Fenster, und sein schwacher Arm zitterte, als er den kleinen Buben vor sich auf
+                  dem Schoß halten wollte.</p>
                <p>»Mein Herr Sohn ist stärker, als ich bin«, witzelte er und zog mit den Lippen
                   seinen Schnurrbart zwischen die Zähne.</p>
                <p>Es war Feierabend, und paarweise gingen die Nachbarn an dem Fenster vorüber, nur
@@ -2212,8 +2204,7 @@
                   sagen im Haus, und nicht nur die nächsten Nachbarn, nein, überall, weißt was?«
                   zeterte die Frau.</p>
                <p>
-                  <pb facs="#"/> »Na also, was denn in Dreiteufelsnamen?« brummte der Leopold
-                  verbissen.</p>
+                  <pb/> »Na also, was denn in Dreiteufelsnamen?« brummte der Leopold verbissen.</p>
                <p>»Daß sie eine Liebschaft mit dir hat«, kreischte das Weib und spuckte vor ihm auf
                   den Boden.</p>
                <p>Der Leopold war kreidebleich, und der kleine Bube wackelte bedenklich auf seinen
@@ -2243,13 +2234,13 @@
                   Frau; gleichsam um ihr Kind zu erschrecken, setzte sie hinzu: »Es gibt genug wilde
                   Ehen, bist nicht die erste und nicht die letzte.«</p>
                <p>
-                  <pb facs="#"/> Das Mädchen stand auf, wickelte ihre Arbeit zusammen, wischte mit
-                  einem Lederlappen die Maschine sorgfältig ab und wollte sie eben vom Boden auf
-                  heben, als sie sah, daß der Fenstervorhang, der neben ihrer Maschine niederhing,
-                  sich bewegte, als ob er geschüttelt würde, sie wollte nach den Vorhangstangen
-                  schauen, ob etwas losgemacht sei, und da begegnete sie plötzlich der Hand des
-                  Leopold, der verstohlen das weiße Zeug gepackt hatte und dastand, als ob er sich
-                  daran aufrecht hielte. Die zuckende Hand, sein bleiches, verzerrtes Gesicht, die
+                  <pb/> Das Mädchen stand auf, wickelte ihre Arbeit zusammen, wischte mit einem
+                  Lederlappen die Maschine sorgfältig ab und wollte sie eben vom Boden auf heben,
+                  als sie sah, daß der Fenstervorhang, der neben ihrer Maschine niederhing, sich
+                  bewegte, als ob er geschüttelt würde, sie wollte nach den Vorhangstangen schauen,
+                  ob etwas losgemacht sei, und da begegnete sie plötzlich der Hand des Leopold, der
+                  verstohlen das weiße Zeug gepackt hatte und dastand, als ob er sich daran aufrecht
+                  hielte. Die zuckende Hand, sein bleiches, verzerrtes Gesicht, die
                   zusammengekniffenen Lippen, die halb ohnmächtige Haltung erschütterten das junge
                   Mädchen, sie streckte beide Hände nach dem Manne aus, als wollte sie ihn stützen
                   und trösten, er aber schaute unverwandt auf das graue Steinpflaster des Hofes
@@ -2271,9 +2262,9 @@
                   gelehnt.</p>
                <p>»Du armer Mann«, sagte die Hanne leise, und langsam rückte sie ihre Maschine
                   wieder an den alten Platz, rollte das Papier auseinander, legte ihr Arbeitszeug
-                  auf dem Fensterbrette zurecht und flüsterte, weil sie nicht laut reden <pb
-                     facs="#"/> konnte vor Zaghaftigkeit: »Behalt mich, Leopold, bis die Lene kommt.
-                  Die Leut sollen reden.«</p>
+                  auf dem Fensterbrette zurecht und flüsterte, weil sie nicht laut reden <pb/>
+                  konnte vor Zaghaftigkeit: »Behalt mich, Leopold, bis die Lene kommt. Die Leut
+                  sollen reden.«</p>
                <p>»Über meinen Türstaffel kommst du nimmer – nimmer – wenn du jetzt nicht mitgehst!«
                   stammelte die Frau Walter, als sie ihre Stimme wiedergefunden hatte.</p>
                <p>Der Mann sprach nicht, er schüttelte der Hanne die Hand wie einem treuen
@@ -2301,10 +2292,9 @@
                   den langen Hof auf die Trockenwiese führte, wo er mit seinem Buben die Hälfte des
                   Tages hinbrachte. Luft und Sonnenschein taten dem schwachen Menschenleib so wohl,
                   denn nur langsam kam seine Kraft wieder; die stete Unruhe, der Schmerz um seines
-                  Weibes <pb facs="#"/> willen, die Sehnsucht nach ihr und endlich die Sorge, die
-                  jetzt, da er wieder denken konnte, breit vor ihm stand und sich nicht verjagen
-                  ließ, das war mehr als zuviel für den kranken Körper und für das weiche Herz des
-                  Mannes.</p>
+                  Weibes <pb/> willen, die Sehnsucht nach ihr und endlich die Sorge, die jetzt, da
+                  er wieder denken konnte, breit vor ihm stand und sich nicht verjagen ließ, das war
+                  mehr als zuviel für den kranken Körper und für das weiche Herz des Mannes.</p>
                <p>Bis nun hatte er auch im guten Glauben dahingelebt, daß er von seinen eigenen
                   Ersparnissen esse und trinke, aber ganz zufällig kam er darauf, daß die Hanne
                   ihren Arbeitslohn in seine Wirtschaft schmuggelte; das war auch so ein Spornstoß
@@ -2330,11 +2320,10 @@
                   hinter der Uhr verborgen steckte von der Hanne, um vorläufig wenigstens eine Sorge
                   von ihm zu nehmen. Die Hanne war auch nie auf das Amt gegangen, sie bog alleweil
                   nur um die nächste Ecke und lief dann auf einem andern Wege nach der
-                     Trockenwiese<pb facs="#"/> , wo sie sitzen blieb und das Kinderzeug
-                  zurechtflickte, das sie sonst beiseite schieben mußte. »Ihre Stelle ist längst
-                  vergeben, mein lieber Weis, reichen Sie neu ein, wenn – wenn Sie sich ganz erholt
-                  haben«, sagte der Vorsteher und musterte den Leopold vom Wirbel bis zur Zehe. –
-                  »Aber ...«</p>
+                  Trockenwiese<pb/> , wo sie sitzen blieb und das Kinderzeug zurechtflickte, das sie
+                  sonst beiseite schieben mußte. »Ihre Stelle ist längst vergeben, mein lieber Weis,
+                  reichen Sie neu ein, wenn – wenn Sie sich ganz erholt haben«, sagte der Vorsteher
+                  und musterte den Leopold vom Wirbel bis zur Zehe. – »Aber ...«</p>
                <p>»Ist Ihre Frau schon wieder heimgekehrt, oder leben Sie noch immer so –«, näselte
                   der Beamte.</p>
                <p>»Gehört das auch zu meiner Entlassung, oder ist es genug, daß ich krank war und
@@ -2343,10 +2332,10 @@
                <p>»Warum wurden Sie krank?« meinte der Beamte hochmütig und lächelte so, als ob er
                   die Menge Dinge wüßte, über welche er nicht reden möchte.</p>
                <p>
-                  <pb facs="#"/> »Weil ... Ei so!« murmelte der Leopold, warf seinen Hut auf den
-                  Kopf, zerrte an der Krempe und drehte sich auf den Absätzen um, ohne noch einmal
-                  in das rotgetupfte Gesicht des Menschen zu sehen, der ihn halb wie einen Narren
-                  und halb wie einen Taugenichts abgefertigt hatte.</p>
+                  <pb/> »Weil ... Ei so!« murmelte der Leopold, warf seinen Hut auf den Kopf, zerrte
+                  an der Krempe und drehte sich auf den Absätzen um, ohne noch einmal in das
+                  rotgetupfte Gesicht des Menschen zu sehen, der ihn halb wie einen Narren und halb
+                  wie einen Taugenichts abgefertigt hatte.</p>
                <p>Nicht das, was er zu ihm sagte, war es, sondern wie der Kerl, der allezeit hinter
                   dem Schreibtisch hockte, es sagte, das war es. »Ob das wohl früher einer riskiert
                   hätte, he?«</p>
@@ -2372,8 +2361,8 @@
                <p>»Die Leut, alleweil die Leut!« sagte er grollend, als er aber sah, daß die Hanne
                   leise vor sich hin schluchzte, nahm er mißmutig seinen Hut und ging.</p>
                <p>
-                  <pb facs="#"/> »Gestritten, die wilden Eh'leut«, kicherte eine Nachbarin, die
-                  gehorcht hatte.</p>
+                  <pb/> »Gestritten, die wilden Eh'leut«, kicherte eine Nachbarin, die gehorcht
+                  hatte.</p>
                <p>»Jetzt wird sie bald Schläg kriegen«, erwiderte die Laternenanzünderin weinerlich,
                   und beide trugen das Ereignis brühwarm zu der alten Frau Walter.</p>
                <p>Der Leopold ging, so rasch er konnte, immer weiter und weiter, als könnte er allen
@@ -2399,10 +2388,10 @@
                   seinem Weibe, nach ihrem Anblick, ihren Lippen. Monate und Monate waren jetzt
                   hingegangen, und alle die Zeit war ihm zwischen halber Bewußtlosigkeit, Schwäche,
                   Kindergeschrei, Geschimpfe und leisen Seufzern verflossen. Kein heller Tag in
-                  dieser bleischweren Traurigkeit, <pb facs="#"/> kein lachender Frauenblick, nichts
-                  als die rohen Gesichter der Weiber und die ernsten Züge der dürftigen
-                  Mädchengestalt. Die Schönheit war mit der Lene aus seinem Leben geschwunden, und
-                  darum wohl zerrte unbewußt alles in ihm nach ihr.</p>
+                  dieser bleischweren Traurigkeit, <pb/> kein lachender Frauenblick, nichts als die
+                  rohen Gesichter der Weiber und die ernsten Züge der dürftigen Mädchengestalt. Die
+                  Schönheit war mit der Lene aus seinem Leben geschwunden, und darum wohl zerrte
+                  unbewußt alles in ihm nach ihr.</p>
                <p>Es dämmerte schon, als er mühsam durch die Straßen der Stadt ging, und wie er
                   endlich bei dem Hause der Madame Margot ankam, war es unten auf der Erde dunkel
                   geworden, und nur oben zwischen den Häusern lag wie ein ausgespanntes lichtes Tuch
@@ -2427,19 +2416,19 @@
                   Erst als sie ganz verschwunden war, sagte er sich deutlich vor, was er jetzt
                   wollte. Mit ihr reden, sie fragen: Was soll nun aus uns werden? – Aus uns dreien?
                   Er wollte das von keinem geschickten Advokaten mehr hören, sie sollte es ihm
-                  sagen, sein Weib,<pb facs="#"/> das sein Kind geboren hatte und das doch zu ihm
-                  gehörte, wenn sie auch da oben saß und nimmer daheim in der großen Stube. –
-                  Vielleicht ginge sie gerne wieder zurück in die Blaue Gans, nachdem sie unter den
-                  fremden vornehmen Menschen gelebt hatte und einsehen mußte, daß nicht viel
-                  dahinter ist bei ihnen. Vielleicht schämt sie sich nur, so ohne weiteres
-                  heimzulaufen, und wartet, daß er komme und sie bittet – und endlich, ja, er hatte
-                  sie ja vertrieben, Weibergerede soll ein Mann nie so schwernehmen, im schlimmsten
-                  Fall hatten sie beide gefehlt, und es war jetzt, da sie sich so lange ferne
-                  gewesen, leichter gutzumachen und zu vergessen als damals. Wenn sie erst wieder
-                  daheim ist, dann macht ihm das tägliche Brot keine Sorge mehr, dann findet er
-                  gewiß rasch wieder eine Stelle, ah, für sie würde er eifrig suchen, laufen und
-                  schaffen, wäre sie da, so wüßte er ja, wofür er sich plagte, für sie gäbe er ja
-                  seinen letzten Blutstropfen hin.</p>
+                  sagen, sein Weib,<pb/> das sein Kind geboren hatte und das doch zu ihm gehörte,
+                  wenn sie auch da oben saß und nimmer daheim in der großen Stube. – Vielleicht
+                  ginge sie gerne wieder zurück in die Blaue Gans, nachdem sie unter den fremden
+                  vornehmen Menschen gelebt hatte und einsehen mußte, daß nicht viel dahinter ist
+                  bei ihnen. Vielleicht schämt sie sich nur, so ohne weiteres heimzulaufen, und
+                  wartet, daß er komme und sie bittet – und endlich, ja, er hatte sie ja vertrieben,
+                  Weibergerede soll ein Mann nie so schwernehmen, im schlimmsten Fall hatten sie
+                  beide gefehlt, und es war jetzt, da sie sich so lange ferne gewesen, leichter
+                  gutzumachen und zu vergessen als damals. Wenn sie erst wieder daheim ist, dann
+                  macht ihm das tägliche Brot keine Sorge mehr, dann findet er gewiß rasch wieder
+                  eine Stelle, ah, für sie würde er eifrig suchen, laufen und schaffen, wäre sie da,
+                  so wüßte er ja, wofür er sich plagte, für sie gäbe er ja seinen letzten
+                  Blutstropfen hin.</p>
                <p>Der Leopold stand jetzt neben dem Haustore der Madame Margot, da heraus mußte die
                   Lene kommen, da gab es kein Ausweichen, kein Davonlaufen, sie mußte an ihm vorbei
                   und mußte ihm also Rede stehen.</p>
@@ -2457,9 +2446,9 @@
                <p>»Warten wir auf Madeleine?« fragte die ältere, als sie durch das Tor gingen und an
                   Leopold vorbeikamen, »das müssen Sie ihr auch erzählen, es ist zu komisch.«</p>
                <p>
-                  <pb facs="#"/> »Nein, gehen wir nur, Madeleine wurde im letzten Augenblick noch zu
-                  Madame gerufen, und dann – vielleicht schadet das Lachen auch ihrer Schönheit wie
-                  das Weinen, denn sie weint nicht, damit sie ihr Gesicht ...«</p>
+                  <pb/> »Nein, gehen wir nur, Madeleine wurde im letzten Augenblick noch zu Madame
+                  gerufen, und dann – vielleicht schadet das Lachen auch ihrer Schönheit wie das
+                  Weinen, denn sie weint nicht, damit sie ihr Gesicht ...«</p>
                <p>Mehr konnte der Mann nicht hören. Freilich, das war sein Weib, das weder lachte
                   noch weinte, damit ihr Gesicht kein Fältchen bekommt. Das schöne Fleisch galt ihr
                   mehr als Freude oder Leid, ihre Schönheit kam immer zuerst, sie war also
@@ -2483,10 +2472,10 @@
                   Haare, die ihm in die Augen flogen, gegen seinen Rock, der sich über die Brust bis
                   unter das Kinn hinauf blähte, und gegen den leeren flattern den Ärmel, den der
                   Wind sogar in das weiße Gesicht des jungen Weibes schlug.</p>
-               <p>Die Lene hatte sich eng in ihr langes Umschlagetuch gehüllt, <pb facs="#"/> der
-                  kleine festanschließende Hut und der straffgespannte Schleier ließen an keinem
-                  Härchen ihres glatten Scheitels rühren, die schlanke Gestalt war selbst mitten im
-                  Sturm ebenmäßig zusammengehalten, unbewegt.</p>
+               <p>Die Lene hatte sich eng in ihr langes Umschlagetuch gehüllt, <pb/> der kleine
+                  festanschließende Hut und der straffgespannte Schleier ließen an keinem Härchen
+                  ihres glatten Scheitels rühren, die schlanke Gestalt war selbst mitten im Sturm
+                  ebenmäßig zusammengehalten, unbewegt.</p>
                <p>»Was willst du?« frug sie, leicht Atem holend, während er mit weitgeöffnetem Munde
                   neben ihr her schwankte. »Dich ... sehen ... fragen ... wann ... du heimkommst.«
                   Sie blieb stehen, ließ ihre Augen über den zerfahrenen Mann laufen und sagte dann
@@ -2515,8 +2504,8 @@
                   dir gefunden?«</p>
                <p>»Hast sie aber doch behalten.«</p>
                <p>»Lene ... zuerst ... Aber wie soll ich dir da im Wind das erzählen. Weißt du, wie
-                  schlecht bei uns unten oft das Gerede <pb facs="#"/> ist? Sag, Weib, wer könnt an
-                  eine andere denken, wenn er dich hat?«</p>
+                  schlecht bei uns unten oft das Gerede <pb/> ist? Sag, Weib, wer könnt an eine
+                  andere denken, wenn er dich hat?«</p>
                <p>»Gehabt hat«, murmelte sie.</p>
                <p>»Frag die Hanne, was ich damals gesagt hab, wie ich bei der Nacht heimkommen bin
                   und gemeint hab, du machst mir die Kucheltür selber auf ... frag ...«</p>
@@ -2544,18 +2533,18 @@
                   plötzlicher Hoffnung darüber hinleuchtete, aber bald erlosch der fremde Schein,
                   und der alte schmerzliche Ausdruck kam wieder. Eine Weile wankte er noch den Weg,
                   den sie gelaufen war, und dachte an das, was sie gesagt und getan hatte; dann, als
-                  er die Stadttore <pb facs="#"/> hinter sich wußte, kletterte er auf einen jener
-                  Wagen, die bis über die letzten Häuser hinausfahren und darum stets vollgestopft
-                  sind mit armen müden Menschen, die ihre großen Bündel schwer schleppen können und
-                  so, mehr ihre Last als sich selbst, bequemer heimbringen.</p>
+                  er die Stadttore <pb/> hinter sich wußte, kletterte er auf einen jener Wagen, die
+                  bis über die letzten Häuser hinausfahren und darum stets vollgestopft sind mit
+                  armen müden Menschen, die ihre großen Bündel schwer schleppen können und so, mehr
+                  ihre Last als sich selbst, bequemer heimbringen.</p>
                <p>Der Wagen rollte schwerfällig den langen Weg hinaus, und der Leopold, der hoch
                   oben neben dem Kutscher saß, schwankte bei jedem Stoß wie ein Betrunkener, er
                   grübelte und träumte und achtete nicht darauf, daß unten im Wagen ein paar
                   Nachbarn von Zeit zu Zeit fast fürsorglich hinaufspähten, ob er noch fest auf
                   seinem Platze säße.</p>
                <p>
-                  <pb facs="#"/> »Für die Besoffenen hat unser Herrgott eigene Schutzengeln«, sagte
-                  der eine überzeugungsvoll.</p>
+                  <pb/> »Für die Besoffenen hat unser Herrgott eigene Schutzengeln«, sagte der eine
+                  überzeugungsvoll.</p>
                <p>»Auf eine schnelle Art loskriegen hat sie mich wollen, das ist alles«, schloß der
                   Leopold seine Gedankenkette, als der Wagen einen derben Ruck bekam und ihn
                   aufrüttelte aus seinem trübseligen Brüten. Da waren sie schon in der Nähe der
@@ -2584,9 +2573,9 @@
                   nicht so viel zu verwetten hat wie das arme Ding ... Warum tut sie es?... Warum
                   ist mir das früher nie eingefallen?«</p>
                <p>
-                  <pb facs="#"/> Der Mann konnte mit einem Male keine Ruhe finden, er dachte zurück,
-                  weit zurück bis in ihre Kindertage, immer schauten die ernsten wehmütigen Augen zu
-                  ihm herüber, überall tauchte der dunkle Kopf auf neben dem andern leuchtenden,
+                  <pb/> Der Mann konnte mit einem Male keine Ruhe finden, er dachte zurück, weit
+                  zurück bis in ihre Kindertage, immer schauten die ernsten wehmütigen Augen zu ihm
+                  herüber, überall tauchte der dunkle Kopf auf neben dem andern leuchtenden,
                   herrlichen. Immer stand sie im Hintergrunde, nur jetzt, jetzt saß sie da an der
                   ersten Stelle in seinem Hause, zuvörderst in seinem Leben, sie saß geduldig da und
                   wartete ... worauf? Daß die Lene heimkommt!</p>
@@ -2612,9 +2601,9 @@
                   ihn von der Wiese trennte, war altersgrau und morsch, und es bedurfte nur zweier
                   tüchtiger Fäuste, um sie zum Falle zu bringen, und dennoch wagten selbst die
                   schlimmsten Buben nicht daran zu rütteln. Woher die Kinder die Sage hatten, daß da
-                  drinnen ein Jude begraben <pb facs="#"/> liege, das wußte niemand, aber groß und
-                  klein sprach mit verständnisvollem Augenzwinkern im Flüstertone davon, sobald die
-                  Rede darauf kam. Der abgeplankte Raum hieß auch der Judengarten. Wenn auf der
+                  drinnen ein Jude begraben <pb/> liege, das wußte niemand, aber groß und klein
+                  sprach mit verständnisvollem Augenzwinkern im Flüstertone davon, sobald die Rede
+                  darauf kam. Der abgeplankte Raum hieß auch der Judengarten. Wenn auf der
                   Trockenwiese kein Grashalm mehr grün war, wenn oben auf den Feldern das Korn schon
                   schwer und goldgelb stand, wenn die hohen Fliederbüsche wie krachdürre versengte
                   Baumgerippe im Winde knarrten und klapperten, wenn der Herbst rundum Herr wurde,
@@ -2639,7 +2628,7 @@
                   rechts neben der Trockenwiese und neben den Feldern hinzog, den Berg hinanlief,
                   aber immer niederer und niederer wurde, bis sie oben die Gleiche mit einem geraden
                   Wege bekam. Dieser Weg führte dann noch weiter hinaus durch die Felder in ein
-                  Dorf, nach Währing, und dann <pb facs="#"/> ging es fort bis in den Wald. Ein paar
+                  Dorf, nach Währing, und dann <pb/> ging es fort bis in den Wald. Ein paar
                   armselige Hütten, die Wäscherburg, standen auf dem Hügelgrunde, den die Mauer wie
                   ein Damm abschloß und schützte; aus der Ferne sahen sich die niederen Häuser wie
                   Kinderspielzeug an, und die Mauer, die aus großen ungleichen Bruchsteinen war, wie
@@ -2668,10 +2657,10 @@
                   war es eine Türe, die sich irgendein Strolch zurechtgemacht hatte, der in dieser
                   grünen Wildnis ein geschütztes Nachtlager fand.</p>
                <p>
-                  <pb facs="#"/> Für die Hanne war dieses einsame Versteck ein Ort des Friedens, der
-                  Rast und Freude geworden. Da lehnte sie zuweilen mit zitternden Armen und
-                  pochenden Schläfen und horchte in das Gesumme und Gezirpe all der fliegenden und
-                  laufenden Tiere hinein und war so zufrieden, daß kein boshaftes oder neugieriges
+                  <pb/> Für die Hanne war dieses einsame Versteck ein Ort des Friedens, der Rast und
+                  Freude geworden. Da lehnte sie zuweilen mit zitternden Armen und pochenden
+                  Schläfen und horchte in das Gesumme und Gezirpe all der fliegenden und laufenden
+                  Tiere hinein und war so zufrieden, daß kein boshaftes oder neugieriges
                   Menschenauge sie bis hierher verfolgen konnte. Die Zweige boten ja ein dichtes,
                   schützendes Dach, und wenn der Wind durch die Blätter lief, so klang es oft wie
                   eine Melodie, die sie als ganz kleines Kind da oben auf dem Balkon singen gehört
@@ -2695,15 +2684,15 @@
                   da auf dem Judengrab ihre Kindheit gefunden, denn ganz im Kern ihres Wesens war
                   das lange, ernste, allzeit auf die Arbeit bedachte Mädchen ein Kind geblieben.</p>
                <p>
-                  <pb facs="#"/> Sie hatte nicht so viel Zeit gehabt, so wie die anderen zu spielen
-                  und das Stücklein Kindheit auszuleben; die Aufsicht und die Pflege der Kleineren
-                  hatte sie in Atem gehalten, ihr Spiel bestand in lärmenden Narreteien und war
-                  berechnet für die schreienden Jüngeren, die dann, anstatt zu weinen, schreiend
-                  lachten. Mit gleichalten Nachbarkindern kam sie meist nur im Flug zusammen, da
-                  hatte sie nicht Zeit, mitzutun bei jenem köstlichen, atemlosen Ringelreihetanz,
-                  dem Verstecken und Fangen. Später schloß sie sich an die Lene, aber spielen mochte
-                  die nicht, sie schlief nur oder ließ sich kämmen und putzen von der Hanne oder
-                  Märchen erzählen, die niemand so gut wußte wie die Hanne.</p>
+                  <pb/> Sie hatte nicht so viel Zeit gehabt, so wie die anderen zu spielen und das
+                  Stücklein Kindheit auszuleben; die Aufsicht und die Pflege der Kleineren hatte sie
+                  in Atem gehalten, ihr Spiel bestand in lärmenden Narreteien und war berechnet für
+                  die schreienden Jüngeren, die dann, anstatt zu weinen, schreiend lachten. Mit
+                  gleichalten Nachbarkindern kam sie meist nur im Flug zusammen, da hatte sie nicht
+                  Zeit, mitzutun bei jenem köstlichen, atemlosen Ringelreihetanz, dem Verstecken und
+                  Fangen. Später schloß sie sich an die Lene, aber spielen mochte die nicht, sie
+                  schlief nur oder ließ sich kämmen und putzen von der Hanne oder Märchen erzählen,
+                  die niemand so gut wußte wie die Hanne.</p>
                <p>Jetzt aber spielte das große Mädchen zuweilen da für sich selbst ganz allein in
                   dem abgeplankten Garten. Die Märchen, die im verstümmelten Gewände auf weiten
                   Umwegen in die Hütten der Armen kommen, die pochten einst mit weichen Fingern an
@@ -2722,12 +2711,12 @@
                   werden breit, und leuchtende Blumen schießen aus dem hohen Gras, und hinten öffnet
                   sich die Mauer bis hinauf zu dem Korbbalkon, der aber aus purem Gold und
                   glänzenden Edelsteinen ist. Durch das große offene Mauertor geht sie hinein, durch
-                  silberne und goldene <pb facs="#"/> Zimmer, und überall stehen die Ritter, die
-                  Damen, die Bauern und viel andere Leute, und alle warten auf den kleinen Prinzen,
-                  den seine Pflegemutter, die Hanne, aus der Blauen Gans herüberbringt in die
-                  verzauberte Burg. Oben auf dem goldenen Balkon da steht dem Prinzen sein Vater,
-                  dem alles gehört und der ganz mit Samt und Seide hergeputzt ist und voll Freude
-                  nach dem Kinde und derjenigen ausschaut, die sein Kind auf den Armen trägt. –</p>
+                  silberne und goldene <pb/> Zimmer, und überall stehen die Ritter, die Damen, die
+                  Bauern und viel andere Leute, und alle warten auf den kleinen Prinzen, den seine
+                  Pflegemutter, die Hanne, aus der Blauen Gans herüberbringt in die verzauberte
+                  Burg. Oben auf dem goldenen Balkon da steht dem Prinzen sein Vater, dem alles
+                  gehört und der ganz mit Samt und Seide hergeputzt ist und voll Freude nach dem
+                  Kinde und derjenigen ausschaut, die sein Kind auf den Armen trägt. –</p>
                <p>Mit leuchtenden Augen und erhobenem Kopf geht das junge Mädchen durch den kleinen
                   Garten dahin, sie hält den Knaben vor sich, als ob sie ihn jetzt und jetzt in
                   zugreifende Hände legen wollte, und als sie knapp vor der Mauer steht und in einer
@@ -2751,7 +2740,7 @@
                   kann, aber es hat halt niemals klappen wollen, sonst sagen die Blauen Gäns, ich
                   renn deinem Leopold nach«, spöttelte sie.</p>
                <p>
-                  <pb facs="#"/> Die Hanne überhörte den Scherz und frug wie aus dem Schlaf:</p>
+                  <pb/> Die Hanne überhörte den Scherz und frug wie aus dem Schlaf:</p>
                <p>»Warum suchst mich denn?«</p>
                <p>»Ich hab dir sagen wollen, daß ich einen Herrn Vetter hab, der einen ehrlichen
                   Mann zum Geldeinkassieren braucht und einen sucht. Der Leopold wird bei uns
@@ -2781,13 +2770,13 @@
                   blieb mit gesenktem Kopfe stehen und beschwichtigte das Kind, das wieder unruhig
                   wurde.</p>
                <p>»Vielleicht bist doch so g'scheit und nimmst das Zettel da«, sie griff in die
-                  Schürzentasche und gab ein zusammengelegtes <pb facs="#"/> Papier der Hanne, »da
-                  steht die Hausnummer und der Name von meinem Herrn Vetter drauf. – Gib's dem
-                  Poldl. Sag nicht, daß es von mir ist, es könnt ihm sonst die gute Suppe versalzen.
-                  Also, Kameradin, g'scheit sein. Was ich da Zeit verplausch! Wann dich aber der
-                  Lepold einmal – ah! was geht das mich an! – Behüt dich Gott!« Sie wollte der Hanne
-                  die Hand reichen, besann sich aber wieder, lachte ihr laut ins Gesicht und drehte
-                  sich jäh um.</p>
+                  Schürzentasche und gab ein zusammengelegtes <pb/> Papier der Hanne, »da steht die
+                  Hausnummer und der Name von meinem Herrn Vetter drauf. – Gib's dem Poldl. Sag
+                  nicht, daß es von mir ist, es könnt ihm sonst die gute Suppe versalzen. Also,
+                  Kameradin, g'scheit sein. Was ich da Zeit verplausch! Wann dich aber der Lepold
+                  einmal – ah! was geht das mich an! – Behüt dich Gott!« Sie wollte der Hanne die
+                  Hand reichen, besann sich aber wieder, lachte ihr laut ins Gesicht und drehte sich
+                  jäh um.</p>
                <p>Rasch sprang sie durch das Gras, das ihr bis an die Hüften reichte, duckte sich,
                   um den niedersten Ästen auszuweichen, spähte erst durch ein Astloch hinaus, ob
                   niemand in der Nähe sei, dann rückte sie gewandt die Plankenbretter auseinander,
@@ -2817,8 +2806,8 @@
                <p>Nach dieser frisch gejodelten Lebensweisheit schlenderte die Marie weiter, und wie
                   eine heitere Mahnung klang ihr Gesang zurück in den verzauberten Garten.</p>
                <p>Die Hanne hielt den Zettel fest in der Hand, und als sie die Stimme der Sängerin
-                  nimmer hörte, stolperte sie verschüchtert <pb facs="#"/> und verschreckt den
-                  bekannten Weg, schlüpfte durch die Planke und lief heim.</p>
+                  nimmer hörte, stolperte sie verschüchtert <pb/> und verschreckt den bekannten Weg,
+                  schlüpfte durch die Planke und lief heim.</p>
                <p>»Da bring ich dir vielleicht eine gute Stell, Lepold, gelt, du gehst hin und
                   schaust's an?«</p>
                <p>Ohne viel danach zu fragen, woher die Hanne den Zettel brachte, nahm ihn der
@@ -2847,13 +2836,13 @@
                   seiner Brust, und ob er sich auch rechts und links wälzte, er konnte es nicht
                   abschütteln.</p>
                <p>
-                  <pb facs="#"/> Manchmal schrie das Kind auf oder lallte im Traum, dann horchte er,
-                  aber er hörte keine Bewegung der Hanne, obgleich er wußte, daß sie es war, die den
-                  Kleinen so rasch beruhigt hatte. Mit spitzfindiger Grübelei setzte er sich
-                  auseinander, daß ihm sein Kind so gleichgültig sei wie die Pflegerin, aber die
-                  zwei hatten sich so aneinander gewöhnt, daß er froh sein konnte darüber, er sei ja
-                  überflüssig da. Und von Tag zu Tag wurde der Kleine ihm ähnlicher ... wenn er
-                  wenigstens das Gesicht seiner schönen Mutter hätte, sagte sich der Leopold.</p>
+                  <pb/> Manchmal schrie das Kind auf oder lallte im Traum, dann horchte er, aber er
+                  hörte keine Bewegung der Hanne, obgleich er wußte, daß sie es war, die den Kleinen
+                  so rasch beruhigt hatte. Mit spitzfindiger Grübelei setzte er sich auseinander,
+                  daß ihm sein Kind so gleichgültig sei wie die Pflegerin, aber die zwei hatten sich
+                  so aneinander gewöhnt, daß er froh sein konnte darüber, er sei ja überflüssig da.
+                  Und von Tag zu Tag wurde der Kleine ihm ähnlicher ... wenn er wenigstens das
+                  Gesicht seiner schönen Mutter hätte, sagte sich der Leopold.</p>
                <p>Der Mann fühlte sich ganz frei, vogelfrei und doch an allen Enden gebunden. Mit
                   vorwurfsvoller Neugierde sah er zu und wartete, wie lange das junge Mädchen
                   stillschweigend dieses freudlose Zusammenleben mit ihm ertragen werde. Manchmal
@@ -2875,12 +2864,11 @@
                <p>Den Buben in Pflege geben zu ihr, zu dem Mädel, meinetwegen, sie sind so
                   aneinander gewöhnt ... und dann allein aus der Blauen Gans wandern! Dann könnte
                   man wieder frei Atem holen ... Ja aber ... aber die alte Frau Walter! Die ist des
-                  Teufels, die nimmt ihre Tochter nimmer heim, das <pb facs="#"/> hat sie
-                  verschworen, und dumme, böse Weiber halten alles, was sie schwören. Allein leben
-                  kann die Hanne doch auch nicht, jeder Lump könnte keck nach ihr langen, seit sie
-                  im Verruf ist mit einem verheirateten Mann ... Rechts und links zugesperrt, flieg
-                  nur, Vogel mit den gestutzten Flügeln! Alles so verquickt und so verworren, kein
-                  Ausweg ...</p>
+                  Teufels, die nimmt ihre Tochter nimmer heim, das <pb/> hat sie verschworen, und
+                  dumme, böse Weiber halten alles, was sie schwören. Allein leben kann die Hanne
+                  doch auch nicht, jeder Lump könnte keck nach ihr langen, seit sie im Verruf ist
+                  mit einem verheirateten Mann ... Rechts und links zugesperrt, flieg nur, Vogel mit
+                  den gestutzten Flügeln! Alles so verquickt und so verworren, kein Ausweg ...</p>
                <p>Seit die Brotsorge weggefallen war, trug der Leopold den Kopf wieder ein wenig
                   höher, und wenn er dem Mädchen das Haushaltsgeld am Samstag hinlegte, so tat er
                   dies viel bedachtsamer als früher bei seinem Weibe, er schaute sich auch ihr
@@ -2904,9 +2892,9 @@
                   da er nun wußte, wo sie daheim war, so lief er die halben Nächte unter ihrem
                   Fenster hin und her. Sie war wirklich ein ehrbares Weib geblieben, warum also
                   wollte sie nicht mehr zu ihm zurückkommen? Die ganze Gasse, in der sie wohnte,
-                  kannte ihn <pb facs="#"/> schon, die Leute wußten jetzt, daß jenes schöne,
-                  rothaarige Mädchen eigentlich eine Frau sei und der »einarmige Vagabund«, der
-                  immer da herumlungerte, ihr Mann, ein Nichtsnutz, den sie davongejagt hatte.</p>
+                  kannte ihn <pb/> schon, die Leute wußten jetzt, daß jenes schöne, rothaarige
+                  Mädchen eigentlich eine Frau sei und der »einarmige Vagabund«, der immer da
+                  herumlungerte, ihr Mann, ein Nichtsnutz, den sie davongejagt hatte.</p>
                <p>Das erzählten sich die Mägde in den Kaufläden und die Leute, die an den Fenstern
                   standen und ihn hin und her wandern sahen, wenn die Lene daheim war. Die Zeit, wo
                   er sich darum gekümmert hatte, wie er selbst aussehe, war auch vorbei; wenn ihn
@@ -2933,7 +2921,7 @@
                <p>»So höre mich an. Ich will dich nicht mehr sehen, verstehst du mich? Du bringst
                   nur Schande über mich.«</p>
                <p>
-                  <pb facs="#"/> »Lene!«</p>
+                  <pb/> »Lene!«</p>
                <p>»Wenn du mir noch ein einziges Mal in den Weg kommst, so schiebe ich dir einen
                   Riegel vor. – Ich reise fort.« Jählings packte sie der Leopold am Arme, zog sie
                   heran und fragte tonlos: »Fort?... Wohin?!«</p>
@@ -2961,9 +2949,9 @@
                   Tropfen rannen über ihre Wangen.</p>
                <p>»Freilich, jetzt sehe ich, daß es dir ernst ist ... Du vergißt sogar, daß das
                   Weinen Falten macht ... vergißt auf deine Schönheit sogar ...«, murmelte der
-                  Leopold und schaute sein <pb facs="#"/> Weib verwundert an. »Ich hab immer noch
-                  gemeint, es könnt einen Weg geben, der uns zusammenführt. Keinen mehr!... Sollst
-                  Ruh haben, ich geb dir mein Soldatenwort.«</p>
+                  Leopold und schaute sein <pb/> Weib verwundert an. »Ich hab immer noch gemeint, es
+                  könnt einen Weg geben, der uns zusammenführt. Keinen mehr!... Sollst Ruh haben,
+                  ich geb dir mein Soldatenwort.«</p>
                <p>Stumm gingen die beiden noch eine Weile nebeneinanderher, mit einem Male aber
                   schlang der Leopold seinen Arm um ihren Hals, küßte sie hastig auf die Wangen, die
                   Augen, den Mund und taumelte fort.</p>
@@ -2992,8 +2980,8 @@
                <p>»Ich hab dich bitten wollen, weißt, wegen dem Polderl, geh doch wieder in dein
                   Geschäft.«</p>
                <p>Sie zitterte, daß sie nicht weiterreden konnte, endlich aber übermannte es sie,
-                  und wie ein verzweifelter Schrei klang es, <pb facs="#"/> als sie fragte: »Was muß
-                  ich denn tun oder sagen, daß du mir zulieb auch einmal etwas tust?«</p>
+                  und wie ein verzweifelter Schrei klang es, <pb/> als sie fragte: »Was muß ich denn
+                  tun oder sagen, daß du mir zulieb auch einmal etwas tust?«</p>
                <p>Das gab dem Mann einen Ruck, er ließ den einen Fuß von dem andern gleiten, beugte
                   den Oberkörper vor, stützte seine Hand aufs Knie und schaute die Hanne prüfend
                   an.</p>
@@ -3022,9 +3010,9 @@
                   durchempfunden, jede Qual, die er lautlos getragen, jede Hoffnung, die er begraben
                   hatte ... Er sprach, als ob sie gar nicht so leichenhaft dort im Halbdunkel säße,
                   als ob er allein wäre und eine verweinte Beichte seiner Schuld und seiner Pein
-                  hinsagte vor einem unsichtbaren, gleichfalls <pb facs="#"/> wehrlosen Wesen, das
-                  nichts mehr gutmachen kann, nicht mehr aufhelfen kann, das nur hineinschauen soll
-                  in ein zermalmtes, verblutendes Menschenherz.</p>
+                  hinsagte vor einem unsichtbaren, gleichfalls <pb/> wehrlosen Wesen, das nichts
+                  mehr gutmachen kann, nicht mehr aufhelfen kann, das nur hineinschauen soll in ein
+                  zermalmtes, verblutendes Menschenherz.</p>
                <p>In dem großen Gemache erwachten klagende Stimmen allerorts ... wie erweckt von dem
                   haltlosen Schluchzen des Mannes, so wurden alle Erinnerungen aus alten Tagen
                   lebendig, und ein leises Weinen zitterte in allen Ecken, in allen Geräten, in
@@ -3036,8 +3024,8 @@
                   niederwirft ... ich weiß es nicht, aber ich kann nimmer leben ohne mein Weib, das
                   siehst du doch jetzt ein, Mädel, gelt?« fragte der Leopold am Ende.</p>
                <p>
-                  <pb facs="#"/> »Ja – freilich – das sehe ich jetzt ein –«, erwiderte die Hanne mit
-                  fester Stimme.</p>
+                  <pb/> »Ja – freilich – das sehe ich jetzt ein –«, erwiderte die Hanne mit fester
+                  Stimme.</p>
                <p>Sie redeten so zueinander, aber keines konnte das andere sehen. Das Mädchen hatte
                   den Vorhang niedergelassen und sich in die dunkle Ecke gesetzt neben den Kleinen,
                   als der Mann zu erzählen anhub, und dort war sie unbeweglich sitzen geblieben und
@@ -3062,11 +3050,11 @@
                   Schränke, der Tisch, das Bettgestell waren weiß lackiert und mit blauen Streifen
                   gerändert, und die Tapete war weißgrau mit blauen Blümchen.</p>
                <p>Mitten in diesem verwirklichten Traum saß die glückselige Lene, sogar der weiße
-                  Schlafrock mit den gestickten Falbeln <pb facs="#"/> und den blauen Schleifen
-                  gehörte dazu. Wenn sie die Nadel rasten ließ und aufblickte, da wurde das schöne
-                  Gesicht noch reizender durch den Ausdruck des innerlichsten, zufriedensten
-                  Behagens, aber sie ließ sich nie viel Zeit, ihre Herrlichkeiten zu genießen, sie
-                  nähte wieder emsig weiter.</p>
+                  Schlafrock mit den gestickten Falbeln <pb/> und den blauen Schleifen gehörte dazu.
+                  Wenn sie die Nadel rasten ließ und aufblickte, da wurde das schöne Gesicht noch
+                  reizender durch den Ausdruck des innerlichsten, zufriedensten Behagens, aber sie
+                  ließ sich nie viel Zeit, ihre Herrlichkeiten zu genießen, sie nähte wieder emsig
+                  weiter.</p>
                <p>Seit sie einmal als Kind das Schlafzimmer einer jungen Dame gesehen hatte, seit
                   sie die Kammerfrau, für die der Lene ihre Mutter die Wäsche wusch, in das Stübchen
                   gucken ließ, wollte ihr das Weiß mit den blauen Blümchen nimmer aus dem Sinn. War
@@ -3090,8 +3078,8 @@
                   allerlei farbenschreiendem, niederem Unkraut«.</p>
                <p>Die Lene las nämlich auch jetzt an Sonn- und Feiertagen manchmal Romane, und wenn
                   sie dann darüber nachzudenken versuchte, so machte sie zwischen sich und der
-                  Heldin <pb facs="#"/> und dem Leben in der Blauen Gans Vergleiche und schwang sich
-                  zu großen Empfindungen auf, die darin zusammenflossen, daß sie ehemals sehr
+                  Heldin <pb/> und dem Leben in der Blauen Gans Vergleiche und schwang sich zu
+                  großen Empfindungen auf, die darin zusammenflossen, daß sie ehemals sehr
                   mißhandelt war. Jetzt war sie schon auf einem Standpunkt, wo sie das weiße
                   Lilienbewußtsein ohne jeden rückdenkenden Vergleich trug, der weißgestickte
                   Mullschlafrock machte sie zu einer Dame, und ihre Tugend war über alle Zweifel,
@@ -3118,8 +3106,8 @@
                <p>Da klopfte es zum zweiten Male, lauter, dringlicher. »Herein!«</p>
                <p>Langsam geht die Türe auf, nur ein Stückchen – und durch den engen Spalt schiebt
                   sich mit gesenktem Kopfe eine schmale zaghafte Gestalt. Sie drückt mit den
-                  Ellenbogen die Türe <pb facs="#"/> wieder hinter sich zu, ohne daß sie sich
-                  umwendet, dafür aber lehnt sie sich mit den Schulterblättern rasch an.</p>
+                  Ellenbogen die Türe <pb/> wieder hinter sich zu, ohne daß sie sich umwendet, dafür
+                  aber lehnt sie sich mit den Schulterblättern rasch an.</p>
                <p>Die Lene reißt die Augen weit auf, als ob das leichenhafte Geschöpf mit den
                   dunklen Haarsträhnen, die an ihrer Stirne kleben, ein Gespenst wäre, dann zieht
                   sie die Augen klein zusammen, macht ihre vornehmste Miene und will reden, als aber
@@ -3149,10 +3137,10 @@
                   kostbaren weiß-blauen Zimmer um. »In das Loch dort zurück? – Ich hab es ihm
                   gesagt, und er muß närrisch sein, wenn er glaubt, ich komme.«</p>
                <p>
-                  <pb facs="#"/> »Er glaubt es nicht – er weiß, daß du dein Wort hältst«, beteuerte
-                  die Hanne und richtete sich an einem Stuhl wieder auf, »und darum will er sich
-                  erschießen – heut – morgen – übermorgen – wer weiß es? – Komm, um Gottes
-                  Barmherzigkeit, komm, eh' es zu spät ist.«</p>
+                  <pb/> »Er glaubt es nicht – er weiß, daß du dein Wort hältst«, beteuerte die Hanne
+                  und richtete sich an einem Stuhl wieder auf, »und darum will er sich erschießen –
+                  heut – morgen – übermorgen – wer weiß es? – Komm, um Gottes Barmherzigkeit, komm,
+                  eh' es zu spät ist.«</p>
                <p>»Hat er dich hergeschickt – und hast dich getraut, zu der Frau von deinem Schatz
                   zu kommen?« fragte die Lene mißtrauisch.</p>
                <p>»Red, was du willst – in allem hast du recht – aber nur glaub, daß er mich nicht –
@@ -3164,7 +3152,7 @@
                <p>»Ja, recht hast du. Nimmer wirst mich sehen, und nichts wirst von mir hören – aber
                   geh, geh, sonst könntest du zu spät kommen.«</p>
                <p>
-                  <pb facs="#"/> »Wer es sagt, der tut es nicht«, murrte die Frau abwehrend.</p>
+                  <pb/> »Wer es sagt, der tut es nicht«, murrte die Frau abwehrend.</p>
                <p>»Nimm es auf dich!« rief die Hanne erschüttert, »du kennst den Leopold, der tut's!
                   – Mehr als dich bitten kann ich nicht. Soll ich noch was tun? Weißt du was, ich
                   will dir Händ und Füß küssen ... Erbarm dich.«</p>
@@ -3191,8 +3179,8 @@
                   dem Buben bleiben. Ich bleibe da. Sein Weib will ich nimmer sein. »Hätt ich
                   gewußt, was heiraten heißt, wär ich es nie worden. Und jetzt erst nach dir!«</p>
                <p>
-                  <pb facs="#"/> »Recht hast du – du bist so gut! – Darf ich ihm sagen, daß du –«,
-                  flehte das Mädchen.</p>
+                  <pb/> »Recht hast du – du bist so gut! – Darf ich ihm sagen, daß du –«, flehte das
+                  Mädchen.</p>
                <p>»Eine Stelle will ich ihm auch verschaffen bei uns im Geschäft«, betonte die Frau
                   hochmütig und doch geschmeichelt von der Wichtigkeit, die jetzt jedes Wort von ihr
                   hatte.</p>
@@ -3226,8 +3214,7 @@
                   Augenblicke wäre ihr das Mädchen mit den großen starren Augen am liebsten um den
                   Hals gefallen, aber sie hatte nicht den Mut dazu.</p>
                <p>
-                  <pb facs="#"/> »So, da hast du – laß dich nimmer vor mir sehen.« »Nimmer –
-                  nimmer!«</p>
+                  <pb/> »So, da hast du – laß dich nimmer vor mir sehen.« »Nimmer – nimmer!«</p>
                <p>»Und werde ein ehrliches Mädel, wenn es noch möglich ist.«</p>
                <p>»Vergelt dir Gott alles Gute, was du in der Stund getan hast«, erwiderte die
                   Hanne, und ihre Augen leuchteten, ihr Gesicht glühte, als sie den Brief in ihr
@@ -3254,9 +3241,9 @@
                   auf.</p>
                <p>»Meinst?« erwiderte sie und lächelte verstört, »willst etwas Neues von der Lene
                   hören?« frug sie vorsichtig. Ein jähzorniges Aufblitzen seiner Augen war die
-                  Antwort. »Ich hab sie gesehen«, sagte das Mädchen zögernd, »und ich <pb facs="#"/>
-                  meine, du hast die ganze Sache doch ein wenig zu scharf angepackt.« Sie stockte
-                  wieder und streckte, ohne es zu wollen, die Hände nach ihm aus, so als ob sie ihn
+                  Antwort. »Ich hab sie gesehen«, sagte das Mädchen zögernd, »und ich <pb/> meine,
+                  du hast die ganze Sache doch ein wenig zu scharf angepackt.« Sie stockte wieder
+                  und streckte, ohne es zu wollen, die Hände nach ihm aus, so als ob sie ihn
                   zurückhalten müßte, aber schnell ließ sie die Arme sinken, als sie in sein
                   starres, wie von einem Krampf verzogenes Gesicht schaute.</p>
                <p>»Red nicht mehr von ihr, ich bin fertig.«</p>
@@ -3282,9 +3269,9 @@
                   Anderes konnte sie seinem Eigenwillen nicht entgegensetzen.</p>
                <p>Hat sein Kopf ihn auf einen guten Weg geführt?... Ei, da stand er ja schon am Ende
                   ... Der Finger warnte und drohte nun vergebens. Alt's Weib, du hast recht gehabt;
-                  nicht alleweil hat dein dürrer Finger den guten Weg weisen können<pb facs="#"/>
-                  ... und warum hat denn dein Kind wirklich den eigenwilligen Kopf von seinem Vater
-                  und das weiche, liebereiche Herz von dir?</p>
+                  nicht alleweil hat dein dürrer Finger den guten Weg weisen können<pb/> ... und
+                  warum hat denn dein Kind wirklich den eigenwilligen Kopf von seinem Vater und das
+                  weiche, liebereiche Herz von dir?</p>
                <p>»Studier nicht alleweil so viel nach, Leopold. Die Lene ...« »Aber Mädel, bleibst
                   denn dein Lebtag bei all deiner Gutheit voll Unverstand?« unterbrach sie der Mann
                   mit einem flehenden Blick.</p>
@@ -3311,8 +3298,8 @@
                   b'halten können – für zwei kommt's billiger ... Fleißig sein muß ich halt, und
                   nach und nach, wenn die Nachbarn erfahrn, daß du wieder ein glücklicher Mensch
                   bist, werden sie auch mich in Ruh lassen. – So mein ich, werd ich halt langsam alt
-                  werden und recht <pb facs="#"/> froh sein, daß du und der Bub am rechten Ort
-                  seid's und daß du zufrieden bist.«</p>
+                  werden und recht <pb/> froh sein, daß du und der Bub am rechten Ort seid's und daß
+                  du zufrieden bist.«</p>
                <p>»Was heißt denn das alles?« frug der Leopold erstaunt, soviel hatte er das Mädchen
                   noch nie reden gehört. »Das ist ja schon helle Narrheit! Was redst du immer nur
                   von mir?«</p>
@@ -3340,10 +3327,10 @@
                   Ausgespanntheit, aus dem gedankenlosen Genuß des Lebendigwerdens, des
                   Gerettetseins kam der kurze weh nachklingende Jubelruf: »Oh!... oh!... oh!...«</p>
                <p>Das erfaßte sie nicht. Für sie war es ein Jammerruf, sie stand dort und horchte
-                  wie mit gebundenen Händen und Füßen. <pb facs="#"/> Warum seufzt und jammert er,
-                  anstatt zu lachen und zu springen – was soll ich jetzt noch tun? fragte sie sich
-                  geängstigt, und sie fürchtete sich, daß ihn vielleicht seine Krankheit wieder
-                  angepackt hat, seine Schwäche. »Lepold!«</p>
+                  wie mit gebundenen Händen und Füßen. <pb/> Warum seufzt und jammert er, anstatt zu
+                  lachen und zu springen – was soll ich jetzt noch tun? fragte sie sich geängstigt,
+                  und sie fürchtete sich, daß ihn vielleicht seine Krankheit wieder angepackt hat,
+                  seine Schwäche. »Lepold!«</p>
                <p>Er rührte sich, richtete sich auf und streckte ihr die Hand entgegen.</p>
                <p>»Komm her, du!... du! – - – Meiner Seel, Mädel!... Du brauchst nur zwei weiße
                   Flügel noch ...« Er legte seinen Arm um ihren Nacken, drückte sie fest an seine
@@ -3367,7 +3354,7 @@
                   vollbringen konnte, saß sie da und schilderte die Lene, wie sie träumte, daß sie
                   sein sollte, vielleicht noch werden würde – eigentlich aber wie sie, die Hanne,
                   unbewußt es selbst war.</p>
-               <pb facs="#"/>
+               <pb/>
                <p>»In aller Früh morgen pack ich meinen Buben auf und geh zu ihr, gelt? Damit ich
                   sie noch daheim finde, ehe sie in den Salon geht.«</p>
                <p>»Ja freilich«, sagte die Hanne ebenso eifrig, »ich richte dir dein' Koffer und dem
@@ -3396,9 +3383,9 @@
                   für den Mann. Als sie mit der gefüllten Flasche zurückkam, frug der Hausmeister:
                   »Na, ist heut Kirchtag bei euch, Hannerl?«</p>
                <p>
-                  <pb facs="#"/> »Das nicht, aber – Abschied. Morgen müßt Ihr so gut sein und dem
-                  Lepold sein Koffer und Kisten zu der Lene führen, er geht wieder zu seinem Weibe«,
-                  erwiderte die Hanne ernsthaft.</p>
+                  <pb/> »Das nicht, aber – Abschied. Morgen müßt Ihr so gut sein und dem Lepold sein
+                  Koffer und Kisten zu der Lene führen, er geht wieder zu seinem Weibe«, erwiderte
+                  die Hanne ernsthaft.</p>
                <p>»Was du nicht sagst! Und sie nimmt ihn?« fragte er zweifelnd.</p>
                <p>»Sie hat ihm ja selber geschrieben, daß er kommen soll.« »So? – Und das Kind nimmt
                   er mit? Und dich?« schrie der Mann und lachte roh.</p>
@@ -3422,12 +3409,12 @@
                   spiegelte und mit heißem Blick in alle Fenster lugte, da setzte sich die Hanne
                   still nieder und nahm Abschied von dem Kinde und von dem Vater. – Es war ein
                   stummer, tränenloser Abschied, sie betrachtete die beiden gleich einem hilflosen
-                  Tier, dem eine rohe Hand die <pb facs="#"/> ganze Brut genommen und das Nest
-                  zerstört hat – dort liegt das Letzte, und die Hand greift noch einmal – und es
-                  bleibt gar nichts mehr zurück als Schmerz. – Was wird die kleine, weiße Hand, von
-                  der sie sein Leben erbettelt hat, mit den beiden beginnen? – Da fällt ein
-                  Sonnenstrahl über das schlafheiße Gesicht des Leopold. Nimmer, nimmer sehen! – Er
-                  geht fort für immer.</p>
+                  Tier, dem eine rohe Hand die <pb/> ganze Brut genommen und das Nest zerstört hat –
+                  dort liegt das Letzte, und die Hand greift noch einmal – und es bleibt gar nichts
+                  mehr zurück als Schmerz. – Was wird die kleine, weiße Hand, von der sie sein Leben
+                  erbettelt hat, mit den beiden beginnen? – Da fällt ein Sonnenstrahl über das
+                  schlafheiße Gesicht des Leopold. Nimmer, nimmer sehen! – Er geht fort für
+                  immer.</p>
                <p>Die Sonne liegt heiß auf seiner Stirne, darum fährt der Leopold auf, fährt mit der
                   Hand über den Kopf, sinnt eine Weile nach, erblickt den vollgestopften Koffer, die
                   Kiste, und er lacht dann hell auf, denn er meinte schon, er hätte die schöne
@@ -3453,7 +3440,7 @@
                <p>»Wahr ist es«, erwiderte der Leopold kurz.</p>
                <p>»Wann?«</p>
                <p>
-                  <pb facs="#"/> »Gegen Mittag.«</p>
+                  <pb/> »Gegen Mittag.«</p>
                <p>»Zu deinem Weib?«</p>
                <p>»Ja.«</p>
                <p>»Gut, daß die Wirtschaft da ein End hat. War eine Schand für unser Haus«, brummte
@@ -3484,7 +3471,7 @@
                <p>»Renn ihm nach, deinem Schatz!«</p>
                <p>»Er laßt sich nimmer halten, gelt?«</p>
                <p>
-                  <pb facs="#"/> »Hast dir eingebildet, du bist schöner als die Lene?«</p>
+                  <pb/> »Hast dir eingebildet, du bist schöner als die Lene?«</p>
                <p>»Aus der Tanz.«</p>
                <p>So schwirrte es rechts und links um sie, und sie hörte es doch gleichsam aus
                   weiter, weiter Ferne – sie lief in die Stube und eilte wie suchend zu dem Platz am
@@ -3511,8 +3498,8 @@
                <p>»Hab lang da auf dich g'wart'! Ich hab g'wußt, du wirst daherkommen, dich
                   ausheulen, weil dein Schatz ein Kalfakter ist und ...«</p>
                <p>Doch die Strohschneider-Marie konnte nicht ausreden, sie sprang auf und breitete
-                  die Arme aus, denn das lange Mädchen <pb facs="#"/> fiel gerade, wie es stand, auf
-                  den Hügel und regte sich nicht.</p>
+                  die Arme aus, denn das lange Mädchen <pb/> fiel gerade, wie es stand, auf den
+                  Hügel und regte sich nicht.</p>
                <p>»So, da hab ich die Bescherung«, seufzte die Kneipensängerin und öffnete behutsam
                   das Kleid der Hanni, setzte sich zu ihren Häupten und nahm den Kopf der
                   Ohnmächtigen in ihren Schoß. Fast zärtlich strich sie ihr das Haar aus der Stirne,
@@ -3539,8 +3526,8 @@
                   von einem Bildhauer mit dem Daumen in weichen Lehm gedrückt, unfertig und halb
                   verwischt.</p>
                <p>Aus der schmalen Brustwunde sickerte noch das Blut, als die Menschen in das
-                  blau-weiße Zimmer stürzten und ihn tot fanden<pb facs="#"/> . Sein Taschenmesser
-                  lag neben ihm, er hatte sich gut getroffen damit.</p>
+                  blau-weiße Zimmer stürzten und ihn tot fanden<pb/> . Sein Taschenmesser lag neben
+                  ihm, er hatte sich gut getroffen damit.</p>
                <p>»Warum?« fragten die Leute seine junge schöne Witwe. Die Leni wurde bleich und
                   rot, zitterte und stammelte züchtig: »Weil ich ihm hab sagen müssen, daß ich
                   nimmer sein Weib sein kann, nachdem er meiner falschen Freundin ihr Schatz war.
@@ -3553,7 +3540,7 @@
                   Lampe aus und schaut hinauf zu der bleichen Mondscheibe, die in dem grauen
                   Morgenhimmel verschwimmt.</p>
                <p>
-                  <pb facs="#"/> »Jungfer Murter!« sagt er leise und weich, »bist schon munter?«</p>
+                  <pb/> »Jungfer Murter!« sagt er leise und weich, »bist schon munter?«</p>
                <p>»Ich hab nicht g'schlafen, Kind.«</p>
                <p>»Und ganz g'nau hast du dem einsamen Spatz die G'schicht erzählt?«</p>
                <p>»Freilich. So wie's halt war. – G'hört und g'sehn hat er ja selber auch viel, dein
@@ -3582,10 +3569,10 @@
                <p>»Aber Bub! Warum?« stammelt die Hanni erschreckt. »Weil sie gelogen hat, weil sie
                   gesagt hat, daß du der Schatz von meinem Vater warst, Jungfer Mutter!«</p>
                <p>
-                  <pb facs="#"/> Es ist mit einmal, als sei jeder Laut erstorben in der Natur und in
-                  den vier Wänden da. Und jetzt ein verschämtes, schwaches, bitterliches Weinen –
-                  und gleich danach das atemlose Schweigen wieder – und nun, jählings, ungestüm,
-                  unaufhaltsam, ein widerstandsloses, befreiendes Schluchzen.</p>
+                  <pb/> Es ist mit einmal, als sei jeder Laut erstorben in der Natur und in den vier
+                  Wänden da. Und jetzt ein verschämtes, schwaches, bitterliches Weinen – und gleich
+                  danach das atemlose Schweigen wieder – und nun, jählings, ungestüm, unaufhaltsam,
+                  ein widerstandsloses, befreiendes Schluchzen.</p>
                <p>»O mein Herr und Gott! – - Lepold!... Kind!... Wer hat dir die Wahrheit gesagt?...
                   Du bist der erste, der das weiß und glaubt!... Wer hat dir's g'sagt ... wer!?«</p>
                <p>»Ach geh! – Wer? – Mein kleiner Finger – und der Vollmond –«, scherzt der Leopold,
@@ -3611,7 +3598,7 @@
                   genau so g'schrieben, wie ich's ihm angesagt hab, und nachher«, sagt sie
                   sinnend.</p>
                <p>
-                  <pb facs="#"/> »Nachher?«</p>
+                  <pb/> »Nachher?«</p>
                <p>»Unser Herrgott! Der hat mich allerweil g'sund sein lassen, mir Arbeit geben und
                   dich wieder heimg'schickt. Das andere hat halt so sein müssen.«</p>
                <p>»Alte! Du redst wie die türkischen Bosniaken!«</p>

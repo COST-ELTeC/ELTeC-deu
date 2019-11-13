@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../WG1/distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../WG1/distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de" xml:id="DEU058">
    <teiHeader>
       <fileDesc>
@@ -47,11 +47,11 @@
    </teiHeader>
 
    <text>
-      
+
       <body>
          <div type="chapter">
             <head>
-               <pb facs="#"/> 1</head>
+               <pb/> 1</head>
             <p>Fräulein Lotti war soeben erwacht. Die Repetieruhr, die an einem zart geschweiften
                Schnörkel am rechten Kopfende des altertümlichen, reich geschnitzten Bettes hing,
                schlug mit zartem Klange sechsmal an. Gleich darauf begann die deutsche Stockuhr,
@@ -74,9 +74,9 @@
                wie eine Schmach empfunden, war freilich vorbei. Jetzt, mit fünfunddreißig Jahren als
                ehrenfeste alte Jungfer, hatte sie längst aufgehört, ihr Äußeres gehässig
                anzufeinden, aber so ganz erloschen war das letzte Fünkchen Eitelkeit in ihrem
-               Frauenherzen doch nicht, wenn es sich auch nur in dem Gedanken <pb facs="#"/>
-               aussprach: Es ist ein Glück, daß ich anderen anders vorkomme als mir selbst, sonst
-               könnte mich niemand leiden.</p>
+               Frauenherzen doch nicht, wenn es sich auch nur in dem Gedanken <pb/> aussprach: Es
+               ist ein Glück, daß ich anderen anders vorkomme als mir selbst, sonst könnte mich
+               niemand leiden.</p>
             <p>Nach beendeter Toilette begab sie sich aus dem Schlaf- in das Wohnzimmer. Es war ein
                trauliches Gemach, dessen Fenster auf einen kleinen Platz sah – einen sehr kleinen,
                denn er wurde von nur vier Häusern gebildet; doch war er luftig und hell und gewährte
@@ -107,19 +107,19 @@
                zu ihrem Kreise. Der Nachbar zur Linken erhält ihren ersten Gruß, dann kommen die
                Nachbarn zur Rechten. Jener, ein gebrechliches Männchen, engbrüstig und kahl, das
                Urbild eines alten Damenschneiderleins, diese, drei frische Jungen, mit runden, dank
-               der <pb facs="#"/> frühen Morgenstunde sauber gewaschenen Gesichtern. Prächtige
-               Bursche, noch zu jung für die Schule und doch beinahe schon der weiblichen Zucht
-               entwachsen; mit Worten wenigstens richtet die Mutter nichts mehr bei ihnen aus,
-               obwohl sie dieselben nicht spart, die brave Frau. Der Mann und Vater hat seine
-               Werkstätte nebenan in den Hof hinaus und plagt sich an der Drehbank vom Morgen bis
-               zum Abend. Er ist Pfeifenschneider, aber im Rohre scheint er nicht zu sitzen und
-               Überfluß hat er nur an Kindersegen. Die drei Erstgeborenen haben angefangen, sich um
-               den besten Platz am Fenster zu balgen, die Mutter tritt unter sie, ein zweijähriges
-               Mädchen auf dem Arme, zieht den Pantoffel vom Fuße und schlägt wacker auf die Buben
-               los. Der Pantoffel fällt, gleich der Hand des Schicksals, ohne Unterschied auf das
-               Haupt des Gerechten wie des Ungerechten, und bald herrschen Ruhe und Frieden. Die
-               neuen Horatier liegen still nebeneinander im Fenster und beobachten die grauen
-               Tauben, mit innigstem Verständnis für ihre Rauflust und ihren guten Appetit.</p>
+               der <pb/> frühen Morgenstunde sauber gewaschenen Gesichtern. Prächtige Bursche, noch
+               zu jung für die Schule und doch beinahe schon der weiblichen Zucht entwachsen; mit
+               Worten wenigstens richtet die Mutter nichts mehr bei ihnen aus, obwohl sie dieselben
+               nicht spart, die brave Frau. Der Mann und Vater hat seine Werkstätte nebenan in den
+               Hof hinaus und plagt sich an der Drehbank vom Morgen bis zum Abend. Er ist
+               Pfeifenschneider, aber im Rohre scheint er nicht zu sitzen und Überfluß hat er nur an
+               Kindersegen. Die drei Erstgeborenen haben angefangen, sich um den besten Platz am
+               Fenster zu balgen, die Mutter tritt unter sie, ein zweijähriges Mädchen auf dem Arme,
+               zieht den Pantoffel vom Fuße und schlägt wacker auf die Buben los. Der Pantoffel
+               fällt, gleich der Hand des Schicksals, ohne Unterschied auf das Haupt des Gerechten
+               wie des Ungerechten, und bald herrschen Ruhe und Frieden. Die neuen Horatier liegen
+               still nebeneinander im Fenster und beobachten die grauen Tauben, mit innigstem
+               Verständnis für ihre Rauflust und ihren guten Appetit.</p>
             <p>Die Aufmerksamkeit des Schneiderleins hingegen ist auf das Fräulein gerichtet. Das
                braune Mohairkleid, das seine Gönnerin heute zum erstenmal angetan hat, ist seiner
                Hände selbsteigenes Werk. Der Schnitt hat sich seit wenigstens zehn Jahren als
@@ -138,8 +138,8 @@
                des hoffnungslosen Elends, das ihn zu einer Tat der Verzweiflung getrieben; er hat
                die Ursache fast vergessen und begreift ihre Wirkung nicht mehr. »Ich muß wahnsinnig
                gewesen sein!« sagt er jetzt, wenn er der Stunde gedenkt, in welcher er sein kleines
-               Töchterchen zu sich gerufen, Tür und <pb facs="#"/> Fenster desselben Zimmers, das er
-               heute noch bewohnt, verriegelt und das Kohlenbecken entzündet hat.</p>
+               Töchterchen zu sich gerufen, Tür und <pb/> Fenster desselben Zimmers, das er heute
+               noch bewohnt, verriegelt und das Kohlenbecken entzündet hat.</p>
             <p>Damals hatte der Zufall Fräulein Lotti zur Retterin des armen Schneidermeisters
                gemacht, ihre Güte machte sie zu seiner Beschützerin. Nachdem er unter ihrer Pflege
                gesund und wieder erwerbsfähig geworden, sammelte sie allmählich für ihn einen
@@ -169,8 +169,8 @@
                Sommer auch Obst feilbietet und zu allen Jahreszeiten Näschereien, die ihre Katze
                verschmähen würde, die aber an den Schulkindern beharrliche Abnehmer finden.</p>
             <p>Fräulein Lotti sandte bereits viele Grüße zu der dicken Frau empor, die so freundlich
-               aussah wie des Teufels Großmutter <pb facs="#"/> und sich's lange überlegte, bevor
-               sie mit einem kaum merkbaren Nicken dankte. Aber auch damit ist Lotti zufrieden. An
+               aussah wie des Teufels Großmutter <pb/> und sich's lange überlegte, bevor sie mit
+               einem kaum merkbaren Nicken dankte. Aber auch damit ist Lotti zufrieden. An
                Zuvorkommenheit von Seite der Frau Brotsitzerin wurde sie nie gewöhnt und hat auch
                kein besonderes Herzensbedürfnis danach. Sie wünscht nur, konservativ wie sie einmal
                ist, daß alles beim alten bleibe und daß sie sich täglich sagen könne, was die
@@ -203,21 +203,21 @@
                verzierten die Glastüren des Aufsatzes, hinter dessen blanken Scheiben eine sehr
                gemischte Gesellschaft friedlich beisammen wohnte.</p>
             <p>
-               <pb facs="#"/> Da standen Schillers Werke in einem Bande, im allerdings ziemlich
-               abgenützten Prunkgewand aus rotem Saffian, neben zwei kleinen dicken Büchlein in
-               schweinsledernen Schlafröckchen, den Mémoires du Maréchal de Bassompierre. Goethes
-               Benvenuto Cellini hatte zwei ganz unähnliche Nachbarn, Dom Jacques Martins Histoire
-               des Gaules und ein ehrwürdiges Inkunabel: Unser lieben frawen psalter, gedruckt zu
-               Augspurg. Von Luca Zeisselmair. Am mitwoch nach Jakobi. In dé iar als man zelet 1495.
-               Gibbons Geschichte des Verfalles des römischen Reiches blickte gnädig auf den Herrn
-               Quintus Fixlein herab, Krummachers Parabeln lehnten sich mit naiver Zutraulichkeit an
-               die Annalen des Tacitus. Lessings Laokoon war durch ein Versehen mitten hineingeraten
-               zwischen den Barometermacher auf der Zauberinsel und die Familie von Halden; Prinz
-               von Gotland, der Bramarbas und Himmelstürmer, hielt sich ruhig neben dem weisen
-               Pascal. Viele Klassiker der Weltliteratur, alte und neue, fanden sich durch irgendein
-               Hauptwerk vertreten; vollständig vorhanden jedoch waren alle Lehrbücher der
-               Uhrmacherkunst. Ihre lange majestätische Reihe wurde durch Hieronymus Cardani (1557)
-               eröffnet und schloß mit M.L. Moinets Traité général d'Horlogerie.</p>
+               <pb/> Da standen Schillers Werke in einem Bande, im allerdings ziemlich abgenützten
+               Prunkgewand aus rotem Saffian, neben zwei kleinen dicken Büchlein in schweinsledernen
+               Schlafröckchen, den Mémoires du Maréchal de Bassompierre. Goethes Benvenuto Cellini
+               hatte zwei ganz unähnliche Nachbarn, Dom Jacques Martins Histoire des Gaules und ein
+               ehrwürdiges Inkunabel: Unser lieben frawen psalter, gedruckt zu Augspurg. Von Luca
+               Zeisselmair. Am mitwoch nach Jakobi. In dé iar als man zelet 1495. Gibbons Geschichte
+               des Verfalles des römischen Reiches blickte gnädig auf den Herrn Quintus Fixlein
+               herab, Krummachers Parabeln lehnten sich mit naiver Zutraulichkeit an die Annalen des
+               Tacitus. Lessings Laokoon war durch ein Versehen mitten hineingeraten zwischen den
+               Barometermacher auf der Zauberinsel und die Familie von Halden; Prinz von Gotland,
+               der Bramarbas und Himmelstürmer, hielt sich ruhig neben dem weisen Pascal. Viele
+               Klassiker der Weltliteratur, alte und neue, fanden sich durch irgendein Hauptwerk
+               vertreten; vollständig vorhanden jedoch waren alle Lehrbücher der Uhrmacherkunst.
+               Ihre lange majestätische Reihe wurde durch Hieronymus Cardani (1557) eröffnet und
+               schloß mit M.L. Moinets Traité général d'Horlogerie.</p>
             <p>Kein einziges von allen diesen Büchern war seiner Eigentümerin ganz fremd, mit
                manchen stand sie auf dem vertrautesten Fuße, und gerade in diese vertiefte sie sich
                mit dem größten Vergnügen immer von neuem. Denn, meinte sie, ein schönes Buch nicht
@@ -232,9 +232,9 @@
                Früchte reiflicher Überlegung und solider Fachkenntnis, überlas.</p>
             <p>Meister Johannes Feßler hatte nicht zu den Leuten gehört, die einen Gedanken deshalb
                schon für gut halten, weil er in ihrem Kopf entstanden ist. Das Handwerk, das er ein
-               halbes Jahrhundert hindurch getrieben, hatte ihn gelehrt, dreißig »vielleicht« <pb
-                  facs="#"/> und »ich glaube« leichter auszusprechen als ein »so ist's«, oder ein
-               »das steht fest«.</p>
+               halbes Jahrhundert hindurch getrieben, hatte ihn gelehrt, dreißig »vielleicht« <pb/>
+               und »ich glaube« leichter auszusprechen als ein »so ist's«, oder ein »das steht
+               fest«.</p>
             <p>Ein gewissenhafter Uhrmacher, wie er gewesen, ein Mann, der so oft erfahren hatte,
                daß am Ende einer Reihe scheinbar richtiger Schlüsse ein Irrtum lauern kann, der
                hütet sich wohl, leichtsinnig Behauptungen aufzustellen. Dafür haben die seinen aber
@@ -270,7 +270,7 @@
                wo dieser eine Uhr für den Turm des königlichen Schlosses verfertigte. Er erhielt
                Wohnung in demselben Turm und eine Besoldung von sechs Sous täglich. –</p>
             <p>
-               <pb facs="#"/> Noch andere Randglossen machten darauf aufmerksam, daß Luther seine
+               <pb/> Noch andere Randglossen machten darauf aufmerksam, daß Luther seine
                Bibelübersetzung zu derselben Zeit geschrieben hat, zu welcher Peter Hele, Andreas
                Heinlein und Caspar Werner in Nürnberg die ersten Taschenuhren zustande brachten, daß
                im Jahre des Unterganges der spanischen Armada Andreas Landek, Schüler Abraham
@@ -301,10 +301,10 @@
                das Evangelium war, sein Beifall das Ziel aller Wünsche, seine Zufriedenheit das
                höchste Lebensgut. Die beiden waren seine Tochter Lotti und sein Ziehsohn Gottfried.
                »Meine Gesellen« nannte er sie in ihrer Kindheit, und später mit Stolz »meine
-               Gehilfen«. Endlich schien ihm auch <pb facs="#"/> diese Bezeichnung nicht mehr
-               ehrenvoll genug, und er sprach sie niemals aus, ohne sich dabei in Gedanken zu
-               verbessern: Ich sollte eigentlich sagen: Meine Berufsgenossen ... solche noch dazu,
-               die im besten Zuge sind, mich zu überflügeln.</p>
+               Gehilfen«. Endlich schien ihm auch <pb/> diese Bezeichnung nicht mehr ehrenvoll
+               genug, und er sprach sie niemals aus, ohne sich dabei in Gedanken zu verbessern: Ich
+               sollte eigentlich sagen: Meine Berufsgenossen ... solche noch dazu, die im besten
+               Zuge sind, mich zu überflügeln.</p>
             <p>Daß sie es doch möchten, und recht bald, und recht weit – sein liebster Traum wäre
                erfüllt. Aber nicht allein dieser, jeder Traum von Erfolg und Glück, den er für seine
                Kinder im treuen Vaterherzen hegte, schien in Erfüllung gehen zu wollen. Ihr
@@ -335,15 +335,15 @@
                begeistert auf-, »eines Mudge, eines Arnold müssen unsere künftigen Meister leben.
                Wenn du heimkommst, werde ich von dir lernen.«</p>
             <p>
-               <pb facs="#"/> Allein dieses Wort sollte nicht zur Wahrheit werden. Als Gottfrieds
-               Lehrzeit um war und er nach Hause zurückkehrte, behauptete er, bei seinen neuen
-               Meistern nichts so gut gelernt zu haben, als seinen alten Meister und dessen Kunst zu
-               schätzen. So berühmt jene auch seien, so teuer ihre Arbeiten bezahlt werden, Feßler
-               dürfe sich mit dem Größten von ihnen messen. Eines nur verstände auch der Geringste
-               unter allen besser, nämlich seine Geschicklichkeit geltend zu machen und zu
-               verwerten. Diesen Vorwurf wies Feßler lächelnd zurück. Beehrten ihn die
-               vorzüglichsten Uhrmacher nicht mit ihren Bestellungen? zögerten sie, ihren Namen in
-               eine Uhr schreiben zu lassen, die aus seinen Händen kam?</p>
+               <pb/> Allein dieses Wort sollte nicht zur Wahrheit werden. Als Gottfrieds Lehrzeit um
+               war und er nach Hause zurückkehrte, behauptete er, bei seinen neuen Meistern nichts
+               so gut gelernt zu haben, als seinen alten Meister und dessen Kunst zu schätzen. So
+               berühmt jene auch seien, so teuer ihre Arbeiten bezahlt werden, Feßler dürfe sich mit
+               dem Größten von ihnen messen. Eines nur verstände auch der Geringste unter allen
+               besser, nämlich seine Geschicklichkeit geltend zu machen und zu verwerten. Diesen
+               Vorwurf wies Feßler lächelnd zurück. Beehrten ihn die vorzüglichsten Uhrmacher nicht
+               mit ihren Bestellungen? zögerten sie, ihren Namen in eine Uhr schreiben zu lassen,
+               die aus seinen Händen kam?</p>
             <p>Aber Gottfried schüttelte den Kopf und meinte, das sei es eben, was ihn kränke. –
                »Ihr Name auf deinem Werk! wo steht denn der deine? Wer kennt dich? wer weiß etwas
                von dir!... Was hast du von deinen unvergleichlich schönen und genauen Arbeiten?«</p>
@@ -366,7 +366,7 @@
                denen die fleißigen Hände Lottis ruhten, aus ihrer Seele jedoch die Ruhe gewichen
                war. Tage, in denen alles, was sonst ihr Leben erhellte, ihr gleichgültig geworden,
                und das Leben selbst – eine Last.</p>
-            <pb facs="#"/>
+            <pb/>
          </div>
          <div type="chapter">
             <head>3</head>
@@ -400,16 +400,16 @@
                heißes Verlangen trage, stehe ihm nun zur Verfügung. Lotti jedoch erklärte, daß sie
                ebenso gern ihre Seele verkaufen ließe wie diese Uhren.</p>
             <p>So blieben sie denn in ihrem Besitze, wenn auch nicht ohne manchen harten Kampf. Die
-               Sammlung Meister Feßlers war <pb facs="#"/> allmählich doch in einem Kreise von
-               Kennern und Liebhabern zu dem ihr gebührenden Rufe gelangt. Es fehlte nicht an
-               zudringlichen Leuten, die trotz der standhaften Zurückweisungen, die sie er fuhren,
-               immer wieder erschienen, immer neue Bewerbungen anstellten, immer glänzendere
-               Anerbietungen machten. Das war denn oft herzlich langweilig, trug aber nur dazu bei,
-               die Liebe, welche Lotti für ihre Uhren empfand, noch zu erhöhen. Sie hörte niemals
-               auf, ihnen ihre Sorgfalt angedeihen zu lassen, und wenn es noch soviel zu tun gab und
-               wenn die Zeit noch so sehr drängte, ging sie nicht an ihr Tagewerk, ohne ihren Uhren
-               einen Besuch abgestattet zu haben. Hätte sie das jemals unterlassen müssen, die
-               rechte Begeisterung, die rechte Lust zur Arbeit hätte ihr gewiß gefehlt.</p>
+               Sammlung Meister Feßlers war <pb/> allmählich doch in einem Kreise von Kennern und
+               Liebhabern zu dem ihr gebührenden Rufe gelangt. Es fehlte nicht an zudringlichen
+               Leuten, die trotz der standhaften Zurückweisungen, die sie er fuhren, immer wieder
+               erschienen, immer neue Bewerbungen anstellten, immer glänzendere Anerbietungen
+               machten. Das war denn oft herzlich langweilig, trug aber nur dazu bei, die Liebe,
+               welche Lotti für ihre Uhren empfand, noch zu erhöhen. Sie hörte niemals auf, ihnen
+               ihre Sorgfalt angedeihen zu lassen, und wenn es noch soviel zu tun gab und wenn die
+               Zeit noch so sehr drängte, ging sie nicht an ihr Tagewerk, ohne ihren Uhren einen
+               Besuch abgestattet zu haben. Hätte sie das jemals unterlassen müssen, die rechte
+               Begeisterung, die rechte Lust zur Arbeit hätte ihr gewiß gefehlt.</p>
             <p>Auch heute war sie an das Schränklein getreten, das in der Ecke stand neben der
                Schlafzimmertür, dem großen Schreibtisch gegenüber. Eben fiel ein Sonnenstrahl schräg
                durch das Fenster auf das Kästchen, auf Lottis Hände, und als sie die erste Lade
@@ -432,9 +432,9 @@
                Auskunft zu geben über die Sternzeit und nahmen Notiz vom türkischen Kalender ...</p>
             <p>Wahrhaftig, die braven Männer, denen sie ihre Entstehung verdankten, hatten sich
                Schweres vorgesetzt – und mit wie geringen Mitteln gedachten sie es zu erreichen! Mit
-                  Spindelechappements<pb facs="#"/> – mit Löffelunruhen, deren kläglich humpelnder
-               Gang von einer Schweinsborste reguliert wurde! Sie verfertigten alle Räder aus Eisen,
-               und von einer Schnecke war ihnen nicht einmal die Ahnung aufgekommen.</p>
+               Spindelechappements<pb/> – mit Löffelunruhen, deren kläglich humpelnder Gang von
+               einer Schweinsborste reguliert wurde! Sie verfertigten alle Räder aus Eisen, und von
+               einer Schnecke war ihnen nicht einmal die Ahnung aufgekommen.</p>
             <p>Aber – so ärmlich ihre Kunst, so reich war ihr Vertrauen. Sie wußten – das heißt, sie
                glaubten, und weil sie glaubten, wußten sie –, daß Schwäche zur Stärke erwachsen
                kann, wenn nur der rechte Segen auf ihr ruht. Kühn und demütig zugleich riefen sie
@@ -468,14 +468,14 @@
                namenlos in die Welt geschickt, sondern neben dem Stellungsgrade brav und deutlich
                sein »Conrad Kreizer« eingeschrieben.</p>
             <p>
-               <pb facs="#"/> Eine ganze Schar anmutiger Französinnen folgte. Köstliche Ührchen,
-               geschmückt mit Emailmalereien von den Brüdern Huaut, oder mit erhaben geschnittenen
-               Blumen, mit buntem Blattwerk, mit durchbrochenen Arabesken aus vielfarbigem Golde.
-               Die Sammlung enthielt nicht minder merkwürdige Arbeiten von Tompion in England,
-               Albrecht Erb in Wien, Gerard Mut in Frankfurt, Matthäus Degen, Christoff Strebell.
-               Kurz, es fehlten wenig große Namen, und wer die vorhandenen mit recht scharfen Augen
-               betrachtete, der sah mehr als nur Namen, in eine Metallplatte eingeritzt, der sah das
-               Wesen des Meisters sich deutlich in seinem Werke spiegeln.</p>
+               <pb/> Eine ganze Schar anmutiger Französinnen folgte. Köstliche Ührchen, geschmückt
+               mit Emailmalereien von den Brüdern Huaut, oder mit erhaben geschnittenen Blumen, mit
+               buntem Blattwerk, mit durchbrochenen Arabesken aus vielfarbigem Golde. Die Sammlung
+               enthielt nicht minder merkwürdige Arbeiten von Tompion in England, Albrecht Erb in
+               Wien, Gerard Mut in Frankfurt, Matthäus Degen, Christoff Strebell. Kurz, es fehlten
+               wenig große Namen, und wer die vorhandenen mit recht scharfen Augen betrachtete, der
+               sah mehr als nur Namen, in eine Metallplatte eingeritzt, der sah das Wesen des
+               Meisters sich deutlich in seinem Werke spiegeln.</p>
             <p>Nach all den köstlich verzierten Stücken erschienen die einfachen Taschenuhren von
                Pierre le Roy, Berthoud, Breguet, eine Emmery ... Ach, die weckt traurige
                Erinnerungen, mahnt an die große Enttäuschung in Lottis Leben. Mit einer solchen Uhr
@@ -500,13 +500,13 @@
                Henningers und Lorenz Freys und eine vollständig erhaltene hölzerne Taschenuhr von
                Andreas Dilger aus Gütenbach.</p>
             <p>Ein Familienerbe! – Als Bräutigam hatte sie der Urgroßvater Lottis ihrer Urgroßmutter
-               zugleich mit seinem Herzen <pb facs="#"/> dargebracht. Gottfried nannte sie die
-               Majoratsuhr. Sie war nie getragen worden, hatte als Schaustück im Glasschranke der
-               Urgroßmutter geruht. Nur an hohen Festtagen wurde sie hervorgeholt und zur Freude des
-               Enkelchen Lotti aufgezogen. Dann setzte sie sich aber auch stracks in Bewegung und
-               vollführte einen so akkuraten und energischen Gang und bimmelte so fleißig fort, als
-               ob sie noch in der Blüte ihrer Jahre stände und als ob sie all die Zeit einholen
-               wollte, die sie in unfreiwilliger Muße versäumt.</p>
+               zugleich mit seinem Herzen <pb/> dargebracht. Gottfried nannte sie die Majoratsuhr.
+               Sie war nie getragen worden, hatte als Schaustück im Glasschranke der Urgroßmutter
+               geruht. Nur an hohen Festtagen wurde sie hervorgeholt und zur Freude des Enkelchen
+               Lotti aufgezogen. Dann setzte sie sich aber auch stracks in Bewegung und vollführte
+               einen so akkuraten und energischen Gang und bimmelte so fleißig fort, als ob sie noch
+               in der Blüte ihrer Jahre stände und als ob sie all die Zeit einholen wollte, die sie
+               in unfreiwilliger Muße versäumt.</p>
             <p>Wie war sie nett! Wie waren ihre hölzernen Räder, Platten, Kloben so
                bewunderungswürdig ausgearbeitet. Wie sauber aus-gestochen der Unruhkloben und die
                Stellungsflügel, und wie schön verziert die beiden und die Klobenplatte. Man sah der
@@ -535,13 +535,12 @@
             <p>Lotti schlug die Hände zusammen und konnte vor Staunen nur die Worte herausbringen:
                »Aber nein!... Aber wo?«</p>
             <p>
-               <pb facs="#"/> Nun, nirgends anders als gleich nebenan in der breiten belebten
-               Straße, die zum Domplatze führt. Ein allerliebster kleiner Laden, an dessen
-               Ausschmückung seit acht Tagen eifrigst gearbeitet wurde, der ein schönes Fenster
-               bekommen hatte aus einem Stück tauklaren Glases und eine geschmackvolle Vitrine mit
-               feiner Einfassung aus Ebenholz. In dieser lagen seit gestern eine Kalenderuhr von
-               Audemars und ein Chronometer von Dent inmitten anderer Uhren aus den vornehmsten
-               Häusern.</p>
+               <pb/> Nun, nirgends anders als gleich nebenan in der breiten belebten Straße, die zum
+               Domplatze führt. Ein allerliebster kleiner Laden, an dessen Ausschmückung seit acht
+               Tagen eifrigst gearbeitet wurde, der ein schönes Fenster bekommen hatte aus einem
+               Stück tauklaren Glases und eine geschmackvolle Vitrine mit feiner Einfassung aus
+               Ebenholz. In dieser lagen seit gestern eine Kalenderuhr von Audemars und ein
+               Chronometer von Dent inmitten anderer Uhren aus den vornehmsten Häusern.</p>
             <p>Lotti war bewundernd vor ihnen stehengeblieben, aber heute erfüllte deren Kostbarkeit
                sie mit Schrecken. »Ein solcher Wert!« meinte sie, »ein so großes Kapital!« Es schien
                ihr fast zu kühn, daß Gottfried die Bürgschaft dafür übernommen hatte.</p>
@@ -567,9 +566,9 @@
             <p>»Und gut angewandte, das weiß Gott«, meinte Lotti. »Heil dir, daß du gleich so
                stattlich ausrücken kannst an der Spitze von Dents und Audemars'...«</p>
             <p>»Die beide schon halb und halb verkauft sind«, fiel er ihr ins Wort.</p>
-            <p>»Gottfried, du machst mich übermütig! Einen Wunsch hast <pb facs="#"/> du mir
-               erfüllt, der schon vor Altersschwäche erloschen war – jetzt wird ein zweiter, dem es
-               ähnlich ergangen, lebendig. Du mußt heiraten, Gottfried.«</p>
+            <p>»Gottfried, du machst mich übermütig! Einen Wunsch hast <pb/> du mir erfüllt, der
+               schon vor Altersschwäche erloschen war – jetzt wird ein zweiter, dem es ähnlich
+               ergangen, lebendig. Du mußt heiraten, Gottfried.«</p>
             <p>Er richtete seine kleinen, glänzenden braunen Augen fest auf sie und sprach ganz
                unternehmend: »Warum nicht?«</p>
             <p>»Das sag ich ja«, rief Lotti, »warum nicht? Warum solltest du die brave Frau nicht
@@ -601,9 +600,9 @@
             <p>»Jawohl. Er weiß gerade keinen Arbeiter, dem er sich getraut, sie in die Hand zu
                geben. Überdies hat's Eile. Morgen abend möchte er sie wiederhaben.«</p>
             <p>
-               <pb facs="#"/> Gottfried stellte ein hölzernes, mit Messing eingelegtes Kästchen vor
-               Lotti hin. Die wandte demselben den Blick eines teilnehmenden Arztes für einen
-               Patienten zu und fragte: »Was fehlt denn?«</p>
+               <pb/> Gottfried stellte ein hölzernes, mit Messing eingelegtes Kästchen vor Lotti
+               hin. Die wandte demselben den Blick eines teilnehmenden Arztes für einen Patienten zu
+               und fragte: »Was fehlt denn?«</p>
             <p>»Weiß nicht«, erwiderte Gottfried, »aber ich glaube, nicht viel. Der Herr hat mir
                eine lange Geschichte erzählt, er hat die Uhr von einem, der sie aus Leichtsinn oder
                aus Not losschlug, um ein Spottgeld. Will sie jetzt sehr teuer verkaufen, deshalb
@@ -633,14 +632,14 @@
                ihrem ganzen Wesen kund.</p>
             <p>Was ist ihr denn? dachte Gottfried. – Ahnt sie, was er ihr zu sagen hat, und versetzt
                sie das in eine Befangenheit, die aussieht wie Bestürzung? Wär's doch so! dann nimmt
-               sie wenigstens die Sache ernst, und er braucht nicht zu fürchten, mit <pb facs="#"/>
-               einem Scherze heimgeschickt zu werden, das Ärgste, was ihm geschehen könnte, dem
-               alten Menschen. Ihre sichtbare Unruhe befreit ihn von dieser Sorge und zugleich von
-               aller Ängstlichkeit. Er atmet auf und spricht mit einem gewissen unbeholfenen Humor,
-               dabei aber höchst bedeutsam und nachdrücklich: »Es wäre schade, wenn an dem Schilde
-               etwas geändert werden müßte; es ist sehr hübsch ausgefallen ... Macht sich wirklich
-               gut, auf glänzend schwarzem Grund, das G. &amp; L. Feßler ... G. und L .... Gottfried
-               und Lotti ...«</p>
+               sie wenigstens die Sache ernst, und er braucht nicht zu fürchten, mit <pb/> einem
+               Scherze heimgeschickt zu werden, das Ärgste, was ihm geschehen könnte, dem alten
+               Menschen. Ihre sichtbare Unruhe befreit ihn von dieser Sorge und zugleich von aller
+               Ängstlichkeit. Er atmet auf und spricht mit einem gewissen unbeholfenen Humor, dabei
+               aber höchst bedeutsam und nachdrücklich: »Es wäre schade, wenn an dem Schilde etwas
+               geändert werden müßte; es ist sehr hübsch ausgefallen ... Macht sich wirklich gut,
+               auf glänzend schwarzem Grund, das G. &amp; L. Feßler ... G. und L .... Gottfried und
+               Lotti ...«</p>
             <p>Ihre Stirn glühte, ihre Wangen brannten, sie beugte sich tiefer über ihre Arbeit und
                wiederholte mechanisch und ausdruckslos: »Gottfried und Lotti?«</p>
             <p>Nein! Ihre Gedanken waren nicht bei ihm. In der Weise hätte sie ebensogut fremde
@@ -667,7 +666,7 @@
                zu scheinen. »Komm es bewundern, komm bald!«</p>
             <p>Er nahm seinen Hut und verließ das Zimmer.</p>
             <p>
-               <pb facs="#"/> Lotti war wieder allein und setzte ihre einen Augenblick unterbrochene
+               <pb/> Lotti war wieder allein und setzte ihre einen Augenblick unterbrochene
                Beschäftigung emsig fort. Sie hatte an der Uhr, die Gottfried mitgebracht, alle
                Brücken abgeschraubt, alle Räder ausgehoben, bis auf das Minutenrad. Das haftete
                noch, festgehalten vom Viertelrohr. Aber auch dieses muß nun weichen, das letzte Rad
@@ -700,8 +699,8 @@
                beendet hatte, »ein kostbares Stück.« Er rief seine Tochter herbei, um auch ihre
                Meinung zu hören.</p>
             <p>
-               <pb facs="#"/> »Wie?« sprach der Fremde ein wenig spöttisch und sehr erstaunt, »sind
-               Sie Kennerin, mein Fräulein?«</p>
+               <pb/> »Wie?« sprach der Fremde ein wenig spöttisch und sehr erstaunt, »sind Sie
+               Kennerin, mein Fräulein?«</p>
             <p>Lotti fühlte den Blick auf sich ruhen, mit dem fast alle jungen Männer, denen sie zum
                ersten Male begegnete, sie ansahen; den Blick, der deutlich fragt: Was willst du in
                der Welt? und an den ein nicht hübsches Mädchen sich gewöhnen muß.</p>
@@ -732,7 +731,7 @@
                Modell, brauchte er vor allem einige fachmännische Kenntnis.</p>
             <p>»Nehmen Sie mich ein wenig in die Lehre, bester Meister«, schloß er, »würdigen Sie
                mich eines Einblicks in Ihre Sammlung – Ihr Heiligtum, wie ich höre. – Daß ich ein
-               ausgezeichneter <pb facs="#"/> Schüler sein werde, das verspreche ich nicht, aber ein
+               ausgezeichneter <pb/> Schüler sein werde, das verspreche ich nicht, aber ein
                dankbarer bin ich gewiß!«</p>
             <p>Feßler sah den hübschen blonden Gesellen ein Weilchen nachdenklich an. Ihm gefielen
                seine fröhlichen blauen Augen und die sorglose Sicherheit, das muntere
@@ -762,9 +761,9 @@
                Fülle bildsamen Stoffes auf dich ein, und wenn es dir an etwas fehlt, so ist's an
                Kraft, die wogenden Quellen zu fassen und sie zu leiten an ein gewolltes Ziel!«</p>
             <p>Er sprang auf, ergriff die Hand Feßlers, nannte ihn einen edlen, einen seltenen,
-               einen herrlichen Mann und verabschiedete <pb facs="#"/> sich mit der Bitte, recht
-               bald wiederkommen zu dürfen. Und er kam wieder, kam täglich, ganze Wochen hindurch,
-               und wenn er ja einmal ausblieb, bedauerte dies niemand mehr als Feßler. Lotti sprach
+               einen herrlichen Mann und verabschiedete <pb/> sich mit der Bitte, recht bald
+               wiederkommen zu dürfen. Und er kam wieder, kam täglich, ganze Wochen hindurch, und
+               wenn er ja einmal ausblieb, bedauerte dies niemand mehr als Feßler. Lotti sprach
                überhaupt nicht von ihm, vermied es sogar, seinen Namen zu nennen, und was Gottfried
                betraf, der meinte, es sei nicht übel, zwölf Stunden lang Ruhe zu haben in der
                Werkstatt. Er leugnete nicht, daß Halwig eine große Unterhaltungsgabe besitze, allein
@@ -793,8 +792,8 @@
             <p>»Ist es denn so spät?« fragte er.</p>
             <p>»Spät und nicht mehr hell, du verdirbst dir die Augen.«</p>
             <p>»Was liegt daran? – Was liegt an mir?« sprach er halblaut vor sich hin, wie einer,
-               der, plötzlich geweckt, aus dem Schlafe <pb facs="#"/> redet. Er stöhnte schmerzlich
-               auf und preßte beide Hände gegen die Stirn.</p>
+               der, plötzlich geweckt, aus dem Schlafe <pb/> redet. Er stöhnte schmerzlich auf und
+               preßte beide Hände gegen die Stirn.</p>
             <p>Lotti wurde feuerrot; schweigend, mit einer Gebärde der Mißbilligung wandte sie sich
                ab. Der Vater hatte seine allabendliche Zimmerpromenade unterbrochen, war vor
                Gottfried stehengeblieben und fragte, was ihm fehle.</p>
@@ -826,7 +825,7 @@
             <p>»Da ist er doch«, sagte Feßler.</p>
             <p>Halwig erschien auf der Schwelle, er schwenkte seinen Hut und sah so glücklich aus,
                als ob er eben eine Welt erobert hätte.</p>
-            <pb facs="#"/>
+            <pb/>
          </div>
          <div type="chapter">
             <head>6</head>
@@ -859,12 +858,12 @@
                an seiner Fabel zu wirken gesucht; was da fesselte und bezwang, das war der
                Schönheitszauber, der in dem schlichten Bilde webte, das war die Wahrheit und die
                Leidenschaft, die es atmete, und wen man darin am liebsten gewann, das war der
-               Dichter selbst. Absichtslos, ja wider seinen Willen hob seine <pb facs="#"/> Gestalt
-               sich verklärt aus seinem Werke und erschien so liebenswürdig wie die verkörperte
-               Jugend. Er war von Begeisterung durchglüht, von Talent getragen; eine Unendlichkeit
-               wogte in seiner Seele. Für Ernst und Scherz, für Zorn und Wehmut, Haß und Liebe, für
-               jede Stimmung und Empfindung der menschlichen Brust lag das Verständnis in seinem
-               Herzen und der Ausdruck auf seinen Lippen. Kein Zweifel an sich selbst hemmte seinen
+               Dichter selbst. Absichtslos, ja wider seinen Willen hob seine <pb/> Gestalt sich
+               verklärt aus seinem Werke und erschien so liebenswürdig wie die verkörperte Jugend.
+               Er war von Begeisterung durchglüht, von Talent getragen; eine Unendlichkeit wogte in
+               seiner Seele. Für Ernst und Scherz, für Zorn und Wehmut, Haß und Liebe, für jede
+               Stimmung und Empfindung der menschlichen Brust lag das Verständnis in seinem Herzen
+               und der Ausdruck auf seinen Lippen. Kein Zweifel an sich selbst hemmte seinen
                Schwung, kein Mißtrauen in seine Kraft lähmte ihn, er hatte sie, er wußte es, er war
                ihrer Wirkung gewiß und baute auf sie mit der unerschütterlichen Zuversicht, die dem
                Erfolg vorangeht, die ihn oft erzwingt.</p>
@@ -894,8 +893,8 @@
                weiß nicht, ich kann nicht sagen, was ich am meisten bewundere – ich sehe nur, wie
                groß, wie herrlich und wie fern ...«</p>
             <p>
-               <pb facs="#"/> Ihre Stimme brach, sie erhob einen raschen hilflosen Blick zu ihm, den
-               er einsog wie himmlischen Tau.</p>
+               <pb/> Ihre Stimme brach, sie erhob einen raschen hilflosen Blick zu ihm, den er
+               einsog wie himmlischen Tau.</p>
             <p>»Nicht fern«, rief er, »o nein! Ihnen ist sie es nicht, sie lebt von Ihrem Leben, ist
                von Ihrem Atem durchhaucht ... Schöpferin meiner Welt, haben Sie sich in ihr nicht
                erkannt?«</p>
@@ -927,8 +926,8 @@
             <p>Sie wurde seine Braut; und der Mann, der ihr wie ein höheres Wesen erschien, machte
                sie zur Herrin seines Schicksals. Er unterordnete sich ihr, er wollte ihr alles
                danken, was er besaß, er wollte alles, was er war, nur durch sie geworden sein. Sein
-               junges Haupt, das schon von der Morgenröte des Ruhmes umglänzt<pb facs="#"/> wurde,
-               beugte sich vor ihr, schmiegte sich demütig an ihre Knie.</p>
+               junges Haupt, das schon von der Morgenröte des Ruhmes umglänzt<pb/> wurde, beugte
+               sich vor ihr, schmiegte sich demütig an ihre Knie.</p>
             <p>»Das heißt verwöhnen«, sagte Vater Feßler, aber Gottfrieds Meinung war: »Bete sie nur
                an, sie verdient's.«</p>
             <p>Einige Monate vergingen, da fiel der erste Schatten auf die bisher ungetrübte
@@ -960,9 +959,9 @@
                hältst.«</p>
             <p>»Hermann – wie könnt ich anders?« fragte sie mit einem ängstlichen Lächeln. »Ich sage
                dir, was ich denke, aber das hat ja keinen Wert ... Mein Urteil zu begründen, muß ich
-               erst <pb facs="#"/> lernen ... jetzt bin ich noch nicht imstande, dir zu sagen, warum
-               ich dir dieses Mal nicht so leicht – nicht mit so voller – wie soll ich's nennen? –
-               so voller Hingerissenheit folgen konnte wie früher, wie besonders bei deinem ersten,
+               erst <pb/> lernen ... jetzt bin ich noch nicht imstande, dir zu sagen, warum ich dir
+               dieses Mal nicht so leicht – nicht mit so voller – wie soll ich's nennen? – so voller
+               Hingerissenheit folgen konnte wie früher, wie besonders bei deinem ersten,
                allerschönsten Gedicht ...«</p>
             <p>Nun brauste er auf. Er fragte, ob sie denn immer auf seine Anfänge zurückkommen
                wollte, ob ihr das Unbedeutendste am nächsten läge.</p>
@@ -993,8 +992,8 @@
                das du hast, in einem Anfall übler Laune zu zerstören; ich will strenge Wache über
                dich halten.«</p>
             <p>
-               <pb facs="#"/> Halwig drückte ihm die Hand, er begab sich gern unter den Schutz
-               seines besten Freundes.</p>
+               <pb/> Halwig drückte ihm die Hand, er begab sich gern unter den Schutz seines besten
+               Freundes.</p>
             <p>»Verschwören wir uns gegen alle meine Fehler!« rief er, ganz beseelt von den edelsten
                Vorsätzen, »wenn du mir treulich hilfst, will ich ihrer schon Herr werden!«</p>
             <p>Lotti war mit diesem Bündnisse nicht zufrieden, sie wußte, daß Hermann die
@@ -1027,8 +1026,8 @@
             <p>»Ich wünsche es!« entgegnete sie rasch.</p>
             <p>»Warum ... Mißtraust du ihm?«</p>
             <p>
-               <pb facs="#"/> »Vielleicht nur mir«, war ihre Antwort. Scheinbar völlig ruhig begab
-               sie sich an die Arbeit.</p>
+               <pb/> »Vielleicht nur mir«, war ihre Antwort. Scheinbar völlig ruhig begab sie sich
+               an die Arbeit.</p>
             <p>Kurze Zeit, nachdem Lotti diesen Entschluß gefaßt, schien Hermann ganz zu ihr
                zurückzukehren. Er hatte eine große Täuschung erlitten, er fand Trost bei ihr, die
                seinen Schmerz tiefer empfand als er selbst. Sein gesunkener Mut wurde indessen bald
@@ -1058,8 +1057,8 @@
                Selbstvorwurf in der Seele dessen erkaufen, den sie so sehr geliebt hatte. Sie tat es
                an einem Tage, an dem er sich einmal wieder ihr gegenüber so herzlich, so warm, so
                voll Hingebung und Innigkeit gezeigt wie in der Frühlingszeit ihrer Liebe.</p>
-            <p>Er war länger verweilt, als er beabsichtigte, und sprang erschrocken <pb facs="#"/>
-               auf, als einige Uhren zugleich die fünfte Nachmittagsstunde schlugen.</p>
+            <p>Er war länger verweilt, als er beabsichtigte, und sprang erschrocken <pb/> auf, als
+               einige Uhren zugleich die fünfte Nachmittagsstunde schlugen.</p>
             <p>»Ich sollte längst fort sein!« rief er, »aber gleich viel ... Bei dir versäume ich
                nichts, ich gehe immer reicher, besser, als ich gekommen bin ... Ich bin ein Narr, so
                selten zu kommen.«</p>
@@ -1090,8 +1089,8 @@
             <p>»Ich meinte dir noch viel lieber zu sein!« rief er und setzte in unaussprechlicher
                Verwunderung hinzu: »Du gibst mich auf?!...Du – mich?!«</p>
             <p>
-               <pb facs="#"/> »Du wirst dich darein fügen – nicht wahr?... Sage nicht, daß es dir
-               unmöglich ist!«</p>
+               <pb/> »Du wirst dich darein fügen – nicht wahr?... Sage nicht, daß es dir unmöglich
+               ist!«</p>
             <p>Sie richtete die Augen fest auf ihn, und die seinen senkten sich.</p>
             <p>Es flog ihm durch den Sinn, daß sie ihm untreu geworden, daß sie einen andern liebe,
                aber sogleich mußte er lächeln über diesen Verdacht. Er fragte sich, ob sie ihn auf
@@ -1123,11 +1122,11 @@
                aus ihr erblühen könne ...«</p>
             <p>Er starrte sie an und schwieg. Sein Verstand gab ihr recht, sein Herz stimmte ihr
                bei. Was sich in ihm noch regte und sträubte, das war ein leiser Gewissensvorwurf.
-               Allein auch den vermochte <pb facs="#"/> Lotti zu beschwichtigen, indem sie sagte:
-               »Nur die Geliebte scheidet sich von dir – die Freundin bleibt. Die wirst du immer
-               finden. Komm zu ihr, wenn du ein Leid zu klagen hast, wenn du verdrossen bist und
-               schlimmen Mutes. Bedrückte Seelen warten – das verstehe ich, das ist die Kunst, die
-               ich ausübe, das ist meine Virtuosität ...«</p>
+               Allein auch den vermochte <pb/> Lotti zu beschwichtigen, indem sie sagte: »Nur die
+               Geliebte scheidet sich von dir – die Freundin bleibt. Die wirst du immer finden. Komm
+               zu ihr, wenn du ein Leid zu klagen hast, wenn du verdrossen bist und schlimmen Mutes.
+               Bedrückte Seelen warten – das verstehe ich, das ist die Kunst, die ich ausübe, das
+               ist meine Virtuosität ...«</p>
             <p>»Lotti!« rief er überwältigt und zog sie an seine Brust. Plötzlich jedoch ließ er sie
                aus seinen Armen, warf sich in einen Sessel nieder und brach in heftiges Schluchzen
                aus. Sie trat zu ihm, beugte sich, ihre Lippen ruhten lange auf seiner Stirn ...
@@ -1157,14 +1156,14 @@
                Stirn, und am nächsten Morgen erzählten ihre müden und geröteten Augen von einer
                durchweinten Nacht.</p>
             <p>
-               <pb facs="#"/> Aber auch diese letzte, törichte Schwäche ward überwunden. Lotti
-               gewöhnte sich, an dem einst Geliebten vorbeizugehen wie an einem Fremden; sie
-               errötete nicht mehr, wenn sein Name in ihrer Gegenwart ausgesprochen wurde; sie las
-               auch seine Bücher nicht mehr. Sie wurde von ihnen allzu peinlich berührt. Es gab sich
-               darin ein Haschen nach dem Absonderlichen und Unerhörten kund, ein Streben, gemeine
-               Neugier zu wecken, eine Vorliebe, das Krasse, oft sogar das Widerliche zu schildern,
-               die Lotti entsetzten und ihr wie Lästerungen an dem Gotte erschienen, den Halwig
-               selbst sie verehren gelehrt: am Gotte des Schönen.</p>
+               <pb/> Aber auch diese letzte, törichte Schwäche ward überwunden. Lotti gewöhnte sich,
+               an dem einst Geliebten vorbeizugehen wie an einem Fremden; sie errötete nicht mehr,
+               wenn sein Name in ihrer Gegenwart ausgesprochen wurde; sie las auch seine Bücher
+               nicht mehr. Sie wurde von ihnen allzu peinlich berührt. Es gab sich darin ein Haschen
+               nach dem Absonderlichen und Unerhörten kund, ein Streben, gemeine Neugier zu wecken,
+               eine Vorliebe, das Krasse, oft sogar das Widerliche zu schildern, die Lotti
+               entsetzten und ihr wie Lästerungen an dem Gotte erschienen, den Halwig selbst sie
+               verehren gelehrt: am Gotte des Schönen.</p>
             <p>Jahre vergingen. Feßler starb – kurze Zeit nachdem ihm angekündigt worden, daß er
                seine »hohe Warte« verlassen müsse, weil das Haus zum Umbau bestimmt sei. Lotti bezog
                ihre jetzige Wohnung. Gottfried mietete sich bei dem Uhrmacher ein, für den er seit
@@ -1187,10 +1186,10 @@
                kam es heraus, daß er schon seit einigen Tagen von der Verheiratung Halwigs
                unterrichtet war, daß er auch gehört hatte, die junge Frau sei arm, vornehm und
                schön.</p>
-            <p>»Das Letztere kann ich bezeugen«, sprach Gottfried mit gedämpfter <pb facs="#"/>
-               Stimme, als ob er ein Geheimnis anzuvertrauen hätte, »du und ich, wir haben nie etwas
-               Schöneres gesehen. Sie ist groß – um ein Haar vielleicht größer als du, und so zart,
-               so ätherisch, als wäre sie aus Mondesstrahlen gewoben ... aber nein, das Bild paßt
+            <p>»Das Letztere kann ich bezeugen«, sprach Gottfried mit gedämpfter <pb/> Stimme, als
+               ob er ein Geheimnis anzuvertrauen hätte, »du und ich, wir haben nie etwas Schöneres
+               gesehen. Sie ist groß – um ein Haar vielleicht größer als du, und so zart, so
+               ätherisch, als wäre sie aus Mondesstrahlen gewoben ... aber nein, das Bild paßt
                nicht; die Strahlen des Mondes sind kalt, und sie sieht aus wie das junge, rosige
                Leben ... Ein Kind, sag ich dir, und hat doch schon etwas in den Augen ... Ich war
                eilig und ging in Gedanken so hin, wäre beinahe an sie angerannt ... Er rief:
@@ -1220,8 +1219,8 @@
                man wissen ... Reife Jahre? Ach was! Künstler bleiben immer jung, nur wir altern, wir
                Arbeitsleute.«</p>
             <p>
-               <pb facs="#"/> So hatte sie vor drei Jahren die Kunde von Hermanns Verheiratung
-               aufgenommen und seitdem nichts mehr von ihm gehört.</p>
+               <pb/> So hatte sie vor drei Jahren die Kunde von Hermanns Verheiratung aufgenommen
+               und seitdem nichts mehr von ihm gehört.</p>
             <p>Und jetzt, nachdem sie alles verschmerzt, vieles vergessen, kam ein Bote aus der
                langentschwundenen Zeit und weckte sie aus ihrer tiefen Ruhe. Sie staunte selbst über
                die Gewalt des Eindrucks, den sie plötzlich empfangen hatte, über die Pein, welche er
@@ -1253,8 +1252,8 @@
                sich über »diese Idee«. Vor dem Essen war das Fräulein nie ausgegangen, warum denn
                heut!</p>
             <p>Die Frage und die seltsam forschende Miene, mit der sie gestellt wurde, machten Lotti
-               erröten; sie wandte das Gesicht <pb facs="#"/> verlegen ab und sagte: »Warum? – ja –
-               - ich könnte eigentlich auch später – wenn du dich beeilen wolltest ...«</p>
+               erröten; sie wandte das Gesicht <pb/> verlegen ab und sagte: »Warum? – ja – - ich
+               könnte eigentlich auch später – wenn du dich beeilen wolltest ...«</p>
             <p>Agnes entfernte sich, erschien jedoch bald wieder. Sie überbrachte die Visitenkarte
                eines fremden Herrn, der das Fräulein dringend zu sprechen wünschte.</p>
             <p>Der Agent des »Amerikaners« kam einmal wieder, die Anerbietungen seines Chefs in
@@ -1283,9 +1282,9 @@
             <p>Jetzt stand sie an der Tür des Uhrmacherladens, jetzt drückte sie die Klinke.</p>
             <p>Der Laden war leer, aber aus dem anstoßenden offenen, mit Gaslicht hell erleuchteten
                Raume schallte ihr ein lauter Wortwechsel entgegen.</p>
-            <p>»Ich weiß ja, daß ich eine Gefälligkeit von Ihnen verlange!« <pb facs="#"/> rief eine
-               Stimme, deren Ton Lotti seit fünfzehn Jahren nicht mehr gehört hatte und die sie
-               dennoch augenblicklich erkannte.</p>
+            <p>»Ich weiß ja, daß ich eine Gefälligkeit von Ihnen verlange!« <pb/> rief eine Stimme,
+               deren Ton Lotti seit fünfzehn Jahren nicht mehr gehört hatte und die sie dennoch
+               augenblicklich erkannte.</p>
             <p>»Ich aber bin nicht in der Lage, Gefälligkeiten zu erweisen. – Entschuldigen Sie, da
                ist jemand ...« sagte der Uhrmacher, der den Eingang zum Gewölbe nicht aus dem Auge
                gelassen hatte: »Ah – Fräulein! eben recht ...« Er eilte auf Lotti zu, indem er
@@ -1317,9 +1316,9 @@
                eingeprägt ... Ja, sie war es, war dieselbe noch! und – sie hat sich wenig verändert,
                dachte er.</p>
             <p>
-               <pb facs="#"/> Lotti hingegen dachte: Er hat sich sehr verändert. Worin aber? fragte
-               sie sich. Die Zeit ist ja doch schonend an ihm vorübergezogen. Seine Gestalt hatte
-               sich jugendlich schlank erhalten. Die Farbe seiner Haare und seines Gesichtes waren
+               <pb/> Lotti hingegen dachte: Er hat sich sehr verändert. Worin aber? fragte sie sich.
+               Die Zeit ist ja doch schonend an ihm vorübergezogen. Seine Gestalt hatte sich
+               jugendlich schlank erhalten. Die Farbe seiner Haare und seines Gesichtes waren
                dunkler, sein Bart und seine Brauen waren lichter geworden. Die Augen lagen tiefer,
                und schon bildeten sich Ringe um dieselben, doch funkelten sie noch feurig wie sonst;
                er war noch immer ein Bild männlicher Schönheit, sein Wesen noch immer anziehend und
@@ -1349,8 +1348,8 @@
             <p>Sie war schon eine ziemlich große Strecke gewandert, als sie durch rasch hinter ihr
                hereilende Schritte eingeholt wurde und Halwig an ihrer Seite erschien.</p>
             <p>
-               <pb facs="#"/> »Verzeihen Sie mir«, sagte er, »verzeihen Sie, Fräulein Lotti ... eine
-               große Bitte ...«</p>
+               <pb/> »Verzeihen Sie mir«, sagte er, »verzeihen Sie, Fräulein Lotti ... eine große
+               Bitte ...«</p>
             <p>»Nun?«</p>
             <p>»Erlauben Sie mir, meine Uhr selbst bei Ihnen abholen zu dürfen?«</p>
             <p>»Das steht Ihnen frei!« antwortete sie.</p>
@@ -1383,8 +1382,8 @@
                übereiltes Wort gesprochen hat, und setzte zögernd hinzu: »Das heißt, wenn meine Frau
                – ich wollte sagen, wenn Sie es mir erlauben.«</p>
             <p>»Erlauben – wie denn? – ich bitte Sie darum.«</p>
-            <p>Sie waren bei dem Hause Lottis angelangt, und diese blieb <pb facs="#"/> stehen.
-               »Hier wohne ich«, sprach sie, »hoch oben im dritten Stock.«</p>
+            <p>Sie waren bei dem Hause Lottis angelangt, und diese blieb <pb/> stehen. »Hier wohne
+               ich«, sprach sie, »hoch oben im dritten Stock.«</p>
             <p>»Hier also – gut – hier suche ich Sie auf, in drei Tagen ... Wie glücklich wäre ich,
                unser kaum begonnenes Gespräch jetzt schon fortsetzen zu können – aber ich bin ein
                Sklave ... ein freiwilliger natürlich – einer, der vernarrt ist in seine Sklaverei
@@ -1416,8 +1415,8 @@
             <p>»Nicht notwendig, das Fräulein erwartet Sie, und Herr Feßler auch.«</p>
             <p>»Gottfried auch?«</p>
             <p>
-               <pb facs="#"/> »Ja, ja«, bestätigte Lotti, die auf der Schwelle des Zimmers erschien,
-               »zwei alte Freunde heißen Sie willkommen.«</p>
+               <pb/> »Ja, ja«, bestätigte Lotti, die auf der Schwelle des Zimmers erschien, »zwei
+               alte Freunde heißen Sie willkommen.«</p>
             <p>Gottfried stimmte nicht sehr laut in ihre Worte ein, zeigte sich anfangs ein wenig
                abweisend, aber das dauerte nicht lange. Bald empfand auch er jenes eigentümlich
                freudige, Herz und Zunge lösende Gefühl, das in reifen Jahren durch das Wiedersehen
@@ -1449,8 +1448,8 @@
                Umgebung hat sich ebensowenig verändert wie Sie selbst. Der Raum ist kleiner
                geworden«, sprach er und blickte sich in der Stube um, »die Gegenstände sind
                dieselben geblieben. Aber – wo ist denn die Sammlung, der Schatz des Hauses?«</p>
-            <p>Lotti deutete nach der Ecke des Zimmers. »Dort steht sie.« <pb facs="#"/>
-               »Unvermindert? In ihrer ganzen Herrlichkeit?«</p>
+            <p>Lotti deutete nach der Ecke des Zimmers. »Dort steht sie.« <pb/> »Unvermindert? In
+               ihrer ganzen Herrlichkeit?«</p>
             <p>»Jawohl, in ihrer ganzen unvergleichlichen Herrlichkeit.«</p>
             <p>»Wirklich?«</p>
             <p>»Wie können Sie daran zweifeln? Ein Geizhals würde sich leichter von Hab und Gut
@@ -1483,9 +1482,8 @@
                ich bewundere dich schon die ganze Zeit im stillen.«</p>
             <p>»Spotte nur«, sagte Halwig. »Übrigens, lieber Alter, die Zeiten sind vorbei, in
                welchen man den Dichter am wallenden Lockenhaar und am abgeschabten Flausrock
-               erkannte. Den <pb facs="#"/> Wunsch, genial auszusehen, habe ich allerdings
-               aufgegeben. Aber nicht infolge äußerer Einflüsse, sondern dank meinem verbesserten
-               Geschmack.«</p>
+               erkannte. Den <pb/> Wunsch, genial auszusehen, habe ich allerdings aufgegeben. Aber
+               nicht infolge äußerer Einflüsse, sondern dank meinem verbesserten Geschmack.«</p>
             <p>Gottfried blinzelte ihn freundlich an. »Sehr gescheit«, sprach er; »deine Leute
                können mit deiner stattlichen Erscheinung zufrieden sein. Und deine Bücher, sage mir,
                finden die bei ihnen gehörige Anerkennung? Gefallen sie ihnen, wie du selbst ihnen
@@ -1515,20 +1513,20 @@
             <p>»Nun ja! – Ich habe zuviel Glück und habe stets zuviel Glück gehabt, um ohne Neider
                zu sein. Sie tun, was sie können, um mir meine Erfolge zu verkümmern, allein die Mühe
                ist verloren. Noch befinde ich mich im Vollbesitze meiner Kraft und hoffe, nicht so
-               bald zu erlahmen – geschähe das – erwachte ich eines<pb facs="#"/> Tages und wäre
-               kein Dichter mehr – wie man behauptet, daß es geschehen könne, anderen schon
-               geschehen sei – versiegte plötzlich der Quell, aus dem ich gewöhnt bin, ohne Maß zu
-               schöpfen – ja dann ...« er griff sich mit beiden Händen an den Kopf, »dann wäre ich
-               verloren ... denn alles, was ich bin und habe, steht und fällt mit meinem Talent.
-               Mein Haus ist darauf gegründet, die Zukunft meiner Frau ... geistige Verarmung hätte
-               für mich so viel zu bedeuten wie materielle Not – und das hieße sie betrogen haben,
-               die mir in unbegrenztem Vertrauen gefolgt ist ... Närrische Gedanken –« unterbrach er
-               sich mit einem gequälten Lachen, »ich kenne mich und fürchte nichts. Aber die
-               Phantasie, die uns beseligt, will auch peinigen. Nur zu!... In der Einbildung müssen
-               wir das Furchtbare durchmachen, das uns die Wirklichkeit erspart – das ist der
-               Tribut, den der Glückliche dem allgemeinen Menschenelend bezahlt ... Und, daß er
-               reichlich bezahle, dafür sorgen die eigenen, in dem Geschäft, das ich betreibe, bis
-               zum Zerreißen gespannten Nerven, und die Bemerkungen der süßen Neider, oder die
+               bald zu erlahmen – geschähe das – erwachte ich eines<pb/> Tages und wäre kein Dichter
+               mehr – wie man behauptet, daß es geschehen könne, anderen schon geschehen sei –
+               versiegte plötzlich der Quell, aus dem ich gewöhnt bin, ohne Maß zu schöpfen – ja
+               dann ...« er griff sich mit beiden Händen an den Kopf, »dann wäre ich verloren ...
+               denn alles, was ich bin und habe, steht und fällt mit meinem Talent. Mein Haus ist
+               darauf gegründet, die Zukunft meiner Frau ... geistige Verarmung hätte für mich so
+               viel zu bedeuten wie materielle Not – und das hieße sie betrogen haben, die mir in
+               unbegrenztem Vertrauen gefolgt ist ... Närrische Gedanken –« unterbrach er sich mit
+               einem gequälten Lachen, »ich kenne mich und fürchte nichts. Aber die Phantasie, die
+               uns beseligt, will auch peinigen. Nur zu!... In der Einbildung müssen wir das
+               Furchtbare durchmachen, das uns die Wirklichkeit erspart – das ist der Tribut, den
+               der Glückliche dem allgemeinen Menschenelend bezahlt ... Und, daß er reichlich
+               bezahle, dafür sorgen die eigenen, in dem Geschäft, das ich betreibe, bis zum
+               Zerreißen gespannten Nerven, und die Bemerkungen der süßen Neider, oder die
                Ratschläge der weisen Freunde. Auf dem Wege hierher bin ich dem weisesten von allen
                begegnet ... Was der nicht alles wußte, nicht alles kommen sah! Wie der so
                eindringlich bat, als hänge sein eigenes Heil davon ab: Gönne dir Ruhe! Sündige nicht
@@ -1547,7 +1545,7 @@
             <p>Sie sah an ihm vorüber durch das Fenster und antwortete zögernd: »Wie dir.«</p>
             <p>»Schad um ihn.«</p>
             <p>
-               <pb facs="#"/> »Ja, traurig.«</p>
+               <pb/> »Ja, traurig.«</p>
             <p>Wenige Tage darauf schrieb Frau von Halwig an Lotti einen zierlichen kleinen Brief.
                Sie war im höchsten Grade ungeduldig, Fräulein Feßler kennenzulernen. Sie forderte
                ihren Anteil an der Freude, die ihrem Manne durch das Wiederfinden seiner
@@ -1580,7 +1578,7 @@
             <p>»Heute nicht«, versetzte das Bürschchen und lächelte mit dem ganzen impertinenten
                Gesicht. »Morgen lassen die Frau Baronin bitten, morgen um ein Uhr.«</p>
             <p>
-               <pb facs="#"/> »Morgen? – Gut denn, morgen.«</p>
+               <pb/> »Morgen? – Gut denn, morgen.«</p>
             <p>Es schien Lotti ein wenig befremdlich, daß die junge Frau, die nicht den Mut gehabt,
                sie um ihren Besuch zu bitten, doch mit Sicherheit auf ihn gerechnet haben sollte;
                aber sie machte sich nicht lange darüber Gedanken. Sie kehrte wieder zu ihrem lieben,
@@ -1612,9 +1610,9 @@
             <p>»Ist das kleinlich?« sagte er, nicht ohne einige Beschämung.</p>
             <p>»Ungeheuer! So ungeheuer, als etwas Kleines nur irgend sein kann.«</p>
             <p>Er lachte und war wieder der gute, liebe Gottfried, der »beste Mensch«. Er konnte
-               übrigens nur einige Augenblicke verweilen, <pb facs="#"/> es gab sehr viel zu tun.
-               Das neuerrichtete Geschäft ließ sich vortrefflich an, und doch wollte er nicht so
-               ganz Kaufmann werden, daß er am Ende seine Uhrmacherei darüber vernachlässigte.
+               übrigens nur einige Augenblicke verweilen, <pb/> es gab sehr viel zu tun. Das
+               neuerrichtete Geschäft ließ sich vortrefflich an, und doch wollte er nicht so ganz
+               Kaufmann werden, daß er am Ende seine Uhrmacherei darüber vernachlässigte.
                Fortschritte meinte er freilich unter den jetzigen Umständen nicht mehr machen zu
                können, aber verlernen wollte er nichts, und schon das forderte ein ganz knappes
                Wirtschaften mit der Zeit.</p>
@@ -1644,9 +1642,9 @@
                recht lang, mit Ihren milden, frommen, friedlichen Augen – es tut mir wohl und
                beruhigt mich, und ich brauche Ruhe zu dem schweren Gang, den ich heute zu machen
                habe ...« Er hielt inne, und Lotti sagte nach kurzem Schweigen sanft und
-               eindringlich: »Fahren Sie fort, schenken Sie mir Ihr ganzes Vertrauen ... <pb
-                  facs="#"/> Sie wissen, Sie müssen sich noch erinnern, wie großen Wert ich auf Ihr
-               Vertrauen lege. Darin, lieber Freund, habe ich mich nicht verändert.«</p>
+               eindringlich: »Fahren Sie fort, schenken Sie mir Ihr ganzes Vertrauen ... <pb/> Sie
+               wissen, Sie müssen sich noch erinnern, wie großen Wert ich auf Ihr Vertrauen lege.
+               Darin, lieber Freund, habe ich mich nicht verändert.«</p>
             <p>»Ja, ja! fordern Sie Vertrauen von mir, lehren Sie mich wieder Vertrauen haben«, rief
                er, »ich habe das inmitten der Mißgunst, die mich umgibt, verlernt.«</p>
             <p>»Halwig, diese Mißgunst – besteht sie nicht vielleicht einzig und allein in Ihren
@@ -1676,9 +1674,9 @@
             <p>»Nein – ja – wie man will ... Ich habe mich herbeigelassen, eine Vorauszahlung von
                ihm anzunehmen auf einen Roman, der im Feuilleton seiner Zeitschrift erscheinen soll
                ... und kann dieser Verpflichtung nicht nachkommen ... es ist mir unmöglich, trotz
-               all meiner Arbeitskraft, all meines Fleißes. Heute sollte <pb facs="#"/> ich meinen
-               ersten Band abliefern, und heute muß ich das Geständnis ablegen, daß er noch nicht
-               begonnen ist – muß um Zeit bitten, um Geduld – -«</p>
+               all meiner Arbeitskraft, all meines Fleißes. Heute sollte <pb/> ich meinen ersten
+               Band abliefern, und heute muß ich das Geständnis ablegen, daß er noch nicht begonnen
+               ist – muß um Zeit bitten, um Geduld – -«</p>
             <p>»Wär's nicht besser, den peinlichen Vertrag ganz zu lösen, Halwig?« sprach Lotti.</p>
             <p>»Das kann ich nicht –«</p>
             <p>»Wenn Sie ihm die erhaltene Summe zurückerstatten würden ...«</p>
@@ -1709,10 +1707,9 @@
             <p>»Macht gewiß Visiten«, meinte Leopoldine und beugte sich recht weit aus dem Fenster,
                um Lotti nachzublicken, die soeben über den Platz schritt.</p>
             <p>
-               <pb facs="#"/> Der Alte folgte dem Beispiel seiner Tochter und rief in Begeisterung:
-               »Schau, schau! Es gibt doch nichts Schöneres als ein schwarzes Seidenkleid ... Aber
-               Falten muß es haben, muß sich so gewiß ausbreiten – das ist anständig, das ist
-               elegant!«</p>
+               <pb/> Der Alte folgte dem Beispiel seiner Tochter und rief in Begeisterung: »Schau,
+               schau! Es gibt doch nichts Schöneres als ein schwarzes Seidenkleid ... Aber Falten
+               muß es haben, muß sich so gewiß ausbreiten – das ist anständig, das ist elegant!«</p>
             <p>»Nein, elegant ist es just nicht!« erwiderte Leopoldine, ihr kleines, breites Näschen
                rümpfend.</p>
             <p>»Nicht? Kannst du dir das Fräulein denken in so einer modernen Ofenröhre, wie du da
@@ -1742,13 +1739,13 @@
                mächtigen Empfindungen, daß sie nicht vermocht hätte zu sagen, welche die
                vorherrschende sei. Vielleicht war es ein geheimer Tatendrang – der Wunsch, Einfluß
                auf die Frau Halwigs zu gewinnen, und die Hoffnung, wenn das gelang, durch sie dem
-               Selbstzerstörungswerk Einhalt zu <pb facs="#"/> tun, in dem der Dichter begriffen
-               war. Sollte jene aber nichts wissen von seinen schweren Seelenkämpfen? Sollte sie,
-               wenn er auch schweigt – nichts davon erraten haben? Ist es nicht offenbarer
-               Unverstand, sich einzubilden, daß eine Fremde kommen müsse, um der Gattin die Augen
-               zu öffnen? Und dennoch – dennoch – trotz aller Einwendungen ihres Verstandes blieb
-               Lotti von einer Ahnung durchdrungen, für die ihr jeder Grund, jeder Anhaltspunkt
-               fehlte, der Ahnung: die Frau, die er liebt, weiß nichts von seinem inneren Leben.</p>
+               Selbstzerstörungswerk Einhalt zu <pb/> tun, in dem der Dichter begriffen war. Sollte
+               jene aber nichts wissen von seinen schweren Seelenkämpfen? Sollte sie, wenn er auch
+               schweigt – nichts davon erraten haben? Ist es nicht offenbarer Unverstand, sich
+               einzubilden, daß eine Fremde kommen müsse, um der Gattin die Augen zu öffnen? Und
+               dennoch – dennoch – trotz aller Einwendungen ihres Verstandes blieb Lotti von einer
+               Ahnung durchdrungen, für die ihr jeder Grund, jeder Anhaltspunkt fehlte, der Ahnung:
+               die Frau, die er liebt, weiß nichts von seinem inneren Leben.</p>
             <p>Lotti war im neuen Stadtteil vor dem neuen Hause angekommen, das Halwig bewohnte.
                Nett wie ein Schächtelchen stand es da; alles darin frisch und blank und fast
                blendend vor Glanz und Farbenpracht, alles geschmackvoll und schön: die Malereien an
@@ -1774,8 +1771,8 @@
                lichtblauem Atlas überzogenen Chaiselongue eine junge Dame lag.</p>
             <p>»Wie schön von Ihnen«, sprach diese und richtete sich, wie es schien nicht ohne
                Anstrengung, mit dem Oberkörper auf. Eine kleine hilflose Kinderhand streckte sich
-               aus der Flut von <pb facs="#"/> Spitzen, welche die Ärmel des weißen Schlafrocks
-               umgaben, der Besucherin entgegen.</p>
+               aus der Flut von <pb/> Spitzen, welche die Ärmel des weißen Schlafrocks umgaben, der
+               Besucherin entgegen.</p>
             <p>»Wie schön von Ihnen, daß Sie kommen ... aber ich hab's gewußt, ich habe wirklich auf
                die Erfüllung meiner Bitte gezählt ...«</p>
             <p>»Sie sehen wie recht Sie gehabt ...«</p>
@@ -1806,27 +1803,27 @@
                Umgebung! Das Gemach glich einem Wintergarten, von Blütenduft und Sonnenschein
                durchtränkt.</p>
             <p>In den Vertiefungen der vier hohen, im rechten Winkel aufeinanderstehenden Fenster
-               prangten dichte, üppige Gruppen <pb facs="#"/> der seltensten Blumen. In einer Ecke
-               breitete eine riesige Fächerpalme ihre zackigen Blätter aus, in der anderen wiegten
-               sich in den Ringen ihrer vergoldeten Käfige ein Arras mit kühnem Schopf und ein
-               blauer Papagei. Eine zierliche Voliere beherbergte ein Dutzend brasilianischer
-               Vögelchen mit schimmerndem Gefieder. In einem Aquarium schwammen Gold- und
-               Silberfische, hockten langweilige Schildkröten, und aus den Spalten des kleinen
-               künstlichen Felsens, der sich in der Mitte desselben erhob, guckten grüne Eidechsen
-               und gelb gefleckte Salamander mit scheuer Neugier hervor. Zu Füßen der Herrin lag ein
-               weißes Hündchen, dessen Stirnhaare höchst kokett mit einer blauen Schleife
-               zusammengebunden waren. Einige Schritte von ihm befand sich seine Villa, ein Zelt aus
-               demselben blauen Seidenstoff, aus dem die Tür- und Fenstervorhänge bestanden. Mit
-               diesen stimmte nur das Rubebett überein. Alle übrigen Möbel schienen je ein Muster
-               von ganz verschiedenen Gattungen. Persische, indische, türkische Stoffe und
-               Stickereien schmückten reich geschnitzte oder eingelegte Gestelle, prangten auf den
-               Kissen, waren über die Tische gebreitet. Das Zimmer war überfüllt, drei Dinge jedoch
-               hätte man darin vergeblich gesucht: ein Gemälde, ein Buch und – eine weibliche
-               Handarbeit. Dagegen waren mehrere Etageren vorhanden, ganz bedeckt mit Rauch- und
-               Reitrequisiten. Zigarettenvorräte hoch aufgespeichert, abenteuerlich geformte
-               Pfeifchen, kleine Tschibuks mit kostbaren, edelsteingeschmückten Mundstücken,
-               Reitpeitschen und Reitstöcke, köstlich damaszierte Pistolen, mit Schaft aus
-               Elfenbein, daneben in einem Futteral ein goldener Sporn.</p>
+               prangten dichte, üppige Gruppen <pb/> der seltensten Blumen. In einer Ecke breitete
+               eine riesige Fächerpalme ihre zackigen Blätter aus, in der anderen wiegten sich in
+               den Ringen ihrer vergoldeten Käfige ein Arras mit kühnem Schopf und ein blauer
+               Papagei. Eine zierliche Voliere beherbergte ein Dutzend brasilianischer Vögelchen mit
+               schimmerndem Gefieder. In einem Aquarium schwammen Gold- und Silberfische, hockten
+               langweilige Schildkröten, und aus den Spalten des kleinen künstlichen Felsens, der
+               sich in der Mitte desselben erhob, guckten grüne Eidechsen und gelb gefleckte
+               Salamander mit scheuer Neugier hervor. Zu Füßen der Herrin lag ein weißes Hündchen,
+               dessen Stirnhaare höchst kokett mit einer blauen Schleife zusammengebunden waren.
+               Einige Schritte von ihm befand sich seine Villa, ein Zelt aus demselben blauen
+               Seidenstoff, aus dem die Tür- und Fenstervorhänge bestanden. Mit diesen stimmte nur
+               das Rubebett überein. Alle übrigen Möbel schienen je ein Muster von ganz
+               verschiedenen Gattungen. Persische, indische, türkische Stoffe und Stickereien
+               schmückten reich geschnitzte oder eingelegte Gestelle, prangten auf den Kissen, waren
+               über die Tische gebreitet. Das Zimmer war überfüllt, drei Dinge jedoch hätte man
+               darin vergeblich gesucht: ein Gemälde, ein Buch und – eine weibliche Handarbeit.
+               Dagegen waren mehrere Etageren vorhanden, ganz bedeckt mit Rauch- und Reitrequisiten.
+               Zigarettenvorräte hoch aufgespeichert, abenteuerlich geformte Pfeifchen, kleine
+               Tschibuks mit kostbaren, edelsteingeschmückten Mundstücken, Reitpeitschen und
+               Reitstöcke, köstlich damaszierte Pistolen, mit Schaft aus Elfenbein, daneben in einem
+               Futteral ein goldener Sporn.</p>
             <p>Die Besitzerin all dieser Herrlichkeiten sah voll Vergnügen das Interesse, das Lotti
                denselben schenkte.</p>
             <p>Es gefällt dir bei mir! sagten ihre großen langbewimperten Augen, dunkelbraun wie der
@@ -1837,8 +1834,8 @@
             <p>Sie neigte den Kopf ein wenig zur Seite und sah vor sich nieder.</p>
             <p>»Ich muß Ihnen sagen – ich war gestern nicht nur ungewöhnlich leidend – leg dich,
                Gipsy«, unterbrach sie sich, um zu ihrem Hündchen zu sprechen, das sich auf den
-               Hinterpfoten <pb facs="#"/> aufgerichtet hatte und die herabhängende Hand seiner
-               Herrin mit ungestümer Zärtlichkeit leckte. Gipsy gehorchte.</p>
+               Hinterpfoten <pb/> aufgerichtet hatte und die herabhängende Hand seiner Herrin mit
+               ungestümer Zärtlichkeit leckte. Gipsy gehorchte.</p>
             <p>»Ich muß Ihnen sagen«, begann Agathe wieder, »ich war nicht nur leidend, sondern auch
                ...« sie zögerte ein Weilchen, »sondern auch sehr bekümmert.«</p>
             <p>»Um Ihren Mann?« fragte Lotti hastig.</p>
@@ -1868,9 +1865,9 @@
                wie ihre Großmutter, die auch im zweiundzwanzigsten Jahre ...</p>
             <p>»Perro! Perro! Perroquet!« rief sie plötzlich dem Papagei zu, der sich von Anfang an
                in das Gespräch gemischt hatte und dessen Geschrei immer gellender wurde. »Der Vogel
-               ist unerträglich!« <pb facs="#"/> Sie wand sich auf ihrem Ruhebett und preßte den
-               Kopf in die Kissen. »O Fräulein, erbarmen Sie sich, haben Sie doch die Güte, den
-               Schal dort, sehen Sie – den dort – über den Käfig dieses Untiers zu werfen.«</p>
+               ist unerträglich!« <pb/> Sie wand sich auf ihrem Ruhebett und preßte den Kopf in die
+               Kissen. »O Fräulein, erbarmen Sie sich, haben Sie doch die Güte, den Schal dort,
+               sehen Sie – den dort – über den Käfig dieses Untiers zu werfen.«</p>
             <p>»Danke, danke!« sprach sie, nachdem Lotti ihrem Wunsche nachgekommen war und
                Perroquet, plötzlich in Dunkelheit versetzt, still geworden. »Und jetzt kommen Sie,
                geben Sie mir Ihre Hand. Aber ohne Handschuh.«</p>
@@ -1900,25 +1897,25 @@
                Bruder Papas geholfen, der vor fünfzehn Jahren eine unermeßlich reiche
                Fabrikantentochter aus Liverpool geheiratet und England seitdem nicht mehr verlassen
                hat. Die Ehe ist kinderlos geblieben, und seit langer Zeit bestehen der Onkel und die
-               englische Tante darauf, daß Agathens Eltern, womöglich auch<pb facs="#"/> deren
-               Söhne, zu ihnen kommen, sich ganz bei ihnen etablieren, nur eine Familie mit ihnen
-               bilden möchten. Das soll auch geschehen, der Entschluß ist gefaßt, der Tag der
-               Abreise schon festgesetzt. Allein, der sonst so vernünftige Onkel will nicht
-               begreifen, daß Papa nicht fort kann, ohne einige Zahlungen beglichen zu haben, die
-               wirklich dringend sind ... Ehrenschulden an Leute, denen man nicht sagen mag: Warten
-               Sie ... die höchstens denken dürften, man habe nur augenblicklich die Kleinigkeit
-               vergessen ... Ein Mann wie Papa! – Oh, wenn Lotti ihn kennen würde!... Und, mit einem
-               Wort, es steht so: Papa besitzt ein kleines Gut, sechs Stunden von der Stadt, in der
-               reizendsten Gegend. Unvergleichlicher Reitboden! Es war immer Agathens
-               Lieblingsaufenthalt. Das müßte verkauft werden – gleich, gleich – ohne Verzug und
-               nicht unter seinem Wert. Der Erlös desselben deckt alle Differenzen, und leichten
-               Herzens verlassen Papa und Mama die Heimat, und erhobenen Hauptes treten sie vor die
-               fremde Schwägerin. Ihnen ist die Demütigung erspart, die gräßliche, mit einer Bitte
-               auf den Lippen in dem Hause zu erscheinen, das sich ihnen gastfreundlich erschließt
-               ... Genug, das Gütchen muß verkauft werden, und der Käufer muß – Hermann sein, und
-               Lotti, die er so unaussprechlich verehrt, deren Meinung ihm von höchster Wichtigkeit
-               ist, muß ihn dazu bewegen ... Will sie es tun? sie will, sie hat es versprochen, sie
-               darf jetzt nicht nein sagen. Sie wird ihren Einfluß geltend machen ...</p>
+               englische Tante darauf, daß Agathens Eltern, womöglich auch<pb/> deren Söhne, zu
+               ihnen kommen, sich ganz bei ihnen etablieren, nur eine Familie mit ihnen bilden
+               möchten. Das soll auch geschehen, der Entschluß ist gefaßt, der Tag der Abreise schon
+               festgesetzt. Allein, der sonst so vernünftige Onkel will nicht begreifen, daß Papa
+               nicht fort kann, ohne einige Zahlungen beglichen zu haben, die wirklich dringend sind
+               ... Ehrenschulden an Leute, denen man nicht sagen mag: Warten Sie ... die höchstens
+               denken dürften, man habe nur augenblicklich die Kleinigkeit vergessen ... Ein Mann
+               wie Papa! – Oh, wenn Lotti ihn kennen würde!... Und, mit einem Wort, es steht so:
+               Papa besitzt ein kleines Gut, sechs Stunden von der Stadt, in der reizendsten Gegend.
+               Unvergleichlicher Reitboden! Es war immer Agathens Lieblingsaufenthalt. Das müßte
+               verkauft werden – gleich, gleich – ohne Verzug und nicht unter seinem Wert. Der Erlös
+               desselben deckt alle Differenzen, und leichten Herzens verlassen Papa und Mama die
+               Heimat, und erhobenen Hauptes treten sie vor die fremde Schwägerin. Ihnen ist die
+               Demütigung erspart, die gräßliche, mit einer Bitte auf den Lippen in dem Hause zu
+               erscheinen, das sich ihnen gastfreundlich erschließt ... Genug, das Gütchen muß
+               verkauft werden, und der Käufer muß – Hermann sein, und Lotti, die er so
+               unaussprechlich verehrt, deren Meinung ihm von höchster Wichtigkeit ist, muß ihn dazu
+               bewegen ... Will sie es tun? sie will, sie hat es versprochen, sie darf jetzt nicht
+               nein sagen. Sie wird ihren Einfluß geltend machen ...</p>
             <p>»Sie wollen, Sie werden, Fräulein – nicht wahr? und bald – und heute noch?«</p>
             <p>Agathens Blicke hingen an den Lippen der Schweigenden: »Antworten Sie mir – reden
                Sie!«</p>
@@ -1931,8 +1928,8 @@
                Eltern aus der unangenehmsten Lage zu befreien – die Summe bietet sein Verleger ihm
                an ... Er braucht nur einen Kontrakt zu unterschreiben, in dem er sich verpflichtet
                ... ich kann nicht sagen, wie viele Bände zu liefern in einer bestimmten Zeit ... und
-                  <pb facs="#"/> denken Sie! statt freudig auf den Vorschlag einzugehen, zögert er –
-               kann zu keinem Entschluß kommen, ich –« eine plötzlich aufsteigende Röte, wie eine
+               <pb/> denken Sie! statt freudig auf den Vorschlag einzugehen, zögert er – kann zu
+               keinem Entschluß kommen, ich –« eine plötzlich aufsteigende Röte, wie eine
                beschämende Erinnerung sie erweckt, bedeckt ihr Angesicht, »ich habe ihn vergeblich
                darum gebeten.«</p>
             <p>»Wie können Sie glauben«, sagte Lotti, »daß er mir etwas zugestehen wird, das er
@@ -1962,8 +1959,8 @@
                das steht in den Sternen geschrieben, dagegen vermögen Sie nichts.«</p>
             <p>Sie sprach das alles rasch mit ihrer weichsten Stimme und dabei mit einer
                Bestimmtheit, die nicht einmal den Versuch eines Widerstandes aufkommen ließ.</p>
-            <p>»Sei es denn!« sagte Lotti und fügte in Gedanken hinzu: <pb facs="#"/> So laßt uns in
-               einem fremden Hause einen fremden Besuch im Namen einer fremden Frau empfangen.</p>
+            <p>»Sei es denn!« sagte Lotti und fügte in Gedanken hinzu: <pb/> So laßt uns in einem
+               fremden Hause einen fremden Besuch im Namen einer fremden Frau empfangen.</p>
             <p>Mitten in dem chinesischen Boudoir, in das sie eintrat, stand ein Mann von etwa
                vierzig Jahren. Eine gedrungene, untersetzte Gestalt, dunkel, etwas nachlässig
                gekleidet. Ein mächtiger Kopf, mit dichtem, schon ins Graue spielendem bürstenartig
@@ -1991,7 +1988,7 @@
                Leidenschaft und Groll, daß Lotti, die unerfahrene, weltunkundige Lotti, mit
                plötzlichem und bangem Begreifen zusammenschrak. Sie dachte: Was ist das? Hilf Himmel
                – der haßt oder – der liebt sie.</p>
-            <pb facs="#"/>
+            <pb/>
          </div>
          <div type="chapter">
             <head>10</head>
@@ -2028,8 +2025,7 @@
             <p>»Warum?« fiel er ihr ins Wort. »Weil Sie mir glauben? Nun, das geschieht, weil
                zwischen zwei absolut redlichen Menschen eine Freimaurerei besteht.«</p>
             <p>
-               <pb facs="#"/> »Vielleicht – aber seltsam scheint es mir, daß auch Sie meinen Einfluß
-               ...«</p>
+               <pb/> »Vielleicht – aber seltsam scheint es mir, daß auch Sie meinen Einfluß ...«</p>
             <p>Abermals unterbrach er sie: »Auch ich?... Ganz recht. Ihr Einfluß ist hier bereits
                angerufen worden – freilich im entgegengesetzten Sinne ... von einem schönen Vampyr
                ...«</p>
@@ -2062,8 +2058,8 @@
                schlanken Rücken festzuknüpfen, der sich ihr entgegenbeugte, während Schweitzer
                dieser ganzen Prozedur mit stillem Grimm zuzusehen schien.</p>
             <p>
-               <pb facs="#"/> Agathe erhob sich von ihren Knien, um auf ein kleines Kanapee zu
-               gleiten, in dessen Kissen sie sich zurücklehnte.</p>
+               <pb/> Agathe erhob sich von ihren Knien, um auf ein kleines Kanapee zu gleiten, in
+               dessen Kissen sie sich zurücklehnte.</p>
             <p>»Ihren Grund, mein Freund. Reden Sie doch. Sie spannen meine Neugier auf die Folter«,
                sagte sie, und ein maskiertes Gähnen hob ihre Nasenflügel.</p>
             <p>»Ich höre von einem Kontrakt mit einem Buchhändler, den Halwig unterschreiben soll«,
@@ -2093,12 +2089,12 @@
                schöne, glänzende Frau, den alternden, schlichten Mann, dessen Züge etwas Steinernes
                annahmen und der in hartem Tone sprach: »An wem ist Ihnen mehr gelegen? An diesem
                aufrichtigen Freund oder an Ihrem blauen Papagei?«</p>
-            <p>»Keine Gewissensfragen! Kommen Sie mir jetzt nicht mit <pb facs="#"/>
-               Gewissensfragen! Bleiben wir bei der Stange. Aufrichtig! wenn ich bitten darf.« Sie
-               wurde ernst und sprach in kaltem und geschäftsmäßigem Tone: »Sie sind gegen die
-               Unterschrift, weil Sie nicht zweifeln, daß uns bald auf andere Art aus der
-               Verlegenheit geholfen wird ... Leugnen Sie doch nicht! – Unser Prozeß steht gut – er
-               kann nur gut stehen, sagt Hermann, der gewiß kein Sanguiniker ist ...«</p>
+            <p>»Keine Gewissensfragen! Kommen Sie mir jetzt nicht mit <pb/> Gewissensfragen! Bleiben
+               wir bei der Stange. Aufrichtig! wenn ich bitten darf.« Sie wurde ernst und sprach in
+               kaltem und geschäftsmäßigem Tone: »Sie sind gegen die Unterschrift, weil Sie nicht
+               zweifeln, daß uns bald auf andere Art aus der Verlegenheit geholfen wird ... Leugnen
+               Sie doch nicht! – Unser Prozeß steht gut – er kann nur gut stehen, sagt Hermann, der
+               gewiß kein Sanguiniker ist ...«</p>
             <p>»Sagt Hermann, daß es mit dem Prozeß gut steht? – Das sagt er Ihnen? Warum nicht
                lieber mir, den es trösten würde? denn ich sehe schwarz in der Sache, ich halte sie
                für verloren, und Hermann wäre meiner Meinung, wenn er den Gang der Angelegenheiten
@@ -2125,8 +2121,8 @@
             <p>Agathe horchte seinen Worten mit verhaltenem Atem.</p>
             <p>»Sie selbst«, sagte sie jetzt, »haben die Hoffnung, die Sie ihm nehmen wollen, noch
                nicht verloren. Jener Brief von Ihrem Abgesandten, den Sie erwarten, kann günstige
-               Nachrichten <pb facs="#"/> bringen ... Jenen Brief«, sie blickte ihn forschend an,
-               »erwarteten Sie, wenn ich nicht irre, schon gestern ...</p>
+               Nachrichten <pb/> bringen ... Jenen Brief«, sie blickte ihn forschend an, »erwarteten
+               Sie, wenn ich nicht irre, schon gestern ...</p>
             <p>Lieber Freund, wenn der Brief fortfährt, auszubleiben – oder wenn er eintrifft, mit
                schlechten Nachrichten beladen – dann, lieber Freund, dann liebes Fräulein Feßler –«
                sie ergriff Lottis Hand und hielt sie angstvoll mit ihren Fingern umklammert –, »dann
@@ -2157,11 +2153,11 @@
                sie selbstvergessen an.</p>
             <p>Sie fuhr fort: »Wir könnten selig sein. Selig, einander endlich anzugehören, endlich
                füreinander zu leben. Das geschieht hier nicht, in der widerwärtigen Stadt. Auf dem
-               Lande, und wenn Hermann noch soviel zu tun hätte, bliebe ihm mehr Zeit für <pb
-                  facs="#"/> mich. Hier vergehen Tage, an denen ich ihn nicht sehe, das halbe
-               Stündchen ausgenommen, das wir bei Tische zubringen. Und wovon spricht er da? Von
-               Büchern, Zeitungen, Rezensionen ... Ich frage mich oft: Habe ich einen Mann
-               geheiratet oder eine Schreibmaschine?«</p>
+               Lande, und wenn Hermann noch soviel zu tun hätte, bliebe ihm mehr Zeit für <pb/>
+               mich. Hier vergehen Tage, an denen ich ihn nicht sehe, das halbe Stündchen
+               ausgenommen, das wir bei Tische zubringen. Und wovon spricht er da? Von Büchern,
+               Zeitungen, Rezensionen ... Ich frage mich oft: Habe ich einen Mann geheiratet oder
+               eine Schreibmaschine?«</p>
             <p>»Das fühlen Sie?« rief Schweitzer, »und könnten sich doch entschließen, dieser
                ohnehin überbürdeten Maschine, deren Motor ein Menschengeist ist, neue Lasten
                aufzudrängen?«</p>
@@ -2189,7 +2185,7 @@
             <p>Er verbeugte sich, trat vor Lotti hin und sprach: »Vergessen Sie nicht, daß wir
                Bundesgenossen sind.«</p>
             <p>Damit verließ er das Gemach.</p>
-            <pb facs="#"/>
+            <pb/>
          </div>
          <div type="chapter">
             <head>11</head>
@@ -2222,8 +2218,8 @@
             <p>»Oh, nicht lange. Die Herrschaften hatten schon beinahe abgespeist, als ich kam, und
                ich beschwor den Diener, Sie nicht zu stören.«</p>
             <p>
-               <pb facs="#"/> »Treten Sie doch jetzt ein!... Kommen Sie –« sprach Halwig, und Lotti
-               fühlte seinen Arm zucken unter ihrer Hand.</p>
+               <pb/> »Treten Sie doch jetzt ein!... Kommen Sie –« sprach Halwig, und Lotti fühlte
+               seinen Arm zucken unter ihrer Hand.</p>
             <p>»Wenn Sie erlauben, Herr Baron, allein ich habe Eile ... und nur weil der Zufall mich
                eben hier vorbei geführt, und um Ihnen die Mühe des Schickens zu ersparen – bin ich
                da, um ... um das Versprochene abzuholen.«</p>
@@ -2256,11 +2252,10 @@
                Wie ich dabei wegkomme, das ist eine andere Frage. Allein für Sie ... was täte ich
                nicht für Sie, Herr Baron?«</p>
             <p>Er empfahl sich, von Hermann bis an die Tür begleitet.</p>
-            <p>Agathe lachte ihm herzlich nach: »Was war denn das für <pb facs="#"/> ein Ungeheuer?
-               Oh, Fräulein Feßler, haben Sie seine Füße gesehen und seinen Gang bemerkt?... Mir
-               scheint nein. Warten Sie, ich will das herrliche Schauspiel vor Ihnen erneuern. Sie
-               müssen sich noch einmal daran erquicken. Einwärts! noch einwärtser! so – nicht
-               wahr?«</p>
+            <p>Agathe lachte ihm herzlich nach: »Was war denn das für <pb/> ein Ungeheuer? Oh,
+               Fräulein Feßler, haben Sie seine Füße gesehen und seinen Gang bemerkt?... Mir scheint
+               nein. Warten Sie, ich will das herrliche Schauspiel vor Ihnen erneuern. Sie müssen
+               sich noch einmal daran erquicken. Einwärts! noch einwärtser! so – nicht wahr?«</p>
             <p>Sie begann im Zimmer umherzuhumpeln, ihrem Manne entgegen und ließ sich, mit Absicht
                ausgleitend, in seine Arme fallen. Er umschlang sie und drückte einen langen
                leidenschaftlichen Kuß auf ihre Lippen.</p>
@@ -2293,10 +2288,9 @@
                denn? Geh, liebes Kind«, setzte er bittend hinzu, »du mußt ruhen, ein wenig
                schlummern, wenn du abends in Gesellschaft sollst. Geh.«</p>
             <p>
-               <pb facs="#"/> Sie sah ihn traurig und gekränkt an und sprach nach kurzem Schweigen
-               zu Lotti: »Er ist ein Tyrann, und ich gehorche. Liebstes Fräulein, schenken Sie ihm
-               eine Tasse Kaffee ein und ein Gläschen Chartreuse und bleiben Sie noch ein wenig bei
-               ihm.«</p>
+               <pb/> Sie sah ihn traurig und gekränkt an und sprach nach kurzem Schweigen zu Lotti:
+               »Er ist ein Tyrann, und ich gehorche. Liebstes Fräulein, schenken Sie ihm eine Tasse
+               Kaffee ein und ein Gläschen Chartreuse und bleiben Sie noch ein wenig bei ihm.«</p>
             <p>Sie drückte Lottis Hände, bat sie, recht bald, unendlich bald, spätestens morgen
                wiederzukommen, und schritt dem Ausgang zu. Aber an der Tür blieb sie stehen, wandte
                sich, preßte die Finger an ihren Mund und warf mit einer Gebärde voll Innigkeit
@@ -2326,12 +2320,11 @@
                glauben Sie nicht, eine verschämte alte Jungfer zu hören, die sich einbildet, ein
                Mann, ein Schriftsteller, der seine Zeit schildern will, werde die Feder immer nur in
                Blütenduft und Morgentau tauchen. Ihr habt Furchtbares zu zeichnen, zeichnet es denn
-               mit furchtbarer <pb facs="#"/> Kraft und Deutlichkeit, aber auch mit dem
-               tiefinnerlichen Schauder, den euer Schüler, euer Leser bebend mitempfindet. Nur nicht
-               mit dem eklen, im Häßlichen wühlenden Behagen, das sich auf jenen überträgt ... Mit
-               dem Behagen, Halwig, das mich – verzeihen Sie mir, es muß ausgesprochen werden –, das
-               mich anwiderte aus dem ersten Buch, das Sie nach unserer Trennung geschrieben
-               haben.«</p>
+               mit furchtbarer <pb/> Kraft und Deutlichkeit, aber auch mit dem tiefinnerlichen
+               Schauder, den euer Schüler, euer Leser bebend mitempfindet. Nur nicht mit dem eklen,
+               im Häßlichen wühlenden Behagen, das sich auf jenen überträgt ... Mit dem Behagen,
+               Halwig, das mich – verzeihen Sie mir, es muß ausgesprochen werden –, das mich
+               anwiderte aus dem ersten Buch, das Sie nach unserer Trennung geschrieben haben.«</p>
             <p>»Aus dem –« rief er, kämpfend zwischen Bestürzung und Hohn.</p>
             <p>»Sie begreifen das nicht«, fuhr Lotti unerbittlich fort, »jenes Buch ist von Ihnen
                seither so vielfach überboten worden, es ist ein Buch für Kinder im Vergleich zu
@@ -2358,8 +2351,8 @@
                festgenistet hat ...«</p>
             <p>»Vielleicht braucht's kein Wunder«, unterbrach ihn Lotti und erhob sich mit einer
                seltsamen Hast. »Leben Sie wohl.«</p>
-            <p>»Wie gern möchte ich Sie zurückhalten, aber da«, er deutete <pb facs="#"/> auf die
-               Schriften, die seinen Schreibtisch bedeckten, »da ist Gesellschaft, die jede andere
+            <p>»Wie gern möchte ich Sie zurückhalten, aber da«, er deutete <pb/> auf die Schriften,
+               die seinen Schreibtisch bedeckten, »da ist Gesellschaft, die jede andere
                verdrängt.«</p>
             <p>Sie hörte ihn kaum, sie war mit einem Gedanken beschäftigt ... Der Gedanke, der war
                das Wunder – ein anderes gab es nicht.</p>
@@ -2390,12 +2383,12 @@
             <p>Da war dem Tier im Menschen jede Regung abgelauscht und mit schamloser Genauigkeit
                auseinandergesetzt. Da war eine erzwungene, erlogene Sinnlichkeit, aus der die
                offenbare Ohnmacht mit bleicher Fratze hervorgrinste. Da war die Fülle niederer
-               Wirklichkeit aus dem seichten Strom des gemeinen <pb facs="#"/> Lebens geschöpft, da
-               fehlte alle höchste Wahrheit, die der Poesie. Da war endlich der Notbehelf, der
-               armselige, einer lahmen Phantasie: das mit photographischer Treue und Verzerrung
-               gezeichnete Porträt; Persönlichkeiten, aus dem Schutz des Hauses gerissen und an den
-               Pranger gestellt, zur Augenweide eines Publikums, demjenigen verwandt, das sich zu
-               den Hinrichtungen drängt.</p>
+               Wirklichkeit aus dem seichten Strom des gemeinen <pb/> Lebens geschöpft, da fehlte
+               alle höchste Wahrheit, die der Poesie. Da war endlich der Notbehelf, der armselige,
+               einer lahmen Phantasie: das mit photographischer Treue und Verzerrung gezeichnete
+               Porträt; Persönlichkeiten, aus dem Schutz des Hauses gerissen und an den Pranger
+               gestellt, zur Augenweide eines Publikums, demjenigen verwandt, das sich zu den
+               Hinrichtungen drängt.</p>
             <p>Im großen ganzen – die klägliche Mißgeburt des schreiblustigen Jahrhunderts: der
                Sensationsroman.</p>
             <p>Und dennoch! durch diese unreine Atmosphäre, diese matte, erschlaffende Luft, durch
@@ -2422,9 +2415,9 @@
                nicht erwachen? Ja, wenn man die Zeit an Pulsschlägen abzählen könnte, wie die Alten
                getan ... oder wenn Lotti die Sanduhr besäße, welche sich dereinst das Fräulein in
                Schlesien verfertigt hatte, das Fräulein, das seine Lebenszeit abmaß an der
-               verrinnenden Asche des verstorbenen<pb facs="#"/> Verlobten ... an diese Sanduhr
-               erinnerte Lotti sich jetzt, und wie paßte der Einfall in das Gewirre von ganz anders
-               wichtigen Gedanken in ihrem fiebernden Hirn?...</p>
+               verrinnenden Asche des verstorbenen<pb/> Verlobten ... an diese Sanduhr erinnerte
+               Lotti sich jetzt, und wie paßte der Einfall in das Gewirre von ganz anders wichtigen
+               Gedanken in ihrem fiebernden Hirn?...</p>
             <p>Endlich wird die bange Stille im Hause unterbrochen. Agnes ist auf den Beinen und
                schaltet mit gewohnter Energie in ihrem Küchenbereiche.</p>
             <p>Lotti erhebt sich, zieht die Vorhänge hinauf, ruft die Alte ins Zimmer und fragt nach
@@ -2457,8 +2450,8 @@
             <p>»Ich hätte mir Ihren Besuch nicht träumen lassen«, sprach er, »aber weil Sie nun da
                sind, weiß ich auch, was Sie hierhergeführt ... Es ist die Sorge um Halwig.«</p>
             <p>
-               <pb facs="#"/> Er beantwortete ihr bestätigendes »Ja« mit dem Ausrufe: »Und sie hat
-               guten Grund!«</p>
+               <pb/> Er beantwortete ihr bestätigendes »Ja« mit dem Ausrufe: »Und sie hat guten
+               Grund!«</p>
             <p>Der erwartete Brief war eingetroffen, Halwigs gerechter Anspruch abgewiesen.</p>
             <p>»Es ist die schmählichste Niederlage meines Lebens!« rief Schweitzer. »Ich habe
                diesen Ausgang für unmöglich gehalten und deshalb gestern noch – Sie waren Zeuge –
@@ -2488,11 +2481,11 @@
                Familie – welche Familie! mehr noch als jede andere eine Brutstätte des Vorurteils,
                das Grab der Nächstenliebe, denn was nicht zu ihr zählt, zählt überhaupt nicht ...
                Oh, was gäbe ich, um Halwig aus dieser Familie zu lösen!... Ein Opfer wäre seinen
-               Peinigern entrissen, das ihnen überantwortet ist für die <pb facs="#"/> Dauer des
-               ganzen Lebens. – Fort nach England mit Papa und Mama, und auf das Land mit der
-               Tochter und mit den seidenen Vorhängen, und mit der Menagerie, und mit den
-               Reitpferden, und mit den Zigaretten ... Fort«, brach er plötzlich aus, »wenn ich
-               wieder frei atmen soll, fort – aus meiner Nähe!«</p>
+               Peinigern entrissen, das ihnen überantwortet ist für die <pb/> Dauer des ganzen
+               Lebens. – Fort nach England mit Papa und Mama, und auf das Land mit der Tochter und
+               mit den seidenen Vorhängen, und mit der Menagerie, und mit den Reitpferden, und mit
+               den Zigaretten ... Fort«, brach er plötzlich aus, »wenn ich wieder frei atmen soll,
+               fort – aus meiner Nähe!«</p>
             <p>Er beugte sich zurück und drückte die geballten Fäuste an seine Augen.</p>
             <p>Eine Pause tiefen Schweigens trat ein.</p>
             <p>»Was wird geschehen?« sprach Lotti endlich.</p>
@@ -2520,9 +2513,8 @@
                irrte, um die es sich handelt, was hätte ich dann getan?... Etwas, das mich
                vielleicht zum Wahnsinn oder zum Selbstmord treiben würde, ein Verbrechen, das
                größte, das ich begehen kann, denn es wäre ein Verbrechen gegen meine eigenste,
-               angeborne Natur, und doch nichts im <pb facs="#"/> Vergleiche zu dem Elend, das über
-               den unglückseligen Halwig hereinbricht, wenn ich ihn seinem Schicksale
-               überlasse.«</p>
+               angeborne Natur, und doch nichts im <pb/> Vergleiche zu dem Elend, das über den
+               unglückseligen Halwig hereinbricht, wenn ich ihn seinem Schicksale überlasse.«</p>
             <p>»Was denken Sie?« fragte Lotti, »sagen Sie es mir offenherzig, Herr Doktor ...«</p>
             <p>»Offenherzig?« rief er. »Ich könnte das Geld stehlen, das er braucht, und als Sie an
                meiner Tür schellten«, seine Stimme sank zu einem fast unhörbaren Flüstern herab,
@@ -2552,8 +2544,8 @@
                machen könnte ...«</p>
             <p>»Den?« unterbrach sie Schweitzer, »alles kann man dem aufbinden. Geschäftssachen!
                noch ganz andere Leute sind Kinder in Geschäftssachen ... aber um Gottes willen ...
-               Sie haben einen <pb facs="#"/> Rettungsplan, ich seh's. Sie werden helfen, Sie!...«
-               Er faltete die Hände, er vermochte nicht weiterzusprechen.</p>
+               Sie haben einen <pb/> Rettungsplan, ich seh's. Sie werden helfen, Sie!...« Er faltete
+               die Hände, er vermochte nicht weiterzusprechen.</p>
             <p>»Ich schaffe Ihnen in einigen Tagen das nötige Geld«, sagte Lotti, »Ihre Sache ist es
                dann, Halwig damit zu betrügen. Aber – nicht einmal der Tod hebt das Versprechen auf,
                das ich von Ihnen fordere: Sie schweigen, Sie bewahren mir für immer das
@@ -2585,9 +2577,9 @@
                mit einer Erkundigung nach dem ihr unangenehmsten Menschen – dem Agenten des
                Amerikaners.</p>
             <p>
-               <pb facs="#"/> Der war noch da und behelligte Gottfried nur zu oft mit seinen
-               Besuchen. Er kam unter allerlei Vorwänden, hatte jedoch nur einen Zweck, den
-               unerreichbarsten. Gottfried lächelte mitleidig.</p>
+               <pb/> Der war noch da und behelligte Gottfried nur zu oft mit seinen Besuchen. Er kam
+               unter allerlei Vorwänden, hatte jedoch nur einen Zweck, den unerreichbarsten.
+               Gottfried lächelte mitleidig.</p>
             <p>»Die Uhrensammlung möcht er an sich bringen.«</p>
             <p>»Er soll sie haben. Ich verkaufe die Uhren.«</p>
             <p>Gottfried stieß einen Schrei des Erstaunens aus. Das war nicht im Scherz, war auch
@@ -2617,7 +2609,7 @@
                wirst du erfahren!«</p>
             <p>Lotti widersprach ihm nicht, und Gottfried fuhr eifrig fort: Ein solches Opfer ... »o
                wahrhaftig, der ein solches Opfer annimmt, der ist's nicht wert!«</p>
-            <pb facs="#"/>
+            <pb/>
             <p>»Er würde es nicht annehmen, wenn er davon wüßte. Geh jetzt und komm bald wieder, mit
                dem – Käufer.«</p>
             <p>Sie wollte sich erheben, aber die Knie versagten ihr den Dienst, und sie lehnte sich
@@ -2652,7 +2644,7 @@
             <p>»Weichlinge ...« wiederholte er und näherte sich ihr schüchtern – »Lotti –«</p>
             <p>»Gottfried –«</p>
             <p>Und die »Geschwister Feßler« umarmten sich.</p>
-            <pb facs="#"/>
+            <pb/>
          </div>
          <div type="chapter">
             <head>13</head>
@@ -2685,13 +2677,13 @@
                Laden geschlossen und die kleinen Flügeltüren gesperrt.</p>
             <p>Jetzt könnt ich mir einbilden, dachte sie, daß alles noch beim alten ist. Was braucht
                man denn, um Liebes, das man einst besaß, immer zu behalten? – ein gutes Gedächtnis
-               und einige Phantasie. Das wollte sie Gottfried zum Trost sagen, dem Getreuen, <pb
-                  facs="#"/> für den es von jeher keinen Schmerz, keine Enttäuschung, keinen Verlust
-               zu geben schien als diejenigen, die sie erfahren hatte. Zum ersten Male, seitdem sie
-               ihn kannte, das heißt solange sie lebte, hatte sie heut eine eigensüchtige Regung bei
-               ihm wahrgenommen. Allein wie rasch war auch diese erloschen, wie war er bestürzt
-               gewesen über den unwillkürlichen Ausdruck eines Gefühls, das ihm bisher fremd gewesen
-               wie die Sünde. Sie kannte ihn und wußte – jetzt quält er sich und kann sich's nicht
+               und einige Phantasie. Das wollte sie Gottfried zum Trost sagen, dem Getreuen, <pb/>
+               für den es von jeher keinen Schmerz, keine Enttäuschung, keinen Verlust zu geben
+               schien als diejenigen, die sie erfahren hatte. Zum ersten Male, seitdem sie ihn
+               kannte, das heißt solange sie lebte, hatte sie heut eine eigensüchtige Regung bei ihm
+               wahrgenommen. Allein wie rasch war auch diese erloschen, wie war er bestürzt gewesen
+               über den unwillkürlichen Ausdruck eines Gefühls, das ihm bisher fremd gewesen wie die
+               Sünde. Sie kannte ihn und wußte – jetzt quält er sich und kann sich's nicht
                verzeihen, daß er ihr eine schwere Stunde noch schwerer gemacht und in dem
                Augenblick, in dem sie ihr Teuerstes hingab, unedel ausgerufen: »Und ich?...«</p>
             <p>Und er!... war's nicht ganz recht, daß er sie einmal gemahnt, er zähle mit in der
@@ -2716,8 +2708,8 @@
                die Vorstadt zu unternehmen. Gewöhnlich kam sie von derselben in bester Laune heim;
                heute war sie gestimmt wie ein hungriger Wolf.</p>
             <p>Schweigend zündete sie die Lampe an und beantwortete die Frage Lottis nach dem
-               Befinden der Schwester mit einem undeutlichen <pb facs="#"/> Gemurmel. Die ganze
-               Agnes war eitel Zurückhaltung, jede ihrer Mienen und Bewegungen sprach: Hast du deine
+               Befinden der Schwester mit einem undeutlichen <pb/> Gemurmel. Die ganze Agnes war
+               eitel Zurückhaltung, jede ihrer Mienen und Bewegungen sprach: Hast du deine
                Geheimnisse, hab ich die meinen.</p>
             <p>Ihre mit großer Ausdauer zur Schau getragene Gekränktheit begann ihre Wirkung auf die
                Herrin auszuüben. Diese war hellmunter geworden. Es konnte auch nicht anders sein,
@@ -2747,11 +2739,11 @@
                sollen, sterbe! Könnt ich alles so vernichten, was geschrieben zu haben mich reut!
                Ein Trost bleibt mir übrigens«, fügte er mit bitterem Lachen hinzu, indem er sich am
                Arbeitstische Lottis niederließ: »Lange werden meine Werke den Unwillen der Freunde
-               des Schönen nicht erregen. Mit dem<pb facs="#"/> Tage geht unter, was dem Tage
-               gedient. O Fräulein Lotti! ich hatte anderes von mir erwartet. Erinnern Sie sich
-               noch? Wissen Sie noch, was ich geträumt und angestrebt? Wissen Sie noch, wie fest
-               entschlossen ich war, diese Erde, die mich getragen, nicht zu verlassen, ohne ihr die
-               Spur meines Schrittes eingeprägt zu haben?«</p>
+               des Schönen nicht erregen. Mit dem<pb/> Tage geht unter, was dem Tage gedient. O
+               Fräulein Lotti! ich hatte anderes von mir erwartet. Erinnern Sie sich noch? Wissen
+               Sie noch, was ich geträumt und angestrebt? Wissen Sie noch, wie fest entschlossen ich
+               war, diese Erde, die mich getragen, nicht zu verlassen, ohne ihr die Spur meines
+               Schrittes eingeprägt zu haben?«</p>
             <p>Lotti senkte den Blick vor seinen fragend auf sie gerichteten Augen: »Jawohl – was
                haben Sie, was habe ich Ihnen nicht zugetraut?«</p>
             <p>»Vorbei!« er erhob von neuem sein gequältes Lachen. »Sie haben noch nie einen
@@ -2781,8 +2773,7 @@
                gesund fühlt, hierherbringen mußte, in dieses steinerne Grab, in dem sie das Dasein
                einer Lerche im Käfig führt.«</p>
             <p>
-               <pb facs="#"/> Sein Gesicht hatte sich verklärt, während er von seiner Frau
-               sprach.</p>
+               <pb/> Sein Gesicht hatte sich verklärt, während er von seiner Frau sprach.</p>
             <p>»Ich liebe sie«, fügte er hinzu und wiederholte: »Ich liebe sie. Wie kann das sein?
                denken Sie vielleicht, sie teilt ja deine geistigen Interessen nicht. Ein Kind,
                Teuerste, tut das auch nicht, und man liebt es doch. Sie ist das meine. Ein anderes
@@ -2812,8 +2803,8 @@
                Dingen nimmt, die freilich nicht eben von idealer Natur ... allein, Beste, das werden
                Sie zugestehen, die Freuden, die ihr die höchsten sind, sind sehr unschuldige. Man
                spielt dabei manchmal um sein Leben, aber nie um mehr. Ich wollt, ich hätte keine
-               andere Begabung jemals <pb facs="#"/> in mir verspürt als diejenige, die man braucht,
-               um ein tüchtiger Reiter oder Jäger zu werden. Bei Gott, das wollt ich ...«</p>
+               andere Begabung jemals <pb/> in mir verspürt als diejenige, die man braucht, um ein
+               tüchtiger Reiter oder Jäger zu werden. Bei Gott, das wollt ich ...«</p>
             <p>Er biß die Zähne zusammen und starrte vor sich hin in die Luft. »So ist es«, murmelte
                er, erhob sich und trat auf Lotti zu.</p>
             <p>»Leben Sie wohl. Kommen Sie bald zu uns.«</p>
@@ -2847,8 +2838,8 @@
                ruhebedürftig.«</p>
             <p>Er beugte sich über ihre Hände und küßte sie. –</p>
             <p>
-               <pb facs="#"/> »Sie haben doch nicht ganz vergessen«, sagte er leise und innig, »daß
-               Sie einst die Braut eines Poeten waren – aber ich bin keiner mehr.«</p>
+               <pb/> »Sie haben doch nicht ganz vergessen«, sagte er leise und innig, »daß Sie einst
+               die Braut eines Poeten waren – aber ich bin keiner mehr.«</p>
             <p>Er ging, und Lotti rief bald darauf die alte Agnes herein und wünschte ihr mit
                besonderer Freundlichkeit eine gute Nacht. Der Wunsch blieb von der zürnenden
                Dienerin unerwidert, und dennoch schlief Lotti bis zum Morgen in einem Zuge. Sie
@@ -2874,7 +2865,7 @@
                wohl schon in früheren Zeiten so gesehen und bei solcher Gelegenheit eine gewisse
                Ungeduld niemals unterdrücken können. Jetzt empfand sie nur Rührung und Bedauern und
                staunte im stillen über die Veränderung, die mit ihr vorgegangen war.</p>
-            <pb facs="#"/>
+            <pb/>
          </div>
          <div type="chapter">
             <head>14</head>
@@ -2908,8 +2899,8 @@
             <p>Agnes war überaus zufrieden mit diesem Auftrage. In ihrer Einbildung schwelgte sie
                schon im Genusse des Erstaunens, mit dem Gottfried ihre Botschaft vernehmen, und der
                Fragen, die er an sie stellen werde. Sie bereitete sich sogleich auf die Künste vor,
-               mit denen sie dasselbe noch erhöhen wollte, und schlief mit <pb facs="#"/> dem heißen
-               Wunsche ein, daß ihr nur das Wetter keinen Strich durch die Rechnung machen möge.</p>
+               mit denen sie dasselbe noch erhöhen wollte, und schlief mit <pb/> dem heißen Wunsche
+               ein, daß ihr nur das Wetter keinen Strich durch die Rechnung machen möge.</p>
             <p>Dieser Wunsch erfüllte sich vollständig. Der schönste Tag, welchen der junge Sommer
                dieses Jahres noch gespendet, brach am nächsten, einem Sonntagmorgen, an. Die
                herrlichste Junisonne glänzte, der reinste Himmel blaute über dem schnaubenden,
@@ -2937,9 +2928,9 @@
                Männchen, hielt seinen langhalsigen Braunen, welcher schnob, als ob er Feuer
                geschluckt hätte, ein wenig an, um Lotti eintreten zu lassen. Ohne die Kappe zu
                rücken, aber mit gutmütiger Herablassung beantwortete er die Fragen der Fremden. Die
-               »Herrschaften« waren ins nächste Dorf zur Kirche gegangen und dürften in <pb facs="#"
-               /> einer Stunde zurückkehren. Länger bleiben sie schwerlich fort, denn um zwölf Uhr
-               wird gefrühstückt.</p>
+               »Herrschaften« waren ins nächste Dorf zur Kirche gegangen und dürften in <pb/> einer
+               Stunde zurückkehren. Länger bleiben sie schwerlich fort, denn um zwölf Uhr wird
+               gefrühstückt.</p>
             <p>Eine Stunde warten also! – das ist im Grunde so schlimm nicht. Man kann die Zeit
                benützen, um den Garten anzusehen, und nebenbei um ein wenig auszuruhen.</p>
             <p>Von dem breiten Kieswege der Avenue lenkte Lotti in einen schmaleren ein. Kein Mensch
@@ -2970,9 +2961,9 @@
                diejenigen gesehen zu haben, denen zuliebe sie eine Art von Flucht unternommen hat.
                Diese sind übrigens vielleicht schon längst von ihrem Kirchgang zurück, warum bildet
                Lotti sich denn ein, daß sie gerade hier vorüberkommen müssen? Sie erhob sich, um den
-               Hain zu verlassen, und im selben Augenblick vernahm sie das Gleiten langsamer <pb
-                  facs="#"/> Schritte über den Kies und sah ein weißes Kleid durch die Zweige der
-               kleinen Bäume schimmern.</p>
+               Hain zu verlassen, und im selben Augenblick vernahm sie das Gleiten langsamer <pb/>
+               Schritte über den Kies und sah ein weißes Kleid durch die Zweige der kleinen Bäume
+               schimmern.</p>
             <p>Halwig und Agathe näherten sich, schon waren ihre Stimmen deutlich zu unterscheiden.
                Lotti eilte ihnen entgegen, war aber noch nicht auf dem Wege angelangt, als sie
                zögernd stehenblieb.</p>
@@ -3004,9 +2995,9 @@
                gelagert, die Zeit, deren sie zuviel hat, an sich vorüberziehen zu lassen.</p>
             <p>Sie trat an das Kreuz heran und bemerkte bald, daß sie keinen besseren Punkt hätte
                finden können, um Villa Halwig noch einmal recht nach Herzenslust zu betrachten. Das
-               tat sie lange, <pb facs="#"/> und das innigste Gebet für die Erhaltung fremden
-               Glückes, das einer Menschenbrust entsteigen kann, wurde zu Füßen des steinernen
-               Kreuzes gesprochen.</p>
+               tat sie lange, <pb/> und das innigste Gebet für die Erhaltung fremden Glückes, das
+               einer Menschenbrust entsteigen kann, wurde zu Füßen des steinernen Kreuzes
+               gesprochen.</p>
             <p>Sodann setzte Lotti ihren Weg fort.</p>
             <p>Sie begann ihre ganze Ausfahrt höchst drollig zu finden. Die Einladungen Halwigs und
                Agathens hatten sie mit dem Gefühl einer Verpflichtung belastet, dem sie gemeint
@@ -3038,8 +3029,8 @@
                und schien nicht übel Lust zu haben, wieder von vorn anzufangen. Einleitende
                Betrachtungen wurden schon vorausgeschickt.</p>
             <p>
-               <pb facs="#"/> Ja, sie stand in ihrem zweiundvierzigsten Jahre, und ihr Bub hatte
-               kürzlich erst sein drittes erreicht.</p>
+               <pb/> Ja, sie stand in ihrem zweiundvierzigsten Jahre, und ihr Bub hatte kürzlich
+               erst sein drittes erreicht.</p>
             <p>»Arme Leut kommen halt spät zum Heiraten. Auch darin, auch in so einer Sach haben's
                die Reichen besser.«</p>
             <p>Da erhob sich der Mann, der Schnellzug mußte bald auf die Strecke kommen, in einigen
@@ -3072,8 +3063,8 @@
                Verdruß einer geschlossenen Gesellschaft, die das Coupé besetzt hatte. Diese, ein
                übermütiges Völkchen, ließ sich, nachdem ihr erster Unwillen über den Eindringling
                verraucht war, in ihrer Unterhaltung nicht stören. Lotti verbrachte zwei unangenehme
-               Stunden in dem lauten und lustigen Kreise. <pb facs="#"/> Ein Gefühl der Vereinsamung
-               ergriff sie, das wegzuspotten sie sich vergeblich bemühte.</p>
+               Stunden in dem lauten und lustigen Kreise. <pb/> Ein Gefühl der Vereinsamung ergriff
+               sie, das wegzuspotten sie sich vergeblich bemühte.</p>
             <p>Endlich brauste die Lokomotive in den Bahnhof, und das erste, was Lotti erblickte,
                war Gottfrieds lange Gestalt. Er stand an die Mauer gelehnt – ein Bild der
                Hoffnungslosigkeit – starrte die Leute an, die dem Zuge entstiegen, und: Sie kommt
@@ -3107,8 +3098,8 @@
                liebte, sprach: »Guter Gottfried, nicht erst seit heute weiß ich, daß du mir das
                Liebste auf der Welt bist.«</p>
             <p>
-               <pb facs="#"/> Da hätte er beinahe laut aufgejauchzt. Es war ein Glück, daß sie vor
-               Lottis Hause angelangt waren. Getreulich und jahrelang hatte er das Geheimnis seiner
+               <pb/> Da hätte er beinahe laut aufgejauchzt. Es war ein Glück, daß sie vor Lottis
+               Hause angelangt waren. Getreulich und jahrelang hatte er das Geheimnis seiner
                tiefsten Sehnsucht in sich verschlossen, der Jubel wollte ihm die Brust zersprengen.
                Ein seliger Mann, faßte er seine Braut in seine Arme, und sie mußte abwehren, sonst
                hätte er sie wahrhaftig die Treppe hinaufgetragen. Oben angelangt, stürmte er derart
@@ -3137,12 +3128,12 @@
                Schlamm waten ließ, und den Zauber erfuhr, mit dem sie ihn umstrickten. Dazu die
                hastende Eile, in welcher ihr Schicksal gewoben und ihr Verhängnis erfüllt werden
                mußte; die Angst vor dem Mißlingen, und dann wieder die Glückseligkeit, wenn das
-               Unerwartete geschah, wenn die Gestalten, die ihm unter der Hand lebendig <pb facs="#"
-               /> geworden, zuletzt durch eigene Kraft einen Abschluß herbeiführten, kühner als er
-               ihn geahnt hatte. Halwig erfuhr, daß wer solche Aufregungen kennengelernt, sie nicht
-               mehr missen kann und nach ihnen zurückverlangt, und wär's aus dem Himmel. So sandte
-               er dem schwindenden, mit Hilfe Agathens und ihrer Brüder rasch aufgezehrten Wohlstand
-               kaum einen Gedanken des Bedauerns nach. Zur Zeit, in welcher das Gut verkauft werden
+               Unerwartete geschah, wenn die Gestalten, die ihm unter der Hand lebendig <pb/>
+               geworden, zuletzt durch eigene Kraft einen Abschluß herbeiführten, kühner als er ihn
+               geahnt hatte. Halwig erfuhr, daß wer solche Aufregungen kennengelernt, sie nicht mehr
+               missen kann und nach ihnen zurückverlangt, und wär's aus dem Himmel. So sandte er dem
+               schwindenden, mit Hilfe Agathens und ihrer Brüder rasch aufgezehrten Wohlstand kaum
+               einen Gedanken des Bedauerns nach. Zur Zeit, in welcher das Gut verkauft werden
                mußte, machte die Gesundheit Agathens einen Aufenthalt an der See notwendig. Hermann
                ließ sie allein zu ihren Eltern ziehen und kehrte zu den seligen Bitternissen seiner
                Schriftstellerei zurück. Die Früchte, die sie lieferte, wurden noch immer in gewissen

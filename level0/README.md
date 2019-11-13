@@ -1,5 +1,3 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3524908.svg)](https://doi.org/10.5281/zenodo.3524908)
-
 # ELTeC-deu
 
 This is the German novel collection for the ELTeC, the European Literary Text Collection, produced by the COST Action Distant Reading for European Literary History (CA16204, https://distant-reading.net).
@@ -7,7 +5,7 @@ This is the German novel collection for the ELTeC, the European Literary Text Co
 ## Release notes
 General information about ELTeC releases is available at https://github.com/COST-ELTeC/ELTeC.
 
-The ELTeC-deu collection as it stands contains 100 novels encoded at level 1. The corpus composition criteria are fulfilled.
+The ELTeC-deu collection as it stands contains 100 novels encoded at level 0. The corpus composition criteria are fulfilled.
 
 ## Contributors
 

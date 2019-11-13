@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../WG1/distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../WG1/distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de" xml:id="DEU088">
    <teiHeader>
       <fileDesc>
@@ -46,11 +46,11 @@
    </teiHeader>
 
    <text>
-      
+
       <body>
          <div type="chapter">
             <head>
-               <pb facs="#"/> Erstes Kapitel</head>
+               <pb/> Erstes Kapitel</head>
             <p>Möhrings wohnten Georgenstraße 19 dicht an der Friedrichsstraße. Wirt war
                Rechnungsrat Schultze, der in der Gründerzeit mit dreihundert Talern spekuliert und
                in zwei Jahren ein Vermögen erworben hatte. Wenn er jetzt an seinem Ministerium
@@ -71,13 +71,13 @@
                Kleider-Exportgeschäft, war schon sieben Jahre tot und war am Palmsonnabend
                gestorben, einen Tag vor Mathildens Einsegnung. Der Geistliche hatte daraufhin eine
                Bemerkung gemacht, die bei Mutter und Tochter noch fortlebte. Ebenso das letzte Wort,
-               das Möhring Vater<pb facs="#"/> an seine Tochter gerichtet hatte: »Mathilde, halte
-               dich propper.« Pastor Neuschmidt, dem es gesagt wurde, war der Meinung, der Sterbende
-               habe es moralisch gemeint, Schultzes, die auch davon gehört hatten und neben dem
-               Geld- und Rechnungsrat-Hochmut natürlich auch noch den Wirtshochmut hatten,
-               bestritten dies aber und brachten das Wort einfach in Zusammenhang mit dem
-               Kleider-Exportgeschäft, in dem sich der Gedankengang des Alten bewegt habe; es solle
-               soviel heißen wie: »Kleider machen Leute«.</p>
+               das Möhring Vater<pb/> an seine Tochter gerichtet hatte: »Mathilde, halte dich
+               propper.« Pastor Neuschmidt, dem es gesagt wurde, war der Meinung, der Sterbende habe
+               es moralisch gemeint, Schultzes, die auch davon gehört hatten und neben dem Geld- und
+               Rechnungsrat-Hochmut natürlich auch noch den Wirtshochmut hatten, bestritten dies
+               aber und brachten das Wort einfach in Zusammenhang mit dem Kleider-Exportgeschäft, in
+               dem sich der Gedankengang des Alten bewegt habe; es solle soviel heißen wie: »Kleider
+               machen Leute«.</p>
             <p>Damals waren Möhrings eben erst eingezogen, und Schultze sah den Tod des alten
                Möhring, der übrigens erst Mitte vierzig war, ungern. Als man den Sarg auf den Wagen
                setzte, stand er am Fenster und sagte zu seiner hinter ihm stehenden Frau: »Fatale
@@ -97,41 +97,41 @@
                Schneiderei, und die Frau kann doch auch höchstens eine Müllertochter sein, so ist es
                erstaunlich. Manierlich, bescheiden, gebildet. Und das Mathildchen, sie muß nu wohl
                siebzehn sein, immer fleißig und grüßt sehr artig. Ein sehr gebildetes Mädchen.«</p>
-            <p>Das war nun schon wieder sechs Jahr her, und Mathildchen <pb facs="#"/> war nun eine
-               richtige Mathilde von dreiundzwanzig. Das heißt, eine so ganz richtige Mathilde war
-               sie doch nicht, dazu war sie zu hager und hatte einen grisen Teint. Und auch das
-               aschblonde Haar, das sie hatte, paßte nicht recht zu einer Mathilde. Nur das
-               Umsichtige, das Fleißige, das Praktische, das paßte zu dem Namen, den sie führte.
-               Schultze hatte sie auch mal ein appetitliches Mädchen genannt. Dies war richtig, wenn
-               er sie mit dem verglich, was ihm an Weiblichkeit am nächsten stand, enthielt aber
-               doch ein bestimmtes Maß von Übertreibung. Mathilde hielt auf sich, das mit dem
-               »propper« hatte sich ihr eingeprägt, aber sie war trotzdem nicht recht zum Anbeißen,
-               was doch das eigentlich Appetitliche ist, sie war sauber, gut gekleidet und von
-               energischem Ausdruck, aber ganz ohne Reiz. Mitunter war es, als ob sie das selber
-               wisse, und dann kam ihr ein gewisses Mißtrauen, nicht in ihre Klugheit und
-               Vortrefflichkeit, aber in ihren Charme, und sie hätte dies Gefühl vielleicht
-               großgezogen, wenn sie sich nicht in solchen kritischen Momenten eines unvergeßlichen
-               Vorgangs entsonnen hätte. Das war in Halensee gewesen an ihrem siebzehnten
-               Geburtstag, den man mit einer unverheirateten Tante in Halensee gefeiert hatte. Sie
-               hatte sich in einiger Entfernung von der Kegelbahn aufgestellt und sah immer das
-               Bahnbrett hinunter, um zu sehn, wieviel Kegel die Kugel nehmen würde, da hörte sie
-               ganz deutlich, daß einer der Kegelspieler sagte: »Sie hat ein Gemmengesicht.« Von
-               diesem Worte lebte sie seitdem. Wenn sie sich vor den alten Stehspiegel stellte,
-               dessen Mittellinie ihr grad über die Brust lief, stellte sie sich zuletzt immer en
-               profil und fand dann das Wort des Halenseer Kegelschützen bestätigt. Und durfte es
-               auch; sie hatte wirklich ein Gemmengesicht, und auf ihre Photographie hin hätte sich
-               jeder in sie verlieben können, aber mit dem edlen Profil schloß [es] auch ab, die
-               dünnen Lippen, das spärlich angeklebte, aschgraue Haar, das zu klein gebliebne Ohr,
-               daran allerhand zu fehlen schien, alles nahm dem Ganzen jeden sinnlichen Zauber, und
-               am nüchternsten wirkten die wasserblauen Augen. Sie hatten einen Glanz, aber einen
-               ganz prosaischen, und wenn man früher <pb facs="#"/> von einem Silberblick sprach, so
-               konnte man hier von einem Blechblick sprechen. Ihre Chancen auf Liebe waren nicht
-               groß, wenn sich nicht jemand fand, dem das Profil über alles ging. Sie hatte deshalb
-               auch den gebildeten Satz akzeptiert und operierte gern damit: »In der Kunst
-               entscheidet die Reinheit der Linie.« Rechnungsrat Schultze hatte sich anfangs durch
-               diesen Satz blenden lassen. Als er ihn aber nochmals gehört hatte, merkte er die
-               Absicht und wurde verstimmt und sagte zu seiner Frau: »Ich bin mehr fürs Runde.« Das
-               tat der Rechnungsrätin wohl, denn es war das einzige, was sie hatte.</p>
+            <p>Das war nun schon wieder sechs Jahr her, und Mathildchen <pb/> war nun eine richtige
+               Mathilde von dreiundzwanzig. Das heißt, eine so ganz richtige Mathilde war sie doch
+               nicht, dazu war sie zu hager und hatte einen grisen Teint. Und auch das aschblonde
+               Haar, das sie hatte, paßte nicht recht zu einer Mathilde. Nur das Umsichtige, das
+               Fleißige, das Praktische, das paßte zu dem Namen, den sie führte. Schultze hatte sie
+               auch mal ein appetitliches Mädchen genannt. Dies war richtig, wenn er sie mit dem
+               verglich, was ihm an Weiblichkeit am nächsten stand, enthielt aber doch ein
+               bestimmtes Maß von Übertreibung. Mathilde hielt auf sich, das mit dem »propper« hatte
+               sich ihr eingeprägt, aber sie war trotzdem nicht recht zum Anbeißen, was doch das
+               eigentlich Appetitliche ist, sie war sauber, gut gekleidet und von energischem
+               Ausdruck, aber ganz ohne Reiz. Mitunter war es, als ob sie das selber wisse, und dann
+               kam ihr ein gewisses Mißtrauen, nicht in ihre Klugheit und Vortrefflichkeit, aber in
+               ihren Charme, und sie hätte dies Gefühl vielleicht großgezogen, wenn sie sich nicht
+               in solchen kritischen Momenten eines unvergeßlichen Vorgangs entsonnen hätte. Das war
+               in Halensee gewesen an ihrem siebzehnten Geburtstag, den man mit einer
+               unverheirateten Tante in Halensee gefeiert hatte. Sie hatte sich in einiger
+               Entfernung von der Kegelbahn aufgestellt und sah immer das Bahnbrett hinunter, um zu
+               sehn, wieviel Kegel die Kugel nehmen würde, da hörte sie ganz deutlich, daß einer der
+               Kegelspieler sagte: »Sie hat ein Gemmengesicht.« Von diesem Worte lebte sie seitdem.
+               Wenn sie sich vor den alten Stehspiegel stellte, dessen Mittellinie ihr grad über die
+               Brust lief, stellte sie sich zuletzt immer en profil und fand dann das Wort des
+               Halenseer Kegelschützen bestätigt. Und durfte es auch; sie hatte wirklich ein
+               Gemmengesicht, und auf ihre Photographie hin hätte sich jeder in sie verlieben
+               können, aber mit dem edlen Profil schloß [es] auch ab, die dünnen Lippen, das
+               spärlich angeklebte, aschgraue Haar, das zu klein gebliebne Ohr, daran allerhand zu
+               fehlen schien, alles nahm dem Ganzen jeden sinnlichen Zauber, und am nüchternsten
+               wirkten die wasserblauen Augen. Sie hatten einen Glanz, aber einen ganz prosaischen,
+               und wenn man früher <pb/> von einem Silberblick sprach, so konnte man hier von einem
+               Blechblick sprechen. Ihre Chancen auf Liebe waren nicht groß, wenn sich nicht jemand
+               fand, dem das Profil über alles ging. Sie hatte deshalb auch den gebildeten Satz
+               akzeptiert und operierte gern damit: »In der Kunst entscheidet die Reinheit der
+               Linie.« Rechnungsrat Schultze hatte sich anfangs durch diesen Satz blenden lassen.
+               Als er ihn aber nochmals gehört hatte, merkte er die Absicht und wurde verstimmt und
+               sagte zu seiner Frau: »Ich bin mehr fürs Runde.« Das tat der Rechnungsrätin wohl,
+               denn es war das einzige, was sie hatte.</p>
          </div>
          <div type="chapter">
             <head>Zweites Kapitel</head>
@@ -150,14 +150,13 @@
                Anfang Oktober, Ziehzeit, wodurch die Georgenstraße sehr gewann; solchen Wagen und
                solch Porträt sah man in der Georgenstraße nicht alle Tage, weshalb etliche Menschen
                und eine ganze Anzahl Kinder den Wagen und das Bild umstanden.</p>
-            <p>Unter denen, die das Bild mit Interesse musterten, war auch <pb facs="#"/> ein junger
-               Mann von etwa sechsundzwanzig. Sein Alter zu bestimmen war nicht leicht, weil
-               zwischen dem Ausdruck seines Gesichts und seinem schwarzen Vollbart ein Mißverhältnis
-               war, der Ausdruck war jugendlich, der Bart plädierte für Mann in besten Jahren. Aber
-               der Bart hatte unrecht, er war erst sechsundzwanzig, etwas über mittelgroß,
-               breitschultrig, Figur und Bart nach ein Mann und überhaupt so recht das, was
-               gewöhnliche Menschen einen schönen Mann nennen. Er hätte sich sehen lassen
-               können.</p>
+            <p>Unter denen, die das Bild mit Interesse musterten, war auch <pb/> ein junger Mann von
+               etwa sechsundzwanzig. Sein Alter zu bestimmen war nicht leicht, weil zwischen dem
+               Ausdruck seines Gesichts und seinem schwarzen Vollbart ein Mißverhältnis war, der
+               Ausdruck war jugendlich, der Bart plädierte für Mann in besten Jahren. Aber der Bart
+               hatte unrecht, er war erst sechsundzwanzig, etwas über mittelgroß, breitschultrig,
+               Figur und Bart nach ein Mann und überhaupt so recht das, was gewöhnliche Menschen
+               einen schönen Mann nennen. Er hätte sich sehen lassen können.</p>
             <p>Als er mit seiner Musterung des Bildes fertig war, nahm er seine eigentliche Aufgabe
                wieder auf und begann über den Straßendamm weg die an der andern Straßenseite
                stehenden Häuser zu mustern. Er war nämlich auf der Wohnungssuche. Die Götter waren
@@ -179,11 +178,11 @@
                daneben. Alles dürftig, aber sehr sauber. Und nun öffnete Frau Möhring die Tür, die
                rechts nach dem zu vermietenden Zimmer führte.</p>
             <p>
-               <pb facs="#"/> Hierher hatten sich alle Anstrengungen konzentriert: ein etwas
-               eingesessenes Sofa mit rotem Plüschüberzug und ohne Antimakassar,
-               Visitenkartenschale, der Große Kurfürst bei Fehrbellin und das Bett von schwarz
-               gebeiztem Holz mit einer aus Seidenstückchen zusammengenähten Steppdecke. Die
-               Wasserkaraffe auf einem großen Glasteller, so daß es immer klapperte.</p>
+               <pb/> Hierher hatten sich alle Anstrengungen konzentriert: ein etwas eingesessenes
+               Sofa mit rotem Plüschüberzug und ohne Antimakassar, Visitenkartenschale, der Große
+               Kurfürst bei Fehrbellin und das Bett von schwarz gebeiztem Holz mit einer aus
+               Seidenstückchen zusammengenähten Steppdecke. Die Wasserkaraffe auf einem großen
+               Glasteller, so daß es immer klapperte.</p>
             <p>Der schöne Mann mit dem Vollbart sah sich um, und wahrnehmend, daß die beiden Dinge
                fehlten, gegen die er eine tiefe Aversion hatte, Öldruckbilder und Antimakassars, war
                er sofort geneigt zu mieten, vorausgesetzt, daß er Aussicht hatte, für seine kleinen
@@ -203,9 +202,9 @@
                ich noch mit heran und bringe Ihnen bestimmten Bescheid.«</p>
             <p>Und bei diesen Worten nahm er wieder seinen breitkrempigen Hut aus weichem Filz und
                empfahl sich von Mutter und Tochter.</p>
-            <p>Mathilde begleitete ihn bis an die Flurtür. Als sie wieder <pb facs="#"/> zurückkam,
-               hatte sich die Mutter auf das Plüschsofa gesetzt, was sie für gewöhnlich ungern tat,
-               und strich über ein kleines seidnes Rollkissen hin, drauf gelbe Sterne aufgenäht
+            <p>Mathilde begleitete ihn bis an die Flurtür. Als sie wieder <pb/> zurückkam, hatte
+               sich die Mutter auf das Plüschsofa gesetzt, was sie für gewöhnlich ungern tat, und
+               strich über ein kleines seidnes Rollkissen hin, drauf gelbe Sterne aufgenäht
                waren.</p>
             <p>»Nun, Thilde, was meinst du. Die Stube steht nu schon seit den Ferien leer. Es wird
                Zeit, daß wir einen Mieter finden. Er will sich noch besinnen und uns dann einen
@@ -233,10 +232,10 @@
                dran fest, die tuen mir wohl, und wenn ich so höre, daß einer immer so fromm und faul
                drum rumgeht, da wird mir ganz schlimm.«</p>
             <p>»Ganz schlimm. Das ist nun auch wieder so. Na, rede, wie du willst, ändern kann ich
-               dich doch nicht, du hast immer deinen <pb facs="#"/> Willen gehabt von klein an, und
-               Vater hat immer gesagt: ›Laß man; die wird gut, die frißt sich durch.‹ Ja, das hat er
-               gesagt, aber wenn es man wahr ist. Und warum hat er denn keinen Muck? Ich meine den
-               Herrn, von dem du sagst, er wird schon wiederkommen. Und warum wird er denn
+               dich doch nicht, du hast immer deinen <pb/> Willen gehabt von klein an, und Vater hat
+               immer gesagt: ›Laß man; die wird gut, die frißt sich durch.‹ Ja, das hat er gesagt,
+               aber wenn es man wahr ist. Und warum hat er denn keinen Muck? Ich meine den Herrn,
+               von dem du sagst, er wird schon wiederkommen. Und warum wird er denn
                wiederkommen?«</p>
             <p>»Du siehst auch gar nichts, Mutter. Hast du denn nicht seine Augen gesehn? Und den
                schwarzen Vollbart und or'ntlich ein bißchen kraus. Soviel mußt du doch wissen, mit
@@ -261,9 +260,9 @@
                sechs wieder oben bei Möhrings war und mietete.</p>
             <p>»Meine Sachen stehen noch auf dem Bahnhof hier drüben.</p>
             <p>
-               <pb facs="#"/> Hier ist meine Karte. Sie können vielleicht jemand rüberschicken und
-               sagen lassen, daß ein Kofferträger oder ein Dienstmann sie rüberbringt. Ich will noch
-               einen Freund besuchen, und wenn ich wiederkomme, hoff ich alles vorzufinden.«</p>
+               <pb/> Hier ist meine Karte. Sie können vielleicht jemand rüberschicken und sagen
+               lassen, daß ein Kofferträger oder ein Dienstmann sie rüberbringt. Ich will noch einen
+               Freund besuchen, und wenn ich wiederkomme, hoff ich alles vorzufinden.«</p>
             <p>Frau Möhring versprach alles. Als er fort [war], sagte Mathilde: »Siehst du, Mutter.
                Wer hat recht? Du wirst auch noch hören, daß er in den Zelten war.«</p>
          </div>
@@ -287,9 +286,9 @@
                Mutter Möhring aber setzte sich auf das Sofa, grad aufrecht, und sah nach der Wand
                gegenüber, wo ein Pifferaro auf einem Felsen saß und, seinen Dudelsack blasend,
                einfältig und glücklich in die Welt sah. Mathilde sah im Spiegel, wie die Mutter so
-               steif und aufrecht <pb facs="#"/> dasaß, und sagte, ohne sich umzudrehn: »Warum sitzt
-               du nu wieder auf dem harten Sofa und kannst dich nicht anlehnen. Wozu haben wir denn
-               die Chaiselongue?«</p>
+               steif und aufrecht <pb/> dasaß, und sagte, ohne sich umzudrehn: »Warum sitzt du nu
+               wieder auf dem harten Sofa und kannst dich nicht anlehnen. Wozu haben wir denn die
+               Chaiselongue?«</p>
             <p>»Na, doch nicht dazu.«</p>
             <p>»Freilich dazu. Freilich, und war noch dazu gar kein Geld. Und nu denkst du gleich,
                du ruinierst es und sitzt ein Loch hinein. Ich hab es mir gespart und habe mich
@@ -315,8 +314,8 @@
             <p>»Soso, na, das ist gut, dann ist es ein Prediger oder wird einer.«</p>
             <p>»Nein, dieser nicht. Dieser is bloß ein Rechtskandidat. Das heißt soviel als wie, er
                hat ausstudiert und muß nun sein Examen machen, und wenn er das gemacht hat, dann ist
-               er ein <pb facs="#"/> Referendarius. Er ticktackt jetzt so hin und her zwischen
-               Student und Referendarius.«</p>
+               er ein <pb/> Referendarius. Er ticktackt jetzt so hin und her zwischen Student und
+               Referendarius.«</p>
             <p>»Na, wenn er nur bleibt. Glaubst du, daß er bleibt?«</p>
             <p>»Natürlich bleibt er.«</p>
             <p>»Ja, du bist immer so sicher, Thilde. Woraus willst du wissen, daß er bleibt?«</p>
@@ -345,8 +344,8 @@
                sie schon um sechs auf, weil sie doch nicht wissen konnten, ob ihr Mieter nicht ein
                Frühauf sei.</p>
             <p>
-               <pb facs="#"/> »Ich glaube nicht, daß er ein Frühauf ist«, sagte Mathilde, »aber man
-               kann doch nicht wissen. Und in der ersten Nacht schlafen viele so unruhig.«</p>
+               <pb/> »Ich glaube nicht, daß er ein Frühauf ist«, sagte Mathilde, »aber man kann doch
+               nicht wissen. Und in der ersten Nacht schlafen viele so unruhig.«</p>
             <p>Es war wohl schon acht, als Mathilde das aussprach und hinzusetzte: »Du sollst sehn,
                Mutter, der hat einen Bärenschlaf. Um den brauchst du dir die Nacht nicht um die
                Ohren zu schlagen, und von Weckeraufziehn is nu schon gar keine Rede mehr. Na, mir
@@ -372,8 +371,8 @@
                der Vollbart ist es auch nicht mal. Er ist bloß faul und hat kein Feuer im Leibe. Das
                sieht denn so aus, als ob einer alt wäre, bloß weil er schläfrig ist. Und sentimental
                ist er auch.«</p>
-            <p>»Ja, das wird er wohl«, sagte die alte Möhring, aber doch <pb facs="#"/> so, daß man
-               hören konnte, sie dachte sich nichts bei »sentimental« und wollte bloß nicht
+            <p>»Ja, das wird er wohl«, sagte die alte Möhring, aber doch <pb/> so, daß man hören
+               konnte, sie dachte sich nichts bei »sentimental« und wollte bloß nicht
                widersprechen.</p>
             <p>Eine Stunde später hatte Mathilde das Zimmer zurechtgemacht, während die Mutter sich
                in der Küche beschäftigte. Man war übereingekommen, sich jeder ein Setzei zu
@@ -401,8 +400,8 @@
                du's wolltest. Manche sind so sehr fürs Gebildete. Wie hast du's denn drüben bei ihm
                gefunden? Alles in Ordnung? alles anständig?</p>
             <p>
-               <pb facs="#"/> Ein ganz Armer kann es nicht sein. Ein ganzlederner Koffer beinah ohne
-               Holz und Pappe; das haben immer bloß solche, die guter Leute Kind sind.«</p>
+               <pb/> Ein ganz Armer kann es nicht sein. Ein ganzlederner Koffer beinah ohne Holz und
+               Pappe; das haben immer bloß solche, die guter Leute Kind sind.«</p>
             <p>»Ganz recht, Mutter, das stimmt. Da sind wir mal einig. Und so ist es auch mit ihm.
                Guter Leute Kind. Auf der Kommode lagen noch die Schnupftücher und die wollenen
                Strümpfe. Nun, du mußt es dir nachher ansehn, alle ganz gleich gezeichnet und auch
@@ -430,8 +429,8 @@
             <p>»Nimm doch auch, Thilde.«</p>
             <p>»Nein, Mutter. Ich mag nicht Zucker. Aber du bist für süß.</p>
             <p>
-               <pb facs="#"/> Und nimm nur immer ein bißchen in den Mund. Ich freue mich, wenn es
-               dir schmeckt und wenn du wieder dick und fett wirst.«</p>
+               <pb/> Und nimm nur immer ein bißchen in den Mund. Ich freue mich, wenn es dir
+               schmeckt und wenn du wieder dick und fett wirst.«</p>
             <p>»Ja«, lachte die Alte. »Du meinst es gut. Aber dick und fett. Gott, Thilde, wo soll
                das herkommen?« </p>
          </div>
@@ -459,13 +458,13 @@
                wieder da bin, und auch wieder nicht. Owinsk ist ein Nest, natürlich, und wenn man
                aufgestanden ist, kann man auch schon wieder zu Bette gehn, und dazu die ewige
                Klagerei von Mutter und Schwester und keine Spur Verständnis für ein Buch oder ein
-               Bild, <pb facs="#"/> und wenn ein Tanzbär auf den Markt kommt, dann ist es, als ob
-               die Wolter gastierte... Na, das alles is nicht grade mein Geschmack. Aber ein Gutes
-               hat solch Nest doch, man hat Muße, man kann seinen paar Gedanken nachhängen, wenn man
-               welche hat, und die Büffelei hat ein Ende. Ach, Rybinski, das geht nun wieder los.
-               Wie steht es denn mit dir? Wenn ich dich so ansehe mit deiner Polenmütze, nimm mir
-               nicht übel, es sieht so 'n bißchen theaterhaft aus, und deinen Stiefeln über der Hose
-               – du siehst mir auch nicht aus, als kommst du recte vom Repetitorium.«</p>
+               Bild, <pb/> und wenn ein Tanzbär auf den Markt kommt, dann ist es, als ob die Wolter
+               gastierte... Na, das alles is nicht grade mein Geschmack. Aber ein Gutes hat solch
+               Nest doch, man hat Muße, man kann seinen paar Gedanken nachhängen, wenn man welche
+               hat, und die Büffelei hat ein Ende. Ach, Rybinski, das geht nun wieder los. Wie steht
+               es denn mit dir? Wenn ich dich so ansehe mit deiner Polenmütze, nimm mir nicht übel,
+               es sieht so 'n bißchen theaterhaft aus, und deinen Stiefeln über der Hose – du siehst
+               mir auch nicht aus, als kommst du recte vom Repetitorium.«</p>
             <p>»Welche feine Fühlung du hast, Großmann. Recte vom Repetitorium: nein. Aber was von
                recte ist auch dabei; recte vom Galgen...«</p>
             <p>»Wie Roller?«</p>
@@ -485,8 +484,8 @@
             <p>»Ja, proste Mahlzeit; eine Zereviskappe, ein Kommersbuch und ein Paar hohe
                Jagdstiefeln, gelbes Leder, genau wie wenn er sie von Wallenstein hätte.«</p>
             <p>»War er denn ein Nimrod...? Übrigens könntest du mir erst eine Zigarre geben. Ich sah
-               da eine kleine Kiste; sie enttäuscht <pb facs="#"/> mich hoffentlich nicht so wie
-               dich die große Erbkiste. Ja, war er denn solch Jäger vor dem Herrn?«</p>
+               da eine kleine Kiste; sie enttäuscht <pb/> mich hoffentlich nicht so wie dich die
+               große Erbkiste. Ja, war er denn solch Jäger vor dem Herrn?«</p>
             <p>»I Gott bewahre. Dazu war er viel zu bequem und fror immer. Er wird wohl, als er eben
                Burgemeister geworden war, mal eine Jagd mitgemacht haben, aber als ich so 'n
                halbwachsner Junge war, so kurz vorher, eh wir nach Inowroclaw aufs Gymnasium kamen,
@@ -511,8 +510,8 @@
                seh ich mir dann an, so vorbildlich.«</p>
             <p>»Aber Hans, du willst doch nicht auch Burgemeister werden. Und bist ja auch noch vorm
                Referendar; mein Vater hatte doch die halbe Quälerei hinter sich. Sie nehmen jetzt
-               nicht all <pb facs="#"/> und jeden, und Referendar ist das wenigste. Und du siehst
-               mir nicht aus, als ob du in meiner Abwesenheit und sozusagen hinter meinem Rücken den
+               nicht all <pb/> und jeden, und Referendar ist das wenigste. Und du siehst mir nicht
+               aus, als ob du in meiner Abwesenheit und sozusagen hinter meinem Rücken den
                Referendar gemacht hättest und nun bloß kämst, um dich mir in deiner neuen Würde
                vorzustellen. Aber verzeih, ich werd uns drüben erst ein bißchen Abendbrot bestellen,
                was man in einer Chambre garnie so Abendbrot nennt. Ein Glück, daß die Menschen den
@@ -537,11 +536,10 @@
                Parallelen gezogen zwischen Amalie und Adelheid von Runeck, zwischen der Milford und
                der Eboli – wenn du schließlich nicht einmal verstehen willst, wenn ich von meinem
                ersten Abend spreche. Also rundheraus, ich spreche von meinem ersten ›Räuber‹-Abend.
-               Kosinsky. Die Geschichte mit dem Repetitorium wurde mir zu langweilig. Und <pb
-                  facs="#"/> wenn man den guten Ausgang noch sicher hätte. Kurzum, ich bin zu
-               Deichmann gegangen. Heute war die dritte Probe mit mir, Kraußneck brillant als
-               Roller, ich denke, daß ich über kurz oder lang auch ins Charakterfach überspringe.
-               Liebhaber ist bloß Durchgang.«</p>
+               Kosinsky. Die Geschichte mit dem Repetitorium wurde mir zu langweilig. Und <pb/> wenn
+               man den guten Ausgang noch sicher hätte. Kurzum, ich bin zu Deichmann gegangen. Heute
+               war die dritte Probe mit mir, Kraußneck brillant als Roller, ich denke, daß ich über
+               kurz oder lang auch ins Charakterfach überspringe. Liebhaber ist bloß Durchgang.«</p>
             <p>»Durchgang! Und die ›Räuber‹! Ist es möglich? Dann wird also in acht Tagen auf dem
                Zettel stehn: Kosinsky – Herr Rybinski. Oder willst du dein ›von‹ beibehalten?«</p>
             <p>»Nein, man muß auch etwas für seine Familie tun. Mein ›von‹ wird gestrichen,
@@ -566,11 +564,11 @@
             <p>»Na, höre, Hans, es spielt doch noch manches andre mit.«</p>
             <p>»Du meinst Liebe. Damit komm mir nicht. Larifari. Manche sind so verrückt, und dir
                trau ich schon was zu; wer soviel spazierenläuft und dieselbe Schwärmerei für Lenau
-               wie für <pb facs="#"/> Zola hat (was dir beiläufig erst einer nachmachen soll), der
-               ist zu jedem Liebesunsinn fähig. Es sieht dann auch aus wie Courage, ist aber das
-               Gegenteil davon, bloß Schlapperei, Bequemlichkeit, Hausschlüsselfrage. Hugo, sieh
-               dich vor. Aber soviel will ich dir schon heute sagen, wenn du dich normal entwickelst
-               und nicht einen kolossalen Fauxpas machst und dich sozusagen normal und folgerichtig
+               wie für <pb/> Zola hat (was dir beiläufig erst einer nachmachen soll), der ist zu
+               jedem Liebesunsinn fähig. Es sieht dann auch aus wie Courage, ist aber das Gegenteil
+               davon, bloß Schlapperei, Bequemlichkeit, Hausschlüsselfrage. Hugo, sieh dich vor.
+               Aber soviel will ich dir schon heute sagen, wenn du dich normal entwickelst und nicht
+               einen kolossalen Fauxpas machst und dich sozusagen normal und folgerichtig
                weiterentwickelst, so kommst du morgen da an, wo ich heute schon bin. Und wenn du
                Referendar werden solltest, was vielleicht möglich, Assessor wirst du nie. Laß doch
                die Einpaukerei. Alles umsonst. Ich kenne meine Pappenheimer.«</p>
@@ -593,8 +591,8 @@
                sein.«</p>
             <p>»Ich begreife dich nicht, Hans. Und so ganz ohne Veranlassung.«</p>
             <p>»Des Menschen Bestes sind Ahnungen. Und sie hat solch Profil, Gemme, streng und edel
-               und einen kleinen Fehler am <pb facs="#"/> Auge und aschblond. ›So schreiten keine
-               ird'schen Weiber, die zeugete kein sterblich Haus...‹«</p>
+               und einen kleinen Fehler am <pb/> Auge und aschblond. ›So schreiten keine ird'schen
+               Weiber, die zeugete kein sterblich Haus...‹«</p>
             <p>»Unsinn. Was soll das. Eigentlich ist sie doch ein fach eine komische Figur.«</p>
             <p>»Sage das nicht. So was rächt sich.«</p>
             <p>»Ach was. Alles Unsinn und Übermut. Und nun laß uns gehn. Wann ist denn eigentlich
@@ -621,8 +619,8 @@
                wenige; »Das Leben ein Traum« hatte die meisten Zeichen und Randglossen und schien
                ihn am meisten interessiert zu haben.</p>
             <p>
-               <pb facs="#"/> »Mutter«, sagte Thilde, »wenn da nicht ein Wunder geschieht, der macht
-               es nie.«</p>
+               <pb/> »Mutter«, sagte Thilde, »wenn da nicht ein Wunder geschieht, der macht es
+               nie.«</p>
             <p>»Was denn, Thilde?«</p>
             <p>»Na, das Examen. Uns kann es recht sein. Je länger es dauert, je länger bleibt er.
                Und wenn er es macht und durchfällt, so bleibt er auch. Wohin soll er am Ende? Sehr
@@ -650,8 +648,8 @@
                hättest, ich dachte nur, es wäre was dazwischengekommen, weil es sich so
                hinzog...«</p>
             <p>
-               <pb facs="#"/> »Ah, ich versteh; man hatte schließlich gemerkt, es ginge doch nicht,
-               es sei nichts [mit] mir.«</p>
+               <pb/> »Ah, ich versteh; man hatte schließlich gemerkt, es ginge doch nicht, es sei
+               nichts [mit] mir.«</p>
             <p>»Du mußt nicht empfindlich sein, bist noch nicht aufgetreten und fängst schon damit
                an. Aber das ist nur die Hälfte von dem, was ich eben dachte. Das andre ist das mit
                den zwei Möhrings.«</p>
@@ -678,8 +676,8 @@
             <p>»Verlange nur nicht, daß ich es halte.«</p>
 
             <p>Rybinski war kaum fort, so ging Hugo zu den beiden Frauen hinüber, um ihnen die zwei
-               Billets zu bringen; Parquet sei ausverkauft, <pb facs="#"/> das sei der Grund, daß
-               sie sich trennen müßten, aber er werde immer hinaufsehn.</p>
+               Billets zu bringen; Parquet sei ausverkauft, <pb/> das sei der Grund, daß sie sich
+               trennen müßten, aber er werde immer hinaufsehn.</p>
             <p>Mutter Möhring sagte gar nichts, Thilde aber fand sich leicht zurecht und sagte mit
                vielem Anstand und in ihrer ganzen Haltung wie verändert: »Es sei sehr liebenswürdig,
                an sie zu denken, und sie empfänden es als eine große Ehre.«</p>
@@ -706,13 +704,13 @@
                sieht ein bißchen nach was aus und daß man doch auch mit zugehört.«</p>
             <p>»Ja, ja; das is schon recht.«</p>
             <p>
-               <pb facs="#"/> »Und weißt du, Mutter, was ich dir schon vor ein paar Tagen sagen
-               wollte, wir wollen doch die alte Runtschen wieder ins Haus nehmen, das heißt immer
-               bloß eine Stunde, daß sie drüben rein machen kann und alles einholen. Ich bin ja nich
-               dagegen, und mir kommt es nicht drauf an. Aber neulich hatte er was vergessen und kam
-               gerade dazu, wie ich da bei all dem Planschen und Gießen war und der Blecheimer
-               mitten in der Stube – da war es mir doch genierlich. Und ich denke wirklich, wir
-               nehmen die Runtschen. Sie kann dann auch einholen, was wir brauchen.«</p>
+               <pb/> »Und weißt du, Mutter, was ich dir schon vor ein paar Tagen sagen wollte, wir
+               wollen doch die alte Runtschen wieder ins Haus nehmen, das heißt immer bloß eine
+               Stunde, daß sie drüben rein machen kann und alles einholen. Ich bin ja nich dagegen,
+               und mir kommt es nicht drauf an. Aber neulich hatte er was vergessen und kam gerade
+               dazu, wie ich da bei all dem Planschen und Gießen war und der Blecheimer mitten in
+               der Stube – da war es mir doch genierlich. Und ich denke wirklich, wir nehmen die
+               Runtschen. Sie kann dann auch einholen, was wir brauchen.«</p>
             <p>Die Mutter hatte kleine Bedenken und sagte: »Thilde, das läuft so ins Geld. Und man
                weiß doch nicht, wenn er dann kündigt...«</p>
             <p>»Dann kündigen wir auch wieder. Die Runtschen is ja 'ne vernünftige Frau. Und dann,
@@ -732,9 +730,9 @@
                der Wohnung gesprochen wurden. Ihr Mieter Hugo Großmann hatte sich den ganzen Tag
                nicht sehn lassen, wodurch er der Begleitungsfrage klug entgangen war.</p>
             <p>
-               <pb facs="#"/> Kosinsky war dreimal gerufen worden, und die Alte, die nicht klatschen
-               wollte, hatte sich begnügt, dem Darsteller der Rolle zuzunicken, als er sich grade
-               nach der andren Seite hin bedankte. Dann sagte sie zu Thilde, während der Lärm noch
+               <pb/> Kosinsky war dreimal gerufen worden, und die Alte, die nicht klatschen wollte,
+               hatte sich begnügt, dem Darsteller der Rolle zuzunicken, als er sich grade nach der
+               andren Seite hin bedankte. Dann sagte sie zu Thilde, während der Lärm noch
                fortdauerte: »Er macht es recht gut, er hat soviel Anstand. Es muß doch sehr schwer
                sein.«</p>
             <p>»I Gott bewahre«, sagte Thilde, die sich ablehnend gegen alles verhielt, weil sie
@@ -758,10 +756,10 @@
                Vorhalle verweilte sich Thilde, weil sie's für möglich hielt, daß ihr Mieter an einer
                der Barren stehn und auf sie warten würde. Aber er war nicht da. Das gab eine neue
                Verstimmung, und einen Augenblick überkam die sonst unerschütterliche Thilde die
-               Frage: »Ob ich mich <pb facs="#"/> doch vielleicht irre?« Sie war aber, weil sie den
-               Charakter ihres Mieters ganz genau zu kennen glaubte, von einem unvertilgbaren
-               Optimismus oder Hoffnungsseligkeit und sagte sich: er muß natürlich seinen Freund
-               beglückwünschen, und er kann nicht an zwei Stellen zugleich sein.</p>
+               Frage: »Ob ich mich <pb/> doch vielleicht irre?« Sie war aber, weil sie den Charakter
+               ihres Mieters ganz genau zu kennen glaubte, von einem unvertilgbaren Optimismus oder
+               Hoffnungsseligkeit und sagte sich: er muß natürlich seinen Freund beglückwünschen,
+               und er kann nicht an zwei Stellen zugleich sein.</p>
             <p>Erst nach zehn waren sie zu Hause, was nichts schadete, da sie den Hausschlüssel
                mithatten. »Siehst du, Thilde, wie gut«, sagte die Alte, als sie den Hausschlüssel
                aus ihrer Tasche hervorholte.</p>
@@ -788,8 +786,8 @@
                weiß ja, daß er seine Frau mit 'm Marderpelz erstickt hat. Aber es gibt auch gute
                Menschen.«</p>
             <p>
-               <pb facs="#"/> »Ja, die gibt es auch. Und ich glaube, unser Jetziger hier drüben ist
-               ein guter Mensch.«</p>
+               <pb/> »Ja, die gibt es auch. Und ich glaube, unser Jetziger hier drüben ist ein guter
+               Mensch.«</p>
             <p>»Ja, das ist ein sehr guter. Das heißt, wenn er so ist, wie ich ihn mir denke.«</p>
             <p>»Du sagst ja immer, du bist so sicher.«</p>
             <p>»Bin ich auch. Bloß mitunter wird einem doch so bange. Aber es geht gleich wieder
@@ -817,9 +815,8 @@
             <p>»Und was wohl aus dem armen Wurm, dem Fräulein, geworden ist? Wie hieß sie doch?«</p>
             <p>»Amalie.«</p>
             <p>
-               <pb facs="#"/> »Richtig, Amalie. Ja, die is doch nu so gut wie eine Waise. Denn wenn
-               sie den Alten auch wieder rausgeholt haben. Lange kann er's doch nicht mehr
-               machen.«</p>
+               <pb/> »Richtig, Amalie. Ja, die is doch nu so gut wie eine Waise. Denn wenn sie den
+               Alten auch wieder rausgeholt haben. Lange kann er's doch nicht mehr machen.«</p>
             <p>»Nein, das kann er nicht, Mutter. Aber jetzt werde ich dir ein Glas Wasser holen, und
                dann legst du dich auf die andre Seite.«</p>
             <p>»Na ja, ich werde bis hundert zählen.«</p>
@@ -845,9 +842,9 @@
                Kiepenhut und eine schwarze Klappe über dem linken Auge.</p>
             <p>»Ah, guten Tag, Frau Runtschen. Na, das ist gut, daß Sie da sind. Hat Ihnen Mutter
                schon gesagt...?«</p>
-            <p>»Ja, Thildechen, Mutter hat mir schon gesagt, daß wieder <pb facs="#"/> ein Herr da
-               ist und daß ich rein machen und einholen soll. Aber wann muß es denn sein? Von sieben
-               bis acht bin ich drüben bei Hauptmann Petermann und von acht bis neun bei Kulickes
+            <p>»Ja, Thildechen, Mutter hat mir schon gesagt, daß wieder <pb/> ein Herr da ist und
+               daß ich rein machen und einholen soll. Aber wann muß es denn sein? Von sieben bis
+               acht bin ich drüben bei Hauptmann Petermann und von acht bis neun bei Kulickes
                unten.«</p>
             <p>»Das paßt sehr gut. Neun bis zehn ist die beste Zeit oder noch ein bißchen später. Um
                die Zeit ist er immer weg. Und Sie können sich's dann einrichten, wie Sie wollen, und
@@ -875,9 +872,9 @@
                noch ihr Mieter Hugo Großmann wohnten der Aufführung bei, da dieser letztre krank
                geworden war. Er fieberte ziemlich stark und bat, nach einem Arzt zu schicken; dieser
                kam und war mehrere Tage lang im unsichern, bis es sich eines Morgens herausstellte,
-               was es <pb facs="#"/> war. Er ging mit zu Möhrings hinüber und sagte: »Es sind die
-               Masern, nichts Besondres und nichts Gefährliches. Aber Vorsicht, liebe Frau Möhring,
-               sonst haben wir einen Toten, wir wissen nicht wie.«</p>
+               was es <pb/> war. Er ging mit zu Möhrings hinüber und sagte: »Es sind die Masern,
+               nichts Besondres und nichts Gefährliches. Aber Vorsicht, liebe Frau Möhring, sonst
+               haben wir einen Toten, wir wissen nicht wie.«</p>
             <p>»Gott, Herr Doktor, er is ja erst sechs Wochen bei uns und denn so was. Und wenn die
                Leute das hören, da will ja denn keiner einziehn, und vertuscheln geht auch nich; es
                sind immer so viele schlechte Menschen, und Schultzens wird es auch nicht recht
@@ -902,10 +899,10 @@
             <p>»Ach Thilde, was unsereiner auch alles erleben muß. Und das nennen sie dann Fügungen,
                und man soll sich auch noch bedanken.«</p>
             <p>»Rede nicht so, Mutter, das bringt Unglück, denke an Hiobben. Und Fügungen. Natürlich
-               sind es Fügungen, und die <pb facs="#"/> Leute haben auch ganz recht, wenn sie von
-               Bedanken reden. Wenigstens wir. Denn das kann ich dir sagen, für uns is es eine sehr
-               gute Fügung, und wenn ich mir was hätte denken sollen, auf so was Gutes wie diese
-               Masern wäre ich gar nich gekommen.«</p>
+               sind es Fügungen, und die <pb/> Leute haben auch ganz recht, wenn sie von Bedanken
+               reden. Wenigstens wir. Denn das kann ich dir sagen, für uns is es eine sehr gute
+               Fügung, und wenn ich mir was hätte denken sollen, auf so was Gutes wie diese Masern
+               wäre ich gar nich gekommen.«</p>
             <p>»Meinst du?«</p>
             <p>»Freilich mein ich.«</p>
             <p>»Aber wie denn, Thilde?«</p>
@@ -933,8 +930,8 @@
                Burgemeisterssohn, und die Masern hat er bei uns gekriegt. Er muß in unsre
                Stube...«</p>
             <p>
-               <pb facs="#"/> »Ja, Thilde, das geht doch nich. Wir haben ja doch bloß die eine. Und
-               dann ein Bett und ein fremder Mann drin, es geht doch nich.«</p>
+               <pb/> »Ja, Thilde, das geht doch nich. Wir haben ja doch bloß die eine. Und dann ein
+               Bett und ein fremder Mann drin, es geht doch nich.«</p>
             <p>»Es geht alles. Aber das mit dem Bett is gar nich nötig. Das Bett bleibt stehn, wo's
                steht, und abends bringen wir ihn rüber und packen ihn ein und seine Reisedecke
                drüber, daß er sich nich bloßwirft.«</p>
@@ -962,9 +959,9 @@
             <p>»Das ist ja grade das Gute. Da verteilt es sich aufs Ganze, und von Kuten-Einliegen
                is keine Rede. Und wenn auch, Mutter.</p>
             <p>
-               <pb facs="#"/> Wer was will, der muß auch was einsetzen. Er sieht dann, daß wir ihm
-               unser Bestes geben, und wie ich ihn kenne, wird ihn das rühren, denn er hat was
-               Edles, das heißt so auf seine Art. Zuviel darf man von ihm nich verlangen.«</p>
+               <pb/> Wer was will, der muß auch was einsetzen. Er sieht dann, daß wir ihm unser
+               Bestes geben, und wie ich ihn kenne, wird ihn das rühren, denn er hat was Edles, das
+               heißt so auf seine Art. Zuviel darf man von ihm nich verlangen.«</p>
 
             <p>Gleich am Tage, wo dies Gespräch geführt wurde, wurde Hugo Großmann in die
                Möhringsche gute Stube herübergenommen und auf der Chaiselongue installiert. Er nahm
@@ -988,9 +985,9 @@
                Alte noch weiter über das »Aufregende« verbreiten wollte.</p>
             <p>»Ja, Vorlesen geht, aber nicht viel und nichts Schweres.«</p>
             <p>Als sie wieder bei Hugo eintraten, erzählte ihm Thilde, was der Doktor alles erlaubt
-               habe, nur immer abends ein grüner <pb facs="#"/> Lichtschirm, eine grüne Lampenglocke
-               sei nicht genug, und wenn er Lust hätte, so dürfte ihm auch was vorgelesen werden,
-               drei-, viermal des Tages, aber nie länger als eine halbe Stunde.</p>
+               habe, nur immer abends ein grüner <pb/> Lichtschirm, eine grüne Lampenglocke sei
+               nicht genug, und wenn er Lust hätte, so dürfte ihm auch was vorgelesen werden, drei-,
+               viermal des Tages, aber nie länger als eine halbe Stunde.</p>
             <p>Hugo nickte sehr erfreut, denn sein Kranksein fing ihm an langweilig zu werden, und
                als Thilde fragte, »was er denn wohl wünsche? Bücher seien ja da die Hülle und
                Fülle«, da sagte er: Ja, die Geschichte von Zola, wo das Paradies drin vorkäme, die
@@ -1014,8 +1011,8 @@
                auch schon so beim Lernen und im Konfirmandenunterricht. Sie habe früher bei Pastor
                Messerschmidt aus der Bibel vorlesen müssen. Da wären mitunter furchtbare Worte
                gekommen, und sie denke noch mitunter mit Schrecken daran zurück. Aber immer, wenn
-               sie gemerkt hätte, »jetzt kommt es«, dann habe sie sich zusammengenommen <pb facs="#"
-               /> und die Worte ganz klar und deutlich und mit aller Betonung ausgesprochen. Wie
+               sie gemerkt hätte, »jetzt kommt es«, dann habe sie sich zusammengenommen <pb/> und
+               die Worte ganz klar und deutlich und mit aller Betonung ausgesprochen. Wie
                Luther.</p>
             <p>Hugo nickte nur und fand bestätigt, was Doktor Bolle eben über Thilde gesagt hatte.
                Wie richtig, wie gebildet war das alles, und er freute sich über ihre tapferen und
@@ -1042,18 +1039,18 @@
                sich noch vor Weihnachten ihres Jaworts versichern. Daß ihm dies Ja nicht versagt
                werden würde, davon hielt er sich überzeugt, denn schließlich war er doch immer ein
                Burgemeisterssohn mit Vollbart, während Thilde, soviel sah er wohl, auf Geburtsstolz
-               verzichten mußte. »Fräulein Thilde«, <pb facs="#"/> sagte er, als sie gleich am
-               ersten Abend seiner Wiederumquartierung ihm den Tee brachte mit geschnittenem
-               Schinken, »Fräulein Thilde, Sie sind sich immer gleich in Ihrer Güte gegen mich, und
-               weil Sie glauben, es würde mir alles noch schwer, so haben Sie auch den Schinken
-               schon geschnitten. Sie haben mich gepflegt und verwöhnt und haben mir all die Wochen
-               über erst gezeigt, wie glücklich man im Leben sein kann. Eine liebevolle Hand ist
-               das, was man im Leben am meisten braucht. Aber setzen Sie das Teezeug erst hin... Und
-               nun geben Sie mir Ihre liebe kleine Hand, denn es ist eine kleine Hand, und treten
-               Sie mit mir ans Fenster und sehen Sie mit mir auf das Bild da, das Gewölk, das am
-               Monde vorüberzieht und sich wieder aufhellt im Vorüberziehn. Es ließe sich vielleicht
-               ausdeuten, aber auch ohne das, ich frage Sie, ob ich Ihre kleine Hand, denn es ist
-               eine kleine Hand, auch noch weiter halten darf, lange noch, ein Leben lang.«</p>
+               verzichten mußte. »Fräulein Thilde«, <pb/> sagte er, als sie gleich am ersten Abend
+               seiner Wiederumquartierung ihm den Tee brachte mit geschnittenem Schinken, »Fräulein
+               Thilde, Sie sind sich immer gleich in Ihrer Güte gegen mich, und weil Sie glauben, es
+               würde mir alles noch schwer, so haben Sie auch den Schinken schon geschnitten. Sie
+               haben mich gepflegt und verwöhnt und haben mir all die Wochen über erst gezeigt, wie
+               glücklich man im Leben sein kann. Eine liebevolle Hand ist das, was man im Leben am
+               meisten braucht. Aber setzen Sie das Teezeug erst hin... Und nun geben Sie mir Ihre
+               liebe kleine Hand, denn es ist eine kleine Hand, und treten Sie mit mir ans Fenster
+               und sehen Sie mit mir auf das Bild da, das Gewölk, das am Monde vorüberzieht und sich
+               wieder aufhellt im Vorüberziehn. Es ließe sich vielleicht ausdeuten, aber auch ohne
+               das, ich frage Sie, ob ich Ihre kleine Hand, denn es ist eine kleine Hand, auch noch
+               weiter halten darf, lange noch, ein Leben lang.«</p>
             <p>Sie gab nicht unmittelbar Antwort und beschäftigte sich vielmehr damit, das Rouleau
                herunterzulassen. Dann nahm sie seinen Arm, führte ihn vom Fenster her bis an das
                hochlehnige Sofa zurück und sagte, während sie sich, mit aufgestemmten Händen und das
@@ -1068,14 +1065,14 @@
             <p>»Rybinski-Wege?«</p>
             <p>Hugo schwieg, weil sie seine Gedanken erraten hatte. »Nein, Hugo, nichts davon. Dann
                nehme ich mein Ja zurück. Ich will nicht in der Welt herumziehn und dir die
-               Königsmäntel anziehn. Ich bin fürs Ernste, für hergebrachte Formen und auch <pb
-                  facs="#"/> für Religion. Und wenn es noch dazu kommt, so komm mir nicht mit
-               Standesamt. Alles, mein ich, muß seinen Schick haben. Ich rechne darauf, daß du mir
-               durch Arbeit den Beweis deiner Liebe gibst. Erst das Examen. Das andre findet sich.
-               Da will ich schon sorgen. Aber nu komm, daß wir's Muttern sagen. Oder nein, heute
-               lieber nicht; du bist noch nicht fest auf den Füßen. Ich werd es ihr selber sagen,
-               heut abend im Bett. Und morgen früh kommst du dann. Ob sie sich freut, weiß ich
-               nicht. Aber ja wird sie schon sagen.«</p>
+               Königsmäntel anziehn. Ich bin fürs Ernste, für hergebrachte Formen und auch <pb/> für
+               Religion. Und wenn es noch dazu kommt, so komm mir nicht mit Standesamt. Alles, mein
+               ich, muß seinen Schick haben. Ich rechne darauf, daß du mir durch Arbeit den Beweis
+               deiner Liebe gibst. Erst das Examen. Das andre findet sich. Da will ich schon sorgen.
+               Aber nu komm, daß wir's Muttern sagen. Oder nein, heute lieber nicht; du bist noch
+               nicht fest auf den Füßen. Ich werd es ihr selber sagen, heut abend im Bett. Und
+               morgen früh kommst du dann. Ob sie sich freut, weiß ich nicht. Aber ja wird sie schon
+               sagen.«</p>
             <p>Sie stellte die kleine Teekanne vor ihn hin und was sonst noch auf dem Teebrett
                stand. Als sie alles geordnet und die Decke gradegezupft hatte, nahm sie das Tablett
                unter den linken Arm und gab ihm einen Kuß auf die Stirn.</p>
@@ -1097,8 +1094,8 @@
             <p>»Noch nich, Mutter. Aber wenn ich ihn bloß erst habe, das heißt richtig verlobt vor
                Gott und Menschen, da wird es schon werden. Er sieht ja doch aus wie auf der Kanzel,
                und so einer kommt immer an. Ich werd ihn schon anbringen.«</p>
-            <p>»Und wirklich verlobt? Und nich bloß so gesagt? und nachher <pb facs="#"/> sitzt du
-               da, wie so ganz, ganz arme und unglückliche Mädchen dasitzen...«</p>
+            <p>»Und wirklich verlobt? Und nich bloß so gesagt? und nachher <pb/> sitzt du da, wie so
+               ganz, ganz arme und unglückliche Mädchen dasitzen...«</p>
             <p>»Ich weiß nicht, was das immer soll, Mutter. Vater hat gesagt: ›Thilde, halte dich
                propper.‹ Und hab ich nich? Und nu kommst du immer mit solchen Geschichten, so
                hintenrum, daß man nicht recht sagen kann, was du meinst. Aber ich weiß es schon. Und
@@ -1128,15 +1125,14 @@
                nichts, sondern nickte nur immer und streichelte Hugos Hand. Das war auch das
                allerbeste.</p>
             <p>
-               <pb facs="#"/> Dann zog sich Hugo wieder in sein Zimmer zurück, und er sah nun Thilde
-               fast weniger als sonst. Wenn es irgend ging, wurde die Runtschen vorgeschoben.
-               Allerdings war dies mit besondren Schwierigkeiten verknüpft, weil grade sogenanntes
-               Matschwetter war, was die Runtschen in ihrer Erscheinung auf ein niedrigstes Maß oder
-               Stufe herabdrückte. Für eine reine Schürze war zwar immer gesorgt, und den Kiepenhut,
-               mit dem sie wie verwachsen war, mußte sie abnehmen, aber man kann nicht sagen, daß
-               dies viel half, fast im Gegenteil, weil die Mannsstiefel, die die Runtschen bei
-               solchem Wetter trug, in einem beleidigenden Gegensatze zu der weißen Schürze
-               standen.</p>
+               <pb/> Dann zog sich Hugo wieder in sein Zimmer zurück, und er sah nun Thilde fast
+               weniger als sonst. Wenn es irgend ging, wurde die Runtschen vorgeschoben. Allerdings
+               war dies mit besondren Schwierigkeiten verknüpft, weil grade sogenanntes Matschwetter
+               war, was die Runtschen in ihrer Erscheinung auf ein niedrigstes Maß oder Stufe
+               herabdrückte. Für eine reine Schürze war zwar immer gesorgt, und den Kiepenhut, mit
+               dem sie wie verwachsen war, mußte sie abnehmen, aber man kann nicht sagen, daß dies
+               viel half, fast im Gegenteil, weil die Mannsstiefel, die die Runtschen bei solchem
+               Wetter trug, in einem beleidigenden Gegensatze zu der weißen Schürze standen.</p>
             <p>All das entging Thilden nicht, aber sie hatte nicht Zeit, sich mit diesen
                verhältnismäßig geringfügigen Dingen zu beschäftigen, da die heranrückende Verlobung
                unterm Christbaum, es waren nur noch vier Tage, sie ganz in Anspruch nahm. Eine
@@ -1154,9 +1150,9 @@
                seit zwanzig Jahren der Freund einer Witwe war (ein Umstand, der über sein Leben
                entschieden hatte), geladen werden solle. Dieser auf geistige Getränke gestellte
                Vetter, von dem Hugo zu sagen pflegte, daß seine Verwandtschaft zu Karoline Pichler
-               näher sei als zu den Großmanns, paßte gut, weil er kein <pb facs="#"/> Spielverderber
-               war, außerdem natürlich mußte Rybinski geladen werden. Um zehn wollte dann Thilde,
-               dies war ein von ihr gestelltes, frühre Beschlüsse halb aufhebendes Amendement, zu
+               näher sei als zu den Großmanns, paßte gut, weil er kein <pb/> Spielverderber war,
+               außerdem natürlich mußte Rybinski geladen werden. Um zehn wollte dann Thilde, dies
+               war ein von ihr gestelltes, frühre Beschlüsse halb aufhebendes Amendement, zu
                Schultzens runtergehn und sich als Braut vorstellen und daran die bescheidne Frage
                knüpfen, ob Rat und Rätin vielleicht eine Viertelstunde ihnen schenken und sich von
                ihrem Glück überzeugen wollten. An der Ausführung dieses letztren Planes war der
@@ -1180,10 +1176,10 @@
                und Trank aufgetragen war, aber desto intimer mit Rybinskis Braut. Rybinski selbst
                lachte, versicherte dann und wann, daß er sich mit dem Rechnungsrat über das
                Schnupftuch schießen müsse, weil ihm ein solcher Eingriff in geheiligte Rechte noch
-               gar nicht vorgekommen sei, und versprach schließlich, beim Rat und der <pb facs="#"/>
-               Rätin seine Visite zu machen, spätestens zu Neujahr, aber ohne Braut. »Man kann doch
-               nicht wissen, wie sich die Rätin stellt«, flüsterte er seinem neuen Freund Schultze
-               zu. Und Schultze zwinkerte.</p>
+               gar nicht vorgekommen sei, und versprach schließlich, beim Rat und der <pb/> Rätin
+               seine Visite zu machen, spätestens zu Neujahr, aber ohne Braut. »Man kann doch nicht
+               wissen, wie sich die Rätin stellt«, flüsterte er seinem neuen Freund Schultze zu. Und
+               Schultze zwinkerte.</p>
             <p>Den Toast auf das Brautpaar brachte der Vetter Architekt aus. Man werde nicht
                überrascht sein, wenn er seinerseits, als ein Mann des Baus, auch die Ehe, als deren
                Vorkammer die Verlobung anzusehen sei, wenn er auch die Ehe als einen Bau ansehe.
@@ -1207,13 +1203,13 @@
                eine schmucke Person, die an einen Bahnhofsgepäckträger verheiratet war [und] die
                schon beim Mantelabnehmen und dann beim Mohnpielenpräsentieren die Bedienung gemacht
                hatte, begleitete die Herrschaften runter. Selbst Schultze nutzte seine
-               Sonderstellung nicht aus und gab <pb facs="#"/> ihr, als er auf dem ersten
-               Treppenabsatz in seine Wohnung abschwenkte, ein Trinkgeld. Alles benahm sich in
-               dieser Beziehung sehr anständig, und oben angekommen, teilte die alte und die junge
-               Runtschen die Beute, was von der jungen Runtschen sehr anständig war. Die Alte war
-               aber über die ganze Aushülfe verstimmt und konnte mit einer Hälfte nicht zufrieden
-               sein, die eben die Hälfte und nicht das Ganze war. »Du hast es doch nicht so nötig,
-               Ulrike«, sagte die Alte.</p>
+               Sonderstellung nicht aus und gab <pb/> ihr, als er auf dem ersten Treppenabsatz in
+               seine Wohnung abschwenkte, ein Trinkgeld. Alles benahm sich in dieser Beziehung sehr
+               anständig, und oben angekommen, teilte die alte und die junge Runtschen die Beute,
+               was von der jungen Runtschen sehr anständig war. Die Alte war aber über die ganze
+               Aushülfe verstimmt und konnte mit einer Hälfte nicht zufrieden sein, die eben die
+               Hälfte und nicht das Ganze war. »Du hast es doch nicht so nötig, Ulrike«, sagte die
+               Alte.</p>
             <p>»Gott, Mutter, du kannst doch nich runterleuchten mit deinem einen Auge, erst fällst
                du und das Licht, und dann fallen die andren auch. Du vergißt immer das mit das eine
                Auge. Und manche graulen sich auch. Und was denkst du denn! Glaubst du denn, daß der
@@ -1234,10 +1230,10 @@
                kann. Und nu Schultze. Ja, du mein Gott, wenn er nicht das sonderbare Zeug zu
                Rybinskis Braut gesagt hätte, so hätt er so gut wie gar nichts gesagt. Und dann is es
                auch nicht fein, daß er gar nichts nahm, und is bloß Tuerei, sehr viel Gutes kriegt
-               er unten auch nich. Aber du hast seine großen Manschettenknöpfe immer angesehn, <pb
-                  facs="#"/> [und] weil er die zwei Steine vorn im Chemisette hatte und weil er Wirt
-               ist, so denkst du, es war was Feines. Ich hab ihn auch nur raufgeholt, weil du doch
-               nu mit ihm durchkommen mußt, wenn ich mal weggehe.«</p>
+               er unten auch nich. Aber du hast seine großen Manschettenknöpfe immer angesehn, <pb/>
+               [und] weil er die zwei Steine vorn im Chemisette hatte und weil er Wirt ist, so
+               denkst du, es war was Feines. Ich hab ihn auch nur raufgeholt, weil du doch nu mit
+               ihm durchkommen mußt, wenn ich mal weggehe.«</p>
             <p>»Na, wann denkst du denn?«</p>
             <p>»Ich denke mir, so zu Johanni.«</p>
             <p>»Hast du denn schon was?«</p>
@@ -1264,8 +1260,8 @@
                bei den Portiersleuten und namentlich in dem Keller gegenüber, wo sie Sellerie,
                Petroleum und Semmelfrühstück holte.</p>
             <p>
-               <pb facs="#"/> Zuletzt kam sie zur Leutnant Petermann, und hier erst, weil diese
-               wegen eines Unfalls am Abend vorher noch im Bette lag, blühte ihr Weizen.</p>
+               <pb/> Zuletzt kam sie zur Leutnant Petermann, und hier erst, weil diese wegen eines
+               Unfalls am Abend vorher noch im Bette lag, blühte ihr Weizen.</p>
             <p>»Gott, Frau Leutnant, Sie liegen noch; was is denn los?«</p>
             <p>»Ach Runtschen, jetzt geht es ja wieder. Aber bis viere habe ich kein Auge zugetan.
                Solche furchtbaren Schmerzen...«</p>
@@ -1293,7 +1289,7 @@
             <p>»Ja, Frau Leutnant, wie soll es gewesen sein? Sehr fein war es. Rechnungsrat Schultze
                war auch da...«</p>
             <p>
-               <pb facs="#"/> »Mit ihr?«</p>
+               <pb/> »Mit ihr?«</p>
             <p>»Nein.«</p>
             <p>»Na, das konnt ich mir denken. Er nimmt es nicht so genau, die Rätin aber hält auf
                sich, wie alle Frauen. Und wer war denn noch da?«</p>
@@ -1320,9 +1316,8 @@
                Vorhang und keine Schirme. Und Lichter waren überall. Fräulein Thilde war auch immer
                bloß um die Schüsseln rum und präsentierte, wenn Ulrike nich da war, und der Herr
                Hugo, was der Bräutgam is, der stand immer so da und sah so genierlich vor sich hin,
-               und als ein Ältlicher, aber noch nich so ältlich wie <pb facs="#"/> Schultze, das
-               Brautpaar leben ließ, da sah er so verflixt aus, als wenn er nich so recht zufrieden
-               wäre.«</p>
+               und als ein Ältlicher, aber noch nich so ältlich wie <pb/> Schultze, das Brautpaar
+               leben ließ, da sah er so verflixt aus, als wenn er nich so recht zufrieden wäre.«</p>
             <p>»Kann ich mir denken.«</p>
             <p>»Oder eigentlich bloß, als ob er gar nich so recht da wäre. Vielleicht is das noch so
                von seiner Krankheit, denn ein bißchen spack sieht er noch aus, oder vielleicht is es
@@ -1349,15 +1344,15 @@
             <p>Ihrem natürlichen Gefühle nach hätte sie den ersten Feiertag nicht vorübergehn
                lassen, ohne mit ihrem Bräutigam über ihre Zukunft zu sprechen und ein bestimmtes
                Programm aufzustellen, aber in ihrer Klugheit empfand sie, daß etwas Nüchternes und
-               Prosaisches darin liegen würde, den Tag nach der Verlobung, <pb facs="#"/> der noch
-               dazu der erste Weihnachtsfeiertag war, zu Behandlung solcher Fragen heranziehen zu
-               wollen, und so bezwang sie sich und nahm sich vor, ihm eine Woche Weihnachtsferien zu
-               bewilligen und ihn zu kleinen Vergnügungen anzuregen. Er sollte sehn, wie gut er's
-               auch im Behaglichen getroffen habe und daß Thilde durchaus verstehe, sich seinen
-               Wünschen anzupassen. Am Ende dieser Ferienwoche wollte sie dann mit der Prosa
-               herausrücken, unter Hinweis darauf, daß ohne Durchführung ihres Programms von Glück
-               und Zufriedenheit und überhaupt von einem Zustandekommen ihrer Ehe gar keine Rede
-               sein könne. </p>
+               Prosaisches darin liegen würde, den Tag nach der Verlobung, <pb/> der noch dazu der
+               erste Weihnachtsfeiertag war, zu Behandlung solcher Fragen heranziehen zu wollen, und
+               so bezwang sie sich und nahm sich vor, ihm eine Woche Weihnachtsferien zu bewilligen
+               und ihn zu kleinen Vergnügungen anzuregen. Er sollte sehn, wie gut er's auch im
+               Behaglichen getroffen habe und daß Thilde durchaus verstehe, sich seinen Wünschen
+               anzupassen. Am Ende dieser Ferienwoche wollte sie dann mit der Prosa herausrücken,
+               unter Hinweis darauf, daß ohne Durchführung ihres Programms von Glück und
+               Zufriedenheit und überhaupt von einem Zustandekommen ihrer Ehe gar keine Rede sein
+               könne. </p>
          </div>
          <div type="chapter">
             <head>Zehntes Kapitel</head>
@@ -1376,9 +1371,9 @@
                Pflicht und Ordnung und Stundehalten, was mir, sosehr es mir gefiel, doch auch wieder
                ängstlich war, weil man auch im Guten zuviel tun kann. Und nun sehe ich, daß ich eine
                heitre, lebenslustige Braut habe. Ja, das ist beinah mir die Hauptsache. Nun sage,
-               was nehmen wir heute vor? Aber wähle nicht ängstlich und <pb facs="#"/> sprich nicht
-               von Geld und bescheidnen Verhältnissen. Wenn man sich verlobt hat, da darf man in
-               nichts ängstlich sein und muß einem zumute sein, wie wenn man das Tischleindeckedich
+               was nehmen wir heute vor? Aber wähle nicht ängstlich und <pb/> sprich nicht von Geld
+               und bescheidnen Verhältnissen. Wenn man sich verlobt hat, da darf man in nichts
+               ängstlich sein und muß einem zumute sein, wie wenn man das Tischleindeckedich
                hätte.«</p>
             <p>»Nun«, sagte sie, »dann wollen wir ins Opernhaus, Proszeniumsloge. Vielleicht haben
                wir den Kaiser vis à vis.«</p>
@@ -1407,11 +1402,11 @@
                sondern auf einem weiten Umwege erst an der Rousseau-Insel und dann am Neuen See
                vorüber. Auch hier war Mutter Möhring zugegen.</p>
             <p>
-               <pb facs="#"/> Es war rührend, die alte Frau zu sehn. Am Neuen See stieg man einen
-               Augenblick aus, um die Schlittschuhläufer besser zu sehn. Am meisten freute sie sich
-               über die vielen Flaggen und Fahnen, aber bloß über die großen. Von den vielen kleinen
-               meinte sie, sie sähn aus wie Taschentücher auf der Leine. Möhring habe auch solche
-               bunten gehabt, weil er immer am Schnupfen gelitten habe.</p>
+               <pb/> Es war rührend, die alte Frau zu sehn. Am Neuen See stieg man einen Augenblick
+               aus, um die Schlittschuhläufer besser zu sehn. Am meisten freute sie sich über die
+               vielen Flaggen und Fahnen, aber bloß über die großen. Von den vielen kleinen meinte
+               sie, sie sähn aus wie Taschentücher auf der Leine. Möhring habe auch solche bunten
+               gehabt, weil er immer am Schnupfen gelitten habe.</p>
             <p>So brachte jeder Tag was Neues. Das Glanzstück war aber ein Diner apart bei Hiller,
                zu dem auch Rybinski geladen war, natürlich mit Braut. Bei diesem Diner fehlte die
                Alte, weil sie, wohl in Folge der Fahrt durch den Tiergarten und zu langen Stehens im
@@ -1434,10 +1429,10 @@
                Francisco wieder herauskämen, wären wir Millionäre. Jeden Tag bloß Kosinsky mit
                Polenmütze und Silbersporen.«</p>
             <p>
-               <pb facs="#"/> Rybinski trank auf das Brautpaar, und Hugo hätte diesen Toast in
-               gleicher Form eigentlich erwidern und auch von einem »Brautpaar« sprechen müssen. Das
-               konnt er aber doch nicht übers Herz bringen und begnügte sich, die Kunst leben zu
-               lassen und zwei liebenswürdige und befreundete Herzen und dergleichen mehr.</p>
+               <pb/> Rybinski trank auf das Brautpaar, und Hugo hätte diesen Toast in gleicher Form
+               eigentlich erwidern und auch von einem »Brautpaar« sprechen müssen. Das konnt er aber
+               doch nicht übers Herz bringen und begnügte sich, die Kunst leben zu lassen und zwei
+               liebenswürdige und befreundete Herzen und dergleichen mehr.</p>
             <p>Und nun ging die Weihnachtswoche zu Rüste, der 31. Dezember war da, und die Frage
                war, ob man in eine Silvestervorstellung mit Schlußakt im Café Bauer gehn oder aber
                zu Hause bleiben und einen guten Punsch machen und gießen wolle. Man entschied sich
@@ -1459,10 +1454,9 @@
                Weihnachtsabend wieder das Wort und trank auf ein glückliches neues [Jahr].</p>
 
             <p>Es war noch nicht viel nach Mitternacht, als Mutter und Tochter wieder allein in
-               ihrem Zimmer waren. Es war etwas <pb facs="#"/> stickig, eine merkwürdige
-               Luftmischung von Punsch, Wachsstock und türk'schem Tabak, so daß Thilde sagte:
-               »Mutter, wenn es dir nicht schadet, ich möchte wohl das Fenster noch ein bißchen
-               aufmachen.«</p>
+               ihrem Zimmer waren. Es war etwas <pb/> stickig, eine merkwürdige Luftmischung von
+               Punsch, Wachsstock und türk'schem Tabak, so daß Thilde sagte: »Mutter, wenn es dir
+               nicht schadet, ich möchte wohl das Fenster noch ein bißchen aufmachen.«</p>
             <p>»Ja, mach auf, Thilde. Was soll es mir am Ende schaden. Und dann ist mir auch so
                sonderbar zumut und so feierlich, und weil grade Neujahrsnacht ist, ich möchte wohl
                die Singuhr spielen hören. Die spielt immer so was Schönes und Frommes.«</p>
@@ -1486,8 +1480,8 @@
                hat, na, das is ein Unglück, und die meisten haben eins. Und ich sage dir, Hochmut
                kommt vorm Fall. Und so hoch ist er doch auch nich.«</p>
             <p>»Ach, Mutter, was du da wieder alles redst. Na, nachher davon. Aber nu komm erst in
-               die Schlafstube, hier zieht es <pb facs="#"/> doch ein bißchen. Und wenn du nicht
-               willst, na, dann bleibe noch, aber das Fenster will ich wieder zumachen.«</p>
+               die Schlafstube, hier zieht es <pb/> doch ein bißchen. Und wenn du nicht willst, na,
+               dann bleibe noch, aber das Fenster will ich wieder zumachen.«</p>
             <p>»Ja, Thilde, das tu, ich kriege sonst mein Reißen wieder.«</p>
             <p>»Und das mit der Runtschen und mit Hugo, da hast du ganz unrecht, und ich freue mich,
                daß er so is, wie er is.«</p>
@@ -1515,9 +1509,9 @@
             <p>»Ach, Thilde, das is ja das allerschlimmste, das kenn ich auch, damit komme mir
                nich.«</p>
             <p>
-               <pb facs="#"/> »Ja, Mutter, gerade damit komm ich. Du denkst immer bloß an Ulriken
-               und an Schultzen unten. Aber das is nich die richtige Hübschigkeit, das is, was man
-               das Untre nennt...«</p>
+               <pb/> »Ja, Mutter, gerade damit komm ich. Du denkst immer bloß an Ulriken und an
+               Schultzen unten. Aber das is nich die richtige Hübschigkeit, das is, was man das
+               Untre nennt...«</p>
             <p>»Ja, ja.«</p>
             <p>»Das Untre, das Niedre. Daneben gibt es aber auch was, das ist das Höhere. Und sieh,
                wer das hat, der kann auch das Schwache stark machen. Lange vor hält es wohl nich,
@@ -1544,9 +1538,9 @@
                nichts davon, er drückte schon die Entreetür ins Schloß und überließ es Thilden, die
                Alte ein bißchen zurechtzusetzen.</p>
             <p>
-               <pb facs="#"/> »Mutter, mit dir is auch gar nichts; du denkst immer gleich an
-               Feuermelder und Hinrichtung. Ich bin doch nu verlobt und seine Braut, und ich muß dir
-               sagen, du mußt nu wirklich ein bißchen anders werden.«</p>
+               <pb/> »Mutter, mit dir is auch gar nichts; du denkst immer gleich an Feuermelder und
+               Hinrichtung. Ich bin doch nu verlobt und seine Braut, und ich muß dir sagen, du mußt
+               nu wirklich ein bißchen anders werden.«</p>
             <p>»Ja, ja, Thilde, ich will ja.«</p>
             <p>»Sieh, du schadest uns. Ich habe dir neulich gesagt, wir seien keine ›kleinen Leute‹,
                die Runtschen sei kleine Leut, und das ist auch richtig, aber wenn du immer gleich so
@@ -1569,8 +1563,8 @@
                Alte Fritze mit dem Krückstock an der Barre steht, bequem. Dabei hing er seinen
                Gedanken nach und überlegte: »Heute früh kriegen sie nun meinen Brief, Mutter und
                Schwester, und dann wird es ein großes Gerede geben. Aurelie ist ein sehr gutes
-               Mädchen und auch nicht eng und nicht kleinlich, aber sie <pb facs="#"/> hat doch so
-               'n sonderbares Honoratiorengefühl, oder eigentlich nicht sonderbar. Und wenn sie nu
+               Mädchen und auch nicht eng und nicht kleinlich, aber sie <pb/> hat doch so 'n
+               sonderbares Honoratiorengefühl, oder eigentlich nicht sonderbar. Und wenn sie nu
                liest, daß ich mich mit einer Chambre-garnie-Tochter verlobt habe, so wird sie die
                Nase rümpfen und von Philöse sprechen. Und vielleicht schreibt sie mir auch so was.
                Na, ich muß es hinnehmen. Möhrings sind sehr gut, auch die Alte so auf ihre Art, aber
@@ -1596,11 +1590,11 @@
                klein an einen besondren Reiz für mich gehabt. Es soll auch alles nicht so gefährlich
                sein, wie's aussieht; sie machen sich etwas Moschus oder Zibet ins Haar, dann
                schnappt er nicht zu. Gott, wenn Thilde wüßte, daß ich so verwogne Gedanken habe.
-               Nun, Gedanken sind zollfrei, und es zieht nur so über mich hin. Wenn <pb facs="#"/>
-               ich ernsthaft zusehe, seh ich, daß alles lächerlich ist. Tierbändiger. Und dabei hat
-               mich Thilde in Händen; sie denkt, ich merke es nicht, aber ich merke es recht gut.
-               Ich laß es gehn, weil ich es so am besten finde. Schließlich is man, wie man is...
-               Und wenn ich nur so leidlich bequem durchkomme...«</p>
+               Nun, Gedanken sind zollfrei, und es zieht nur so über mich hin. Wenn <pb/> ich
+               ernsthaft zusehe, seh ich, daß alles lächerlich ist. Tierbändiger. Und dabei hat mich
+               Thilde in Händen; sie denkt, ich merke es nicht, aber ich merke es recht gut. Ich laß
+               es gehn, weil ich es so am besten finde. Schließlich is man, wie man is... Und wenn
+               ich nur so leidlich bequem durchkomme...«</p>
             <p>Bei dieser Stelle seiner Betrachtung war er bis vor Schultzes Palazzo angelangt und
                sah hinauf. Schultze stand in Samtschlafrock und türkischem Fez am Fenster und grüßte
                gnädig hinunter, wobei er seinen Fez zog. Hugo erwiderte den Gruß, war aber nicht
@@ -1623,9 +1617,9 @@
             <p>»Davon hab ich ja nie gehört.«</p>
             <p>»Kann auch nich. Sie machen sich nichts aus uns, und wir machen uns nichts aus ihnen,
                sehr langweilig und sehr ungebildet, aber Mutter hat so alte Sätze: ›Man soll alte
-               gute Freunde nicht aufgeben‹, als ob es alte Freunde wären. Aber es sind <pb facs="#"
-               /> keine, bloß alt sind sie, das is richtig, aber alle Neujahr geht Mutter hin. Ich
-               denke mir, es is ein bißchen Neugier. Und nu sage, wo warst du?«</p>
+               gute Freunde nicht aufgeben‹, als ob es alte Freunde wären. Aber es sind <pb/> keine,
+               bloß alt sind sie, das is richtig, aber alle Neujahr geht Mutter hin. Ich denke mir,
+               es is ein bißchen Neugier. Und nu sage, wo warst du?«</p>
             <p>Hugo berichtete getreulich, und während sich Thilde auf das Sofa und Hugo dicht neben
                sie setzte, sprach er auch von der Litfaßsäule und daß sie heut abend in die
                Reichshallen wollten, da wäre die »Tochter der Luft«, eine pompöse Person und doch
@@ -1650,10 +1644,10 @@
                Lokale gehn und nicht einmal die Tochter der Luft sehn. Wir sind nun verlobt, und ich
                bin glücklich, einen so guten und einen so hübschen Mann zu haben, und bin sicher,
                daß ihn mir viele nicht gönnen, die Rätin unten gewiß nicht und die Frau Leutnant
-               Petermann auch nicht. Das sind neidische alte Weiber. Und das schöne <pb facs="#"/>
-               blonde Frauenzimmer unten mit der Spitzhaube sieht mich auch immer so an. Nu, Neid
-               macht glücklich, und ich bin es. Aber Stillstand ist Rückschritt, sagte mein Vater
-               das Jahr vor seinem Tode, als er keine Weihnachtszulage gekriegt hatte.«</p>
+               Petermann auch nicht. Das sind neidische alte Weiber. Und das schöne <pb/> blonde
+               Frauenzimmer unten mit der Spitzhaube sieht mich auch immer so an. Nu, Neid macht
+               glücklich, und ich bin es. Aber Stillstand ist Rückschritt, sagte mein Vater das Jahr
+               vor seinem Tode, als er keine Weihnachtszulage gekriegt hatte.«</p>
             <p>»Du hast ganz recht«, unterbrach Hugo.</p>
             <p>»Freilich hab ich recht. Aber du sagst das nur, weil du nicht weiter zuhören willst.
                Ich weiß das. All so was, was doch schließlich wichtiger ist als Kosinsky, womit ich
@@ -1678,8 +1672,8 @@
             <p>»... Also leben wollen, so mußt du für das sorgen, was zum Leben nötig ist, das
                heißt, du mußt nun endlich dein Examen machen und nicht immer die Bücher beiseite
                schieben und die ›Gespenster‹ lesen, was übrigens, wie es sein Titel schon ausdrückt,
-                  <pb facs="#"/> ein greuliches Stück ist. Dein Examen machen, sag ich, je eher, je
-               lieber. Und von morgen ab wird angefangen...«</p>
+               <pb/> ein greuliches Stück ist. Dein Examen machen, sag ich, je eher, je lieber. Und
+               von morgen ab wird angefangen...«</p>
             <p>»Aber wie denn?«</p>
             <p>»Ganz einfach. Statt an die Reichshallen und die Tochter der Luft zu denken, denkst
                du an dein Repetitorium, was du während deiner Krankheit ganz vergessen hast, und
@@ -1705,34 +1699,34 @@
                herausgefühlt hätte. Ja, das hätte nicht sein sollen. Aber das waren nur kurze
                Anwandlungen, eigentlich war er froh, daß jemand da war, der ihn nach links oder
                rechts dirigierte, wie's grade paßte. Daß es gut gemeint war und daß er dabei
-               vorwärtskam, empfand er jeden Augenblick, und was ihm über <pb facs="#"/>
-               gelegentliche Mißstimmungen am besten forthalf, war die Beobachtung der Methode, nach
-               der Thilde mit ihm verfuhr. In seinem ästhetischen Sinn, der sich an Finessen
-               erfreuen konnte, sah er mit einem gewissen künstlerischen Behagen auf die Methode,
-               nach der Thilde verfuhr, und freute sich der Erleichterungen, die das pädagogische
-               Verfahren ihm unmittelbar gewährte. Es stand nämlich für Thilde fest, daß sie sich
-               hüten müsse, seiner Tragekraft mehr zuzumuten, als diese doch nur schwache Kraft beim
-               besten Willen leisten konnte, weshalb sie mit Klugheit und Geschick für
-               Unterbrechungen Sorge trug oder, wie sie sich scherzhaft ausdrückte, für
-               »Entrefilets«, ein Wort, das sie sich aus Hugos etwas feuilletonistischem
-               Sprachschatz angeeignet hatte. Wenn das Examinieren, das sie nach Möglichkeit in ein
-               quickes Frage-und-Antwort-Spiel verwandelte, bedrücklich zu werden anfing und sich in
-               Hugo[s] Zügen etwas von Ermüdung zeigte, so brachte sie ein Glas Tee oder Rotwein
-               oder eine Ingwertüte, und während sie ihm daraus präsentierte und auch wohl selber
-               ein Stückchen nahm und von den Molucken sprach, wo der Ingwer am besten eingemacht
-               würde und wo sie von China her (oder vielleicht würden sie auch nachgemacht) auch die
-               großen blaugeblümten Porzellankrüge hätten, glitt sie zu Tagesfragen über und las ihm
-               von Christenverfolgungen in China vor oder von den Franzosen in Annam und Tonkin oder
-               von dem Kriege, den die Holländer mit den Eingebornen führen müßten. Die Japaner
-               seien den Chinesen doch weit voraus, und ein Volk, das solche Naturbeobachtung habe
-               und solche Blumen und solche Vögel machen könne, das repräsentiere doch eine
-               allerhöchste Kultur, was man jedem Teebrett absehen könne. Dabei wolle sie noch nicht
-               einmal von dem Lack sprechen, der doch auch unerreicht dastehe. Dabei war Thilde groß
-               in Übergängen, und wenn sie so mit Hülfe der Ingwertüte bei den Molucken und Japan
-               und China begonnen hatte, war es ihr ein leichtes, sich bis zu Kroll und der Sembrich
-               und sogar bis zu Rybinski zurückzufinden, und wenn sie dann noch was Pikantes, das
-               sie eigens für Hugo sammelte, zum besten gegeben und ihn <pb facs="#"/> erfrischt
-               hatte, sagte sie: »Nun aber, bricht Verkauf Miete oder nicht?«</p>
+               vorwärtskam, empfand er jeden Augenblick, und was ihm über <pb/> gelegentliche
+               Mißstimmungen am besten forthalf, war die Beobachtung der Methode, nach der Thilde
+               mit ihm verfuhr. In seinem ästhetischen Sinn, der sich an Finessen erfreuen konnte,
+               sah er mit einem gewissen künstlerischen Behagen auf die Methode, nach der Thilde
+               verfuhr, und freute sich der Erleichterungen, die das pädagogische Verfahren ihm
+               unmittelbar gewährte. Es stand nämlich für Thilde fest, daß sie sich hüten müsse,
+               seiner Tragekraft mehr zuzumuten, als diese doch nur schwache Kraft beim besten
+               Willen leisten konnte, weshalb sie mit Klugheit und Geschick für Unterbrechungen
+               Sorge trug oder, wie sie sich scherzhaft ausdrückte, für »Entrefilets«, ein Wort, das
+               sie sich aus Hugos etwas feuilletonistischem Sprachschatz angeeignet hatte. Wenn das
+               Examinieren, das sie nach Möglichkeit in ein quickes Frage-und-Antwort-Spiel
+               verwandelte, bedrücklich zu werden anfing und sich in Hugo[s] Zügen etwas von
+               Ermüdung zeigte, so brachte sie ein Glas Tee oder Rotwein oder eine Ingwertüte, und
+               während sie ihm daraus präsentierte und auch wohl selber ein Stückchen nahm und von
+               den Molucken sprach, wo der Ingwer am besten eingemacht würde und wo sie von China
+               her (oder vielleicht würden sie auch nachgemacht) auch die großen blaugeblümten
+               Porzellankrüge hätten, glitt sie zu Tagesfragen über und las ihm von
+               Christenverfolgungen in China vor oder von den Franzosen in Annam und Tonkin oder von
+               dem Kriege, den die Holländer mit den Eingebornen führen müßten. Die Japaner seien
+               den Chinesen doch weit voraus, und ein Volk, das solche Naturbeobachtung habe und
+               solche Blumen und solche Vögel machen könne, das repräsentiere doch eine allerhöchste
+               Kultur, was man jedem Teebrett absehen könne. Dabei wolle sie noch nicht einmal von
+               dem Lack sprechen, der doch auch unerreicht dastehe. Dabei war Thilde groß in
+               Übergängen, und wenn sie so mit Hülfe der Ingwertüte bei den Molucken und Japan und
+               China begonnen hatte, war es ihr ein leichtes, sich bis zu Kroll und der Sembrich und
+               sogar bis zu Rybinski zurückzufinden, und wenn sie dann noch was Pikantes, das sie
+               eigens für Hugo sammelte, zum besten gegeben und ihn <pb/> erfrischt hatte, sagte
+               sie: »Nun aber, bricht Verkauf Miete oder nicht?«</p>
             <p>Und Hugo ging dann mit wiedergewonnener Kraft ins Feuer und antwortete mitunter so
                gut, daß Thilde ihre helle Freude hatte.</p>
 
@@ -1756,12 +1750,11 @@
             <p>»Ja, Thilde, das glaub ich schon. Aber was meinst du nu eigentlich?«</p>
             <p>»Und nu nimm mal [an], daß du gehen sollst, auch nach Spandau. Na, bis vors
                Brandenburger Tor kommst du mit einem Zug, und dann setzt du dich auf die erste Bank,
-               gleich da, wo die kleinen Springbrunnen sind. Und wenn du dich ausgeruht <pb facs="#"
-               /> hast, dann geht es weiter, [dann] kommst du bis an den Kleinen Stern und dann bis
-               an den Großen Stern und dann bis an die Chausseehäuser. Und überall ist 'ne Bank und
-               kannst dich ausruhn, und so kommst du nach Spandau. Sagen wir gegen Abend. Aber du
-               kommst doch an. Und ohne Ruhebank wärst du liegengeblieben und gar nicht
-               angekommen.«</p>
+               gleich da, wo die kleinen Springbrunnen sind. Und wenn du dich ausgeruht <pb/> hast,
+               dann geht es weiter, [dann] kommst du bis an den Kleinen Stern und dann bis an den
+               Großen Stern und dann bis an die Chausseehäuser. Und überall ist 'ne Bank und kannst
+               dich ausruhn, und so kommst du nach Spandau. Sagen wir gegen Abend. Aber du kommst
+               doch an. Und ohne Ruhebank wärst du liegengeblieben und gar nicht angekommen.«</p>
             <p>»Ja so, nu versteh ich. Ohne die Banke kommt er nich an. Na, wenn er bloß
                ankommt.«</p>
             <p> Thilde: »Er wird schon.«</p>
@@ -1786,22 +1779,21 @@
             <p>Hugo schrieb Briefe nach Haus und auch ein paar Zeilen an Rybinski, um ihn wissen zu
                lassen, daß alles gut abgelaufen.</p>
             <p>Als er gegen sieben wieder hinüberging, fand er ein kleines Souper vor, das Thilde
-               samt einer Flasche Rüdesheimer, mit <pb facs="#"/> einer aufgeklebten
-               Rheingaulandschaft als Beweis ihrer Echtheit, aus einem benachbarten großen
-               Restaurant herbeigeschafft hatte. Das Aufmerksame, das darin lag, und beinah mehr
-               noch der gute Geschmack, mit dem alles arrangiert worden war, blieben nicht ohne
-               Wirkung auf Hugo, der sich plötzlich von dem Gefühl ergriffen sah, doch vielleicht in
-               seinem dunklen Drange das Rechte getroffen zu haben; gewiß, es waren einfache
-               Menschen, etwas unter Stand, doch gut und ordentlich und zuverlässig, und alles andre
-               war ja nur Schein, Plattiertheit, und er reichte über den Tisch hin Thilden die Hand,
-               wie wenn er sagen wollte: »Wir verstehen uns.« Dann ließ er sich's schmecken, und als
-               er den sich wiederholenden Widerstand der alten Möhring, die jedesmal die Hand über
-               das Glas hielt, endlich siegreich aus dem Felde geschlagen und auch ihr von dem
-               goldgelben Wein eingeschenkt hatte, verstieg er sich bis zu einem launigen Toast,
-               darin er die gute Möhring mit dem guten Examinator geschickt verglich und verband und
-               beide leben ließ. Nach Tisch brachte Thilde den Kaffee, der zu Ehren des Tages von
-               einer Extrastärke war. »Höre, Thilde, der geht aber ins Blut; ich kriege dann immer
-               solch Jucken.«</p>
+               samt einer Flasche Rüdesheimer, mit <pb/> einer aufgeklebten Rheingaulandschaft als
+               Beweis ihrer Echtheit, aus einem benachbarten großen Restaurant herbeigeschafft
+               hatte. Das Aufmerksame, das darin lag, und beinah mehr noch der gute Geschmack, mit
+               dem alles arrangiert worden war, blieben nicht ohne Wirkung auf Hugo, der sich
+               plötzlich von dem Gefühl ergriffen sah, doch vielleicht in seinem dunklen Drange das
+               Rechte getroffen zu haben; gewiß, es waren einfache Menschen, etwas unter Stand, doch
+               gut und ordentlich und zuverlässig, und alles andre war ja nur Schein, Plattiertheit,
+               und er reichte über den Tisch hin Thilden die Hand, wie wenn er sagen wollte: »Wir
+               verstehen uns.« Dann ließ er sich's schmecken, und als er den sich wiederholenden
+               Widerstand der alten Möhring, die jedesmal die Hand über das Glas hielt, endlich
+               siegreich aus dem Felde geschlagen und auch ihr von dem goldgelben Wein eingeschenkt
+               hatte, verstieg er sich bis zu einem launigen Toast, darin er die gute Möhring mit
+               dem guten Examinator geschickt verglich und verband und beide leben ließ. Nach Tisch
+               brachte Thilde den Kaffee, der zu Ehren des Tages von einer Extrastärke war. »Höre,
+               Thilde, der geht aber ins Blut; ich kriege dann immer solch Jucken.«</p>
             <p>»Ach, laß nur, Mutter, wenn er nur schmeckt.«</p>
             <p>»Ja, schmecken tut er, und stark is er, oder wie Möhring immer sagte: ›Mutter, da is
                keine Bohne vorbeigesprungen.‹ Jott, wenn ich so an Vatern denke; was würde der woll
@@ -1813,13 +1805,13 @@
                habe, kam er überhaupt auf Owinsk und seine Jugend und sein elterliches Haus zu
                sprechen und welch forsches Leben sie da geführt hätten. Burgemeister und Apotheker
                und Rechtsanwälte, die lebten immer am forschesten, weil sie das meiste Geld hätten,
-               und eigentlich sei solch kleinstädtisches Leben viel vergnüglicher <pb facs="#"/> als
-               ein Leben in der großen Stadt, denn immer sei was los, und wenn sie nicht Skat
-               spielten, so spielten sie Theater, und wenn nicht Ball wäre, so wäre Schlittenbahn,
-               und dann bimmelte das Schellengeläut den ganzen Nachmittag, und die Schneedecken
-               flögen, und die hübschen Frauen, denn in den kleinen Städten gäbe es immer hübsche
-               Frauen, hätten die Hand im Muff und, wenn es sehr kalt wäre, auch die Hand von ihrem
-               Partner dazu.</p>
+               und eigentlich sei solch kleinstädtisches Leben viel vergnüglicher <pb/> als ein
+               Leben in der großen Stadt, denn immer sei was los, und wenn sie nicht Skat spielten,
+               so spielten sie Theater, und wenn nicht Ball wäre, so wäre Schlittenbahn, und dann
+               bimmelte das Schellengeläut den ganzen Nachmittag, und die Schneedecken flögen, und
+               die hübschen Frauen, denn in den kleinen Städten gäbe es immer hübsche Frauen, hätten
+               die Hand im Muff und, wenn es sehr kalt wäre, auch die Hand von ihrem Partner
+               dazu.</p>
             <p>»Jott«, sagte die alte Möhring, »was heißt Partner? wo sind denn die richtigen
                Männer, die dazu gehören?«</p>
             <p>»Die sind in einem andern Schlitten.«</p>
@@ -1841,14 +1833,14 @@
                bis zur Georgenstraße gehabt hatte. Mit Thilde war nicht zu spaßen; und er rechnete
                mit halber Gewißheit darauf, daß Thilde vielleicht morgen schon das am Neujahrstage
                mit ihm geführte Gespräch wiederholen und ihm zum zweiten Mal die Epistel lesen
-               würde, vielleicht unter Wiederbewilligung <pb facs="#"/> einer Ferienwoche. Dann nahm
-               das Repetieren bei Tag und das Frag-und-Antwort-Spiel bei Abend wieder seinen Anfang,
-               und er erschrak davor und zweifelte, daß er's überwinden werde. Vielleicht wär es
-               besser gewesen, er wäre durchgefallen, dann war die ganze Quälerei vorbei. Verlobt
-               war er freilich, aber doch erst ein Vierteljahr, das wollte nicht viel sagen, und am
-               Ende – mußt es denn grade die Juristerei sein, die so gar nicht zu ihm paßte, weil
-               alles so steif und hölzern war. Rybinski lebte doch auch. Und wenn er auf der Posener
-               Bahn fuhr (dessen entsann er sich jetzt mit Vorliebe) und an den kleinen Stationen
+               würde, vielleicht unter Wiederbewilligung <pb/> einer Ferienwoche. Dann nahm das
+               Repetieren bei Tag und das Frag-und-Antwort-Spiel bei Abend wieder seinen Anfang, und
+               er erschrak davor und zweifelte, daß er's überwinden werde. Vielleicht wär es besser
+               gewesen, er wäre durchgefallen, dann war die ganze Quälerei vorbei. Verlobt war er
+               freilich, aber doch erst ein Vierteljahr, das wollte nicht viel sagen, und am Ende –
+               mußt es denn grade die Juristerei sein, die so gar nicht zu ihm paßte, weil alles so
+               steif und hölzern war. Rybinski lebte doch auch. Und wenn er auf der Posener Bahn
+               fuhr (dessen entsann er sich jetzt mit Vorliebe) und an den kleinen Stationen
                vorüberkam, wo das Bahnhofsgebäude halb in wildem Wein lag und der Bahnhofsinspektor
                in seiner roten Mütze den Zug abschritt, während eine junge Frau mit einem Blondkopf
                neben sich halb neugierig und halb gelangweilt aus dem Fenster der kleinen Beletage
@@ -1867,9 +1859,9 @@
                Neuigkeiten mit. Ich glaube, deine ›Tochter der Luft‹ ist nicht mehr da, sonst ließe
                sich darüber reden, und wir könnten heut abend vielleicht hingehn. Heute vormittag
                muß ich in die Stadt. Soll ich dir etwas mitbringen? Oder hast du auf was Appetit?
-               Mein lieber alter <pb facs="#"/> Mensch, du bist doch recht blaß geworden.« Und dabei
-               gab sie ihm einen Kuß mit ihren schmalen Lippen und ging dann und nickte ihm von der
-               Tür her noch mal freundlich zu.</p>
+               Mein lieber alter <pb/> Mensch, du bist doch recht blaß geworden.« Und dabei gab sie
+               ihm einen Kuß mit ihren schmalen Lippen und ging dann und nickte ihm von der Tür her
+               noch mal freundlich zu.</p>
             <p>»Merkwürdiges Mädchen«, sagte Hugo, »so gut und so tüchtig; aber Küssen is nicht ihre
                Force. Nu, man kann nicht alles verlangen, und jedenfalls bin ich froh, daß sie nich
                gleich wieder davon angefangen hat. Es wird wohl nur eine Galgenfrist sein. Aber
@@ -1896,8 +1888,8 @@
             <p>Und dabei blieb es. Die Alte kam nicht wieder darauf zurück, bis eine Woche später
                diese halb geheimnisvolle Zeitungsleserei, auch ohne weitre Frage, ihre Erklärung
                fand.</p>
-            <p>Es war ein Sonntag, an welchem Tage die Lesehalle nur von <pb facs="#"/> elf bis eins
-               auf war, und um eineinhalb war Thilde wieder zu Haus.</p>
+            <p>Es war ein Sonntag, an welchem Tage die Lesehalle nur von <pb/> elf bis eins auf war,
+               und um eineinhalb war Thilde wieder zu Haus.</p>
             <p>»Guten Tag, Mutter. Es riecht ein bißchen nach verbrannt. Du hast wohl nich recht
                nachgesehn. Na, Hugo merkt es nicht. Und wenn auch, er ißt ja die verbrannten Stellen
                am liebsten und sagt dann bloß immer: ›Da is nu alles Animalische raus.‹«</p>
@@ -1924,9 +1916,9 @@
                losgehen würde.«</p>
             <p>»Und da? Was sagte sie da?«</p>
             <p>»Nu, da sagte sie: ›Ja, liebe Frau Möhring, manche haben Courage. Referendar is nich
-               viel und eigentlich bloß ein Anfang, <pb facs="#"/> aber aller Anfang is schwer, und
-               so kann man sagen, es is immer was, und Minister wird er ja woll nich werden wollen.
-               Oder vielleicht doch. Und Jott, wenn ich mir denn Thilden denke...‹«</p>
+               viel und eigentlich bloß ein Anfang, <pb/> aber aller Anfang is schwer, und so kann
+               man sagen, es is immer was, und Minister wird er ja woll nich werden wollen. Oder
+               vielleicht doch. Und Jott, wenn ich mir denn Thilden denke...‹«</p>
             <p>»Das sagte sie?«</p>
             <p>»Ja, Thilde, so was war es.«</p>
             <p>»Unverschämte Person. Und dumm dazu. Diese verflossene Gimpen-Madam. Aber sie wird
@@ -1953,7 +1945,7 @@
             <p>Und Thilde las: »Qualifizierte Personen... verstehst du, Mutter?«</p>
             <p>»O ganz gut, lies nur weiter.«</p>
             <p>
-               <pb facs="#"/> »Qualifizierte Personen, das heißt Personen, die mindestens das erste
+               <pb/> »Qualifizierte Personen, das heißt Personen, die mindestens das erste
                Staatsexamen bestanden haben und darüber vollgültige Zeugnisse vorlegen können,
                werden, bei Geneigtheit, hierdurch aufgefordert, sich um die Burgemeisterstelle
                unsrer Stadt zu bewerben. Gehalt 3000 Mark bei freier Wohnung und einigen andern
@@ -1982,7 +1974,7 @@
                Verbeugung. Und ich will nicht Thilde heißen, wenn sie nich gleich alle sagen:
                ›Natürlich, der muß es werden.‹ Und der Neid von der alten Schmädicke hilft auch
                noch, und den Tag nach Johanni hat sie die Karte.«</p>
-            <pb facs="#"/>
+            <pb/>
          </div>
          <div type="chapter">
             <head>Zwölftes Kapitel</head>
@@ -2010,9 +2002,9 @@
                seinem alten Lieblingssatze von der Überlegenheit der Weltkinder nach. »Es ist ein
                eigen Ding mit der Frömmigkeit: es sind doch nur wenige, die sie vertragen können,
                und in diesem Nichts-sein- und Nichts-bedeuten-Wollen leichtsinnigen Gottvertrauns
-               steckt eigentlich Besseres <pb facs="#"/> als in der Sicherheit und dem Anspruch
-               derer, die sicher sind, für ihren Gott was getan zu haben. Diese Mädchen... wie
-               graziös und eigentlich wie bescheiden, und der entzückende Kerl, der Rybinski...«</p>
+               steckt eigentlich Besseres <pb/> als in der Sicherheit und dem Anspruch derer, die
+               sicher sind, für ihren Gott was getan zu haben. Diese Mädchen... wie graziös und
+               eigentlich wie bescheiden, und der entzückende Kerl, der Rybinski...«</p>
             <p>Ja, Rybinski war auch dagewesen mit einer neuen Braut, von der er behauptete,
                »diesmal sei es ernsthaft«.</p>
             <p>»Wirklich?« hatte Hugo gefragt.</p>
@@ -2038,8 +2030,8 @@
                gewesen. Küstrin war Etappe nach Woldenstein, und daß Woldenstein baldmöglichst
                erreicht wurde, nur darauf kam es an.</p>
             <p>
-               <pb facs="#"/> Am 26. mittags waren sie da. Sie bezogen die Wohnung, die schon der
-               vorige Burgemeister innegehabt und die Hugos Mutter und Schwester von Owinsk aus
+               <pb/> Am 26. mittags waren sie da. Sie bezogen die Wohnung, die schon der vorige
+               Burgemeister innegehabt und die Hugos Mutter und Schwester von Owinsk aus
                eingerichtet hatten, teils mit einigen alten Sachen aus dem Owinsker Haus, teils mit
                neu gekauften Möbeln und Stoffen, die sämtlich in Woldenstein gekauft waren. »Es wird
                wohl teurer sein und nicht viel taugen«, hatte Thilde gesagt, »aber es bringt sich
@@ -2065,16 +2057,15 @@
                Demonstration gegen die fortschrittliche Firma.</p>
             <p>Die nächsten Tage waren etwas unruhig, Hugo hatte Besuche in [der] Stadt und auch in
                der Umgegend zu machen, namentlich beim Landrat, der persona gratissima war und mit
-                  <pb facs="#"/> dem er gleich entschlossen war sich gut zu stellen. Es war nicht
-               ganz leicht, da das Ständchen doch höhren Orts Anstoß gegeben hatte. Thilde sagte:
-               »Das tut nichts. Rom ist nicht an einem Tage gebaut: gut Ding will Weile.« Sie
-               richtete zunächst ihre Aufmerksamkeit auf die Einrichtungen des Hauses und
-               vervollständigte die Einrichtung durch allerhand kleine Einkäufe. Den dritten Tag
-               nach ihrer Ankunft trafen auch noch einige Sachen aus Berlin ein, darunter die Ampel.
-               Hugo war nicht abgeneigt, ihr den Ehrenplatz zu geben, der der Schmädicke
-               vorgeschwebt hatte, Thilde sagte aber: »Da sieht sie ja keiner«, und hing sie in den
-               Hausflur, wo sie freilich bei den hellen Sommertagen zunächst noch zu keiner Wirkung
-               kommen konnte.</p>
+               <pb/> dem er gleich entschlossen war sich gut zu stellen. Es war nicht ganz leicht,
+               da das Ständchen doch höhren Orts Anstoß gegeben hatte. Thilde sagte: »Das tut
+               nichts. Rom ist nicht an einem Tage gebaut: gut Ding will Weile.« Sie richtete
+               zunächst ihre Aufmerksamkeit auf die Einrichtungen des Hauses und vervollständigte
+               die Einrichtung durch allerhand kleine Einkäufe. Den dritten Tag nach ihrer Ankunft
+               trafen auch noch einige Sachen aus Berlin ein, darunter die Ampel. Hugo war nicht
+               abgeneigt, ihr den Ehrenplatz zu geben, der der Schmädicke vorgeschwebt hatte, Thilde
+               sagte aber: »Da sieht sie ja keiner«, und hing sie in den Hausflur, wo sie freilich
+               bei den hellen Sommertagen zunächst noch zu keiner Wirkung kommen konnte.</p>
             <p>Das Beste der Wohnung war der hübsche, ziemlich große Garten, der, nach Passierung
                eines schmalen Hofes mit einem Truthahn und Perlhühnern (alles vom vorigen
                Burgemeister übernommen), unmittelbar hinter dem Hause lag. Durch die Mitte zogen
@@ -2091,7 +2082,7 @@
                schlägt mir aber das Herz, denn alles, was ich da sage, kann auch Unsinn sein.«</p>
             <p>»Du fängst es nicht richtig an, Hugo. Was heißt Rechtsfragen? Rechtsfragen, das ist
                für Winkelkonsulenten. Und wenn es was Ordentliches ist, dann mußt du sagen, da
-               wollen <pb facs="#"/> wir Justizrat Noack fragen; ich halte den für einen scharfen
+               wollen <pb/> wir Justizrat Noack fragen; ich halte den für einen scharfen
                Kopf...«</p>
             <p>»Ja, Thilde...«</p>
             <p>»Für einen scharfen Kopf. Und wenn du das sagst, so legt dir das keiner zum Schlimmen
@@ -2120,9 +2111,9 @@
             <p>»Weil du die Augen nicht aufmachst und die Ohren erst recht nicht. Du bist immer wie
                im Traum, Hugo.«</p>
             <p>Er lächelte.</p>
-            <p>»Sieh, da is hier der Weg zwischen der Stadt und dem großen <pb facs="#"/> Torfmoor.
-               Alkitten hat mir gesagt, im Herbst, wenn es regnet, ist gar nich durchzukommen, und
-               wer seinen Torf bis dahin nicht eingefahren hat, der mag sehn, wo er bleibt...«</p>
+            <p>»Sieh, da is hier der Weg zwischen der Stadt und dem großen <pb/> Torfmoor. Alkitten
+               hat mir gesagt, im Herbst, wenn es regnet, ist gar nich durchzukommen, und wer seinen
+               Torf bis dahin nicht eingefahren hat, der mag sehn, wo er bleibt...«</p>
             <p>»Hab ich auch gehört.«</p>
             <p>»Ja. Aber du denkst dir nichts dabei. Du mußt morgen den Stadtverordneten
                vorschlagen, daß ein Steindamm gebaut wird (es ist ja nur eine halbe Meile) oder eine
@@ -2148,13 +2139,13 @@
                Obersten ist auch eigentlich gar keine Wohnung hier, höchstens in unsrer ersten
                Etage...«</p>
             <p>»Thilde...«</p>
-            <p>»Aber zwei Eskadrons, das geht. Und nun berechne dir mal, <pb facs="#"/> wie das
-               wirkt. Von Brot will ich nich reden, das backen sie selber. Aber dreihundert Pferde
-               und dreihundert Menschen. Und ein Kasino müssen sie doch auch haben. Und dann die
-               jungen Frauen und Ball und Theater, Silberstein ist gegen das Militär, aber das gibt
-               sich. Die ganze Bäckerei und Schlächterei kommt auf einen andern Fuß, und Woldenstein
-               hört auf, ein Nest zu sein, und wird eine Stadt, und vielleicht ziehen sie hier mal
-               eine Division zusammen und machen ein Kavalleriemanöver, und wenn der General bei uns
+            <p>»Aber zwei Eskadrons, das geht. Und nun berechne dir mal, <pb/> wie das wirkt. Von
+               Brot will ich nich reden, das backen sie selber. Aber dreihundert Pferde und
+               dreihundert Menschen. Und ein Kasino müssen sie doch auch haben. Und dann die jungen
+               Frauen und Ball und Theater, Silberstein ist gegen das Militär, aber das gibt sich.
+               Die ganze Bäckerei und Schlächterei kommt auf einen andern Fuß, und Woldenstein hört
+               auf, ein Nest zu sein, und wird eine Stadt, und vielleicht ziehen sie hier mal eine
+               Division zusammen und machen ein Kavalleriemanöver, und wenn der General bei uns
                wohnt, so hast du den Kronenorden weg, du weißt nicht wie...«</p>
             <p>Hugo bückte sich, um einen Rittersporn zu pflücken und Thilden in den Gürtel zu
                stecken.</p>
@@ -2174,10 +2165,10 @@
                jeden Abend herabgelassen und ein Unschlitt-Licht hineingesetzt, was so wunderbar
                leuchtete, daß niemand vorüberging, der nicht einen Blick hinein getan hätte. »Die
                Berliner haben doch einen Schick für so was.« Rebecca Silberstein drang in den Vater,
-               auch dergleichen anzuschaffen. Er war aber <pb facs="#"/> dagegen. »Rebecca, wenn er
-               kommt (ich sage nicht wer), dann sollst du haben die Ampel, und nicht Rosa sollst du
-               haben, du sollst sie haben in Rubin und sollst haben, wenn du schläfst, einen
-               himmlischen Glanz.«</p>
+               auch dergleichen anzuschaffen. Er war aber <pb/> dagegen. »Rebecca, wenn er kommt
+               (ich sage nicht wer), dann sollst du haben die Ampel, und nicht Rosa sollst du haben,
+               du sollst sie haben in Rubin und sollst haben, wenn du schläfst, einen himmlischen
+               Glanz.«</p>
             <p>Rebecca war unzufrieden über dies Hinausschieben, aber sie war beinah die einzig
                Unzufriedne in der Stadt, alle andren freuten sich über ihr neues Stadtoberhaupt, und
                Silberstein, der viel las und immer sehr gebildet sprach, sagte: »Er hat die
@@ -2201,12 +2192,12 @@
             <p>Hugo war mehr als einmal in bittre Verlegenheit geraten und hatte sich auf seinen
                Spaziergängen im Garten, die bis in den Spätherbst hinein fortgesetzt wurden, mehr
                als einmal gegen Thilde darüber ausgesprochen.</p>
-            <p>»Du verstehst es nicht«, sagte Thilde und nahm eine <pb facs="#"/> Beurré grise vom
-               Baum. »Sieh, Hugo, die Beurré grise ist noch hart, und du mußt sie vier Wochen auf
-               Stroh legen, eh sie schmeckt. Aber noch eh die vier Wochen um sind, hab ich dir den
-               Landrat weich gemacht. Er ist ein sehr guter Herr und eigentlich liebenswürdig von
-               Natur, und das müßte nicht mit rechten Dingen zugehn, wenn der nicht zu bekehren
-               wäre. Wer eine Tänzerin heiratet, hat immer ein weiches Herz.«</p>
+            <p>»Du verstehst es nicht«, sagte Thilde und nahm eine <pb/> Beurré grise vom Baum.
+               »Sieh, Hugo, die Beurré grise ist noch hart, und du mußt sie vier Wochen auf Stroh
+               legen, eh sie schmeckt. Aber noch eh die vier Wochen um sind, hab ich dir den Landrat
+               weich gemacht. Er ist ein sehr guter Herr und eigentlich liebenswürdig von Natur, und
+               das müßte nicht mit rechten Dingen zugehn, wenn der nicht zu bekehren wäre. Wer eine
+               Tänzerin heiratet, hat immer ein weiches Herz.«</p>
             <p>Hugo seufzte, denn er litt unter der Gegnerschaft und sah kein Ende davon. Aber er
                hatte Thilden unterschätzt, und die vier Wochen waren noch nicht um und die Birne
                noch nicht präsentiert, als Hugo, Ende November, von einer Kreistagssitzung heimkam
@@ -2227,7 +2218,7 @@
                Landrats v. Schmuckern darf wohl als gesichert angesehn werden, da, soviel wir bisher
                erfahren konnten, seine politischen Gegner auf Aufstellung eines Gegenkandidaten
                verzichtet haben. Sowohl die polnisch-katholische wie die fortschrittliche Partei
-               vereinigen <pb facs="#"/> sich in Würdigung der hervorragenden Charakter- und
+               vereinigen <pb/> sich in Würdigung der hervorragenden Charakter- und
                Verwaltungseigenschaften des Landrats v. S. [und halten es für ihre Pflicht], selbst
                auf Kosten ihrer sonstigen politischen Überzeugungen, ihrem Vertrauen gegen ihn
                Ausdruck zu geben. Es läßt sich hier von einem Siege der Persönlichkeit sprechen, der
@@ -2255,7 +2246,7 @@
                Zimmer, wo Thilde gerade den roten Papierschleier über die Lampenglocke warf. Auf
                demselben Sofatisch lag auch ein Zeitungsblatt.</p>
             <p>
-               <pb facs="#"/> »Guten Abend, Thilde. Nun, was gibt es?«</p>
+               <pb/> »Guten Abend, Thilde. Nun, was gibt es?«</p>
             <p>»Das mußt du wissen; du warst ja aus.«</p>
             <p>»Ja, ich war in der Ressource, nur eine Viertelstunde. Der Landrat wie ein Ohrwurm.
                Und dann kam Silberstein und gab mir die Hartungsche Zeitung. Ein Artikel drin aus
@@ -2284,7 +2275,7 @@
                schrecklich gebildet ist, spricht immer von deiner Iniative.«</p>
             <p>»Ja. Und es ist mir mitunter sehr fatal, wenigstens wenn du dabei bist. Aber ich
                bitte dich, habe nicht zuviel.«</p>
-            <pb facs="#"/>
+            <pb/>
          </div>
          <div type="chapter">
             <head>Vierzehntes Kapitel</head>
@@ -2313,15 +2304,15 @@
                immer allein und bloß die Runtschen um sich her, was kein Vergnügen ist...«</p>
             <p>»Nein«, bestätigte Hugo, dem bei dem bloßen Namen der alte Schrecken wiederkam.</p>
             <p>
-               <pb facs="#"/> »Die Runtschen und die Schmädicke, die nicht viel besser ist. Aber
-               einladen hierher geht nicht. Wir packen ihr eine Kiste, Schinken, Eier, Butter, und
-               legen ihr vier oder sechs Pakete Thorner Kakaschinchen bei und einen schwarzen Muff,
-               den sie sich schon lange gewünscht hat, und Gummistiefel mit Pelz, und wenn sie das
-               auspackt, dann freut sie sich viel mehr, als wenn wir sie hier mit in die Ressource
-               nehmen. Und überhaupt, es geht nicht. Der Landrat kann dasein oder die gnäd'ge Frau.
-               Und nu denke dir einen Bostontisch und Mutter mit der Landrätin zusammen. Ich glaube,
-               Mutter kann gar nicht Boston; sie hat, seit Vaterns Tod, immer nur Patience gelegt.
-               Nein, dazu ist mir Mutter zu schade, daß sie sie hier auslachen. Und dann, Hugo, auch
+               <pb/> »Die Runtschen und die Schmädicke, die nicht viel besser ist. Aber einladen
+               hierher geht nicht. Wir packen ihr eine Kiste, Schinken, Eier, Butter, und legen ihr
+               vier oder sechs Pakete Thorner Kakaschinchen bei und einen schwarzen Muff, den sie
+               sich schon lange gewünscht hat, und Gummistiefel mit Pelz, und wenn sie das auspackt,
+               dann freut sie sich viel mehr, als wenn wir sie hier mit in die Ressource nehmen. Und
+               überhaupt, es geht nicht. Der Landrat kann dasein oder die gnäd'ge Frau. Und nu denke
+               dir einen Bostontisch und Mutter mit der Landrätin zusammen. Ich glaube, Mutter kann
+               gar nicht Boston; sie hat, seit Vaterns Tod, immer nur Patience gelegt. Nein, dazu
+               ist mir Mutter zu schade, daß sie sie hier auslachen. Und dann, Hugo, auch
                unsretwegen. Wir sind doch nu, was man in Büchern und Zeitungen so die ›obren
                Zehntausend‹ nennt, obschon Woldenstein bloß dreitausendfünfhundert hat, und was der
                Adel auf dem Lande ist, das sind die Honoratioren in der Stadt. Und das sind wir.
@@ -2339,10 +2330,10 @@
                Leitung übernahmen, am Silvesterabend war Theateraufführung in der Ressource, wo erst
                »Monsieur Herkules« und dann »Das Schwert des Damokles« gespielt wurde. Hugo hätte
                gern mitgespielt, mußte aber verzichten, weil es sich nicht passe. Silberstein gab
-               den Buchbindermeister Kleister und erfuhr, daß sein Spiel an Döring <pb facs="#"/>
-               erinnert habe. Hugo dachte den ganzen Abend über an Rybinski und beneidete das Stehen
-               in der freien Kunst. Der Ball, der folgte, ließ aber trübe Gedanken nicht aufkommen,
-               er eröffnete mit der Landrätin die Polonaise, der Landrat folgte mit Thilde, die die
+               den Buchbindermeister Kleister und erfuhr, daß sein Spiel an Döring <pb/> erinnert
+               habe. Hugo dachte den ganzen Abend über an Rybinski und beneidete das Stehen in der
+               freien Kunst. Der Ball, der folgte, ließ aber trübe Gedanken nicht aufkommen, er
+               eröffnete mit der Landrätin die Polonaise, der Landrat folgte mit Thilde, die die
                Reichstagsberichte jeden Morgen las und einen markanten Satz aus einer kurzen Rede
                zitierte, die der Landrat über die Simultanschulfrage gehalten hatte. »Sie
                interessieren sich für Politik, meine gnädigste Frau.« – »Ja, Herr Landrat. Je mehr
@@ -2368,8 +2359,8 @@
                dann beide bis an den draußen wartenden Schlitten. Er war im Frack mit weit
                ausgeschnittner Weste, und draußen blies ein Südoster von den Karpaten her.</p>
             <p>
-               <pb facs="#"/> Als er mit Thilde eine Stunde später in seiner Wohnung ankam, war er
-               im Fieber und hüstelte.</p>
+               <pb/> Als er mit Thilde eine Stunde später in seiner Wohnung ankam, war er im Fieber
+               und hüstelte.</p>
             <p>»Thilde, mir is nicht recht; ich möchte ein Glas Zuckerwasser.«</p>
             <p>»Immer dasselbe. Zuckerwasser. Wer trinkt Zuckerwasser, wenn er von einem Ball nach
                Hause kommt. Ich werde dir eine Tasse Kaffee machen.« Und sie holte die
@@ -2396,7 +2387,7 @@
                davor, einen Platz angeboten hätte. Sie mußte das annehmen, denn er war der reichste
                und angesehnste Mann der ganzen Gegend, Original und schon über siebzig.</p>
             <p>
-               <pb facs="#"/> Thildes franke, ganz uneingeschüchterte Manier hatte ihm schon auf dem
+               <pb/> Thildes franke, ganz uneingeschüchterte Manier hatte ihm schon auf dem
                Silvesterball gefallen, und er war enchantiert, als sie seine Aufforderung, den Platz
                im Schlitten einzunehmen, ohne weitres annahm. Er fuhr selbst und legte seine
                mächtige Wolfsschur um den kleinen Schlittensitz herum und forderte Thilden auf, die
@@ -2425,7 +2416,7 @@
             <p>»Nein, nicht überall. Das ist wieder, wo man steht, meine gnädigste Frau. Wo ich
                gestanden, sehr freie Bewegung. Und keine falsche Verschämung...«</p>
             <p>
-               <pb facs="#"/> »Aber doch vielleicht eine richtige?«</p>
+               <pb/> »Aber doch vielleicht eine richtige?«</p>
             <p>»Verschämung immer falsch, immer Grimasse. Und ich liebe die freie Bewegung.«</p>
             <p>Ein Herzählen sämtlicher Berliner Lokale mit freier Bewegung stand in Sicht, und wer
                will sagen, wo Graf Goschin schließlich gelandet wäre, wenn nicht eine plötzlich quer
@@ -2454,10 +2445,10 @@
             <p>Hugo, halb geschmeichelt, bestätigte. Das sei so die Schule der großen Stadt.</p>
             <p>»Ja, merkwürdige Stadt, tolle Stadt.«</p>
             <p>
-               <pb facs="#"/> Diese Worte hatten etwas Beunruhigendes selbst für Hugo, der seiner
-               Thilde sicher zu sein glaubte. Er kam aber nicht dazu, dem lange nachzuhängen, denn
-               ein heftiger Hustenanfall zwang ihn, sich an der Sofalehne festzuhalten. Als der
-               Anfall vorüber war, kam der Graf mit einem Glase Punsch, »das löse«.</p>
+               <pb/> Diese Worte hatten etwas Beunruhigendes selbst für Hugo, der seiner Thilde
+               sicher zu sein glaubte. Er kam aber nicht dazu, dem lange nachzuhängen, denn ein
+               heftiger Hustenanfall zwang ihn, sich an der Sofalehne festzuhalten. Als der Anfall
+               vorüber war, kam der Graf mit einem Glase Punsch, »das löse«.</p>
             <p>Hugo kam in die Verlegenheit, ablehnen zu müssen, es würde seinen Zustand
                verschlimmern.</p>
             <p>»Kann nicht verschlimmern. Punsch nie.«</p>
@@ -2481,13 +2472,13 @@
                er, »und das ist immer schon viel.« Er verordnete dann eine Althee-Abkochung, und als
                Thilde fragte, »ob es was zu bedeuten habe«, lächelte er und sagte: »Einigermaßen; es
                ist eine Lungenentzündung. Vor allem Ruhe.«</p>
-            <p>Thilde war eine gute Krankenpflegerin und gab ihm die <pb facs="#"/> Medizin mit
-               einer Genauigkeit, als ob das Leben an der Minute hinge. Sie glaubte nicht daran,
-               aber sie wollte nichts versäumt haben. Die Vormittagsstunden vergingen unter
-               Umwandlung des Schlafzimmers in ein Krankenzimmer; die nach dem Hof hinausgehnden
-               Fenster wurden verhangen, während die Tür nach der Vorderstube offenblieb, nur durch
-               eine halbe Portière geschützt. Thilde sah oft hinein, ohne daß der Kranke irgendwas
-               verlangt hätte, dann ging sie wieder an das Vorderfenster, das, von der vorigen Frau
+            <p>Thilde war eine gute Krankenpflegerin und gab ihm die <pb/> Medizin mit einer
+               Genauigkeit, als ob das Leben an der Minute hinge. Sie glaubte nicht daran, aber sie
+               wollte nichts versäumt haben. Die Vormittagsstunden vergingen unter Umwandlung des
+               Schlafzimmers in ein Krankenzimmer; die nach dem Hof hinausgehnden Fenster wurden
+               verhangen, während die Tür nach der Vorderstube offenblieb, nur durch eine halbe
+               Portière geschützt. Thilde sah oft hinein, ohne daß der Kranke irgendwas verlangt
+               hätte, dann ging sie wieder an das Vorderfenster, das, von der vorigen Frau
                Burgemeister her, noch einen altmodischen Tritt und einen Fensterspiegel hatte.
                Dieser war eigentlich überflüssig, denn es gab so wenig zu sehn, daß es auch nichts
                zu spiegeln gab. Mitten auf dem Marktplatze stand das Rathaus mit einer
@@ -2507,10 +2498,10 @@
                Dame) und der dritte von der alten Frau Möhring. »Frau Burgemeister Großmann, geb.
                Möhring. Woldenstein in Westpreußen.« Die Buchstaben waren so steif gekritzelt wie
                auf einem Waschzettel. »Gott«, sagte Thilde, »wenn Mutter bloß nicht immer geborne
-               Möhring schreiben wollte. Möhring ist doch zu wenig.« Dann ging sie bis an die <pb
-                  facs="#"/> Portière und horchte hinein, und als sich nichts in der Schlafstube
-               regte, ging sie wieder bis ans Fenster und setzte sich in den kleinen schwarzen Stuhl
-               mit drei Goldstäbchen, der hier stand. Und nun las sie.</p>
+               Möhring schreiben wollte. Möhring ist doch zu wenig.« Dann ging sie bis an die <pb/>
+               Portière und horchte hinein, und als sich nichts in der Schlafstube regte, ging sie
+               wieder bis ans Fenster und setzte sich in den kleinen schwarzen Stuhl mit drei
+               Goldstäbchen, der hier stand. Und nun las sie.</p>
             <p>»Meine liebe Thilde. Die Kiste kam gerade Heiligabend an, aber schon früh, und da
                gerade die Runtschen da war, sagte ich, nu, Runtschen, nu wollen wir sie aber auch
                gleich aufmachen. Und da hättest Du sehn sollen, wie geschickt sie war und wie sie
@@ -2536,9 +2527,9 @@
                Deinen lieben Mann und sag ihm, ich ließ' ihm ein glückliches neues Jahr wünschen. Er
                verdient es, und es wird sich schon belohnen.</p>
             <p>
-               <pb facs="#"/> Es is ja viel draufgegangen, aber es schadet nicht, und ich hab es
-               alles gerne gegeben, und die Schmädicke sagte neulich: ›Aufs Kapital kommt es nich
-               an, wenn man bloß gute Zinsen hat.‹</p>
+               <pb/> Es is ja viel draufgegangen, aber es schadet nicht, und ich hab es alles gerne
+               gegeben, und die Schmädicke sagte neulich: ›Aufs Kapital kommt es nich an, wenn man
+               bloß gute Zinsen hat.‹</p>
             <!--milestone hi_start-->
             <p>Deine Dich liebende Mutter</p>
             <p>Adele Möhring, geb. Printz«</p>
@@ -2567,16 +2558,16 @@
                großes Interesse, ergriff aber nicht Partei, »sie werden wohl beide recht haben«.
                Thilde lächelte: »Ja, Hugo, das bist ganz du. Beide recht. Ich bin für einen.«</p>
             <p>
-               <pb facs="#"/> Über den Zaun fort grüßten die Nachbarn, die sich schon in ihren
-               Gärten zu schaffen machten, und stellten auch Fragen nach seinem Befinden, denn so
-               kurze Zeit er in der Stadt war, so war er doch sehr beliebt, und jeder freute sich
-               seiner Wiedergenesung. Die Landrätin kam persönlich und klagte sich an: »eigentlich
-               sei sie schuld, er habe sich's bei Ostwind auf dem Eise geholt«, und der alte Graf
-               schickte eine große Melone aus seinen Treibhäusern mit einem Billet voll
-               phantastischer Verbindlichkeiten und Ratschläge. Nach Berlin hin war all die Wochen
-               über kein Wort über die Krankheit vermeldet worden, weil Thilde dem Gejammer der
-               Alten entgehen wollte, und auch jetzt, wo die Genesung da war, schrieb sie nichts von
-               der zurückliegenden schweren Sorge. Vielleicht unterließ sie's auch, weil sie der
+               <pb/> Über den Zaun fort grüßten die Nachbarn, die sich schon in ihren Gärten zu
+               schaffen machten, und stellten auch Fragen nach seinem Befinden, denn so kurze Zeit
+               er in der Stadt war, so war er doch sehr beliebt, und jeder freute sich seiner
+               Wiedergenesung. Die Landrätin kam persönlich und klagte sich an: »eigentlich sei sie
+               schuld, er habe sich's bei Ostwind auf dem Eise geholt«, und der alte Graf schickte
+               eine große Melone aus seinen Treibhäusern mit einem Billet voll phantastischer
+               Verbindlichkeiten und Ratschläge. Nach Berlin hin war all die Wochen über kein Wort
+               über die Krankheit vermeldet worden, weil Thilde dem Gejammer der Alten entgehen
+               wollte, und auch jetzt, wo die Genesung da war, schrieb sie nichts von der
+               zurückliegenden schweren Sorge. Vielleicht unterließ sie's auch, weil sie der
                Genesung mißtraute, wozu, wie sich bald zeigen sollte, nur zuviel Veranlassung da
                war.</p>
             <p>Eines Tages, als Hugo wieder in der Sonnenstelle saß, schlug das Wetter plötzlich ab,
@@ -2594,13 +2585,13 @@
                Osterferien waren, gerade in seinem Kreise sein konnte, viel Adel aus der Nähe und
                die ganze Bürgerschaft einschließlich der dritten Konfession. Auch der Provisor, der
                sich zufällig einen neuen Frühjahrsüberzieher hatte machen lassen, wollte nicht
-               fehlen. Alle Bläser bliesen, der alte Graf <pb facs="#"/> unterhielt sich ziemlich
-               laut, und was Woldenstein an Blumen hatte, wurde auf das Grab gelegt. Der Geistliche
-               geleitete Thilden in ihre Wohnung, und während der alte Graf im »Herzog Kasimir« eine
-               Flasche herben Ungar ausstach, saß Thilde auf dem Trittbrett und sah auf den immer
-               dunkler werdenden Marktplatz, über den ein Westwind einige braune Winterblätter
-               trieb. Dann wurden ein paar an Ketten hängende Laternen angesteckt, und im Schatten
-               des Rathauses, da, wo die Stiege hinaufführte, stand ein Liebespaar. Sie ließen sich
+               fehlen. Alle Bläser bliesen, der alte Graf <pb/> unterhielt sich ziemlich laut, und
+               was Woldenstein an Blumen hatte, wurde auf das Grab gelegt. Der Geistliche geleitete
+               Thilden in ihre Wohnung, und während der alte Graf im »Herzog Kasimir« eine Flasche
+               herben Ungar ausstach, saß Thilde auf dem Trittbrett und sah auf den immer dunkler
+               werdenden Marktplatz, über den ein Westwind einige braune Winterblätter trieb. Dann
+               wurden ein paar an Ketten hängende Laternen angesteckt, und im Schatten des
+               Rathauses, da, wo die Stiege hinaufführte, stand ein Liebespaar. Sie ließen sich
                durch den immer heftiger werdenden Wind nicht stören, aber die Laternen bewegten
                [sich] und quietschten an den Ketten hin und her. Als Thilde wohl eine halbe Stunde
                lang auf das alles hinausgestarrt hatte, zündete sie die Lampe an und setzte sich an
@@ -2623,22 +2614,22 @@
                immer die Hauptsache bleibt. Er hat mir auch noch gedankt, als ob ich wunder was
                wäre.</p>
             <p>
-               <pb facs="#"/> Das macht, er hatte so was Edles. Und Dich hat er grüßen lassen. Daß
-               er bloß schwächlich war, dafür konnte er nich. Wenn es nach ihm gegangen wäre, wär er
-               stärker gewesen. Alle Leute hier haben ihn sehr geachtet, weil alle sahen, daß er
-               sehr gut war, und selbst Silberstein, von dem ich Dir schon geschrieben, hat an
-               seinem Grabe gesprochen. So daß selbst Pastor Lämmel zufrieden war und ihm die Hand
-               gab. Silberstein. Firma Silberstein und Isenthal, wird auch alles besorgen, es sind
-               sehr reelle Leute, fortschrittlich, aber sehr reell. Und was aus dem Mobiliar
-               herauskommt, das werden wir kriegen auf Heller und Pfennig. Ich habe noch ein paar
-               Tage hier zu tun und Briefe zu schreiben, auch an den alten Grafen, der mir eine
-               Stellung als Hausdame in seinem Hause angeboten hat (natürlich mit Gehalt), aber all
-               das wird in drei oder vier Tagen beendet sein, und spätestens sonnabend früh gedenke
-               ich in Berlin einzutreffen. Ich schreibe aber noch eine Karte vorher, damit Du ganz
-               sicher bist und die Runtschen zu rechter Zeit bestellen kannst. Ich bringe Dir auch
-               ein Andenken von ihm mit, ein kleines Kreuz, vorn mit einer Perle. Die Perle hat
-               einigen Wert. Ich freue mich, Dich wiederzusehn, so schmerzlich auch die Veranlassung
-               ist, denn die Pension reicht nicht an das Gehalt. Ich muß Dir das sagen. Mir ist es
+               <pb/> Das macht, er hatte so was Edles. Und Dich hat er grüßen lassen. Daß er bloß
+               schwächlich war, dafür konnte er nich. Wenn es nach ihm gegangen wäre, wär er stärker
+               gewesen. Alle Leute hier haben ihn sehr geachtet, weil alle sahen, daß er sehr gut
+               war, und selbst Silberstein, von dem ich Dir schon geschrieben, hat an seinem Grabe
+               gesprochen. So daß selbst Pastor Lämmel zufrieden war und ihm die Hand gab.
+               Silberstein. Firma Silberstein und Isenthal, wird auch alles besorgen, es sind sehr
+               reelle Leute, fortschrittlich, aber sehr reell. Und was aus dem Mobiliar herauskommt,
+               das werden wir kriegen auf Heller und Pfennig. Ich habe noch ein paar Tage hier zu
+               tun und Briefe zu schreiben, auch an den alten Grafen, der mir eine Stellung als
+               Hausdame in seinem Hause angeboten hat (natürlich mit Gehalt), aber all das wird in
+               drei oder vier Tagen beendet sein, und spätestens sonnabend früh gedenke ich in
+               Berlin einzutreffen. Ich schreibe aber noch eine Karte vorher, damit Du ganz sicher
+               bist und die Runtschen zu rechter Zeit bestellen kannst. Ich bringe Dir auch ein
+               Andenken von ihm mit, ein kleines Kreuz, vorn mit einer Perle. Die Perle hat einigen
+               Wert. Ich freue mich, Dich wiederzusehn, so schmerzlich auch die Veranlassung ist,
+               denn die Pension reicht nicht an das Gehalt. Ich muß Dir das sagen. Mir ist es
                gleichgiltig. Ich bringe mich schon durch und Dich mit.</p>
             <p>Deine treue Tochter Thilde«</p>
          </div>
@@ -2650,17 +2641,17 @@
                zu Schultzes, drei Treppen. »Ja, Fräulein.« Er verbesserte sich aber rasch, denn er
                kannte sie von alter Nachbarschaft her ganz gut, und versprach, in einer halben
                Stunde dazusein. Als sie ging sah er ihr einen Augenblick nach. »Was doch nich das
-               liebe Geld alles tut; hat sich <pb facs="#"/> schmählich rausgemausert. Or'ntlich ein
-               bißchen forsch und einen Krimstecher.« Während ihr diese Betrachtungen folgten,
-               schritt sie über den Damm hin und sah auf das Haus und nach der dritten Etage hinauf.
-               Es hatte sich nichts verändert, und doch kam ihr alles ganz anders vor. Ein
-               eigentümliches Gefühl beschlich sie, bis sie sich sagte: »Sei froh, daß es ist, wie
-               es ist; es könnte viel schlimmer sein. Wie war es vor zwei Jahren? Da mußt ich noch
-               alles selber tun.« Sie ging auf der rechten Seite der Straße und sah nach der dritten
-               Etage hinauf, ob sie die Alte vielleicht am Fenster sähe. Aber sie sah nichts, auch
-               nicht in den andern Etagen, überall waren noch die Rouleaux herunter. Es war ihr
-               lieb, ganz unbeobachtet zu sein, aber sie war es nicht, und während sie über den Damm
-               ging, sagte die Rätin, die vom Frühstückstisch aufgestanden war und sich ein Kuckloch
+               liebe Geld alles tut; hat sich <pb/> schmählich rausgemausert. Or'ntlich ein bißchen
+               forsch und einen Krimstecher.« Während ihr diese Betrachtungen folgten, schritt sie
+               über den Damm hin und sah auf das Haus und nach der dritten Etage hinauf. Es hatte
+               sich nichts verändert, und doch kam ihr alles ganz anders vor. Ein eigentümliches
+               Gefühl beschlich sie, bis sie sich sagte: »Sei froh, daß es ist, wie es ist; es
+               könnte viel schlimmer sein. Wie war es vor zwei Jahren? Da mußt ich noch alles selber
+               tun.« Sie ging auf der rechten Seite der Straße und sah nach der dritten Etage
+               hinauf, ob sie die Alte vielleicht am Fenster sähe. Aber sie sah nichts, auch nicht
+               in den andern Etagen, überall waren noch die Rouleaux herunter. Es war ihr lieb, ganz
+               unbeobachtet zu sein, aber sie war es nicht, und während sie über den Damm ging,
+               sagte die Rätin, die vom Frühstückstisch aufgestanden war und sich ein Kuckloch
                zurechtgemacht hatte: »Was sitzt du wieder über der Zeitung. So was sieht man nicht
                alle Tage; sie hat bloß schwarze Handschuh an und sieht aus, als reiste sie nach
                Dresden und Sächsische Schweiz. Regenmantel und Opernglas; fehlt bloß noch der
@@ -2679,8 +2670,8 @@
             <p>Und dabei traten sie vom Flur her in das Entree und vom Entree in die Wohnstube, wo
                vor dem Sofa schon der Kaffee stand und Semmeln und Butter.</p>
             <p>
-               <pb facs="#"/> »Und nu komm, Thilde, nu wollen wir eine warme Tasse trinken, und
-               erzähle mir alles, wie es war.«</p>
+               <pb/> »Und nu komm, Thilde, nu wollen wir eine warme Tasse trinken, und erzähle mir
+               alles, wie es war.«</p>
             <p>»Ja, Mutter, gleich; ich möchte mir aber erst die Hände waschen, und das Haar is auch
                in Unordnung, ich hatte den Wind ins Gesicht und wollte nicht zumachen.« Und dabei
                erhob sich Thilde wieder, legte den Hut und den Krimstecher beiseit und hing den
@@ -2708,7 +2699,7 @@
                großartig, und nu is siehs erst recht.‹ Aber da du nu selber davon anfängst, sage,
                Kind, was soll nu werden. Denn es war ja doch eine furchtbare Krankheit.«</p>
             <p>
-               <pb facs="#"/> »Ja, Mutter, das war es. Immer die Beklemmung und die Atemnot.«</p>
+               <pb/> »Ja, Mutter, das war es. Immer die Beklemmung und die Atemnot.«</p>
             <p>»Ach ja, Thilde, die Beklemmung. Aber ich mein nich die Beklemmung, ich mein, daß es
                so lange gedauert hat.«</p>
             <p>»Ja, grad ein Vierteljahr...«</p>
@@ -2735,15 +2726,15 @@
                ist Mutter die klügste Frau. Von den andren, zu denen Hugo gehörte, hat man doch
                mehr, und ich will versuchen, daß ich ein bißchen davon wegkriege. Aber es wird mir
                wohl nicht viel helfen; von Natur bin ich gradeso wie Mutter, sie berechnet immer,
-                  <pb facs="#"/> was es kostet, und ich rechne mir den Vorteil aus. Die vier Krümel
-               Zucker will ich mir in eine Schachtel legen und hier in das offne Sekretärfach
-               stellen. Da hab ich es immer vor Augen und will dran lernen, daß das ganz Kleine nu
-               wieder anfängt, und wenn Mutter weimert, will ich nicht ungeduldig werden. Ich
-               dachte, wunder was ich aus ihm gemacht hätte, und nu finde ich, daß er mehr Einfluß
-               auf mich gehabt hat als ich auf ihn. Rechnen werd ich wohl immer, das steckt mal
-               drin, aber nicht zu scharf, und will hülfreich sein und für die Runtschen sorgen.
-               Schon deshalb, weil die Runtschen seine einzige Renonce war. Und wenn er das sieht,
-               wird er mir's danken. Aber er wird es wohl nicht sehn.«</p>
+               <pb/> was es kostet, und ich rechne mir den Vorteil aus. Die vier Krümel Zucker will
+               ich mir in eine Schachtel legen und hier in das offne Sekretärfach stellen. Da hab
+               ich es immer vor Augen und will dran lernen, daß das ganz Kleine nu wieder anfängt,
+               und wenn Mutter weimert, will ich nicht ungeduldig werden. Ich dachte, wunder was ich
+               aus ihm gemacht hätte, und nu finde ich, daß er mehr Einfluß auf mich gehabt hat als
+               ich auf ihn. Rechnen werd ich wohl immer, das steckt mal drin, aber nicht zu scharf,
+               und will hülfreich sein und für die Runtschen sorgen. Schon deshalb, weil die
+               Runtschen seine einzige Renonce war. Und wenn er das sieht, wird er mir's danken.
+               Aber er wird es wohl nicht sehn.«</p>
             <p>Und dann ging sie wieder auf und ab und trat ans Fenster, und da, wo damals der Mond
                gestanden hatte, hing ein grau Gewölk.</p>
             <p>Aber als ihr Auge noch drauf ruhte, rötete sich's, und die Sonne gab einen goldnen
@@ -2761,24 +2752,23 @@
                Besuchen des Oberpräsidenten, ja selbst bei Kaiserparaden, die Honneurs des Hauses
                mit ausreichender Geschicklichkeit und jedenfalls mit vollkommener Unbefangenheit
                gemacht haben; jetzt, wo sie sich nach einem kurzen Erfolg auf die Stufe
-               zurückversetzt sah, von der sie ausgegangen war, fand sie sich auch<pb facs="#"/>
-               darin zurecht und nahm ihr altes Leben ohne jede längre Betrachtung und jedenfalls
-               ohne Klage darüber wieder auf. Die Sache lag so und so, folglich mußte so und so
-               gehandelt werden. Nur nicht nutzlose Betrachtungen. Es handelte sich für sie keinen
-               Augenblick darum, ihre Situation in irgendein Gegenteil zu verkehren, sondern nur
-               darum, aus der Situation, wie sie nun mal war, das Beste zu machen, und dies tat sie
-               voll Überlegung und auf ihre Weise, rücksichtsvoll und doch auch wieder entschieden.
-               Soweit es möglich, war sie unerschöpflich in kleinen Guttaten und Aufmerksamkeiten
-               und der Alten insoweit zu Willen, daß sie wie vordem das bloß alkovenhafte
-               Schlafzimmer mit ihr teilte; den ganzen Tag aber [die] sich beständig über Spittel
-               und ähnliche Dinge verbreitende Unterhaltung mit anzuhören oder Fragen zu
-               beantworten, die sich fast immer auf ihr intimes Woldensteiner Leben bezogen, dazu
-               war sie nicht mehr gewillt und hatte dementsprechend kategorisch erklärt, daß sie den
-               Tag über allein sein müsse. »Das mit dem Vermieten müsse ein Ende haben.« Und so
-               hatte sie sich »drüben« eingerichtet, und als die Alte sah, daß Thilde viel schrieb
-               und sich unter Büchern und Karten vergrub und, wenn sie zu Tisch kam (die Runtschen
-               mußte das Essen holen), oft rote Backen vom Lernen hatte, konnte sie sich [denken],
-               was Thilde vorhatte.</p>
+               zurückversetzt sah, von der sie ausgegangen war, fand sie sich auch<pb/> darin
+               zurecht und nahm ihr altes Leben ohne jede längre Betrachtung und jedenfalls ohne
+               Klage darüber wieder auf. Die Sache lag so und so, folglich mußte so und so gehandelt
+               werden. Nur nicht nutzlose Betrachtungen. Es handelte sich für sie keinen Augenblick
+               darum, ihre Situation in irgendein Gegenteil zu verkehren, sondern nur darum, aus der
+               Situation, wie sie nun mal war, das Beste zu machen, und dies tat sie voll Überlegung
+               und auf ihre Weise, rücksichtsvoll und doch auch wieder entschieden. Soweit es
+               möglich, war sie unerschöpflich in kleinen Guttaten und Aufmerksamkeiten und der
+               Alten insoweit zu Willen, daß sie wie vordem das bloß alkovenhafte Schlafzimmer mit
+               ihr teilte; den ganzen Tag aber [die] sich beständig über Spittel und ähnliche Dinge
+               verbreitende Unterhaltung mit anzuhören oder Fragen zu beantworten, die sich fast
+               immer auf ihr intimes Woldensteiner Leben bezogen, dazu war sie nicht mehr gewillt
+               und hatte dementsprechend kategorisch erklärt, daß sie den Tag über allein sein
+               müsse. »Das mit dem Vermieten müsse ein Ende haben.« Und so hatte sie sich »drüben«
+               eingerichtet, und als die Alte sah, daß Thilde viel schrieb und sich unter Büchern
+               und Karten vergrub und, wenn sie zu Tisch kam (die Runtschen mußte das Essen holen),
+               oft rote Backen vom Lernen hatte, konnte sie sich [denken], was Thilde vorhatte.</p>
             <p>Sie konnte sich's denken und war auch nicht eigentlich dagegen. Aber wenn die Alte
                auch nicht eigentlich dagegen war und sich recht gut entsann, daß der Seminardirektor
                schon damals, eh Möhring starb, immer von ihren schönen Gaben gesprochen hatte, so
@@ -2791,9 +2781,9 @@
                schon?«</p>
             <p>»Nein, Mutter. Aber beinah. Willst du noch was?«</p>
             <p>
-               <pb facs="#"/> »Nein, Thilde, wollen will ich nichts. Mir is bloß so furchtbar angst
-               wegen deiner Lernerei. Du siehst so spack aus und hast solchen Glanz. Er hat ja doch
-               die Schwindsucht gehabt. Und am Ende...«</p>
+               <pb/> »Nein, Thilde, wollen will ich nichts. Mir is bloß so furchtbar angst wegen
+               deiner Lernerei. Du siehst so spack aus und hast solchen Glanz. Er hat ja doch die
+               Schwindsucht gehabt. Und am Ende...«</p>
             <p>»Nu?«</p>
             <p>»Am Ende wär es doch möglich. Und wenn es so is, is doch frische Luft immer das
                beste...«</p>
@@ -2820,8 +2810,8 @@
                hätte gesagt: ›Es wird wohl eine schöne Geschichte gewesen sein.‹«</p>
             <p>»Ach, Thilde, dessentwegen muß man sein Glück nich fortstoßen.</p>
             <p>
-               <pb facs="#"/> Die Leute sagen immer so was. Aber wenn man was hat, dann is es
-               gleich. Und bloß wenn man nichts hat...«</p>
+               <pb/> Die Leute sagen immer so was. Aber wenn man was hat, dann is es gleich. Und
+               bloß wenn man nichts hat...«</p>
             <p>»Ja, Mutter. Nu wollen wir aber schlafen.«</p>
 
             <p>Der Wunsch der Alten ging ganz entschieden dahin, daß sich Thilde wieder verheiraten
@@ -2848,9 +2838,9 @@
             <p>»Meinst du? Na, ich will es dir wünschen. Aber wenn es auch noch so sicher ist, das
                mit der Schule, das is doch nu die Hauptsache. Das hast du selber immer gesagt. Und
                da hab ich dich nu schon lange fragen wollen, ob du nich das mit der Witwe
-               fallenlassen und deinen Mädchennamen wieder aufnehmen<pb facs="#"/> willst. Es werden
-               ja so viele mit andre Namen getauft, und bei dir is es nich mal so, da kommt das Alte
-               bloß wieder obenauf.«</p>
+               fallenlassen und deinen Mädchennamen wieder aufnehmen<pb/> willst. Es werden ja so
+               viele mit andre Namen getauft, und bei dir is es nich mal so, da kommt das Alte bloß
+               wieder obenauf.«</p>
             <p>Thilde schüttelte den Kopf, ersichtlich in einiger Verstimmung. Aber die Alte, die
                sich, solange sie den Wiederverheiratungsplan hatte, von »Witwe« viel versprochen
                hatte, wollte bei veränderter Sachlage mit ihrem neuen Plane nicht nachlassen und
@@ -2876,8 +2866,8 @@
                aber er war nur schwach auf der Brust, und ich bin ganz sicher, es hat ihm geschadet.
                Und nun soll es gar nichts gewesen sein. I, das wäre ja doch schändlich und
                undankbar, wenn ich ihm so was in seinem Grabe nachsagen wollte. Fräulein Möhring!
-               Was denkst <pb facs="#"/> du dir nur? Ich bin kein Fräulein und habe meinen Stolz als
-               Frau und Witwe, wenn ich auch kein Pfand seiner Liebe unterm Herzen trage.«</p>
+               Was denkst <pb/> du dir nur? Ich bin kein Fräulein und habe meinen Stolz als Frau und
+               Witwe, wenn ich auch kein Pfand seiner Liebe unterm Herzen trage.«</p>
             <p>»Gott, Thilde, sage doch nich so was.«</p>
             <p>»Ja, so sagt man, Mutter; das ist gerade das richtige Wort. Und es ist bloß ein
                Zufall, daß es so ist, wie es ist...«</p>
@@ -2906,7 +2896,7 @@
             <p>»Laß doch, Mutter, wir haben es ja.«</p>
             <p>»Ja, Thilde, es is schon wahr. Aber wenn es man bleibt.«</p>
             <p>
-               <pb facs="#"/> »Es wird schon.«</p>
+               <pb/> »Es wird schon.«</p>
             <p>Von Hugo Großmann wird selten gesprochen, seine Photographie hängt aber mit einer
                schwarzen Schleife über der Chaiselongue, und zweimal im Jahre kriegt er nach
                Woldenstein hin einen Kranz. Silberstein legt ihn nieder und schreibt jedesmal ein

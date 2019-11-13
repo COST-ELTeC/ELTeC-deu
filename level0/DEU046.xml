@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../WG1/distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../WG1/distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de" xml:id="DEU046">
    <teiHeader>
       <fileDesc>
@@ -46,11 +46,11 @@
    </teiHeader>
 
    <text>
-      
+
       <body>
          <div type="chapter">
             <head>
-               <pb facs="#"/> Erstes Kapitel</head>
+               <pb/> Erstes Kapitel</head>
             <head>Das Hänflingnest</head>
             <p>»Weißt du, Grete, wir haben ein Nest in unserm Garten, und ganz niedrig, und zwei
                Junge drin.«</p>
@@ -77,7 +77,7 @@
                Nest.«</p>
             <p>»Höre, Grete, ich glaube, da hast du recht.«</p>
             <p>
-               <pb facs="#"/> »Ein richtiges Nest, ich meine von einem Vogel, nicht ein Krähen- oder
+               <pb/> »Ein richtiges Nest, ich meine von einem Vogel, nicht ein Krähen- oder
                Storchennest, das muß so weich sein wie der Flachs von Reginens Wocken.«</p>
             <p>»Und so ist es auch. Komm nur. Ich zeig es dir.« Und dabei sprang er vom Zaun in den
                Garten seines elterlichen Hauses zurück.</p>
@@ -106,7 +106,7 @@
                umkreiste sie der Vogel, und Valtin sagte: »Laß; er ängstigt sich. Es ist wegen der
                Jungen; unsere Mütter sind nicht so bang um uns.«</p>
             <p>
-               <pb facs="#"/> »Ich habe keine Mutter«, erwiderte Grete scharf.</p>
+               <pb/> »Ich habe keine Mutter«, erwiderte Grete scharf.</p>
             <p>»Ich weiß«, sagte Valtin, »aber ich vergeß es immer wieder. Sieht sie doch aus, als
                ob sie deine Mutter wäre, versteht sich, deine Stiefmutter. Höre, Grete, sieh dich
                vor. Hübsch ist sie, aber hübsch und bös. Und du kennst doch das Märchen vom
@@ -135,7 +135,7 @@
                zog er einen Malvenstock aus der Erde und malte Buchstaben in den Sand.</p>
             <p>»Lies«, sagte er. »Kannst du's?«</p>
             <p>
-               <pb facs="#"/> »Nein.«</p>
+               <pb/> »Nein.«</p>
             <p>»Dann muß ich dir sagen, Grete, daß du deinen eignen Namen nicht lesen kannst. Es
                sind fünf Buchstaben, und es heißt Grete.«</p>
             <p>»Ach, griechisch«, lachte diese. »Nun merk ich erst; ich soll dich bewundern. Hatt es
@@ -167,7 +167,7 @@
             <p>»Wenn du mir einen Kuß geben willst. Eigentlich müßtest du's. Du bist mir noch einen
                schuldig.«</p>
             <p>
-               <pb facs="#"/> »Schuldig?«</p>
+               <pb/> »Schuldig?«</p>
             <p>»Ja. Von Silvester.«</p>
             <p>»Ach, das ist lange her. Da war ich noch ein Kind.«</p>
             <p>»Lang oder kurz. Schuld ist Schuld.«</p>
@@ -196,18 +196,18 @@
             <p>In den Gärten war alles still, und doch waren sie belauscht worden. Eine schöne,
                junge Frau, Frau Trud Minde, modisch gekleidet, aber mit strengen Zügen, war, während
                die beiden noch plauderten, über den Hof gekommen und hatte sich hinter einem
-               Weinspalier versteckt, das den geräumigen, mit Gebäuden <pb facs="#"/> umstandenen
-               Mindeschen Hof von dem etwas niedriger gelegenen Garten trennte. Sechs Stufen führten
-               hinunter. Nichts war ihr hier entgangen, und die widerstreitendsten Gefühle, nur
-               keine freundlichen, hatten sich in ihrer Brust gekreuzt. Grete war noch ein Kind, so
-               sagte sie sich, und alles, was sie von ihrem Versteck aus gesehen hatte, war nichts
-               als ein kindisches Spiel. Es war nichts und es bedeutete nichts. Und doch, es war
-               Liebe, die Liebe, nach der sie sich selber sehnte und an der ihr Leben arm war bis
-               diesen Tag. Sie war nun eines reichen Mannes ehelich Weib; aber nie, soweit sie
-               zurückdenken mochte, hatte sie lachend und plaudernd auf einer Gartenbank gesessen,
-               nie war ein frisches, junges Blut um ihretwillen in einen Baumwipfel gestiegen und
-               hatte sie dann kindlich unschuldig umarmt und geküßt. Das Blut stieg ihr zu Kopf, und
-               Neid und Mißgunst zehrten an ihrem Herzen.</p>
+               Weinspalier versteckt, das den geräumigen, mit Gebäuden <pb/> umstandenen Mindeschen
+               Hof von dem etwas niedriger gelegenen Garten trennte. Sechs Stufen führten hinunter.
+               Nichts war ihr hier entgangen, und die widerstreitendsten Gefühle, nur keine
+               freundlichen, hatten sich in ihrer Brust gekreuzt. Grete war noch ein Kind, so sagte
+               sie sich, und alles, was sie von ihrem Versteck aus gesehen hatte, war nichts als ein
+               kindisches Spiel. Es war nichts und es bedeutete nichts. Und doch, es war Liebe, die
+               Liebe, nach der sie sich selber sehnte und an der ihr Leben arm war bis diesen Tag.
+               Sie war nun eines reichen Mannes ehelich Weib; aber nie, soweit sie zurückdenken
+               mochte, hatte sie lachend und plaudernd auf einer Gartenbank gesessen, nie war ein
+               frisches, junges Blut um ihretwillen in einen Baumwipfel gestiegen und hatte sie dann
+               kindlich unschuldig umarmt und geküßt. Das Blut stieg ihr zu Kopf, und Neid und
+               Mißgunst zehrten an ihrem Herzen.</p>
             <p>Sie wartete, bis Grete wieder diesseits war, und ging dann raschen Schrittes über den
                Hof auf Flur und Straße zu, um nebenan ihre Muhme Zernitz, des alten Ratsherrn
                Zernitz zweite Frau und Valtins Stiefmutter, aufzusuchen. In der Tür des
@@ -222,9 +222,8 @@
                gewöhnliche Aufenthalt der Frau Zernitz war. Das nach vorn zu gelegene Zimmer von
                gleicher Größe, das keine Sonne, dafür aber viele hohe Lehnstühle und grünverhangene
                Familienbilder hatte, war ihr zu trist und öde. Zudem war es das Wohn- und
-               Lieblingszimmer der ersten Frau Zernitz gewesen, einer steifen und langweiligen <pb
-                  facs="#"/> Frau, von der sie lachend als von ihrer »Vorgängerin im Amt« zu
-               sprechen pflegte.</p>
+               Lieblingszimmer der ersten Frau Zernitz gewesen, einer steifen und langweiligen <pb/>
+               Frau, von der sie lachend als von ihrer »Vorgängerin im Amt« zu sprechen pflegte.</p>
             <p>Trud, ohne zu klopfen, trat ein und war überrascht von dem freundlichen Bilde, das
                sich ihr darbot. Alle drei Flügel des breiten Mittelfensters standen auf, die Sonne
                schien, und an dem offenen Fenster vorbei schossen die Schwalben. Über die Kissen des
@@ -251,7 +250,7 @@
                war, »um eben deinen Valtin. Höre, das hat sich ja mit der Gret, als ob es Braut und
                Bräutigam wäre. Er muß aus dem Haus. Und ich denke, du wirst ihn missen können.«</p>
             <p>
-               <pb facs="#"/> »Laß doch. Es sind ja Kinder.«</p>
+               <pb/> »Laß doch. Es sind ja Kinder.«</p>
             <p>»Nein; es sind nicht Kinder mehr. Valtin ist sechzehn oder wird's, und Gret ist über
                ihre Jahre und hat's von der Mutter.«</p>
             <p>»Nicht doch. Ich war ebenso.«</p>
@@ -279,22 +278,21 @@
             <p>»Jung zu jung!« sagte diese bitter. »Es geht ins dritte Jahr, und unser Haus ist öd
                und einsam.«</p>
             <p>»Alt oder jung, wir müssen uns eben schicken, Trud«; und dabei nahm Emrentz ihrer
-               Muhme Arm und schritt mit ihr in <pb facs="#"/> dem geräumigen Zimmer auf und ab.
-               »Mein Alter ist zu jung, und dein Junger ist zu alt; und so haben wir's gleich,
-               trotzdem uns der Schuh an ganz verschiedenen Stellen drückt. Nimm's leicht, und wenn
-               du das Wort nicht leiden kannst, so sei wenigstens billig und gerecht. Wie liegt's
-               denn? Höre, Trud, ich denke, wir haben nicht viel eingesetzt und dürfen nicht viel
-               fordern. Hineingeheiratet haben wir uns. Und war's denn besser, als wir mit
-               fünfundzwanzig, oder war's noch ein Jahr mehr, auf dem Gardelegner Marktplatz saßen
-               und gähnten und strickten und von unsrem Fenster aus den Bauerfrauen die Eier in der
-               Kiepe zählten? Jetzt kaufen wir sie wenigstens und leben einen guten Tag. Und das
-               Sprichwort sagt, man kann nicht alles haben. Was fehlt, fehlt. Aber dir zehrt's am
-               Herzen, daß dir nichts Kleines in der Wiege schreit, und du versuchst es nun mit
-               Gigas und mit Predigt und Litanei. Aber das hilft zu nichts und hat noch keinem
-               geholfen. Halte dich ans Leben; ich tu's und getröste mich mit der Zukunft. Und wenn
-               der alte Zernitz eine zweite Frau nahm, warum sollt ich nicht einen zweiten Mann
-               nehmen? Da hast du meine Weisheit, und warum es mir gedeiht. Lache mehr und bete
-               weniger.«</p>
+               Muhme Arm und schritt mit ihr in <pb/> dem geräumigen Zimmer auf und ab. »Mein Alter
+               ist zu jung, und dein Junger ist zu alt; und so haben wir's gleich, trotzdem uns der
+               Schuh an ganz verschiedenen Stellen drückt. Nimm's leicht, und wenn du das Wort nicht
+               leiden kannst, so sei wenigstens billig und gerecht. Wie liegt's denn? Höre, Trud,
+               ich denke, wir haben nicht viel eingesetzt und dürfen nicht viel fordern.
+               Hineingeheiratet haben wir uns. Und war's denn besser, als wir mit fünfundzwanzig,
+               oder war's noch ein Jahr mehr, auf dem Gardelegner Marktplatz saßen und gähnten und
+               strickten und von unsrem Fenster aus den Bauerfrauen die Eier in der Kiepe zählten?
+               Jetzt kaufen wir sie wenigstens und leben einen guten Tag. Und das Sprichwort sagt,
+               man kann nicht alles haben. Was fehlt, fehlt. Aber dir zehrt's am Herzen, daß dir
+               nichts Kleines in der Wiege schreit, und du versuchst es nun mit Gigas und mit
+               Predigt und Litanei. Aber das hilft zu nichts und hat noch keinem geholfen. Halte
+               dich ans Leben; ich tu's und getröste mich mit der Zukunft. Und wenn der alte Zernitz
+               eine zweite Frau nahm, warum sollt ich nicht einen zweiten Mann nehmen? Da hast du
+               meine Weisheit, und warum es mir gedeiht. Lache mehr und bete weniger.«</p>
             <p>Es schien, daß Trud antworten wollte, aber in diesem Augenblick hörte man deutlich
                von der Straße her das Schmettern einer Trompete und dazwischen Paukenschläge. Es kam
                immer näher, und Emrentz sagte: »Komm, es müssen die Puppenspieler sein. Ich sah sie
@@ -306,9 +304,9 @@
                phantastisch aufgeputzt, ihren Umritt hielten. Hunderte von Neugierigen drängten
                ihnen nach. Es war ersichtlich, daß sie nicht hier, sondern erst weiter abwärts, an
                einem unmittelbar am Markte gelegenen Eckhause zu halten gedachten, als aber der zur
-               Rechten Reitende, der lange, gelb <pb facs="#"/> und schwarz gestreifte Trikots und
-               ein schwarzes, enganliegendes Samt- und Atlascollet trug, der beiden jungen Frauen
-               gewahr wurde, hielt er sein Pferd plötzlich an und gab ein Zeichen, daß der die Pauke
+               Rechten Reitende, der lange, gelb <pb/> und schwarz gestreifte Trikots und ein
+               schwarzes, enganliegendes Samt- und Atlascollet trug, der beiden jungen Frauen gewahr
+               wurde, hielt er sein Pferd plötzlich an und gab ein Zeichen, daß der die Pauke
                rührende, hagre Hanswurst, dessen weißes Hemd und spitze Filzmütze bereits der Jubel
                aller Kinder waren, einen Augenblick schweigen solle. Zugleich nahm er sein Barett ab
                und grüßte mit ritterlichem Anstand zu dem Fenster des Zernitzschen Hauses hinauf.
@@ -334,7 +332,7 @@
             <p>»Gehst du heute?« fragte Emrentz.</p>
             <p>»Nein. Nicht heut und nicht morgen. Es widersteht mir, Gott und Teufel als bloße
                Puppen zu sehen. Das Jüngste Gericht ist kein Spiel, und ich begreif unsre Ratmannen
-               nicht, und <pb facs="#"/> am wenigsten unsern alten Peter Guntz, der doch sonst ein
+               nicht, und <pb/> am wenigsten unsern alten Peter Guntz, der doch sonst ein
                christlicher Mann ist. Heiden und Türken sind's. Sahst du die Frau? Und wie der lange
                schwarze Schleier ihr vom Kopfe hing?«</p>
             <p>»Ich gehe doch«, lachte Emrentz.</p>
@@ -361,11 +359,11 @@
                ins Freie getreten waren, um so lange wie möglich noch der frischen Luft zu genießen.
                Denn in dem niedrig gewölbten Saale war es stickig, und kein anderes Licht fiel ein
                als ein gedämpftes von Flur und Treppe her. In der zweiten Reihe waren ihnen, unter
-               Beistand eines alten Stadt- und Ratsdieners, einige Mittelplätze freigehalten <pb
-                  facs="#"/> worden, auf denen sie bequemlich Platz nahmen, erst Zernitz selbst und
-               Emrentz, dann Valtin und Grete. Das war auch die Reihenfolge, in der sie saßen. Grete
-               war von Anfang an nur Aug und Ohr, und als Emrentz ihr aus einem Sandelkästchen
-               allerhand Süßigkeiten bot, wie sie damals Sitte waren, überzuckerte Frucht und kleine
+               Beistand eines alten Stadt- und Ratsdieners, einige Mittelplätze freigehalten <pb/>
+               worden, auf denen sie bequemlich Platz nahmen, erst Zernitz selbst und Emrentz, dann
+               Valtin und Grete. Das war auch die Reihenfolge, in der sie saßen. Grete war von
+               Anfang an nur Aug und Ohr, und als Emrentz ihr aus einem Sandelkästchen allerhand
+               Süßigkeiten bot, wie sie damals Sitte waren, überzuckerte Frucht und kleine
                Theriakkügelchen, dankte sie und weigerte sich, etwas zu nehmen. Valtin sah es und
                flüsterte ihr zu: »Fürchtest du dich?«</p>
             <p>»Ja, Valtin. Bedenke, das Jüngste Gericht.«</p>
@@ -388,9 +386,9 @@
                gewöhnt hatte, ließ sich die Herrichtung der Bühne deutlich erkennen. Sie war, der
                Breite nach, dreigeteilt, wobei sich der treppenförmige Mittelraum etwas größer
                erwies als die beiden Seitenräume, von denen der eine, mit der schmalen Tür, den
-               Himmel und der andre, mit der breiten Tür, die Hölle <pb facs="#"/> darstellte. Engel
-               und Teufel standen oder hockten umher, jeder auf der ihm zuständigen Seite, während
-               eine hagere Puppe, mit weißem Rock und trichterförmiger Filzmütze, die dem lebendigen
+               Himmel und der andre, mit der breiten Tür, die Hölle <pb/> darstellte. Engel und
+               Teufel standen oder hockten umher, jeder auf der ihm zuständigen Seite, während eine
+               hagere Puppe, mit weißem Rock und trichterförmiger Filzmütze, die dem lebendigen
                Hanswurst des Vormittagsrittes genau nachgebildet schien, zu Füßen der großen
                Mitteltreppe saß, deren Stufen zu Christus und Maria hinaufführten. Was nur der
                Hagere hier sollte? Grete fragte sich's und wußte keine Antwort; allen anderen aber
@@ -420,9 +418,8 @@
 
 
             <p>
-               <pb facs="#"/> Und im selben Augenblick ergriff ihn der Scherge und stieß ihn durch
-               das breite Tor nach links hin, wo kleine Flammen von Zeit zu Zeit aus dem Boden
-               aufschlugen.</p>
+               <pb/> Und im selben Augenblick ergriff ihn der Scherge und stieß ihn durch das breite
+               Tor nach links hin, wo kleine Flammen von Zeit zu Zeit aus dem Boden aufschlugen.</p>
             <p>Und nun stand das Kind vor Christi Thron. Maria aber wandte sich bittend an ihren
                Sohn und Heiland und sprach an seiner Statt:</p>
 
@@ -451,11 +448,11 @@
                das Puppenspiel eben wiederholt hatte, denn Jacob Minde, während er einzelne von den
                großen Himbeeren nahm, die, wie er es liebte, mit den Stielchen abgepflückt worden
                waren, sagte: »Du bist zu streng, Trud, und du bist es, weil du nur unser
-               tangermündisch Tun und Lassen <pb facs="#"/> kennst. Und in Alt-Gardelegen ist es
-               nicht anders. Aber draußen in der Welt, in den großen Ländern und Städten, da wagt
-               sich die Kunst an alles Höchste und Heiligste, und sie haben fromme und berühmte
-               Meister, die nie andres gedacht und gedichtet und gemalt und gemeißelt haben als die
-               Glorie des Himmels und die Schrecknisse der Hölle.«</p>
+               tangermündisch Tun und Lassen <pb/> kennst. Und in Alt-Gardelegen ist es nicht
+               anders. Aber draußen in der Welt, in den großen Ländern und Städten, da wagt sich die
+               Kunst an alles Höchste und Heiligste, und sie haben fromme und berühmte Meister, die
+               nie andres gedacht und gedichtet und gemalt und gemeißelt haben als die Glorie des
+               Himmels und die Schrecknisse der Hölle.«</p>
             <p>»Ich weiß davon, Vater«, sagte Trud ablehnend. »Ich habe solche Bilder in unsrer
                Gardelegner Kirche gesehn, aber ein Bild ist etwas andres als eine Puppe.«</p>
             <p>»Bild oder Puppe«, lächelte der Alte. »Sie wollen dasselbe, und das macht sie
@@ -477,10 +474,10 @@
                ein Klirren und Zittern kam; und eh sie noch einander fragen konnten, was es sei,
                wiederholten sich die Schläge, dreimal, viermal, aber schwächer. Trud erhob sich, um
                auf die Straße zu sehn, und ein dicker Qualm, der sich in Höhe der gegenübergelegenen
-               Häuser hinzog, ließ keinen Zweifel, daß bei den Puppenspielern <pb facs="#"/> ein
-               Unglück geschehen sein müsse. Flüchtig Vorübereilende bestätigten es, und Trud, indem
-               sie sich ins Zimmer zurückwandte, sagte triumphierend: »Ich wußt es: Gott läßt sich
-               nicht spotten.« Auf Gerdts blassem und gedunsenem Gesicht aber wechselten Furcht und
+               Häuser hinzog, ließ keinen Zweifel, daß bei den Puppenspielern <pb/> ein Unglück
+               geschehen sein müsse. Flüchtig Vorübereilende bestätigten es, und Trud, indem sie
+               sich ins Zimmer zurückwandte, sagte triumphierend: »Ich wußt es: Gott läßt sich nicht
+               spotten.« Auf Gerdts blassem und gedunsenem Gesicht aber wechselten Furcht und
                Verlegenheit, wodurch es nicht gewann, während der alte Minde sein Käppsel abnahm und
                mit halblauter Stimme die Barmherzigkeit Gottes und den Beistand aller Heiligen
                anrief. Denn er war noch aus den katholischen Zeiten her. In einem Anfluge von
@@ -504,9 +501,9 @@
             <p>»Wo bin ich?« fragte Grete. »Ach... nicht in der Hölle!«</p>
             <p>»Gott, mein süß Gretel«, zitterte Regine hin und her. »Was sprichst du nur? Du bist
                ja ein gutes und liebes Kind. Und ein gutes und liebes Kind, das kommt in den Himmel.
-               Aber das <pb facs="#"/> ist auch noch nicht, noch lange nicht. Du kommst auch noch
-               nicht in den Himmel. Du bist noch bei uns. Gott sei Dank, Gott sei Dank. So sieh
-               doch, sieh doch, ich bin ja deine alte Regine.«</p>
+               Aber das <pb/> ist auch noch nicht, noch lange nicht. Du kommst auch noch nicht in
+               den Himmel. Du bist noch bei uns. Gott sei Dank, Gott sei Dank. So sieh doch, sieh
+               doch, ich bin ja deine alte Regine.«</p>
             <p>Die Träger standen noch immer verlegen da, bis der alte Minde sie bat, ihm zu
                erzählen, was vorgefallen sei. Aber sie wußten nicht viel, da sie wegen des großen
                Andrangs nur draußen auf der Treppe gewesen waren. Sie hatten nur gehört, daß, gegen
@@ -530,15 +527,15 @@
                Emrentz hatte mich bei der Hand genommen und zog mich mit sich fort. Aber mit einem
                Male war ich von ihr los, und da stand ich nun und schrie, denn es war, als ob sie
                mich erdrückten, und zuletzt hatt ich nicht Luft und Atem mehr. Da packte mich Valtin
-               von hinten her und riß mich aus dem <pb facs="#"/> Gedränge heraus und in den Saal
-               zurück. Und ich meinte, daß er irre geworden, und so wollt ich wieder in den Knäuel
-               hinein. Er aber zwang mich auf eine Bank nieder und hielt mich mit beiden Händen
-               fest. ›Willst du mich morden?‹ rief ich. ›Nein, retten will ich dich.‹ Und so hielt
-               er mich, bis er sehen mochte, daß das Gedränge nachließ. Und nun erst nahm er mich
-               auf seinen Arm und trug mich über den Vorplatz und die Treppe hinunter, bis wir unten
-               auf dem Marktplatz waren. Da schwanden mir die Sinne. Und was weiter geschehen, weiß
-               ich nicht. Aber das weiß ich, daß ich ohne Valtin erdrückt oder verbrannt oder vor
-               Angst gestorben wäre.«</p>
+               von hinten her und riß mich aus dem <pb/> Gedränge heraus und in den Saal zurück. Und
+               ich meinte, daß er irre geworden, und so wollt ich wieder in den Knäuel hinein. Er
+               aber zwang mich auf eine Bank nieder und hielt mich mit beiden Händen fest. ›Willst
+               du mich morden?‹ rief ich. ›Nein, retten will ich dich.‹ Und so hielt er mich, bis er
+               sehen mochte, daß das Gedränge nachließ. Und nun erst nahm er mich auf seinen Arm und
+               trug mich über den Vorplatz und die Treppe hinunter, bis wir unten auf dem Marktplatz
+               waren. Da schwanden mir die Sinne. Und was weiter geschehen, weiß ich nicht. Aber das
+               weiß ich, daß ich ohne Valtin erdrückt oder verbrannt oder vor Angst gestorben
+               wäre.«</p>
             <p>Der alte Minde war an einen Schrank getreten, um von seinem Melissengeist, den er
                noch bei den Brügger Karmeliterinnen erstanden hatte, ein paar Tropfen in ein
                Spitzglas mit Wein und Wasser zu tun. Grete nahm es; und als eine halbe Stunde später
@@ -558,9 +555,9 @@
                und daß er mich aus dem Feuer herausgetragen; und sie merkte wohl, was es war und
                warum ich schwieg und mich abwandte. Denke nur, ich soll nicht mehr sprechen mit ihm.
                Ja, so will sie's; ich weiß es von ihm selbst; er hat mir's heute gesagt. Und er hat
-               es von der Emrentz. Aber <pb facs="#"/> die hat gelacht. Höre, Regine, der Emrentz
-               könnt ich gut sein. Wenn ich doch eine Mutter hätte wie die! Ach, meine Mutter!
-               Glaubst du nicht, daß sie mich liebhätte?«</p>
+               es von der Emrentz. Aber <pb/> die hat gelacht. Höre, Regine, der Emrentz könnt ich
+               gut sein. Wenn ich doch eine Mutter hätte wie die! Ach, meine Mutter! Glaubst du
+               nicht, daß sie mich liebhätte?«</p>
             <p>»Das hätte sie«, sagte Regine und fuhr sich mit der Hand über das Auge; »das hätte
                sie. Jede Mutter hat ihr Kind lieb, und deine Mutter... ach, ich mag es gar nicht
                denken. Ja, mein Gretelchen, da hätten wir andre Tage, du und ich. Und der Vater
@@ -585,9 +582,8 @@
                sagte: ›Höre, Regine, sieht sie nicht aus wie der Stendalsche Roland?‹ Und
                wahrhaftig, so sah sie auch aus, so steif und so lang und so feierlich. Und auch so
                schlohweiß, denn sie trug immer selbstgebleichtes Linnen! Und warum trug sie's? Weil
-               sie geizig war; und es sollt immer mehr und mehr werden. <pb facs="#"/> Denn sie war
-               eines reichen Brauherrn Tochter, und alles Geld, das wir haben, das kommt von
-               ihr.«</p>
+               sie geizig war; und es sollt immer mehr und mehr werden. <pb/> Denn sie war eines
+               reichen Brauherrn Tochter, und alles Geld, das wir haben, das kommt von ihr.«</p>
             <p>»Und hatte sie der Vater auch lieb?«</p>
             <p>»Ich hab ihm nicht ins Herz gesehen. Aber ich glaub's nicht recht. Denn sieh, sie
                hatte keine Liebe, und wer keine Liebe hat, der findt auch keine. Das ist so Lauf der
@@ -612,7 +608,7 @@
                sagte: »Und weißt du, Grete, der Valtin ist doch ein guter Jung. Alle Zernitzens sind
                gut... Und von dem Valtin darfst du auch träumen. Ich erlaub es dir, ich, deine alte
                Regine.«</p>
-            <pb facs="#"/>
+            <pb/>
          </div>
          <div type="chapter">
             <head>Fünftes Kapitel</head>
@@ -641,10 +637,10 @@
                sobald er Trud erkannte. »Ich bitt Euch, Platz zu nehmen, Frau Minde.« Dabei schob er
                ihr einen Stuhl zu und fuhr in seiner Rede fort: »Das ist also Grete, von der Ihr mir
                erzählt habt, Eure Schwieger und Euer Kind. Denn Ihr tragt es auf dem Herzen, und
-               sein Wohl und Weh ist auch das Eure. Und das schätz ich an Euch, Frau Minde. Denn <pb
-                  facs="#"/> der Teufel mit seinen Listen geht immer um, am meisten aber bei der
-               Jugend, und von ihr gilt es doppelt: ›Wachet und betet, daß ihr nicht in Anfechtung
-               fallet.‹ Betest du, Grete?«</p>
+               sein Wohl und Weh ist auch das Eure. Und das schätz ich an Euch, Frau Minde. Denn
+               <pb/> der Teufel mit seinen Listen geht immer um, am meisten aber bei der Jugend, und
+               von ihr gilt es doppelt: ›Wachet und betet, daß ihr nicht in Anfechtung fallet.‹
+               Betest du, Grete?«</p>
             <p>»Ja, Herr.«</p>
             <p>»Oft?«</p>
             <p>»Jeden Abend.«</p>
@@ -670,9 +666,9 @@
                über ihn. Da liegt es, gut oder böse. Willst du mir den Spruch sagen? Du mußt dich
                nicht fürchten vor mir. Sammle dich und besinne dich. Sieh, ich will dir auch eine
                Rose schenken. Da. Und wie gut sie dir kleidet. Du gleichest deiner Mutter, aber
-               nicht in allem, denk ich. Denn du weißt doch, daß <pb facs="#"/> sie sich zu dem
-               alten Glauben hielt. Und sie mied mich, wenn ich in euer Haus kam. Aber ich habe für
-               sie gebetet. Und nun sage mir deinen Spruch.«</p>
+               nicht in allem, denk ich. Denn du weißt doch, daß <pb/> sie sich zu dem alten Glauben
+               hielt. Und sie mied mich, wenn ich in euer Haus kam. Aber ich habe für sie gebetet.
+               Und nun sage mir deinen Spruch.«</p>
             <p>»Ich glaube, Herr, es ist ein Lied.«</p>
             <p>»Auch das ist gut. Spruch oder Lied. Aber beginne.«</p>
             <p>Und nun faltete Grete die Hände und sagte, während sie zu dem Alten aufsah:</p>
@@ -701,9 +697,9 @@
                in diesem der Splitter. Der Alte knipste das Deckelchen wieder zu und sagte dann
                ruhig: »Es ist Götzendienst, Grete.«</p>
             <p>»Ein Andenken, Herr! Ein Andenken von meiner Mutter. Und es ist alles, was ich von
-               ihr hab. Ich habe sie nicht mehr <pb facs="#"/> gekannt, Ihr wißt es. Aber Regine hat
-               mir das Kettchen umgehängt, als ich meinen zehnten Geburtstag hatte. So hat sie der
-               Mutter versprechen müssen, und seitdem trag ich es Tag und Nacht.«</p>
+               ihr hab. Ich habe sie nicht mehr <pb/> gekannt, Ihr wißt es. Aber Regine hat mir das
+               Kettchen umgehängt, als ich meinen zehnten Geburtstag hatte. So hat sie der Mutter
+               versprechen müssen, und seitdem trag ich es Tag und Nacht.«</p>
             <p>»Und ich will es dir nicht nehmen, Grete, jetzt nicht. Aber ich denke, der Tag soll
                kommen, wo du mir es geben wirst. Denn verstehe wohl: wir sollen sein Kreuz tragen,
                aber keinen Splitter von seinem Kreuz, und nicht auf unserm Herzen soll es ruhen,
@@ -730,14 +726,14 @@
                sah, wie sie zitterte, und der Spruch, den sie sagen sollte, wollt ihr nicht über die
                Lippen. Nein, es ist ein gutes Kind und ein schönes Kind. Wie die Mutter.«</p>
             <p>
-               <pb facs="#"/> In Truds Auge zuckte wieder ein gelber Strahl auf, denn sie hörte
-               nicht gern eines andern Lob, und in herbem Tone wiederholte sie: »Wie die Mutter...
-               Ich muß es glauben, daß sie schön war. Ihr sagt es, und alle Welt sagt es. Aber ich
-               wollte, sie wär es weniger gewesen. Denn damit zwang sie's und hat unser Haus behext
-               und in den alten Aberglauben zurückfallen lassen. So fürcht ich. Und daß ich's offen
-               gesteh, ich traue dem alten Jacob Minde nicht, und ich traue der Regine nicht. Und
-               widerstünd es mir nicht, den Horcher und Späher im eigenen Haus zu machen, ich
-               glaube, daß ich noch manches fänd wie Bild und Splitter.«</p>
+               <pb/> In Truds Auge zuckte wieder ein gelber Strahl auf, denn sie hörte nicht gern
+               eines andern Lob, und in herbem Tone wiederholte sie: »Wie die Mutter... Ich muß es
+               glauben, daß sie schön war. Ihr sagt es, und alle Welt sagt es. Aber ich wollte, sie
+               wär es weniger gewesen. Denn damit zwang sie's und hat unser Haus behext und in den
+               alten Aberglauben zurückfallen lassen. So fürcht ich. Und daß ich's offen gesteh, ich
+               traue dem alten Jacob Minde nicht, und ich traue der Regine nicht. Und widerstünd es
+               mir nicht, den Horcher und Späher im eigenen Haus zu machen, ich glaube, daß ich noch
+               manches fänd wie Bild und Splitter.«</p>
             <p>»Saget das nicht, Frau Trud. Euren Vater, den alten Ratsherrn, kenn ich von Beicht
                und Abendmahl und hab ihn allemal treu befunden. So das Unwesen aber im Mindeschen
                Hause umginge, was Gott in seiner Gnade verhüten wolle, so müßt ich Euch verklagen,
@@ -756,7 +752,7 @@
             <p>»In uns allen, Frau Trud. Und nur zwei Dinge sind, es zu bändigen: der Glaube, den
                wir uns erbitten, und die Liebe, die wir uns erziehn. Liebt Ihr das Kind?«</p>
             <p>Und sie senkte den Blick.</p>
-            <pb facs="#"/>
+            <pb/>
          </div>
          <div type="chapter">
             <head>Sechstes Kapitel</head>
@@ -787,7 +783,7 @@
 
             <l>»Habt ihr es nicht vernommen?</l>
             <l>Der Lenz ist angekommen!</l>
-            <pb facs="#"/>
+            <pb/>
             <l>Es sagen's euch die Vögelein,</l>
             <l>Es sagen's euch die Blümelein,</l>
             <l>Der Lenz ist angekommen.</l>
@@ -820,14 +816,14 @@
             <p>So mocht eine Stunde vergangen sein, als sie, von der Stadt her, gebückt auf seinem
                flandrischen Pferde, des alten Minde gewahr wurden. Inmitten seiner Einsamkeit war er
                plötzlich von einer tiefen Sehnsucht erfaßt worden, den Mai noch einmal mitzufeiern;
-                  <pb facs="#"/> und nun kam er den breiten Waldweg herauf, auf die Stelle zu, wo
-               die Zernitzens und Mindes gemeinschaftlich lagerten. Ein Diener schritt neben dem
-               Pferde her und führte den Zügel. Was wollte der Alte? Wozu kam er? Und Trud und Gerdt
-               empfingen ihn mit kurzen, rasch herausgestoßenen Fragen, die mehr nach Mißstimmung
-               als nach Teilnahme klangen, und nur Grete freute sich von Herzen und sprang ihm
-               entgegen. Und als nun Decken für ihn ausgebreitet lagen, stieg er ab und setzte sich
-               an einen guten Platz, der den Waldesschatten über sich und die sonnenbeschienene
-               Lichtung vor sich hatte.</p>
+               <pb/> und nun kam er den breiten Waldweg herauf, auf die Stelle zu, wo die Zernitzens
+               und Mindes gemeinschaftlich lagerten. Ein Diener schritt neben dem Pferde her und
+               führte den Zügel. Was wollte der Alte? Wozu kam er? Und Trud und Gerdt empfingen ihn
+               mit kurzen, rasch herausgestoßenen Fragen, die mehr nach Mißstimmung als nach
+               Teilnahme klangen, und nur Grete freute sich von Herzen und sprang ihm entgegen. Und
+               als nun Decken für ihn ausgebreitet lagen, stieg er ab und setzte sich an einen guten
+               Platz, der den Waldesschatten über sich und die sonnenbeschienene Lichtung vor sich
+               hatte.</p>
             <p>Grete pflückte Blumen und sagte: »Soll ich dir einen Kranz flechten?«</p>
             <p>Aber der Alte lächelte: »Noch nicht, Grete. Ich warte noch ein Weilchen.«</p>
             <p>Und sie sah ihn mit ihren großen Augen an und küßte stürmisch seine welke Hand. Denn
@@ -846,8 +842,8 @@
                Lichtung angekommen, verfolgten sie jetzt einen halbüberwachsenen Weg, der sich immer
                tiefer in den Wald hineinzog. Es glühte schon in den Wipfeln, da flog eine Libelle
                vor ihnen her, und Grete sagte: »Sieh, eine Seejungfer. Wo die sind, da muß auch
-               Wasser sein. Ein Sumpf<pb facs="#"/> oder ein Teich. Ob schon die Teichrosen blühn?
-               Ich liebe sie so. Laß uns danach suchen.«</p>
+               Wasser sein. Ein Sumpf<pb/> oder ein Teich. Ob schon die Teichrosen blühn? Ich liebe
+               sie so. Laß uns danach suchen.«</p>
             <p>Und so gingen sie weiter. Aber der Teich wollte nicht kommen, und plötzlich überfiel
                es Greten: »Wo sind wir, Valtin? Ich glaube, wir haben uns verirrt.«</p>
             <p>»Nicht doch. Ich höre ja noch Musik.«</p>
@@ -873,8 +869,8 @@
                mitten in ihrer Angst, und sie sagte nur: »Ich will nicht mehr weinen, Valtin. Du
                bist so gut. Und wer gut ist, dem zuliebe geschehen Zeichen und Wunder. Und siehe,
                dessen bin ich gewiß, wenn wir zu Gott um seine Hülfe bitten, dann hilft er auch und
-               führt uns aus dem Walde wieder ins Freie und wieder <pb facs="#"/> nach Haus. Gerade
-               wie damals die Jungfer Lorenz. Denn wir sind ja hier im Lorenzwald.«</p>
+               führt uns aus dem Walde wieder ins Freie und wieder <pb/> nach Haus. Gerade wie
+               damals die Jungfer Lorenz. Denn wir sind ja hier im Lorenzwald.«</p>
             <p>»Ja, Grete, da sind wir. Aber wenn der Hirsch käm und es wirklich gut mit uns meinte,
                dann trüg er uns an eine andre Stelle, denk ich, und nicht nach Haus. Denn wir haben
                eigentlich kein Haus, Grete. Du nicht, und ich auch nicht. Emrentz ist eine gute
@@ -899,10 +895,10 @@
                schritten flußaufwärts nebeneinander her. Die Sterne kamen und spiegelten sich, und
                nicht lange mehr, so hörten sie das Schlagen der Glocken, und die Turmspitze von
                Sankt Stephan stieg in dunklen Umrissen vor ihnen auf.</p>
-            <p>Es war neun Uhr, oder schon vorüber, als sie das Mindesche <pb facs="#"/> Haus
-               erreichten. Valtin trat mit in das untre Zimmer, in dem sich um diese Stunde nur noch
-               Trud und Gerdt befanden, und sagte: »Hier ist Grete. Wir hatten uns verirrt. Aber ich
-               bin schuld.« Und damit ging er wieder, während Grete verlegen in der Nähe der Türe
+            <p>Es war neun Uhr, oder schon vorüber, als sie das Mindesche <pb/> Haus erreichten.
+               Valtin trat mit in das untre Zimmer, in dem sich um diese Stunde nur noch Trud und
+               Gerdt befanden, und sagte: »Hier ist Grete. Wir hatten uns verirrt. Aber ich bin
+               schuld.« Und damit ging er wieder, während Grete verlegen in der Nähe der Türe
                stehenblieb.</p>
             <p>»Verirrt«, sagte jetzt Trud, und ihre Stimme zitterte. »Ja, verirrt. Ich denke, weil
                ihr's wolltet. Und wenn ihr's nicht wolltet, weil ihr ungehorsam wart und nicht Zucht
@@ -926,10 +922,10 @@
                schützen. Und ist er tot, so schütz ich mich selbst. Ja, ich schütze mich selbst.
                Hörst du, Trud.« Und sie ballte ihre kleinen Hände.</p>
             <p>Trud, in ihrem Gewissen getroffen, erkannte, daß sie zu weit gegangen, während Grete
-               plötzlich aller Scheu los und ledig <pb facs="#"/> war, die sie bis dahin vor ihrer
-               Schwieger gehabt hatte. Sie hatte das Gefühl eines vollkommenen Sieges und stieg, in
-               der Freude darüber, in den zweiten Stock hinauf. Oben fand sie Reginen und erzählte
-               ihr alles, was unten geschehen.</p>
+               plötzlich aller Scheu los und ledig <pb/> war, die sie bis dahin vor ihrer Schwieger
+               gehabt hatte. Sie hatte das Gefühl eines vollkommenen Sieges und stieg, in der Freude
+               darüber, in den zweiten Stock hinauf. Oben fand sie Reginen und erzählte ihr alles,
+               was unten geschehen.</p>
             <p>»Kind, Kind, das tut nicht gut, das kann sie dir nicht vergessen.«</p>
             <p>Aber Grete war übermütig geworden und sagte: »Sie fürchtet sich vor mir. Laß sehn;
                ich habe nun bessere Tage.«</p>
@@ -953,12 +949,12 @@
                dem alle Mitglieder des Hauses teilnahmen. Alle zeigten sich in gehobener Stimmung,
                der alte Jacob Minde aber, trotzdem er nur mit Mühe den Kirchgang gemacht hatte, war
                mitteilsamer denn seit lange, plauderte viel von seiner Jugend und seinem Alter und
-               sprach auch abwechselnd und ohne Scheu von Gerdts und von Gretens Mutter, als <pb
-                  facs="#"/> ob kein Unterschied wäre. Trud und Gerdt sahen dabei einander an, und
-               was in ihren Blicken sich ausgesprochen hatte, das sollte sich anderntags bestätigen.
-               Denn in aller Frühe schon lief es durch die Stadt, daß der alte Ratsherr auf den Tod
-               liege, und als um die sechste Stunde der Schein der niedergehenden Sonne drüben an
-               den Häuserfronten glühte, bat er Reginen, daß sie die Vorhänge zurückschieben und die
+               sprach auch abwechselnd und ohne Scheu von Gerdts und von Gretens Mutter, als <pb/>
+               ob kein Unterschied wäre. Trud und Gerdt sahen dabei einander an, und was in ihren
+               Blicken sich ausgesprochen hatte, das sollte sich anderntags bestätigen. Denn in
+               aller Frühe schon lief es durch die Stadt, daß der alte Ratsherr auf den Tod liege,
+               und als um die sechste Stunde der Schein der niedergehenden Sonne drüben an den
+               Häuserfronten glühte, bat er Reginen, daß sie die Vorhänge zurückschieben und die
                Kinder rufen solle. Und diese kamen, und Grete nahm seine Hand und küßte sie. Gleich
                danach aber winkte der Alte seine Schwieger zu sich heran und sagte: »Ich lege sie
                dir ans Herz, Trud. Erinnere dich allezeit an die Mahnung des Propheten: ›Laß die
@@ -981,8 +977,8 @@
                das ihre Erscheinung bis dahin gehabt hatte, schien mit diesem Tage von ihr
                gewichen.</p>
             <p>Die Orgel spielte, die Gemeinde sang, und als beide schwiegen, trat Gigas aus der
-               Sakristei und schritt auf die Altarstufen <pb facs="#"/> zu. Er schien noch ernster
-               als gewöhnlich, und sein Kopf mit dem spärlichen weißen Haar sah unbeweglich über die
+               Sakristei und schritt auf die Altarstufen <pb/> zu. Er schien noch ernster als
+               gewöhnlich, und sein Kopf mit dem spärlichen weißen Haar sah unbeweglich über die
                hohe Radkrause hinweg. Und nun begann er. Erst hart und herbe, wie fast immer die
                Strenggläubigen, wenn sie von Tod und Sterben sprechen; als er aber das Allgemeine
                ließ und vom Tod überhaupt auf diesen Toten kam, wurd er warm und vergaß aller
@@ -1007,9 +1003,9 @@
                den Kirchhof trugen. Denn ein Grab im Freien war sein Letzter Wille gewesen. Draußen
                aber, unter alten Kastanienbäumen, deren Laub sich herbstlich zu färben anfing,
                setzten sie den Sarg nieder, und als er hinabgelassen und das letzte Wort gesprochen
-               war, kehrten alle heim, und Trud und Gerdt schritten <pb facs="#"/> langsam die Lange
-               Straße hinunter, bis an das Mindesche Haus, das nun ihre war. Nur Grete war geblieben
-               und huschte heimlich in die Kirche zurück und setzte sich auf die Bahre, die noch an
+               war, kehrten alle heim, und Trud und Gerdt schritten <pb/> langsam die Lange Straße
+               hinunter, bis an das Mindesche Haus, das nun ihre war. Nur Grete war geblieben und
+               huschte heimlich in die Kirche zurück und setzte sich auf die Bahre, die noch an
                alter Stelle stand. Sie wollte beten, aber sie konnte nicht und sah immer nur Trud,
                so herb und streng, wie sie sie früher gesehen hatte, und fühlte deutlich, wie sich
                ihr das Herz dabei zusammenschnürte. Und eine Vorahnung überkam sie wie Gewißheit,
@@ -1036,9 +1032,9 @@
                ihn. Daß sie selber ein Herz habe und ein Glück verlange, daran dachte niemand; sie
                war nur da um andrer Glückes willen. Und das verbitterte sie.</p>
             <p>
-               <pb facs="#"/> Ein Trost war, daß sie Valtin häufiger sah. Denn Trud hatte für nichts
-               Sinn mehr als für das Kind, und nur selten, wenn sie sich aus Laune oder Zufall auf
-               ihr Hüteramt besann, fiel sie vorübergehend in ihre frühere Strenge zurück.</p>
+               <pb/> Ein Trost war, daß sie Valtin häufiger sah. Denn Trud hatte für nichts Sinn
+               mehr als für das Kind, und nur selten, wenn sie sich aus Laune oder Zufall auf ihr
+               Hüteramt besann, fiel sie vorübergehend in ihre frühere Strenge zurück.</p>
             <p>So vergingen die Tage, meist ohne Streit, aber noch mehr ohne Lust und Freud, und als
                es jährig war, daß sie den alten Minde von seinem Platz vor dem Altar auf den
                Kirchhof hinausgetragen hatten, ging Grete gen Sankt Stephan, um seiner an seinem
@@ -1063,8 +1059,8 @@
                Emrentz Mund, und wie sie sagte: ›Du seist ein guter Jung und machtest ihr das Leben
                nicht schwer, was du doch könntest, denn sie sei ja noch jung und deine Stief.‹ Aber
                das mißfiel unsrer Trud, und sie nahm ihren spöttischen Ton an und fragte nur: ob sie
-               denn <pb facs="#"/> blind sei. Und ob sie nicht säh, wie dir der Schalk im Nacken
-               säße. Du lachtest ja über sie.«</p>
+               denn <pb/> blind sei. Und ob sie nicht säh, wie dir der Schalk im Nacken säße. Du
+               lachtest ja über sie.«</p>
             <p>Valtins Augen waren immer größer geworden, aber Grete sah es nicht und fuhr
                unverändert fort: »Und das glaube nur, Regine hört alles und sieht alles. Und sie sah
                auch, wie sich Emrentz verfärbte, erst rot und dann erdfahl im ganzen Gesicht. Und so
@@ -1090,7 +1086,7 @@
                sagt ihm alles und sagt ihm auch, daß er schuld sei, ja er, er, und daß sie mich
                heiraten wolle, nächstens schon, wenn er nicht anders würde, ganz anders. Und dann
                lacht er immer, weil er es gern hört. Aber sie sagt es noch lieber.«</p>
-            <p>Grete, die, während er sprach, eine Menge der umherliegenden <pb facs="#"/> Kastanien
+            <p>Grete, die, während er sprach, eine Menge der umherliegenden <pb/> Kastanien
                gesammelt und aufgezogen hatte, hing sie sich jetzt als Schnur um den Hals und sagte:
                »Wie kleidet es mir?«</p>
             <p>»Ach, dir kleidet alles. Du weißt es ja, und alle Leute wissen's. Und sie sagen auch,
@@ -1120,9 +1116,9 @@
             <p>Sie schüttelte den Kopf. »Ich will eigentlich viel, Valtin.«</p>
             <p>»Ich glaub's nicht.«</p>
             <p>
-               <pb facs="#"/> »Doch, doch. Denn sieh, Liebe will ich, und das ist viel. Und ich kann
-               kein Unrecht sehn. Und wenn ich's seh, da gibt es mir einen Stich, hier gerad ins
-               Herz, und ich möchte dann weinen und schrein.«</p>
+               <pb/> »Doch, doch. Denn sieh, Liebe will ich, und das ist viel. Und ich kann kein
+               Unrecht sehn. Und wenn ich's seh, da gibt es mir einen Stich, hier gerad ins Herz,
+               und ich möchte dann weinen und schrein.«</p>
             <p>»Das ist es ja, Grete. Darum bist du ja so gut.« Und er nahm ihre Hand und drückte
                sie und sagte ihr, wie lieb er sie habe. Und dann sprach er leiser und fragte sie, ob
                sie sich nicht öfter sehen könnten, so wie heut, und so ganz wie von ungefähr. Und
@@ -1149,7 +1145,7 @@
                Scheunentore standen offen, und die Mädchen, die beim Flachsbrechen waren, sangen
                über den Hof hin:</p>
 
-            <pb facs="#"/>
+            <pb/>
 
             <l>»Es waren zwei Königskinder,</l>
             <l>Die hatten einander so lieb.</l>
@@ -1183,10 +1179,10 @@
                Türmen flankierten Wallgang mündete. Zwischen diesen Türmen aber lief eine dicke,
                niedrige Feldsteinmauer, die nur um ein paar Fuß höher war als der Wallgang selbst.
                Und auf diese Mauer setzten sie sich und sahen in die Landschaft hinaus. Zu Füßen
-               hatten sie den breiten <pb facs="#"/> Strom und die schmale Tanger, die spitzwinklig
-               in den Strom einmündete, drüben aber, am andern Ufer, dehnten sich die Wiesen, und
-               dahinter lag ein Schattenstrich, aus dessen Lichtungen hier und dort eine vom
-               Abendrot übergoldete Kirchturmspitze hervorblickte. Der Himmel blau, die Luft frisch;
+               hatten sie den breiten <pb/> Strom und die schmale Tanger, die spitzwinklig in den
+               Strom einmündete, drüben aber, am andern Ufer, dehnten sich die Wiesen, und dahinter
+               lag ein Schattenstrich, aus dessen Lichtungen hier und dort eine vom Abendrot
+               übergoldete Kirchturmspitze hervorblickte. Der Himmel blau, die Luft frisch;
                Sommerfäden zogen, und in das Geläut der ersten heimwärtsziehenden Herden mischte
                sich von weit her das Anschlagen der Abendglocke.</p>
             <p>»Ach, wie schön«, sagte Grete. »Jahr und Tag, daß ich nicht hier oben war. Und mir
@@ -1211,8 +1207,8 @@
                erst, als ich mein Aussprach mit ihr hatt. Und dann, Grete, du weißt ja, dann hast du
                mich.«</p>
             <p>Sie blickte sich scheu-verlegen um. Und als sie sah, daß sie von niemand belauscht
-               wurden, trat sie rasch auf ihn zu, strich <pb facs="#"/> ihm das Haar aus der Stirn
-               und sagte: »Ja, dich hab ich. Und ohne dich wär ich schon tot.«</p>
+               wurden, trat sie rasch auf ihn zu, strich <pb/> ihm das Haar aus der Stirn und sagte:
+               »Ja, dich hab ich. Und ohne dich wär ich schon tot.«</p>
             <p>Valtin zitterte vor Bewegung. Er erkannte wohl, wie tiefunglücklich sie sei, und
                sagte nur: »Was ist es, Grete? Sag es. Vielleicht, daß ich es mit dir tragen kann.
                Was drückt dich?«</p>
@@ -1240,9 +1236,9 @@
                warf sich auf die Knie und legte den Kopf auf den Stein und weinte bitterlich.</p>
             <p>»Es kommen andere Tage«, sagte Valtin. »Und wir wollen aushalten. Und wenn sie nicht
                kommen, eins mußt du wissen, Gret, ich tu alles, was du willst. Sage, daß ich hier
-               hinunter <pb facs="#"/> springe, so spring ich, und sage, daß du fort willst, so will
-               ich auch fort. Und wenn es in den Tod ging! Ich kann nicht leben ohne dich. Und ich
-               will auch nicht.«</p>
+               hinunter <pb/> springe, so spring ich, und sage, daß du fort willst, so will ich auch
+               fort. Und wenn es in den Tod ging! Ich kann nicht leben ohne dich. Und ich will auch
+               nicht.«</p>
             <p>Grete war aufgesprungen und sagte: »Das hab ich hören wollen. Das, das! Und nun kann
                ich wieder leben, weil ich dies Elend nicht mehr endlos seh. Ich weiß nun, daß ich's
                ändern kann, jeden Tag und jede Stunde. Sieh mich nicht so an. Erschrick nicht. Ich
@@ -1272,7 +1268,7 @@
 
 
 
-            <pb facs="#"/>
+            <pb/>
             <l>›Ach Mutter, herzliebste Mutter,</l>
             <l>Meine Schwester ist noch ein Kind,</l>
             <l>Sie pflückt ja all die Blumen,</l>
@@ -1302,8 +1298,8 @@
                alles war groß und weit und frei. Und zuletzt überkam es sie wie Frieden inmitten
                aller Sehnsucht, ihr Trotz wurde Demut, und an Stelle des bösen Engels, der ihren Tag
                beherrscht hatte, saß nun ihr guter Engel an ihrem Bett. Und wenn sie dann andren
-               Tags erwachte <pb facs="#"/> und hinuntersah auf den Garten und den Pfau auf seiner
-               Stange kreischen hörte, dann fragte sie sich: »Bist du noch du selbst? Bist du noch
+               Tags erwachte <pb/> und hinuntersah auf den Garten und den Pfau auf seiner Stange
+               kreischen hörte, dann fragte sie sich: »Bist du noch du selbst? Bist du noch
                unglücklich?« Und mitunter wußte sie's kaum. Aber freilich auch andere Tage kamen, wo
                sie's wußte, nur allzu gut, und wo weder ihr guter noch ihr böser Engel, weder ihre
                Demut noch ihr Trotz sie vor einem immer bitterer und leidenschaftlicher aufgärenden
@@ -1329,9 +1325,9 @@
                Mahnung an Trud enthalten hatte: »Lasse die Waisen Gnade bei dir finden.« Und nun
                flog sie wieder treppab und legte das Buch an seinen alten Platz. Trud aber hatte
                wohl bemerkt, was um sie her vorgegangen, und als sie mit Gerdt allein im Zimmer war,
-               sah sie nach und <pb facs="#"/> sagte, während sie sich verfärbte: »Sieh und lies!«
-               Und er nahm nun selber das Buch und las und lachte vor sich hin, wie wenn er sich
-               ihrer Niederlage freue. Denn seine hämische Natur kannte nichts Liebres als den Ärger
+               sah sie nach und <pb/> sagte, während sie sich verfärbte: »Sieh und lies!« Und er
+               nahm nun selber das Buch und las und lachte vor sich hin, wie wenn er sich ihrer
+               Niederlage freue. Denn seine hämische Natur kannte nichts Liebres als den Ärger
                andrer Leute, seine Frau nicht ausgenommen. Zwischen dieser aber und Greten
                unterblieb jedes Wort, und als der Fasching kam, den die Stadt diesmal ausnahmsweise
                prächtig mit Aufzügen und allerlei Mummenschanz feierte, schien der Zwischenfall
@@ -1355,13 +1351,13 @@
                nur zu begründeten Sorge lebten, um ihrer ungebührlichen und lästerlichen Rede willen
                zur Rechenschaft gezogen zu werden, waren andere, ihres Glaubens und Gewissens
                halber, in tiefer und ernster Bedrängnis. Unter ihnen Gigas. Und diese Bedrängnis
-               wuchs noch, als ihm am Nachmittage vorerwähnten <pb facs="#"/> Mittewochens durch
-               einen Herrn vom Hofe vermeldet wurde, daß Seine Kurfürstliche Durchlaucht um die
-               siebente Morgenstunde zu Sankt Stephan vorzusprechen und daselbst eine Frühpredigt zu
-               hören gedächten. Wie dem hohen Herrn begegnen? Dem Abtrünnigen, der vielleicht alles
-               in Stadt und Land zu Abfall und Untreue heranzwingen wollte! Und so mutig Gigas war,
-               es kam ihm doch ein Bangen und eine Schwachheit an. Aber er betete sich durch, und
-               als der andre Morgen da war, stieg er, ohne Menschenfurcht, die kleine Kanzeltreppe
+               wuchs noch, als ihm am Nachmittage vorerwähnten <pb/> Mittewochens durch einen Herrn
+               vom Hofe vermeldet wurde, daß Seine Kurfürstliche Durchlaucht um die siebente
+               Morgenstunde zu Sankt Stephan vorzusprechen und daselbst eine Frühpredigt zu hören
+               gedächten. Wie dem hohen Herrn begegnen? Dem Abtrünnigen, der vielleicht alles in
+               Stadt und Land zu Abfall und Untreue heranzwingen wollte! Und so mutig Gigas war, es
+               kam ihm doch ein Bangen und eine Schwachheit an. Aber er betete sich durch, und als
+               der andre Morgen da war, stieg er, ohne Menschenfurcht, die kleine Kanzeltreppe
                hinauf und predigte über das Wort des Heilands: »Gebet dem Kaiser, was des Kaisers,
                und Gott, was Gottes ist.« Und siehe da, die holzgeschnitzte Taube des Heiligen
                Geistes hatte nicht vergeblich über ihm geschwebt, und der Herr Kurfürst, nachdem er
@@ -1381,13 +1377,13 @@
                waren Peter Guntz und die Ratmannen, dazu die Geistlichen und Rectores aller fünf
                Kirchen, auf der Burg erschienen, um, nach abgestattetem Dank und wiederholter
                Versicherung unverbrüchlicher Treue, den Herrn Kurfürsten um die Gunst anzugehen, ihm
-               ein festlich Mahl herrichten zu dürfen. Aber in der Halle <pb facs="#"/> seiner
-               eigenen Burg, dieweilen ihre Rathaushalle zu klein sei, um die reiche Zahl der Gäste
-               zu fassen. Und alles war angenommen worden und hatte die Stadt um so mehr erfreut und
-               beglückt, als bei gnädiger Entlassung der Sprecher, unter denen sich auch Gerdt in
-               vorderster Reihe befunden, seitens Seiner Kurfürstlichen Durchlaucht der Hoffnung
-               Ausdruck gegeben worden war, die sittigen und ehrbaren Frauen der Stadt auf seiner
-               Burg mit erscheinen und an dem Festmahle teilnehmen zu sehn.</p>
+               ein festlich Mahl herrichten zu dürfen. Aber in der Halle <pb/> seiner eigenen Burg,
+               dieweilen ihre Rathaushalle zu klein sei, um die reiche Zahl der Gäste zu fassen. Und
+               alles war angenommen worden und hatte die Stadt um so mehr erfreut und beglückt, als
+               bei gnädiger Entlassung der Sprecher, unter denen sich auch Gerdt in vorderster Reihe
+               befunden, seitens Seiner Kurfürstlichen Durchlaucht der Hoffnung Ausdruck gegeben
+               worden war, die sittigen und ehrbaren Frauen der Stadt auf seiner Burg mit erscheinen
+               und an dem Festmahle teilnehmen zu sehn.</p>
             <p>Und nun war dieses Mahl, unter freundlichem Bei stand aller Dienerschaften des hohen
                Herrn, in kürzester Frist hergerichtet worden, und um die vierte Stunde bewegte sich
                der Zug der Geladenen, Männer und Frauen, die Lange Straße hinab, zur Burg hinauf.
@@ -1407,7 +1403,7 @@
                einfielen und die Paukenwirbel über den Fluß hin und bis weit hinaus in die
                Landschaft rollten, dann hielt der Fährmann sein Boot an, und die Koppelpferde
                horchten auf und sahen verwundert nach der sonst so stillen Burg hinüber.</p>
-            <pb facs="#"/>
+            <pb/>
          </div>
          <div type="chapter">
             <head>Zwölftes Kapitel</head>
@@ -1438,11 +1434,11 @@
                schreit es. Und es soll nicht wach sein, und noch weniger soll es schreien, denn ich
                will dich abholen.</p>
             <p>
-               <pb facs="#"/> Alle Welt ist draußen auf der Burg, und du bist hier allein, als wärst
-               du die Magd im Haus oder die Kindermuhme. Komm, es sieht uns niemand. Wir gehen an
-               den Gärten hin, und die Stadtmauer gibt uns Schatten. Und sind wir erst oben, da tun
-               wir, als fänden wir uns. Sieh, ich bin so neugierig. Und du bist es auch, nicht wahr?
-               Er ist ja doch eigentlich unser Landesherr. Und am End ist es ein Unrecht, ihn nicht
+               <pb/> Alle Welt ist draußen auf der Burg, und du bist hier allein, als wärst du die
+               Magd im Haus oder die Kindermuhme. Komm, es sieht uns niemand. Wir gehen an den
+               Gärten hin, und die Stadtmauer gibt uns Schatten. Und sind wir erst oben, da tun wir,
+               als fänden wir uns. Sieh, ich bin so neugierig. Und du bist es auch, nicht wahr? Er
+               ist ja doch eigentlich unser Landesherr. Und am End ist es ein Unrecht, ihn nicht
                gesehen zu haben, wenn man ihn sehen kann. Ich glaube, wir müssen ihn sehen, Grete.
                Was meinst du?«</p>
             <p>Grete lachte. »Wie gut du die Worte stellen kannst. Sonst heißt es immer, Eva sei
@@ -1466,9 +1462,9 @@
                Burghof gar nicht zu denken war.</p>
             <p>Und so schlug denn Valtin vor, wieder hügelabwärts zu steigen und drüben auf den
                Elbwiesen einen Spaziergang zu machen. Grete war es zufrieden, und erst als sie den
-               Fährmann <pb facs="#"/> angerufen und den Fluß gekreuzt hatten, wandten sie sich
-               wieder, um nun unbehindert auf die goldig im Scheine der Spätnachmittagssonne
-               daliegende Burg zurückzusehen und in die von drüben her herüberklingenden Lebehochs
+               Fährmann <pb/> angerufen und den Fluß gekreuzt hatten, wandten sie sich wieder, um
+               nun unbehindert auf die goldig im Scheine der Spätnachmittagssonne daliegende Burg
+               zurückzusehen und in die von drüben her herüberklingenden Lebehochs
                miteinzustimmen.</p>
             <p>Aber bald waren sie's müd, und sie gingen tiefer in die hoch in Gras stehende, mit
                Ranunkeln und rotem Ampfer übersäte Wiese hinein, bis sie zuletzt an einen niedrigen,
@@ -1494,11 +1490,11 @@
                mit ihren Storchennestern ließen sich überall erkennen.</p>
             <p>»Weißt du, wie die Dörfer heißen?« fragte Grete.</p>
             <p>»Gewiß weiß ich's. Das hier rechts ist Buch, wo der Herr von Buch lebte, der einen
-               Schatz in unsrer Tangermünder Kirche <pb facs="#"/> viele Jahre lang verborgen hielt,
-               um ihn zuletzt als Lösegeld für seinen Herrn Markgrafen zu zahlen. Denn die
-               Magdeburger hatten ihn gefangengenommen. Und er hieß Markgraf Otto. Otto mit dem
-               Pfeil. Ein schöner Herr und sehr ritterlich und war ein Dichter und liebte die
-               Frauen. Weißt du davon?«</p>
+               Schatz in unsrer Tangermünder Kirche <pb/> viele Jahre lang verborgen hielt, um ihn
+               zuletzt als Lösegeld für seinen Herrn Markgrafen zu zahlen. Denn die Magdeburger
+               hatten ihn gefangengenommen. Und er hieß Markgraf Otto. Otto mit dem Pfeil. Ein
+               schöner Herr und sehr ritterlich und war ein Dichter und liebte die Frauen. Weißt du
+               davon?«</p>
             <p>»Nein... Aber hier das Dorf mit dem blanken Wetterhahn?«</p>
             <p>»Das ist Fischbeck.«</p>
             <p>»Ach, das kenn ich. Da wohnt ja der alte Pfarr... aber nun hab ich seinen Namen
@@ -1522,13 +1518,13 @@
                nicht bloß in Märchenbüchern, viel, viel mehr, als du dir denken kannst, und mitunter
                ist es mir, als wären alle Menschen irgendeinmal ihrem Elend entlaufen.«</p>
             <p>Valtin schüttelte den Kopf.</p>
-            <p>»Du schüttelst den Kopf. Und sieh, das tu ich auch. Oder <pb facs="#"/> doch von Zeit
-               zu Zeit. Und so war es auch gestern, denn ich hatte wieder einen Traum gehabt, wieder
-               von Flucht, und es war, als flög ich, und mir war im Fliegen so wohl und so leicht.
-               Aber als ich aufwachte, war ich bedrückt und unruhig in meinem Gemüt. Und da dacht
-               ich, das soll ein Ende haben: du wirst Gigas fragen, der soll dir sagen, ob es etwas
-               Böses ist, zu fliehen. Und so ging ich zu ihm, gestern um die Mittagsstunde, trotzdem
-               ich wohl gehört hatte, daß er selber in Sorg und Unruh sei.«</p>
+            <p>»Du schüttelst den Kopf. Und sieh, das tu ich auch. Oder <pb/> doch von Zeit zu Zeit.
+               Und so war es auch gestern, denn ich hatte wieder einen Traum gehabt, wieder von
+               Flucht, und es war, als flög ich, und mir war im Fliegen so wohl und so leicht. Aber
+               als ich aufwachte, war ich bedrückt und unruhig in meinem Gemüt. Und da dacht ich,
+               das soll ein Ende haben: du wirst Gigas fragen, der soll dir sagen, ob es etwas Böses
+               ist, zu fliehen. Und so ging ich zu ihm, gestern um die Mittagsstunde, trotzdem ich
+               wohl gehört hatte, daß er selber in Sorg und Unruh sei.«</p>
             <p>»Und wie fandest du ihn?«</p>
             <p>»Ich fand ihn in seinem Garten zwischen den Beeten, und wir gingen auf und ab, wie
                er's gern tut, und sprachen vielerlei, und zuletzt auch von unserm Herrn Kurfürsten,
@@ -1550,10 +1546,10 @@
                wir nicht in Versuchung fallen, und zum zweiten, daß uns die Gnade Gottes überall, wo
                wir zweifelhaft und unsicher in unsrem Gemüte sind, den rechten Weg finden lasse.</p>
             <p>
-               <pb facs="#"/> Denn die richtigen Wege sind oft wechselvolle Wege, und wenn es heut
-               unsre Pflicht ist, zu gehorchen und auszuharren, so kann es morgen unsre Pflicht
-               sein, nicht zu gehorchen und uns durch Flucht einem schlimmen Ansinnen zu entziehn.
-               Aber eines gilt heut und immerdar: wir müssen in unsrem Tun, ob wir nun fliehen oder
+               <pb/> Denn die richtigen Wege sind oft wechselvolle Wege, und wenn es heut unsre
+               Pflicht ist, zu gehorchen und auszuharren, so kann es morgen unsre Pflicht sein,
+               nicht zu gehorchen und uns durch Flucht einem schlimmen Ansinnen zu entziehn. Aber
+               eines gilt heut und immerdar: wir müssen in unsrem Tun, ob wir nun fliehen oder
                ausharren, einem höheren Rufe Folge leisten.‹ Und nun erzählte er mir von dem
                Fischbeckschen Pastor und seiner Flucht.«</p>
             <p>»Aber er muß dir doch noch mehr erzählt haben?«</p>
@@ -1578,10 +1574,10 @@
             <p>Valtin sah sie bang und fragend an.</p>
             <p>»Du willst nicht? Sag's nur. Du fürchtest dich.«</p>
             <p>
-               <pb facs="#"/> »Ich will, Grete. Ganz gewiß, ich will. Aber ich muß es einsehen, daß
-               es nicht anders geht. Und hab ich dir's anders versprochen, damals auf der Burg, als
-               die Mädchen sangen und die Sommerfäden zogen, so darfst du mich nicht beim Worte
-               nehmen. Es war ein Unrecht.«</p>
+               <pb/> »Ich will, Grete. Ganz gewiß, ich will. Aber ich muß es einsehen, daß es nicht
+               anders geht. Und hab ich dir's anders versprochen, damals auf der Burg, als die
+               Mädchen sangen und die Sommerfäden zogen, so darfst du mich nicht beim Worte nehmen.
+               Es war ein Unrecht.«</p>
             <p>Sie warf den Kopf, aber sagte nichts und nahm seinen Arm. Und so schritten sie wieder
                auf die Fähre zu. Die Sterne waren bald herauf und spiegelten sich in dem stillen
                Strom, während Mückenschwärme wie Rauchsäulen über ihnen standen. Oben auf der Burg
@@ -1604,9 +1600,9 @@
                wieder und lief auf sie zu. Und sie umarmten sich und küßten sich. »Vergiß, Valtin,
                was ich gesagt hab. Ich weiß, daß du dich nicht fürchtest. Denn du liebst mich. Und
                die sich lieben, die fürchten sich nicht. Und nun noch eines. Komm in einer halben
-               Stund in den Garten, in euren, und wart auf mich. Mir ist so wunderlich, <pb facs="#"
-               /> und ich muß dich noch sehen. Denn sieh, ich weiß es, es geschieht etwas; ich fühl
-               es ganz deutlich hier.« Und dabei legte sie die Hand aufs Herz und zitterte.</p>
+               Stund in den Garten, in euren, und wart auf mich. Mir ist so wunderlich, <pb/> und
+               ich muß dich noch sehen. Denn sieh, ich weiß es, es geschieht etwas; ich fühl es ganz
+               deutlich hier.« Und dabei legte sie die Hand aufs Herz und zitterte.</p>
             <p>Und er versprach es, und sie trennten sich.</p>
          </div>
          <div type="chapter">
@@ -1633,11 +1629,11 @@
             <p>»Verboten?«</p>
             <p>»Ja! Und nun sieh das Kind. Ein Wunder Gottes, wenn es uns am Leben bleibt. Und wenn
                es stirbt, so bist du schuld.«</p>
-            <p>»Das darfst du nicht sagen, Trud,« antwortete Grete ruhig, <pb facs="#"/> während es
-               um ihren Mund zuckte. »Schilt mich. Schilt mich, daß ich ging, das darfst du, das
-               magst du tun. Aber du darfst mich nicht schelten um des Kindes willen. An dem Kind
-               ist nichts versäumt. Ich ließ es bei Reginen, und Regine, was sag ich, ist dreißig
-               Jahr im Haus. Und war Kindermuhme bei Gerdt, und dann war sie's bei mir und hat mich
+            <p>»Das darfst du nicht sagen, Trud,« antwortete Grete ruhig, <pb/> während es um ihren
+               Mund zuckte. »Schilt mich. Schilt mich, daß ich ging, das darfst du, das magst du
+               tun. Aber du darfst mich nicht schelten um des Kindes willen. An dem Kind ist nichts
+               versäumt. Ich ließ es bei Reginen, und Regine, was sag ich, ist dreißig Jahr im Haus.
+               Und war Kindermuhme bei Gerdt, und dann war sie's bei mir und hat mich
                großgezogen.«</p>
             <p>»Ja, das hat sie. Aber wozu? Du weißt es, und ich weiß es auch. Und die Stadt wird es
                bald genug erfahren... Armes Ding du! Aber's ist Erbschaft.«</p>
@@ -1660,11 +1656,11 @@
                dieses Haus nun los. Denn das stand fest in ihrer Seele, daß sie nicht länger bleiben
                könne. Fort. Gleich. Und sie flog die Treppe hinab und über Flur und Hof in den
                Garten.</p>
-            <p>Da wuchsen wieder die Himbeerbüsche wie damals, wo sie <pb facs="#"/> hier mit Valtin
-               zwischen dem hohen Gezweig gestanden und über den Hänfling und sein Nest geplaudert
-               hatte; aber ihre verwilderte Seele dachte jener Stunden stillen Glückes nicht mehr.
-               Sie kletterte nur rasch hinauf und horchte gespannt, ob Valtin schon da sei. Er war
-               es noch nicht. Und so sprang sie vom Zaun in den Zernitzschen Garten hinunter und
+            <p>Da wuchsen wieder die Himbeerbüsche wie damals, wo sie <pb/> hier mit Valtin zwischen
+               dem hohen Gezweig gestanden und über den Hänfling und sein Nest geplaudert hatte;
+               aber ihre verwilderte Seele dachte jener Stunden stillen Glückes nicht mehr. Sie
+               kletterte nur rasch hinauf und horchte gespannt, ob Valtin schon da sei. Er war es
+               noch nicht. Und so sprang sie vom Zaun in den Zernitzschen Garten hinunter und
                versteckte sich in der Laube.</p>
             <p>Denn daß er kommen würde, das wußte sie.</p>
             <p>Eine Viertelstunde war vergangen, als Grete Schritte vom Hofe her hörte. Er war es,
@@ -1687,8 +1683,8 @@
                mich, und wo das Herz fehlt, da fehlt das Beste.«</p>
             <p>»So willst du?«</p>
             <p>»Ja, Grete.«</p>
-            <p>»So laß uns gehen. In einer Stunde schon. Um elf wart ich <pb facs="#"/> draußen...
-               Und nun eile dich; denn mir brennt der Boden unter den Füßen.«</p>
+            <p>»So laß uns gehen. In einer Stunde schon. Um elf wart ich <pb/> draußen... Und nun
+               eile dich; denn mir brennt der Boden unter den Füßen.«</p>
             <p>Und damit trennten sie sich.</p>
 
             <p>Als Grete gleich darauf wieder drüben in ihrem eigenen Garten war, huschte sie den
@@ -1715,19 +1711,19 @@
                Licht genug, um alles deutlich erkennen zu lassen. Die Tür zu der Kammer nebenan
                stand offen, und Regine saß eingeschlafen am Fußende des Bettes. »'s ist gut so«,
                sagte Grete und öffnete Schrank und Truhe, nahm heraus, was ihr gut dünkte, band ein
-               schwarzes Seidentuch<pb facs="#"/> um ihren Kopf und verbarg unter ihrem Mieder ein
-               kleines Perlenhalsband, das ihr, an ihrem Einsegnungstage, vom alten Jacob Minde
-               geschenkt worden war. Anderes hatte sie nicht. Und nun war sie fertig und hielt ihr
-               Bündel in Händen. Aber sie konnte noch nicht fort. Nicht so. Und an der Schwelle der
-               Kammertür kniete sie nieder und rief Gott um seinen Beistand an, auch um seine
-               Verzeihung, wenn es ein Unrecht sei, was sie vorhabe. Und heiße Tränen begleiteten
-               ihr Gebet. Dann erhob sie sich und küßte Reginen, die schlaftrunken auffuhr und den
-               Namen ihres Lieblings nannte; aber ehe sie den Schlaf völlig abschütteln und sich
-               wieder zurechtfinden konnte, war Grete fort und glitt, mit ihrer Rechten sich
-               aufstützend, die steilen Stufen der Oberstiege hinunter. Und nun horchte sie wieder.
-               Das Kind wimmerte noch leis, und die Wiege ging in heftiger Schaukelbewegung, während
-               Trud, über das Kind gebeugt, rasch und ungeduldig ihre Wiegenlieder summte; Gerdt
-               schwieg. Vielleicht, daß er schon schlief.</p>
+               schwarzes Seidentuch<pb/> um ihren Kopf und verbarg unter ihrem Mieder ein kleines
+               Perlenhalsband, das ihr, an ihrem Einsegnungstage, vom alten Jacob Minde geschenkt
+               worden war. Anderes hatte sie nicht. Und nun war sie fertig und hielt ihr Bündel in
+               Händen. Aber sie konnte noch nicht fort. Nicht so. Und an der Schwelle der Kammertür
+               kniete sie nieder und rief Gott um seinen Beistand an, auch um seine Verzeihung, wenn
+               es ein Unrecht sei, was sie vorhabe. Und heiße Tränen begleiteten ihr Gebet. Dann
+               erhob sie sich und küßte Reginen, die schlaftrunken auffuhr und den Namen ihres
+               Lieblings nannte; aber ehe sie den Schlaf völlig abschütteln und sich wieder
+               zurechtfinden konnte, war Grete fort und glitt, mit ihrer Rechten sich aufstützend,
+               die steilen Stufen der Oberstiege hinunter. Und nun horchte sie wieder. Das Kind
+               wimmerte noch leis, und die Wiege ging in heftiger Schaukelbewegung, während Trud,
+               über das Kind gebeugt, rasch und ungeduldig ihre Wiegenlieder summte; Gerdt schwieg.
+               Vielleicht, daß er schon schlief.</p>
             <p>Und im nächsten Augenblicke war sie treppab, über Hof und Garten, und hielt draußen
                an der Pforte.</p>
             <p>Valtin wartete schon. Er hatte sich zu dem Joppenrock, den er gewöhnlich trug, auch
@@ -1742,11 +1738,11 @@
                Leiter an die Mauer, und Grete stieg hinauf. Und im nächsten Augenblicke war er
                selber oben und zog die Leiter nach und stellte sie nach außen. Und nun waren sie
                frei. Sie sahen sich an und atmeten auf, und der Zauber des um sie her liegenden
-               Bildes ließ sie minutenlang ihres Leids und<pb facs="#"/> ihrer Gefahr vergessen. Die
-               Nebel waren fortgezogen, silbergrüne Wiesen dehnten sich hüben und drüben, und
-               dazwischen flimmerte der Strom, über den der Mond eben seine Lichtbrücke baute.
-               Nichts hörbar als das Gemurmel des Wassers und die Glocken, die von einigen
-               Stadtkirchen her verspätet nachschlugen.</p>
+               Bildes ließ sie minutenlang ihres Leids und<pb/> ihrer Gefahr vergessen. Die Nebel
+               waren fortgezogen, silbergrüne Wiesen dehnten sich hüben und drüben, und dazwischen
+               flimmerte der Strom, über den der Mond eben seine Lichtbrücke baute. Nichts hörbar
+               als das Gemurmel des Wassers und die Glocken, die von einigen Stadtkirchen her
+               verspätet nachschlugen.</p>
             <p>Beide hatten sich angefaßt und eilten raschen Schrittes auf den Fluß zu.</p>
             <p>»Willst du hinüber?« fragte Grete.</p>
             <p>»Nein, ich will nur einen Kahn losmachen. Sie glauben dann, wir seien drüben.«</p>
@@ -1770,7 +1766,7 @@
                es.«</p>
             <p>»Ich versprech es. Alles, was du willst.«</p>
             <p>
-               <pb facs="#"/> »Und hältst es auch?«</p>
+               <pb/> »Und hältst es auch?«</p>
             <p>»Und halt es auch.«</p>
             <p>Und nun nahm sie wieder seine Hand, und sie schlugen den Weg ein, der sie bis an die
                große Waldwiese führte. Hier war es taghell fast, und sie zeigten einander die
@@ -1798,11 +1794,11 @@
                mehr.« Und es war alles wie damals, wo sie sich als Kinder im Walde verirrt hatten.
                Er aber bat sie, brav auszuhalten, bis sie wieder an eine hellere Stelle kämen. Und
                siehe, jetzt war es wirklich, als ob sich der Wald zu lichten begänne, die Stämme
-               standen in <pb facs="#"/> größeren Zwischenräumen, und Valtin sagte: »Hier, Grete,
-               hier wollen wir ruhn.« Und todmüde, wie sie war, warf sie sich nieder und streckte
-               sich ins Moos. Und schon im nächsten Augenblicke schlossen sich ihre Wimpern. Er
-               schob ihr ihr Reisebündel als Kissen unter und deckte sie leise mit seiner
-               Winterjacke zu, von der er sich selber nur ein Zipfelchen gönnte.</p>
+               standen in <pb/> größeren Zwischenräumen, und Valtin sagte: »Hier, Grete, hier wollen
+               wir ruhn.« Und todmüde, wie sie war, warf sie sich nieder und streckte sich ins Moos.
+               Und schon im nächsten Augenblicke schlossen sich ihre Wimpern. Er schob ihr ihr
+               Reisebündel als Kissen unter und deckte sie leise mit seiner Winterjacke zu, von der
+               er sich selber nur ein Zipfelchen gönnte.</p>
             <p>Und dann schlief er an ihrer Seite ein.</p>
          </div>
          <div type="chapter">
@@ -1826,8 +1822,8 @@
                bleib; es ist besser, ich geh allein.« Und eine kleine Weile, so kam er mit Brot und
                Milch zurück und hielt, als er Gretens ansichtig wurde, die Hände schon von weitem in
                die Höh, um zu zeigen, was er bringe, und sie setzten sich ins hohe Gras, den Fluß zu
-               Füßen und den <pb facs="#"/> Morgenhimmel über sich. »Wenn es uns immer so
-               schmeckt...«, sagte Valtin. Und Grete sah ihn freundlich an und nickte.</p>
+               Füßen und den <pb/> Morgenhimmel über sich. »Wenn es uns immer so schmeckt...«, sagte
+               Valtin. Und Grete sah ihn freundlich an und nickte.</p>
             <p>Als sie so saßen und mehr träumten als sprachen, bemerkten sie, daß mitten auf dem
                Strom ein großes Floß geschwommen kam, lange zusammengebolzte Stämme, auf denen sich
                vier Personen deutlich erkennen ließen: drei Männer und eine Frau. Zwei von den
@@ -1853,13 +1849,13 @@
                zufrieden, und der älteste, schon ein Mann über fünfzig, und allem Anscheine nach der
                Führer, lüpfte seine viereckige, mit Pelz besetzte Mütze und bot Greten und gleich
                darauf auch Valtin seine Hand, um ihnen beim Hinaufsteigen auf das Floß behülflich zu
-               sein. Es war ziemlich an der Hinterseite, nicht weit von dem <pb facs="#"/> großen
-               Drehbalken, der als Steuer diente, und unsere beiden Flüchtlinge nahmen in Nähe
-               desselben Platz. Alles gefiel ihnen, und Grete freute sich, daß Valtin den Mut gehabt
-               und die Flößer angerufen hatte; am besten aber gefiel ihnen der Mann am Steuer, der
-               lebhaft und lustig war und sich beflissen zeigte, sie zu zerstreuen und ihnen den
-               Aufenthalt angenehm zu machen. Er plauderte mit ihnen, so gut es ein paar Wörter
-               zuließen, und war erfinderisch in immer neuen Aufmerksamkeiten.</p>
+               sein. Es war ziemlich an der Hinterseite, nicht weit von dem <pb/> großen Drehbalken,
+               der als Steuer diente, und unsere beiden Flüchtlinge nahmen in Nähe desselben Platz.
+               Alles gefiel ihnen, und Grete freute sich, daß Valtin den Mut gehabt und die Flößer
+               angerufen hatte; am besten aber gefiel ihnen der Mann am Steuer, der lebhaft und
+               lustig war und sich beflissen zeigte, sie zu zerstreuen und ihnen den Aufenthalt
+               angenehm zu machen. Er plauderte mit ihnen, so gut es ein paar Wörter zuließen, und
+               war erfinderisch in immer neuen Aufmerksamkeiten.</p>
             <p>Als die Sonne schon ziemlich hoch stand, sah er, daß die vom Wasser zurückgeworfenen
                Strahlen die jungen Leute blendeten, und kaum daß er es wahrgenommen, als er auch
                schon das Steuer in Valtins Hand legte und sich daranmachte, mit Benutzung
@@ -1880,8 +1876,8 @@
                füllten sie frisch mit Wasser und trugen ihren großen Fang wie im Triumph auf die
                Mitte des Floßes, wo schon seit einiger Zeit ein hell aufwirbelnder Küchenrauch die
                Vorbereitungen zu einer Mahlzeit anzudeuten schien. Und in der Tat hantierte hier
-               emsig und lärmend ein junges <pb facs="#"/> Frauenzimmer umher, das mit seinen
-               stechenden, kohlschwarzen Augen wohl dann und wann zu den neuen Ankömmlingen flüchtig
+               emsig und lärmend ein junges <pb/> Frauenzimmer umher, das mit seinen stechenden,
+               kohlschwarzen Augen wohl dann und wann zu den neuen Ankömmlingen flüchtig
                herübergesehen, im übrigen aber durch seine ganze Haltung weder Freude noch Teilnahme
                bezeigt hatte.</p>
             <p>Und immer weiter ging die Fahrt, und immer stiller wurde der Tag. Auch der Mann am
@@ -1907,8 +1903,8 @@
                des Mahles hin, sich über ihr Wohlleben verwunderte, lachte der Alte und beschrieb
                einen Kreis mit seiner Rechten, als ob er andeuten wolle, daß ihm Ufer und
                Landschaft, mit allem, was darauf fleucht und kreucht, tributpflichtig seien.</p>
-            <p>Und nun war das Mahl beendet, und Valtin und Grete, nach <pb facs="#"/> dem sie
-               gedankt, erhoben sich und suchten wieder ihr Zelt in Nähe des Steuers auf.</p>
+            <p>Und nun war das Mahl beendet, und Valtin und Grete, nach <pb/> dem sie gedankt,
+               erhoben sich und suchten wieder ihr Zelt in Nähe des Steuers auf.</p>
             <p>Sie mußten, an Neumühlen vorüber, schon meilenweit gefahren sein und hätten sich zu
                jeglichem um sie her beglückwünschen können, wenn nicht das junge Frauenzimmer mit
                den blanken Flechten und den schwarzen Stechaugen gewesen wäre. Valtin hatte nichts
@@ -1934,8 +1930,8 @@
                Sie werden uns berauben wollen. Und setzest du dich zur Wehr, so ist es unser letzter
                Tag.«</p>
             <p>Valtin überlegte hin und her und sagte dann: »Ich fürcht, es ist, wie du sagst. Und
-               so müssen wir wieder fliehen. Ach, immer <pb facs="#"/> fliehen! Auch noch auf der
-               Flucht eine Flucht.« Und er seufzte leise.</p>
+               so müssen wir wieder fliehen. Ach, immer <pb/> fliehen! Auch noch auf der Flucht eine
+               Flucht.« Und er seufzte leise.</p>
             <p>Grete hörte die Klage wohl heraus, aber sie hörte zugleich auch, daß es kein Vorwurf
                war, und so nahm sie seine Hand und sah ihn bittend an. Kannte sie doch ihre Macht
                über ihn. Und diese Macht blieb ihr auch diesmal treu, und alles war wieder gut.</p>
@@ -1961,22 +1957,21 @@
             <head>Drei Jahre später</head>
             <p>Drei Jahre waren seitdem vergangen, und wieder färbte der Herbst die Blätter rot;
                allüberall in der Altmark, und nicht zum wenigsten in dem Städtchen Arendsee, dessen
-               endlos lange Straße, zugleich seine einzige, nach links hin aus Häusern und <pb
-                  facs="#"/> Gärten, nach rechts hin aus Klostergebäuden und zwischenliegenden
-               Heckenzäunen bestand. Hinter einem dieser Heckenzäune, der abwechselnd von Dorn und
-               Liguster gebildet wurde, ließ sich ein auf Säulen ruhender Kreuzgang erkennen, in
-               dessen quadratischer Mitte der Klosterkirchhof lag, wild und verwahrlost, aber in
-               seiner Verwahrlosung nur um so schöner. Einige hoch aufgemauerte Grabsteine
-               schimmerten aus allerlei Herbstesblumen und dichtem Grase hervor, die meisten aber
-               versteckten sich im Schatten alter Birnbäume, deren ungestützte Zweige mit ihrer Last
-               bis tief zu Boden hingen. Vorüberziehende Fremde würden sich des Bildes gefreut
-               haben, das eben jetzt, bei niedergehender Sonne, von absonderer Schönheit war; ein
-               paar Arendseesche Bürger aber, Handwerker und Ackersleute zugleich, die mit ihrem
-               Gespann vom Felde hereinkamen, achteten des wohlbekannten Anblicks nicht und hielten
-               erst, als sie schon dreißig Schritt über den Heckenzaun hinaus waren und an der
-               andern Seite der Straße dreier hochbepackter Wagen ansichtig wurden, die hier, vor
-               einer alten Ausspannung mit tiefer Einfahrt, den ohnehin schmalen Weg beinah
-               versperrten.</p>
+               endlos lange Straße, zugleich seine einzige, nach links hin aus Häusern und <pb/>
+               Gärten, nach rechts hin aus Klostergebäuden und zwischenliegenden Heckenzäunen
+               bestand. Hinter einem dieser Heckenzäune, der abwechselnd von Dorn und Liguster
+               gebildet wurde, ließ sich ein auf Säulen ruhender Kreuzgang erkennen, in dessen
+               quadratischer Mitte der Klosterkirchhof lag, wild und verwahrlost, aber in seiner
+               Verwahrlosung nur um so schöner. Einige hoch aufgemauerte Grabsteine schimmerten aus
+               allerlei Herbstesblumen und dichtem Grase hervor, die meisten aber versteckten sich
+               im Schatten alter Birnbäume, deren ungestützte Zweige mit ihrer Last bis tief zu
+               Boden hingen. Vorüberziehende Fremde würden sich des Bildes gefreut haben, das eben
+               jetzt, bei niedergehender Sonne, von absonderer Schönheit war; ein paar Arendseesche
+               Bürger aber, Handwerker und Ackersleute zugleich, die mit ihrem Gespann vom Felde
+               hereinkamen, achteten des wohlbekannten Anblicks nicht und hielten erst, als sie
+               schon dreißig Schritt über den Heckenzaun hinaus waren und an der andern Seite der
+               Straße dreier hochbepackter Wagen ansichtig wurden, die hier, vor einer alten
+               Ausspannung mit tiefer Einfahrt, den ohnehin schmalen Weg beinah versperrten.</p>
             <p>»Süh, Kersten, doa sinn se all. Awers hüt wahrd et nix mihr.«</p>
             <p>»Nei, hüt nich. Un weet'st all, Hanne, se speelen joa nicht blot mihr mit Zocken un
                Puppen. Se kümmen joa nu sülwer 'rut.«</p>
@@ -1990,10 +1985,10 @@
                saßen sie jetzt zu vier um den Tisch der großen Schenkstube herum, ihrem Aufputz und
                ihrer Redeweise nach oberdeutsches Volk, und vertaten das Geld, das ihnen der
                Salzwedelsche Michaelismarkt eingebracht hatte. Denn von daher kamen sie. Zwei
-               derselben alte Bekannte von uns. Der Schwarzhaarige, mit einer Narbe quer <pb
-                  facs="#"/> über der Stirn, war derselbe, den wir an jenem hellen Julivormittag, an
-               dem unsere Geschichte begann, an der Emrentz Fenster vorüber seinen Umritt hatten
-               machen sehn, und der neben ihm, ja, das mußte, wenn nicht alles täuschte, der Hagre,
+               derselben alte Bekannte von uns. Der Schwarzhaarige, mit einer Narbe quer <pb/> über
+               der Stirn, war derselbe, den wir an jenem hellen Julivormittag, an dem unsere
+               Geschichte begann, an der Emrentz Fenster vorüber seinen Umritt hatten machen sehn,
+               und der neben ihm, ja, das mußte, wenn nicht alles täuschte, der Hagre,
                Schlackerbeinige mit dem weißen Hemd und der hohen Filzmütze sein, der bei Tage die
                Pauke gerührt und am Abend, in seinem hölzernen Abbild wenigstens, den
                Polizeischergen des »Jüngsten Gerichtes« gemacht hatte. Ja, sie waren es wirklich,
@@ -2023,9 +2018,9 @@
 
 
             <p>
-               <pb facs="#"/> »Ja, das haben sie, das haben sie«, schrien alle durcheinander, und
-               der Wirt wiederholte seinerseits: »Ein guter Spruch ihr Herren. Bloß daß die
-               Arendseeschen drin vergessen sind.«</p>
+               <pb/> »Ja, das haben sie, das haben sie«, schrien alle durcheinander, und der Wirt
+               wiederholte seinerseits: »Ein guter Spruch ihr Herren. Bloß daß die Arendseeschen
+               drin vergessen sind.«</p>
             <p>»Ei, warum vergessen! Solch Sprüchel ist ja nicht wie 's Vaterunser, wo nichts zukann
                und nichts weg. Was ihm fehlt, das machen wir dazu. Könnt Ihr nicht einen Reim
                machen, Wirt? Ein Wirt muß alles können, reimen und rechnen.«</p>
@@ -2057,8 +2052,8 @@
             <p>»Gut, gut. Meinetwegen. Lassen wir die Junker und die Nonnen. Es muß auch Nonnen
                geben. Nicht wahr, Zenobia?«</p>
             <p>
-               <pb facs="#"/> Diese zog ihre rote Drapierung nur noch fester um ihre Schultern und
-               schwieg in königlicher Würde weiter.</p>
+               <pb/> Diese zog ihre rote Drapierung nur noch fester um ihre Schultern und schwieg in
+               königlicher Würde weiter.</p>
             <p>»Un hebben fifteig'n Nonnen dato! Wahrhaftig, Wirt, das habt Ihr gut gemacht, sehr
                gut. Ihr könnt't uns die Stücke schreiben. Was meinst, Nazerl, wir haben schon
                schlechtre gehabt! Aber singen wir; du singst vor, Matthes.«</p>
@@ -2096,8 +2091,8 @@
 
 
             <p>
-               <pb facs="#"/> »Das ist recht. Der liebste Buhle, den ich hab... das gefällt mir. Der
-               Nazi hat's getroffen. Was meinst, Zenobia?«</p>
+               <pb/> »Das ist recht. Der liebste Buhle, den ich hab... das gefällt mir. Der Nazi
+               hat's getroffen. Was meinst, Zenobia?«</p>
             <p>Und alle wiederholten den Vers und stießen mit ihren Kannen und Bechern zusammen.</p>
             <p>»Ihr müßt nicht so lärmen, sagte jetzt der, der mit Bacharach am Rheine« so wenig
                durchgedrungen war. »Er liegt grad über uns, und ich glaub, er macht es nicht lange
@@ -2126,11 +2121,10 @@
             <p>»Doch, doch. Viel, viel mehr, als du glaubst. Denn sieh, ich habe nur an mich
                gedacht; das war es; da liegt meine Schuld.</p>
             <p>
-               <pb facs="#"/> Es kommt alles von Gott, auch das Unrecht, das man uns antut, und wir
-               müssen es tragen lernen. Das hat mir Gigas oft gesagt, so oft; aber ich wollt es
-               nicht tragen und hab aufgebäumt in Haß und in Ungeduld. Und in meinem Haß und meiner
-               Ungeduld hab ich dich mit fortgezwungen und habe dich um Glück und Leben
-               gebracht.«</p>
+               <pb/> Es kommt alles von Gott, auch das Unrecht, das man uns antut, und wir müssen es
+               tragen lernen. Das hat mir Gigas oft gesagt, so oft; aber ich wollt es nicht tragen
+               und hab aufgebäumt in Haß und in Ungeduld. Und in meinem Haß und meiner Ungeduld hab
+               ich dich mit fortgezwungen und habe dich um Glück und Leben gebracht.«</p>
             <p>Er schüttelte den Kopf und wiederholte nur leise: »Laß es, Grete. Du hast mich nicht
                um das Glück gebracht. Es war nur anders als andrer Leute Glück. Weißt du noch, als
                wir auf dem Floß fuhren und das Schilf streiften und die Wasservögel aufflogen, ach,
@@ -2153,15 +2147,14 @@
                Wenigstens sah er sich um, als such er etwas. Und wirklich, neben seinem Lager stand
                ein Hafenglas, drin ihm aus Brotrinden und dünnem Essig ein Getränk gemacht worden
                war. Aber der Geschmack widerstand ihm, und er wies es zurück und sagte: »Wasser.«
-               Und Grete holte den <pb facs="#"/> Wasserkrug herbei, der groß und unhandlich und
-               viel zu schwer war, um draus zu trinken, und als sie noch unschlüssig dastand und
-               überlegte, wie sie den Trunk ihm reichen solle, hob er sich mühsam auf und sagte
-               lächelnd: »Aus deiner Hand, Gret: ein paar Tropfen bloß. Ich brauche nicht viel.« Und
-               sie tat's und gab ihm. Als er aber getrunken, hielt sie sich nicht länger mehr und
-               rief, während sie halb im Gebet und halb in Verzweiflung ihre Hände gen Himmel
-               streckte: »Ach, daß ich leben muß! Valtin, mein einzig Geliebter, nimm mich mit dir,
-               mich und unser Kind. Was hier noch war, warst du. Nun gehst du. Und wir sind unnütz
-               auf dieser Welt.«</p>
+               Und Grete holte den <pb/> Wasserkrug herbei, der groß und unhandlich und viel zu
+               schwer war, um draus zu trinken, und als sie noch unschlüssig dastand und überlegte,
+               wie sie den Trunk ihm reichen solle, hob er sich mühsam auf und sagte lächelnd: »Aus
+               deiner Hand, Gret: ein paar Tropfen bloß. Ich brauche nicht viel.« Und sie tat's und
+               gab ihm. Als er aber getrunken, hielt sie sich nicht länger mehr und rief, während
+               sie halb im Gebet und halb in Verzweiflung ihre Hände gen Himmel streckte: »Ach, daß
+               ich leben muß! Valtin, mein einzig Geliebter, nimm mich mit dir, mich und unser Kind.
+               Was hier noch war, warst du. Nun gehst du. Und wir sind unnütz auf dieser Welt.«</p>
             <p>»Nein, Grete, nicht unnütz. Und du mußt leben, leben um des Kindes willen. Auch wenn
                es dir schwer wird. Und du wirst es, denn du hattest immer einen tapfern und guten
                Mut. Ich weiß davon. Und nun hör mich und tu, wie ich dir sage. Aber bücke dich;
@@ -2183,11 +2176,11 @@
             <p>»Ach, daß es käme, wie du sagst! Aber ich kenn ihn besser. Er wird mir drohn und mich
                von seiner Schwelle weisen, mich und das Kind, und wird uns böse Namen geben.«</p>
             <p>
-               <pb facs="#"/> »Ich fürcht es nicht. Aber wenn er härter ist, als ich ihn schätze,
-               dann geh ihn an um dein Erbe, das wird er dir nicht weigern können. Und dann suche
-               dir einen stillen Platz und gründe dir ein neues Heim und einen eigenen Herd. Tu's,
-               Gret. Ich weiß, du hast ein trotzig Gemüt; aber bezwinge dich um des Kindes willen.
-               Versprich mir's. Willst du?«</p>
+               <pb/> »Ich fürcht es nicht. Aber wenn er härter ist, als ich ihn schätze, dann geh
+               ihn an um dein Erbe, das wird er dir nicht weigern können. Und dann suche dir einen
+               stillen Platz und gründe dir ein neues Heim und einen eigenen Herd. Tu's, Gret. Ich
+               weiß, du hast ein trotzig Gemüt; aber bezwinge dich um des Kindes willen. Versprich
+               mir's. Willst du?«</p>
             <p>»Ich will.«</p>
             <p>Es schien, daß sie noch weitersprechen wollt, aber in diesem Augenblicke trat Zenobia
                ein und sagte: »Denk, Gret, 's gibt noch a Spiel heut. Den ›Sündfall‹ wollen s'. Das
@@ -2213,10 +2206,10 @@
                die gestern, vor Beginn des Spiels, ein langes rotes Tuch um die Schulter, am
                Eingange gesessen hatte.</p>
             <p>
-               <pb facs="#"/> Es war klar, daß nur der alte Prediger Roggenstroh den Fall
-               entscheiden konnte; und ehe Mittag heran war, wußte jeder, daß er ihn entschieden
-               habe und wie. Grete selber hatte, neben einer eindringlichen Ermahnung, das Nein aus
-               seinem Munde hören müssen.</p>
+               <pb/> Es war klar, daß nur der alte Prediger Roggenstroh den Fall entscheiden konnte;
+               und ehe Mittag heran war, wußte jeder, daß er ihn entschieden habe und wie. Grete
+               selber hatte, neben einer eindringlichen Ermahnung, das Nein aus seinem Munde hören
+               müssen.</p>
             <p>Da war nun große Not und Trübsal, und es wurd erst wieder lichter um Gretens Herz,
                als sich die Wirtin ihrer erbarmte und ihr anriet, drüben ins Kloster zu den Nonnen
                zu gehen, die würden schon Rat schaffen und ihr zu helfen wissen, wär es auch nur,
@@ -2239,9 +2232,9 @@
                wirrer um sie her lag, als sie beim ersten Anblick erwartet. Wo nicht die Birnbäume
                mit ihren tief herabhängenden Zweigen alles überdeckten, standen Dill- und
                Fencheldolden, hoch in Samen geschossen; dazwischen aber allerhand verspätete
-               Kräuter, Thymian und Rosmarin, und füllten die Luft mit ihrem würzigen <pb facs="#"/>
-               Duft. Und sie blieb stehen, duckte sich und hob sich wieder, und es war ihr, als ob
-               diese wuchernde Gräberwildnis, diese Pfadlosigkeit unter Blumen, sie mit einem
+               Kräuter, Thymian und Rosmarin, und füllten die Luft mit ihrem würzigen <pb/> Duft.
+               Und sie blieb stehen, duckte sich und hob sich wieder, und es war ihr, als ob diese
+               wuchernde Gräberwildnis, diese Pfadlosigkeit unter Blumen, sie mit einem
                geheimnisvollen Zauber umspinne. Endlich hatte sie das Ende des Kirchhofes erreicht,
                und sie sah zwischen den Bogen hindurch, die das Viereck auch nach dieser Seite hin
                abschlossen, auf den in der Tiefe liegenden Klostersee, den nach links hin, ein paar
@@ -2270,7 +2263,7 @@
                seine Herrin erst frei, als diese sich nach der Tür hinwandte und in halblautem Tone
                fragte: »Wen suchst du, Kind?«</p>
             <p>
-               <pb facs="#"/> »Ich suche die Domina.«</p>
+               <pb/> »Ich suche die Domina.«</p>
             <p>»Das ist sie.« Und dabei zeigte sie nach dem Stuhl gegenüber.</p>
             <p>Die Gestalt, die hier bis dahin zusammengekauert gesessen hatte, richtete sich jetzt
                auf, und Grete sah nun, daß es eine sehr alte Dame war, aber mit scharfen Augen, aus
@@ -2299,10 +2292,10 @@
                sich's besser.«</p>
             <p>»Ja, Domina.«</p>
             <p>
-               <pb facs="#"/> »Sieh, Kind, das sag ich auch. Und ich warte nun schon manches Jahr
-               und manchen Tag darauf. Aber der Tag will nicht kommen. Denn du mußt wissen, ich
-               werde fünfundneunzig und war schon geboren und getauft, als der Wittenbergsche Doktor
-               gen Worms ging und vor Kaiser Carolus Quintus stand. Ja, Kind, ich habe viele Zeiten
+               <pb/> »Sieh, Kind, das sag ich auch. Und ich warte nun schon manches Jahr und manchen
+               Tag darauf. Aber der Tag will nicht kommen. Denn du mußt wissen, ich werde
+               fünfundneunzig und war schon geboren und getauft, als der Wittenbergsche Doktor gen
+               Worms ging und vor Kaiser Carolus Quintus stand. Ja, Kind, ich habe viele Zeiten
                gesehen, und sie waren nicht schlechter, als unsre Zeiten sind. Und morgen um die
                neunte Stunde, da komm nur herauf mit deinem Toten, und da soll er sein Grab haben.
                Ein Grab bei uns. Und nicht an schlechter Stell und unter Unkraut; nein, wir wollen
@@ -2326,10 +2319,10 @@
             <p>Und so kam der andre Morgen.</p>
             <p>Die neunte Stunde war noch nicht heran, als ganz Arendsee die Klosterglocke läuten
                hörte. Und auch Roggenstroh hörte sie; das verdroß ihn. Aber ob es ihn verdroß oder
-               nicht, von der tiefen Einfahrt des Gasthofes her setzte sich ein seltsamer <pb
-                  facs="#"/> Zug in Bewegung, ein Begräbnis, wie die Stadt noch keines gesehen; denn
-               die vier Puppenspieler trugen den Sarg, der auf eine Leiter gestellt worden war, und
-               hinter ihnen her ging Grete, nur auf Zenobia gestützt, die sich heute von allem Rot
+               nicht, von der tiefen Einfahrt des Gasthofes her setzte sich ein seltsamer <pb/> Zug
+               in Bewegung, ein Begräbnis, wie die Stadt noch keines gesehen; denn die vier
+               Puppenspieler trugen den Sarg, der auf eine Leiter gestellt worden war, und hinter
+               ihnen her ging Grete, nur auf Zenobia gestützt, die sich heute von allem Rot
                entkleidet und statt dessen an ihren Spitzhut wieder ihren langen schwarzen Schleier
                mit den Goldsternchen befestigt hatte. Und dann kamen Kinder aus der Stadt, die
                vordersten ernst und traurig, die letzten spielend und lachend, und so ging es die
@@ -2352,9 +2345,9 @@
                während der kurzen Zeremonie von den verwilderten Beeten gepflückt hatten.</p>
             <p>Bald danach war nur noch Grete da und sah auf den Fliederbusch, der bestimmt schien,
                das Grab zu schützen. Ein Vogel flog auf und über sie hin und setzte sich dann auf
-               eine Hanfstaude und wiegte sich. »Ein Hänfling!« sagte sie. Und die Bilder <pb
-                  facs="#"/> vergangener Tage stiegen vor ihr auf; ihr Schmerz löste sich, und sie
-               warf sich nieder und weinte bitterlich.</p>
+               eine Hanfstaude und wiegte sich. »Ein Hänfling!« sagte sie. Und die Bilder <pb/>
+               vergangener Tage stiegen vor ihr auf; ihr Schmerz löste sich, und sie warf sich
+               nieder und weinte bitterlich.</p>
             <p>Als sie sich erhob, sah sie, daß Ilse, die mit den andern gegangen war, zwischen den
                Rundbögen wieder herauf- und auf sie zukam, allem Anscheine nach, um ihr eine
                Botschaft zu bringen. Und so war es. »Komm, Grete«, sagte sie, »die Domina will dich
@@ -2382,13 +2375,13 @@
                ihm versprochen. Und ich will es halten.«</p>
             <p>»Und wann willst du gehen?«</p>
             <p>»Gleich.«</p>
-            <p>»Das ist gut. Ein guter Wille kann schwach werden, und wir <pb facs="#"/> müssen das
-               Gute tun, solange wir noch Kraft haben und die Lust dazu lebendig in uns ist. Sonst
-               zwingen wir's nicht. Und nun gib ihr einen Imbiß, Ilse, und eine Zehrung für den Weg.
-               Und noch eins, Grete: halt an dich, auch wenn es fehlschlägt, und wisse, daß du hier
-               eine Freistatt hast. Und eine Freistatt ist fast so gut wie eine Heimstatt. Und nun
-               knie nieder und höre mein Letztes und mein Bestes: ›Der Herr segne dich und behüte
-               dich und gebe dir seinen Frieden.‹ Ja, seinen Frieden; den brauchen wir alle, aber du
+            <p>»Das ist gut. Ein guter Wille kann schwach werden, und wir <pb/> müssen das Gute tun,
+               solange wir noch Kraft haben und die Lust dazu lebendig in uns ist. Sonst zwingen
+               wir's nicht. Und nun gib ihr einen Imbiß, Ilse, und eine Zehrung für den Weg. Und
+               noch eins, Grete: halt an dich, auch wenn es fehlschlägt, und wisse, daß du hier eine
+               Freistatt hast. Und eine Freistatt ist fast so gut wie eine Heimstatt. Und nun knie
+               nieder und höre mein Letztes und mein Bestes: ›Der Herr segne dich und behüte dich
+               und gebe dir seinen Frieden.‹ Ja, seinen Frieden; den brauchen wir alle, aber du
                Arme, du brauchst ihn doppelt. Und nun geh und eile dich und laß von dir hören.«</p>
             <p>Grete küßte der Alten die Hand und ging. Ilse mit ihr. Als diese zurückkam und ihren
                vorigen Platz an der Efeuwand eingenommen hatte, sagte die Domina: »Wir sehen sie
@@ -2408,10 +2401,10 @@
                letzte Worte gewesen, so mußte sie gegen die vierte Stund an Ort und Stelle sein.</p>
             <p>Der Weg ging anfänglich über Wiesen. Es war schon alles herbstlich; der rote Ampfer,
                der sonst in breiten Streifen an dieser Stelle blühte, stand längst in Samen, und die
-               Vögel sangen nicht mehr; aber der Himmel wölbte sich blau, und die Sommerfäden<pb
-                  facs="#"/> zogen, und mitunter war es ihr, als vergäße sie alles Leids, das sie
-               drückte. Ein tiefer Frieden lag über der Natur. »Ach, stille Tage!« sagte sie leise
-               vor sich hin.</p>
+               Vögel sangen nicht mehr; aber der Himmel wölbte sich blau, und die Sommerfäden<pb/>
+               zogen, und mitunter war es ihr, als vergäße sie alles Leids, das sie drückte. Ein
+               tiefer Frieden lag über der Natur. »Ach, stille Tage!« sagte sie leise vor sich
+               hin.</p>
             <p>Nach den Wiesen kam Wald. Junge Tannen wechselten mit alten Eichen, und überall da,
                wo diese standen, war eine kräftigere Luft, die Grete begierig einsog. Denn es war
                immer schwüler geworden, und die Sonne brannte.</p>
@@ -2437,8 +2430,8 @@
                frug, ob er sie mitnehmen wolle. »Eine kleine Strecke nur!«</p>
             <p>»Dat will ick jiern. Stejg man upp, Deern.«</p>
             <p>
-               <pb facs="#"/> Und Grete tat's und setzte sich neben ihn, und sie fuhren still in den
-               Wald hinein. Endlich sagte der Bauer: »Kümmst vun Arendsee?«</p>
+               <pb/> Und Grete tat's und setzte sich neben ihn, und sie fuhren still in den Wald
+               hinein. Endlich sagte der Bauer: »Kümmst vun Arendsee?«</p>
             <p>»Ja«, sagte Grete.</p>
             <p>»Denn wihrst ook in 't Kloster? Jott, de oll Domina! Fiefunneijentig. Na, lang kann't
                joa nich mihr woahren. Un denn kümmt uns' Ils ran. De wahrd et.«</p>
@@ -2467,10 +2460,10 @@
             <p>Sie wurde rot, aber er hatt es nicht acht und bog nach rechts hin in den Feldweg
                ein.</p>
             <p>
-               <pb facs="#"/> Es war noch zwei Stunden Wegs, und Grete, die sich von der Anstrengung
-               des Marsches erholt hatte, schritt wieder rüstiger vorwärts. Auch die Schwüle ließ
-               nach; ein Wind ging und kühlte die Luft und ihr die Stirn. Und sie hatte wieder guten
-               Mut und gefiel sich darin, sich ihr künftiges Leben auszumalen. Aber sonderbar, sie
+               <pb/> Es war noch zwei Stunden Wegs, und Grete, die sich von der Anstrengung des
+               Marsches erholt hatte, schritt wieder rüstiger vorwärts. Auch die Schwüle ließ nach;
+               ein Wind ging und kühlte die Luft und ihr die Stirn. Und sie hatte wieder guten Mut
+               und gefiel sich darin, sich ihr künftiges Leben auszumalen. Aber sonderbar, sie
                begann es immer vom andern Ende her, und je weiter es ab und in allerfernste Zukunft
                hineinlag, desto heller und lichter erschien es ihr. Als aber zuletzt ihre Gedanken
                und Vorstellungen auch auf das Nah- und Nächstliegende kamen und sie sich in Gerdts
@@ -2492,7 +2485,7 @@
                schluchzte und ward erst wieder ruhiger, als sie die Goldkapsel fühlte, das einzige,
                was ihr aus alten Tagen her geblieben war. Und sie öffnete sie und schloß sie wieder
                und preßte sie voll Inbrunst an ihre Lippen.</p>
-            <pb facs="#"/>
+            <pb/>
          </div>
          <div type="chapter">
             <head>Achtzehntes Kapitel</head>
@@ -2520,9 +2513,9 @@
                gegenüber hielt. Es war nichts da, was sie hätte stören oder überraschen können. In
                allem derselbe Anblick wie früher. Da waren noch die Nischen, auf deren Steinplatten
                sie, lang, lang eh Trud ins Haus kam, mit Valtin gesessen und geplaudert hatte, und
-               dort oben die Giebelfenster, die jetzt aufstanden, um die Frische des<pb facs="#"/>
-               Abends einzulassen, das waren ihre Fenster. Dahinter hatte sie geträumt, geträumt so
-               vieles, so Wunderbares. Aber doch nicht das.</p>
+               dort oben die Giebelfenster, die jetzt aufstanden, um die Frische des<pb/> Abends
+               einzulassen, das waren ihre Fenster. Dahinter hatte sie geträumt, geträumt so vieles,
+               so Wunderbares. Aber doch nicht das.</p>
             <p>In diesem Augenblicke ging drüben die Tür, und ein Knabe, drei- oder vierjährig, lief
                auf die Stelle zu, wo Grete stand. Sie sah wohl, wer es war, und wollt ihn bei der
                Hand nehmen; aber er riß sich los und huschte bang und ängstlich in eines der
@@ -2549,13 +2542,13 @@
             <p>»Valtin ist tot...«</p>
             <p>»Ist er? So!«</p>
             <p>
-               <pb facs="#"/> »Valtin ist tot, und ich bin allein. Ich hab ihm auf seinem
-               Sterbebette versprechen müssen, euch um Verzeihung zu bitten. Und da bin ich nun und
-               tu's und bitte dich um eine Heimstatt und um einen Platz an deinem Herd. Ich bin müde
-               des Umherfahrens und will still und ruhig werden. Ganz still. Und ich will euch
-               dienen; das soll meine Buße sein.« Und sie warf sich, als sie so gesprochen, mit
-               einem heftigen Entschlusse vor ihm nieder, mehr rasch als reuig, und sah ihn fragend
-               und mit sonderbarem Ausdruck an. Das Kind aber hielt sie mit der Linken unter ihrem
+               <pb/> »Valtin ist tot, und ich bin allein. Ich hab ihm auf seinem Sterbebette
+               versprechen müssen, euch um Verzeihung zu bitten. Und da bin ich nun und tu's und
+               bitte dich um eine Heimstatt und um einen Platz an deinem Herd. Ich bin müde des
+               Umherfahrens und will still und ruhig werden. Ganz still. Und ich will euch dienen;
+               das soll meine Buße sein.« Und sie warf sich, als sie so gesprochen, mit einem
+               heftigen Entschlusse vor ihm nieder, mehr rasch als reuig, und sah ihn fragend und
+               mit sonderbarem Ausdruck an. Das Kind aber hielt sie mit der Linken unter ihrem
                Mantel.</p>
             <p>Gerdt war in seiner bequemen Lage geblieben und sah an die Zimmerdecke hinauf.
                Endlich sagte er: »Buße! Nein, Grete, du bist nicht bußfertig geworden. Ich kenne
@@ -2576,11 +2569,11 @@
                es ist nichts Böses an dieser meiner Hand. Hier lieg ich; ich habe mich vor dir
                niedergeworfen, nimm mich wieder auf! Hilf mir, und wenn nicht mir, so hilf dem
                Kind.«</p>
-            <p>Gerdt sah auf die kniende Frau, gleichgültig und mitleidslos, <pb facs="#"/> und
-               sagte, während er den Kopf hin und her wiegte: »Ich mag ihm nicht Vater sein und
-               nicht Vormund und Berater. Du hast es so gewollt, nun hab es. Es schickt sich gut,
-               daß du's unterm Mantel trägst, denn ein Mantelkind ist es. Bei seinem vollen Namen
-               will ich's nicht nennen.«</p>
+            <p>Gerdt sah auf die kniende Frau, gleichgültig und mitleidslos, <pb/> und sagte,
+               während er den Kopf hin und her wiegte: »Ich mag ihm nicht Vater sein und nicht
+               Vormund und Berater. Du hast es so gewollt, nun hab es. Es schickt sich gut, daß du's
+               unterm Mantel trägst, denn ein Mantelkind ist es. Bei seinem vollen Namen will ich's
+               nicht nennen.«</p>
             <p>Und er ließ sie liegen und griff nach dem Aktenbündel, als ob er der Störung müde sei
                und wieder lesen wolle.</p>
             <p>Grete war jetzt aufgesprungen, und ein Blick unendlichen Hasses schoß aus ihren
@@ -2605,9 +2598,9 @@
                ihn auf den Tisch stellte. Denn es dunkelte schon. Sie waren kein plaudrig Ehepaar,
                und die stummen Abende waren in ihrem Hause zu Hause; heut aber stellte Trud allerlei
                Fragen, und Gerdt, dem es unbehaglich war, erzählte schließlich von dem, was die
-               letzte Stunde gebracht<pb facs="#"/> hatte. Über alles ging er rasch hinweg; nur als
-               er an das Wort »Erbe« kam, konnt er davon nicht los und wiederholte sich's zweimal,
-               dreimal und zwang sich zu lachen.</p>
+               letzte Stunde gebracht<pb/> hatte. Über alles ging er rasch hinweg; nur als er an das
+               Wort »Erbe« kam, konnt er davon nicht los und wiederholte sich's zweimal, dreimal und
+               zwang sich zu lachen.</p>
             <p>Trud aber, als er so sprach, war an das Fenster getreten und klopfte mit ihren Nägeln
                an die Scheiben, wie sie zu tun pflegte, wenn sie zornig war. Endlich wandte sie sich
                wieder und sagte: »Und was glaubst du, was nun geschieht?«</p>
@@ -2632,7 +2625,7 @@
             <p>»Ihr sprecht von der Frau«, sagte das Kind. »Ich weiß. Sie hat mich bei der Hand
                nehmen wollen. Drüben. Aber ich habe mich vor ihr gefürchtet und von ihr
                losgerissen.«</p>
-            <pb facs="#"/>
+            <pb/>
          </div>
          <div type="chapter">
             <head>Neunzehntes Kapitel</head>
@@ -2659,14 +2652,14 @@
                etwas Milch. Als ihr diese gebracht worden, verabschiedete sie sich rasch und stieg
                in die Bodenkammer hinauf, darin ihr die Wirtin ein Bett und eine Wiege gestellt
                hatte. Und todmüde von den Anstrengungen des Tags, warf sie sich nieder und schlief
-               ein. Bis um Mitternacht, wo das Kind unruhig zu werden anfing. Sie hörte sein<pb
-                  facs="#"/> Wimmern und nahm es auf, und als sie's gestillt und wieder eingewiegt,
-               öffnete sie das Fenster, das den Blick auf die Vorstadtsgärten und dahinter auf
-               weite, weite Stoppelfelder hatte. Der Mond war unter, aber die Sterne glitzerten in
-               beinah winterlicher Pracht, und sie sah hinauf in den goldenen Reigen und streckte
-               beide Hände danach aus. »Gott, erbarme dich mein!« Und sie kniete nieder und küßte
-               das Kind. Und ihren Kopf auf dem Kissen und ihre rechte Hand über die Wiege gelegt,
-               so fand sie die Wirtin, als sie bei Tagesanbruch eintrat, um sie zu wecken.</p>
+               ein. Bis um Mitternacht, wo das Kind unruhig zu werden anfing. Sie hörte sein<pb/>
+               Wimmern und nahm es auf, und als sie's gestillt und wieder eingewiegt, öffnete sie
+               das Fenster, das den Blick auf die Vorstadtsgärten und dahinter auf weite, weite
+               Stoppelfelder hatte. Der Mond war unter, aber die Sterne glitzerten in beinah
+               winterlicher Pracht, und sie sah hinauf in den goldenen Reigen und streckte beide
+               Hände danach aus. »Gott, erbarme dich mein!« Und sie kniete nieder und küßte das
+               Kind. Und ihren Kopf auf dem Kissen und ihre rechte Hand über die Wiege gelegt, so
+               fand sie die Wirtin, als sie bei Tagesanbruch eintrat, um sie zu wecken.</p>
             <p>Der Schlaf hatte sie gestärkt, und noch einmal fiel es wie Licht und Hoffnung in ihr
                umdunkeltes Gemüt, ja, ein frischer Mut kam ihr, an den sie selber nicht mehr
                geglaubt hatte. Jeder im Rate kannte sie ja, und der alte Peter Guntz war ihres
@@ -2689,7 +2682,7 @@
 
             <l>Hastu Gewalt, so richte recht,</l>
             <l>Gott ist dein Herr und du sein Knecht;</l>
-            <pb facs="#"/>
+            <pb/>
             <l>Verlaß dich nicht auf dein' Gewalt,</l>
             <l>Dein Leben ist hier bald gezahlt,</l>
             <l>Wie du zuvor hast 'richtet mich,</l>
@@ -2720,8 +2713,8 @@
                Guntz selbst, der so viel gesehen und erlebt hatte, daß ihn nichts mehr verwundersam
                bedünkte, zeigte keine Betroffenheit und sagte freundlich: »Ich kenn dich wohl. Armes
                Kind. Was bringst du, Grete? Was führt dich her?«</p>
-            <p>»Ich komm, um zu klagen wider meinen Bruder Gerdt, der <pb facs="#"/> mir mein Erbe
-               weigert. Und dessen, denk ich, hat er kein Recht. Ich kam in diese Stadt, um
+            <p>»Ich komm, um zu klagen wider meinen Bruder Gerdt, der <pb/> mir mein Erbe weigert.
+               Und dessen, denk ich, hat er kein Recht. Ich kam in diese Stadt, um
                wiedergutzumachen, was ich gefehlt, und wollte dienen und arbeiten und bitten und
                beten. Und das alles um dieses meines Kindes willen. Aber Gerdt Minde hat mich von
                seiner Schwelle gewiesen: er mißtraut mir; und vielleicht, daß er's darf. Denn ich
@@ -2751,7 +2744,7 @@
                Rickharts her.«</p>
             <p>»Und dies sagt Ihr an Eides Statt, Ratsherr Minde!«</p>
             <p>
-               <pb facs="#"/> »Ja, Peter Guntz.«</p>
+               <pb/> »Ja, Peter Guntz.«</p>
             <p>»Dann, so sich nicht Widerspruch erhebt, weis ich dich ab mit deiner Klage. Das ist
                tangermündisch Recht. Aber eh ich dich, Grete Minde, die du zu Spruch und Beistand
                uns angerufen hast, aus diesem unserem Gericht entlasse, frag ich dich, Gerdt Minde,
@@ -2782,7 +2775,7 @@
             <p>Nur Peter Guntz war in Sorg und Unruh über das Urtel, das er hatte sprechen müssen.
                »Ein unbillig Recht, ein totes Recht.« Und er hob die Sitzung auf und ging ohne Gruß
                und Verneigung an Gerdt Minde vorüber.</p>
-            <pb facs="#"/>
+            <pb/>
          </div>
          <div type="chapter">
             <head>Zwanzigstes Kapitel</head>
@@ -2813,22 +2806,22 @@
                andren Platze suchten und ihn nicht finden könnten. Grete sah es alles. Und sie sog
                die feuchte Luft ein und ging weiter. Ihr war so frei.</p>
             <p>
-               <pb facs="#"/> Als sie das zweite Mal ihren Zirkelgang gemacht und wieder das Tor und
-               seinen inneren Vorplatz erreicht hatte, verlangte sie's nach einer kurzen Rast. Eine
-               von den Scheunen, die mit dem Vorplatz grenzte, dünkte ihr am bequemsten dazu. Das
-               Dach war schadhaft und die Lehmfüllung an vielen Stellen aus dem Fachwerk
-               herausgeschlagen. Und sie bückte sich und schlüpfte durch eines dieser Löcher in die
-               Scheune hinein. Diese war nur halb angefüllt, zumeist mit Stroh und Werg, und wo der
-               First eingedrückt war, hing die Dachung in langen Wiepen herunter. Sie setzte sich in
-               den Werg, als wolle sie schlafen. Aber sie schlief nicht, von Zeit zu Zeit vielmehr
-               erhob sie sich, um unter das offene Dach zu treten, wo der Himmel finster-wolkig und
-               dann wieder in heller Tagesbläue hereinsah. Endlich aber blieb die Helle fort, und
-               sie wußte nun, daß es wirklich Abend geworden. Und darauf hatte sie gewartet. Sie
-               bückte sich und tappte nach ihrem Bündel, das sie beiseite gelegt, und als sie's
-               gefunden und sich wieder aufgerichtet hatte, gab es in dem Dunkel einen blassen,
-               bläulichen Schein, wie wenn sie einen langen Feuerfaden in ihrer Hand halte. Und nun
-               ließ sie den Faden fallen und kroch, ohne sich umzusehen, aus der Fachwerköffnung
-               wieder ins Freie hinaus.</p>
+               <pb/> Als sie das zweite Mal ihren Zirkelgang gemacht und wieder das Tor und seinen
+               inneren Vorplatz erreicht hatte, verlangte sie's nach einer kurzen Rast. Eine von den
+               Scheunen, die mit dem Vorplatz grenzte, dünkte ihr am bequemsten dazu. Das Dach war
+               schadhaft und die Lehmfüllung an vielen Stellen aus dem Fachwerk herausgeschlagen.
+               Und sie bückte sich und schlüpfte durch eines dieser Löcher in die Scheune hinein.
+               Diese war nur halb angefüllt, zumeist mit Stroh und Werg, und wo der First
+               eingedrückt war, hing die Dachung in langen Wiepen herunter. Sie setzte sich in den
+               Werg, als wolle sie schlafen. Aber sie schlief nicht, von Zeit zu Zeit vielmehr erhob
+               sie sich, um unter das offene Dach zu treten, wo der Himmel finster-wolkig und dann
+               wieder in heller Tagesbläue hereinsah. Endlich aber blieb die Helle fort, und sie
+               wußte nun, daß es wirklich Abend geworden. Und darauf hatte sie gewartet. Sie bückte
+               sich und tappte nach ihrem Bündel, das sie beiseite gelegt, und als sie's gefunden
+               und sich wieder aufgerichtet hatte, gab es in dem Dunkel einen blassen, bläulichen
+               Schein, wie wenn sie einen langen Feuerfaden in ihrer Hand halte. Und nun ließ sie
+               den Faden fallen und kroch, ohne sich umzusehen, aus der Fachwerköffnung wieder ins
+               Freie hinaus.</p>
             <p>Wohin? In die Stadt? Dazu war es noch zu früh, und so suchte sie nach einem schon
                vorher von ihr bemerkten, aus Ziegel und Feldstein aufgemauerten Treppenstück, das,
                von der Innenseite der Stadtmauer her, in einen alten, längst abgetragenen
@@ -2839,10 +2832,10 @@
                war. So saß sie und wartete; lange; aber es kam keine Ungeduld über sie. Endlich
                drängte sich ein schwarzer Qualm aus der Dachöffnung, und im nächsten Augenblicke
                lief es in roten Funken über den First hin, und alles Holz- und Sparrenwerk knisterte
-               auf, als ob Reisig von den Flammen gefaßt worden wäre. Dazu wuchs der <pb facs="#"/>
-               Wind, und wie aus einem zugigen Schlot heraus fuhren jetzt die brennenden Wergflocken
-               in die Luft. Einige fielen seitwärts auf die Nachbarscheunen nieder, andre aber trieb
-               der Nordwester vorwärts auf die Stadt, und eh eine Viertelstunde um war, schlug an
+               auf, als ob Reisig von den Flammen gefaßt worden wäre. Dazu wuchs der <pb/> Wind, und
+               wie aus einem zugigen Schlot heraus fuhren jetzt die brennenden Wergflocken in die
+               Luft. Einige fielen seitwärts auf die Nachbarscheunen nieder, andre aber trieb der
+               Nordwester vorwärts auf die Stadt, und eh eine Viertelstunde um war, schlug an
                zwanzig Stellen das Feuer auf, und von allen Kirchen her begann das Stürmen der
                Glocken. »Das ist Sankt Stephan«, jubelte Grete, und dazwischen, in wirrem Wechsel,
                summte sie Kinderlieder vor sich hin und rief in schrillem Ton und mit erhobener Hand
@@ -2866,8 +2859,8 @@
                fuhr damit in der Glutasche des Herdes umher. Und nun tropfte das Licht und brannte
                hell und groß, viel zu groß, als daß der Zugwind es wieder hätte löschen können. Und
                so ging sie den Flur zurück, bis vorn an die Tür, und öffnete rasch und wandte sich
-               auf das Fenster zu, von dem aus Trud <pb facs="#"/> und ihr Kind nach wie vor auf die
-               Straße hinausstarrten. Und jetzt stand sie zwischen beiden.</p>
+               auf das Fenster zu, von dem aus Trud <pb/> und ihr Kind nach wie vor auf die Straße
+               hinausstarrten. Und jetzt stand sie zwischen beiden.</p>
             <p>»Um Gottes Barmherzigkeit willen«, schrie Trud und sank bei dem Anblick der in vollem
                Irrsinn vor ihr Stehenden ohnmächtig in den Stuhl. Und dabei ließ sie den Knaben los,
                den sie bis dahin angst- und ahnungsvoll an ihrer Hand gehalten hatte.</p>
@@ -2892,11 +2885,11 @@
                denen aber, die hinaufwiesen, war auch Gerdt. Den hatte sie mit ihrer ganzen Seele
                gesucht, und jetzt packte sie seinen Knaben und hob ihn auf das Lukengebälk, daß er
                frei dastand und im Widerscheine des Feuers von unten her in aller Deutlichkeit
-               gesehen werden <pb facs="#"/> konnte. Und Gerdt sah ihn wirklich und brach in die
-               Knie und schrie um Hülfe, und alles um ihn her vergaß der eigenen Not und drängte dem
-               Portal der Kirche zu. Aber ehe noch die Vordersten es erreichen oder gar die Stufen
-               der Wendeltreppe gewinnen konnten, stürzte die Schindeldecke prasselnd zusammen, und
-               das Gebälk zerbrach, an dem die Glocken hingen, und alles ging niederwärts in die
+               gesehen werden <pb/> konnte. Und Gerdt sah ihn wirklich und brach in die Knie und
+               schrie um Hülfe, und alles um ihn her vergaß der eigenen Not und drängte dem Portal
+               der Kirche zu. Aber ehe noch die Vordersten es erreichen oder gar die Stufen der
+               Wendeltreppe gewinnen konnten, stürzte die Schindeldecke prasselnd zusammen, und das
+               Gebälk zerbrach, an dem die Glocken hingen, und alles ging niederwärts in die
                Tiefe.</p>
 
             <p>Den Tag danach saßen Ilse Schulenburg und die Domina wieder an der Efeuwand ihres
