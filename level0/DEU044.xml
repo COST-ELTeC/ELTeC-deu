@@ -45,24 +45,25 @@
       </revisionDesc>
    </teiHeader>
    <text>
+      <front>  <div type="liminal">
+         <head>Vorwort.</head>
+         <p>Die wissenschaftlichen Grundlagen dieser in Gestalt eines Romans gekleideten
+            Bilder aus dem sechsten Jahrhundert enthalten meine in folgenden Werken
+            niedergelegten Forschungen:</p>
+         <p>Die Könige der Germanen. II. III. IV. Band. München und Würzburg 1862–1866.</p>
+         <p>Prokopius von Cäsarea. Ein Beitrag zur Historiographie der Völkerwanderung und des
+            sinkenden Römertums. Berlin 1865.</p>
+         <p>Aus diesen Darstellungen mag der Leser die Ergänzungen und Veränderungen, die der
+            Roman an der Wirklichkeit vorgenommen, erkennen.</p>
+         <p>Das Werk ist 1859 in München begonnen, in Italien, zumal Ravenna, weitergeführt,
+            und 1876 in Königsberg abgeschlossen worden.</p>
+         
+         <p> Königsberg, Januar 1876.</p>
+         <p>Felix Dahn.</p>
+      </div>
+      </front>
       <body>
-         <div type="chapter">
-               <head>Vorwort.</head>
-               <p>Die wissenschaftlichen Grundlagen dieser in Gestalt eines Romans gekleideten
-                  Bilder aus dem sechsten Jahrhundert enthalten meine in folgenden Werken
-                  niedergelegten Forschungen:</p>
-               <p>Die Könige der Germanen. II. III. IV. Band. München und Würzburg 1862–1866.</p>
-               <p>Prokopius von Cäsarea. Ein Beitrag zur Historiographie der Völkerwanderung und des
-                  sinkenden Römertums. Berlin 1865.</p>
-               <p>Aus diesen Darstellungen mag der Leser die Ergänzungen und Veränderungen, die der
-                  Roman an der Wirklichkeit vorgenommen, erkennen.</p>
-               <p>Das Werk ist 1859 in München begonnen, in Italien, zumal Ravenna, weitergeführt,
-                  und 1876 in Königsberg abgeschlossen worden.</p>
-
-               <p> Königsberg, Januar 1876.</p>
-               <p>Felix Dahn.</p>
-         </div>
-         <div type="group">
+           <div type="group">
             <head>Erstes Buch: Theoderich</head>
             <div type="chapter">
                <head>Erstes Kapitel.</head>
