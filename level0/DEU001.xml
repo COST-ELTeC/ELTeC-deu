@@ -2102,10 +2102,10 @@
             </div>
             <div type="group">
                <head>Zweites Buch</head>
-               <div type="group">
+               <div type="chapter">
                   <head>Erstes Kapitel.</head>
-                  <div type="chapter">
-                  <head>Die letzte Spinte.</head>
+                  
+                  <p>Die letzte Spinte.</p>
                   <p>Ehe noch Adrian mit seinen Gästen das Haus am See erreichte, zeigte das Läuten
                      der Glocke auf der Fabrik die Mittagsstunde an, die zugleich diejenige Zeit
                      war, wo die Arbeiter einander ablösten, ohne den Gang der Maschinen zu
@@ -2334,11 +2334,11 @@
                      schnell hoch aufloheten, und setzte sich wieder an den Tisch.</p>
                   <p>Haideröschen begann:</p>
 
-                  </div>
-                  <div type="chapter">
-                     <head>Das Mährchen von den andächtigen Sängern. Dies und die folgenden kurzen
+                  
+                  
+                     <p>Das Mährchen von den andächtigen Sängern. Dies und die folgenden kurzen
                         Mährchen sind wörtlich dem trefflichen Werke ›Volkslieder der Ober-und
-                        Niederlausitz‹ von Haupt und Schmaler herausgegeben entlehnt. </head>
+                        Niederlausitz‹ von Haupt und Schmaler herausgegeben entlehnt. </p>
                      <p>»Es geschah aber, daß der Herr Christus und der heilige Petrus in der Welt
                         herumwandelten. Und sie kamen in ein Dörflein, wo man in einem Hause so
                         schön sang. Und der Herr Christus blieb stehen, um zuzuhören, der heilige
@@ -2376,10 +2376,10 @@
                      <p>»Nun was Lustiges!« rief Clemens. »Das Lied war zwar hübsch und recht
                         herzerquickend, wenn aber Haideröschen ihr Purpurglöckchen läutet, klingt's
                         doch noch viel schöner. Was meint Ihr?«</p>
-                     <p>»Ach ja, Röschen muß uns noch eins ihrer <pb/> Mährchen erzählen!« riefen
-                        einige von den Mädchen.</p>
                      <p>»Aber was recht Lustiges, das bitt' ich mir aus!« sagte nochmals der
                         lebhafte Clemens.</p>
+                     <p>»Ach ja, Röschen muß uns noch eins ihrer <pb/> Mährchen erzählen!« riefen
+                        einige von den Mädchen.</p>
                      <p>»Ich weiß aber nichts, das so lustig ist.«</p>
                      <p>»Warum denn nicht? Besinne Dich nur!«</p>
                      <p>»Das hilft nicht. Wenn mir's nicht gleich einfällt, so kommt auch beim
@@ -2405,9 +2405,9 @@
                      <p>Röschen, noch blühender aussehend, wie gewöhnlich, blinzelte mit ihren
                         strahlenden Augen Clemens zu und begann abermals:</p>
 
-                  </div>
-                  <div type="chapter">
-                     <head>Die Geschichte vom armen Manne, der die vielen Kinder hatte.</head>
+                  
+                  
+                     <p>Die Geschichte vom armen Manne, der die vielen Kinder hatte.</p>
                      <p>»Es war aber einmal ein Vater und eine Mutter, die hatten eine große Schaar
                         Kinder. Da fuhr der Vater einmal in die Stadt und kaufte ein Viertel
                         Eicheln. Als er nach Hause kam, gab er jedem Kinde eine, und da blieb noch
@@ -2510,9 +2510,9 @@
                         freundlichsten Miene von der Welt: Zum Schluß der Spinte das Mährchen
                         von</p>
 
-                  </div>
-                  <div type="chapter">
-                     <head>Diter Bernhard.</head>
+                  
+                  
+                     <p>Diter Bernhard.</p>
                      <p>»Es war aber einmal ein vornehmer, frommer Herr mit Namen Diter Bernhard, so
                         fromm, daß er seine Kleidung in die Sonnenstäubchen hängen konnte, ohne zu
                         fürchten, daß sie auf die Erde fielen. Er ging jeden Sonntag in die Kirche
@@ -2539,7 +2539,7 @@
                         Abschiede die Hand, bedankten sich für gute Bewirthung und heitere
                         Unterhaltung, und verließen, die Mädchen schirmend umgebend, das
                         Bauernhaus.</p>
-                  </div>
+                  
                </div>
                <div type="chapter">
                   <head>
@@ -26363,10 +26363,11 @@
                      Flämmchen der Lampe brannte düster und das Silberlicht des Vollmonds wob um das
                      Greisenhaupt Traugotts einen verklärenden Heiligenschein.</p>
                </div>
-               <div type="group">
-                  <head>
-                     <pb/> Zehntes Kapitel.</head>
-                  <div type="chapter">
+               
+                    <div type="chapter">
+                       <head>
+                          <pb/> Zehntes Kapitel.</head>
+                       
                   <head>Der letzte Geburtstag.</head>
                   <p>Der Maulwurffänger hatte seinen Sonntagsrock angezogen, den wohl gebürsteten
                      dreieckigen Hut aufgesetzt und stand wartend mitten in der Wohnstube seines
@@ -26659,9 +26660,9 @@
                      sich Marie des Gespräches bereits wieder bemächtigt und trug den aufmerksam
                      Lauschenden folgende mährchenhafte altwendische Erzählung vor.</p>
 
-                  </div>
-                  <div type="chapter">
-                     <head>Lipskulijans Bett.</head>
+                  
+                  
+                     <p>Lipskulijans Bett.</p>
                      <p>»Es war aber ein armer Mann, der sich fast nicht mehr ernähren konnte und
                         doch hatte man ihm noch große Abgaben auf sein Haus gelegt. Und er mußte
                         auf's Stöcke-Roden gehen. Und als er eines Tages auch sehr traurig in die
@@ -26776,8 +26777,8 @@
                         Mund, er war todt! Gleich der Seele des Räubers im Mährchen, hatte die Seele
                         dieses greisen Wenden unter Sangesgeflüster ihre irdische Hülle
                         verlassen.</p>
-                  </div>
-               </div>
+                  
+               
                <div type="chapter">
                   <head>
                      <pb/> Elftes Kapitel.</head>
@@ -26841,10 +26842,8 @@
                      es gleich Furien umrauschten, waren durch die zahlreichen Opfer, welche die
                      strafende Nemesis forderte, für immer gesühnt, und ein neues frischeres
                      Geschlecht erblühte auf den Gräbern der Todten. –</p>
-                  <pb/>
-               </div>
-            </div>
-         </div>
-      </body>
+                 
+               </div></div></div></div></body>
+         
    </text>
 </TEI>

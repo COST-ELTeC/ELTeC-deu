@@ -10423,9 +10423,11 @@
          </div>
          <div type="group">
             <head>Fünftes Buch: Witichis</head>
-            <div type="group">
-               <head>1. Abteilung</head>
-               <div type="chapter">
+        <div type="group">
+            <head>1. Abteilung</head>
+            
+                 <div type="chapter">
+                    
                   <head>Erstes Kapitel.</head>
                   <p>Langsam sank die Sonne hinter die grünen Hügel von Fäsulä und vergoldete die
                      Säulen vor dem schlichten Landhaus, in welchem Rauthgundis als Herrin
@@ -14413,7 +14415,7 @@
                      ins Lager.«</p>
                   <pb/>
                </div>
-            </div>
+        </div>
             <div type="group">
                <head>2. Abteilung</head>
                <div type="chapter">
@@ -15644,7 +15646,7 @@
                      sogleich. Ihr Feldherren, ordnet eure Scharen: nach Rom!«</p>
                   <p>»Nach Rom,« widerhallte das Zelt. »Nach Rom!«</p>
                </div>
-               <div type="group">
+               
                   <div type="chapter">
                      <head>Sechstes Kapitel.</head>
                      <p>Inzwischen schickte sich Belisar an, mit der Hauptmacht seines Heeres die
@@ -15813,7 +15815,7 @@
                      <p>»Calpurnius ist nicht Cethegus,« sprach der Präfekt, stolz davonsprengend.
                         »Grüße mir einstweilen den Hades!« rief er.</p>
                   </div>
-               </div>
+               
                <div type="chapter">
                   <head>
                      <pb/> Siebentes Kapitel.</head>

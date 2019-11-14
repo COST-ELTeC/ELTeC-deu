@@ -7920,10 +7920,10 @@
          <pb/>
          <div type="group">
             <head> Zweites Buch. </head>
-            <div type="group">
-               <head> Erstes Kapitel. </head>
+            
                <div type="chapter">
-               <p> Wir begleiten unsern Helden jetzt auf seiner Reise nach Ohio. Er schied aus
+                  <head> Erstes Kapitel. </head>
+                  <p> Wir begleiten unsern Helden jetzt auf seiner Reise nach Ohio. Er schied aus
                   Newyork in einer Stimmung, die dem Bleiben eigentlich günstiger, als dem Reisen
                   war. Unter andern Umständen hätte er sich wahrscheinlich dem Zuge nach Saratoga
                   angeschlossen. Ueberhaupt konnte der Plan seines ganzen Aufenthaltes durch den
@@ -9166,7 +9166,7 @@
                      beginnen!</p>
                   <pb/>
                </div>
-            </div>
+            
             <div type="chapter">
                <head> Zweites Kapitel. </head>
                <p>Daß unser Held vierundzwanzig Stunden nach diesem Briefe seinen Grundbesitz

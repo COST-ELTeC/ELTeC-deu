@@ -46,86 +46,88 @@
    </teiHeader>
 
    <text>
-
+<front>
+   <div type="liminal">
+      <head>Auch eine Vorrede.</head>
+      <!--milestone head_start-->
+      <p>Ich habe diesen Roman »pathologisch« genannt, ich hätte ihn auch »symbolisch«
+         nennen können. Doch verschmähe ich es, mich über den inneren Gehalt desselben
+         zu verbreiten. Die Ideen des Dichters sind keine blaßen Abstrakta des
+         Philosophen, sie wollen sich selbst erklären wie lebende Wesen. Nur möchte ich
+         vor einer Fußangel warnen: erst im letzten Schluß (Buch XIII, 3. Band) wird der
+         wahre Sinn des Ganzen offenbar und man gewahrt vielleicht, daß man bis dahin in
+         einem begreiflichen Irrthum schwebte. Diese Andeutung zu verstehen bleibt dem
+         klugen Leser überlassen, nach Beendung der Gesammtlektüre.</p>
+      <!--milestone head_end-->
+      <!--milestone head_start-->
+      <p>Natürlich tragen sämmtliche Gestalten dieser freierfundenen Dichtung lediglich
+         ein typisches Gepräge, fern jeder persönlichen Modell-Abschreibung, die ja heut
+         gewöhnlich bei allen realistischen Romanen von angeblich Eingeweihten
+         herauspintisirt zu werden pflegt. Aus realistischer Lebensabspiegelung entsteht
+         eben eine Wahrheit, wahrer als die Handgreiflichkeit der Außenwelt.</p>
+      <!--milestone head_end-->
+      
+      <p>Von der Umwälzung, welche die gesammte Denkweise der deutschen Geisteswelt
+         innerlich umformte, ahnen unsere guten Leute und schlechten Musikanten nur
+         wenig. Unter den zahlreichen Zuschriften, welche mich seit Jahren als Stimmen
+         des eigentlichen Publikums ermuthigen, wähle ich eine Stelle aus einem
+         jüngsthin empfangenen Briefe:</p>
+      <p>»Was die Propheten dem alttestamentlichen Verheißungsvolk waren, das müssen uns
+         unsre wahren Dichter sein. Wie es dort Lügenpropheten gab, giebt es auch bei
+         uns Lügendichter. Alle Sensationsromanfabrikanten, alle sentimentalen
+         Liederdrechsler, alle Verherrlicher der Sinnlichkeit d.h. der bloßen
+         Erscheinungswelt, alle Blaustrümpfeleien mit ihrer übertünchten
+         Alltagssittlichkeit – nenne ich Lügenpropheten. Nur wer im Ewigen webt und
+         athmet, wem alle Erscheinungsformen nur Symbole sind, wer alles Sinnliche aufs
+         Ewige bezieht und im Zeitlichen als solchem keinen Frieden findet, – nur dessen
+         Weltauffassung ist eine dichterische. Eine ernste Kunst ist die Poesie, ernst
+         und groß wie das Christenthum. Lang genug haben wir eine
+         heidnisch-griechisch-antike Aesthetik und Poesie gehabt. Zeit ist's, daß wir
+         endlich eine christlich-germanisch-moderne Dichtung bekommen. Der ›Realismus‹
+         ist nicht eine Partei, eine Schule – was der wahre Realismus will, ist ewig. Es
+         ist ein totaler Umschwung in unsern bisherigen Anschauungen, der sich hier
+         vorbereitet. Die antike Aesthetik mit ihrem ›schön‹ und ›häßlich‹ ist nichts;
+         auf den ewigen Gesichtspunkt, von dem aus man alles auffaßt, kommt es an.«</p>
+      <p>Das Denken allein führt eben so wenig zum Ziel, wie das Dichten allein, sondern
+         erst die Verschmelzung beider Kräfte. Wer unzusammenhängende Beobachtungen
+         anhäuft, wird nie zur Stoffbeherschung gelangen. Auch die Leidenschaften
+         gehorchen gleichmäßigen Gesetzen.</p>
+   </div>
+   <div type="liminal">
+      <head>Der Geist der Zukunft.</head>
+      
+      <l>Ich ahne, daß in meiner Tiefe ruhen</l>
+      <l>Gedanken, wie die Welt sie nie geträumt.</l>
+      <l>Ich ahne, daß allmächtig überschäumt</l>
+      <l>Die Ueberkraft in meiner Seele Truhen.</l>
+      
+      
+      
+      <l>Doch scheidet sich das Denken weit vom Thuen</l>
+      <l>Und meiner Pläne Heer die Walstatt räumt</l>
+      <l>Und Corps an Corps auf seiner Lobau säumt,</l>
+      <l>Bis es ins Marchfeld rückt auf Eisenschuhen.</l>
+      
+      
+      
+      <l>Dann, wenn die Erde Nacht und Schweigen decken</l>
+      <l>Und Blitze zucken und die Donner grollen,</l>
+      <l>Dann stoß ich vor auf Wagrams Leichenacker.</l>
+      
+      
+      
+      <l>Die Grüße meiner Feuerschlünde rollen,</l>
+      <l>Als wollten sie die Todten auferwecken.</l>
+      <l>»Wollt ihr denn ewig leben, feige Racker?«</l>
+      
+   </div>
+   
+   
+</front>
       <body>
          <div type="group">
             <head>Erster Band</head>
-               <div type="chapter">
-                  <head>Auch eine Vorrede.</head>
-                  <!--milestone head_start-->
-                  <p>Ich habe diesen Roman »pathologisch« genannt, ich hätte ihn auch »symbolisch«
-                     nennen können. Doch verschmähe ich es, mich über den inneren Gehalt desselben
-                     zu verbreiten. Die Ideen des Dichters sind keine blaßen Abstrakta des
-                     Philosophen, sie wollen sich selbst erklären wie lebende Wesen. Nur möchte ich
-                     vor einer Fußangel warnen: erst im letzten Schluß (Buch XIII, 3. Band) wird der
-                     wahre Sinn des Ganzen offenbar und man gewahrt vielleicht, daß man bis dahin in
-                     einem begreiflichen Irrthum schwebte. Diese Andeutung zu verstehen bleibt dem
-                     klugen Leser überlassen, nach Beendung der Gesammtlektüre.</p>
-                  <!--milestone head_end-->
-                  <!--milestone head_start-->
-                  <p>Natürlich tragen sämmtliche Gestalten dieser freierfundenen Dichtung lediglich
-                     ein typisches Gepräge, fern jeder persönlichen Modell-Abschreibung, die ja heut
-                     gewöhnlich bei allen realistischen Romanen von angeblich Eingeweihten
-                     herauspintisirt zu werden pflegt. Aus realistischer Lebensabspiegelung entsteht
-                     eben eine Wahrheit, wahrer als die Handgreiflichkeit der Außenwelt.</p>
-                  <!--milestone head_end-->
-
-                  <p>Von der Umwälzung, welche die gesammte Denkweise der deutschen Geisteswelt
-                     innerlich umformte, ahnen unsere guten Leute und schlechten Musikanten nur
-                     wenig. Unter den zahlreichen Zuschriften, welche mich seit Jahren als Stimmen
-                     des eigentlichen Publikums ermuthigen, wähle ich eine Stelle aus einem
-                     jüngsthin empfangenen Briefe:</p>
-                  <p>»Was die Propheten dem alttestamentlichen Verheißungsvolk waren, das müssen uns
-                     unsre wahren Dichter sein. Wie es dort Lügenpropheten gab, giebt es auch bei
-                     uns Lügendichter. Alle Sensationsromanfabrikanten, alle sentimentalen
-                     Liederdrechsler, alle Verherrlicher der Sinnlichkeit d.h. der bloßen
-                     Erscheinungswelt, alle Blaustrümpfeleien mit ihrer übertünchten
-                     Alltagssittlichkeit – nenne ich Lügenpropheten. Nur wer im Ewigen webt und
-                     athmet, wem alle Erscheinungsformen nur Symbole sind, wer alles Sinnliche aufs
-                     Ewige bezieht und im Zeitlichen als solchem keinen Frieden findet, – nur dessen
-                     Weltauffassung ist eine dichterische. Eine ernste Kunst ist die Poesie, ernst
-                     und groß wie das Christenthum. Lang genug haben wir eine
-                     heidnisch-griechisch-antike Aesthetik und Poesie gehabt. Zeit ist's, daß wir
-                     endlich eine christlich-germanisch-moderne Dichtung bekommen. Der ›Realismus‹
-                     ist nicht eine Partei, eine Schule – was der wahre Realismus will, ist ewig. Es
-                     ist ein totaler Umschwung in unsern bisherigen Anschauungen, der sich hier
-                     vorbereitet. Die antike Aesthetik mit ihrem ›schön‹ und ›häßlich‹ ist nichts;
-                     auf den ewigen Gesichtspunkt, von dem aus man alles auffaßt, kommt es an.«</p>
-                  <p>Das Denken allein führt eben so wenig zum Ziel, wie das Dichten allein, sondern
-                     erst die Verschmelzung beider Kräfte. Wer unzusammenhängende Beobachtungen
-                     anhäuft, wird nie zur Stoffbeherschung gelangen. Auch die Leidenschaften
-                     gehorchen gleichmäßigen Gesetzen.</p>
-               </div>
-               <div type="chapter">
-                  <head>Der Geist der Zukunft.</head>
-
-                  <l>Ich ahne, daß in meiner Tiefe ruhen</l>
-                  <l>Gedanken, wie die Welt sie nie geträumt.</l>
-                  <l>Ich ahne, daß allmächtig überschäumt</l>
-                  <l>Die Ueberkraft in meiner Seele Truhen.</l>
-
-
-
-                  <l>Doch scheidet sich das Denken weit vom Thuen</l>
-                  <l>Und meiner Pläne Heer die Walstatt räumt</l>
-                  <l>Und Corps an Corps auf seiner Lobau säumt,</l>
-                  <l>Bis es ins Marchfeld rückt auf Eisenschuhen.</l>
-
-
-
-                  <l>Dann, wenn die Erde Nacht und Schweigen decken</l>
-                  <l>Und Blitze zucken und die Donner grollen,</l>
-                  <l>Dann stoß ich vor auf Wagrams Leichenacker.</l>
-
-
-
-                  <l>Die Grüße meiner Feuerschlünde rollen,</l>
-                  <l>Als wollten sie die Todten auferwecken.</l>
-                  <l>»Wollt ihr denn ewig leben, feige Racker?«</l>
-
-               </div>
-            
-            <div type="group">
+             <div type="group">
                <head>Erstes Buch</head>
                <div type="chapter">
                   <head>
