@@ -1,9 +1,13 @@
-<?xml-model href="../../WG1/distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de" xml:id="DEU001">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Weisse Sclaven oder die Leiden des Volkes</title>
+            <title>Weisse Sclaven oder die Leiden des Volkes : ELTeC ausgabe</title>
             <author ref="http://d-nb.info/gnd/11739467X">Willkomm, Ernst Adolf (1810-1886)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
@@ -14,17 +18,12 @@
             <measure unit="words">322371</measure>
             <measure unit="pages">1737</measure>
          </extent>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
-            <!-- converted from textgrid:x9j6.0 (textgrid:x9j6.0) via Kallimachos: +445+ -->
-            <bibl type="digitalSource">
+         <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-14"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!----></publicationStmt>
+         <sourceDesc><bibl type="digitalSource">
                <title>Weisse Sclaven oder die Leiden des Volkes</title>
                <author>Willkomm, Ernst Adolf</author>
                <date>1845</date>
-            </bibl>
-         </sourceDesc>
+            </bibl></sourceDesc>
       </fileDesc>
       <encodingDesc n="eltec-0">
          <p/>
@@ -40,7 +39,7 @@
             <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/>
          </textDesc>
       </profileDesc>
-      <revisionDesc>
+      <revisionDesc><change when="2019-11-14">Checked by releaseChecker script</change>
          <change when="2019-01-28">Conversion from Kallimachos Kernkorpus</change>
       </revisionDesc>
    </teiHeader>
@@ -26779,10 +26778,10 @@
                         verlassen.</p>
                   
                
-               <div type="chapter">
-                  <head>
-                     <pb/> Elftes Kapitel.</head>
-                  <head>Schluß.</head>
+               
+                  <p><label>
+                      Elftes Kapitel.</label></p>
+                  <p><label>Schluß.</label></p>
                   <p>Wir haben unserer Erzählung nur wenige Worte noch hinzufügen.</p>
                   <p>Sloboda ward feierlich auf dem Kirchhofe des zum Zeiselhofe gehörigen Dorfes in
                      der herrschaftlichen Gruft beerdigt. Vierzehn Tage später reichte vor dem Altar
@@ -26843,7 +26842,7 @@
                      strafende Nemesis forderte, für immer gesühnt, und ein neues frischeres
                      Geschlecht erblühte auf den Gräbern der Todten. –</p>
                  
-               </div></div></div></div></body>
+               </div></div></div></body>
          
    </text>
 </TEI>
