@@ -1,9 +1,13 @@
-<?xml-model href="../../WG1/distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de" xml:id="DEU042">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Die Mandanenwaise</title>
+            <title>Die Mandanenwaise : ELTeC ausgabe</title>
             <author ref="http://d-nb.info/gnd/118784412">Möllhausen, Balduin (1825-1905)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
@@ -14,17 +18,12 @@
             <measure unit="words">223715</measure>
             <measure unit="pages">436</measure>
          </extent>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
-            <!-- converted from textgrid:sf4q.0 (textgrid:sf4q.0) via Kallimachos: +284+ -->
-            <bibl type="digitalSource">
+         <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-14"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!----></publicationStmt>
+         <sourceDesc><bibl type="digitalSource">
                <title>Die Mandanenwaise</title>
                <author>Möllhausen, Balduin</author>
                <date>1865</date>
-            </bibl>
-         </sourceDesc>
+            </bibl></sourceDesc>
       </fileDesc>
       <encodingDesc n="eltec-0">
          <p/>
@@ -40,7 +39,7 @@
             <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
          </textDesc>
       </profileDesc>
-      <revisionDesc>
+      <revisionDesc><change when="2019-11-14">Checked by releaseChecker script</change>
          <change when="2019-01-28">Conversion from Kallimachos Kernkorpus</change>
       </revisionDesc>
    </teiHeader>
@@ -50,7 +49,7 @@
       <body>
          <div type="group">
             <head>Erste Abtheilung: Am Rhein</head>
-            <div type="group">
+            
                <div type="chapter">
                   <head>Erstes Capitel.</head>
                   <head>Einleitung.</head>
@@ -683,8 +682,8 @@
                   <p>Was das Manuscript aber enthielt, das lasse ich hier ohne wesentliche
                      Veränderungen in der Form folgen.</p>
                </div>
-            </div>
-            <div type="group">
+            
+            
                <div type="chapter">
                   <head>Zweites Capitel.</head>
                   <head>Am Mineralbrunnen.</head>
@@ -1254,8 +1253,8 @@
                      ich dies für die Erlaubniß, neben ihren, Thier herschreitend, sie begleiten zu
                      dürfen.</p>
                </div>
-            </div>
-            <div type="group">
+            
+            
                <div type="chapter">
                   <head>Drittes Capitel.</head>
                   <head>Die Weissagung.</head>
@@ -2023,7 +2022,7 @@
                      denn allmälig wieder so sehr in eine heitere Unterhaltung, daß es uns förmlich
                      überraschte, die Mineralquelle plötzlich vor uns zu sehen.</p>
                </div>
-            </div>
+            
             <div type="chapter">
                <head>Viertes Capitel.</head>
                <head>Der Oberstlieutenant.</head>
@@ -2359,7 +2358,7 @@
                <p>»Frei ist der Bursch, –Frei ist der Bursch!«</p>
 
             </div>
-            <div type="group">
+            
                <div type="chapter">
                   <head>
                      <pb/>
@@ -2796,7 +2795,7 @@
                   <p>»Morjen, Herr Fischer,« ertönte es, und ich war wieder allein und mir selbst
                      überlassen.</p>
                </div>
-            </div>
+            
             <div type="chapter">
                <head>Sechstes Capitel.</head>
                <head>Der arme Anton.</head>
@@ -6247,7 +6246,7 @@
                   vor den ich unbesorgt hätte hintreten dürfen; und Johanna? O, ich durfte nicht
                   daran denken – – –</p>
             </div>
-            <div type="group">
+            
                <div type="chapter">
                   <head>Dreizehntes Capitel.</head>
                   <head>Ein freund in der Noth.</head>
@@ -6770,7 +6769,7 @@
                      Gedanken Worte verleihend, indem ich durch den noch in Dämmerung gehüllten Wald
                      sinnend und grübelnd meinem Versteck zuwanderte.</p>
                </div>
-            </div>
+            
             <div type="chapter">
                <head>Vierzehntes Kapitel.</head>
                <head>Die Entdeckungen.</head>

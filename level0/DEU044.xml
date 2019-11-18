@@ -1,9 +1,13 @@
-<?xml-model href="../../WG1/distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de" xml:id="DEU044">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Kampf um Rom</title>
+            <title>Kampf um Rom : ELTeC ausgabe</title>
             <author ref="http://d-nb.info/gnd/118523392">Dahn, Felix (1834-1912)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
@@ -14,17 +18,12 @@
             <measure unit="words">265086</measure>
             <measure unit="pages">774</measure>
          </extent>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
-            <!-- converted from textgrid:m531.0 (textgrid:m531.0) via Kallimachos: +62+ -->
-            <bibl type="digitalSource">
+         <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-14"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!----></publicationStmt>
+         <sourceDesc><bibl type="digitalSource">
                <title>Kampf um Rom</title>
                <author>Dahn, Felix</author>
                <date>1876</date>
-            </bibl>
-         </sourceDesc>
+            </bibl></sourceDesc>
       </fileDesc>
       <encodingDesc n="eltec-0">
          <p/>
@@ -40,29 +39,30 @@
             <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
          </textDesc>
       </profileDesc>
-      <revisionDesc>
+      <revisionDesc><change when="2019-11-14">Checked by releaseChecker script</change>
          <change when="2019-01-28">Conversion from Kallimachos Kernkorpus</change>
       </revisionDesc>
    </teiHeader>
    <text>
+      <front>  <div type="liminal">
+         <head>Vorwort.</head>
+         <p>Die wissenschaftlichen Grundlagen dieser in Gestalt eines Romans gekleideten
+            Bilder aus dem sechsten Jahrhundert enthalten meine in folgenden Werken
+            niedergelegten Forschungen:</p>
+         <p>Die Könige der Germanen. II. III. IV. Band. München und Würzburg 1862–1866.</p>
+         <p>Prokopius von Cäsarea. Ein Beitrag zur Historiographie der Völkerwanderung und des
+            sinkenden Römertums. Berlin 1865.</p>
+         <p>Aus diesen Darstellungen mag der Leser die Ergänzungen und Veränderungen, die der
+            Roman an der Wirklichkeit vorgenommen, erkennen.</p>
+         <p>Das Werk ist 1859 in München begonnen, in Italien, zumal Ravenna, weitergeführt,
+            und 1876 in Königsberg abgeschlossen worden.</p>
+         
+         <p> Königsberg, Januar 1876.</p>
+         <p>Felix Dahn.</p>
+      </div>
+      </front>
       <body>
-         <div type="chapter">
-               <head>Vorwort.</head>
-               <p>Die wissenschaftlichen Grundlagen dieser in Gestalt eines Romans gekleideten
-                  Bilder aus dem sechsten Jahrhundert enthalten meine in folgenden Werken
-                  niedergelegten Forschungen:</p>
-               <p>Die Könige der Germanen. II. III. IV. Band. München und Würzburg 1862–1866.</p>
-               <p>Prokopius von Cäsarea. Ein Beitrag zur Historiographie der Völkerwanderung und des
-                  sinkenden Römertums. Berlin 1865.</p>
-               <p>Aus diesen Darstellungen mag der Leser die Ergänzungen und Veränderungen, die der
-                  Roman an der Wirklichkeit vorgenommen, erkennen.</p>
-               <p>Das Werk ist 1859 in München begonnen, in Italien, zumal Ravenna, weitergeführt,
-                  und 1876 in Königsberg abgeschlossen worden.</p>
-
-               <p> Königsberg, Januar 1876.</p>
-               <p>Felix Dahn.</p>
-         </div>
-         <div type="group">
+           <div type="group">
             <head>Erstes Buch: Theoderich</head>
             <div type="chapter">
                <head>Erstes Kapitel.</head>
@@ -10422,9 +10422,11 @@
          </div>
          <div type="group">
             <head>Fünftes Buch: Witichis</head>
-            <div type="group">
-               <head>1. Abteilung</head>
-               <div type="chapter">
+        <div type="group">
+            <head>1. Abteilung</head>
+            
+                 <div type="chapter">
+                    
                   <head>Erstes Kapitel.</head>
                   <p>Langsam sank die Sonne hinter die grünen Hügel von Fäsulä und vergoldete die
                      Säulen vor dem schlichten Landhaus, in welchem Rauthgundis als Herrin
@@ -14412,7 +14414,7 @@
                      ins Lager.«</p>
                   <pb/>
                </div>
-            </div>
+        </div>
             <div type="group">
                <head>2. Abteilung</head>
                <div type="chapter">
@@ -15643,7 +15645,7 @@
                      sogleich. Ihr Feldherren, ordnet eure Scharen: nach Rom!«</p>
                   <p>»Nach Rom,« widerhallte das Zelt. »Nach Rom!«</p>
                </div>
-               <div type="group">
+               
                   <div type="chapter">
                      <head>Sechstes Kapitel.</head>
                      <p>Inzwischen schickte sich Belisar an, mit der Hauptmacht seines Heeres die
@@ -15812,7 +15814,7 @@
                      <p>»Calpurnius ist nicht Cethegus,« sprach der Präfekt, stolz davonsprengend.
                         »Grüße mir einstweilen den Hades!« rief er.</p>
                   </div>
-               </div>
+               
                <div type="chapter">
                   <head>
                      <pb/> Siebentes Kapitel.</head>

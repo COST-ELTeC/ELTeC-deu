@@ -1,9 +1,13 @@
-<?xml-model href="../../WG1/distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de" xml:id="DEU027">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Bozena</title>
+            <title>Bozena : ELTeC ausgabe</title>
             <author ref="http://d-nb.info/gnd/118528661">Ebner-Eschenbach, Marie von
                (1830-1916)</author>
             <respStmt>
@@ -15,17 +19,12 @@
             <measure unit="words">76679</measure>
             <measure unit="pages">178</measure>
          </extent>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
-            <!-- converted from textgrid:mktj.0 (textgrid:mktj.0) via Kallimachos: +78+ -->
-            <bibl type="digitalSource">
+         <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-14"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!----></publicationStmt>
+         <sourceDesc><bibl type="digitalSource">
                <title>Bozena</title>
                <author>Ebner-Eschenbach, Marie von</author>
                <date>1876</date>
-            </bibl>
-         </sourceDesc>
+            </bibl></sourceDesc>
       </fileDesc>
       <encodingDesc n="eltec-0">
          <p/>
@@ -41,7 +40,7 @@
             <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
          </textDesc>
       </profileDesc>
-      <revisionDesc>
+      <revisionDesc><change when="2019-11-14">Checked by releaseChecker script</change>
          <change when="2019-01-28">Conversion from Kallimachos Kernkorpus</change>
       </revisionDesc>
    </teiHeader>
@@ -2488,7 +2487,7 @@
             <p>Damit sank er zurück. Einmal noch hob sich seine Brust – und er hatte
                ausgelitten.</p>
          </div>
-         <div type="group">
+         
             <pb/>
             <div type="chapter">
                <head>11</head>
@@ -2823,8 +2822,8 @@
                   erzählen wußten, Nannette sei nach herzzerreißendem Abschied in den Armen ihrer
                   Tochter gestorben.</p>
             </div>
-         </div>
-         <div type="group">
+         
+         
             <pb/>
             <div type="chapter">
                <head>12</head>
@@ -3101,7 +3100,7 @@
                <p>»Jede andere hätt's getan – aber sie? sie sagt nur die Wahrheit, aber die ganze.
                   Sie ist wahr wie der Tag«, erwiderte Mansuet.</p>
             </div>
-         </div>
+         
          <div type="chapter">
             <head>13</head>
             <p>So manche gutmütige Frau in Weinberg meinte, Fräulein Regula sei freilich ein Engel
@@ -3349,7 +3348,7 @@
             <p>Die Unglückliche zuckte zusammen, ein schwerer, schmerzlicher Seufzer hob ihre Brust,
                und gesenkten Hauptes folgte sie ihrem alten Freunde.</p>
          </div>
-         <div type="group">
+         
             <pb/>
             <div type="chapter">
                <head>14</head>
@@ -3635,7 +3634,7 @@
                <p>Der alte Mansuet drückt die Hand an seine Stirn und spricht: »Wer weiß! ... Wer
                   weiß! ...«</p>
             </div>
-         </div>
+         
          <div type="chapter">
             <head>15</head>
             <p>Jahr um Jahr verging. Röschen wuchs heran, körperlich und geistig gar seltsam
@@ -3969,7 +3968,7 @@
             <p>Der Professor jedoch machte keine andere Entdeckung als die immer neue seiner Liebe
                zu Regula.</p>
          </div>
-         <div type="group">
+         
             <pb/>
             <div type="chapter">
                <head>16</head>
@@ -4340,7 +4339,7 @@
                <p>»Schweig, mein Kind!« mahnte sie und zog sein Haupt an ihre Brust. Und an diesem
                   schweren Tage war ihnen beiden leichter ums Herz als seit langer Zeit.</p>
             </div>
-         </div>
+         
          <div type="chapter">
             <head>17</head>
             <p>Ronald kam von der Jagd zurück. An seiner Waidtasche hingen zwei Hasen und ein

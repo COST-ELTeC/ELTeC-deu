@@ -13,4 +13,4 @@ The ELTeC-deu collection as it stands contains 100 novels encoded at level 0. Th
 * Sources: Textgrid Repository, Deutsches Textarchiv
 
 ## Licence
-All texts included in this collection are in the public domain. The textual markup is provided with a Creative Commons Attribution International 4.0 licence (CC 0, https://creativecommons.org/publicdomain/zero/1.0/).
+All texts included in this collection are in the public domain. The textual markup is provided with a Creative Commons Attribution International 4.0 licence (CC BY, https://creativecommons.org/licenses/by/4.0/).

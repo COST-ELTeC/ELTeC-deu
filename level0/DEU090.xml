@@ -1,9 +1,13 @@
-<?xml-model href="../../WG1/distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de" xml:id="DEU090">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Von Paul zu Pedro</title>
+            <title>Von Paul zu Pedro : ELTeC ausgabe</title>
             <author ref="http://d-nb.info/gnd/118600044">Reventlow, Franziska Gräfin zu
                (1871-1918)</author>
             <respStmt>
@@ -15,17 +19,12 @@
             <measure unit="words">25015</measure>
             <measure unit="pages">88</measure>
          </extent>
-         <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
-            <!-- converted from textgrid:tb9w.0 (textgrid:tb9w.0) via Kallimachos: +330+ -->
-            <bibl type="digitalSource">
+         <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-14"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!----></publicationStmt>
+         <sourceDesc><bibl type="digitalSource">
                <title>Von Paul zu Pedro</title>
                <author>Reventlow, Franziska Gräfin zu</author>
                <date>1912</date>
-            </bibl>
-         </sourceDesc>
+            </bibl></sourceDesc>
       </fileDesc>
       <encodingDesc n="eltec-0">
          <p/>
@@ -41,7 +40,7 @@
             <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
          </textDesc>
       </profileDesc>
-      <revisionDesc>
+      <revisionDesc><change when="2019-11-14">Checked by releaseChecker script</change>
          <change when="2019-01-28">Conversion from Kallimachos Kernkorpus</change>
       </revisionDesc>
    </teiHeader>
