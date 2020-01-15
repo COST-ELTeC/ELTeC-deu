@@ -18,12 +18,34 @@
             <measure unit="words">269471</measure>
             <measure unit="pages">744</measure>
          </extent>
-         <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-14"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!----></publicationStmt>
-         <sourceDesc><bibl type="digitalSource">
+         <publicationStmt>
+            <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European
+               Literary History" (CA16204)</publisher>
+            <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+            <date when="2019-11-14"/>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+            <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/>
+            <!---->
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="digitalSource">
                <title>Vor dem Sturm</title>
                <author>Fontane, Theodor</author>
                <date>1878</date>
-            </bibl></sourceDesc>
+            </bibl>
+            <bibl type="print_source"><author>Theodor Fontane</author>: <title>Romane und
+                  Erzählungen in acht Bänden</title>. <respStmt>Herausgegeben von</respStmt>
+               <editor>Peter Goldammer</editor>, <editor>Gotthard Erler</editor>, <editor>Anita
+                  Golz</editor> und <editor>Jürgen Jahn</editor>, Band 1, 2. Auflage,
+                  <pubPlace>Berlin</pubPlace> und <pubPlace>Weimar</pubPlace>:
+                  <publisher>Aufbau</publisher>, <date>1973</date>. Entstanden zwischen 1862 und
+               1878,</bibl>
+            <bibl type="firstEdition">Erstdruck (gekürzt) in: Daheim (<pubPlace>Leipzig</pubPlace>),
+               14. Jg. <date>Januar- September 1878</date>,<note> erste Buchausgabe: Berlin (W.
+                  Hertz) 1878.</note></bibl>
+         </sourceDesc>
       </fileDesc>
       <encodingDesc n="eltec-0">
          <p/>
@@ -39,7 +61,8 @@
             <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
          </textDesc>
       </profileDesc>
-      <revisionDesc><change when="2019-11-14">Checked by releaseChecker script</change>
+      <revisionDesc>
+         <change when="2019-11-14">Checked by releaseChecker script</change>
          <change when="2019-01-28">Conversion from Kallimachos Kernkorpus</change>
       </revisionDesc>
    </teiHeader>
@@ -4145,389 +4168,369 @@
                <p>Sehen wir im folgenden Kapitel des näheren, welcher Art diese »allerlei Freunde«
                   von Schloß Guse waren.</p>
             </div>
-            
-               <div type="chapter">
-                  <head>Drittes Kapitel</head>
-                  <head>Allerlei Freunde</head>
-                  <p>Die »allerlei Freunde« bildeten einen weiteren und einen engeren Kreis. Der
-                     engere Kreis war eine Siebenzahl und bestand aus folgenden Personen: Graf
-                     Drosselstein auf Hohen-Ziesar, <pb/> Präsident von Krach auf Bingenwalde,
-                     Generalmajor von Bamme auf Quirlsdorf, Baron von Pehlemann auf Wuschewier,
-                     Domherr von Medewitz auf Alt-Medewitz, Hauptmann von Rutze auf Protzhagen,
-                     Doktor Faulstich in Kirch-Göritz.</p>
-                  <p>Es wird unsere nächste Aufgabe sein, der bloßen Vorstellung dieser Herren, die
-                     mit Ausnahme Doktor Faulstichs alle das sechzigste Jahr erreicht oder
-                     überschritten hatten, eine kurze Charakterisierung folgen zu lassen. Wenn dies
-                     ein Verstoß gegen die Gesetze guter Erzählung ist, so möge der Leser Nachsicht
-                     üben, und um so mehr, als der zu begehende Fehler vielleicht mehr scheinbar als
-                     wirklich ist. Denn mit wie großem Recht auch die Vorführung abgeschlossener,
-                     ihr Tun und Denken zettelartig am Mantel tragender Gestalten verworfen und
-                     statt dessen jene Erzählungskunst gepriesen werden mag, die die Phantasie des
-                     Lesers in den Stand setzt, das nur eben Angedeutete schöpferisch auszubilden
-                     und zu vollenden, so mögen doch Ausnahmen überall da gestattet sein, wo, wie
-                     hier, das Nebeneinanderstellen fertiger Figuren nicht viel mehr bedeuten will
-                     als eine weniger um der Bildnisse selbst als um des Ortes willen, wo sie sich
-                     finden, dem Leser vorgeführte Porträtgalerie.</p>
-                  <p>Die vornehmste Erscheinung in Schloß Guse, zugleich dem Zirkel am längsten
-                     angehörig, war Graf Drosselstein. In Königsberg geboren, in dessen Nähe auch
-                     die Familiengüter lagen, war er, trotzdem er die Provinz gewechselt hatte, ein
-                     vollkommener Repräsentant des ostpreußischen Adels. Dieser Adel, dem Hofe und
-                     dem »Dienste« ferner stehend, hatte freilich – wenigstens damals noch – darauf
-                     verzichten müssen, seinen Namen gleich ruhmreich wie die märkisch-pommerschen
-                     Familien in unsere bis dahin wenig mehr als eine Reihe von Schlachten
-                     darstellende Geschichte einzutragen, aber was ihm dadurch an Volkstümlichkeit
-                     und historischem Klang verlorengegangen war, war wieder aufgewogen worden durch
-                     das Bewußtsein gewahrter Unabhängigkeit. Weniger ein- und untergeordnet in das
-                     Räderwerk des militärisch-bureaukratischen Staates, hatte <pb/> sich ganz
-                     Ostpreußen und besonders sein Adel – im einzelnen zu seinem Nachteil, im ganzen
-                     zu seinem Vorzug – eine ausgesprochene provinzielle Eigentümlichkeit zu
-                     bewahren gewußt.</p>
-                  <p>In dieser provinziellen Eigentümlichkeit, die sich vielleicht am besten als ein
-                     mitunter herber Ausdruck des Freiheitlichen bezeichnen läßt, stand auch Graf
-                     Drosselstein, und wenn er an der Tafel seiner Freundin, der Guser Gräfin, dem
-                     säbelbeinigen Generalmajor von Bamme gegenübersaß, der zweideutige Anekdoten
-                     erzählte und von Pferden, Prinzen und Tänzerinnen, weniger aus Renommisterei
-                     als aus Übermut und schlechter Erziehung, in krähstimmigem Jargon perorierte,
-                     so mochte er sich, nicht ohne Anwandlung ostpreußischen Stolzes, des
-                     Unterschiedes zwischen seiner heimatlichen Provinz und dem märkischen
-                     Stammlande bewußt werden. Aber solche Anwandlungen schwanden so rasch, wie sie
-                     kamen. Von seltener Unparteilichkeit, allem Engen und Selbstischen fern, in
-                     welcher Form es auch auftreten mochte, stand es für seine Erkenntnis längst
-                     fest, daß die Mark, trotz aller ihrer Unleidlichkeiten, als das Kern- und
-                     Herzstück der Monarchie anzusehen sei, mit oder ohne Bammes, ja zum Teil wegen
-                     derselben.</p>
-                  <p>Der Graf hatte nur kurze Zeit dem Staate gedient. Mit zwanzig Jahren in das
-                     erste Bataillon Garde tretend, aber schon nach Ablauf eines Jahres
-                     gesundheitshalber den Abschied nehmend, war er froh gewesen, den Anblick des
-                     Potsdamer Exerzierplatzes mit dem der Marine von Nizza vertauschen zu können.
-                     Wiederhergestellt, durchzog er Italien, lebte, ganz dem Studium der Kunst
-                     hingegeben, erst in Rom, dann in Paris und beschloß seine »große Tour« durch
-                     einen Ausflug nach Holland und England.</p>
-                  <p>Er war ausgangs der Dreißig, als ihn um 1788 Familienangelegenheiten an den
-                     Petersburger Hof führten. Hier machte er die Bekanntschaft einer Komtesse
-                     Lieven, die ihn durch ihre durchsichtige Alabasterschönheit in demselben
-                     Augenblicke gefangennahm, in dem er sie sah. Seine Werbung wurde nicht
-                     zurückgewiesen; die Kaiserin selbst beglückwünschte das<pb/> schöne Paar, das
-                     sich, unmittelbar nach der mit großer Pracht und unter Teilnahme des
-                     Petersburger Hofadels gefeierten Vermählung, auf die ostpreußischen Güter des
-                     Grafen zurückzog.</p>
-                  <p>Aber das stille Glück der Flitterwochen erschien der jungen Gräfin bald zu
-                     still. Sie sehnte sich nach dem zerstreuenden Leben der »Gesellschaft«, und da
-                     weder die politischen Verhältnisse noch die Gesinnungen des Grafen ein erneutes
-                     Auftreten am russischen Hofe – das die junge Gräfin allerdings am liebsten
-                     gesehen haben würde – ausführbar erscheinen ließen, so wurde die Übersiedelung
-                     nach Hohen-Ziesar, einem ursprünglich den märkischen Drosselsteins zugehörigen
-                     Gute, das erst vor zwei oder drei Jahren an die ostpreußische Linie gekommen
-                     war, beschlossen.</p>
-                  <p>Von Hohen-Ziesar aus ermöglichte sich ein verhältnismäßig leichter Verkehr mit
-                     der Hauptstadt, wo das Hofleben, das während der Friderizianischen Zeit beinahe
-                     völlig geruht hatte, eben damals einen neuen Aufschwung zu nehmen begann. Es
-                     war nicht Petersburg, aber es war doch Berlin. Die junge Gräfin, wiewohl
-                     zeitweise von einem halb ermüdeten, halb zerstreuten Ausdruck, als ob ihre
-                     Seele nach etwas Fernem und Verlorenem suche, gab sich nichtsdestoweniger den
-                     Zerstreuungen ohne Rückhalt hin. Sie galt für glücklich; sie schien es auch.
-                     Aber der durchsichtige Alabasterteint hatte nichts Gutes bedeutet; ein
-                     Blutsturz überraschte sie kurz vor einer Opernhausvorstellung; eine Abzehrung
-                     folgte, sie starb vor Ausgang des Winters.</p>
-                  <p>Der Graf war wie niedergeworfen. Er mied auf lange Zeit hin jeden Umgang;
-                     selbst in Schloß Guse, wo er damals schon verkehrte, blieb er aus. Als er
-                     wieder in der Gesellschaft erschien, war seine Selbstbeherrschung vollkommen;
-                     aber er hatte jenen lebemännischen Frohsinn und die gesprächige Heiterkeit
-                     eingebüßt, die ihn früher ausgezeichnet hatten. Er lachte nicht mehr. Er hatte
-                     nur noch das Lächeln derer, die mit dem Leben abgeschlossen haben. Hier und
-                     dort hieß es, daß es nicht der Tod der jungen Gräfin allein sei, der diesen
-                     Wandel in seinem Wesen geschaffen habe. Er wandte sich großen Bauten zu;
-                     besonders <pb/> waren es Parkanlagen, die ihn zu zerstreuen begannen.
-                     Hohen-Ziesar bot ein gutes Material, und so entstand im Geschmack jener Zeit
-                     eine kostspielige Schöpfung, die sich, vom Flachdach des Schlosses oder noch
-                     besser vom Kirchturm aus angesehen, als eine große in Stein und Erde
-                     ausgeführte Alpenreliefkarte darstellte. Granitblöcke wurden zu irgendeinem
-                     Rigi aufgetürmt, über den Grat des Gebirges liefen zwei Pässe, die nach Altdorf
-                     oder Küßnacht führten, während ein aus unsichtbaren Quellen gespeister See
-                     einen kataraktreichen Bergstrom in die Tiefe schickte. Sennhütten und Matten
-                     lösten sich untereinander ab; zu Füßen dieser Künsteleien aber, in das
-                     wirkliche Oderbruch übergehend, dehnte sich eine reizende Flachlandszenerie mit
-                     Feld und Wiesen, mit Fluß, Bach und Brücken und einem stillen,
-                     weidenumstandenen Teich, dessen japanisches Inselhäuschen die Schwäne
-                     umzogen.</p>
-                  <p>An der Herstellung dieses Parkes nahm unsere Guser Gräfin, die sich zu allem
-                     Rokokohaften hingezogen fühlte, den regsten Anteil, der Verkehr wuchs, Briefe
-                     wurden gewechselt, Konferenzen abgehalten, deren endliches Resultat nicht nur
-                     der Aufbau der Hohen-Ziesarschen »Schweiz«, sondern auch die Etablierung einer
-                     Freundschaft war, die sich seitdem, namentlich von seiten der Gräfin, zu einer
-                     wirklichen, über Laune und Zerstreuungsbedürfnis weit hinausgehenden Intimität
-                     gesteigert hatte.</p>
-                  <p>Dies konnte kaum ausbleiben. Denn so gewiß die Gräfin am Aparten hing, sowenig
-                     sie der Originalfiguren ihres Zirkels entraten mochte, sosehr empfand sie doch
-                     auch, was der Mehrzahl derselben fehlte: Schliff, Bildung, Ton, vor allem
-                     jegliches Verständnis für Kunst und Schönheit. All dies besaß der Graf. Er
-                     hatte nicht nur die Höhe der Rheinsberger Gesellschaft, er übertraf dieselbe
-                     sogar durch jenes nachhaltig wirkende Ansehen, das allein aus
-                     Selbstsuchtlosigkeit und reinem Wandel sprießt.</p>
-                  <p>Ein bestimmtes Ereignis gab der schon gefestigten Freundschaft ein neues Band.
-                     Der Graf nahm Veranlassung, die Gräfin ins Geheimnis zu ziehen; er erzählte ihr
-                     die Geschichte vom <pb/> Hinscheiden seiner Frau, auch von dem, was diesem
-                     Hinscheiden unmittelbar vorausgegangen war. Es war das Folgende.</p>
-                  <p>Die junge Gräfin, nach einem heftigen Hustenanfall, schien in einen Zustand
-                     tiefen Schlummers zu verfallen, auch der Graf, ermüdet von tagelangem Wachen,
-                     schlief in seinem Lehnstuhl ein. Es war spät, nur eine Schirmlampe brannte. Als
-                     er erwachte, bemerkte er, daß die Kranke aufgestanden war und sich der
-                     Tapetentür eines Wandschrankes näherte. Eine lethargische Schwere, zugleich ein
-                     dunkeles Gefühl, daß er die Kranke in ihrem Tun nicht stören dürfe, hielten ihn
-                     in seinem Lehnstuhl fest. Er sah nun, daß sie zunächst ein Kästchen aus dem
-                     Schranke, dann aus einem verborgenen Fach des Kästchens eine Anzahl Briefe
-                     nahm, die mit einer roten Schnur zusammengebunden waren. Sie schritt wieder
-                     zurück, an ihm vorbei, glaubte sich zu überzeugen, daß er schlafe, und trat
-                     dann an den Kamin. Sie berührte die Briefe mit den Lippen, löste die Schnur und
-                     warf dann jeden einzelnen Brief vorsichtig, damit die Flamme nicht zu hell
-                     aufschlüge, in das halberloschene Feuer. Als alles verglimmt war, kehrte sie an
-                     ihr Lager zurück, hüllte sich in die Decken und atmete hoch auf, wie befreit
-                     von einer bangen Last. Es war ihr letztes Tun. Ehe der Morgen kam, war sie
-                     nicht mehr. Welch ein Tag für den Überlebenden! Er hatte sich geliebt geglaubt;
-                     nun war alles Wahn und Traum. Wessen Hand hatte die Briefe geschrieben, die die
-                     Empfängerin bis zuletzt wie ein Allerteuerstes gehegt hatte? Er frug es immer
-                     wieder; aber keine Antwort. Das Geheimnis war bei der Toten und der Asche im
-                     Kamin.</p>
-                  <p>So hatte der Graf erzählt. Die Erzählung selbst aber, wie schon angedeutet,
-                     besiegelte die Freundschaft, die von jenem Tage an unauflöslich zwischen dem
-                     Witwergrafen und Hohen-Ziesar und der Gräfinwitwe auf Schloß Guse bestand.</p>
-                  <p>Schloß Guse hatte jedoch nur einen Drosselstein; alles andere, was sich von
-                     »allerlei Freunden« daselbst versammelte, konnte so ziemlich als Revers des
-                     Grafen gelten.</p>
-                  <pb/>
-                  <p>Ihm im Range am nächsten stand Präsident von Krach, ein Mann von Gaben und
-                     Charakter. Er galt als ein bedeutender Jurist, hatte durch hartnäckige
-                     Opposition den Zorn des großen Königs herausgefordert und seinerseits, in
-                     tiefer Verstimmung über die bei dieser Gelegenheit erfahrene Unbill, sich nach
-                     Bingenwalde zurückgezogen. Er war hager, groß, scharf, wenig leidlich. Sein
-                     hervorstechender Zug war der Geiz. Er beanstandete jede Rechnung und bezahlte
-                     sie, nach dem Grundsatze: »Zeit gewonnen, Zins gewonnen«, immer erst nach
-                     eingeleitetem prozessualischen Verfahren. Die Betroffenen spotteten, daß es aus
-                     alter Anhänglichkeit an die Gerichte geschähe, zu denen sich sein juristisches
-                     Paragraphenherz doch immer wieder hingezogen fühle. Eines besonderen Rufes
-                     genossen auch seine Diners, die, wiewohl alljährlich nur einmal wiederkehrend,
-                     ein wahres Schrecknis der gesamten Oderbruch-Aristokratie bildeten. Einzig und
-                     allein der alte Bamme – den seine Trinkgelder und Kordialequivoken zum Liebling
-                     aller als Livreediener eingekleideten Kutscher und Gärtner machten – hatte sich
-                     bisher unter Anwendung von Flascheneskamotage diesem Schrecknis zu entziehen
-                     gewußt, so daß beispielsweise Baron Pehlemann auf das ernsthafteste
-                     versicherte: »Nie, während sämtlicher Krachschen Diners, sei seitens des
-                     ›Generals‹ ein Tropfen anderen Weines als aus seinem eignen, Bammeschen, Keller
-                     getrunken worden.« Bamme selbst, ohnehin von einer beinahe krankhaften Neigung
-                     erfüllt, sein Husarentum coûte que coûte zur Geltung zu bringen, ließ sich
-                     solche Huldigungen gern gefallen, ermangelte aber andererseits nie, natürlich
-                     nur zugunsten neuer Malicen gegen Krach, seinen Schlauheitstriumph über diesen
-                     entschieden in Abrede zu stellen. Krach, so schwur er, sei viel zu scharf, um
-                     getäuscht werden zu können; er habe den Kriminal- und Inquisitorialblick einer
-                     dreißigjährigen Praxis, er sehe alles, er wisse alles; aber freilich, er
-                     schweige auch, weil er bei kleinem Ärger die großen Vorteile der Situation
-                     sofort überblicke und in Wahrheit nur von einer Frage bestürmt werde: »Warum
-                     sind sie nicht alle Bammes?«</p>
-                  <p>Die Gräfin, persönlich von großer Freigibigkeit, nahm wenig <pb/> Anstoß an
-                     diesem Geiz. Sie hatte lange genug gelebt, um zu wissen, daß das gegen sich
-                     selbst und andere gleich erbarmungslose Sparen den Körper fest und zäh, den
-                     Geist scharf und schneidig mache, vor allem auch der Ausbildung von Originalen
-                     günstig sei, freilich keiner angenehmen. Aber darauf kam es ihr nicht an. Was
-                     schließlich den Ausschlag zugunsten Krachs gab, war, daß auch der Prinz einen
-                     starken Hang zum Ökonomisieren gehabt hatte.</p>
-                  <p>Die dritte Figur des Kreises war der schon mehrgenannte Generalmajor von Bamme
-                     oder der »General«, wie er kurzweg in Schloß Guse genannt wurde, ein kleiner,
-                     sehr häßlicher Mann mit vorstehenden Backenknochen und Beinen wie ein
-                     Rokokotisch; die ganze Erscheinung husarenhaft, aber doch noch mehr Kalmück als
-                     Husar.</p>
-                  <p>Er gehörte einem alten havelländischen Geschlechte an, Haus Bamme bei Rathenow,
-                     das mit ihm erlosch. Die Wahrheit zu gestehen, erlosch nicht viel damit. Seine
-                     eigene Jugend war hingewüstet worden; wunderbare Geschichten gingen davon um.
-                     Ein adliges Fräulein, das sich von ihm geliebt glaubte, Tochter eines Nachbars,
-                     hatte er in Unehre gebracht; den Bruder, der auf Eheschließung drang, jagte er
-                     vom Hofe. Das Mädchen selbst, übrigens im Hause der Eltern bleibend, wurde
-                     irrsinnig.</p>
-                  <p>Ein Jahr später starb der alte Bamme; Vater und Sohn waren einander wert
-                     gewesen. Sie setzten des Alten Sarg auf eine Gruftversenkung, und neben den
-                     Sarg, eine Fackel in der Hand, stellte sich der Sohn. Er trug die rote Uniform
-                     des Husarenregiments Zieten; die kleine Kirche war schwarz ausgeschlagen. In
-                     dem Augenblicke, in dem der Sarg niederstieg, rief die Irrsinnige, die sich auf
-                     dem Orgelchor versteckt hatte: »Seht, nun fährt er in die Hölle.« Alles
-                     entsetzte sich; nur der, an den sie die Worte gerichtet hatte, lächelte. Er war
-                     übrigens ein ausgezeichneter Soldat, das hielt ihn.</p>
-                  <p>Als er nach dem Basler Frieden, der ihn wurmte, seinen Abschied nahm, zog er
-                     aus dem Havellande ins Oderbruch und kaufte sich in der Nähe von Schloß Guse
-                     an. Die Groß-Quirlsdorfer hatten sich wenig über ihn zu beklagen. Er setzte
-                     <pb/> zwar das alte Leben fort; aber die Oderbrücher, selber nicht diffizil,
-                     legten ihm durch Mißbilligung keinen Zwang auf. Sein Geschmack wurde immer
-                     wunderlicher. Starb wer Junges im Dorf, Bursch oder Mädchen, so ließ er ein
-                     großes Begräbnis anrichten, vorausgesetzt, daß die Leidtragenden ihre
-                     Zustimmung gaben, die Leiche zu schminken und in einem mit vielen Lichtern
-                     geschmückten Flur aufzubahren. Dann stellte er sich zu Füßen, rauchte aus einem
-                     Meerschaumkopf und sah, halb zugekniffenen Auges, die Leiche eine halbe Stunde
-                     lang an. Was dabei durch seine Seele ging, wußte niemand. Er galt für einen
-                     Tückebold, auch noch für Schlimmeres; indessen er war General, märkisch und
-                     soldatisch vom Wirbel bis zur Zeh und von einem humoristisch verwegenen Mut.
-                     Erst vor drei Jahren hatte sein letztes Rencontre stattgefunden. Die
-                     Veranlassung war ganz in seiner Art. Eine Scheune auf einem Nachbargute brannte
-                     nieder; Bamme, der den Besitzer nicht leiden konnte, sagte bei offener Tafel:
-                     »Hochversicherte Scheunen brennen immer ab.« Er sollte zurücknehmen. Statt
-                     dessen maß er seinen Gegner und krähte nur: »Jede Feuer-Assekuranz sagt
-                     dasselbe.«</p>
-                  <p>Nun kam es zum Duell; Hauptmann von Rutze sekundierte. Der Beleidigte schoß
-                     Bammen den rechten Ohrzipfel samt dem kleinen goldenen Ohrring weg, den er
-                     »Rheumatismus halber« trug. Er ließ sich nun einen neuen Ring durch die
-                     stehengebliebene Ohrhälfte ziehen und sah seitdem skurriler aus denn je.</p>
-                  <p>Eine gewisse Schelmerei, wie zugestanden werden muß, söhnte manchen seiner
-                     Gegner mit ihm aus; dazu kam, daß er sich gab, wie er war, und sein eigenes
-                     Leben rückhaltlos in den pikantesten Anekdoten aufdeckte. Seine geistigen
-                     Bedürfnisse bestanden in Necken, Spotten und Mystifizieren, weshalb er, wie
-                     kein zweiter, von allen Sammlern und Altertumsforschern in Barnim und Lebus
-                     gefürchtet war. Um seine Tücke besser üben zu können, war er Mitglied der
-                     Gesellschaft für Altertumskunde geworden. Feuersteinwaffen, bronzene
-                     Götzenbilder und verräucherte Topfscherben ließ er aussetzen und verstecken,
-                     wie man Ostereier versteckt, und war über die Maßen froh, wenn nun die »großen
-                     Kinder« zu suchen und die <pb/> Perioden zu bestimmen anfingen. Turgany, wie
-                     sich denken läßt, zog den möglichsten Nutzen aus diesen Mystifikationen, und
-                     jedesmal, wenn Seidentopf etwas Urgermanisches aufgefunden haben und zum
-                     letzten Streiche gegen den zurückgedrängten Justizrat ausholen wollte, pflegte
-                     dieser wie von ungefähr hinzuwerfen: »Wenn nur nicht etwa Bamme...«, ein Satz,
-                     der nie beendet wurde, weil schon die Einleitung desselben zur vollständigen
-                     Verwirrung des Gegners ausreichte.</p>
-                  <p>Alles in allem war der »General« eine Lieblingsfigur auf Schloß Guse, auch der
-                     Hecht im Karpfenteich. Die Gefahren und Unbequemlichkeiten, die sich daraus
-                     ergaben, wurden durch das frische Leben, das er brachte, wieder aufgewogen. Es
-                     kam nicht in Betracht, daß er über Sittlichkeit seine eigenen Ansichten hatte.
-                     Man ließ dies gehen. Die Gräfin schlug jede Kritik darüber mit der Bemerkung
-                     nieder: »L'immoralité ouverte, c'est la seule garantie contre
-                     l'hypocrisie.«</p>
-                  <p>Nur den Vitzewitzes, alt und jung, war mit solcher Bemerkung nicht beizukommen;
-                     sie verharrten, bei äußerlich leidlicher Stellung zu dem alten Schabernack, in
-                     ihrer Abneigung gegen ihn, und Berndt pflegte zu sagen: »Bamme und
-                     Hoppenmarieken, das hätt ein Paar gegeben!«</p>
-                  <p>Neben Bamme, zugleich als sein natürlicher Gegensatz, stand Baron Pehlemann,
-                     die vierte Figur des Guser Kreises. Was Bamme an Mut zuviel hatte, hatte
-                     Pehlemann zuwenig. Daß er der Gräfin dadurch ein kaum geringeres Interesse
-                     einflößte als sein encouragiertes Widerspiel, braucht nicht erst versichert zu
-                     werden, aber auch der Kreis selbst war weit entfernt davon, dies Manko an
-                     Herzhaftigkeit ernstlich zu beanstanden. Am wenigsten die Militärs. Es läßt
-                     sich Ähnliches auch heute noch beobachten. Alle Stubenhocker dringen beständig
-                     auf »Opfertod«; alte geschulte Soldaten aber, die aus fünfzig Schlachten her
-                     wissen, einerseits, welch ein eigen und unsicher Ding der Mut ist,
-                     andererseits, welche niedrige Organisation, welch bloßer, wer weiß woher
-                     genommener Taumelzustand ausreicht, um ein Heldenstück gewöhnlichen Schlages zu
-                     verrichten, alle diese denken sehr ruhig über Bravourangelegenheiten und haben
-                     in <pb/> der Regel längst aufgehört, alles, was dahin gehört, in einem
-                     besonderen Glorienschein zu sehen. So kam es, daß Bamme und Pehlemann die
-                     besten Freunde waren. Natürlich fehlte es nicht an Hänseleien. Erst einige
-                     Wochen vor Beginn unserer Erzählung hatte Pehlemann, der mitunter ein ihn
-                     plötzlich überkommendes Zutrauen zu sich selbst faßte, die Versicherung
-                     abgegeben: »seine Abneigung gegen Schußwaffen beruhe lediglich auf einer allzu
-                     feinen Organisation seines Ohres«, worauf von seiten Bammes mit soviel Ernst
-                     wie möglich erwidert worden war: »Gewiß, dergleichen kommt vor; so lassen Sie
-                     uns, wie alte Corpsburschen, einen Gang auf krumme Säbel machen; das ist ein
-                     stilles Geschäft; Ihr Ohr bleibt unbelästigt. Höchstens hau ich es Ihnen ab.«
-                     Solches Schrauben und Aufziehen war an der Tagesordnung, störte aber keinen
-                     Augenblick das gute Einvernehmen, da der »Wuschewierer Baron«, wie er in der
-                     ganzen Umgegend hieß, bei aller sonstigen Grundverschiedenheit von Bamme,
-                     wenigstens eine gute Seite mit ihm gemein hatte: er war nicht empfindlich. Auch
-                     nicht als Dichter, wozu ihn, seinem eigenen Geständnisse nach, das Podagra
-                     gemacht hatte. Er wollte nämlich beobachtet haben, daß das Podagra seine Muse
-                     jedesmal weiche, eine vetrauliche Mitteilung, die seitens des Guser Kreises zu
-                     folgendem Verse benutzt worden war:</p>
 
-             
-                  <p>Cedo majori</p>
-                  <l>Als des Barones Podagra</l>
-                  <l>Nun seine Muse kommen sah,</l>
-                  <l>Erschrak es sehr und sagte: »Ach,</l>
-                  <l>Daneben bin ich doch zu schwach«,</l>
-                  <l>Und packte schnell das Zwickzeug ein</l>
-                  <l>Und ließ die beiden ganz allein.</l>
-             
+            <div type="chapter">
+               <head>Drittes Kapitel</head>
+               <head>Allerlei Freunde</head>
+               <p>Die »allerlei Freunde« bildeten einen weiteren und einen engeren Kreis. Der engere
+                  Kreis war eine Siebenzahl und bestand aus folgenden Personen: Graf Drosselstein
+                  auf Hohen-Ziesar, <pb/> Präsident von Krach auf Bingenwalde, Generalmajor von
+                  Bamme auf Quirlsdorf, Baron von Pehlemann auf Wuschewier, Domherr von Medewitz auf
+                  Alt-Medewitz, Hauptmann von Rutze auf Protzhagen, Doktor Faulstich in
+                  Kirch-Göritz.</p>
+               <p>Es wird unsere nächste Aufgabe sein, der bloßen Vorstellung dieser Herren, die mit
+                  Ausnahme Doktor Faulstichs alle das sechzigste Jahr erreicht oder überschritten
+                  hatten, eine kurze Charakterisierung folgen zu lassen. Wenn dies ein Verstoß gegen
+                  die Gesetze guter Erzählung ist, so möge der Leser Nachsicht üben, und um so mehr,
+                  als der zu begehende Fehler vielleicht mehr scheinbar als wirklich ist. Denn mit
+                  wie großem Recht auch die Vorführung abgeschlossener, ihr Tun und Denken
+                  zettelartig am Mantel tragender Gestalten verworfen und statt dessen jene
+                  Erzählungskunst gepriesen werden mag, die die Phantasie des Lesers in den Stand
+                  setzt, das nur eben Angedeutete schöpferisch auszubilden und zu vollenden, so
+                  mögen doch Ausnahmen überall da gestattet sein, wo, wie hier, das
+                  Nebeneinanderstellen fertiger Figuren nicht viel mehr bedeuten will als eine
+                  weniger um der Bildnisse selbst als um des Ortes willen, wo sie sich finden, dem
+                  Leser vorgeführte Porträtgalerie.</p>
+               <p>Die vornehmste Erscheinung in Schloß Guse, zugleich dem Zirkel am längsten
+                  angehörig, war Graf Drosselstein. In Königsberg geboren, in dessen Nähe auch die
+                  Familiengüter lagen, war er, trotzdem er die Provinz gewechselt hatte, ein
+                  vollkommener Repräsentant des ostpreußischen Adels. Dieser Adel, dem Hofe und dem
+                  »Dienste« ferner stehend, hatte freilich – wenigstens damals noch – darauf
+                  verzichten müssen, seinen Namen gleich ruhmreich wie die märkisch-pommerschen
+                  Familien in unsere bis dahin wenig mehr als eine Reihe von Schlachten darstellende
+                  Geschichte einzutragen, aber was ihm dadurch an Volkstümlichkeit und historischem
+                  Klang verlorengegangen war, war wieder aufgewogen worden durch das Bewußtsein
+                  gewahrter Unabhängigkeit. Weniger ein- und untergeordnet in das Räderwerk des
+                  militärisch-bureaukratischen Staates, hatte <pb/> sich ganz Ostpreußen und
+                  besonders sein Adel – im einzelnen zu seinem Nachteil, im ganzen zu seinem Vorzug
+                  – eine ausgesprochene provinzielle Eigentümlichkeit zu bewahren gewußt.</p>
+               <p>In dieser provinziellen Eigentümlichkeit, die sich vielleicht am besten als ein
+                  mitunter herber Ausdruck des Freiheitlichen bezeichnen läßt, stand auch Graf
+                  Drosselstein, und wenn er an der Tafel seiner Freundin, der Guser Gräfin, dem
+                  säbelbeinigen Generalmajor von Bamme gegenübersaß, der zweideutige Anekdoten
+                  erzählte und von Pferden, Prinzen und Tänzerinnen, weniger aus Renommisterei als
+                  aus Übermut und schlechter Erziehung, in krähstimmigem Jargon perorierte, so
+                  mochte er sich, nicht ohne Anwandlung ostpreußischen Stolzes, des Unterschiedes
+                  zwischen seiner heimatlichen Provinz und dem märkischen Stammlande bewußt werden.
+                  Aber solche Anwandlungen schwanden so rasch, wie sie kamen. Von seltener
+                  Unparteilichkeit, allem Engen und Selbstischen fern, in welcher Form es auch
+                  auftreten mochte, stand es für seine Erkenntnis längst fest, daß die Mark, trotz
+                  aller ihrer Unleidlichkeiten, als das Kern- und Herzstück der Monarchie anzusehen
+                  sei, mit oder ohne Bammes, ja zum Teil wegen derselben.</p>
+               <p>Der Graf hatte nur kurze Zeit dem Staate gedient. Mit zwanzig Jahren in das erste
+                  Bataillon Garde tretend, aber schon nach Ablauf eines Jahres gesundheitshalber den
+                  Abschied nehmend, war er froh gewesen, den Anblick des Potsdamer Exerzierplatzes
+                  mit dem der Marine von Nizza vertauschen zu können. Wiederhergestellt, durchzog er
+                  Italien, lebte, ganz dem Studium der Kunst hingegeben, erst in Rom, dann in Paris
+                  und beschloß seine »große Tour« durch einen Ausflug nach Holland und England.</p>
+               <p>Er war ausgangs der Dreißig, als ihn um 1788 Familienangelegenheiten an den
+                  Petersburger Hof führten. Hier machte er die Bekanntschaft einer Komtesse Lieven,
+                  die ihn durch ihre durchsichtige Alabasterschönheit in demselben Augenblicke
+                  gefangennahm, in dem er sie sah. Seine Werbung wurde nicht zurückgewiesen; die
+                  Kaiserin selbst beglückwünschte das<pb/> schöne Paar, das sich, unmittelbar nach
+                  der mit großer Pracht und unter Teilnahme des Petersburger Hofadels gefeierten
+                  Vermählung, auf die ostpreußischen Güter des Grafen zurückzog.</p>
+               <p>Aber das stille Glück der Flitterwochen erschien der jungen Gräfin bald zu still.
+                  Sie sehnte sich nach dem zerstreuenden Leben der »Gesellschaft«, und da weder die
+                  politischen Verhältnisse noch die Gesinnungen des Grafen ein erneutes Auftreten am
+                  russischen Hofe – das die junge Gräfin allerdings am liebsten gesehen haben würde
+                  – ausführbar erscheinen ließen, so wurde die Übersiedelung nach Hohen-Ziesar,
+                  einem ursprünglich den märkischen Drosselsteins zugehörigen Gute, das erst vor
+                  zwei oder drei Jahren an die ostpreußische Linie gekommen war, beschlossen.</p>
+               <p>Von Hohen-Ziesar aus ermöglichte sich ein verhältnismäßig leichter Verkehr mit der
+                  Hauptstadt, wo das Hofleben, das während der Friderizianischen Zeit beinahe völlig
+                  geruht hatte, eben damals einen neuen Aufschwung zu nehmen begann. Es war nicht
+                  Petersburg, aber es war doch Berlin. Die junge Gräfin, wiewohl zeitweise von einem
+                  halb ermüdeten, halb zerstreuten Ausdruck, als ob ihre Seele nach etwas Fernem und
+                  Verlorenem suche, gab sich nichtsdestoweniger den Zerstreuungen ohne Rückhalt hin.
+                  Sie galt für glücklich; sie schien es auch. Aber der durchsichtige Alabasterteint
+                  hatte nichts Gutes bedeutet; ein Blutsturz überraschte sie kurz vor einer
+                  Opernhausvorstellung; eine Abzehrung folgte, sie starb vor Ausgang des
+                  Winters.</p>
+               <p>Der Graf war wie niedergeworfen. Er mied auf lange Zeit hin jeden Umgang; selbst
+                  in Schloß Guse, wo er damals schon verkehrte, blieb er aus. Als er wieder in der
+                  Gesellschaft erschien, war seine Selbstbeherrschung vollkommen; aber er hatte
+                  jenen lebemännischen Frohsinn und die gesprächige Heiterkeit eingebüßt, die ihn
+                  früher ausgezeichnet hatten. Er lachte nicht mehr. Er hatte nur noch das Lächeln
+                  derer, die mit dem Leben abgeschlossen haben. Hier und dort hieß es, daß es nicht
+                  der Tod der jungen Gräfin allein sei, der diesen Wandel in seinem Wesen geschaffen
+                  habe. Er wandte sich großen Bauten zu; besonders <pb/> waren es Parkanlagen, die
+                  ihn zu zerstreuen begannen. Hohen-Ziesar bot ein gutes Material, und so entstand
+                  im Geschmack jener Zeit eine kostspielige Schöpfung, die sich, vom Flachdach des
+                  Schlosses oder noch besser vom Kirchturm aus angesehen, als eine große in Stein
+                  und Erde ausgeführte Alpenreliefkarte darstellte. Granitblöcke wurden zu
+                  irgendeinem Rigi aufgetürmt, über den Grat des Gebirges liefen zwei Pässe, die
+                  nach Altdorf oder Küßnacht führten, während ein aus unsichtbaren Quellen
+                  gespeister See einen kataraktreichen Bergstrom in die Tiefe schickte. Sennhütten
+                  und Matten lösten sich untereinander ab; zu Füßen dieser Künsteleien aber, in das
+                  wirkliche Oderbruch übergehend, dehnte sich eine reizende Flachlandszenerie mit
+                  Feld und Wiesen, mit Fluß, Bach und Brücken und einem stillen, weidenumstandenen
+                  Teich, dessen japanisches Inselhäuschen die Schwäne umzogen.</p>
+               <p>An der Herstellung dieses Parkes nahm unsere Guser Gräfin, die sich zu allem
+                  Rokokohaften hingezogen fühlte, den regsten Anteil, der Verkehr wuchs, Briefe
+                  wurden gewechselt, Konferenzen abgehalten, deren endliches Resultat nicht nur der
+                  Aufbau der Hohen-Ziesarschen »Schweiz«, sondern auch die Etablierung einer
+                  Freundschaft war, die sich seitdem, namentlich von seiten der Gräfin, zu einer
+                  wirklichen, über Laune und Zerstreuungsbedürfnis weit hinausgehenden Intimität
+                  gesteigert hatte.</p>
+               <p>Dies konnte kaum ausbleiben. Denn so gewiß die Gräfin am Aparten hing, sowenig sie
+                  der Originalfiguren ihres Zirkels entraten mochte, sosehr empfand sie doch auch,
+                  was der Mehrzahl derselben fehlte: Schliff, Bildung, Ton, vor allem jegliches
+                  Verständnis für Kunst und Schönheit. All dies besaß der Graf. Er hatte nicht nur
+                  die Höhe der Rheinsberger Gesellschaft, er übertraf dieselbe sogar durch jenes
+                  nachhaltig wirkende Ansehen, das allein aus Selbstsuchtlosigkeit und reinem Wandel
+                  sprießt.</p>
+               <p>Ein bestimmtes Ereignis gab der schon gefestigten Freundschaft ein neues Band. Der
+                  Graf nahm Veranlassung, die Gräfin ins Geheimnis zu ziehen; er erzählte ihr die
+                  Geschichte vom <pb/> Hinscheiden seiner Frau, auch von dem, was diesem Hinscheiden
+                  unmittelbar vorausgegangen war. Es war das Folgende.</p>
+               <p>Die junge Gräfin, nach einem heftigen Hustenanfall, schien in einen Zustand tiefen
+                  Schlummers zu verfallen, auch der Graf, ermüdet von tagelangem Wachen, schlief in
+                  seinem Lehnstuhl ein. Es war spät, nur eine Schirmlampe brannte. Als er erwachte,
+                  bemerkte er, daß die Kranke aufgestanden war und sich der Tapetentür eines
+                  Wandschrankes näherte. Eine lethargische Schwere, zugleich ein dunkeles Gefühl,
+                  daß er die Kranke in ihrem Tun nicht stören dürfe, hielten ihn in seinem Lehnstuhl
+                  fest. Er sah nun, daß sie zunächst ein Kästchen aus dem Schranke, dann aus einem
+                  verborgenen Fach des Kästchens eine Anzahl Briefe nahm, die mit einer roten Schnur
+                  zusammengebunden waren. Sie schritt wieder zurück, an ihm vorbei, glaubte sich zu
+                  überzeugen, daß er schlafe, und trat dann an den Kamin. Sie berührte die Briefe
+                  mit den Lippen, löste die Schnur und warf dann jeden einzelnen Brief vorsichtig,
+                  damit die Flamme nicht zu hell aufschlüge, in das halberloschene Feuer. Als alles
+                  verglimmt war, kehrte sie an ihr Lager zurück, hüllte sich in die Decken und
+                  atmete hoch auf, wie befreit von einer bangen Last. Es war ihr letztes Tun. Ehe
+                  der Morgen kam, war sie nicht mehr. Welch ein Tag für den Überlebenden! Er hatte
+                  sich geliebt geglaubt; nun war alles Wahn und Traum. Wessen Hand hatte die Briefe
+                  geschrieben, die die Empfängerin bis zuletzt wie ein Allerteuerstes gehegt hatte?
+                  Er frug es immer wieder; aber keine Antwort. Das Geheimnis war bei der Toten und
+                  der Asche im Kamin.</p>
+               <p>So hatte der Graf erzählt. Die Erzählung selbst aber, wie schon angedeutet,
+                  besiegelte die Freundschaft, die von jenem Tage an unauflöslich zwischen dem
+                  Witwergrafen und Hohen-Ziesar und der Gräfinwitwe auf Schloß Guse bestand.</p>
+               <p>Schloß Guse hatte jedoch nur einen Drosselstein; alles andere, was sich von
+                  »allerlei Freunden« daselbst versammelte, konnte so ziemlich als Revers des Grafen
+                  gelten.</p>
+               <pb/>
+               <p>Ihm im Range am nächsten stand Präsident von Krach, ein Mann von Gaben und
+                  Charakter. Er galt als ein bedeutender Jurist, hatte durch hartnäckige Opposition
+                  den Zorn des großen Königs herausgefordert und seinerseits, in tiefer Verstimmung
+                  über die bei dieser Gelegenheit erfahrene Unbill, sich nach Bingenwalde
+                  zurückgezogen. Er war hager, groß, scharf, wenig leidlich. Sein hervorstechender
+                  Zug war der Geiz. Er beanstandete jede Rechnung und bezahlte sie, nach dem
+                  Grundsatze: »Zeit gewonnen, Zins gewonnen«, immer erst nach eingeleitetem
+                  prozessualischen Verfahren. Die Betroffenen spotteten, daß es aus alter
+                  Anhänglichkeit an die Gerichte geschähe, zu denen sich sein juristisches
+                  Paragraphenherz doch immer wieder hingezogen fühle. Eines besonderen Rufes
+                  genossen auch seine Diners, die, wiewohl alljährlich nur einmal wiederkehrend, ein
+                  wahres Schrecknis der gesamten Oderbruch-Aristokratie bildeten. Einzig und allein
+                  der alte Bamme – den seine Trinkgelder und Kordialequivoken zum Liebling aller als
+                  Livreediener eingekleideten Kutscher und Gärtner machten – hatte sich bisher unter
+                  Anwendung von Flascheneskamotage diesem Schrecknis zu entziehen gewußt, so daß
+                  beispielsweise Baron Pehlemann auf das ernsthafteste versicherte: »Nie, während
+                  sämtlicher Krachschen Diners, sei seitens des ›Generals‹ ein Tropfen anderen
+                  Weines als aus seinem eignen, Bammeschen, Keller getrunken worden.« Bamme selbst,
+                  ohnehin von einer beinahe krankhaften Neigung erfüllt, sein Husarentum coûte que
+                  coûte zur Geltung zu bringen, ließ sich solche Huldigungen gern gefallen,
+                  ermangelte aber andererseits nie, natürlich nur zugunsten neuer Malicen gegen
+                  Krach, seinen Schlauheitstriumph über diesen entschieden in Abrede zu stellen.
+                  Krach, so schwur er, sei viel zu scharf, um getäuscht werden zu können; er habe
+                  den Kriminal- und Inquisitorialblick einer dreißigjährigen Praxis, er sehe alles,
+                  er wisse alles; aber freilich, er schweige auch, weil er bei kleinem Ärger die
+                  großen Vorteile der Situation sofort überblicke und in Wahrheit nur von einer
+                  Frage bestürmt werde: »Warum sind sie nicht alle Bammes?«</p>
+               <p>Die Gräfin, persönlich von großer Freigibigkeit, nahm wenig <pb/> Anstoß an diesem
+                  Geiz. Sie hatte lange genug gelebt, um zu wissen, daß das gegen sich selbst und
+                  andere gleich erbarmungslose Sparen den Körper fest und zäh, den Geist scharf und
+                  schneidig mache, vor allem auch der Ausbildung von Originalen günstig sei,
+                  freilich keiner angenehmen. Aber darauf kam es ihr nicht an. Was schließlich den
+                  Ausschlag zugunsten Krachs gab, war, daß auch der Prinz einen starken Hang zum
+                  Ökonomisieren gehabt hatte.</p>
+               <p>Die dritte Figur des Kreises war der schon mehrgenannte Generalmajor von Bamme
+                  oder der »General«, wie er kurzweg in Schloß Guse genannt wurde, ein kleiner, sehr
+                  häßlicher Mann mit vorstehenden Backenknochen und Beinen wie ein Rokokotisch; die
+                  ganze Erscheinung husarenhaft, aber doch noch mehr Kalmück als Husar.</p>
+               <p>Er gehörte einem alten havelländischen Geschlechte an, Haus Bamme bei Rathenow,
+                  das mit ihm erlosch. Die Wahrheit zu gestehen, erlosch nicht viel damit. Seine
+                  eigene Jugend war hingewüstet worden; wunderbare Geschichten gingen davon um. Ein
+                  adliges Fräulein, das sich von ihm geliebt glaubte, Tochter eines Nachbars, hatte
+                  er in Unehre gebracht; den Bruder, der auf Eheschließung drang, jagte er vom Hofe.
+                  Das Mädchen selbst, übrigens im Hause der Eltern bleibend, wurde irrsinnig.</p>
+               <p>Ein Jahr später starb der alte Bamme; Vater und Sohn waren einander wert gewesen.
+                  Sie setzten des Alten Sarg auf eine Gruftversenkung, und neben den Sarg, eine
+                  Fackel in der Hand, stellte sich der Sohn. Er trug die rote Uniform des
+                  Husarenregiments Zieten; die kleine Kirche war schwarz ausgeschlagen. In dem
+                  Augenblicke, in dem der Sarg niederstieg, rief die Irrsinnige, die sich auf dem
+                  Orgelchor versteckt hatte: »Seht, nun fährt er in die Hölle.« Alles entsetzte
+                  sich; nur der, an den sie die Worte gerichtet hatte, lächelte. Er war übrigens ein
+                  ausgezeichneter Soldat, das hielt ihn.</p>
+               <p>Als er nach dem Basler Frieden, der ihn wurmte, seinen Abschied nahm, zog er aus
+                  dem Havellande ins Oderbruch und kaufte sich in der Nähe von Schloß Guse an. Die
+                  Groß-Quirlsdorfer hatten sich wenig über ihn zu beklagen. Er setzte <pb/> zwar das
+                  alte Leben fort; aber die Oderbrücher, selber nicht diffizil, legten ihm durch
+                  Mißbilligung keinen Zwang auf. Sein Geschmack wurde immer wunderlicher. Starb wer
+                  Junges im Dorf, Bursch oder Mädchen, so ließ er ein großes Begräbnis anrichten,
+                  vorausgesetzt, daß die Leidtragenden ihre Zustimmung gaben, die Leiche zu
+                  schminken und in einem mit vielen Lichtern geschmückten Flur aufzubahren. Dann
+                  stellte er sich zu Füßen, rauchte aus einem Meerschaumkopf und sah, halb
+                  zugekniffenen Auges, die Leiche eine halbe Stunde lang an. Was dabei durch seine
+                  Seele ging, wußte niemand. Er galt für einen Tückebold, auch noch für Schlimmeres;
+                  indessen er war General, märkisch und soldatisch vom Wirbel bis zur Zeh und von
+                  einem humoristisch verwegenen Mut. Erst vor drei Jahren hatte sein letztes
+                  Rencontre stattgefunden. Die Veranlassung war ganz in seiner Art. Eine Scheune auf
+                  einem Nachbargute brannte nieder; Bamme, der den Besitzer nicht leiden konnte,
+                  sagte bei offener Tafel: »Hochversicherte Scheunen brennen immer ab.« Er sollte
+                  zurücknehmen. Statt dessen maß er seinen Gegner und krähte nur: »Jede
+                  Feuer-Assekuranz sagt dasselbe.«</p>
+               <p>Nun kam es zum Duell; Hauptmann von Rutze sekundierte. Der Beleidigte schoß Bammen
+                  den rechten Ohrzipfel samt dem kleinen goldenen Ohrring weg, den er »Rheumatismus
+                  halber« trug. Er ließ sich nun einen neuen Ring durch die stehengebliebene
+                  Ohrhälfte ziehen und sah seitdem skurriler aus denn je.</p>
+               <p>Eine gewisse Schelmerei, wie zugestanden werden muß, söhnte manchen seiner Gegner
+                  mit ihm aus; dazu kam, daß er sich gab, wie er war, und sein eigenes Leben
+                  rückhaltlos in den pikantesten Anekdoten aufdeckte. Seine geistigen Bedürfnisse
+                  bestanden in Necken, Spotten und Mystifizieren, weshalb er, wie kein zweiter, von
+                  allen Sammlern und Altertumsforschern in Barnim und Lebus gefürchtet war. Um seine
+                  Tücke besser üben zu können, war er Mitglied der Gesellschaft für Altertumskunde
+                  geworden. Feuersteinwaffen, bronzene Götzenbilder und verräucherte Topfscherben
+                  ließ er aussetzen und verstecken, wie man Ostereier versteckt, und war über die
+                  Maßen froh, wenn nun die »großen Kinder« zu suchen und die <pb/> Perioden zu
+                  bestimmen anfingen. Turgany, wie sich denken läßt, zog den möglichsten Nutzen aus
+                  diesen Mystifikationen, und jedesmal, wenn Seidentopf etwas Urgermanisches
+                  aufgefunden haben und zum letzten Streiche gegen den zurückgedrängten Justizrat
+                  ausholen wollte, pflegte dieser wie von ungefähr hinzuwerfen: »Wenn nur nicht etwa
+                  Bamme...«, ein Satz, der nie beendet wurde, weil schon die Einleitung desselben
+                  zur vollständigen Verwirrung des Gegners ausreichte.</p>
+               <p>Alles in allem war der »General« eine Lieblingsfigur auf Schloß Guse, auch der
+                  Hecht im Karpfenteich. Die Gefahren und Unbequemlichkeiten, die sich daraus
+                  ergaben, wurden durch das frische Leben, das er brachte, wieder aufgewogen. Es kam
+                  nicht in Betracht, daß er über Sittlichkeit seine eigenen Ansichten hatte. Man
+                  ließ dies gehen. Die Gräfin schlug jede Kritik darüber mit der Bemerkung nieder:
+                  »L'immoralité ouverte, c'est la seule garantie contre l'hypocrisie.«</p>
+               <p>Nur den Vitzewitzes, alt und jung, war mit solcher Bemerkung nicht beizukommen;
+                  sie verharrten, bei äußerlich leidlicher Stellung zu dem alten Schabernack, in
+                  ihrer Abneigung gegen ihn, und Berndt pflegte zu sagen: »Bamme und Hoppenmarieken,
+                  das hätt ein Paar gegeben!«</p>
+               <p>Neben Bamme, zugleich als sein natürlicher Gegensatz, stand Baron Pehlemann, die
+                  vierte Figur des Guser Kreises. Was Bamme an Mut zuviel hatte, hatte Pehlemann
+                  zuwenig. Daß er der Gräfin dadurch ein kaum geringeres Interesse einflößte als
+                  sein encouragiertes Widerspiel, braucht nicht erst versichert zu werden, aber auch
+                  der Kreis selbst war weit entfernt davon, dies Manko an Herzhaftigkeit ernstlich
+                  zu beanstanden. Am wenigsten die Militärs. Es läßt sich Ähnliches auch heute noch
+                  beobachten. Alle Stubenhocker dringen beständig auf »Opfertod«; alte geschulte
+                  Soldaten aber, die aus fünfzig Schlachten her wissen, einerseits, welch ein eigen
+                  und unsicher Ding der Mut ist, andererseits, welche niedrige Organisation, welch
+                  bloßer, wer weiß woher genommener Taumelzustand ausreicht, um ein Heldenstück
+                  gewöhnlichen Schlages zu verrichten, alle diese denken sehr ruhig über
+                  Bravourangelegenheiten und haben in <pb/> der Regel längst aufgehört, alles, was
+                  dahin gehört, in einem besonderen Glorienschein zu sehen. So kam es, daß Bamme und
+                  Pehlemann die besten Freunde waren. Natürlich fehlte es nicht an Hänseleien. Erst
+                  einige Wochen vor Beginn unserer Erzählung hatte Pehlemann, der mitunter ein ihn
+                  plötzlich überkommendes Zutrauen zu sich selbst faßte, die Versicherung abgegeben:
+                  »seine Abneigung gegen Schußwaffen beruhe lediglich auf einer allzu feinen
+                  Organisation seines Ohres«, worauf von seiten Bammes mit soviel Ernst wie möglich
+                  erwidert worden war: »Gewiß, dergleichen kommt vor; so lassen Sie uns, wie alte
+                  Corpsburschen, einen Gang auf krumme Säbel machen; das ist ein stilles Geschäft;
+                  Ihr Ohr bleibt unbelästigt. Höchstens hau ich es Ihnen ab.« Solches Schrauben und
+                  Aufziehen war an der Tagesordnung, störte aber keinen Augenblick das gute
+                  Einvernehmen, da der »Wuschewierer Baron«, wie er in der ganzen Umgegend hieß, bei
+                  aller sonstigen Grundverschiedenheit von Bamme, wenigstens eine gute Seite mit ihm
+                  gemein hatte: er war nicht empfindlich. Auch nicht als Dichter, wozu ihn, seinem
+                  eigenen Geständnisse nach, das Podagra gemacht hatte. Er wollte nämlich beobachtet
+                  haben, daß das Podagra seine Muse jedesmal weiche, eine vetrauliche Mitteilung,
+                  die seitens des Guser Kreises zu folgendem Verse benutzt worden war:</p>
 
-                  <p>Es hieß angeblich, Bamme habe diesen Vers gemacht; in Wahrheit wußte jeder, daß
-                     er von Doktor Faulstich herrühre, der immer bereit war, seine kleinen
-                     Piratenboote unter fremder Flagge segeln zu lassen.</p>
-                  <p>Der fünfte des Kreises war der Kammerherr von Medewitz auf Alt-Medewitz, ein
-                     langweiliger, pedantischer Herr, sehr <pb/> durchdrungen von der Bedeutung der
-                     Medewitze, trotzdem die Blätter der vaterländischen Geschichte den Namen
-                     derselben nirgends aufzeichneten. Seine Spezialität waren Erfindungen, in
-                     betreff deren er, nach Art der Philosophen, nichts Großes und Kleines kannte.
-                     Er hatte für alles die gleiche Liebe. Sparheizung, luftdichter
-                     Fensterverschluß, Zerstörung des Mauersalpeters in Schaf- und Pferdestählen,
-                     künstliche Morchelzucht, das waren einige der Fragen, die seinen beständig auf
-                     Lösungen und Verbesserungen gerichteten Geist beschäftigten. Den
-                     Militärbehörden war er wohlbekannt durch seine mehrfach eingereichten
-                     Abhandlungen über erleichtertes Gepäcktragen und praktische Mantelrollung.
-                     Immer mit beigefügter Zeichnung. Sein eigentliches Steckenpferd aber waren die
-                     Dosen. Er war ein Sammler, und man durfte füglich sagen, was Seidentopf für die
-                     Urnen war, das war von Medewitz für die Tabatieren und alles ihnen Anverwandte.
-                     In bezug auf die Friderizianische Zeit war seine Sammlung so gut wie komplett.
-                     Von der Mollwitzdose an, auf der der junge König am Gattertor von Ohlau mit
-                     Flintenschüssen empfangen wurde, bis zur Hubertsburgdose, auf der ein Kurier,
-                     mit einem wehenden Tuche und dem Worte »Friede« darauf, durch die Welt flog,
-                     hatte er sie alle, einzelne sogar doppelt.</p>
-                  <p>Soweit war alles gut. Er begnügte sich aber nicht mit der »stillen Dose«, er
-                     war vor allem auch ein leidenschaftlicher Verehrer jener damals auf der Höhe
-                     ihres Ruhmes stehenden, in Gold und Schildpatt ausgeführten
-                     Miniaturleierkästen, die unter dem Namen der Spieldosen ihre Reise um die Welt
-                     gemacht haben. Solche mit Musik geladene Überfallwerkzeuge führte von Medewitz
-                     beständig bei sich, und mit ihnen war es, daß er seine gesellschaftlichen
-                     Attentate verübte. Wie es Menschen gibt, vor deren Anekdoten man, und wenn man
-                     in einer Begräbniskutsche mit ihnen säße, nie ganz sicher ist, so war man nie
-                     sicher vor einer Medewitzschen Spieldose. Er war sich dieser Macht bewußt und
-                     übte sie, mitunter glücklich und taktvoll, durch Ausfüllung ängstlicher Pausen;
-                     aber viel häufiger noch folgte er den Eingebungen bloßer Laune oder verletzter
-                     <pb/> Eitelkeit. Unfähig, aus eigenen Mitteln zur Gesellschaft beizusteuern,
-                     wachte er eifersüchtig über allem, was durch Wissen oder Darstellungsgabe sich
-                     auszeichnete, und wenn vielleicht der glänzend aufgebaute Satz eines guten
-                     Sprechers eben seinen Abschluß erhalten sollte, durfte man sicher sein, aus
-                     bloßer Neidteufelei eine Papageno-Arie oder die »Schlacht bei Marengo«
-                     dazwischentreten zu sehen. Was das Niederdrückendste war, war, daß das Mittel,
-                     wenn nur ein einziger Fremde bei Tische saß, trotz seiner Verbrauchtheit immer
-                     wieder wirkte. Der Gräfin wäre es ein leichtes gewesen, dieser Mißgunstsmusik
-                     ein Ende zu machen; aber so abgeschmackt sie das Gebaren fand, so freute sie
-                     sich doch jedesmal, den verlegenen Ärger der um ihren Redetriumph Betrogenen
-                     beobachten zu können.</p>
-                  <p>Der Unbedeutendste des Guser Zirkels war von Rutze, leidenschaftlicher Jäger,
-                     ein langer, sehniger, ziemlich schweigsamer Mann, ehemals Hauptmann im
-                     pommerschen Regiment von Pirch. Er hatte Protzhagen, das übrigens uralter
-                     Rutzescher Besitz war, erst vor etwa zwanzig Jahren gekauft. Die Veranlassung
-                     dazu wurde wie folgt erzählt:</p>
-                  <p>Nach Stargard hin, wo das Regiment von Pirch in Garnison lag, verirrte sich
-                     eine Topographie des Oderbruchs. In dem Kapitel »Buckow und seine Umgebung«
-                     hieß es auf Seite 114: »Bei Protzhagen, einem Gute, das drei Jahrhunderte lang
-                     den Rutzes angehörte, zieht sich eine tiefe Schlucht, die ›Junker Hansens
-                     Schlucht‹. Sie führt diesen Namen, weil Junker Hans von Rutze hier stürzte und
-                     verunglückte; dies war 1693. Es war der letzte Rutze.« Kaum war von einem der
-                     Kameraden diese Notiz entdeckt worden, so hieß es in nicht endenden
-                     Scherzreden: »Rutze sei untergeschoben; es gäbe keine Rutzes mehr: der letzte
-                     läge längst in der Protzhagener Kirche begraben.« Unser Hauptmann, kein Meister
-                     im Repartie, wurde mißmutig; er nahm den Abschied und kaufte Protzhagen, um
-                     nunmehr an Ort und Stelle die Beweisführung anzutreten, daß es mit dem »letzten
-                     Rutze« noch gute Wege habe. Aber er verbesserte sich dadurch nur wenig. Die
-                     Stargarder Neckereien waren bekannt geworden und hatten nun auf Schloß Guse
-                     ihren <pb/> Fortgang. Bamme verschwor sich hoch und teuer, daß es mit einem der
-                     beiden »letzten Rutzes«, dem jetzigen oder dem früheren, notwendig eine
-                     sonderbare Bewandtnis haben müsse. Entweder sei der selige Hans von Rutze
-                     nichts als eine gespenstische Vorerscheinung, eine Spiegelung von etwas erst
-                     Kommendem gewesen, oder aber der unter ihnen wandelnde Freund, ohnehin beinahe
-                     fleischlos, sei ein Revenant. Was ihn (Bamme) persönlich angehe, so gäbe er der
-                     ersteren Annahme den Vorzug, weil ihm darnach die Wirklichkeit der Dinge noch
-                     eine Hirschjagd, einen Schluchtensturz und einen den Hals brechenden Rutze
-                     schuldig sei.</p>
-                  <p>Der alte Hauptmann folgte diesen Auseinandersetzungen jedesmal mit süßsaurem
-                     Gesicht, hatte sich aber längst aller Proteste dagegen begeben. Dann und wann
-                     schritt er seinerseits zum Angriff, ohne jedoch mit Hilfe dieses Kunstgriffs
-                     dem gewandten Bamme beikommen zu können.</p>
-                  <p>Unter seinen sonstigen kleinen Schwächen war die bemerkenswerteste die, daß er
-                     sich, in Anbetracht seines aus Schluchten und Abhängen bestehenden Protzhagener
-                     Territoriums, für eine Art Gebirgsbewohner hielt. »Wir auf der Höhe« zählte zu
-                     seinen Lieblingsredewendungen.</p>
-                  <p>Der Gräfin war er wert durch einen besonderen Respekt, den er ihr
-                     entgegenbrachte. Denn wie sehr sie vorgeben mochte, über Huldigungen und
-                     Schmeicheleien hinweg zu sein, so war sie schließlich doch nicht unempfindlich
-                     dagegen.</p>
-                  <p>Der siebente und letzte des »engeren Zirkels« war Doktor Faulstich Ein späteres
-                     Kapitel wird von ihm ausführlicher erzählen.</p>
-               </div>
-            
+
+               <p>Cedo majori</p>
+               <l>Als des Barones Podagra</l>
+               <l>Nun seine Muse kommen sah,</l>
+               <l>Erschrak es sehr und sagte: »Ach,</l>
+               <l>Daneben bin ich doch zu schwach«,</l>
+               <l>Und packte schnell das Zwickzeug ein</l>
+               <l>Und ließ die beiden ganz allein.</l>
+
+
+               <p>Es hieß angeblich, Bamme habe diesen Vers gemacht; in Wahrheit wußte jeder, daß er
+                  von Doktor Faulstich herrühre, der immer bereit war, seine kleinen Piratenboote
+                  unter fremder Flagge segeln zu lassen.</p>
+               <p>Der fünfte des Kreises war der Kammerherr von Medewitz auf Alt-Medewitz, ein
+                  langweiliger, pedantischer Herr, sehr <pb/> durchdrungen von der Bedeutung der
+                  Medewitze, trotzdem die Blätter der vaterländischen Geschichte den Namen derselben
+                  nirgends aufzeichneten. Seine Spezialität waren Erfindungen, in betreff deren er,
+                  nach Art der Philosophen, nichts Großes und Kleines kannte. Er hatte für alles die
+                  gleiche Liebe. Sparheizung, luftdichter Fensterverschluß, Zerstörung des
+                  Mauersalpeters in Schaf- und Pferdestählen, künstliche Morchelzucht, das waren
+                  einige der Fragen, die seinen beständig auf Lösungen und Verbesserungen
+                  gerichteten Geist beschäftigten. Den Militärbehörden war er wohlbekannt durch
+                  seine mehrfach eingereichten Abhandlungen über erleichtertes Gepäcktragen und
+                  praktische Mantelrollung. Immer mit beigefügter Zeichnung. Sein eigentliches
+                  Steckenpferd aber waren die Dosen. Er war ein Sammler, und man durfte füglich
+                  sagen, was Seidentopf für die Urnen war, das war von Medewitz für die Tabatieren
+                  und alles ihnen Anverwandte. In bezug auf die Friderizianische Zeit war seine
+                  Sammlung so gut wie komplett. Von der Mollwitzdose an, auf der der junge König am
+                  Gattertor von Ohlau mit Flintenschüssen empfangen wurde, bis zur Hubertsburgdose,
+                  auf der ein Kurier, mit einem wehenden Tuche und dem Worte »Friede« darauf, durch
+                  die Welt flog, hatte er sie alle, einzelne sogar doppelt.</p>
+               <p>Soweit war alles gut. Er begnügte sich aber nicht mit der »stillen Dose«, er war
+                  vor allem auch ein leidenschaftlicher Verehrer jener damals auf der Höhe ihres
+                  Ruhmes stehenden, in Gold und Schildpatt ausgeführten Miniaturleierkästen, die
+                  unter dem Namen der Spieldosen ihre Reise um die Welt gemacht haben. Solche mit
+                  Musik geladene Überfallwerkzeuge führte von Medewitz beständig bei sich, und mit
+                  ihnen war es, daß er seine gesellschaftlichen Attentate verübte. Wie es Menschen
+                  gibt, vor deren Anekdoten man, und wenn man in einer Begräbniskutsche mit ihnen
+                  säße, nie ganz sicher ist, so war man nie sicher vor einer Medewitzschen
+                  Spieldose. Er war sich dieser Macht bewußt und übte sie, mitunter glücklich und
+                  taktvoll, durch Ausfüllung ängstlicher Pausen; aber viel häufiger noch folgte er
+                  den Eingebungen bloßer Laune oder verletzter <pb/> Eitelkeit. Unfähig, aus eigenen
+                  Mitteln zur Gesellschaft beizusteuern, wachte er eifersüchtig über allem, was
+                  durch Wissen oder Darstellungsgabe sich auszeichnete, und wenn vielleicht der
+                  glänzend aufgebaute Satz eines guten Sprechers eben seinen Abschluß erhalten
+                  sollte, durfte man sicher sein, aus bloßer Neidteufelei eine Papageno-Arie oder
+                  die »Schlacht bei Marengo« dazwischentreten zu sehen. Was das Niederdrückendste
+                  war, war, daß das Mittel, wenn nur ein einziger Fremde bei Tische saß, trotz
+                  seiner Verbrauchtheit immer wieder wirkte. Der Gräfin wäre es ein leichtes
+                  gewesen, dieser Mißgunstsmusik ein Ende zu machen; aber so abgeschmackt sie das
+                  Gebaren fand, so freute sie sich doch jedesmal, den verlegenen Ärger der um ihren
+                  Redetriumph Betrogenen beobachten zu können.</p>
+               <p>Der Unbedeutendste des Guser Zirkels war von Rutze, leidenschaftlicher Jäger, ein
+                  langer, sehniger, ziemlich schweigsamer Mann, ehemals Hauptmann im pommerschen
+                  Regiment von Pirch. Er hatte Protzhagen, das übrigens uralter Rutzescher Besitz
+                  war, erst vor etwa zwanzig Jahren gekauft. Die Veranlassung dazu wurde wie folgt
+                  erzählt:</p>
+               <p>Nach Stargard hin, wo das Regiment von Pirch in Garnison lag, verirrte sich eine
+                  Topographie des Oderbruchs. In dem Kapitel »Buckow und seine Umgebung« hieß es auf
+                  Seite 114: »Bei Protzhagen, einem Gute, das drei Jahrhunderte lang den Rutzes
+                  angehörte, zieht sich eine tiefe Schlucht, die ›Junker Hansens Schlucht‹. Sie
+                  führt diesen Namen, weil Junker Hans von Rutze hier stürzte und verunglückte; dies
+                  war 1693. Es war der letzte Rutze.« Kaum war von einem der Kameraden diese Notiz
+                  entdeckt worden, so hieß es in nicht endenden Scherzreden: »Rutze sei
+                  untergeschoben; es gäbe keine Rutzes mehr: der letzte läge längst in der
+                  Protzhagener Kirche begraben.« Unser Hauptmann, kein Meister im Repartie, wurde
+                  mißmutig; er nahm den Abschied und kaufte Protzhagen, um nunmehr an Ort und Stelle
+                  die Beweisführung anzutreten, daß es mit dem »letzten Rutze« noch gute Wege habe.
+                  Aber er verbesserte sich dadurch nur wenig. Die Stargarder Neckereien waren
+                  bekannt geworden und hatten nun auf Schloß Guse ihren <pb/> Fortgang. Bamme
+                  verschwor sich hoch und teuer, daß es mit einem der beiden »letzten Rutzes«, dem
+                  jetzigen oder dem früheren, notwendig eine sonderbare Bewandtnis haben müsse.
+                  Entweder sei der selige Hans von Rutze nichts als eine gespenstische
+                  Vorerscheinung, eine Spiegelung von etwas erst Kommendem gewesen, oder aber der
+                  unter ihnen wandelnde Freund, ohnehin beinahe fleischlos, sei ein Revenant. Was
+                  ihn (Bamme) persönlich angehe, so gäbe er der ersteren Annahme den Vorzug, weil
+                  ihm darnach die Wirklichkeit der Dinge noch eine Hirschjagd, einen Schluchtensturz
+                  und einen den Hals brechenden Rutze schuldig sei.</p>
+               <p>Der alte Hauptmann folgte diesen Auseinandersetzungen jedesmal mit süßsaurem
+                  Gesicht, hatte sich aber längst aller Proteste dagegen begeben. Dann und wann
+                  schritt er seinerseits zum Angriff, ohne jedoch mit Hilfe dieses Kunstgriffs dem
+                  gewandten Bamme beikommen zu können.</p>
+               <p>Unter seinen sonstigen kleinen Schwächen war die bemerkenswerteste die, daß er
+                  sich, in Anbetracht seines aus Schluchten und Abhängen bestehenden Protzhagener
+                  Territoriums, für eine Art Gebirgsbewohner hielt. »Wir auf der Höhe« zählte zu
+                  seinen Lieblingsredewendungen.</p>
+               <p>Der Gräfin war er wert durch einen besonderen Respekt, den er ihr entgegenbrachte.
+                  Denn wie sehr sie vorgeben mochte, über Huldigungen und Schmeicheleien hinweg zu
+                  sein, so war sie schließlich doch nicht unempfindlich dagegen.</p>
+               <p>Der siebente und letzte des »engeren Zirkels« war Doktor Faulstich Ein späteres
+                  Kapitel wird von ihm ausführlicher erzählen.</p>
+            </div>
+
             <div type="chapter">
                <head>Viertes Kapitel</head>
                <head>Vor Tisch</head>
@@ -11149,703 +11152,685 @@
                <p>An der Ecke der Leipziger und Friedrichsstraße trennten sich ihre Wege.</p>
                <pb/>
             </div>
-            
-               <div type="chapter">
-                  <head>Siebentes Kapitel</head>
-                  <head>Kastalia</head>
-                  <p>Lewin ging zu Tisch. In dem sackgassenartig verbauten Teil der Taubenstraße,
-                     von dem aus damals, wie heute noch, ein schmaler Durchgang auf den
-                     Hausvogteiplatz führte, war eine altmodische Weinhandlung, in deren
-                     hochpaneeliertem, an Wand und Decke verräuchertem Gast- und Speisezimmer Lewin
-                     seine ziemlich einfache Mittagsmahlzeit einzunehmen pflegte. Rascher als
-                     gewöhnlich hatte er sie heute beendet, und vier Uhr war noch nicht heran, als
-                     er schon wieder in seiner Wohnung eintraf. Zwei Briefe waren in seiner
-                     Abwesenheit abgegeben worden, einer von Doktor Saßnitz, der sein lebhaftes
-                     Bedauern aussprach, am Erscheinen in der Kastalia verhindert zu sein, der
-                     andere vom Kandidaten Himmerlich, zugleich unter Beifügung eines lyrischen
-                     Beitrags. Es waren vier sehr lange Strophen unter der gemeinschaftlichen
-                     Überschrift: »Sabbat«. Lewin lächelte und schob das Blatt, nachdem er auf
-                     demselben mit Rotstift eine I vermerkt hatte, in einen bereitliegenden, als
-                     Kastaliamappe dienenden Pappbogen, in den er gleich darauf auch die von
-                     Hansen-Grell empfangenen Verse sowie seine eigenen Reime vom Abend vorher
-                     hineinlegte. Auch diese beiden Beiträge hatten zuvor ihre Rotstiftnummer
-                     erhalten.</p>
-                  <p>Hiermit waren die ersten Vorbereitungen getroffen, aber freilich nicht die
-                     letzten. Noch sehr vieles blieb zu tun, trotzdem zugestanden werden muß, daß
-                     einzelne Fragen durch eine weise Gesetzgebung aufs glücklichste geregelt und
-                     dadurch wie vorweg gelöst waren. So beispielsweise die Bewirtungsfrage. Es hieß
-                     in Paragraph sieben des von Jürgaß entworfenen Statutes wörtlich wie folgt:
-                     »Die Kastalia hat sich in Sachen der Bewirtung ihres Namens und Ursprungs
-                     würdig zu zeigen. Den Grundpfeiler ihrer Gastlichkeit bildet unverrückbar das
-                     reine Wasser und was diesem am nächsten kommt: der Tee. Nur exzeptionell darf
-                     ein Rhein- oder Moselwein geboten werden. Der große Vereinsbecher bleibt den
-                     Priesterhänden <pb/> unseres Mitgliedes Lewin von Vitzewitz, als Gründer des
-                     Vereins, anvertraut. Substantia, selbst in Ausnahmefällen, nicht zulässig.«</p>
-                  <p>Dies war Paragraph sieben. Aber seine Voraussicht hatte nicht jede
-                     Schwierigkeit aus der Welt schaffen, am wenigsten die für Lewin immer
-                     brennender werdende Platzfrage lösen können, die sich teils aus der
-                     vergleichsweisen Enge seines Zimmers, teils aus den unausreichenden
-                     Möbelbeständen Frau Hulens ergab. Ein zarter Punkt, den sich Lewin der alten
-                     Frau gegenüber nicht zu berühren getraute. Und so mußten denn auch heute
-                     wieder, unter den Mühen immer erneuten Ausprobierens, zwei runde Tische nicht
-                     bloß nebeneinandergerückt, sondern auch in der Diagonale aufgestellt werden,
-                     da, bei Parallelstellung mit der Wand, die Türe nicht auf- und zugegangen wäre
-                     und zu einer Störung dieser immerhin wichtigen, weil einzigen
-                     Kommunikationslinie mit Frau Hulen geführt haben würde.</p>
-                  <p>Endlich war alles geschehen, und Lewin mochte sich seines Werkes freuen, Lampe
-                     und Lichter brannten. Auf dem einen der beiden Tische präsentierte sich das
-                     Symbol der Kastalia, die große Wasserkaraffe, während in der Mitte des andern
-                     der mit Perlen gestickte Tabakskasten aufragte, dessen Haupt- und Deckelbild
-                     den Tod der Königin Dido darstellte. Zwischen Sofa und Tür, an einer
-                     Wandstelle, die wenigstens von den meisten Tischplätzen aus mit Leichtigkeit
-                     abgereicht werden konnte, stand nach damaliger Sitte ein ständerartiger
-                     Pfeifentisch, die Weichselholzrohre, oder woraus sonst sie bestehen mochten,
-                     mit Puscheln und Quasten reich geschmückt, während einige Rheinweinflaschen und
-                     neben ihnen der in dünnstem Silberblech getriebene Kastaliabecher in einer Ecke
-                     des Fensterbrettes ihrer Zeit warteten.</p>
-                  <p>Frau Hulens Schwarzwälder Uhr, deren Ticktack man auch in Lewins Zimmer hörte,
-                     hatte kaum sieben ausgeschlagen, als es klingelte. Es waren Rabatzki und
-                     Himmerlich, die sich auf der dritten Treppe getroffen und trotz der
-                     herrschenden Dunkelheit erkannt oder doch auf gut Glück hin begrüßt hatten.</p>
-                  <p>
-                     <pb/> Waren sie doch, nach einer Art von stillschweigendem Übereinkommen, immer
-                     die ersten und benutzten die Minuten, die ihnen bis zum Eintreffen der anderen
-                     Mitglieder blieben, zur Erledigung von redaktionellen Fragen. Rabatzki gab
-                     nämlich ein kleines Sonntagsblatt heraus, und ohne Übertreibung durfte gesagt
-                     werden, daß der lyrisch-novellistische Teil desselben jedesmal vor Beginn der
-                     letzten Kastaliasitzung endgültig festgestellt wurde.</p>
-                  <p>Nur heute nicht. Rabatzki hatte kaum Zeit gefunden, an »seine rechte Hand«, wie
-                     er Himmerlich gerne nannte, eine erste Frage zu richten, als das Erscheinen des
-                     Rittmeisters alle weiteren Unterhandlungen unmöglich machte. Mit Jürgaß waren
-                     die beiden angekündigten Gäste, von Hirschfeldt und von Meerheimb, erschienen,
-                     von denen der letztere den linken Arm noch in der Binde trug. Lewin sprach
-                     ihnen aus, wie sehr erfreut er sei, sie zu sehen, doppelt, wenn, wie Herr von
-                     Jürgaß in Aussicht gestellt habe, sie sich bereit zeigen sollten, durch
-                     Mitteilungen aus ihren Tagebuch- und Erinnerungsblättern zu dem gelegentlich
-                     etwas matt sprudelnden Quell der Kastalia beizusteuern. Beide Herren verneigten
-                     sich, während Jürgaß zwei Manuskripte, deren er sich schon vorher zu versichern
-                     gewußt hatte, an Lewin überreichte.</p>
-                  <p>Dieser hoffte, noch vor Beginn der Sitzung zu einem einigermaßen eingehenden
-                     Gespräche mit den ihm bis dahin persönlich unbekannt gebliebenen Gästen
-                     Gelegenheit zu finden; er war aber kaum über die erste Begrüßung hinaus, als
-                     ein abermaliges Klingeln die eben begonnene Unterhaltung unterbrach. Es waren
-                     Tubal und Bninski, die eintraten. Lewin erwartete, zwischen dem Grafen und
-                     Hirschfeldt, die beide in Spanien, aber auf verschiedenen Seiten gefochten
-                     hatten, von Anfang an ein gespanntes Verhältnis eintreten zu sehen; aber gerade
-                     das Unerwartete geschah. Bninski, durch Tubal vorbereitet, wandte sich mit
-                     einer Politesse, in der fast mehr noch ein Ton der Herzlichkeit als der bloßer
-                     Artigkeit klang, sofort an Hirschfeldt, und wenn auch allerhand Fragen und
-                     Unterbrechungen, wie sie namentlich Jürgaß liebte, ein andauerndes <pb/>
-                     Gespräch nicht aufkommen ließen, so verfehlte der Graf doch nicht, durch kleine
-                     Aufmerksamkeiten die besonderen Sympathien auszudrücken, die er für seinen
-                     Gegner empfand.</p>
-                  <p>Infanteriekapitän von Bummcke war der letzte. Jürgaß konnte ihm das nicht
-                     schenken und hielt ihm die Uhr entgegen.</p>
-                  <p>»Militärs, lieber Bummcke, kennen keine akademischen Viertel. In Sommerzeiten
-                     möcht es, in Anbetracht Ihrer besonderen Verhältnisse, hingegangen sein; aber
-                     bei zwölf Grad Kälte kann ich keinem Embonpoint der Welt eine Unpünktlichkeit
-                     von beinahe zwanzig Minuten zugute halten.«</p>
-                  <p>»Anfangen, anfangen!« riefen mehrere Stimmen, unter denen die von Rabatzki und
-                     Himmerlich deutlich erkennbar waren. Lewin, während Mitglieder und Gäste sich,
-                     so gut es ging, um die zwei Tische her gruppierten, klopfte mit einem
-                     Zuckerhammer auf und nahm dann selber auf seinem durch ein aufgelegtes
-                     Sofakissen zu einer Art Präsidentenstuhl umgewandelten Lehnsessel Platz. Er war
-                     kein Meister in der Rede, aber Amt und Situation ließen ihm keine Wahl.</p>
-                  <p>»Meine Herren«, hob er an, »ich heiße Sie willkommen. Wir sind leider nicht
-                     vollzählig. Unsere beste kritische Kraft ist ausgeblieben: Doktor Saßnitz hat
-                     sich brieflich entschuldigt. Dagegen freue ich mich, Ihre Aufmerksamkeit auf
-                     eine stattliche Reihe von Vorlagen, darunter auch Drucksachen, hinlenken zu
-                     können. Unter diesen Drucksachen stehen diejenigen Publikationen obenan, die
-                     von früheren Mitgliedern der Kastalia herrühren. Es sind dies ›Die Ahnen von
-                     Brandenburg‹, ein epischer Hymnus von Friedrich Graf Kalckreuth, und die vor
-                     wenig Tagen erst bei J. E. Hitzig hierselbst erschienenen ›Dramatischen
-                     Dichtungen‹ von Friedrich Baron de la Motte-Fouqué, unter denen sich, neben
-                     altnordischen Sachen, auch ›Die Familie Hallersee‹ und ›Die Heimkehr des Großen
-                     Kurfürsten‹ befinden, die während des vorigen Winters in unserem Kreise zuerst
-                     gelesen und mit soviel Jubel aufgenommen wurden.«</p>
-                  <p>Hier unterbrach sich Lewin, um die beiden genannten Bücher kursieren zu lassen.
-                     Dann fuhr er fort: »An neuen Beiträgen <pb/> für die heutige Sitzung sind fünf
-                     Arbeiten eingegangen, sehr verschieden an Umfang: lyrische oder lyrisch-epische
-                     Dichtungen, ferner Tagebuch- und Erinnerungsblätter aus Spanien und Rußland. Es
-                     ist Regel, mit den lyrischen Sachen zu beginnen und alles, was dem Gebiete der
-                     Erzählung angehört, folgen zu lassen. Ich ersuche Herrn Kandidaten Himmerlich,
-                     uns seine, wenn ich recht gesehen habe, aus dem Englischen übersetzten Strophen
-                     vorlesen zu wollen. Sie führen den Titel: ›Der Sabbat‹.«</p>
-                  <p>Mit diesen Worten überreichte Lewin das Blatt.</p>
-                  <p>Jürgaß war bei Nennung der Überschrift in ziemlich demonstrativer Weise mit der
-                     linken Handfläche über das Kinn gefahren.</p>
-                  <p>Himmerlich, in unverkennbarer nervöser Unruhe und eifrig bemüht, das mehrmals
-                     eingekniffte Blatt wieder glattzustreichen, wiederholte zunächst: »Der Sabbat,
-                     Gedicht von William Wilberforce.«</p>
-                  <p>»Ist das derselbe Wilberforce«, fragte Jürgaß, »der den Sklavenhandel
-                     abgeschafft hat?«</p>
-                  <p>»Nein, im Gegenteil.«</p>
-                  <p>»Nun, er wird ihn doch nicht wieder eingeführt haben?«</p>
-                  <p>»Auch das nicht. Der einen so berühmten Namen führende junge Dichter, mit dem
-                     ich Sie heute bekannt machen möchte, ist Fabrikarbeiter. Wenn ich sagte ›im
-                     Gegenteil‹, so wollte ich damit ausdrücken, daß er selber noch in einer Art von
-                     Sklaverei steckt. Ich fühle das Unlogische meiner Wendung und bitte um
-                     Entschuldigung.«</p>
-                  <p>»Gut, gut, Himmerlich. Nicht immer gleich empfindlich.«</p>
-                  <p>»Jede Art von Empfindlichkeit ist mir durchaus fremd. Ich bitte aber, da ich
-                     einmal das Wort habe, einige Bemerkungen vorausschicken zu dürfen. Es ist Ihnen
-                     allen bekannt, daß die englische Sprache mit kurzen Wörtern überreich gesegnet
-                     ist und daß dieselbe, nicht immer, aber oft, in einer einzigen Silbe das zu
-                     sagen versteht, wozu wir deren drei gebrauchen. Weibliche Reime, um auch das
-                     noch zu bemerken, haben die Engländer so gut wie gar nicht.«</p>
-                  <p>
-                     <pb/> »Wie verwerflich!«</p>
-                  <p>»Aus diesen sprachlichen Unterschieden erwachsen Schwierigkeiten, auf die
-                     wenigstens kursorisch einzugehen Sie mir gütigst gestatten wollen.«</p>
-                  <p>»Nein, lieber Himmerlich, vorbehaltlich präsidieller Entscheidung ›gütigst
-                     nicht gestatten wollen‹. Ich habe bis hierher geschwiegen, sehr wohl wissend,
-                     jedes Huhn kakelt, ehe es sein Ei legt. Aber diesem bis zu einem gewissen Grade
-                     nachzugebenden Naturrecht steht, wenn es auszuschreiten droht, das geschriebene
-                     Recht der Kastalia gegenüber. Paragraph neun unserer Statuten regelt die Frage
-                     der Vorreden ein für allemal und gibt diesen selber ihr zuständiges Maß. Auch
-                     von dem Redefeuer gilt des Dichters Wort: ›Wohltätig ist des Feuers Macht, wenn
-                     sie der Mensch bezähmt, bewacht.‹ Ich habe den Eindruck, daß das statutenmäßig
-                     vorgesehene Maß bereits überschritten wurde, und bitte deshalb unseren Herrn
-                     Vorsitzenden, auf Vortrag der Dichtung selbst dringen zu wollen.«</p>
-                  <p>Lewin nickte zustimmend, und Himmerlich, indem er sich leicht verfärbte, begann
-                     mit vibrierender Stimme:</p>
+
+            <div type="chapter">
+               <head>Siebentes Kapitel</head>
+               <head>Kastalia</head>
+               <p>Lewin ging zu Tisch. In dem sackgassenartig verbauten Teil der Taubenstraße, von
+                  dem aus damals, wie heute noch, ein schmaler Durchgang auf den Hausvogteiplatz
+                  führte, war eine altmodische Weinhandlung, in deren hochpaneeliertem, an Wand und
+                  Decke verräuchertem Gast- und Speisezimmer Lewin seine ziemlich einfache
+                  Mittagsmahlzeit einzunehmen pflegte. Rascher als gewöhnlich hatte er sie heute
+                  beendet, und vier Uhr war noch nicht heran, als er schon wieder in seiner Wohnung
+                  eintraf. Zwei Briefe waren in seiner Abwesenheit abgegeben worden, einer von
+                  Doktor Saßnitz, der sein lebhaftes Bedauern aussprach, am Erscheinen in der
+                  Kastalia verhindert zu sein, der andere vom Kandidaten Himmerlich, zugleich unter
+                  Beifügung eines lyrischen Beitrags. Es waren vier sehr lange Strophen unter der
+                  gemeinschaftlichen Überschrift: »Sabbat«. Lewin lächelte und schob das Blatt,
+                  nachdem er auf demselben mit Rotstift eine I vermerkt hatte, in einen
+                  bereitliegenden, als Kastaliamappe dienenden Pappbogen, in den er gleich darauf
+                  auch die von Hansen-Grell empfangenen Verse sowie seine eigenen Reime vom Abend
+                  vorher hineinlegte. Auch diese beiden Beiträge hatten zuvor ihre Rotstiftnummer
+                  erhalten.</p>
+               <p>Hiermit waren die ersten Vorbereitungen getroffen, aber freilich nicht die
+                  letzten. Noch sehr vieles blieb zu tun, trotzdem zugestanden werden muß, daß
+                  einzelne Fragen durch eine weise Gesetzgebung aufs glücklichste geregelt und
+                  dadurch wie vorweg gelöst waren. So beispielsweise die Bewirtungsfrage. Es hieß in
+                  Paragraph sieben des von Jürgaß entworfenen Statutes wörtlich wie folgt: »Die
+                  Kastalia hat sich in Sachen der Bewirtung ihres Namens und Ursprungs würdig zu
+                  zeigen. Den Grundpfeiler ihrer Gastlichkeit bildet unverrückbar das reine Wasser
+                  und was diesem am nächsten kommt: der Tee. Nur exzeptionell darf ein Rhein- oder
+                  Moselwein geboten werden. Der große Vereinsbecher bleibt den Priesterhänden <pb/>
+                  unseres Mitgliedes Lewin von Vitzewitz, als Gründer des Vereins, anvertraut.
+                  Substantia, selbst in Ausnahmefällen, nicht zulässig.«</p>
+               <p>Dies war Paragraph sieben. Aber seine Voraussicht hatte nicht jede Schwierigkeit
+                  aus der Welt schaffen, am wenigsten die für Lewin immer brennender werdende
+                  Platzfrage lösen können, die sich teils aus der vergleichsweisen Enge seines
+                  Zimmers, teils aus den unausreichenden Möbelbeständen Frau Hulens ergab. Ein
+                  zarter Punkt, den sich Lewin der alten Frau gegenüber nicht zu berühren getraute.
+                  Und so mußten denn auch heute wieder, unter den Mühen immer erneuten
+                  Ausprobierens, zwei runde Tische nicht bloß nebeneinandergerückt, sondern auch in
+                  der Diagonale aufgestellt werden, da, bei Parallelstellung mit der Wand, die Türe
+                  nicht auf- und zugegangen wäre und zu einer Störung dieser immerhin wichtigen,
+                  weil einzigen Kommunikationslinie mit Frau Hulen geführt haben würde.</p>
+               <p>Endlich war alles geschehen, und Lewin mochte sich seines Werkes freuen, Lampe und
+                  Lichter brannten. Auf dem einen der beiden Tische präsentierte sich das Symbol der
+                  Kastalia, die große Wasserkaraffe, während in der Mitte des andern der mit Perlen
+                  gestickte Tabakskasten aufragte, dessen Haupt- und Deckelbild den Tod der Königin
+                  Dido darstellte. Zwischen Sofa und Tür, an einer Wandstelle, die wenigstens von
+                  den meisten Tischplätzen aus mit Leichtigkeit abgereicht werden konnte, stand nach
+                  damaliger Sitte ein ständerartiger Pfeifentisch, die Weichselholzrohre, oder
+                  woraus sonst sie bestehen mochten, mit Puscheln und Quasten reich geschmückt,
+                  während einige Rheinweinflaschen und neben ihnen der in dünnstem Silberblech
+                  getriebene Kastaliabecher in einer Ecke des Fensterbrettes ihrer Zeit
+                  warteten.</p>
+               <p>Frau Hulens Schwarzwälder Uhr, deren Ticktack man auch in Lewins Zimmer hörte,
+                  hatte kaum sieben ausgeschlagen, als es klingelte. Es waren Rabatzki und
+                  Himmerlich, die sich auf der dritten Treppe getroffen und trotz der herrschenden
+                  Dunkelheit erkannt oder doch auf gut Glück hin begrüßt hatten.</p>
+               <p>
+                  <pb/> Waren sie doch, nach einer Art von stillschweigendem Übereinkommen, immer
+                  die ersten und benutzten die Minuten, die ihnen bis zum Eintreffen der anderen
+                  Mitglieder blieben, zur Erledigung von redaktionellen Fragen. Rabatzki gab nämlich
+                  ein kleines Sonntagsblatt heraus, und ohne Übertreibung durfte gesagt werden, daß
+                  der lyrisch-novellistische Teil desselben jedesmal vor Beginn der letzten
+                  Kastaliasitzung endgültig festgestellt wurde.</p>
+               <p>Nur heute nicht. Rabatzki hatte kaum Zeit gefunden, an »seine rechte Hand«, wie er
+                  Himmerlich gerne nannte, eine erste Frage zu richten, als das Erscheinen des
+                  Rittmeisters alle weiteren Unterhandlungen unmöglich machte. Mit Jürgaß waren die
+                  beiden angekündigten Gäste, von Hirschfeldt und von Meerheimb, erschienen, von
+                  denen der letztere den linken Arm noch in der Binde trug. Lewin sprach ihnen aus,
+                  wie sehr erfreut er sei, sie zu sehen, doppelt, wenn, wie Herr von Jürgaß in
+                  Aussicht gestellt habe, sie sich bereit zeigen sollten, durch Mitteilungen aus
+                  ihren Tagebuch- und Erinnerungsblättern zu dem gelegentlich etwas matt sprudelnden
+                  Quell der Kastalia beizusteuern. Beide Herren verneigten sich, während Jürgaß zwei
+                  Manuskripte, deren er sich schon vorher zu versichern gewußt hatte, an Lewin
+                  überreichte.</p>
+               <p>Dieser hoffte, noch vor Beginn der Sitzung zu einem einigermaßen eingehenden
+                  Gespräche mit den ihm bis dahin persönlich unbekannt gebliebenen Gästen
+                  Gelegenheit zu finden; er war aber kaum über die erste Begrüßung hinaus, als ein
+                  abermaliges Klingeln die eben begonnene Unterhaltung unterbrach. Es waren Tubal
+                  und Bninski, die eintraten. Lewin erwartete, zwischen dem Grafen und Hirschfeldt,
+                  die beide in Spanien, aber auf verschiedenen Seiten gefochten hatten, von Anfang
+                  an ein gespanntes Verhältnis eintreten zu sehen; aber gerade das Unerwartete
+                  geschah. Bninski, durch Tubal vorbereitet, wandte sich mit einer Politesse, in der
+                  fast mehr noch ein Ton der Herzlichkeit als der bloßer Artigkeit klang, sofort an
+                  Hirschfeldt, und wenn auch allerhand Fragen und Unterbrechungen, wie sie
+                  namentlich Jürgaß liebte, ein andauerndes <pb/> Gespräch nicht aufkommen ließen,
+                  so verfehlte der Graf doch nicht, durch kleine Aufmerksamkeiten die besonderen
+                  Sympathien auszudrücken, die er für seinen Gegner empfand.</p>
+               <p>Infanteriekapitän von Bummcke war der letzte. Jürgaß konnte ihm das nicht schenken
+                  und hielt ihm die Uhr entgegen.</p>
+               <p>»Militärs, lieber Bummcke, kennen keine akademischen Viertel. In Sommerzeiten
+                  möcht es, in Anbetracht Ihrer besonderen Verhältnisse, hingegangen sein; aber bei
+                  zwölf Grad Kälte kann ich keinem Embonpoint der Welt eine Unpünktlichkeit von
+                  beinahe zwanzig Minuten zugute halten.«</p>
+               <p>»Anfangen, anfangen!« riefen mehrere Stimmen, unter denen die von Rabatzki und
+                  Himmerlich deutlich erkennbar waren. Lewin, während Mitglieder und Gäste sich, so
+                  gut es ging, um die zwei Tische her gruppierten, klopfte mit einem Zuckerhammer
+                  auf und nahm dann selber auf seinem durch ein aufgelegtes Sofakissen zu einer Art
+                  Präsidentenstuhl umgewandelten Lehnsessel Platz. Er war kein Meister in der Rede,
+                  aber Amt und Situation ließen ihm keine Wahl.</p>
+               <p>»Meine Herren«, hob er an, »ich heiße Sie willkommen. Wir sind leider nicht
+                  vollzählig. Unsere beste kritische Kraft ist ausgeblieben: Doktor Saßnitz hat sich
+                  brieflich entschuldigt. Dagegen freue ich mich, Ihre Aufmerksamkeit auf eine
+                  stattliche Reihe von Vorlagen, darunter auch Drucksachen, hinlenken zu können.
+                  Unter diesen Drucksachen stehen diejenigen Publikationen obenan, die von früheren
+                  Mitgliedern der Kastalia herrühren. Es sind dies ›Die Ahnen von Brandenburg‹, ein
+                  epischer Hymnus von Friedrich Graf Kalckreuth, und die vor wenig Tagen erst bei J.
+                  E. Hitzig hierselbst erschienenen ›Dramatischen Dichtungen‹ von Friedrich Baron de
+                  la Motte-Fouqué, unter denen sich, neben altnordischen Sachen, auch ›Die Familie
+                  Hallersee‹ und ›Die Heimkehr des Großen Kurfürsten‹ befinden, die während des
+                  vorigen Winters in unserem Kreise zuerst gelesen und mit soviel Jubel aufgenommen
+                  wurden.«</p>
+               <p>Hier unterbrach sich Lewin, um die beiden genannten Bücher kursieren zu lassen.
+                  Dann fuhr er fort: »An neuen Beiträgen <pb/> für die heutige Sitzung sind fünf
+                  Arbeiten eingegangen, sehr verschieden an Umfang: lyrische oder lyrisch-epische
+                  Dichtungen, ferner Tagebuch- und Erinnerungsblätter aus Spanien und Rußland. Es
+                  ist Regel, mit den lyrischen Sachen zu beginnen und alles, was dem Gebiete der
+                  Erzählung angehört, folgen zu lassen. Ich ersuche Herrn Kandidaten Himmerlich, uns
+                  seine, wenn ich recht gesehen habe, aus dem Englischen übersetzten Strophen
+                  vorlesen zu wollen. Sie führen den Titel: ›Der Sabbat‹.«</p>
+               <p>Mit diesen Worten überreichte Lewin das Blatt.</p>
+               <p>Jürgaß war bei Nennung der Überschrift in ziemlich demonstrativer Weise mit der
+                  linken Handfläche über das Kinn gefahren.</p>
+               <p>Himmerlich, in unverkennbarer nervöser Unruhe und eifrig bemüht, das mehrmals
+                  eingekniffte Blatt wieder glattzustreichen, wiederholte zunächst: »Der Sabbat,
+                  Gedicht von William Wilberforce.«</p>
+               <p>»Ist das derselbe Wilberforce«, fragte Jürgaß, »der den Sklavenhandel abgeschafft
+                  hat?«</p>
+               <p>»Nein, im Gegenteil.«</p>
+               <p>»Nun, er wird ihn doch nicht wieder eingeführt haben?«</p>
+               <p>»Auch das nicht. Der einen so berühmten Namen führende junge Dichter, mit dem ich
+                  Sie heute bekannt machen möchte, ist Fabrikarbeiter. Wenn ich sagte ›im
+                  Gegenteil‹, so wollte ich damit ausdrücken, daß er selber noch in einer Art von
+                  Sklaverei steckt. Ich fühle das Unlogische meiner Wendung und bitte um
+                  Entschuldigung.«</p>
+               <p>»Gut, gut, Himmerlich. Nicht immer gleich empfindlich.«</p>
+               <p>»Jede Art von Empfindlichkeit ist mir durchaus fremd. Ich bitte aber, da ich
+                  einmal das Wort habe, einige Bemerkungen vorausschicken zu dürfen. Es ist Ihnen
+                  allen bekannt, daß die englische Sprache mit kurzen Wörtern überreich gesegnet ist
+                  und daß dieselbe, nicht immer, aber oft, in einer einzigen Silbe das zu sagen
+                  versteht, wozu wir deren drei gebrauchen. Weibliche Reime, um auch das noch zu
+                  bemerken, haben die Engländer so gut wie gar nicht.«</p>
+               <p>
+                  <pb/> »Wie verwerflich!«</p>
+               <p>»Aus diesen sprachlichen Unterschieden erwachsen Schwierigkeiten, auf die
+                  wenigstens kursorisch einzugehen Sie mir gütigst gestatten wollen.«</p>
+               <p>»Nein, lieber Himmerlich, vorbehaltlich präsidieller Entscheidung ›gütigst nicht
+                  gestatten wollen‹. Ich habe bis hierher geschwiegen, sehr wohl wissend, jedes Huhn
+                  kakelt, ehe es sein Ei legt. Aber diesem bis zu einem gewissen Grade
+                  nachzugebenden Naturrecht steht, wenn es auszuschreiten droht, das geschriebene
+                  Recht der Kastalia gegenüber. Paragraph neun unserer Statuten regelt die Frage der
+                  Vorreden ein für allemal und gibt diesen selber ihr zuständiges Maß. Auch von dem
+                  Redefeuer gilt des Dichters Wort: ›Wohltätig ist des Feuers Macht, wenn sie der
+                  Mensch bezähmt, bewacht.‹ Ich habe den Eindruck, daß das statutenmäßig vorgesehene
+                  Maß bereits überschritten wurde, und bitte deshalb unseren Herrn Vorsitzenden, auf
+                  Vortrag der Dichtung selbst dringen zu wollen.«</p>
+               <p>Lewin nickte zustimmend, und Himmerlich, indem er sich leicht verfärbte, begann
+                  mit vibrierender Stimme:</p>
 
 
-                  <l>»'s ist Sabbatfrüh, und noch im Sinken spendet</l>
-                  <l>Ein zaubrisch Licht des Vollmonds Silberpracht.</l>
-                  <l>Es ist noch früh, die Mitte kaum beendet</l>
-                  <l>Der stillen, sternenblassen Sommernacht;</l>
-                  <l>Schon hab ich froh mich auf den Weg gemacht</l>
-                  <l>Am Rain entlang, entlang an Wald und Auen</l>
-                  <l>Und harre nun, auf daß der Tag erwacht,</l>
-                  <l>Um andachtsvoll dem Schauspiel zuzuschauen,</l>
-                  <l>Vor dessen Majestät die Herzen übertauen.</l>
+               <l>»'s ist Sabbatfrüh, und noch im Sinken spendet</l>
+               <l>Ein zaubrisch Licht des Vollmonds Silberpracht.</l>
+               <l>Es ist noch früh, die Mitte kaum beendet</l>
+               <l>Der stillen, sternenblassen Sommernacht;</l>
+               <l>Schon hab ich froh mich auf den Weg gemacht</l>
+               <l>Am Rain entlang, entlang an Wald und Auen</l>
+               <l>Und harre nun, auf daß der Tag erwacht,</l>
+               <l>Um andachtsvoll dem Schauspiel zuzuschauen,</l>
+               <l>Vor dessen Majestät die Herzen übertauen.</l>
 
 
 
-                  <l>Die Lerche wacht; mit flatterndem Gefieder</l>
-                  <l>Erhebt sie sich, verschmähend unsre Welt,</l>
-                  <l>Und wie sie steigt, so werden ihre Lieder</l>
-                  <l>Von Lust und Wohlklang mehr und mehr geschwellt.</l>
-                  <l>Das Wasserhuhn, als würd ihm nachgestellt,</l>
-                  <l>Entflieht vor mir mit hast'gem Flügelschlagen,</l>
-                  <pb/>
-                  <l>Sogar das Lamm erschrocken innehält,</l>
-                  <l>Und statt am Grase ruhig fort zu nagen,</l>
-                  <l>Reißt es vom Pflock sich los, um übers Moor zu jagen.«</l>
+               <l>Die Lerche wacht; mit flatterndem Gefieder</l>
+               <l>Erhebt sie sich, verschmähend unsre Welt,</l>
+               <l>Und wie sie steigt, so werden ihre Lieder</l>
+               <l>Von Lust und Wohlklang mehr und mehr geschwellt.</l>
+               <l>Das Wasserhuhn, als würd ihm nachgestellt,</l>
+               <l>Entflieht vor mir mit hast'gem Flügelschlagen,</l>
+               <pb/>
+               <l>Sogar das Lamm erschrocken innehält,</l>
+               <l>Und statt am Grase ruhig fort zu nagen,</l>
+               <l>Reißt es vom Pflock sich los, um übers Moor zu jagen.«</l>
 
 
-                  <p>An dieser Stelle erfuhr die Vorlesung durch das Erscheinen der Frau Hulen, die
-                     mit dem Teebrett eintrat, eine Unterbrechung. Lewin, immer voll Mitgefühl mit
-                     Poeteneitelkeiten, schon weil er sie selber durchgemacht hatte, winkte
-                     mehrmals, daß sich die Alte zurückziehen möchte; aber es war schon zu spät, und
-                     Himmerlich hatte durch ein minutenlanges Martyrium zu gehen. Er dankte kurz,
-                     als das herumgehende Tablett auch an ihn kam, schickte der endlich wieder
-                     verschwindenden Alten einen Blick voll tragikomischen Hasses nach und fuhr dann
-                     mit gehobener Stimme fort:</p>
+               <p>An dieser Stelle erfuhr die Vorlesung durch das Erscheinen der Frau Hulen, die mit
+                  dem Teebrett eintrat, eine Unterbrechung. Lewin, immer voll Mitgefühl mit
+                  Poeteneitelkeiten, schon weil er sie selber durchgemacht hatte, winkte mehrmals,
+                  daß sich die Alte zurückziehen möchte; aber es war schon zu spät, und Himmerlich
+                  hatte durch ein minutenlanges Martyrium zu gehen. Er dankte kurz, als das
+                  herumgehende Tablett auch an ihn kam, schickte der endlich wieder verschwindenden
+                  Alten einen Blick voll tragikomischen Hasses nach und fuhr dann mit gehobener
+                  Stimme fort:</p>
 
 
-                  <l>»Nun wird es hell, und sieh, der Berge Gipfel</l>
-                  <l>Erglühen purpurn, und der Feuerball</l>
-                  <l>Der Sonne selbst vergoldet schon die Wipfel</l>
-                  <l>Und scheucht ins Tal der Nebel feuchten Schwall;</l>
-                  <l>Und höher in die Kuppel von Kristall</l>
-                  <l>Will sich der ew'ge Strahlenquell erheben,</l>
-                  <l>In Höh und Tiefe Licht wird's überall,</l>
-                  <l>Bis schlucht-entlang die letzten Schatten schweben –</l>
-                  <l>Ein neuer Tag ist da und atmet neues Leben.</l>
-
-
-
-                  <l>Jetzt laß mich, Gott, Gemeinschaft mit dir halten !</l>
-                  <l>Quell aller Weisheit, Herr und Vater mein,</l>
-                  <l>Du siehst mein Herz, dir spricht mein Händefalten,</l>
-                  <l>O laß dein Licht auf meinen Wegen sein;</l>
-                  <l>Gib mir die Kraft – du gibst sie nur allein –,</l>
-                  <l>Aus Sünd und Schwachheit mich herauszuschälen,</l>
-                  <l>Und lehre mich, an deines Auges Schein</l>
-                  <l>Des eignen Auges matten Sinn zu stählen,</l>
-                  <l>Auf daß die Lust ihm wird, den rechten Pfad zu wählen.«</l>
-
-
-                  <p>Kaum daß die letzte Zeile verklungen war, so erhob sich Buchhändler Rabatzki
-                     von seinem Platz und sagte in einem <pb/> Ton, in dem Wichtigkeit und
-                     Bescheidenheit beständig miteinander rangen: »Meine Herren! Ohne Ihrem
-                     kompetenteren Urteil« (»Sehr gut, Rabatzki!«) »irgendwie vorgreifen zu wollen,
-                     bitt ich nur einfach von meinem vorwiegend geschäftsmännischen Standpunkt aus
-                     bemerken zu dürfen, daß ich mich glücklich schätzen würde, diese Strophen in
-                     der nächsten Nummer meines Sonntagsblattes, und zwar ausnahmsweise an der
-                     Spitze desselben, bringen zu können. Ich bitte Herrn Himmerlich, mich dazu
-                     autorisieren, zugleich aber auch in einer Anmerkung einige kurze biographische
-                     Notizen über den englischen Dichter, der mir seines berühmten Namensvetters
-                     durchaus würdig zu sein scheint, geben zu wollen.«</p>
-                  <p>Über Himmerlichs Gesicht, der diese schmeichelhaften Worte Rabatzkis als ein
-                     gutes Omen für alles Kommende ansah, flog es wie Verklärung. Er sollte seines
-                     Triumphes aber nicht lange froh bleiben. Jürgaß klopfte den Fidibus aus, mit
-                     dem er eben eine frische Pfeife angeraucht hatte, und sagte: »Unseres Freundes
-                     Rabatzki sonntagsblattliche Begeisterung in Ehren, eines möcht ich wissen, ist
-                     es ein Bruchstück?«</p>
-                  <p>»Nein.«</p>
-                  <p>»Dann gestatten Sie mir die Behauptung, daß Ihr Sabbat zwar ein Ende, aber
-                     keinen Schluß hat.«</p>
-                  <p>»Es wird sich darüber streiten lassen. Ich glaube nicht, daß es nötig war,
-                     meinen Morgenspaziergänger bis an seinen Frühstückstisch
-                     zurückzubegleiten.«</p>
-                  <p>»Und ich meinerseits möchte bezweifeln, daß Sie dem Gedichte durch eine solche
-                     gemütlich-idyllische Zutat geschadet hätten. Indessen lassen wir das. Aber die
-                     Form, die Form, Himmerlich! Sagen Sie, was sind das für sonderbare
-                     Strophen?«</p>
-                  <p>»Es sind sogenannte Spencerstrophen.«</p>
-                  <p>»Spencerstrophen?« fuhr Jürgaß fort, »ich finde diesen Namen fast noch
-                     sonderbarer als die Verse selbst.«</p>
-                  <p>»Ich nehme an, Herr von Jürgaß«, antwortete Himmerlich in einem immer erregter
-                     werdenden Tone, »daß Sie mit dem Bau der Ottaverime vertraut sind, jener
-                     achtzeiligen schönen <pb/> Strophen, in denen Tasso und Ariost ihre
-                     unsterblichen Werke, den ›Orlando furioso‹ und das ›Gerusalemme liberata‹,
-                     dichteten.«</p>
-                  <p>Jürgaß, der sich auf diesem Gebiete nichts weniger als zu Hause fühlte, rauchte
-                     stärker und suchte seine wachsende Unsicherheit hinter einem mit der Miene der
-                     Superiorität gesprochenen »Und nun?« zu verbergen.</p>
-                  <p>»Und nun?« griff Himmerlich das letzte Wort auf, »die Spencerstrophe mag als
-                     ein Geschwisterkind dieser Tasso- und Arioststrophe angesehen werden. Ihre
-                     Reimstellung ist freilich anders, sie hat auch nicht acht Zeilen, sondern neun
-                     und geht in eben dieser neunten Zeile aus dem fünffüßigen Jambus in den
-                     Alexandriner über...«</p>
-                  <p>»Ist aber nichtsdestoweniger eigentlich ein und dasselbe. Ich beneide Sie,
-                     Himmerlich, um diese Schlußfolgerung.«</p>
-                  <p>Eine gereizte Debatte schien unausbleiblich; Lewin indessen schnitt sie
-                     geschickt ab, indem er bemerkte, daß es nicht Aufgabe dieses Kreises sein
-                     könne, die größeren oder geringeren Verwandtschaftsgrade zwischen
-                     Spencerstrophe und Ottaverime festzustellen. Er müsse bitten, auf die Dichtung
-                     selber einzugehen, wenn es nicht vorgezogen würde, trotz einiger kleiner
-                     Ausstellungen des Herrn von Jürgaß, die warmen Worte, in denen sich ihr immer
-                     treu befundenes Mitglied Buchhändler Rabatzki bereits geäußert habe, einfach
-                     als Urteil und Dankesausdruck der Kastalia selbst zu akzeptieren.</p>
-                  <p>Hierauf wurde nicht nur überhaupt eingegangen, sondern auch mit einer
-                     Bereitwilligkeit, deren ironischer Beigeschmack von dem unglücklichen
-                     Himmerlich sehr wohl herausgefühlt wurde.</p>
-                  <p>»Wir wenden uns nunmehr dem zweiten der eingegangenen Beiträge zu«, fuhr Lewin
-                     fort. »Es sind Strophen unseres sehr verehrten Gastes, des Herrn Hansen-Grell,
-                     den in kürzester Frist als Mitglied dieses Kreises begrüßen zu dürfen ich als
-                     meinen persönlichen, übrigens von allen Mitgliedern der Kastalia geteilten
-                     Wunsch ausgesprochen haben möchte. Ich bitte, Herrn Hansen-Grell, seine
-                     Strophen lesen zu wollen.«</p>
-                  <p>
-                     <pb/> Dieser zog, um des Tabakrauches willen, der bereits seine Schleier
-                     auszuspannen anfing, das Licht etwas näher an sich heran und begann dann ohne
-                     Zögern, mit ruhiger, aber sehr eindringlicher Stimme: »Seydlitz; geboren zu
-                     Calcar am 3. Februar 1721.«</p>
-                  <p>»Ist das die Überschrift?« unterbrach Jürgaß.</p>
-                  <p>»Ja«, war die kurze Antwort.</p>
-                  <p>»Nun, da bitt ich doch bemerken zu dürfen, daß mich dieser Titel noch mehr
-                     überrascht als Bau und Reimstellung der Himmerlichschen Spencerstrophe.
-                     ›Geboren zu Calcar, am 3. Februar 1721‹, das ist die Überschrift eines
-                     Nekrologs, aber nicht eines Gedichtes«</p>
-                  <p>»Und vor allem eine Überschrift«, erwiderte Hansen-Grell in heiterer Laune,
-                     »die niemand anders verschuldet hat als Herr von Jürgaß selbst. Ohne seine
-                     Abneigung gegen alles, was einer Captatio benevolentiae ähnlich sieht, würde
-                     der Titel meines Gedichtes einfach ›General Seydlitz‹ gelautet haben; aber
-                     jeder Möglichkeit beraubt, das mir unerläßliche ›geboren zu Calcar‹ auf dem
-                     herkömmlichen Vorredewege zu Ihrer freundlichen Kenntnis zu bringen, ist mir
-                     nichts andres übriggeblieben, als jene biographische Notiz gleich mit in die
-                     Überschrift hineinzunehmen.«</p>
-                  <p>»Und so haben wir doch wieder eine Vorrede gehabt...«</p>
-                  <p>»Weil wir keine haben sollten. – Aber ich bin zu Ende.«Und Hansen-Grell las nun
-                     ohne weitere Störung:</p>
-
-               </div>
-               <div type="chapter">
-                  <head>»General Seydlitz</head>
-
-                  <l>In Büchern und auf Bänken,</l>
-                  <l>Da war er nicht zu Haus,</l>
-                  <l>Ein Pferd im Stall zu tränken,</l>
-                  <l>Das sah schon besser aus;</l>
-                  <l>Er trug blanksilberne Sporen</l>
-                  <l>Und einen blaustählernen Dorn –</l>
-                  <l> Zu Calcar war er geboren,</l>
-                  <l>Und Calcar, das ist Sporn.</l>
+               <l>»Nun wird es hell, und sieh, der Berge Gipfel</l>
+               <l>Erglühen purpurn, und der Feuerball</l>
+               <l>Der Sonne selbst vergoldet schon die Wipfel</l>
+               <l>Und scheucht ins Tal der Nebel feuchten Schwall;</l>
+               <l>Und höher in die Kuppel von Kristall</l>
+               <l>Will sich der ew'ge Strahlenquell erheben,</l>
+               <l>In Höh und Tiefe Licht wird's überall,</l>
+               <l>Bis schlucht-entlang die letzten Schatten schweben –</l>
+               <l>Ein neuer Tag ist da und atmet neues Leben.</l>
 
 
 
-                  <pb/>
-                  <l>Es sausen die Windmühlflügel,</l>
-                  <l>Es klappert Leiter und Steg,</l>
-                  <l>Da, mit verhängtem Zügel,</l>
-                  <l>Geht's unter dem Flügel weg;</l>
-                  <l>Und bückend sich vom Pferde,</l>
-                  <l>Einen vollen Büschel Korn</l>
-                  <l>Ausreißt er aus der Erde –</l>
-                  <l>Hei, Calcar, das ist Sporn.</l>
+               <l>Jetzt laß mich, Gott, Gemeinschaft mit dir halten !</l>
+               <l>Quell aller Weisheit, Herr und Vater mein,</l>
+               <l>Du siehst mein Herz, dir spricht mein Händefalten,</l>
+               <l>O laß dein Licht auf meinen Wegen sein;</l>
+               <l>Gib mir die Kraft – du gibst sie nur allein –,</l>
+               <l>Aus Sünd und Schwachheit mich herauszuschälen,</l>
+               <l>Und lehre mich, an deines Auges Schein</l>
+               <l>Des eignen Auges matten Sinn zu stählen,</l>
+               <l>Auf daß die Lust ihm wird, den rechten Pfad zu wählen.«</l>
+
+
+               <p>Kaum daß die letzte Zeile verklungen war, so erhob sich Buchhändler Rabatzki von
+                  seinem Platz und sagte in einem <pb/> Ton, in dem Wichtigkeit und Bescheidenheit
+                  beständig miteinander rangen: »Meine Herren! Ohne Ihrem kompetenteren Urteil«
+                  (»Sehr gut, Rabatzki!«) »irgendwie vorgreifen zu wollen, bitt ich nur einfach von
+                  meinem vorwiegend geschäftsmännischen Standpunkt aus bemerken zu dürfen, daß ich
+                  mich glücklich schätzen würde, diese Strophen in der nächsten Nummer meines
+                  Sonntagsblattes, und zwar ausnahmsweise an der Spitze desselben, bringen zu
+                  können. Ich bitte Herrn Himmerlich, mich dazu autorisieren, zugleich aber auch in
+                  einer Anmerkung einige kurze biographische Notizen über den englischen Dichter,
+                  der mir seines berühmten Namensvetters durchaus würdig zu sein scheint, geben zu
+                  wollen.«</p>
+               <p>Über Himmerlichs Gesicht, der diese schmeichelhaften Worte Rabatzkis als ein gutes
+                  Omen für alles Kommende ansah, flog es wie Verklärung. Er sollte seines Triumphes
+                  aber nicht lange froh bleiben. Jürgaß klopfte den Fidibus aus, mit dem er eben
+                  eine frische Pfeife angeraucht hatte, und sagte: »Unseres Freundes Rabatzki
+                  sonntagsblattliche Begeisterung in Ehren, eines möcht ich wissen, ist es ein
+                  Bruchstück?«</p>
+               <p>»Nein.«</p>
+               <p>»Dann gestatten Sie mir die Behauptung, daß Ihr Sabbat zwar ein Ende, aber keinen
+                  Schluß hat.«</p>
+               <p>»Es wird sich darüber streiten lassen. Ich glaube nicht, daß es nötig war, meinen
+                  Morgenspaziergänger bis an seinen Frühstückstisch zurückzubegleiten.«</p>
+               <p>»Und ich meinerseits möchte bezweifeln, daß Sie dem Gedichte durch eine solche
+                  gemütlich-idyllische Zutat geschadet hätten. Indessen lassen wir das. Aber die
+                  Form, die Form, Himmerlich! Sagen Sie, was sind das für sonderbare Strophen?«</p>
+               <p>»Es sind sogenannte Spencerstrophen.«</p>
+               <p>»Spencerstrophen?« fuhr Jürgaß fort, »ich finde diesen Namen fast noch sonderbarer
+                  als die Verse selbst.«</p>
+               <p>»Ich nehme an, Herr von Jürgaß«, antwortete Himmerlich in einem immer erregter
+                  werdenden Tone, »daß Sie mit dem Bau der Ottaverime vertraut sind, jener
+                  achtzeiligen schönen <pb/> Strophen, in denen Tasso und Ariost ihre unsterblichen
+                  Werke, den ›Orlando furioso‹ und das ›Gerusalemme liberata‹, dichteten.«</p>
+               <p>Jürgaß, der sich auf diesem Gebiete nichts weniger als zu Hause fühlte, rauchte
+                  stärker und suchte seine wachsende Unsicherheit hinter einem mit der Miene der
+                  Superiorität gesprochenen »Und nun?« zu verbergen.</p>
+               <p>»Und nun?« griff Himmerlich das letzte Wort auf, »die Spencerstrophe mag als ein
+                  Geschwisterkind dieser Tasso- und Arioststrophe angesehen werden. Ihre
+                  Reimstellung ist freilich anders, sie hat auch nicht acht Zeilen, sondern neun und
+                  geht in eben dieser neunten Zeile aus dem fünffüßigen Jambus in den Alexandriner
+                  über...«</p>
+               <p>»Ist aber nichtsdestoweniger eigentlich ein und dasselbe. Ich beneide Sie,
+                  Himmerlich, um diese Schlußfolgerung.«</p>
+               <p>Eine gereizte Debatte schien unausbleiblich; Lewin indessen schnitt sie geschickt
+                  ab, indem er bemerkte, daß es nicht Aufgabe dieses Kreises sein könne, die
+                  größeren oder geringeren Verwandtschaftsgrade zwischen Spencerstrophe und
+                  Ottaverime festzustellen. Er müsse bitten, auf die Dichtung selber einzugehen,
+                  wenn es nicht vorgezogen würde, trotz einiger kleiner Ausstellungen des Herrn von
+                  Jürgaß, die warmen Worte, in denen sich ihr immer treu befundenes Mitglied
+                  Buchhändler Rabatzki bereits geäußert habe, einfach als Urteil und Dankesausdruck
+                  der Kastalia selbst zu akzeptieren.</p>
+               <p>Hierauf wurde nicht nur überhaupt eingegangen, sondern auch mit einer
+                  Bereitwilligkeit, deren ironischer Beigeschmack von dem unglücklichen Himmerlich
+                  sehr wohl herausgefühlt wurde.</p>
+               <p>»Wir wenden uns nunmehr dem zweiten der eingegangenen Beiträge zu«, fuhr Lewin
+                  fort. »Es sind Strophen unseres sehr verehrten Gastes, des Herrn Hansen-Grell, den
+                  in kürzester Frist als Mitglied dieses Kreises begrüßen zu dürfen ich als meinen
+                  persönlichen, übrigens von allen Mitgliedern der Kastalia geteilten Wunsch
+                  ausgesprochen haben möchte. Ich bitte, Herrn Hansen-Grell, seine Strophen lesen zu
+                  wollen.«</p>
+               <p>
+                  <pb/> Dieser zog, um des Tabakrauches willen, der bereits seine Schleier
+                  auszuspannen anfing, das Licht etwas näher an sich heran und begann dann ohne
+                  Zögern, mit ruhiger, aber sehr eindringlicher Stimme: »Seydlitz; geboren zu Calcar
+                  am 3. Februar 1721.«</p>
+               <p>»Ist das die Überschrift?« unterbrach Jürgaß.</p>
+               <p>»Ja«, war die kurze Antwort.</p>
+               <p>»Nun, da bitt ich doch bemerken zu dürfen, daß mich dieser Titel noch mehr
+                  überrascht als Bau und Reimstellung der Himmerlichschen Spencerstrophe. ›Geboren
+                  zu Calcar, am 3. Februar 1721‹, das ist die Überschrift eines Nekrologs, aber
+                  nicht eines Gedichtes«</p>
+               <p>»Und vor allem eine Überschrift«, erwiderte Hansen-Grell in heiterer Laune, »die
+                  niemand anders verschuldet hat als Herr von Jürgaß selbst. Ohne seine Abneigung
+                  gegen alles, was einer Captatio benevolentiae ähnlich sieht, würde der Titel
+                  meines Gedichtes einfach ›General Seydlitz‹ gelautet haben; aber jeder Möglichkeit
+                  beraubt, das mir unerläßliche ›geboren zu Calcar‹ auf dem herkömmlichen
+                  Vorredewege zu Ihrer freundlichen Kenntnis zu bringen, ist mir nichts andres
+                  übriggeblieben, als jene biographische Notiz gleich mit in die Überschrift
+                  hineinzunehmen.«</p>
+               <p>»Und so haben wir doch wieder eine Vorrede gehabt...«</p>
+               <p>»Weil wir keine haben sollten. – Aber ich bin zu Ende.«Und Hansen-Grell las nun
+                  ohne weitere Störung:</p>
+
+            </div>
+            <div type="chapter">
+               <head>»General Seydlitz</head>
+
+               <l>In Büchern und auf Bänken,</l>
+               <l>Da war er nicht zu Haus,</l>
+               <l>Ein Pferd im Stall zu tränken,</l>
+               <l>Das sah schon besser aus;</l>
+               <l>Er trug blanksilberne Sporen</l>
+               <l>Und einen blaustählernen Dorn –</l>
+               <l> Zu Calcar war er geboren,</l>
+               <l>Und Calcar, das ist Sporn.</l>
 
 
 
-                  <l>Sie reiten über die Brücken,</l>
-                  <l>Der König scherzt: ›Je nun,</l>
-                  <l>Hie Feind in Front und Rücken,</l>
-                  <l>Seydlitz, was würd Er tun?‹</l>
-                  <l>Der, über die Brückenwandung,</l>
-                  <l>Setzt weg, halb links nach vorn,</l>
-                  <l>Der Strom schäumt auf wie Brandung –</l>
-                  <l>Ja, Calcar, das ist Sporn.</l>
+               <pb/>
+               <l>Es sausen die Windmühlflügel,</l>
+               <l>Es klappert Leiter und Steg,</l>
+               <l>Da, mit verhängtem Zügel,</l>
+               <l>Geht's unter dem Flügel weg;</l>
+               <l>Und bückend sich vom Pferde,</l>
+               <l>Einen vollen Büschel Korn</l>
+               <l>Ausreißt er aus der Erde –</l>
+               <l>Hei, Calcar, das ist Sporn.</l>
 
 
 
-                  <l>Und andre Zeiten wieder;</l>
-                  <l>O kurzes Heldentum!</l>
-                  <l>Er liegt todkrank danieder</l>
-                  <l>Und lächelt: ›Was ist Ruhm?</l>
-                  <l>Ich höre nun allerwegen</l>
-                  <l>Eines besseren Reiters Horn –</l>
-                  <l>Aber auch ihm entgegen,</l>
-                  <l>Denn Calcar, das ist Sporn.‹«</l>
+               <l>Sie reiten über die Brücken,</l>
+               <l>Der König scherzt: ›Je nun,</l>
+               <l>Hie Feind in Front und Rücken,</l>
+               <l>Seydlitz, was würd Er tun?‹</l>
+               <l>Der, über die Brückenwandung,</l>
+               <l>Setzt weg, halb links nach vorn,</l>
+               <l>Der Strom schäumt auf wie Brandung –</l>
+               <l>Ja, Calcar, das ist Sporn.</l>
 
 
-                  <p>Ein Jubel, wie ihn die Kastalia seit lange nicht gehört hatte, brach von allen
-                     Seiten los und legte, wie Hansen-Grell, um sich dadurch weiteren Ovationen zu
-                     entziehen, scherzhaft bemerkte, ein vollgültiges Zeugnis von der
-                     kavalleristischen Zusammensetzung der Dienstagsgesellschaft ab. Er traf es
-                     hiermit richtig: Bninski, Hirschfeldt, Meerheimb waren Kavalleristen von Fach,
-                     Tubal und Lewin gute Reiter. Aber auch die Minorität ließ es an lebhaften
-                     Beifallsbezeugungen nicht fehlen; Bummcke, wenn nicht Reiter, war doch
-                     wenigstens Soldat, <pb/> Rabatzki tadelte nie, und Himmerlich fühlte sich
-                     erleichtert, seine Verstimmung hinter enthusiastischen, wenn auch kurzen und
-                     etwas krampfhaften Ausrufungen verbergen zu können. Gewann er doch für sich
-                     selbst und nebenher noch das Wohlgefühl neidloser Charaktergröße.</p>
-                  <p>Endlich hatte sich die Aufregung gelegt, und Tubal bat ums Wort, was ihm zu
-                     verschaffen, bei einer zwischen Bummcke und Jürgaß über die Zulässigkeit der
-                     Wendung »halb links nach vorn« eben wieder ausgebrochenen Privatfehde,
-                     einigermaßen schwerhielt. Zuletzt aber gelang es, und Tubal bemerkte nun: »Ich
-                     bitte zunächst an einen Satz erinnern zu dürfen, den Doktor Saßnitz vor einiger
-                     Zeit an dieser Stelle aussprach: ›Unsere Strenge ist unser Stolz.‹ Sie fühlen,
-                     daß dies die Brücke ist, auf der ich zu einem Angriff vorgehen möchte. Der Reiz
-                     des Gedichtes, das wir eben gehört, liegt ausschließlich in seinem Ton und
-                     seiner Behandlung; es ist keck gegriffen und keck durchgeführt, aber es hat von
-                     dieser Keckheit offenbar zuviel.«</p>
-                  <p>»Kann nicht vorkommen«, warf Jürgaß ein.</p>
-                  <p>»Doch«, fuhr Tubal fort. »Unser verehrter Gast hat dies auch selbst
-                     empfunden.«</p>
-                  <p>Hansen-Grell nickte.</p>
-                  <p>»Jedes Kunstwerk, so wenigstens stehe ich zu diesen Dingen, muß aus sich selber
-                     heraus verstanden werden können, ohne historische oder biographische Notizen.
-                     Diesen Anspruch aber seh ich in diesem Gedichte nicht erfüllt. Es ist eminent
-                     gelegenheitlich und auf einen engen oder engsten Kreis berechnet, wie ein
-                     Verlobungs- oder Hochzeitstoast. Es hat die Bekanntschaft mit einem halben
-                     Dutzend Seydlitzanekdoten zur Voraussetzung, und ich glaube kaum zuviel zu
-                     sagen, wenn ich behaupte, daß es nur von einem preußischen Zuhörer verstanden
-                     werden kann. Lesen Sie das Gedicht, auch in bester Übersetzung, einem Engländer
-                     oder Franzosen vor, und er wird außerstande sein, sich darin
-                     zurechtzufinden.«</p>
-                  <p>Bninski schüttelte den Kopf.</p>
-                  <p>»Unser verehrter Gast, Graf Bninski«, fuhr Tubal fort, <pb/> »scheint mir nicht
-                     zuzustimmen. Es freut mich dies um des Dichters willen, dem ich, von
-                     unerwarteter Seite her, einen Verteidiger erstehen sehe. Der Graf hat
-                     vielleicht die Freundlichkeit, sich eingehender über diesen Gegenstand zu
-                     äußern.«</p>
-                  <p>Lewin wiederholte dieselbe Bitte.</p>
-                  <p>»Ich kann mich auf wenige Bemerkungen beschränken«, nahm der Graf in gutem,
-                     wenn auch polnisch akzentuiertem Deutsch das Wort. »Ich kenne von General
-                     Seydlitz nichts als seinen Namen und seinen Ruhm, glaube aber das Gedicht des
-                     Herrn Hansen-Grell vollkommen verstanden zu haben. Ich ersehe aus seinen
-                     Strophen, daß Seydlitz zu Calcar geboren wurde, daß er das Lernen nicht liebte,
-                     aber desto mehr das Reiten. Dann folgen Anekdoten, die deutlich für sich selber
-                     sprechen, zugleich auch seine Reiterschaft glorifizieren, bis er in der letzten
-                     Strophe jenem besseren Reiter erliegt, dem wir alle früh oder spät erliegen.
-                     Dies wenige ist genug, weil es ein Ausreichendes ist. Hier steckt das
-                     Geheimnis. Ich habe mich in Jahren, die länger zurückliegen, als mir lieb ist,
-                     um die Volkslieder meiner Heimat gekümmert, auch vieles davon gesammelt,
-                     überall aber hab ich wahrgenommen, daß das sprungweise Vorgehen zu den
-                     Kennzeichen und Schönheiten dieser Dichtungsgattung gehört. Die Phantasie muß
-                     nur den richtigen Anstoß empfangen; ist dies geglückt, so darf man kühn
-                     behaupten: ›Je weniger gesagt wird, desto besser.‹«</p>
-                  <p>»Ich bescheide mich«, erwiderte Tubal, »um den Fortgang unserer Sitzung nicht
-                     länger als wünschenswert unterbrochen zu sehen. Wenn ein unbefugter Blick in
-                     den Pappbogen unseres Herrn Vorsitzenden mich nicht falsch orientiert hat, so
-                     haben wir zunächst noch einige von ihm selber herrührende Strophen zu
-                     erwarten.«</p>
-                  <p>»Der Scharfblick unseres Freundes Ladalinski hat sich auch diesmal wieder
-                     bewährt. Es war meine Absicht, die lyrische Reihe heute persönlich
-                     abzuschließen, bitte aber, meinen Beitrag, der noch der Feile bedarf,
-                     zurückziehen zu dürfen.«</p>
-                  <p>Lewin sprach diese Worte nicht ohne Verlegenheit, da es in Wahrheit ein sehr
-                     anderer Grund war, der ihn von seiner ursprünglichen <pb/> Absicht abzustehen
-                     veranlaßte. Wußt er doch am besten, aus welcher zaghaften Stimmung heraus die
-                     drei kleinen Strophen geschrieben worden waren, um die es sich handelte; und
-                     wie sehr sich diese Zaghaftigkeit schließlich auch in das Gewand der Hoffnung
-                     gekleidet haben mochte, doch war es ihm zu Sinn, als ob Bninski mit feinem Ohr
-                     den elegischen Grundton des Liedes heraushören und die Veranlassung dazu
-                     erraten müßte. Dieser Gedanke war ihm in hohem Maße peinlich, so daß er denn
-                     auch wirklich die Strophen zurückschob und, das nunmehr obenaufliegende
-                     Prosamanuskript an Rittmeister von Hirschfeldt überreichend, diesen bat, mit
-                     seinem Vortrage zu beginnen.</p>
-                  <p>Der Angeredete, mit jener Frankheit, die der Reiz und Vorzug des Soldaten ist,
-                     rückte sich zurecht und begann, ohne jedes Vorwort, mit klangvoller Stimme:</p>
 
-                  <!--milestone hi_start-->
-                  <p> Erinnerungen aus dem Kriege in Spanien </p>
-                  <p>Das Gefecht bei Plaa</p>
-                  <!--milestone hi_end-->
+               <l>Und andre Zeiten wieder;</l>
+               <l>O kurzes Heldentum!</l>
+               <l>Er liegt todkrank danieder</l>
+               <l>Und lächelt: ›Was ist Ruhm?</l>
+               <l>Ich höre nun allerwegen</l>
+               <l>Eines besseren Reiters Horn –</l>
+               <l>Aber auch ihm entgegen,</l>
+               <l>Denn Calcar, das ist Sporn.‹«</l>
 
-                  <p>Mein älterer Bruder Eugen, nachdem er erst unter Schill, dann unter dem Herzog
-                     von Braunschweig gefochten, auch der Einschiffung nach England sich
-                     angeschlossen hatte, hatte von dort aus spanische Dienste genommen und war im
-                     Sommer 1810 in Andalusien eingetroffen. Als ich davon hörte, folgte ich ihm und
-                     traf ihn, eben gelandet, auf dem großen Marktplatze von Cadix. Über die Freude
-                     des Wiedersehens gehe ich hinweg. Er hatte an demselben Tage das Majorspatent
-                     empfangen, und seinem Einfluß gelang es leicht, mir eine Offiziersstelle zu
-                     erwirken.</p>
-                  <p>Das Treiben in Cadix mißfiel uns, so daß wir froh waren, als Meldung eintraf,
-                     daß wir der in Katalonien stehenden, täglich in Gefechten mit dem Feinde
-                     verwickelten Armeeabteilung zugeteilt seien. Wir gingen dahin ab und landeten,
-                     nach einer höchst beschwerlichen, uns den ganzen Unterschied zwischen einem
-                     spanischen und einem englischen Kriegsschiff fühlbar machenden Seereise, im
-                     Hafen von Tarragona. Dies war Ende <pb/> November, genau zwei Monate nach
-                     meiner Ankunft in Spanien. In Katalonien sah es besser aus als in Andalusien.
-                     Wir kamen zum Dragonerregiment Alcantara, mein Bruder als Oberstlieutenant, ich
-                     als Premier. Der Empfang, den wir fanden, war kameradschaftlich; man hatte ein
-                     besonderes Vertrauen zu allen preußischen Offizieren.</p>
-                  <p>Die Alcantaradragoner waren ihrerzeit ein sehr bevorzugtes und sehr prächtiges
-                     Regiment gewesen; sie trugen unter dem alten Regime dreieckige Hüte mit weißen
-                     Bandtressen, gelbe lange Röcke mit rotem Futter und rotem Kragen, dazu grüne
-                     Rabatten und blaue kurze Hosen. Eine Vertretung also sämtlicher Farben. Von
-                     dieser Pracht und Herrlichkeit war indessen nach der Neuformierung, die die
-                     ganze Armee seitdem erfahren hatte, wenig übriggeblieben, und die
-                     Alcantaradragoner, die wir vorfanden, mußten sich an einem niedrigen ledernen
-                     Czako und einem langen blauen Rock mit Regimentsnummer und Messingknöpfen
-                     genügen lassen. Die Bewaffnung war ein sehr langer Degen mit schmaler Klinge
-                     und schwerem eisernen Korb, so daß das Gewicht in der Hand lag, dazu Karabiner
-                     und Pistole.</p>
-                  <p>Unser Regiment gehörte zur Armee des Generals O'Donnell, spezieller zu der
-                     vorgeschobenen Division des Generals Sarsfield. Dieser, erst sechsundzwanzig
-                     Jahr alt, brillanter Soldat, voll eiserner Ruhe im Gefecht, faßte ein
-                     besonderes Vertrauen zu meinem Bruder, in dem er alle Eigenschaften, die ihn
-                     selber auszeichneten, sofort wiedererkannte. Jede Auskunft, die uns erwünscht
-                     sein konnte, wurde uns zuteil. Die Division war numerisch nur schwach und
-                     bestand aus zwei Infanterie- und vier Kavallerieregimentern, zusammen höchstens
-                     fünftausend Mann. Es waren das Infanterieregiment Almeria und das
-                     Schweizerregiment Baron Wimpfen, dazu Alcantara- und Numanciadragoner,
-                     Kürassierregiment Katalonien und Husarenregiment Granada.</p>
-                  <p>Gleich in den ersten Tagen nach unserer Ankunft wurde eine vierhundert Pferde
-                     starke Avantgarde gebildet und dem Befehle meines Bruders unterstellt. Uns
-                     gegenüber stand General <pb/> Macdonald, der das nördlich von uns gelegene
-                     Barcelona mit starken Kräften festhielt und durch Ausführung eines
-                     Umgehungsmarsches uns auch das südlich von uns gelegene Tortosa zu entreißen
-                     trachtete. Glückte das, so waren wir eingeschlossen und mußten froh sein, uns
-                     auf Tarragona zurückziehen und hier wieder einschiffen zu können. Katalonien
-                     war dann verloren. Und es kam so. Aber ehe es dahin kam, hatten wir eine Reihe
-                     blutiger Gefechte.</p>
-                  <p>Aus der Reihe dieser Gefechte greife ich nur das bei Plaa heraus, weil es für
-                     mich persönlich entscheidend wurde.</p>
-                  <p>Es war am 7. Januar, als wir erfuhren, daß Tortosa über sei. Wir standen
-                     damals, die ganze Division Sarsfield, am Nordabhange eines hohen Bergzuges, der
-                     in einiger Entfernung von der Küste mit dieser parallel läuft, und hielten,
-                     unter täglichen Plänkeleien mit den Vortruppen des Macdonaldschen Corps, die
-                     von Lerida nach Tarragona quer über das Gebirge führende Straße besetzt.
-                     Solange diese Straße, samt dem Defilee, dem sogenannten Passe von Plaa, in
-                     unseren Händen war, hatte der Verlust von Tortosa, so wichtig er war,
-                     wenigstens für unsere unmittelbare Sicherheit nichts zu bedeuten; der Besitz
-                     jenes Passes sicherte uns die Rückzugslinie bis ans Meer. Brachten wir die im
-                     ganzen genommen nicht große Energie mit in Anschlag, die seitens des Gegners
-                     entwickelt wurde, so lag kein Grund vor, unsere Stellung zu wechseln. Da, wo
-                     wir standen, wirkten wir offensiv; gaben wir aber unsere Stellung am
-                     Nordabhange auf und zogen uns auf die andere Seite des Gebirges, so zeigten wir
-                     jene Besorgnis, die schon einer halben Niederlage gleichkommt.</p>
-                  <p>Wir hatten aber den Eifer des Gegners unterschätzt, wenigstens den des Generals
-                     Suchet, der, gemeinschaftlich mit Macdonald operierend, diesen an Rührigkeit
-                     übertraf. Am 14. Januar kam Meldung, daß eine starke feindliche Avantgarde von
-                     der Küste her, also in unserem Rücken, heranmarschiere und unverkennbar die
-                     Absicht habe, den Paß bei Plaa zu schließen. Dorf Plaa lag an der uns
-                     entgegengesetzten Seite des Gebirges, hart am Fuße desselben. General
-                     Sarsfield, als er <pb/> diese Meldung empfing, war schnell entschlossen; er
-                     verstärkte die bis dahin nur aus vierhundert Pferden der Regimenter Alcantara
-                     und Granada bestehende Avantgarde durch zwei Bataillone vom Schweizerregiment
-                     Wimpfen und gab meinem Bruder Befehl, in einem Nachtmarsch über das Gebirge zu
-                     gehen und noch vor Tagesanbruch das jenseits gelegene Dorf Plaa zu besetzen.
-                     Der Aufbruch erfolgte sofort; ein entsetzliches Wetter aber, Regen und Sturm,
-                     bei dem der schmale Fußpfad nur derart passiert werden konnte, daß ein Mann dem
-                     andern folgte, verzögerte das Eintreffen in Plaa bis um zehn Uhr morgens. Es
-                     war die höchste Zeit; schon ging die französische Avantgardendivision unter
-                     General Eugenio (so daß sich hier zwei Namensvettern gegenüberstanden) gegen
-                     Dorf Plaa vor, und nur mit äußerster Anstrengung gelang es meinem Bruder, das
-                     Dorf bis Mittag zu halten.</p>
-                  <p>Um diese Stunde erschien General Sarsfield mit dem Gros und stellte das schon
-                     rückwärtsgehende Gefecht wieder her. Aber Terrain war unsererseits nicht zu
-                     gewinnen, und als eine Stunde später allerhand Verstärkungen auch beim Feinde
-                     eintrafen, ging dieser mit einem vollzähligen Dragonerregiment abermals zum
-                     Angriff über. Diesseits war momentan nichts zur Hand als ein in Ablösung
-                     unserer Avantgarde in die Front gezogenes Kürassierregiment, die Kürassiere von
-                     Katalonien, unter ihrem Kommandeur Don Pedro Gallon. Unmittelbar hinter den
-                     Kürassieren hielten wir: Alcantaradragoner und Granadahusaren. Unsere
-                     Kürassiere, kaum zweihundert Pferde stark, waren zu schwach und kamen ins
-                     Schwanken; aber im selben Augenblicke, wo mein Bruder das Schwanken wahrnahm,
-                     gab er uns das Zeichen zum Angriff, und in langer Linie stürzten wir in die
-                     linke Flanke der feindlichen Dragoner. Sie wichen sofort und verwickelten ein
-                     hinter ihnen haltendes Chasseurregiment mit in die eigene Flucht. Die
-                     Verfolgung ging eine Meile weit, es gab viele Gefangene; General Eugenio, der
-                     persönlich die Flucht aufzuhalten gesucht, wurde niedergehauen und starb am
-                     Tage dar auf.</p>
-                  <p>Es war ein vollständiger Sieg und seitens der Unserigen nicht <pb/> allzu teuer
-                     erkauft; nur ich verlor viel an diesem Tage: mein Bruder Eugen, wie der General
-                     Eugenio, dem er gegenübergestanden hatte, erlag seinen Wunden. Was ich noch zu
-                     sagen habe, betrifft nur ihn und mich.</p>
-                  <p>Um fünf Uhr war das Gefecht beendet, und ich führte, was ich vom Regiment
-                     Alcantara noch zur Hand hatte, wieder auf Plaa zurück. Ich war im ganzen gut
-                     davongekommen, hatte aber während des Démêlés von einem französischen Dragoner,
-                     den ich packen wollte, einen Stoß mit dem Degengefäß in das Gesicht erhalten,
-                     so daß ich, schwarz und angeschwollen, einen schlimmeren Anblick gewährte als
-                     mancher Schwerblessierte. So trat ich vor meinen Bruder, von dessen Verwundung
-                     ich schon unterwegs gehört hatte. Ich fand ihn in einem Bauernhause von Plaa in
-                     Pflege guter Leute. Als er mich sah, drang er darauf, daß ich mich zunächst
-                     verbinden lassen sollte, was denn auch geschah. Als ich wieder zu ihm kam,
-                     setzte ich mich, und wir begannen zu plaudern. Zunächst von der Affaire, die
-                     nun glücklich hinter uns lag. Ich mußte ihm alle Kleinigkeiten erzählen, denen
-                     er mit größtem Interesse folgte; meinem Pferde beispielsweise, einem schönen
-                     schwarzen Hengst, war ein Ohr dicht vom Kopfe weggehauen worden, was er sehr
-                     bedauerte. Besondere Aufmerksamkeit aber schenkte er einem Tagebuche, das sich
-                     in einem Mantelsacke, der mir bei der Beuteverteilung zugefallen war,
-                     vorgefunden hatte. Es war von dem ersten Einrücken der Franzosen in Katalonien
-                     bis zum 14. Januar 1811 mit großer Genauigkeit geführt und enthielt, von
-                     kleinen Croquis begleitet, eine Schilderung fast aller Gefechte, in denen auch
-                     wir engagiert gewesen waren. Eugen blätterte halbe Stunden lang in dem Buche
-                     und lobte die Unparteilichkeit der Darstellung. Ich glaubte nach allem an
-                     nichts weniger als Gefahr und mußte dem Doktor recht geben, der trotz heftiger
-                     Schmerzen, über die der Verwundete von Zeit zu Zeit klagte, immer nur von zwei
-                     leichten Blessuren sprach. Es waren Degenstiche in die linke Seite. Auffallend
-                     erschien mir nur seine Weichheit; er war in einer gefühlvollen Stimmung, sprach
-                     viel von Hause, von unserem alten Vater und <pb/> trug mir Grüße auf, da er auf
-                     einige Wochen noch am Schreiben gehindert sein werde.</p>
-                  <p>So verging der Abend. Ich hatte vor, trotz aller Ermüdung bei ihm zu wachen. Es
-                     kam aber anders. Bald nach Mitternacht wurde Alarm geblasen, und ich begab mich
-                     zu meinem in Front des Dorfes biwakierenden Regiment, das gleich darauf Befehl
-                     erhielt, gegen ein der Küste zu gelegenes Städtchen, das den Namen Valls
-                     führte, zu rekognoszieren. Meinen Verwundeten ließ ich übrigens in guter Obhut
-                     zurück; ich hatte beim Schweizerregiment Wimpfen um einige Mannschaften zu
-                     seinem Schutz gebeten, und es traf sich, daß der Unteroffizier, der diese
-                     Mannschaften kommandierte, früher, als mein Bruder noch in Halberstadt
-                     garnisonierte, mit ihm in ein und derselben Compagnie des Regiments Herzog von
-                     Braunschweig gestanden hatte. Beide freuten sich sehr, sich wiederzusehen.</p>
-                  <p>Unser Ritt gegen Valls verlief ohne Bedeutung, kostete aber Zeit und Mühe, und
-                     erst in den Nachmittagsstunden des andern Tages kehrten die Truppen, die die
-                     Rekognoszierung ausgeführt hatten, nach Plaa zurück. Mehrere Offiziere, denen
-                     ich begegnete, sagten mir: es ginge besser mit Eugen. Ich fand ihn auch
-                     wirklich ruhiger, ohne Schmerzen, aber sehr matt. Nichtsdestoweniger ließ er
-                     sich die kleinen Vorgänge des Tages von mir erzählen, hörte aufmerksam zu und
-                     verlangte mehr zu wissen, wenn ich aus Rücksicht auf seinen Zustand schwieg.
-                     Plötzlich aber unterbrach er mich und sagte: »Entsinnst du dich noch des Abends
-                     auf der Seereise von Cadix nach Tarragona, wo wir mit unsern deutschen
-                     Kameraden der Heimat gedachten und wo dann die Frage laut wurde: ›Wer wird die
-                     Heimat wiedersehen?‹ Ich weiß jetzt einen, der sie nicht wiedersehen wird.« Ich
-                     bog mich über ihn und bat ihn, sich nicht durch solche trübe Gedanken
-                     aufzuregen; er hörte mich aber nicht und fuhr dann fort: »Es wird sich heute
-                     noch manches ereignen: ich sehe schwarz in die Zukunft. Nimm dich, wenn es zum
-                     Gefechte kommt, in acht. Unsere Pferde sind matt zum Umfallen. Vergiß auch
-                     nicht, daß man nicht bei jeder Gelegenheit sich rückhaltlos drangeben soll. Man
-                     opfert sich sonst leicht <pb/> ohne Zweck.« Dies waren seine letzten Worte. Ich
-                     hatte ihn eben aufgerichtet, um ihm einen Löffel Arzenei zu geben; als ich ihn
-                     wieder auf das Kopfkissen zurücklegen wollte, schien es mir, als ob er sehr
-                     blaß würde. Ich faßte seine Hand, sie war kalt; er drückte die meinige
-                     krampfhaft, rang nach Luft und war tot.</p>
-                  <p>Dies war am 16. nachmittags. General Sarsfield, als er von dem Hinscheiden
-                     hörte, ließ mir sein Beileid ausdrücken und fügte die Bemerkung hinzu: es würde
-                     gut sein, den Toten so bald wie möglich in die hochgelegene Klosterkirche von
-                     Plaa hinaufzuschaffen; jede Stunde könne ein neues Gefecht bringen, dessen
-                     Ausgang unsicher sei.</p>
-                  <p>Ich ließ mir dies gesagt sein. Aus alten Dielen, »vier Bretter und zwei
-                     Brettchen«, wurde schleunigst ein Sarg hergestellt und Eugen in der Uniform
-                     seines Regiments in die Totentruhe hineingelegt. So schafften ihn einige meiner
-                     Dragoner in die Klosterkirche hinauf und stellten ihn dicht an die
-                     Altarstufen.</p>
-                  <p>Völlig erschöpft von den Anstrengungen und Aufregungen der vergangenen Tage,
-                     hatte ich mich, als die Nacht anbrach, auf eine Schütte Stroh niedergelegt. Ich
-                     war so recht von Herzen traurig; die Bilder meiner Kindheit und ersten Jugend
-                     zogen an mir vorüber; nun war ich allein, ganz allein, und der Bruder, den ich
-                     so sehr geliebt hatte, tot.</p>
-                  <p>Im Begriff, einzuschlafen, wurde ich durch einen Ordonnanzoffizier geweckt. Er
-                     kam vom General und war abgeschickt, um ein Papier zu holen, das Sarsfield
-                     beinahe unmittelbar vor Beginn des Treffens bei Plaa an Eugen gegeben hatte. Es
-                     sei von Wichtigkeit, er müsse es haben.</p>
-                  <p>Ich erinnerte mich des Hergangs sofort, war Augenzeuge gewesen, wie mein Bruder
-                     das Papier in sein Reiterkoller gesteckt hatte, und bat deshalb den Offizier,
-                     mich bis zur Klosterkirche hinauf begleiten zu wollen, da der Tote noch
-                     denselben Rock anhabe, den er vor Beginn des Gefechts getragen habe. Er lehnte
-                     aber, Geschäfte vorschützend, ab; auch mein Diener Francesco, als ich mich nach
-                     ihm umsah, war verschwunden. So blieb mir nichts übrig, als allein zu
-                     gehen.</p>
-                  <p>Ich nahm eine kleine Laterne, die nur ein Glas hatte, und <pb/> schritt auf das
-                     ziemlich weitschichtige Klostergebäude zu. Ein dienender Bruder öffnete mir,
-                     erschrak aber, als ich ihn bat, mir nun auch die Kirchentür öffnen zu wollen.
-                     »Jetzt in der Nacht bringt mich kein Mensch hinein.« Vergebens sucht ich ihn zu
-                     überreden. »Es ist nicht geheuer«, dabei blieb er. Endlich gab er mir
-                     wenigstens den Schlüssel zur Kirche, zugleich mit der Weisung: wenn ich zweimal
-                     im Schloß gedreht, müßt ich mit aller Kraft gegen die Tür stoßen, weil sie
-                     verquollen sei und schwer aufginge.</p>
-                  <p>Um bis an die Kirche zu kommen, waren noch zwei lange Kreuzgänge zu passieren.
-                     Gerade hier hatte tags zuvor ein erbitterter Infanteriekampf (der unsererseits
-                     durch das Schweizerregiment geführt worden war) stattgefunden, und alles trug
-                     noch die Spuren dieses Kampfes: die Leichen waren zwar weggeschafft, aber die
-                     Blutlachen geblieben; die Standbilder, von den Wänden herabgerissen, lagen
-                     zertrümmert am Boden; selbst die Luft war dumpf und modrig. An diesen Bildern
-                     der Zerstörung vorbei ging ich auf die Kirche zu, steckte den Schlüssel hinein,
-                     drehte zweimal, stieß die Türe auf, die sich langsam und dröhnend öffnete. Ich
-                     legte meinen Mantel ab, der mir jetzt nur hinderlich sein konnte, nahm den
-                     Degen in die eine, die Laterne in die andere Hand und schickte mich an, das
-                     hochüberwölbte Mittelschiff hinaufzuschreiten. Eine unheimliche Stille
-                     herrschte, und der Widerhall meiner Schritte erschreckte mich.</p>
-                  <p>So kam ich bis an den Altar. Da stand der Sarg, vorläufig mit einem Brett nur
-                     überdeckt. Ich hob es auf, und meines Bruders gläserne Augen starrten mich an.
-                     Ich stellte, da kein anderer Platz war, die Laterne zu seinen Füßen und begann
-                     langsam Knopf um Knopf den Uniformrock zu öffnen, der sich fest und beinahe eng
-                     um seine Brust legte. Ich tat es mit abgewandtem Gesicht; aber wie ich auch
-                     vermeiden mochte, nach ihm hinzusehen, ich hatte doch sein Todesantlitz vor
-                     mir. Endlich fand ich das Papier und steckte es zu mir. Dann kam das Schwerste:
-                     ich mußte die Knöpfe wieder einknöpfen, da ich es nicht über mich gewinnen
-                     konnte, ihn in offener Uniform wie einen Beraubten <pb/> liegenzulassen. Und
-                     als auch das geschehen, trat ich den Rückweg an.</p>
-                  <p>Am andern Nachmittage, der Feind griff uns nicht an, wurde mein Bruder mit
-                     allen militärischen Ehren durch das Schweizerregiment Wimpfen in derselben
-                     Klosterkirche zu Plaa, in der er vierundzwanzig Stunden vor dem Altar gestanden
-                     hatte, begraben. An eben derselben Stelle wurden sein Säbel, seine Handschuhe
-                     und Sporen aufgehängt und erst einige Monate später, auf Befehl des Generals
-                     O'Donnell, der den Toten dadurch ehren wollte, in die Kathedrale von Tarragona
-                     gebracht. Dort befinden sie sich noch.</p>
 
-                  <p>Der Vortragende, als er bis hierher gelesen, rollte das Manuskript zusammen und
-                     legte es auf eines der Fensterbretter: die Zuhörer, gesenkten Blickes,
-                     schwiegen. Der erste, der sich erhob, war Bninski.</p>
-                  <p>»Ich bin selbst Gast in diesem Kreise und fürchte beinahe, mich eines
-                     Übergriffes schuldig zu machen, wenn ich vor Berufeneren das Wort ergreife.
-                     Aber meine Stellung, was mich entschuldigen mag, ist eine ausnahmsweise. Ich
-                     habe zwei Jahre vor Ihnen, Herr von Hirschfeldt, auf denselben Feldern, wenn
-                     auch auf der Ihnen feindlichen Seite, gekämpft; ich kenne die Plätze, von denen
-                     Sie uns gelesen: kaum verschwundene Bilder sind mir wieder lebendig geworden.
-                     Was Freund, was Feind! An gleicher Stelle die gleiche Gefahr. Ich bitte, Sie
-                     daraufhin als einen mir teuer gewordenen Kameraden begrüßen zu dürfen.«</p>
-                  <p>Während dieser Worte hatte Jürgaß die ihm zunächststehende Rheinweinflasche
-                     entkorkt und mit einer der Situation angepaßten Raschheit den großen silbernen
-                     Kastaliabecher bis an den Rand gefüllt. »Meine Herren, einer jener
-                     Ausnahmefälle, wie sie Paragraph sieben unseres Statuts, ich nehme nicht
-                     Anstand zu sagen, in seiner Weisheit voraussieht, ist eingetreten. Und so trink
-                     ich denn auf das Wohl unseres verehrten Gastes Rittmeisters von Hirschfeldt. Er
-                     lebe! Viele Ehren haben sich auf seinem Scheitel gehäuft, so viele Ehren wie
-                     Wunden; <pb/> aber eines blieb ihm bis diesen Tag versagt: er hatte noch nicht
-                     aus dem Silberbecher der Kastalia getrunken. Auch diese Stunde ist da. Ich
-                     trink ihm zu, und er tue mir Bescheid.«</p>
-                  <p>Und bei wiederholten Hochs kreiste der Becher.</p>
-                  <p>Nach Huldigungen wie diese konnte es Lewin nur noch obliegen, ein Schlußwort zu
-                     finden. »Die vorgeschrittene Stunde«, so begann er, »mehr noch das gehobene
-                     Gefühl, das uns dieselbe gebracht hat, dringen auf Abbruch und Vertagung. Ich
-                     erwarte Ihre Zustimmung.« (»Ja, ja!«) »Unsere nächste Sitzung soll, so sich
-                     kein Widerspruch erhebt« (»Nein, nein!«), »unter Zurückstellung aller bis dahin
-                     etwa eingehenden Lyrika, durch die Tagebuchblätter unseres verehrten Gastes,
-                     des Herrn von Meerheimb, die heute zu unserm Bedauern nicht mehr zum Vortrag
-                     gelangen konnten, eröffnet werden. Ich schließe die Sitzung.«</p>
-                  <p>Damit brach man auf in kleineren und größeren Gruppen. Die Mehrzahl hielt sich
-                     links; nur Jürgaß, Bummcke und Hansen-Grell gingen, als sie die
-                     Königsstraßenecke erreicht hatten, nach rechts hin auf den Alexanderplatz zu,
-                     um in den Tiefen des Mundtschen Weinkellers, natürlich die Kastaliasitzung als
-                     Text nehmend, unter Plauderei und Kritik den Abend zu beschließen.</p>
-               </div>
-            
+               <p>Ein Jubel, wie ihn die Kastalia seit lange nicht gehört hatte, brach von allen
+                  Seiten los und legte, wie Hansen-Grell, um sich dadurch weiteren Ovationen zu
+                  entziehen, scherzhaft bemerkte, ein vollgültiges Zeugnis von der kavalleristischen
+                  Zusammensetzung der Dienstagsgesellschaft ab. Er traf es hiermit richtig: Bninski,
+                  Hirschfeldt, Meerheimb waren Kavalleristen von Fach, Tubal und Lewin gute Reiter.
+                  Aber auch die Minorität ließ es an lebhaften Beifallsbezeugungen nicht fehlen;
+                  Bummcke, wenn nicht Reiter, war doch wenigstens Soldat, <pb/> Rabatzki tadelte
+                  nie, und Himmerlich fühlte sich erleichtert, seine Verstimmung hinter
+                  enthusiastischen, wenn auch kurzen und etwas krampfhaften Ausrufungen verbergen zu
+                  können. Gewann er doch für sich selbst und nebenher noch das Wohlgefühl neidloser
+                  Charaktergröße.</p>
+               <p>Endlich hatte sich die Aufregung gelegt, und Tubal bat ums Wort, was ihm zu
+                  verschaffen, bei einer zwischen Bummcke und Jürgaß über die Zulässigkeit der
+                  Wendung »halb links nach vorn« eben wieder ausgebrochenen Privatfehde,
+                  einigermaßen schwerhielt. Zuletzt aber gelang es, und Tubal bemerkte nun: »Ich
+                  bitte zunächst an einen Satz erinnern zu dürfen, den Doktor Saßnitz vor einiger
+                  Zeit an dieser Stelle aussprach: ›Unsere Strenge ist unser Stolz.‹ Sie fühlen, daß
+                  dies die Brücke ist, auf der ich zu einem Angriff vorgehen möchte. Der Reiz des
+                  Gedichtes, das wir eben gehört, liegt ausschließlich in seinem Ton und seiner
+                  Behandlung; es ist keck gegriffen und keck durchgeführt, aber es hat von dieser
+                  Keckheit offenbar zuviel.«</p>
+               <p>»Kann nicht vorkommen«, warf Jürgaß ein.</p>
+               <p>»Doch«, fuhr Tubal fort. »Unser verehrter Gast hat dies auch selbst
+                  empfunden.«</p>
+               <p>Hansen-Grell nickte.</p>
+               <p>»Jedes Kunstwerk, so wenigstens stehe ich zu diesen Dingen, muß aus sich selber
+                  heraus verstanden werden können, ohne historische oder biographische Notizen.
+                  Diesen Anspruch aber seh ich in diesem Gedichte nicht erfüllt. Es ist eminent
+                  gelegenheitlich und auf einen engen oder engsten Kreis berechnet, wie ein
+                  Verlobungs- oder Hochzeitstoast. Es hat die Bekanntschaft mit einem halben Dutzend
+                  Seydlitzanekdoten zur Voraussetzung, und ich glaube kaum zuviel zu sagen, wenn ich
+                  behaupte, daß es nur von einem preußischen Zuhörer verstanden werden kann. Lesen
+                  Sie das Gedicht, auch in bester Übersetzung, einem Engländer oder Franzosen vor,
+                  und er wird außerstande sein, sich darin zurechtzufinden.«</p>
+               <p>Bninski schüttelte den Kopf.</p>
+               <p>»Unser verehrter Gast, Graf Bninski«, fuhr Tubal fort, <pb/> »scheint mir nicht
+                  zuzustimmen. Es freut mich dies um des Dichters willen, dem ich, von unerwarteter
+                  Seite her, einen Verteidiger erstehen sehe. Der Graf hat vielleicht die
+                  Freundlichkeit, sich eingehender über diesen Gegenstand zu äußern.«</p>
+               <p>Lewin wiederholte dieselbe Bitte.</p>
+               <p>»Ich kann mich auf wenige Bemerkungen beschränken«, nahm der Graf in gutem, wenn
+                  auch polnisch akzentuiertem Deutsch das Wort. »Ich kenne von General Seydlitz
+                  nichts als seinen Namen und seinen Ruhm, glaube aber das Gedicht des Herrn
+                  Hansen-Grell vollkommen verstanden zu haben. Ich ersehe aus seinen Strophen, daß
+                  Seydlitz zu Calcar geboren wurde, daß er das Lernen nicht liebte, aber desto mehr
+                  das Reiten. Dann folgen Anekdoten, die deutlich für sich selber sprechen, zugleich
+                  auch seine Reiterschaft glorifizieren, bis er in der letzten Strophe jenem
+                  besseren Reiter erliegt, dem wir alle früh oder spät erliegen. Dies wenige ist
+                  genug, weil es ein Ausreichendes ist. Hier steckt das Geheimnis. Ich habe mich in
+                  Jahren, die länger zurückliegen, als mir lieb ist, um die Volkslieder meiner
+                  Heimat gekümmert, auch vieles davon gesammelt, überall aber hab ich wahrgenommen,
+                  daß das sprungweise Vorgehen zu den Kennzeichen und Schönheiten dieser
+                  Dichtungsgattung gehört. Die Phantasie muß nur den richtigen Anstoß empfangen; ist
+                  dies geglückt, so darf man kühn behaupten: ›Je weniger gesagt wird, desto
+                  besser.‹«</p>
+               <p>»Ich bescheide mich«, erwiderte Tubal, »um den Fortgang unserer Sitzung nicht
+                  länger als wünschenswert unterbrochen zu sehen. Wenn ein unbefugter Blick in den
+                  Pappbogen unseres Herrn Vorsitzenden mich nicht falsch orientiert hat, so haben
+                  wir zunächst noch einige von ihm selber herrührende Strophen zu erwarten.«</p>
+               <p>»Der Scharfblick unseres Freundes Ladalinski hat sich auch diesmal wieder bewährt.
+                  Es war meine Absicht, die lyrische Reihe heute persönlich abzuschließen, bitte
+                  aber, meinen Beitrag, der noch der Feile bedarf, zurückziehen zu dürfen.«</p>
+               <p>Lewin sprach diese Worte nicht ohne Verlegenheit, da es in Wahrheit ein sehr
+                  anderer Grund war, der ihn von seiner ursprünglichen <pb/> Absicht abzustehen
+                  veranlaßte. Wußt er doch am besten, aus welcher zaghaften Stimmung heraus die drei
+                  kleinen Strophen geschrieben worden waren, um die es sich handelte; und wie sehr
+                  sich diese Zaghaftigkeit schließlich auch in das Gewand der Hoffnung gekleidet
+                  haben mochte, doch war es ihm zu Sinn, als ob Bninski mit feinem Ohr den
+                  elegischen Grundton des Liedes heraushören und die Veranlassung dazu erraten
+                  müßte. Dieser Gedanke war ihm in hohem Maße peinlich, so daß er denn auch wirklich
+                  die Strophen zurückschob und, das nunmehr obenaufliegende Prosamanuskript an
+                  Rittmeister von Hirschfeldt überreichend, diesen bat, mit seinem Vortrage zu
+                  beginnen.</p>
+               <p>Der Angeredete, mit jener Frankheit, die der Reiz und Vorzug des Soldaten ist,
+                  rückte sich zurecht und begann, ohne jedes Vorwort, mit klangvoller Stimme:</p>
+
+               <!--milestone hi_start-->
+               <p> Erinnerungen aus dem Kriege in Spanien </p>
+               <p>Das Gefecht bei Plaa</p>
+               <!--milestone hi_end-->
+
+               <p>Mein älterer Bruder Eugen, nachdem er erst unter Schill, dann unter dem Herzog von
+                  Braunschweig gefochten, auch der Einschiffung nach England sich angeschlossen
+                  hatte, hatte von dort aus spanische Dienste genommen und war im Sommer 1810 in
+                  Andalusien eingetroffen. Als ich davon hörte, folgte ich ihm und traf ihn, eben
+                  gelandet, auf dem großen Marktplatze von Cadix. Über die Freude des Wiedersehens
+                  gehe ich hinweg. Er hatte an demselben Tage das Majorspatent empfangen, und seinem
+                  Einfluß gelang es leicht, mir eine Offiziersstelle zu erwirken.</p>
+               <p>Das Treiben in Cadix mißfiel uns, so daß wir froh waren, als Meldung eintraf, daß
+                  wir der in Katalonien stehenden, täglich in Gefechten mit dem Feinde verwickelten
+                  Armeeabteilung zugeteilt seien. Wir gingen dahin ab und landeten, nach einer
+                  höchst beschwerlichen, uns den ganzen Unterschied zwischen einem spanischen und
+                  einem englischen Kriegsschiff fühlbar machenden Seereise, im Hafen von Tarragona.
+                  Dies war Ende <pb/> November, genau zwei Monate nach meiner Ankunft in Spanien. In
+                  Katalonien sah es besser aus als in Andalusien. Wir kamen zum Dragonerregiment
+                  Alcantara, mein Bruder als Oberstlieutenant, ich als Premier. Der Empfang, den wir
+                  fanden, war kameradschaftlich; man hatte ein besonderes Vertrauen zu allen
+                  preußischen Offizieren.</p>
+               <p>Die Alcantaradragoner waren ihrerzeit ein sehr bevorzugtes und sehr prächtiges
+                  Regiment gewesen; sie trugen unter dem alten Regime dreieckige Hüte mit weißen
+                  Bandtressen, gelbe lange Röcke mit rotem Futter und rotem Kragen, dazu grüne
+                  Rabatten und blaue kurze Hosen. Eine Vertretung also sämtlicher Farben. Von dieser
+                  Pracht und Herrlichkeit war indessen nach der Neuformierung, die die ganze Armee
+                  seitdem erfahren hatte, wenig übriggeblieben, und die Alcantaradragoner, die wir
+                  vorfanden, mußten sich an einem niedrigen ledernen Czako und einem langen blauen
+                  Rock mit Regimentsnummer und Messingknöpfen genügen lassen. Die Bewaffnung war ein
+                  sehr langer Degen mit schmaler Klinge und schwerem eisernen Korb, so daß das
+                  Gewicht in der Hand lag, dazu Karabiner und Pistole.</p>
+               <p>Unser Regiment gehörte zur Armee des Generals O'Donnell, spezieller zu der
+                  vorgeschobenen Division des Generals Sarsfield. Dieser, erst sechsundzwanzig Jahr
+                  alt, brillanter Soldat, voll eiserner Ruhe im Gefecht, faßte ein besonderes
+                  Vertrauen zu meinem Bruder, in dem er alle Eigenschaften, die ihn selber
+                  auszeichneten, sofort wiedererkannte. Jede Auskunft, die uns erwünscht sein
+                  konnte, wurde uns zuteil. Die Division war numerisch nur schwach und bestand aus
+                  zwei Infanterie- und vier Kavallerieregimentern, zusammen höchstens fünftausend
+                  Mann. Es waren das Infanterieregiment Almeria und das Schweizerregiment Baron
+                  Wimpfen, dazu Alcantara- und Numanciadragoner, Kürassierregiment Katalonien und
+                  Husarenregiment Granada.</p>
+               <p>Gleich in den ersten Tagen nach unserer Ankunft wurde eine vierhundert Pferde
+                  starke Avantgarde gebildet und dem Befehle meines Bruders unterstellt. Uns
+                  gegenüber stand General <pb/> Macdonald, der das nördlich von uns gelegene
+                  Barcelona mit starken Kräften festhielt und durch Ausführung eines
+                  Umgehungsmarsches uns auch das südlich von uns gelegene Tortosa zu entreißen
+                  trachtete. Glückte das, so waren wir eingeschlossen und mußten froh sein, uns auf
+                  Tarragona zurückziehen und hier wieder einschiffen zu können. Katalonien war dann
+                  verloren. Und es kam so. Aber ehe es dahin kam, hatten wir eine Reihe blutiger
+                  Gefechte.</p>
+               <p>Aus der Reihe dieser Gefechte greife ich nur das bei Plaa heraus, weil es für mich
+                  persönlich entscheidend wurde.</p>
+               <p>Es war am 7. Januar, als wir erfuhren, daß Tortosa über sei. Wir standen damals,
+                  die ganze Division Sarsfield, am Nordabhange eines hohen Bergzuges, der in einiger
+                  Entfernung von der Küste mit dieser parallel läuft, und hielten, unter täglichen
+                  Plänkeleien mit den Vortruppen des Macdonaldschen Corps, die von Lerida nach
+                  Tarragona quer über das Gebirge führende Straße besetzt. Solange diese Straße,
+                  samt dem Defilee, dem sogenannten Passe von Plaa, in unseren Händen war, hatte der
+                  Verlust von Tortosa, so wichtig er war, wenigstens für unsere unmittelbare
+                  Sicherheit nichts zu bedeuten; der Besitz jenes Passes sicherte uns die
+                  Rückzugslinie bis ans Meer. Brachten wir die im ganzen genommen nicht große
+                  Energie mit in Anschlag, die seitens des Gegners entwickelt wurde, so lag kein
+                  Grund vor, unsere Stellung zu wechseln. Da, wo wir standen, wirkten wir offensiv;
+                  gaben wir aber unsere Stellung am Nordabhange auf und zogen uns auf die andere
+                  Seite des Gebirges, so zeigten wir jene Besorgnis, die schon einer halben
+                  Niederlage gleichkommt.</p>
+               <p>Wir hatten aber den Eifer des Gegners unterschätzt, wenigstens den des Generals
+                  Suchet, der, gemeinschaftlich mit Macdonald operierend, diesen an Rührigkeit
+                  übertraf. Am 14. Januar kam Meldung, daß eine starke feindliche Avantgarde von der
+                  Küste her, also in unserem Rücken, heranmarschiere und unverkennbar die Absicht
+                  habe, den Paß bei Plaa zu schließen. Dorf Plaa lag an der uns entgegengesetzten
+                  Seite des Gebirges, hart am Fuße desselben. General Sarsfield, als er <pb/> diese
+                  Meldung empfing, war schnell entschlossen; er verstärkte die bis dahin nur aus
+                  vierhundert Pferden der Regimenter Alcantara und Granada bestehende Avantgarde
+                  durch zwei Bataillone vom Schweizerregiment Wimpfen und gab meinem Bruder Befehl,
+                  in einem Nachtmarsch über das Gebirge zu gehen und noch vor Tagesanbruch das
+                  jenseits gelegene Dorf Plaa zu besetzen. Der Aufbruch erfolgte sofort; ein
+                  entsetzliches Wetter aber, Regen und Sturm, bei dem der schmale Fußpfad nur derart
+                  passiert werden konnte, daß ein Mann dem andern folgte, verzögerte das Eintreffen
+                  in Plaa bis um zehn Uhr morgens. Es war die höchste Zeit; schon ging die
+                  französische Avantgardendivision unter General Eugenio (so daß sich hier zwei
+                  Namensvettern gegenüberstanden) gegen Dorf Plaa vor, und nur mit äußerster
+                  Anstrengung gelang es meinem Bruder, das Dorf bis Mittag zu halten.</p>
+               <p>Um diese Stunde erschien General Sarsfield mit dem Gros und stellte das schon
+                  rückwärtsgehende Gefecht wieder her. Aber Terrain war unsererseits nicht zu
+                  gewinnen, und als eine Stunde später allerhand Verstärkungen auch beim Feinde
+                  eintrafen, ging dieser mit einem vollzähligen Dragonerregiment abermals zum
+                  Angriff über. Diesseits war momentan nichts zur Hand als ein in Ablösung unserer
+                  Avantgarde in die Front gezogenes Kürassierregiment, die Kürassiere von
+                  Katalonien, unter ihrem Kommandeur Don Pedro Gallon. Unmittelbar hinter den
+                  Kürassieren hielten wir: Alcantaradragoner und Granadahusaren. Unsere Kürassiere,
+                  kaum zweihundert Pferde stark, waren zu schwach und kamen ins Schwanken; aber im
+                  selben Augenblicke, wo mein Bruder das Schwanken wahrnahm, gab er uns das Zeichen
+                  zum Angriff, und in langer Linie stürzten wir in die linke Flanke der feindlichen
+                  Dragoner. Sie wichen sofort und verwickelten ein hinter ihnen haltendes
+                  Chasseurregiment mit in die eigene Flucht. Die Verfolgung ging eine Meile weit, es
+                  gab viele Gefangene; General Eugenio, der persönlich die Flucht aufzuhalten
+                  gesucht, wurde niedergehauen und starb am Tage dar auf.</p>
+               <p>Es war ein vollständiger Sieg und seitens der Unserigen nicht <pb/> allzu teuer
+                  erkauft; nur ich verlor viel an diesem Tage: mein Bruder Eugen, wie der General
+                  Eugenio, dem er gegenübergestanden hatte, erlag seinen Wunden. Was ich noch zu
+                  sagen habe, betrifft nur ihn und mich.</p>
+               <p>Um fünf Uhr war das Gefecht beendet, und ich führte, was ich vom Regiment
+                  Alcantara noch zur Hand hatte, wieder auf Plaa zurück. Ich war im ganzen gut
+                  davongekommen, hatte aber während des Démêlés von einem französischen Dragoner,
+                  den ich packen wollte, einen Stoß mit dem Degengefäß in das Gesicht erhalten, so
+                  daß ich, schwarz und angeschwollen, einen schlimmeren Anblick gewährte als mancher
+                  Schwerblessierte. So trat ich vor meinen Bruder, von dessen Verwundung ich schon
+                  unterwegs gehört hatte. Ich fand ihn in einem Bauernhause von Plaa in Pflege guter
+                  Leute. Als er mich sah, drang er darauf, daß ich mich zunächst verbinden lassen
+                  sollte, was denn auch geschah. Als ich wieder zu ihm kam, setzte ich mich, und wir
+                  begannen zu plaudern. Zunächst von der Affaire, die nun glücklich hinter uns lag.
+                  Ich mußte ihm alle Kleinigkeiten erzählen, denen er mit größtem Interesse folgte;
+                  meinem Pferde beispielsweise, einem schönen schwarzen Hengst, war ein Ohr dicht
+                  vom Kopfe weggehauen worden, was er sehr bedauerte. Besondere Aufmerksamkeit aber
+                  schenkte er einem Tagebuche, das sich in einem Mantelsacke, der mir bei der
+                  Beuteverteilung zugefallen war, vorgefunden hatte. Es war von dem ersten Einrücken
+                  der Franzosen in Katalonien bis zum 14. Januar 1811 mit großer Genauigkeit geführt
+                  und enthielt, von kleinen Croquis begleitet, eine Schilderung fast aller Gefechte,
+                  in denen auch wir engagiert gewesen waren. Eugen blätterte halbe Stunden lang in
+                  dem Buche und lobte die Unparteilichkeit der Darstellung. Ich glaubte nach allem
+                  an nichts weniger als Gefahr und mußte dem Doktor recht geben, der trotz heftiger
+                  Schmerzen, über die der Verwundete von Zeit zu Zeit klagte, immer nur von zwei
+                  leichten Blessuren sprach. Es waren Degenstiche in die linke Seite. Auffallend
+                  erschien mir nur seine Weichheit; er war in einer gefühlvollen Stimmung, sprach
+                  viel von Hause, von unserem alten Vater und <pb/> trug mir Grüße auf, da er auf
+                  einige Wochen noch am Schreiben gehindert sein werde.</p>
+               <p>So verging der Abend. Ich hatte vor, trotz aller Ermüdung bei ihm zu wachen. Es
+                  kam aber anders. Bald nach Mitternacht wurde Alarm geblasen, und ich begab mich zu
+                  meinem in Front des Dorfes biwakierenden Regiment, das gleich darauf Befehl
+                  erhielt, gegen ein der Küste zu gelegenes Städtchen, das den Namen Valls führte,
+                  zu rekognoszieren. Meinen Verwundeten ließ ich übrigens in guter Obhut zurück; ich
+                  hatte beim Schweizerregiment Wimpfen um einige Mannschaften zu seinem Schutz
+                  gebeten, und es traf sich, daß der Unteroffizier, der diese Mannschaften
+                  kommandierte, früher, als mein Bruder noch in Halberstadt garnisonierte, mit ihm
+                  in ein und derselben Compagnie des Regiments Herzog von Braunschweig gestanden
+                  hatte. Beide freuten sich sehr, sich wiederzusehen.</p>
+               <p>Unser Ritt gegen Valls verlief ohne Bedeutung, kostete aber Zeit und Mühe, und
+                  erst in den Nachmittagsstunden des andern Tages kehrten die Truppen, die die
+                  Rekognoszierung ausgeführt hatten, nach Plaa zurück. Mehrere Offiziere, denen ich
+                  begegnete, sagten mir: es ginge besser mit Eugen. Ich fand ihn auch wirklich
+                  ruhiger, ohne Schmerzen, aber sehr matt. Nichtsdestoweniger ließ er sich die
+                  kleinen Vorgänge des Tages von mir erzählen, hörte aufmerksam zu und verlangte
+                  mehr zu wissen, wenn ich aus Rücksicht auf seinen Zustand schwieg. Plötzlich aber
+                  unterbrach er mich und sagte: »Entsinnst du dich noch des Abends auf der Seereise
+                  von Cadix nach Tarragona, wo wir mit unsern deutschen Kameraden der Heimat
+                  gedachten und wo dann die Frage laut wurde: ›Wer wird die Heimat wiedersehen?‹ Ich
+                  weiß jetzt einen, der sie nicht wiedersehen wird.« Ich bog mich über ihn und bat
+                  ihn, sich nicht durch solche trübe Gedanken aufzuregen; er hörte mich aber nicht
+                  und fuhr dann fort: »Es wird sich heute noch manches ereignen: ich sehe schwarz in
+                  die Zukunft. Nimm dich, wenn es zum Gefechte kommt, in acht. Unsere Pferde sind
+                  matt zum Umfallen. Vergiß auch nicht, daß man nicht bei jeder Gelegenheit sich
+                  rückhaltlos drangeben soll. Man opfert sich sonst leicht <pb/> ohne Zweck.« Dies
+                  waren seine letzten Worte. Ich hatte ihn eben aufgerichtet, um ihm einen Löffel
+                  Arzenei zu geben; als ich ihn wieder auf das Kopfkissen zurücklegen wollte, schien
+                  es mir, als ob er sehr blaß würde. Ich faßte seine Hand, sie war kalt; er drückte
+                  die meinige krampfhaft, rang nach Luft und war tot.</p>
+               <p>Dies war am 16. nachmittags. General Sarsfield, als er von dem Hinscheiden hörte,
+                  ließ mir sein Beileid ausdrücken und fügte die Bemerkung hinzu: es würde gut sein,
+                  den Toten so bald wie möglich in die hochgelegene Klosterkirche von Plaa
+                  hinaufzuschaffen; jede Stunde könne ein neues Gefecht bringen, dessen Ausgang
+                  unsicher sei.</p>
+               <p>Ich ließ mir dies gesagt sein. Aus alten Dielen, »vier Bretter und zwei
+                  Brettchen«, wurde schleunigst ein Sarg hergestellt und Eugen in der Uniform seines
+                  Regiments in die Totentruhe hineingelegt. So schafften ihn einige meiner Dragoner
+                  in die Klosterkirche hinauf und stellten ihn dicht an die Altarstufen.</p>
+               <p>Völlig erschöpft von den Anstrengungen und Aufregungen der vergangenen Tage, hatte
+                  ich mich, als die Nacht anbrach, auf eine Schütte Stroh niedergelegt. Ich war so
+                  recht von Herzen traurig; die Bilder meiner Kindheit und ersten Jugend zogen an
+                  mir vorüber; nun war ich allein, ganz allein, und der Bruder, den ich so sehr
+                  geliebt hatte, tot.</p>
+               <p>Im Begriff, einzuschlafen, wurde ich durch einen Ordonnanzoffizier geweckt. Er kam
+                  vom General und war abgeschickt, um ein Papier zu holen, das Sarsfield beinahe
+                  unmittelbar vor Beginn des Treffens bei Plaa an Eugen gegeben hatte. Es sei von
+                  Wichtigkeit, er müsse es haben.</p>
+               <p>Ich erinnerte mich des Hergangs sofort, war Augenzeuge gewesen, wie mein Bruder
+                  das Papier in sein Reiterkoller gesteckt hatte, und bat deshalb den Offizier, mich
+                  bis zur Klosterkirche hinauf begleiten zu wollen, da der Tote noch denselben Rock
+                  anhabe, den er vor Beginn des Gefechts getragen habe. Er lehnte aber, Geschäfte
+                  vorschützend, ab; auch mein Diener Francesco, als ich mich nach ihm umsah, war
+                  verschwunden. So blieb mir nichts übrig, als allein zu gehen.</p>
+               <p>Ich nahm eine kleine Laterne, die nur ein Glas hatte, und <pb/> schritt auf das
+                  ziemlich weitschichtige Klostergebäude zu. Ein dienender Bruder öffnete mir,
+                  erschrak aber, als ich ihn bat, mir nun auch die Kirchentür öffnen zu wollen.
+                  »Jetzt in der Nacht bringt mich kein Mensch hinein.« Vergebens sucht ich ihn zu
+                  überreden. »Es ist nicht geheuer«, dabei blieb er. Endlich gab er mir wenigstens
+                  den Schlüssel zur Kirche, zugleich mit der Weisung: wenn ich zweimal im Schloß
+                  gedreht, müßt ich mit aller Kraft gegen die Tür stoßen, weil sie verquollen sei
+                  und schwer aufginge.</p>
+               <p>Um bis an die Kirche zu kommen, waren noch zwei lange Kreuzgänge zu passieren.
+                  Gerade hier hatte tags zuvor ein erbitterter Infanteriekampf (der unsererseits
+                  durch das Schweizerregiment geführt worden war) stattgefunden, und alles trug noch
+                  die Spuren dieses Kampfes: die Leichen waren zwar weggeschafft, aber die
+                  Blutlachen geblieben; die Standbilder, von den Wänden herabgerissen, lagen
+                  zertrümmert am Boden; selbst die Luft war dumpf und modrig. An diesen Bildern der
+                  Zerstörung vorbei ging ich auf die Kirche zu, steckte den Schlüssel hinein, drehte
+                  zweimal, stieß die Türe auf, die sich langsam und dröhnend öffnete. Ich legte
+                  meinen Mantel ab, der mir jetzt nur hinderlich sein konnte, nahm den Degen in die
+                  eine, die Laterne in die andere Hand und schickte mich an, das hochüberwölbte
+                  Mittelschiff hinaufzuschreiten. Eine unheimliche Stille herrschte, und der
+                  Widerhall meiner Schritte erschreckte mich.</p>
+               <p>So kam ich bis an den Altar. Da stand der Sarg, vorläufig mit einem Brett nur
+                  überdeckt. Ich hob es auf, und meines Bruders gläserne Augen starrten mich an. Ich
+                  stellte, da kein anderer Platz war, die Laterne zu seinen Füßen und begann langsam
+                  Knopf um Knopf den Uniformrock zu öffnen, der sich fest und beinahe eng um seine
+                  Brust legte. Ich tat es mit abgewandtem Gesicht; aber wie ich auch vermeiden
+                  mochte, nach ihm hinzusehen, ich hatte doch sein Todesantlitz vor mir. Endlich
+                  fand ich das Papier und steckte es zu mir. Dann kam das Schwerste: ich mußte die
+                  Knöpfe wieder einknöpfen, da ich es nicht über mich gewinnen konnte, ihn in
+                  offener Uniform wie einen Beraubten <pb/> liegenzulassen. Und als auch das
+                  geschehen, trat ich den Rückweg an.</p>
+               <p>Am andern Nachmittage, der Feind griff uns nicht an, wurde mein Bruder mit allen
+                  militärischen Ehren durch das Schweizerregiment Wimpfen in derselben Klosterkirche
+                  zu Plaa, in der er vierundzwanzig Stunden vor dem Altar gestanden hatte, begraben.
+                  An eben derselben Stelle wurden sein Säbel, seine Handschuhe und Sporen aufgehängt
+                  und erst einige Monate später, auf Befehl des Generals O'Donnell, der den Toten
+                  dadurch ehren wollte, in die Kathedrale von Tarragona gebracht. Dort befinden sie
+                  sich noch.</p>
+
+               <p>Der Vortragende, als er bis hierher gelesen, rollte das Manuskript zusammen und
+                  legte es auf eines der Fensterbretter: die Zuhörer, gesenkten Blickes, schwiegen.
+                  Der erste, der sich erhob, war Bninski.</p>
+               <p>»Ich bin selbst Gast in diesem Kreise und fürchte beinahe, mich eines Übergriffes
+                  schuldig zu machen, wenn ich vor Berufeneren das Wort ergreife. Aber meine
+                  Stellung, was mich entschuldigen mag, ist eine ausnahmsweise. Ich habe zwei Jahre
+                  vor Ihnen, Herr von Hirschfeldt, auf denselben Feldern, wenn auch auf der Ihnen
+                  feindlichen Seite, gekämpft; ich kenne die Plätze, von denen Sie uns gelesen: kaum
+                  verschwundene Bilder sind mir wieder lebendig geworden. Was Freund, was Feind! An
+                  gleicher Stelle die gleiche Gefahr. Ich bitte, Sie daraufhin als einen mir teuer
+                  gewordenen Kameraden begrüßen zu dürfen.«</p>
+               <p>Während dieser Worte hatte Jürgaß die ihm zunächststehende Rheinweinflasche
+                  entkorkt und mit einer der Situation angepaßten Raschheit den großen silbernen
+                  Kastaliabecher bis an den Rand gefüllt. »Meine Herren, einer jener Ausnahmefälle,
+                  wie sie Paragraph sieben unseres Statuts, ich nehme nicht Anstand zu sagen, in
+                  seiner Weisheit voraussieht, ist eingetreten. Und so trink ich denn auf das Wohl
+                  unseres verehrten Gastes Rittmeisters von Hirschfeldt. Er lebe! Viele Ehren haben
+                  sich auf seinem Scheitel gehäuft, so viele Ehren wie Wunden; <pb/> aber eines
+                  blieb ihm bis diesen Tag versagt: er hatte noch nicht aus dem Silberbecher der
+                  Kastalia getrunken. Auch diese Stunde ist da. Ich trink ihm zu, und er tue mir
+                  Bescheid.«</p>
+               <p>Und bei wiederholten Hochs kreiste der Becher.</p>
+               <p>Nach Huldigungen wie diese konnte es Lewin nur noch obliegen, ein Schlußwort zu
+                  finden. »Die vorgeschrittene Stunde«, so begann er, »mehr noch das gehobene
+                  Gefühl, das uns dieselbe gebracht hat, dringen auf Abbruch und Vertagung. Ich
+                  erwarte Ihre Zustimmung.« (»Ja, ja!«) »Unsere nächste Sitzung soll, so sich kein
+                  Widerspruch erhebt« (»Nein, nein!«), »unter Zurückstellung aller bis dahin etwa
+                  eingehenden Lyrika, durch die Tagebuchblätter unseres verehrten Gastes, des Herrn
+                  von Meerheimb, die heute zu unserm Bedauern nicht mehr zum Vortrag gelangen
+                  konnten, eröffnet werden. Ich schließe die Sitzung.«</p>
+               <p>Damit brach man auf in kleineren und größeren Gruppen. Die Mehrzahl hielt sich
+                  links; nur Jürgaß, Bummcke und Hansen-Grell gingen, als sie die Königsstraßenecke
+                  erreicht hatten, nach rechts hin auf den Alexanderplatz zu, um in den Tiefen des
+                  Mundtschen Weinkellers, natürlich die Kastaliasitzung als Text nehmend, unter
+                  Plauderei und Kritik den Abend zu beschließen.</p>
+            </div>
+
             <div type="chapter">
                <head>Achtes Kapitel</head>
                <head>Leichtes Gewölk</head>

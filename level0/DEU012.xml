@@ -18,12 +18,29 @@
             <measure unit="words">27975</measure>
             <measure unit="pages">157</measure>
          </extent>
-         <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-14"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!----></publicationStmt>
-         <sourceDesc><bibl type="digitalSource">
+         <publicationStmt>
+            <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European
+               Literary History" (CA16204)</publisher>
+            <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+            <date when="2019-11-14"/>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+            <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/>
+            <!---->
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="digitalSource">
                <title>Aus dem Leben einer Frau</title>
                <author>Aston, Louise</author>
                <date>1847</date>
-            </bibl></sourceDesc>
+            </bibl>
+            <bibl type="print_source"><author>Louise Aston</author>: <title>Aus dem Leben einer
+                  Frau</title>, <pubPlace>Hamburg</pubPlace>: <publisher>Hoffmann und
+                  Campe</publisher>, <date>1847</date>.</bibl>
+            <bibl type="firstEdition">Erstdruck: <pubPlace>Hamburg</pubPlace> (<publisher>Hoffmann
+                  und Campe</publisher>) <date>1847</date>.</bibl>
+         </sourceDesc>
       </fileDesc>
       <encodingDesc n="eltec-0">
          <p/>
@@ -39,7 +56,8 @@
             <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/>
          </textDesc>
       </profileDesc>
-      <revisionDesc><change when="2019-11-14">Checked by releaseChecker script</change>
+      <revisionDesc>
+         <change when="2019-11-14">Checked by releaseChecker script</change>
          <change when="2019-01-28">Conversion from Kallimachos Kernkorpus</change>
       </revisionDesc>
    </teiHeader>

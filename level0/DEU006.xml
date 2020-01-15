@@ -18,12 +18,31 @@
             <measure unit="words">60551</measure>
             <measure unit="pages">200</measure>
          </extent>
-         <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-14"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!----></publicationStmt>
-         <sourceDesc><bibl type="digitalSource">
+         <publicationStmt>
+            <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European
+               Literary History" (CA16204)</publisher>
+            <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+            <date when="2019-11-14"/>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+            <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/>
+            <!---->
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="digitalSource">
                <title>Fragment eines Romans</title>
                <author>Weerth, Georg</author>
                <date>1846</date>
-            </bibl></sourceDesc>
+            </bibl>
+            <bibl type="print_source"><author>Georg Weerth</author>: <title>Sämtliche Werke in fünf
+                  Bänden</title>. <respStmt>Herausgegeben von <editor>Bruno
+                  Kaiser</editor></respStmt>, <pubPlace>Berlin</pubPlace>:
+                  <publisher>Aufbau</publisher>, <date>1956</date>/57. <note>Entstanden 1843/44 und
+                  1846/47.</note></bibl>
+            <bibl type="firstEdition">Erstdruck in: <title>Sämtliche Werke</title>,
+                  <place>Berlin</place> (<publisher>Aufbau</publisher>) <date>1957</date>.</bibl>
+         </sourceDesc>
       </fileDesc>
       <encodingDesc n="eltec-0">
          <p/>
@@ -39,7 +58,8 @@
             <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/>
          </textDesc>
       </profileDesc>
-      <revisionDesc><change when="2019-11-14">Checked by releaseChecker script</change>
+      <revisionDesc>
+         <change when="2019-11-14">Checked by releaseChecker script</change>
          <change when="2019-01-28">Conversion from Kallimachos Kernkorpus</change>
       </revisionDesc>
    </teiHeader>

@@ -19,12 +19,31 @@
             <measure unit="words">45345</measure>
             <measure unit="pages">123</measure>
          </extent>
-         <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-14"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!----></publicationStmt>
-         <sourceDesc><bibl type="digitalSource">
+         <publicationStmt>
+            <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European
+               Literary History" (CA16204)</publisher>
+            <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+            <date when="2019-11-14"/>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+            <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/>
+            <!---->
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="digitalSource">
                <title>Himmlische und irdische Liebe</title>
                <author>Meysenbug, Malwida Freiin von</author>
                <date>1905</date>
-            </bibl></sourceDesc>
+            </bibl>
+            <bibl type="print_source"><author>Malwida von Meysenbug</author>: <title>Gesammelte
+                  Werke</title>. <respStmt>Herausgegeben von </respStmt><editor>Berta
+                  Schleicher</editor>. 5 Bände, Band 5, <pubPlace>Stuttgart</pubPlace>,
+                  <pubPlace>Berlin</pubPlace>, <pubPlace>Leipzig</pubPlace>: <publisher>Deutsche
+                  Verlags-Anstalt</publisher>, <date>1922</date>.</bibl>
+            <bibl type="firstEdition">Erstdruck: <pubPlace>Berlin</pubPlace> (<publisher>Schuster
+                  &amp; Loeffler</publisher>) <date>1905</date>.</bibl>
+         </sourceDesc>
       </fileDesc>
       <encodingDesc n="eltec-0">
          <p/>
@@ -40,7 +59,8 @@
             <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
          </textDesc>
       </profileDesc>
-      <revisionDesc><change when="2019-11-14">Checked by releaseChecker script</change>
+      <revisionDesc>
+         <change when="2019-11-14">Checked by releaseChecker script</change>
          <change when="2019-01-28">Conversion from Kallimachos Kernkorpus</change>
       </revisionDesc>
    </teiHeader>

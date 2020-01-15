@@ -18,12 +18,29 @@
             <measure unit="words">287409</measure>
             <measure unit="pages">838</measure>
          </extent>
-         <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-14"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!----></publicationStmt>
-         <sourceDesc><bibl type="digitalSource">
+         <publicationStmt>
+            <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European
+               Literary History" (CA16204)</publisher>
+            <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+            <date when="2019-11-14"/>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+            <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/>
+            <!---->
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="digitalSource">
                <title>Der grüne Heinrich2 [Zweite Fassung]</title>
                <author>Keller, Gottfried</author>
                <date>1879</date>
-            </bibl></sourceDesc>
+            </bibl>
+            <bibl type="print_source"><author>Gottfried Keller</author>: <title>Sämtliche Werke in
+                  acht Bänden</title>, <pubPlace>Berlin</pubPlace>: <publisher>Aufbau</publisher>,
+                  <date>1958–1961</date>. Entstanden 1878/80. </bibl>
+            <bibl type="firstEdition">Erstdruck: <pubPlace>Stuttgart</pubPlace>
+                  (<publisher>Göschen</publisher>) <date>1879/80</date>.</bibl>
+         </sourceDesc>
       </fileDesc>
       <encodingDesc n="eltec-0">
          <p/>
@@ -39,7 +56,8 @@
             <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
          </textDesc>
       </profileDesc>
-      <revisionDesc><change when="2019-11-14">Checked by releaseChecker script</change>
+      <revisionDesc>
+         <change when="2019-11-14">Checked by releaseChecker script</change>
          <change when="2019-01-28">Conversion from Kallimachos Kernkorpus</change>
       </revisionDesc>
    </teiHeader>

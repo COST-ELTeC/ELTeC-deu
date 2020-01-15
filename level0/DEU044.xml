@@ -18,12 +18,32 @@
             <measure unit="words">265086</measure>
             <measure unit="pages">774</measure>
          </extent>
-         <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-14"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!----></publicationStmt>
-         <sourceDesc><bibl type="digitalSource">
+         <publicationStmt>
+            <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European
+               Literary History" (CA16204)</publisher>
+            <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+            <date when="2019-11-14"/>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+            <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/>
+            <!---->
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="digitalSource">
                <title>Kampf um Rom</title>
                <author>Dahn, Felix</author>
                <date>1876</date>
-            </bibl></sourceDesc>
+            </bibl>
+            <bibl type="print_source"><author>Felix Dahn</author>: <title>Ein Kampf um Rom</title>.
+               Historischer Roman. Erstes bis fünftes Buch, in: Gesammelte Werke. Erzählende und
+               poetische Schriften, Neue wohlfeile Gesamtausgabe. Erste Serie, Band 1, 52.–54.
+               Tausend, <pubPlace>Leipzig</pubPlace>: <publisher>Breitkopf &amp; Härtel</publisher>;
+                  <pubPlace>Berlin</pubPlace>: <publisher>Hermann Klemm A. G.</publisher>,
+               [o.J.].</bibl>
+            <bibl type="firstEdition">Erstdruck: <pubPlace>Leipzig</pubPlace>: (<publisher>Breitkopf
+                  und Härtel</publisher>) <date>1876</date>.</bibl>
+         </sourceDesc>
       </fileDesc>
       <encodingDesc n="eltec-0">
          <p/>
@@ -39,30 +59,32 @@
             <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
          </textDesc>
       </profileDesc>
-      <revisionDesc><change when="2019-11-14">Checked by releaseChecker script</change>
+      <revisionDesc>
+         <change when="2019-11-14">Checked by releaseChecker script</change>
          <change when="2019-01-28">Conversion from Kallimachos Kernkorpus</change>
       </revisionDesc>
    </teiHeader>
    <text>
-      <front>  <div type="liminal">
-         <head>Vorwort.</head>
-         <p>Die wissenschaftlichen Grundlagen dieser in Gestalt eines Romans gekleideten
-            Bilder aus dem sechsten Jahrhundert enthalten meine in folgenden Werken
-            niedergelegten Forschungen:</p>
-         <p>Die Könige der Germanen. II. III. IV. Band. München und Würzburg 1862–1866.</p>
-         <p>Prokopius von Cäsarea. Ein Beitrag zur Historiographie der Völkerwanderung und des
-            sinkenden Römertums. Berlin 1865.</p>
-         <p>Aus diesen Darstellungen mag der Leser die Ergänzungen und Veränderungen, die der
-            Roman an der Wirklichkeit vorgenommen, erkennen.</p>
-         <p>Das Werk ist 1859 in München begonnen, in Italien, zumal Ravenna, weitergeführt,
-            und 1876 in Königsberg abgeschlossen worden.</p>
-         
-         <p> Königsberg, Januar 1876.</p>
-         <p>Felix Dahn.</p>
-      </div>
+      <front>
+         <div type="liminal">
+            <head>Vorwort.</head>
+            <p>Die wissenschaftlichen Grundlagen dieser in Gestalt eines Romans gekleideten Bilder
+               aus dem sechsten Jahrhundert enthalten meine in folgenden Werken niedergelegten
+               Forschungen:</p>
+            <p>Die Könige der Germanen. II. III. IV. Band. München und Würzburg 1862–1866.</p>
+            <p>Prokopius von Cäsarea. Ein Beitrag zur Historiographie der Völkerwanderung und des
+               sinkenden Römertums. Berlin 1865.</p>
+            <p>Aus diesen Darstellungen mag der Leser die Ergänzungen und Veränderungen, die der
+               Roman an der Wirklichkeit vorgenommen, erkennen.</p>
+            <p>Das Werk ist 1859 in München begonnen, in Italien, zumal Ravenna, weitergeführt, und
+               1876 in Königsberg abgeschlossen worden.</p>
+
+            <p> Königsberg, Januar 1876.</p>
+            <p>Felix Dahn.</p>
+         </div>
       </front>
       <body>
-           <div type="group">
+         <div type="group">
             <head>Erstes Buch: Theoderich</head>
             <div type="chapter">
                <head>Erstes Kapitel.</head>
@@ -10422,11 +10444,11 @@
          </div>
          <div type="group">
             <head>Fünftes Buch: Witichis</head>
-        <div type="group">
-            <head>1. Abteilung</head>
-            
-                 <div type="chapter">
-                    
+            <div type="group">
+               <head>1. Abteilung</head>
+
+               <div type="chapter">
+
                   <head>Erstes Kapitel.</head>
                   <p>Langsam sank die Sonne hinter die grünen Hügel von Fäsulä und vergoldete die
                      Säulen vor dem schlichten Landhaus, in welchem Rauthgundis als Herrin
@@ -14414,7 +14436,7 @@
                      ins Lager.«</p>
                   <pb/>
                </div>
-        </div>
+            </div>
             <div type="group">
                <head>2. Abteilung</head>
                <div type="chapter">
@@ -15645,176 +15667,170 @@
                      sogleich. Ihr Feldherren, ordnet eure Scharen: nach Rom!«</p>
                   <p>»Nach Rom,« widerhallte das Zelt. »Nach Rom!«</p>
                </div>
-               
-                  <div type="chapter">
-                     <head>Sechstes Kapitel.</head>
-                     <p>Inzwischen schickte sich Belisar an, mit der Hauptmacht seines Heeres die
-                        Stadt zu verlassen: Johannes hatte er deren Bewachung übertragen.</p>
-                     <p>Er hatte beschlossen, die Goten in Ravenna aufzusuchen. Sein bisher von
-                        keinem Unfall gehemmter Siegeslauf und die Erfolge seiner vorausgeschickten
-                        Streifscharen, die durch den Übergang der Italier alles flache Land, auch
-                        alle Festen und Burgen und Städte, bis nahe bei Ravenna, gewonnen, hatten in
-                        ihm die Zuversicht erzeugt, daß der Feldzug bald beendigt und nur das
-                        Erdrücken der ratlosen Barbaren in ihrem letzten Schlupfwinkel übrig
-                        sei.</p>
-                     <p>Denn nachdem Belisar selbst den ganzen Süden der Halbinsel: Bruttien,
-                        Lucanien, Calabrien, Apulien, Campanien: dann Rom mit Samnium und die
-                        Valeria durchzogen und besetzt hatte, waren seine Unterfeldherren, Bessas
-                        und Constantinus, mit der lanzentragenden Leibwache des Feldherrn, die unter
-                        Führung des Armeniers Zanter, des Persers Chanaranges und des Massageten
-                        Äschman standen, vorausgesetzt worden, Tuscien zu unterwerfen.</p>
-                     <p>Bessas rückte vor das sturmfeste Narnia: für die damaligen <pb/>
-                        Belagerungsmittel war die Burgstadt fast uneinnehmbar: – sie thront auf
-                        hohem Berge, dessen Fuß der tiefe Nar umspült. Die beiden einzigen Zugänge,
-                        vom Osten und vom Westen, sind ein enger Felsenpaß und die hohe, alte, von
-                        Kaiser Augustus gebaute, befestigte Brücke. – Aber die römische Bevölkerung
-                        überwältigte die halbe gotische Hundertschaft, die hier lag, und öffnete den
-                        Thrakiern des Bessas die Tore. Dem Constantinus erschlossen sich ebenso ohne
-                        Schwertstreich Spoletium und Perusia. Auf der östlichen Seite des Ionischen
-                        Meerbusens hatte inzwischen ein andrer Unterfeldherr Belisars, der Comes
-                        Sacri Stabuli Constantinus, den Tod zweier byzantinischer Heerführer, des
-                        Magister Militum für Illyrien, Mundus, und seines Sohnes Mauritius, die
-                        gleich im Anfang des Krieges bei Salona in Dalmatien im Gefecht gegen die
-                        Goten gefallen waren, gerächt, Salona besetzt und durch ihre große Übermacht
-                        die geringen gotischen Scharen zum Rückzug auf Ravenna gezwungen. Ganz
-                        Dalmatien und Liburnien war darauf den Byzantinern zugefallen. Von Tuscien
-                        aus streiften, wie wir sahen, die Hunnen Justinians schon durch Picenum und
-                        bis in die Ämilia.</p>
-                     <p>Die Friedensvorschläge des Gotenkönigs hielt Belisar daher für Zeichen der
-                        Schwäche. Daß die Barbaren zum Angriff übergehen könnten, fiel ihm nicht
-                        ein. Dabei trieb es ihn, Rom zu verlassen, wo es ihn anwiderte, der Gast des
-                        Präfekten zu heißen; im freien Felde mußte sein Übergewicht bald wieder
-                        hervortreten.</p>
-                     <p>Der Präfekt ließ das Kapitol in der treuen Hut des Lucius Licinius und
-                        folgte dem Zuge Belisars. Vergebens warnte er diesen vor allzu großer
-                        Zuversicht.</p>
-                     <p>»Bleibe du doch hinter den Felsen des Kapitols, wenn du die Barbaren
-                        fürchtest,« hatte dieser stolz geantwortet.</p>
-                     <p>»Nein,« erwiderte dieser. »Eine Niederlage Belisars ist ein zu seltnes
-                        Schauspiel, man darf es nicht versäumen.« In der <pb/> Tat, Cethegus hätte
-                        eine Demütigung des großen Feldherrn, dessen Ruhm die Italier allzusehr
-                        anzog, gern gesehen.</p>
-                     <p>Belisar hatte sein Heer aus den nördlichen Toren der Stadt geführt und
-                        wenige Stadien vor der Stadt in einem Lager versammelt, es hier zu mustern
-                        und neu zu ordnen und zu gliedern. Schon der starke Zufluß von Italiern, die
-                        zu seinen Fahnen geeilt waren, machte das nötig. Auch Ambazuch, Bessas und
-                        Constantinus hatte er mit dem größten Teil ihrer Truppen wieder in dies
-                        Lager herangezogen: sie ließen in den von ihnen gewonnenen Städten nur
-                        kleine Besatzungen zurück.</p>
-                     <p>Dunkle Gerüchte von einem anrückenden Gotenheer hatten sich in das Lager
-                        verbreitet. Aber Belisar schenkte ihnen keinen Glauben. »Sie wagen es
-                        nicht,« hatte er dem warnenden Prokop entgegnet. »Sie liegen in Ravenna und
-                        zittern vor Belisarius.«</p>
-                     <p>Spät in der Nacht lag Cethegus schlaflos auf dem Lager in seinem Zelt. Er
-                        ließ die Ampel brennen. »Ich kann nicht schlafen,« sagte er: »in den Lüften
-                        klirrt es wie Waffen und riecht's wie Blut. Die Goten kommen. Sie rücken
-                        wohl durch die Sabina, die Via casperia und salara herab.«</p>
-                     <p>Da rauschten seine Zeltvorhänge zurück, und Syphax stürzte atemlos an sein
-                        Lager.</p>
-                     <p>»Ich weiß es schon,« sagte Cethegus aufspringend, »was du meldest: die Goten
-                        kommen.« – »Ja Herr, morgen sind sie da. Sie zielen auf das salarische Tor.
-                        Ich hatte das beste Roß der Königin, aber dieser Totila, der den Vortrab
-                        führt, jagt wie der Wind durch die Wüste. Und hier im Lager ahnt niemand
-                        etwas.«</p>
-                     <p>»Der große Feldherr,« lächelte Cethegus, »hat keine Vorposten ausgestellt.«
-                        – »Er verließ sich ganz auf den festen Turm an der Aniusbrücke Prokop
-                        Gotenkrieg I. 17. 18. setzt hier aus Verwechslung den Tiber statt des Anio.
-                        aber ... –«</p>
-                     <p>
-                        <pb/> »Nun? der Turm ist fest.« – »Ja, aber die Besatzung, römische Bürger
-                        aus Neapolis, ging zu den Goten über, als sie der junge Totila, der Führer
-                        des Vortrabs, anrief. Die Leibwächter Belisars, welche sich widersetzten,
-                        wurden gebunden, zumal Innocentius, und Totila ausgeliefert. Der Turm und
-                        die Brücke ist in der Goten Hand.«</p>
-                     <p>»Es wird hübsch werden! Hast du eine Ahnung, wie stark der Feind?« – »Keine
-                        Ahnung. Herr: ich weiß es so genau wie König Witichis selbst. Hier die Liste
-                        ihrer Truppen. Sie schickt dir Mataswintha, seine Königin.«</p>
-                     <p>Cethegus sah ihn forschend an. »Geschehen Wunder, die Barbaren zu
-                        verderben?«</p>
-                     <p>»Ja Herr, Wunder geschehen! Dies sonnenschöne Weib will ihres Volkes
-                        Untergang um des Einen willen. Und dieser Eine ist ihr Gatte.«</p>
-                     <p>»Du irrst:« sagte Cethegus, »sie liebte ihn schon als Mädchen und kaufte
-                        seine Büste.«</p>
-                     <p>»Ja, sie liebt ihn. Aber er nicht sie. Und die Marsbüste ward zerschlagen in
-                        der Brautnacht.«</p>
-                     <p>»Das hat sie dir doch schwerlich selbst gesagt.«</p>
-                     <p>»Aber Aspa, die Tochter meines Landes, ihre Sklavin. Sie sagt mir alles. Sie
-                        liebt mich. Und sie liebt ihre Herrin, fast wie ich dich. Und Mataswintha
-                        will mit dir das Gotenreich verderben. Und sie wird durch Aspa alles
-                        schreiben in den Zauberzeichen unsres Stammes. Und ich würde diese
-                        Sonnenkönigin zu meinem Weibe nehmen, wenn ich Cethegus wäre.«</p>
-                     <p>»Ich auch, wenn ich Syphax wäre. Aber deine Botschaft ist eine Krone wert!
-                        Ein listig, rachedürstend Weib wiegt Legionen auf! Jetzt Trotz euch,
-                        Belisar, Witichis und Justinian! Erbitte dir eine Gnade, jede, nur nicht
-                        deine Freiheit: – ich brauche dich noch.«</p>
-                     <p>»Meine Freiheit ist – dir dienen. Eine Gunst: laß mich morgen neben dir
-                        fechten.«</p>
-                     <p>
-                        <pb/> »Nein, mein hübscher Panther, deine Klauen kann ich noch nicht
-                        brauchen: – nur deinen Leisegang. Du schweigst gegen jedermann von der Goten
-                        Nähe und Stärke. Lege mir die Rüstung an und gib den Plan der salarischen
-                        Straße dort aus der Kapsel. Jetzt rufe mir Marcus Licinius und den Führer
-                        meiner Isaurier, Snadil.« Syphax verschwand. Cethegus warf einen Blick auf
-                        den Plan. »Also dorther, von Nordwesten, kommen sie, die Hügel herab. Wehe
-                        dem, der sie dort aufhalten will. Darauf folgt der tiefe Talgrund, in dem
-                        wir lagern. Hier wird die Schlacht geschlagen und verloren. Hinter uns,
-                        südöstlich, zieht sich unsre Stellung entlang dem tiefen Bach; in diesen
-                        werden wir unfehlbar geworfen: die Brücken werden nicht zu halten sein.
-                        Darauf eine Strecke flachen Landes – welch' schönes Feld für die gotischen
-                        Reiter, uns zu verfolgen! – Noch weiter rückwärts endlich ein dichter Wald
-                        und eine enge Schlucht mit dem zerfallnen Kastell Hadrians ... – Marcus,«
-                        rief er dem Eintretenden entgegen, »meine Scharen brechen auf. Wir ziehn
-                        hinab den Bach in den Wald und jeden, der dich fragt, dem sagst du: wir
-                        ziehn zurück nach Rom.«</p>
-                     <p>»Nach Hause? ohne Kampf?« fragte Marcus erstaunt, »du weißt doch: es steht
-                        der Kampf bevor?«</p>
-                     <p>»Eben deswegen!« Damit schritt er hinaus, Belisar in seinem Zelt zu wecken.
-                        Aber er fand ihn schon wach: Prokop stand bei ihm. »Weißt du's schon,
-                        Präfekt? flüchtendes Landvolk meldet, ein Häuflein gotischer Reiter naht:
-                        die Tollkühnen retten in ihr Verderben: sie wähnen die Straße frei bis Rom.«
-                        Und er fuhr fort sich zu rüsten.</p>
-                     <p>»Aber die Bauern melden, die Reiter seien nur die Vorhut. Es folge ein
-                        furchtbares Heer von Barbaren,« warnte Prokop.</p>
-                     <p>»Eitle Schrecken! Sie fürchten sich, diese Goten. – Witichis wagt gar nicht,
-                        mich aufzusuchen. Endlich habe ich ja, vierzehn <pb/> Stadien vor Rom, die
-                        Aniobrücke durch einen Turm geschützt: Martinus hat ihn gebaut nach meinem
-                        Gedanken: – der allein hält der Barbaren Fußvolk mehr als eine Woche auf –
-                        mögen auch ein paar Gäule durch den Fluß geschwommen sein.«</p>
-                     <p>»Du irrst, Belisarius! ich weiß es gewiß: das ganze Heer der Goten naht,«
-                        sprach Cethegus. »So geh nach Hause, wenn du es fürchtest.« – »Ich mache
-                        Gebrauch von dieser deiner Erlaubnis. Ich habe mir in diesen Tagen das
-                        Fieber geholt. Auch meine Isaurier leiden daran: – ich ziehe mit deiner
-                        Gunst nach Rom zurück.«</p>
-                     <p>»Ich kenne dieses Fieber,« sagte Belisar – »das heißt: – an andern. Es
-                        vergeht, sowie man Graben und Wall zwischen sich und dem Feinde hat. Zieh'
-                        ab, wir brauchen dich so wenig wie deine Isaurier.«</p>
-                     <p>Cethegus verneigte sich und ging. »Auf Wiedersehen,« sprach er, »o
-                        Belisarius. Gib das Zeichen zum Aufbruch meinen Isauriern,« sprach er im
-                        Lager laut zu Marcus. »Und meinen Byzantinern auch,« setzte er leiser
-                        bei.</p>
-                     <p>»Aber Belisar hat ...« –</p>
-                     <p>»Ich bin ihr Belisar. Syphax, mein Pferd.« Während er aufstieg, sprengte ein
-                        Zug römischer Reiter heran: Fackeln leuchteten dem Anführer vorauf.</p>
-                     <p>»Wer da? Ah du, Cethegus? wie, du reitest ab? Deine Leute ziehn sich nach
-                        dem Fluß? Du wirst uns doch nicht verlassen, jetzt, in dieser höchsten
-                        Gefahr?« Cethegus beugte sich vor. »Sieh, du, Calpurnius! ich erkannte dich
-                        nicht: du siehst so bleich. Was bringst du von den Vorposten?«</p>
-                     <p>»Flüchtige Bauern sagen,« sprach Calpurnius ängstlich, »es sei gewiß mehr
-                        als eine Streifschar. Es sei der König der Barbaren, Witichis selbst, im
-                        raschen Anzug durch die Sabina: sie seien schon auf dem linken Tiberufer:
-                        Widerstand ist dann ... – Wahnsinn – Verderben. Ich folge dir, ich schließe
-                        mich dir an.«</p>
-                     <p>
-                        <pb/> »Nein,« sagte Cethegus herb, »du weißt, ich bin abergläubisch: ich
-                        reite nicht gern mit den Furien verfallnen Männern. Dich wird die Strafe für
-                        deinen feigen Knabenmord sicher bald ereilen. Ich habe nicht Lust, sie mit
-                        dir zu teilen.«</p>
-                     <p>»Doch flüstern Stimmen in Rom, auch Cethegus verschmähe manchmal einen
-                        bequemen Mord nicht,« sprach Calpurnius grimmig.</p>
-                     <p>»Calpurnius ist nicht Cethegus,« sprach der Präfekt, stolz davonsprengend.
-                        »Grüße mir einstweilen den Hades!« rief er.</p>
-                  </div>
-               
+
+               <div type="chapter">
+                  <head>Sechstes Kapitel.</head>
+                  <p>Inzwischen schickte sich Belisar an, mit der Hauptmacht seines Heeres die Stadt
+                     zu verlassen: Johannes hatte er deren Bewachung übertragen.</p>
+                  <p>Er hatte beschlossen, die Goten in Ravenna aufzusuchen. Sein bisher von keinem
+                     Unfall gehemmter Siegeslauf und die Erfolge seiner vorausgeschickten
+                     Streifscharen, die durch den Übergang der Italier alles flache Land, auch alle
+                     Festen und Burgen und Städte, bis nahe bei Ravenna, gewonnen, hatten in ihm die
+                     Zuversicht erzeugt, daß der Feldzug bald beendigt und nur das Erdrücken der
+                     ratlosen Barbaren in ihrem letzten Schlupfwinkel übrig sei.</p>
+                  <p>Denn nachdem Belisar selbst den ganzen Süden der Halbinsel: Bruttien, Lucanien,
+                     Calabrien, Apulien, Campanien: dann Rom mit Samnium und die Valeria durchzogen
+                     und besetzt hatte, waren seine Unterfeldherren, Bessas und Constantinus, mit
+                     der lanzentragenden Leibwache des Feldherrn, die unter Führung des Armeniers
+                     Zanter, des Persers Chanaranges und des Massageten Äschman standen,
+                     vorausgesetzt worden, Tuscien zu unterwerfen.</p>
+                  <p>Bessas rückte vor das sturmfeste Narnia: für die damaligen <pb/>
+                     Belagerungsmittel war die Burgstadt fast uneinnehmbar: – sie thront auf hohem
+                     Berge, dessen Fuß der tiefe Nar umspült. Die beiden einzigen Zugänge, vom Osten
+                     und vom Westen, sind ein enger Felsenpaß und die hohe, alte, von Kaiser
+                     Augustus gebaute, befestigte Brücke. – Aber die römische Bevölkerung
+                     überwältigte die halbe gotische Hundertschaft, die hier lag, und öffnete den
+                     Thrakiern des Bessas die Tore. Dem Constantinus erschlossen sich ebenso ohne
+                     Schwertstreich Spoletium und Perusia. Auf der östlichen Seite des Ionischen
+                     Meerbusens hatte inzwischen ein andrer Unterfeldherr Belisars, der Comes Sacri
+                     Stabuli Constantinus, den Tod zweier byzantinischer Heerführer, des Magister
+                     Militum für Illyrien, Mundus, und seines Sohnes Mauritius, die gleich im Anfang
+                     des Krieges bei Salona in Dalmatien im Gefecht gegen die Goten gefallen waren,
+                     gerächt, Salona besetzt und durch ihre große Übermacht die geringen gotischen
+                     Scharen zum Rückzug auf Ravenna gezwungen. Ganz Dalmatien und Liburnien war
+                     darauf den Byzantinern zugefallen. Von Tuscien aus streiften, wie wir sahen,
+                     die Hunnen Justinians schon durch Picenum und bis in die Ämilia.</p>
+                  <p>Die Friedensvorschläge des Gotenkönigs hielt Belisar daher für Zeichen der
+                     Schwäche. Daß die Barbaren zum Angriff übergehen könnten, fiel ihm nicht ein.
+                     Dabei trieb es ihn, Rom zu verlassen, wo es ihn anwiderte, der Gast des
+                     Präfekten zu heißen; im freien Felde mußte sein Übergewicht bald wieder
+                     hervortreten.</p>
+                  <p>Der Präfekt ließ das Kapitol in der treuen Hut des Lucius Licinius und folgte
+                     dem Zuge Belisars. Vergebens warnte er diesen vor allzu großer Zuversicht.</p>
+                  <p>»Bleibe du doch hinter den Felsen des Kapitols, wenn du die Barbaren
+                     fürchtest,« hatte dieser stolz geantwortet.</p>
+                  <p>»Nein,« erwiderte dieser. »Eine Niederlage Belisars ist ein zu seltnes
+                     Schauspiel, man darf es nicht versäumen.« In der <pb/> Tat, Cethegus hätte eine
+                     Demütigung des großen Feldherrn, dessen Ruhm die Italier allzusehr anzog, gern
+                     gesehen.</p>
+                  <p>Belisar hatte sein Heer aus den nördlichen Toren der Stadt geführt und wenige
+                     Stadien vor der Stadt in einem Lager versammelt, es hier zu mustern und neu zu
+                     ordnen und zu gliedern. Schon der starke Zufluß von Italiern, die zu seinen
+                     Fahnen geeilt waren, machte das nötig. Auch Ambazuch, Bessas und Constantinus
+                     hatte er mit dem größten Teil ihrer Truppen wieder in dies Lager herangezogen:
+                     sie ließen in den von ihnen gewonnenen Städten nur kleine Besatzungen
+                     zurück.</p>
+                  <p>Dunkle Gerüchte von einem anrückenden Gotenheer hatten sich in das Lager
+                     verbreitet. Aber Belisar schenkte ihnen keinen Glauben. »Sie wagen es nicht,«
+                     hatte er dem warnenden Prokop entgegnet. »Sie liegen in Ravenna und zittern vor
+                     Belisarius.«</p>
+                  <p>Spät in der Nacht lag Cethegus schlaflos auf dem Lager in seinem Zelt. Er ließ
+                     die Ampel brennen. »Ich kann nicht schlafen,« sagte er: »in den Lüften klirrt
+                     es wie Waffen und riecht's wie Blut. Die Goten kommen. Sie rücken wohl durch
+                     die Sabina, die Via casperia und salara herab.«</p>
+                  <p>Da rauschten seine Zeltvorhänge zurück, und Syphax stürzte atemlos an sein
+                     Lager.</p>
+                  <p>»Ich weiß es schon,« sagte Cethegus aufspringend, »was du meldest: die Goten
+                     kommen.« – »Ja Herr, morgen sind sie da. Sie zielen auf das salarische Tor. Ich
+                     hatte das beste Roß der Königin, aber dieser Totila, der den Vortrab führt,
+                     jagt wie der Wind durch die Wüste. Und hier im Lager ahnt niemand etwas.«</p>
+                  <p>»Der große Feldherr,« lächelte Cethegus, »hat keine Vorposten ausgestellt.« –
+                     »Er verließ sich ganz auf den festen Turm an der Aniusbrücke Prokop Gotenkrieg
+                     I. 17. 18. setzt hier aus Verwechslung den Tiber statt des Anio. aber ...
+                     –«</p>
+                  <p>
+                     <pb/> »Nun? der Turm ist fest.« – »Ja, aber die Besatzung, römische Bürger aus
+                     Neapolis, ging zu den Goten über, als sie der junge Totila, der Führer des
+                     Vortrabs, anrief. Die Leibwächter Belisars, welche sich widersetzten, wurden
+                     gebunden, zumal Innocentius, und Totila ausgeliefert. Der Turm und die Brücke
+                     ist in der Goten Hand.«</p>
+                  <p>»Es wird hübsch werden! Hast du eine Ahnung, wie stark der Feind?« – »Keine
+                     Ahnung. Herr: ich weiß es so genau wie König Witichis selbst. Hier die Liste
+                     ihrer Truppen. Sie schickt dir Mataswintha, seine Königin.«</p>
+                  <p>Cethegus sah ihn forschend an. »Geschehen Wunder, die Barbaren zu
+                     verderben?«</p>
+                  <p>»Ja Herr, Wunder geschehen! Dies sonnenschöne Weib will ihres Volkes Untergang
+                     um des Einen willen. Und dieser Eine ist ihr Gatte.«</p>
+                  <p>»Du irrst:« sagte Cethegus, »sie liebte ihn schon als Mädchen und kaufte seine
+                     Büste.«</p>
+                  <p>»Ja, sie liebt ihn. Aber er nicht sie. Und die Marsbüste ward zerschlagen in
+                     der Brautnacht.«</p>
+                  <p>»Das hat sie dir doch schwerlich selbst gesagt.«</p>
+                  <p>»Aber Aspa, die Tochter meines Landes, ihre Sklavin. Sie sagt mir alles. Sie
+                     liebt mich. Und sie liebt ihre Herrin, fast wie ich dich. Und Mataswintha will
+                     mit dir das Gotenreich verderben. Und sie wird durch Aspa alles schreiben in
+                     den Zauberzeichen unsres Stammes. Und ich würde diese Sonnenkönigin zu meinem
+                     Weibe nehmen, wenn ich Cethegus wäre.«</p>
+                  <p>»Ich auch, wenn ich Syphax wäre. Aber deine Botschaft ist eine Krone wert! Ein
+                     listig, rachedürstend Weib wiegt Legionen auf! Jetzt Trotz euch, Belisar,
+                     Witichis und Justinian! Erbitte dir eine Gnade, jede, nur nicht deine Freiheit:
+                     – ich brauche dich noch.«</p>
+                  <p>»Meine Freiheit ist – dir dienen. Eine Gunst: laß mich morgen neben dir
+                     fechten.«</p>
+                  <p>
+                     <pb/> »Nein, mein hübscher Panther, deine Klauen kann ich noch nicht brauchen:
+                     – nur deinen Leisegang. Du schweigst gegen jedermann von der Goten Nähe und
+                     Stärke. Lege mir die Rüstung an und gib den Plan der salarischen Straße dort
+                     aus der Kapsel. Jetzt rufe mir Marcus Licinius und den Führer meiner Isaurier,
+                     Snadil.« Syphax verschwand. Cethegus warf einen Blick auf den Plan. »Also
+                     dorther, von Nordwesten, kommen sie, die Hügel herab. Wehe dem, der sie dort
+                     aufhalten will. Darauf folgt der tiefe Talgrund, in dem wir lagern. Hier wird
+                     die Schlacht geschlagen und verloren. Hinter uns, südöstlich, zieht sich unsre
+                     Stellung entlang dem tiefen Bach; in diesen werden wir unfehlbar geworfen: die
+                     Brücken werden nicht zu halten sein. Darauf eine Strecke flachen Landes –
+                     welch' schönes Feld für die gotischen Reiter, uns zu verfolgen! – Noch weiter
+                     rückwärts endlich ein dichter Wald und eine enge Schlucht mit dem zerfallnen
+                     Kastell Hadrians ... – Marcus,« rief er dem Eintretenden entgegen, »meine
+                     Scharen brechen auf. Wir ziehn hinab den Bach in den Wald und jeden, der dich
+                     fragt, dem sagst du: wir ziehn zurück nach Rom.«</p>
+                  <p>»Nach Hause? ohne Kampf?« fragte Marcus erstaunt, »du weißt doch: es steht der
+                     Kampf bevor?«</p>
+                  <p>»Eben deswegen!« Damit schritt er hinaus, Belisar in seinem Zelt zu wecken.
+                     Aber er fand ihn schon wach: Prokop stand bei ihm. »Weißt du's schon, Präfekt?
+                     flüchtendes Landvolk meldet, ein Häuflein gotischer Reiter naht: die Tollkühnen
+                     retten in ihr Verderben: sie wähnen die Straße frei bis Rom.« Und er fuhr fort
+                     sich zu rüsten.</p>
+                  <p>»Aber die Bauern melden, die Reiter seien nur die Vorhut. Es folge ein
+                     furchtbares Heer von Barbaren,« warnte Prokop.</p>
+                  <p>»Eitle Schrecken! Sie fürchten sich, diese Goten. – Witichis wagt gar nicht,
+                     mich aufzusuchen. Endlich habe ich ja, vierzehn <pb/> Stadien vor Rom, die
+                     Aniobrücke durch einen Turm geschützt: Martinus hat ihn gebaut nach meinem
+                     Gedanken: – der allein hält der Barbaren Fußvolk mehr als eine Woche auf –
+                     mögen auch ein paar Gäule durch den Fluß geschwommen sein.«</p>
+                  <p>»Du irrst, Belisarius! ich weiß es gewiß: das ganze Heer der Goten naht,«
+                     sprach Cethegus. »So geh nach Hause, wenn du es fürchtest.« – »Ich mache
+                     Gebrauch von dieser deiner Erlaubnis. Ich habe mir in diesen Tagen das Fieber
+                     geholt. Auch meine Isaurier leiden daran: – ich ziehe mit deiner Gunst nach Rom
+                     zurück.«</p>
+                  <p>»Ich kenne dieses Fieber,« sagte Belisar – »das heißt: – an andern. Es vergeht,
+                     sowie man Graben und Wall zwischen sich und dem Feinde hat. Zieh' ab, wir
+                     brauchen dich so wenig wie deine Isaurier.«</p>
+                  <p>Cethegus verneigte sich und ging. »Auf Wiedersehen,« sprach er, »o Belisarius.
+                     Gib das Zeichen zum Aufbruch meinen Isauriern,« sprach er im Lager laut zu
+                     Marcus. »Und meinen Byzantinern auch,« setzte er leiser bei.</p>
+                  <p>»Aber Belisar hat ...« –</p>
+                  <p>»Ich bin ihr Belisar. Syphax, mein Pferd.« Während er aufstieg, sprengte ein
+                     Zug römischer Reiter heran: Fackeln leuchteten dem Anführer vorauf.</p>
+                  <p>»Wer da? Ah du, Cethegus? wie, du reitest ab? Deine Leute ziehn sich nach dem
+                     Fluß? Du wirst uns doch nicht verlassen, jetzt, in dieser höchsten Gefahr?«
+                     Cethegus beugte sich vor. »Sieh, du, Calpurnius! ich erkannte dich nicht: du
+                     siehst so bleich. Was bringst du von den Vorposten?«</p>
+                  <p>»Flüchtige Bauern sagen,« sprach Calpurnius ängstlich, »es sei gewiß mehr als
+                     eine Streifschar. Es sei der König der Barbaren, Witichis selbst, im raschen
+                     Anzug durch die Sabina: sie seien schon auf dem linken Tiberufer: Widerstand
+                     ist dann ... – Wahnsinn – Verderben. Ich folge dir, ich schließe mich dir
+                     an.«</p>
+                  <p>
+                     <pb/> »Nein,« sagte Cethegus herb, »du weißt, ich bin abergläubisch: ich reite
+                     nicht gern mit den Furien verfallnen Männern. Dich wird die Strafe für deinen
+                     feigen Knabenmord sicher bald ereilen. Ich habe nicht Lust, sie mit dir zu
+                     teilen.«</p>
+                  <p>»Doch flüstern Stimmen in Rom, auch Cethegus verschmähe manchmal einen bequemen
+                     Mord nicht,« sprach Calpurnius grimmig.</p>
+                  <p>»Calpurnius ist nicht Cethegus,« sprach der Präfekt, stolz davonsprengend.
+                     »Grüße mir einstweilen den Hades!« rief er.</p>
+               </div>
+
                <div type="chapter">
                   <head>
                      <pb/> Siebentes Kapitel.</head>

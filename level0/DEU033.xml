@@ -18,12 +18,32 @@
             <measure unit="words">37948</measure>
             <measure unit="pages">129</measure>
          </extent>
-         <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-14"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!----></publicationStmt>
-         <sourceDesc><bibl type="digitalSource">
+         <publicationStmt>
+            <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European
+               Literary History" (CA16204)</publisher>
+            <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+            <date when="2019-11-14"/>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+            <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/>
+            <!---->
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="digitalSource">
                <title>Die Geschichte meines Urgroßvaters</title>
                <author>François, Louise von</author>
                <date>1868</date>
-            </bibl></sourceDesc>
+            </bibl>
+            <bibl type="print_source"><author>Louise von François</author>: <title>Gesammelte
+                  Werke</title>, Band 1–5, <pubPlace>Leipzig</pubPlace>:
+                  <publisher>Insel-Verlag</publisher>, <date>1918</date>.</bibl>
+            <bibl type="firstEdition">Erstdruck (anonym) unter dem Titel »<title>Aus dem Leben
+                  meines Urgroßvaters</title>« in: Europa, <pubPlace>Leipzig</pubPlace>
+                  (<editor>Ernst Keil</editor>) <date>1855</date>, Nr. 3; <note>erste Buchausgabe
+                  in: Hellstädt und andere Erzählungen, 3. Band, Berlin (Otto Janke)
+               1874.</note></bibl>
+         </sourceDesc>
       </fileDesc>
       <encodingDesc n="eltec-0">
          <p/>
@@ -39,7 +59,8 @@
             <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
          </textDesc>
       </profileDesc>
-      <revisionDesc><change when="2019-11-14">Checked by releaseChecker script</change>
+      <revisionDesc>
+         <change when="2019-11-14">Checked by releaseChecker script</change>
          <change when="2019-01-28">Conversion from Kallimachos Kernkorpus</change>
       </revisionDesc>
    </teiHeader>

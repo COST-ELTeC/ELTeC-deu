@@ -18,12 +18,29 @@
             <measure unit="words">198887</measure>
             <measure unit="pages">455</measure>
          </extent>
-         <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-14"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!----></publicationStmt>
-         <sourceDesc><bibl type="digitalSource">
+         <publicationStmt>
+            <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European
+               Literary History" (CA16204)</publisher>
+            <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+            <date when="2019-11-14"/>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+            <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/>
+            <!---->
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="digitalSource">
                <title>Schloß Hubertus</title>
                <author>Ganghofer, Ludwig</author>
                <date>1895</date>
-            </bibl></sourceDesc>
+            </bibl>
+            <bibl type="print_source"><author>Ludwig Ganghofer</author>: <title>Schloß
+                  Hubertus</title>, <pubPlace>Berlin</pubPlace>: <publisher>Deutsche
+                  Buchgemeinschaft</publisher>, [<date>1917</date>]. </bibl>
+            <bibl type="firstEdition">Erstdruck: <pubPlace>Stuttgart</pubPlace> (Bonz)
+                  <date>1895</date>.</bibl>
+         </sourceDesc>
       </fileDesc>
       <encodingDesc n="eltec-0">
          <p/>
@@ -39,7 +56,8 @@
             <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
          </textDesc>
       </profileDesc>
-      <revisionDesc><change when="2019-11-14">Checked by releaseChecker script</change>
+      <revisionDesc>
+         <change when="2019-11-14">Checked by releaseChecker script</change>
          <change when="2019-01-28">Conversion from Kallimachos Kernkorpus</change>
       </revisionDesc>
    </teiHeader>
@@ -3205,507 +3223,490 @@
                   Fuß immer vorsichtiger aufzutreten begann, kniff er die Augen ein und lächelte
                   boshaft vor sich hin.</p>
             </div>
-            
-               <div type="chapter">
-                  <head>10</head>
-                  <p>Graf Egge und Schipper waren schon längst in den Latschen verschwunden, und
-                     noch immer stand Franzl auf dem gleichen Fleck, totenbleich, an allen Gliedern
-                     zitternd. Verstört betrachtete er die starre Wildleiche, aus deren zerhacktem
-                     Haupt die blutumronnenen Augäpfel hervordrangen; dann hob er die Büchse vom
-                     Geröll und faßte den Bergstock. Kaum hatte er sich durch die ersten Büsche
-                     gewunden, da hörte er ein leises Winseln und fand im Schatten einer Latsche den
-                     Schweißhund, der an einer blutenden Schenkelwunde leckte. »Richtig, jetzt hat
-                     dös arme Hundl auch sein Treff dabei kriegen müssen!« Der Zorn ballte ihm die
-                     Fäuste. »Dös is ja nimmer Jagd, dös is ja Metzgerei!«</p>
-                  <p>Der Hund hatte den Kopf gehoben. Franzl ließ sich nieder und wollte die
-                     Verletzung untersuchen; da schnappte der Hund nach seiner Hand, doch e biß
-                     nicht, sondern hielt nur mit den Zähnen die Finger des Jägers fest. Franzl zog
-                     die Hand nicht zurück und streichelte mit der anderen den Kopf und Nacken des
-                     Hundes. »Aber Hirschmanndl, geh, wie magst denn schnappen nach mir! Schau,
-                     Alterl, wir zwei, wir sind heut gleich schlecht wegkommen, du und ich!« Da gab
-                     Hirschmann die Hand des Jägers frei und schüttelte die Ohren. Willig ließ er an
-                     seine Wunde rühren und stieß nur, wenn die fühlenden Hände seine Schmerzen
-                     mehrten, die Nase winselnd an den Arm des Jägers. Die Wunde war tief gerissen
-                     und zog sich über den ganzen Schenkel. Mit dieser Verletzung hatte der Hund
-                     noch seine Pflicht erfüllt und das tote Wild verbellt. Zärtlich kraulte Franzl
-                     ihm die Ohren. »Ja, Hirschmanndl, hast schon recht! Man muß oft Unrecht leiden.
-                     Aber sei' Sach muß man in Ordnung machen, sonst is man um kein Granl besser als
-                     die andern!« Er nahm den Hund auf die Arme und tat ein paar Schritte, als
-                     wollte er den Weg zur Jagdhütte suchen. Kopfschüttelnd hielt <pb/> er inne.
-                     »Na! Jetzt net! Ich könnt mich net zruckhalten. Z'erst muß ich mich auslaufen,
-                     daß mir der Zorn vergeht.« Er schlug den Weg nach der eine halbe Stunde
-                     entfernten Hochalm ein.</p>
-                  <p>Unter dem Gewicht des Hundes waren ihm die Arme steif geworden, als er die
-                     Hütte erreichte. In der Kammer wurde Hirschmann auf den Kreister gebettet, und
-                     die Sennerin brachte dem Jäger, was er nötig hatte, um die Wunde zu vernähen
-                     und ein Heftpflaster aufzulegen. Während Franzl schor und nähte und kleisterte,
-                     hielt die Sennerin unter endlosem Geschwatz den Kopf des Hundes fest. Zum
-                     Schluß der nicht sonderlich kunstvollen Operation wurde die Außenseite des
-                     Pflasters noch mit Pfeffer eingerieben. Das hatte seinen Zweck; denn kaum war
-                     Hirschmann aus den Händen der Sennerin erlöst, da wollte er sein gewohntes,
-                     schmerzstillendes Heilmittel versuchen und an der Wunde lecken; die Sache hatte
-                     ihre Bitternis; verdrossen schüttelte er den Kopf und schlenkerte die brennende
-                     Zunge. Das war drollig anzusehen; die Sennerin kreischte vor Vergnügen, und
-                     sogar Franzl brachte ein müdes Lächeln zuwege. Er streichelte den Hund, reichte
-                     der Sennerin die Hand und ging. Winselnd hob Hirschmann den Kopf, als er den
-                     Jäger verschwinden sah. Vor der Hütte nahm Franzl seine Büchse von der Bank und
-                     gewahrte mit Schreck den Schaden, den sie gelitten hatte, als er sie auf das
-                     Geröll geworfen. Ein echter Jäger, pflegte er seine Waffe in tadellosem Zustand
-                     zu halten. Und wie sah sie nun aus! Der polierte Schaft von splitterigen Rissen
-                     durchzogen, die sonst so spiegelblanken Läufe fleckig und zerkratzt, und von
-                     einem der beiden Hähne war der Hammer abgebrochen. »Der Hund, mein Büchsl und
-                     ich! Gut schauen wir aus alle miteinander!«</p>
-                  <p>Über die offenen Almen schritt er dem Bergwald zu. Stunde um Stunde rannte er
-                     umher, von dem unklaren Wirrsal seiner Gedanken und seines Zornes erfüllt, und
-                     tat mechanisch seinen Dienst. Alle Hauptwechsel des Rotwildes besuchte er, alle
-                     Salzlecken und Suhlen, zählte die Fährten der jagdbaren Hirsche und kritzelte
-                     die Zahlen in sein Taschenbuch. Als die Sonne über Mittag stand, begann er
-                     durch den Bergwald wieder emporzusteigen gegen die kahlen Wände, um mit der
-                     Schattenzeit die Gemsreviere zu erreichen. Ehe der Wald ein Ende nahm, wollte
-                     er eine Weile rasten. Neben dem Steig, der zu den Mitterkaseralmen führte, ließ
-                     er sich auf einen vom Sturm geworfenen Baumstamm nieder. Als sein <pb/> müder
-                     Körper ruhte, suchte er auch das Gewirbel in seinem Kopf zur Ruhe zu bringen
-                     und begann die Ereignisse des verwichenen Abends und der Morgenstunden zu
-                     überdenken.</p>
-                  <p>Das Ergebnis dieser Gedanken mehrte nur seine Unruhe. Er war gewiß so
-                     unschuldig wie der lichte Tag. Aber er fühlte: eine Reihe von Zufällen sprach
-                     wider ihn, und er wußte, wie mißtrauisch Graf Egge in allen Dingen war, welche
-                     die Jagd betrafen. Daß der ungerechte Verdacht seine Stellung bedrohte, daran
-                     dachte er nicht. Er fühlte nur den brennenden Makel, der auf seine Jägerehre
-                     gefallen war. Und die selten schöne Krucke wog ja auch schweres Geld – das war
-                     wie versuchter Diebstahl! Er griff sich mit beiden Händen an die glühende
-                     Stirn. »Herrgott im Himmel! Was tu ich denn?«</p>
-                  <p>Wieder begann er zu grübeln. Er sagte sich: Hat Graf Egge diesen Verdacht
-                     einmal empfunden, so wird er ihn auch nicht eher wieder aufgeben, ehe nicht der
-                     Täter gefunden ist. Franzl preßte das Gesicht in die Hände. Tag um Tag nun
-                     sollte er umherlaufen mit diesem drückenden Gewicht auf seiner Brust, keinen
-                     Blick mehr sollte er zu dem Gesicht seines Herrn erheben dürfen, ohne fühlen zu
-                     müssen, daß der andere im stillen denkt: Du bist ein Dieb! Er mußte den
-                     Menschen ausfindig machen, der es getan! Aber wie? Es war ihm schon völlig
-                     unerklärlich, wann der Diebstahl begangen wurde, und weshalb das Gehörn in den
-                     Latschen hing. Die Erklärung, die Schipper so flink bei der Hand gehabt hatte,
-                     war leeres Geschwätz. – Schipper? – Schipper? – Franzl brachte seine Gedanken
-                     nicht mehr los von diesem Namen. Aber was ihm wider Willen durch die Sinne
-                     fuhr, erfüllte ihn mit Ingrimm gegen sich selbst. »Ich muß a schlechter Kerl
-                     sein, weil ich dem Kameraden zutrauen kann, was ich von mir selber abwehren
-                     will.«</p>
-                  <p>Schon wollte er sich erheben, als von rückwärts zwei warme Hände seine Augen
-                     umschlossen. Franzl meinte, das könnte nur die Sennerin vom Mitterkaser sein,
-                     doch er war nicht aufgelegt zum Raten. Unwillig befreite er seinen Kopf. Als er
-                     die Augen hob, versagte ihm vor freudigem Schreck beinah die Stimme.</p>
-                  <p>»Mali!«</p>
-                  <p>Lachend ließ das Mädel sich neben dem Jäger nieder. »Gelt! Da schaust?«</p>
-                  <p>Er wußte sich kaum zu fassen. »Wie kommst denn du auf amal daher?«</p>
-                  <p>
-                     <pb/> »Vom Mitterkaser komm ich.« Sie zog das weiße Tuch vom Kopf, das sie zum
-                     Schutz gegen die Sonne umgebunden hatte. »Heut in der Fruh – mein Bruder is
-                     schon fort gwesen in der Holzarbeit, gar net weit da drunten hat er sein Schlag
-                     – heut in der Fruh kommt unser alte Nachbarin ummi zu mir und jammert, sie hätt
-                     ghört, daß ihr Madl im Mitterkaser droben verkrankt wär.«</p>
-                  <p>»D' Sennerin?«</p>
-                  <p>»Ja. Und d' Nachbarin is ganz ausanand gwesen vor lauter Sorg. Hab ich halt
-                     gsagt: Tu mir aufpassen auf meine Kinder, so spring ich nauf und bring dir
-                     Botschaft.« Mali lachte. »'s Madl is schon wieder kreuzfidel. A paar Tag hat's
-                     Magenweh ghabt. Ich glaub, sie hat am letzten Fasttag z'viel Schmelznudeln
-                     verschluckt.«</p>
-                  <p>»Unser Herrgott soll ihr die nächste Schüssel gut anschlagen lassen! Dös hat d'
-                     Sennerin verdient um mich. Lieber hättst mir in keiner Stund in Weg laufen
-                     können als heut. Da muß sich der Herrgott rein denkt haben: Heut braucht er an
-                     Trost!«</p>
-                  <p>Schon der Klang seiner Stimme hatte sie befremdet, und als sie sah, wie blaß er
-                     war, erschrak sie. »Ums Himmels willen, was is denn?«</p>
-                  <p>Er atmete schwer. »So Sachen halt, weißt – ich kann net reden davon.«</p>
-                  <p>»Ah, da schau!« Energisch faßte Mali seinen Arm. »Ein' z'erst erschrecken bis
-                     in d' Seel und nachher den Heimlichen spielen! Ich bin dei' alte Kamerädin.
-                     Jetzt redst auf der Stell!«</p>
-                  <p>Franzl schüttelte den Kopf.</p>
-                  <p>»Paß auf, Franzl!« Mali schob ihren Arm unter den seinen. »Bsinnst dich noch
-                     auf den selbigen Tag, wo wir als Kinder miteinand gut Freund worden sind? Weißt
-                     es nimmer, wie ich hinter der Hecken gsessen bin und gweint hab? Und wie mir d'
-                     Handln niederzogen hast, und ich hab's kaum rausbracht, daß mir der Nachbarbub
-                     mein Dockerl Puppe. genommen und die Zöpf halb ausgrissen hat. Kein Wörtl hast
-                     gsagt und bist davon. Und bist neben meiner wieder aussigschloffen aus der
-                     Hecken, 's Gwand zerrissen und käsweiß im Gsicht. Und mein Dockerl hast in der
-                     Hand ghalten und <pb/> hast mich anglacht: ›Du! Den hab ich fest verdroschen!‹
-                     Freilich, 's Dockerl hat kein Kopf nimmer ghabt.«</p>
-                  <p>Franzl nickte. »Den hat er abigrissen in der Wut, wie er gmerkt hat, daß er die
-                     Docken wieder hergeben muß!«</p>
-                  <p>»Und weißt noch, wie dich hingsetzt hast neben meiner? Und daß ich nimmer
-                     weinen soll, hast den ganzen Sack voll Haselnussen vor mir ausgleert. Und alle
-                     harten hast mir aufbissen.« Herzlich rüttelte Mali seinen Arm. »Und schau, heut
-                     hab ich dich hinter der Hecken gfunden. Sei gscheit und sag mir alles! Und
-                     wenn's von alle Nussen die härteste wär – Franzl, ich hilf dir beißen.«</p>
-                  <p>Da konnte er nimmer schweigen. Mit jagenden Worten begann er die Geschichte der
-                     verwichenen Stunden zu erzählen. Er schalt und jammerte nicht. Aber die
-                     Kränkung, die er an seiner Ehre erfahren, redete aus seinen Augen. Schweigend
-                     lauschte Mali. Als er erzählte, wie Schipper den Verdacht gegen ihn
-                     ausgesprochen, fuhr es ihr in Zorn heraus: »So was von Kamerad! Respekt! Und
-                     Schipper heißt er?« Sie grübelte vor sich hin, als würde eine Erinnerung in ihr
-                     lebendig. »Schipper? Is dös a Verwandter vom selbigen Schipper, der früher
-                     Holzknecht gwesen is?«</p>
-                  <p>»Es is der nämliche.«</p>
-                  <p>»Und der is Jager jetzt? – No, da dank ich! Da hast an noblen Kameraden! Ganz
-                     gut bsinn ich mich drauf, daß der Vater selig allweil schelten hat müssen auf'n
-                     Bruder, weil er Freundschaft mit'm Schipper ghalten hat, der ihn zu alle
-                     Lumpereien hätt verführen mögen. Wenn der deinige der nämlich is, nachher glaub
-                     ich schon gleich, daß er die Krucken selber gstohlen hat.«</p>
-                  <p>Franzl wehrte erschrocken: »Na, Mali, so was därfst net sagen!«</p>
-                  <p>»Sei's, wie's mag. Du bist unschuldig. Und so an Verdacht darfst net auf dir
-                     sitzen lassen!« Malis Augen blitzten. »Da brauchst den Gauner net erst
-                     ausfindig machen. Wer Augen hat wie du, braucht kein andern Beweis als sein
-                     ehrlichs Gsicht! Jetzt machst in Ordnung dein Dienst. Und auf'n Abend stellst
-                     dich hin vor dein Grafen und sagst ihm alles ins Gsicht, gradso, wie du's mir
-                     gsagt hast, und gradso, wie mich, so schaust ihn an mit deine Augen. Da muß er
-                     dir glauben. Und jetzt halt dich nimmer auf! Und meintwegen sollst nix
-                     versäumen im Dienst.« Sie hob die Büchse hinter dem Baum hervor und reichte sie
-                     dem Jäger. »Da hast dei' Kugelspritzen! Was wir gredt haben, bleibt unter uns.
-                     Und jetz mach weiter! Bhüt dich Gott!«</p>
-                  <p>
-                     <pb/> Mit der Büchse hatte Franzl auch Malis Hand gefaßt. »Ganz aufgricht hast
-                     mich wieder. Vergeltsgott tausendmal!«</p>
-                  <p>Die Hände der beiden lagen eine Weile ineinander. Dann fragte da Mädel: »Du,
-                     Franzl?«</p>
-                  <p>»Was?«</p>
-                  <p>»Hast vielleicht du mit meim Bruder auch was ghabt? An Streit oder so was?«</p>
-                  <p>»Ich? Gott bewahr! Warum fragst denn?«</p>
-                  <p>Sie schien verlegen zu werden. »No weißt, weil er gestern so ungut zu dir
-                     gwesen is.«</p>
-                  <p>»Haben halt d' Sorgen aus ihm rausgredt. Was macht denn 's Netterl?«</p>
-                  <p>»D' Nacht heut is gut gwesen. Mit Gotteshilf wird sich 's Kindl doch wieder in
-                     d' Höh machen. Grad recht, daß d' mich dran mahnen tust. Jetzt fang ich aber 's
-                     Hupfen an.« Lachend nickte sie dem Jäger zu, und dann hetzte sie flink über den
-                     Steig hinunter.</p>
-                  <p>Franzl sah ihr nach, bis sie verschwunden war. Dann spähte er durch die leis
-                     rauschenden Wipfel, als möchte er am Himmel die Stelle suchen, an der in der
-                     Nacht die Sternschnuppe erloschen war.</p>
-                  <p>»Lichtl da droben, du hast net glogen!«</p>
-                  <p>Er stieg durch den Wald hinauf und erreichte die offenen Almen. Fern am
-                     Waldsaum, in der Tiefe der Almfelder, gewahrte Franzl zwei Männer; er meinte
-                     einen Büchsenlauf blinken zu sehen und zog das Fernrohr auf.</p>
-                  <p>Schipper war es – mit einem Treiber, der den von Graf Egge am verwichenen Abend
-                     erbeuteten Gemsbock auf dem Rücken trug.</p>
-                  <p>Kurze Zeit, nachdem der Graf mit seinem Büchsenspanner die Jagdhütte erreicht
-                     hatte, waren die von Franzl bestellten Treiber eingetroffen. Graf Egge kümmerte
-                     sich nicht um ihre Ankunft. Er wanderte in der Stube zwischen den engen Wänden
-                     auf und nieder und rastete nur zuweilen für einige Minuten, um unter grübelnden
-                     Gedanken das Krickel, das mit der blutigen Hirnschale auf dem Tisch lag, zu
-                     betrachten, oder um den rechten Fuß auf einen Stuhl zu heben und mit beiden
-                     Händen das schmerzende Bein zu frottieren. Als Schipper die Tür öffnete, um
-                     nach den Befehlen seines Herrn zu fragen, schrie ihn Graf Egge an: »Ruh will
-                     ich haben!« Mit einem Fußtritt schlug er dem Jäger die Tür vor der Nase zu.</p>
-                  <p>Wartend, unter leisem Geplauder, saßen die Männer vor der <pb/> Hütte, während
-                     Schipper in der Küche die Gewehre putzte. Nach zwei Stunden rief Graf Egge den
-                     Rottmeister der Treiber in die Stube: »Heute wird nicht mehr gejagt. Einer von
-                     euch tragt den Bock, der draußen hängt, nach Hubertus hinunter, die andern
-                     sollen machen, was sie wollen. Morgen früh um fünf Uhr seid ihr bei der Hütte.«
-                     Er trat zur Tür. »Schipper! Du machst deinen Dienst! Und das Gams unter der
-                     Wand da drüben soll fort!« Ein Augenzwinkern des Grafen schickte den
-                     Rottmeister zur Stube hinaus. Dann krachte die Tür ins Schloß.</p>
-                  <p>Mit langem Gesicht stand der Mann in der Küche und fragte flüsternd: »Was hat
-                     er denn heut?«</p>
-                  <p>»Geht's dich was an?« knurrte Schipper und zeigte ein Gesicht, als hätte er
-                     Galle auf der Zunge. Einige Minuten später war er wegfertig und wanderte mit
-                     den Männern über das Latschenfeld gegen die Wände.</p>
-                  <p>Graf Egge stand am Fenster und sah ihnen nach, bis sie verschwunden waren. Dann
-                     ging er in die Küche und schürte Feuer an, um die Hirnschale des Krickels
-                     auszukochen. Eine volle Stunde saß er auf dem Herdrand und wandte keinen Blick
-                     von dem sprudelnden Wasser, aus dem die schwarzen Haken des Gehörns
-                     hervorragten. Als sich die Stirnhaut von den Knochen gelöst hatte, schabte er
-                     mit geduldiger Sorgfalt die letzte Muskelfaser von dem weißen Bein und trug das
-                     Krickel in die Sonne, damit die Schale trocknen und bleichen möchte. Die Hände
-                     im Schoß, saß er neben dem Gehörn auf der sonnigen Hüttenbank und musterte
-                     immer wieder mit zärtlich-stolzen Augen die schöne Trophäe. Es währte eine
-                     halbe Stunde, bis in der heißen Sonne die letzte Spur von Feuchtigkeit an der
-                     bleichen Hirnschale verdunstet war. Graf Egge trug das Krickel in die Stube,
-                     holte Feder und Tinte zum Tisch und malte in zierlicher Schrift das Datum der
-                     Jagd, die ihm die seltene Beute beschert hatte, auf das weiße Bein. Während er
-                     über die nassen Schriftzüge blies, um sie rascher trocknen zu machen, betrat
-                     ein alter Mann mit untertänigen Verbeugungen und halb atemlos die Stube – der
-                     Postbote. Es war ihm anzumerken, daß er den weiten, mühseligen Weg vom Dorf
-                     herauf mit manchem Seufzer begleitet hatte. Die Sendung, die er brachte, hatte
-                     ihn wohl mit ihrem Gewicht nicht gedrückt, und dennoch atmete er erleichtert
-                     auf, als er das winzige, mit vierzehntausend Mark bewertete Kistchen in Graf
-                     Egges Hände legte.</p>
-                  <p>
-                     <pb/> »Setz dich! Ich will in deiner Gegenwart nachsehen, ob alles in Ordnung
-                     ist.«</p>
-                  <p>Graf Egge zog das Messer aus der Lederhose und sprengte den kleinen Holzdeckel.
-                     Eine in Watte gehüllte Schachtel kam zum Vorschein, und als Graf Egge sie
-                     öffnete, flammten seine Augen in Freude. Auf einem mit schwarzem Samt
-                     überzogenen Brettchen waren, in vier Reihen übereinander, ungefaßte, in
-                     absonderlichen Formen geschliffene Saphire und Rubinen mit feinen Silberdrähten
-                     angeheftet. Durch das Fenster fiel die Sonne auf die Steine, und das funkelte
-                     und gleißte in schönen Farben. Der Juwelier schien den Geschmack seines Kunden
-                     getroffen zu haben. Zufrieden musterte Graf Egge die Sendung. Rasch überflog er
-                     den Begleitbrief und zählte die Steine mit tippendem Finger. »Stimmt!« Er
-                     unterschrieb den Postschein und reichte ihn dem Boten. »Alles in Ordnung.«</p>
-                  <p>Der Alte erhob sich. »Bhüt Ihnen Gott, Herr Graf!« Bei der Tür blieb er zögernd
-                     stehen, als wäre die Sache für ihn noch nicht erledigt. Graf Egge hatte sich
-                     schon wieder in die Betrachtung der Steine vertieft. »Ich bitt, Herr Graf,«
-                     fragte der Alte kleinlaut, »haben S' kein Auftrag nunter? Oder sonst was?«</p>
-                  <p>Ohne aufzublicken, schüttelte Graf Egge den Kopf.</p>
-                  <p>Verdrossen schlich der Alte davon. Vor der Hütte blieb er stehen und schielte
-                     nach dem Stubenfenster. »Fünf Stund bis da rauf! Da wären a paar Maß Bier net
-                     z'viel gwesen!«</p>
-                  <p>Als er das Almfeld erreichte, wurde er von Schipper und dem Treiber überholt,
-                     der auf dem Rücken den Bock und in der Hand ein blutfleckiges Bündel trug, das
-                     seinen Anteil an der unter die Treiber verteilten Gemse enthielt. Der alte
-                     Postbote vermochte mit den beiden nicht Schritt zu halten und blieb zurück.</p>
-                  <p>Am Saum des Bergwaldes – hier hatte Franzl aus weiter Ferne das Paar beobachtet
-                     – trennte sich Schipper von seinem Begleiter.</p>
-                  <p>»So! Und vergiß die Botschaft an Moser net. Er soll die Unterhos für'n Grafen
-                     gleich kaufen und soll dir s' mitgeben.«</p>
-                  <p>Der Mann folgte dem Steig, und Schipper wandte sich seitwärts in den Wald; als
-                     er allein war, knirschte er einen Fluch durch die Zähne.</p>
-                  <p>Auf einem stark begangenen Wildwechsel fand er die frische Spur eines
-                     genagelten Schuhes. »Da is er gwesen!« murmelte Schipper und spie auf die
-                     Fährte. Nun folgte er dem Wege, den Franzl genommen <pb/> hatte; die stille
-                     Hoffnung, die ihn dabei leitete, erfüllte sich nicht; er kam zu keiner
-                     Salzlecke, bei der die Spur jenes anderen Fußes fehlte.</p>
-                  <p>»Wie gnau er heut sein Dienst gmacht hat! Als hätt er schmecken können, daß ich
-                     ihm nachsteig!«</p>
-                  <p>Bald erreichte er den zum Mitterkaser führenden Pfad und sah neben einem
-                     gestürzten Baum ein weißes Kopftuch auf der Erde liegen. Er hob es auf, und
-                     während er das Tuch noch in der Hand hatte, klangen Schritte auf dem tieferen
-                     Steig.</p>
-                  <p>Mali erschien, mit den Augen suchend. Als sie den Jäger sah, blieb sie
-                     betroffen stehen; kaum gewahrte sie den Fund in Schippers Hand, da sprang sie
-                     auf ihn zu und entriß ihm das Tuch. »Her damit! Dös Tüchl ghört mein!«</p>
-                  <p>»Oho! Bei dir geht's aber gschwind!« Zwinkernd betrachtete Schipper das Mädel.
-                     Das Ergebnis dieser Musterung schien ihm zu behagen. »Wer bist denn du? Dich
-                     kenn ich ja gar net.«</p>
-                  <p>»Wenn dich d' Neugier gar so plagt, ich bin die Bruckner-Mali.«</p>
-                  <p>»Waaas? Die Mali? Ah, da legst dich nieder! Seit wann bist denn du wieder
-                     daheim?«</p>
-                  <p>Die Frage überhörend, ließ Mali die Augen mit einem nicht sehr freundlichen
-                     Blick über die Gestalt des Jägers gleiten. Sie verzog den Mund. »Du mußt der
-                     Schipper sein?«</p>
-                  <p>»Freut mich, daß d' mich wiederkennst. Und gut hat dir der Aufenthalt bei der
-                     Schwester angschlagen. Bist allweil a saubers Kind gwesen. Als Madl bist noch
-                     säuberer worden.«</p>
-                  <p>Mali lachte. »Ui jegerl! Komplimenten macht er! Die muß ich dir schon
-                     zruckgeben. Du bist schon selbigsmal a schiecher Kerl gwesen. Jetzt schaust
-                     noch grauslicher aus!« Ohne Gruß ging sie davon.</p>
-                  <p>Schipper wußte nicht recht, sollte er lachen oder sich ärgern. Er entschloß
-                     sich für das erstere, und je länger er der Davonschreitenden nachblickte, desto
-                     freundlicher wurden seine Augen wieder. »Die is grob. Aber verteufelt sauber.
-                     Hat Holz am Ofen. Für dös Madl könnt ich Dummheiten machen!« Mali verschwand in
-                     der Tiefe des Steiges. Und Schipper kalkulierte unter dünnem Lächeln: »Dem
-                     Bruckner sei' Schwester? Dös trifft sich net schlecht. Mit'm Bruckner könnt man
-                     a Wörtl reden.« Während er weiterschritt, drehte er noch einmal das Gesicht und
-                     blickte schmunzelnd über den Pfad. Durch den Wald herauf hörte er Malis
-                     Bergstock klirren.</p>
-                  <p>Sie hatte Eile. Häufig kürzte sie die Wendungen des Pfades <pb/> und nahm ihren
-                     Weg in gerader Richtung talwärts durch den Wald. Als sie das tiefere Gehölz
-                     erreichte, hörte sie über den Berghang her den Hall wuchtiger Axtschläge. Da
-                     drüben arbeitete ihr Bruder. Unschlüssig blieb Mali stehen. Am Morgen hatte sie
-                     den Bruder aufgesucht und ihm versprochen, auf dem Rückweg wiederzukommen. Aber
-                     sie hatte viel Zeit verloren – und das kleine Netterl, meinte sie, würde schon
-                     mit Schmerzen auf sie warten. Die eigentliche Ursache, weshalb sie jetzt, nach
-                     der Begegnung mit Franzl, dem Bruder nicht gern gegenübertrat, wollte sie sich
-                     selbst nicht eingestehen. Damit er wüßte, daß sie bereits auf dem Heimweg wäre,
-                     höhlte sie die Hände um den Mund und schickte einen langgezogenen Ruf in den
-                     Wald.</p>
-                  <p>Die Axtschläge verstummten, und Bruckner gab Antwort; er hatte die Bedeutung
-                     des Rufes verstanden. Während Mali davoneilte, klangen wieder die Beilhiebe,
-                     und es hallte das Krachen eines stürzenden Baumes durch den weiten
-                     Bergwald.</p>
-                  <p>Bruckner arbeitete, bis der Abend zu dämmern begann; dann machte auch er sich
-                     auf den Heimweg. Die Joppe um die Schultern tragend, die Axt mit dem Eisen in
-                     die Armbeuge eingehenkt, wanderte er zwischen den Bäumen. Der weiche Moosgrund
-                     dämpfte den Hall seiner Schritte.</p>
-                  <p>Plötzlich stand er wie angewurzelt. Er hatte einen Hirsch gewahrt, der aus der
-                     Tiefe des Waldes emporgestiegen kam und die Almen suchte. Bruckners Hände
-                     begannen zu zittern, während er, an einen Baum gedrückt, mit funkelnden Augen
-                     jede Bewegung des Wildes verfolgte. Der Hirsch merkte die Nähe des Menschen
-                     nicht und zog in sorgloser Ruhe zwischen den Bäumen aufwärts, bald hier ein
-                     Kraut, bald dort ein paar Gräser von der Erde zupfend. Weißblinkend hoben sich
-                     die Spitzen des stattlichen Kronengeweihs vom finsteren Grün des abendlichen
-                     Waldes ab. Immer näher kam der Hirsch dem Baum, hinter welchem Bruckner stand;
-                     der Bauer faßte mit langsam gleitender Hand den Stiel der Axt. Nun stand das
-                     Wild vor ihm, kaum zehn Schritt weit. In jähem Schwung holte Bruckner mit der
-                     Axt zum Wurf aus. Ehe das Beil noch flog, machte der Hirsch erschrocken einen
-                     Satz und äugte gegen den höheren Waldhang; das währte nur einen Augenblick, und
-                     in sausender Flucht verschwand er zwischen dem Gewirr der Stämme, während die
-                     Beilschneide hallend in eine Fichte schlug.</p>
-                  <p>Bruckner keuchte. »Allweil packt's mich wieder!« Er hob die <pb/> Joppe auf,
-                     die ihm von den Schultern geglitten war, und ging zu der Fichte, um das Beil
-                     aus dem Holz zu reißen. Da hörte er hinter sich ein leises Lachen. Er wandte
-                     das Gesicht, und kalkige Blässe rann über seine Stirn, als er den Jäger
-                     erkannte.</p>
-                  <p>Langsam, immer lachend, kam Schipper näher. »Du? Was machst denn da?«</p>
-                  <p>Bruckner zog schweigend die Joppe an.</p>
-                  <p>»Ja, Lenzi! A harts Stückl: so an Prügelhirsch anschauen müssen und kein Büchsl
-                     net haben? Mit der Axt macht sich so was schlecht. Seit wann hat dich denn der
-                     Wildteufel wieder beim Krawattl?«</p>
-                  <p>Bruckner nahm die Axt in den Arm; seine Stimme klang heiser. »'s ganze Blut in
-                     mir drin wird rebellisch, so oft mir a Stückl Wild über'n Weg lauft. Aber mein
-                     Schwur hab ich ghalten bis zum heutigen Tag.«</p>
-                  <p>»Ja, ja, ich glaub dir schon!« Schipper schmunzelte. »Und wenn's drauf ankäm –
-                     so weit die Gschicht mich angeht, ich tät vielleicht reden lassen mit mir.«</p>
-                  <p>Der Bauer maß den Jäger mit hartem Blick. »Dir könnt man so was zutrauen!
-                     Dir!«</p>
-                  <p>»Wir zwei sind alte Spezi. Unser Freundschaft hat festen Halt. Wenn's wieder
-                     schnackeln tät bei dir, mich brauchst net fürchten. Der Franzl halt! Der
-                     versteht kein Spaß.« Immer leiser wurden Schippers Worte. »Der hat was an ihm,
-                     wie sein Vater gwesen is.«</p>
-                  <p>Eine Weile standen die beiden Aug' in Auge.</p>
-                  <p>Dann legte Schipper lachend die Hand auf Bruckners Schulter. »Du! Da droben hab
-                     ich die' Schwester troffen. Die gfallt mir. So eim Madl z'lieb wär mir net amal
-                     der Umweg über'n Pfarrer z'weit.«</p>
-                  <p>Bruckner richtete sich auf. »Dös geht aber gschwind bei dir.«</p>
-                  <p>»Ja, wie bei die guten Hirsch!«</p>
-                  <p>»Schau, dös Madl macht ja die ganzen Jager rebellisch!« höhnte der Bauer.
-                     »Gestern der ander. Und heut schon du! Da tut mir d' Wahl weh.«</p>
-                  <p>»Der ander?« fuhr es über Schippers Lippen. Dann fand er sein Schmunzeln
-                     wieder. »Den brauch ich net fürchten. Ich hab meine Gründ dafür. Jetzt gfallt
-                     mir 's Madl noch viel besser. Und wenn ich Ernst machen tät? Was könntst denn
-                     aussetzen an mir? Die schönste Stellung, neunhundert Mark, Holz und Loschie.
-                     Mein Posten tragt mir auch sonst noch was. In fünf Jahr hab ich dreitausend
-                     <pb/> Mark erspart. Und wenn der Graf amal den letzten Schnaufer tut, vergißt
-                     er mich gwiß net im Testament. So gern hat er mich. Jetzt red, Spezi! Was
-                     meinst?«</p>
-                  <p>Bruckner trat dicht vor den Jäger hin, mit brennenden Augen. »Der ander kommt
-                     mir net ins Haus. Dös hat sein Grund. Da hast recht; aber eh mir du mit deiner
-                     Hand an d' Schwester rührst, eh schlag ich dich nieder mit der Axt.«</p>
-                  <p>Schipper wurde um einen Schatten bleicher, doch er lächelte. »Geh, geh! Da
-                     möchten s' dich aber ordentlich einkasteln. Und vor so was hast an Respekt. Dös
-                     weiß ich aus Erfahrung. Und mußt halt auch a bißl an deine Kinder denken! Die
-                     brauchen den Vater. Aber ich merk, heut is dir was über's Leberl glaufen, heut
-                     is net gut diskrieren mit dir. Muß ich halt an andersmal wieder anklopfen. A
-                     bißl fester. Gelt ja?« Lachend stieg Schipper durch den Wald hinauf. Als er den
-                     Steig erreichte und sich umguckte, stand Bruckner noch immer an der gleichen
-                     Stelle, die Axt in der schlaff hängenden Hand. »Jetzt studiert er aber!«</p>
-                  <p>Es wurde dunkle Nacht, bis Schipper die erleuchteten Fensterchen der Jagdhütte
-                     zu Gesicht bekam. Auf dem Steig, ein paar Dutzend Schritt vor ihm, hörte er das
-                     Schuhgeklapper des anderen, der den Hund von der Hochalm abgeholt hatte und auf
-                     den Armen zum Palais Dippel trug.</p>
-                  <p>In der Hüttenstube klang die Zither. Sie verstummte, als Franzl die Schuhe an
-                     die Schwelle stieß. Hastig legte Graf Egge die blitzenden Edelsteine, die er zu
-                     seinem Zeitvertreib in einer Herzlinie rings um die weiße Hirnschale des
-                     Krickels gereiht hatte, in das hölzerne Kistchen zurück und verwahrte Gehörn
-                     und Steine in einem kleinen Wandschrank, der zu Häupten des Bettes in die
-                     Balken eingelassen und mit schwerem Vorhängschloß zu versperren war. Als Graf
-                     Egge den Schlüssel abzog, trat Franzl in die Stube. Sein Herr machte große
-                     Augen, als er auf den Armen des Jägers den Schweißhund mit dem verpflasterten
-                     Schlegel sah.</p>
-                  <p>»Was hat der Hund?«</p>
-                  <p>Mit kurzen Worten erzählte Franzl Wortlos nickte Graf Egge und trug den Hund
-                     zum Bett; auf seinem Gesicht war die Sorge zu lesen, die er um das Tier
-                     empfand. Nachdem er aufmerksam das Pflaster untersucht hatte, setzte er sich an
-                     die Seite des Hundes und kraute ihm Stirn und Ohren. »Hast du Wild
-                     gesehen?«</p>
-                  <p>»Wohl, Herr Graf.« Franzl zog das Notizbuch aus der Tasche <pb/> und begann
-                     seinen Rapport. Als er damit zu Ende war, tat er einen tiefen Atemzug. »Und
-                     jetzt, Herr Graf, muß ich die Gschicht von heut von der Fruh zur Sprach
-                     bringen.«</p>
-                  <p>»Warum?« Ein kaum merkliches Lächeln.</p>
-                  <p>»Aber Herr Graf! Schauen S' mir doch ins Gsicht! Man muß mir doch anmerken, was
-                     ich für an Tag hinter mir hab? Zur Hälft bin ich selber dran schuld. Es is
-                     unrecht gwesen, daß ich mich vom Gachzorn hab hinreißen lassen. Statt daß ich
-                     mich am Schipper vergreif, hätt ich mich vor mein Herrn hinstellen und ehrlich
-                     fragen sollen: ›Können Sie vom Franzl so was glauben, Herr Graf?‹«</p>
-                  <p>»Hab ich einen Verdacht gegen dich ausgesprochen?«</p>
-                  <p>»Dös is freilich wahr, aber –« Dem Jäger verschlug's die Rede, weil er hörte,
-                     daß Schipper in die Hütte trat. Mühsam hielt er seine fünf Sinne beisammen, und
-                     als er nur erst ein paar verworrene Sätze herausgestottert hatte, kam er in
-                     warmen Zug. Forschend hing Graf Egges Blick an dem Jäger, dem die Worte immer
-                     heißer von den Lippen sprudelten. Wie er zu Mali gesprochen, so redete er jetzt
-                     zu seinem Herrn, Ehrlichkeit in jeder Silbe, in jedem Laut seiner Stimme. »Herr
-                     Graf,« so schloß er, »meine Händ sind sauber. Glauben S' mir jetzt?«</p>
-                  <p>Kühl und ruhig klang die Antwort. »Ja, ich glaub dir.«</p>
-                  <p>Die Tür ging auf, aus der Küche hörte man das Krachen des Feuers, und Schipper
-                     trat ein. »Wünsch guten Abend, Herr Graf.« Er begann den Tisch für das
-                     Nachtmahl zu decken.</p>
-                  <p>Franzl strich mit der Hand übers Haar. Nun hatte er die Antwort, klar und
-                     deutlich – und doch gefiel sie ihm nicht. Er stand noch eine Weile. »No also –«
-                     sagte er, als wäre alles in Ordnung, und ging aus der Stube.</p>
-                  <p>Graf Egge sah ihm nach, und als die Tür sich geschlossen hatte, fragte er den
-                     andern: »Für wen deckst du?«</p>
-                  <p>»Für Sie, Herr Graf, und für uns.«</p>
-                  <p>»Ich esse allein.«</p>
-                  <p>Schipper machte eine Bewegung, die eine entfernte Ähnlichkeit mit einer
-                     Verbeugung hatte, legte die zwei überzähligen Löffel wieder in die Tischlade
-                     zurück und verließ die Stube.</p>
-                  <p>Draußen in der Küche saß Franzl auf dem Herd und starrte ins Feuer. Als er
-                     hinter sich den Schritt des anderen hörte, sprang er auf.</p>
-                  <p>
-                     <pb/> »Was willst?« fragte Schipper mit der Harmlosigkeit einer
-                     sechzehnjährigen Kranzjungfer.</p>
-                  <p>Es zuckte in Franzls Fäusten; doch er wandte sich ab, trat ins Freie und setzte
-                     sich auf die Hüttenbank. Sehnsüchtig guckte er zu den flimmernden Lichtern des
-                     Himmels auf, als könne er den Fall einer tröstenden Sternschnuppe erwarten. Da
-                     droben rührte sich nichts. Die Weltordnung weigerte sich, dem Hornegger-Franzl
-                     in dieser Nacht eine Gefälligkeit zu erweisen.</p>
-                  <p>Nach einer halben Stunde rief ihn Schipper zum Nachtmahl. Er trat wohl in die
-                     Küche, doch statt sich zu der von Graf Egge halb geleerten Pfanne zu setzen,
-                     stieg er über die Leiter zum Heuboden hinauf.</p>
-                  <p>Schipper zitierte schmunzelnd das Sprichwort: »Wer trutzt bei der Schüssel,
-                     schadt sich am Rüssel!« Als er die Pfanne geleert hatte, schmierte er Graf
-                     Egges Bergschuhe mit besonderer Sorgfalt. Da erschien sein Herr unter der
-                     Stubentür.</p>
-                  <p>»Du, mir scheint, dem Hirschmanndl wird d' Nasen heiß.«</p>
-                  <p>Es zuckte freudenvoll über Schippers Gesicht, als er den Dialekt dieser Worte
-                     hörte – ein sicheres Zeichen, daß sich am Gewitterhimmel seines Herrn die
-                     dunkelsten Wolken zu verziehen begannen. Geschäftig rannte Schipper in die
-                     Stube und unterzog den auf dem Bett liegenden Hund einer genauen
-                     Untersuchung.</p>
-                  <p>»Herr Graf, da können S' ruhig sein! Dem Hirschmanndl fehlt net viel. Wär net
-                     übel, wenn dös arme Hundl von der verfluchten Gschicht auch noch was haben
-                     müßt. Und weil wir schon grad reden davon, Herr Graf, da muß ich schon sagen
-                     –«</p>
-                  <p>»Halt dein Maul!« fuhr ihm Graf Egge ins Wort. »Die Kruck is da, Gott sei Dank!
-                     Aber die Gschicht is mir heut den ganzen Tag im Kopf rumgangen. Es ist die
-                     reine Unmöglichkeit, daß a fremder Mensch dem Bock die Krucken abgschlagen hat.
-                     Wenn's also kein Fremder war, so war's einer von euch zweien. Aber wer? Der
-                     Franzl is an ehrlicher Narr, ich kann ihm so was net zutrauen. War's also der
-                     Franzl net, so mußt es du gwesen sein!«</p>
-                  <p>Schipper legte gekränkt die beiden Hände auf sein redliches Herz. »Aber Herr
-                     Graf –«</p>
-                  <p>»Halt dein Maul, sag ich! Ein Gauner bist du ja! Aber ich bin dir doch gestern
-                     gleich nachgstiegen. Und heut in der Nacht kannst du doch auch net aufgstanden
-                     sein! Also, wenn du der Heilige bist, is wieder der ander der Lump. Ich kenn
-                     mich nimmer aus. Und wenn <pb/> ich scharfe Saiten aufziehen möcht, so müßt ich
-                     euch alle zwei zum Teufel jagen. Was hab ich davon? Der Franzl is ein Jager,
-                     wie ich weit und breit keinen find'. Und so wie du hat mir noch keiner meine
-                     Schuh geschmiert, so schlau wie du stellt sich keiner an, wenn's der Jagd
-                     zulieb was zu vertuscheln gibt. Was bleibt mir also übrig, als daß ich fünfe
-                     grad sein laß? Aber eins merk dir, Schipper: der erste von euch zwei, der mich
-                     ärgert – der fliegt! Ohne Gnad und Pardon!« Graf Egge griff nach seinem rechten
-                     Schienbein.</p>
-                  <p>Schipper bot den Anblick eines Märtyrers, der in der Arena steht und mit
-                     stiller Ergebung den Löwen erwartet. »Da kann ich mich nimmer verteidigen. Da
-                     bleibt mir nix übrig, als daß ich mei' Pflicht und Schuldigkeit tu und auf die
-                     Stund wart, wo der Herr Graf einsieht –«</p>
-                  <p>»Hör auf mit dem Gesäusel!« brummte Graf Egge; in Schmerz verzog er das Gesicht
-                     und hob den Fuß auf einen Sessel. »Herrgott! Herrgott!«</p>
-                  <p>»Haben S' wieder Schmerzen?« Schipper war in die verkörperte Sorge verwandelt.
-                     »Jetzt legen S' Ihnen aber gleich ins Bett!« Mit beiden Händen zog er seinem
-                     Herrn die Joppe herunter. »Morgen müssen S' wieder ordentlich beinand sein.
-                     Morgen schießen S' drei, vier Gamsböck und a paar gute Hirsch!«</p>
-                  <p>»Meinst du?«</p>
-                  <p>»Natürlich! Da sorg ich schon dafür. Aber jetzt nur gleich ins Bett!«</p>
-                  <p>Graf Egge ließ sich zur Matratze führen und trat mit dem kranken Fuß so
-                     vorsichtig auf, als wäre der Stubenboden mit Nadeln gespickt. »Teufel! Das wird
-                     mir doch um Gottes willen net bleiben! Aber macht nix, 's Jagen gib ich
-                     deswegen net auf. Wenn meine Füß nimmer mögen, laß ich mich nauf tragen zum
-                     Gamsschießen. So lang's im Aug net fehlt, is gar nix verloren!«</p>
-                  <p>Unter einem zärtlichen Wortschwall entkleidete Schipper seinen Herrn. »So,
-                     jetzt haben S' a paar Minuten Geduld, nachher komm ich mit'm Franzbranntwein
-                     und mit die warmen Tücher.« Er sprang in die Küche.</p>
-                  <p>Als er nach einer Weile seine Kur begann und das nackte Bein seines Herrn unter
-                     den Händen hatte, blickte Graf Egge zwinkernd auf ihn nieder.</p>
-                  <p>»Schipper! Ich kann vieles verstehen. Sag mir ehrlich: Hast du dem Bock die
-                     Kruck heruntergeschlagen?«</p>
-                  <p>
-                     <pb/> Ohne das Frottieren auszusetzen, fing Schipper zu lachen an. »Jetzt hören
-                     S' aber auf! So a Spaßvogel wie Sie is auf der Welt meiner Lebtag noch nie net
-                     dagwesen!«</p>
-                  <p>Graf Egge schwieg.</p>
-                  <p>Über den beiden zitterte die Stubendecke. Dort oben auf dem Heuboden wälzte
-                     Franzl sich in schlafloser Kümmernis von einer Seite auf die andere.</p>
-               </div>
-            
+
+            <div type="chapter">
+               <head>10</head>
+               <p>Graf Egge und Schipper waren schon längst in den Latschen verschwunden, und noch
+                  immer stand Franzl auf dem gleichen Fleck, totenbleich, an allen Gliedern
+                  zitternd. Verstört betrachtete er die starre Wildleiche, aus deren zerhacktem
+                  Haupt die blutumronnenen Augäpfel hervordrangen; dann hob er die Büchse vom Geröll
+                  und faßte den Bergstock. Kaum hatte er sich durch die ersten Büsche gewunden, da
+                  hörte er ein leises Winseln und fand im Schatten einer Latsche den Schweißhund,
+                  der an einer blutenden Schenkelwunde leckte. »Richtig, jetzt hat dös arme Hundl
+                  auch sein Treff dabei kriegen müssen!« Der Zorn ballte ihm die Fäuste. »Dös is ja
+                  nimmer Jagd, dös is ja Metzgerei!«</p>
+               <p>Der Hund hatte den Kopf gehoben. Franzl ließ sich nieder und wollte die Verletzung
+                  untersuchen; da schnappte der Hund nach seiner Hand, doch e biß nicht, sondern
+                  hielt nur mit den Zähnen die Finger des Jägers fest. Franzl zog die Hand nicht
+                  zurück und streichelte mit der anderen den Kopf und Nacken des Hundes. »Aber
+                  Hirschmanndl, geh, wie magst denn schnappen nach mir! Schau, Alterl, wir zwei, wir
+                  sind heut gleich schlecht wegkommen, du und ich!« Da gab Hirschmann die Hand des
+                  Jägers frei und schüttelte die Ohren. Willig ließ er an seine Wunde rühren und
+                  stieß nur, wenn die fühlenden Hände seine Schmerzen mehrten, die Nase winselnd an
+                  den Arm des Jägers. Die Wunde war tief gerissen und zog sich über den ganzen
+                  Schenkel. Mit dieser Verletzung hatte der Hund noch seine Pflicht erfüllt und das
+                  tote Wild verbellt. Zärtlich kraulte Franzl ihm die Ohren. »Ja, Hirschmanndl, hast
+                  schon recht! Man muß oft Unrecht leiden. Aber sei' Sach muß man in Ordnung machen,
+                  sonst is man um kein Granl besser als die andern!« Er nahm den Hund auf die Arme
+                  und tat ein paar Schritte, als wollte er den Weg zur Jagdhütte suchen.
+                  Kopfschüttelnd hielt <pb/> er inne. »Na! Jetzt net! Ich könnt mich net
+                  zruckhalten. Z'erst muß ich mich auslaufen, daß mir der Zorn vergeht.« Er schlug
+                  den Weg nach der eine halbe Stunde entfernten Hochalm ein.</p>
+               <p>Unter dem Gewicht des Hundes waren ihm die Arme steif geworden, als er die Hütte
+                  erreichte. In der Kammer wurde Hirschmann auf den Kreister gebettet, und die
+                  Sennerin brachte dem Jäger, was er nötig hatte, um die Wunde zu vernähen und ein
+                  Heftpflaster aufzulegen. Während Franzl schor und nähte und kleisterte, hielt die
+                  Sennerin unter endlosem Geschwatz den Kopf des Hundes fest. Zum Schluß der nicht
+                  sonderlich kunstvollen Operation wurde die Außenseite des Pflasters noch mit
+                  Pfeffer eingerieben. Das hatte seinen Zweck; denn kaum war Hirschmann aus den
+                  Händen der Sennerin erlöst, da wollte er sein gewohntes, schmerzstillendes
+                  Heilmittel versuchen und an der Wunde lecken; die Sache hatte ihre Bitternis;
+                  verdrossen schüttelte er den Kopf und schlenkerte die brennende Zunge. Das war
+                  drollig anzusehen; die Sennerin kreischte vor Vergnügen, und sogar Franzl brachte
+                  ein müdes Lächeln zuwege. Er streichelte den Hund, reichte der Sennerin die Hand
+                  und ging. Winselnd hob Hirschmann den Kopf, als er den Jäger verschwinden sah. Vor
+                  der Hütte nahm Franzl seine Büchse von der Bank und gewahrte mit Schreck den
+                  Schaden, den sie gelitten hatte, als er sie auf das Geröll geworfen. Ein echter
+                  Jäger, pflegte er seine Waffe in tadellosem Zustand zu halten. Und wie sah sie nun
+                  aus! Der polierte Schaft von splitterigen Rissen durchzogen, die sonst so
+                  spiegelblanken Läufe fleckig und zerkratzt, und von einem der beiden Hähne war der
+                  Hammer abgebrochen. »Der Hund, mein Büchsl und ich! Gut schauen wir aus alle
+                  miteinander!«</p>
+               <p>Über die offenen Almen schritt er dem Bergwald zu. Stunde um Stunde rannte er
+                  umher, von dem unklaren Wirrsal seiner Gedanken und seines Zornes erfüllt, und tat
+                  mechanisch seinen Dienst. Alle Hauptwechsel des Rotwildes besuchte er, alle
+                  Salzlecken und Suhlen, zählte die Fährten der jagdbaren Hirsche und kritzelte die
+                  Zahlen in sein Taschenbuch. Als die Sonne über Mittag stand, begann er durch den
+                  Bergwald wieder emporzusteigen gegen die kahlen Wände, um mit der Schattenzeit die
+                  Gemsreviere zu erreichen. Ehe der Wald ein Ende nahm, wollte er eine Weile rasten.
+                  Neben dem Steig, der zu den Mitterkaseralmen führte, ließ er sich auf einen vom
+                  Sturm geworfenen Baumstamm nieder. Als sein <pb/> müder Körper ruhte, suchte er
+                  auch das Gewirbel in seinem Kopf zur Ruhe zu bringen und begann die Ereignisse des
+                  verwichenen Abends und der Morgenstunden zu überdenken.</p>
+               <p>Das Ergebnis dieser Gedanken mehrte nur seine Unruhe. Er war gewiß so unschuldig
+                  wie der lichte Tag. Aber er fühlte: eine Reihe von Zufällen sprach wider ihn, und
+                  er wußte, wie mißtrauisch Graf Egge in allen Dingen war, welche die Jagd betrafen.
+                  Daß der ungerechte Verdacht seine Stellung bedrohte, daran dachte er nicht. Er
+                  fühlte nur den brennenden Makel, der auf seine Jägerehre gefallen war. Und die
+                  selten schöne Krucke wog ja auch schweres Geld – das war wie versuchter Diebstahl!
+                  Er griff sich mit beiden Händen an die glühende Stirn. »Herrgott im Himmel! Was tu
+                  ich denn?«</p>
+               <p>Wieder begann er zu grübeln. Er sagte sich: Hat Graf Egge diesen Verdacht einmal
+                  empfunden, so wird er ihn auch nicht eher wieder aufgeben, ehe nicht der Täter
+                  gefunden ist. Franzl preßte das Gesicht in die Hände. Tag um Tag nun sollte er
+                  umherlaufen mit diesem drückenden Gewicht auf seiner Brust, keinen Blick mehr
+                  sollte er zu dem Gesicht seines Herrn erheben dürfen, ohne fühlen zu müssen, daß
+                  der andere im stillen denkt: Du bist ein Dieb! Er mußte den Menschen ausfindig
+                  machen, der es getan! Aber wie? Es war ihm schon völlig unerklärlich, wann der
+                  Diebstahl begangen wurde, und weshalb das Gehörn in den Latschen hing. Die
+                  Erklärung, die Schipper so flink bei der Hand gehabt hatte, war leeres Geschwätz.
+                  – Schipper? – Schipper? – Franzl brachte seine Gedanken nicht mehr los von diesem
+                  Namen. Aber was ihm wider Willen durch die Sinne fuhr, erfüllte ihn mit Ingrimm
+                  gegen sich selbst. »Ich muß a schlechter Kerl sein, weil ich dem Kameraden
+                  zutrauen kann, was ich von mir selber abwehren will.«</p>
+               <p>Schon wollte er sich erheben, als von rückwärts zwei warme Hände seine Augen
+                  umschlossen. Franzl meinte, das könnte nur die Sennerin vom Mitterkaser sein, doch
+                  er war nicht aufgelegt zum Raten. Unwillig befreite er seinen Kopf. Als er die
+                  Augen hob, versagte ihm vor freudigem Schreck beinah die Stimme.</p>
+               <p>»Mali!«</p>
+               <p>Lachend ließ das Mädel sich neben dem Jäger nieder. »Gelt! Da schaust?«</p>
+               <p>Er wußte sich kaum zu fassen. »Wie kommst denn du auf amal daher?«</p>
+               <p>
+                  <pb/> »Vom Mitterkaser komm ich.« Sie zog das weiße Tuch vom Kopf, das sie zum
+                  Schutz gegen die Sonne umgebunden hatte. »Heut in der Fruh – mein Bruder is schon
+                  fort gwesen in der Holzarbeit, gar net weit da drunten hat er sein Schlag – heut
+                  in der Fruh kommt unser alte Nachbarin ummi zu mir und jammert, sie hätt ghört,
+                  daß ihr Madl im Mitterkaser droben verkrankt wär.«</p>
+               <p>»D' Sennerin?«</p>
+               <p>»Ja. Und d' Nachbarin is ganz ausanand gwesen vor lauter Sorg. Hab ich halt gsagt:
+                  Tu mir aufpassen auf meine Kinder, so spring ich nauf und bring dir Botschaft.«
+                  Mali lachte. »'s Madl is schon wieder kreuzfidel. A paar Tag hat's Magenweh ghabt.
+                  Ich glaub, sie hat am letzten Fasttag z'viel Schmelznudeln verschluckt.«</p>
+               <p>»Unser Herrgott soll ihr die nächste Schüssel gut anschlagen lassen! Dös hat d'
+                  Sennerin verdient um mich. Lieber hättst mir in keiner Stund in Weg laufen können
+                  als heut. Da muß sich der Herrgott rein denkt haben: Heut braucht er an
+                  Trost!«</p>
+               <p>Schon der Klang seiner Stimme hatte sie befremdet, und als sie sah, wie blaß er
+                  war, erschrak sie. »Ums Himmels willen, was is denn?«</p>
+               <p>Er atmete schwer. »So Sachen halt, weißt – ich kann net reden davon.«</p>
+               <p>»Ah, da schau!« Energisch faßte Mali seinen Arm. »Ein' z'erst erschrecken bis in
+                  d' Seel und nachher den Heimlichen spielen! Ich bin dei' alte Kamerädin. Jetzt
+                  redst auf der Stell!«</p>
+               <p>Franzl schüttelte den Kopf.</p>
+               <p>»Paß auf, Franzl!« Mali schob ihren Arm unter den seinen. »Bsinnst dich noch auf
+                  den selbigen Tag, wo wir als Kinder miteinand gut Freund worden sind? Weißt es
+                  nimmer, wie ich hinter der Hecken gsessen bin und gweint hab? Und wie mir d'
+                  Handln niederzogen hast, und ich hab's kaum rausbracht, daß mir der Nachbarbub
+                  mein Dockerl Puppe. genommen und die Zöpf halb ausgrissen hat. Kein Wörtl hast
+                  gsagt und bist davon. Und bist neben meiner wieder aussigschloffen aus der Hecken,
+                  's Gwand zerrissen und käsweiß im Gsicht. Und mein Dockerl hast in der Hand
+                  ghalten und <pb/> hast mich anglacht: ›Du! Den hab ich fest verdroschen!‹
+                  Freilich, 's Dockerl hat kein Kopf nimmer ghabt.«</p>
+               <p>Franzl nickte. »Den hat er abigrissen in der Wut, wie er gmerkt hat, daß er die
+                  Docken wieder hergeben muß!«</p>
+               <p>»Und weißt noch, wie dich hingsetzt hast neben meiner? Und daß ich nimmer weinen
+                  soll, hast den ganzen Sack voll Haselnussen vor mir ausgleert. Und alle harten
+                  hast mir aufbissen.« Herzlich rüttelte Mali seinen Arm. »Und schau, heut hab ich
+                  dich hinter der Hecken gfunden. Sei gscheit und sag mir alles! Und wenn's von alle
+                  Nussen die härteste wär – Franzl, ich hilf dir beißen.«</p>
+               <p>Da konnte er nimmer schweigen. Mit jagenden Worten begann er die Geschichte der
+                  verwichenen Stunden zu erzählen. Er schalt und jammerte nicht. Aber die Kränkung,
+                  die er an seiner Ehre erfahren, redete aus seinen Augen. Schweigend lauschte Mali.
+                  Als er erzählte, wie Schipper den Verdacht gegen ihn ausgesprochen, fuhr es ihr in
+                  Zorn heraus: »So was von Kamerad! Respekt! Und Schipper heißt er?« Sie grübelte
+                  vor sich hin, als würde eine Erinnerung in ihr lebendig. »Schipper? Is dös a
+                  Verwandter vom selbigen Schipper, der früher Holzknecht gwesen is?«</p>
+               <p>»Es is der nämliche.«</p>
+               <p>»Und der is Jager jetzt? – No, da dank ich! Da hast an noblen Kameraden! Ganz gut
+                  bsinn ich mich drauf, daß der Vater selig allweil schelten hat müssen auf'n
+                  Bruder, weil er Freundschaft mit'm Schipper ghalten hat, der ihn zu alle
+                  Lumpereien hätt verführen mögen. Wenn der deinige der nämlich is, nachher glaub
+                  ich schon gleich, daß er die Krucken selber gstohlen hat.«</p>
+               <p>Franzl wehrte erschrocken: »Na, Mali, so was därfst net sagen!«</p>
+               <p>»Sei's, wie's mag. Du bist unschuldig. Und so an Verdacht darfst net auf dir
+                  sitzen lassen!« Malis Augen blitzten. »Da brauchst den Gauner net erst ausfindig
+                  machen. Wer Augen hat wie du, braucht kein andern Beweis als sein ehrlichs Gsicht!
+                  Jetzt machst in Ordnung dein Dienst. Und auf'n Abend stellst dich hin vor dein
+                  Grafen und sagst ihm alles ins Gsicht, gradso, wie du's mir gsagt hast, und
+                  gradso, wie mich, so schaust ihn an mit deine Augen. Da muß er dir glauben. Und
+                  jetzt halt dich nimmer auf! Und meintwegen sollst nix versäumen im Dienst.« Sie
+                  hob die Büchse hinter dem Baum hervor und reichte sie dem Jäger. »Da hast dei'
+                  Kugelspritzen! Was wir gredt haben, bleibt unter uns. Und jetz mach weiter! Bhüt
+                  dich Gott!«</p>
+               <p>
+                  <pb/> Mit der Büchse hatte Franzl auch Malis Hand gefaßt. »Ganz aufgricht hast
+                  mich wieder. Vergeltsgott tausendmal!«</p>
+               <p>Die Hände der beiden lagen eine Weile ineinander. Dann fragte da Mädel: »Du,
+                  Franzl?«</p>
+               <p>»Was?«</p>
+               <p>»Hast vielleicht du mit meim Bruder auch was ghabt? An Streit oder so was?«</p>
+               <p>»Ich? Gott bewahr! Warum fragst denn?«</p>
+               <p>Sie schien verlegen zu werden. »No weißt, weil er gestern so ungut zu dir gwesen
+                  is.«</p>
+               <p>»Haben halt d' Sorgen aus ihm rausgredt. Was macht denn 's Netterl?«</p>
+               <p>»D' Nacht heut is gut gwesen. Mit Gotteshilf wird sich 's Kindl doch wieder in d'
+                  Höh machen. Grad recht, daß d' mich dran mahnen tust. Jetzt fang ich aber 's
+                  Hupfen an.« Lachend nickte sie dem Jäger zu, und dann hetzte sie flink über den
+                  Steig hinunter.</p>
+               <p>Franzl sah ihr nach, bis sie verschwunden war. Dann spähte er durch die leis
+                  rauschenden Wipfel, als möchte er am Himmel die Stelle suchen, an der in der Nacht
+                  die Sternschnuppe erloschen war.</p>
+               <p>»Lichtl da droben, du hast net glogen!«</p>
+               <p>Er stieg durch den Wald hinauf und erreichte die offenen Almen. Fern am Waldsaum,
+                  in der Tiefe der Almfelder, gewahrte Franzl zwei Männer; er meinte einen
+                  Büchsenlauf blinken zu sehen und zog das Fernrohr auf.</p>
+               <p>Schipper war es – mit einem Treiber, der den von Graf Egge am verwichenen Abend
+                  erbeuteten Gemsbock auf dem Rücken trug.</p>
+               <p>Kurze Zeit, nachdem der Graf mit seinem Büchsenspanner die Jagdhütte erreicht
+                  hatte, waren die von Franzl bestellten Treiber eingetroffen. Graf Egge kümmerte
+                  sich nicht um ihre Ankunft. Er wanderte in der Stube zwischen den engen Wänden auf
+                  und nieder und rastete nur zuweilen für einige Minuten, um unter grübelnden
+                  Gedanken das Krickel, das mit der blutigen Hirnschale auf dem Tisch lag, zu
+                  betrachten, oder um den rechten Fuß auf einen Stuhl zu heben und mit beiden Händen
+                  das schmerzende Bein zu frottieren. Als Schipper die Tür öffnete, um nach den
+                  Befehlen seines Herrn zu fragen, schrie ihn Graf Egge an: »Ruh will ich haben!«
+                  Mit einem Fußtritt schlug er dem Jäger die Tür vor der Nase zu.</p>
+               <p>Wartend, unter leisem Geplauder, saßen die Männer vor der <pb/> Hütte, während
+                  Schipper in der Küche die Gewehre putzte. Nach zwei Stunden rief Graf Egge den
+                  Rottmeister der Treiber in die Stube: »Heute wird nicht mehr gejagt. Einer von
+                  euch tragt den Bock, der draußen hängt, nach Hubertus hinunter, die andern sollen
+                  machen, was sie wollen. Morgen früh um fünf Uhr seid ihr bei der Hütte.« Er trat
+                  zur Tür. »Schipper! Du machst deinen Dienst! Und das Gams unter der Wand da drüben
+                  soll fort!« Ein Augenzwinkern des Grafen schickte den Rottmeister zur Stube
+                  hinaus. Dann krachte die Tür ins Schloß.</p>
+               <p>Mit langem Gesicht stand der Mann in der Küche und fragte flüsternd: »Was hat er
+                  denn heut?«</p>
+               <p>»Geht's dich was an?« knurrte Schipper und zeigte ein Gesicht, als hätte er Galle
+                  auf der Zunge. Einige Minuten später war er wegfertig und wanderte mit den Männern
+                  über das Latschenfeld gegen die Wände.</p>
+               <p>Graf Egge stand am Fenster und sah ihnen nach, bis sie verschwunden waren. Dann
+                  ging er in die Küche und schürte Feuer an, um die Hirnschale des Krickels
+                  auszukochen. Eine volle Stunde saß er auf dem Herdrand und wandte keinen Blick von
+                  dem sprudelnden Wasser, aus dem die schwarzen Haken des Gehörns hervorragten. Als
+                  sich die Stirnhaut von den Knochen gelöst hatte, schabte er mit geduldiger
+                  Sorgfalt die letzte Muskelfaser von dem weißen Bein und trug das Krickel in die
+                  Sonne, damit die Schale trocknen und bleichen möchte. Die Hände im Schoß, saß er
+                  neben dem Gehörn auf der sonnigen Hüttenbank und musterte immer wieder mit
+                  zärtlich-stolzen Augen die schöne Trophäe. Es währte eine halbe Stunde, bis in der
+                  heißen Sonne die letzte Spur von Feuchtigkeit an der bleichen Hirnschale
+                  verdunstet war. Graf Egge trug das Krickel in die Stube, holte Feder und Tinte zum
+                  Tisch und malte in zierlicher Schrift das Datum der Jagd, die ihm die seltene
+                  Beute beschert hatte, auf das weiße Bein. Während er über die nassen Schriftzüge
+                  blies, um sie rascher trocknen zu machen, betrat ein alter Mann mit untertänigen
+                  Verbeugungen und halb atemlos die Stube – der Postbote. Es war ihm anzumerken, daß
+                  er den weiten, mühseligen Weg vom Dorf herauf mit manchem Seufzer begleitet hatte.
+                  Die Sendung, die er brachte, hatte ihn wohl mit ihrem Gewicht nicht gedrückt, und
+                  dennoch atmete er erleichtert auf, als er das winzige, mit vierzehntausend Mark
+                  bewertete Kistchen in Graf Egges Hände legte.</p>
+               <p>
+                  <pb/> »Setz dich! Ich will in deiner Gegenwart nachsehen, ob alles in Ordnung
+                  ist.«</p>
+               <p>Graf Egge zog das Messer aus der Lederhose und sprengte den kleinen Holzdeckel.
+                  Eine in Watte gehüllte Schachtel kam zum Vorschein, und als Graf Egge sie öffnete,
+                  flammten seine Augen in Freude. Auf einem mit schwarzem Samt überzogenen Brettchen
+                  waren, in vier Reihen übereinander, ungefaßte, in absonderlichen Formen
+                  geschliffene Saphire und Rubinen mit feinen Silberdrähten angeheftet. Durch das
+                  Fenster fiel die Sonne auf die Steine, und das funkelte und gleißte in schönen
+                  Farben. Der Juwelier schien den Geschmack seines Kunden getroffen zu haben.
+                  Zufrieden musterte Graf Egge die Sendung. Rasch überflog er den Begleitbrief und
+                  zählte die Steine mit tippendem Finger. »Stimmt!« Er unterschrieb den Postschein
+                  und reichte ihn dem Boten. »Alles in Ordnung.«</p>
+               <p>Der Alte erhob sich. »Bhüt Ihnen Gott, Herr Graf!« Bei der Tür blieb er zögernd
+                  stehen, als wäre die Sache für ihn noch nicht erledigt. Graf Egge hatte sich schon
+                  wieder in die Betrachtung der Steine vertieft. »Ich bitt, Herr Graf,« fragte der
+                  Alte kleinlaut, »haben S' kein Auftrag nunter? Oder sonst was?«</p>
+               <p>Ohne aufzublicken, schüttelte Graf Egge den Kopf.</p>
+               <p>Verdrossen schlich der Alte davon. Vor der Hütte blieb er stehen und schielte nach
+                  dem Stubenfenster. »Fünf Stund bis da rauf! Da wären a paar Maß Bier net z'viel
+                  gwesen!«</p>
+               <p>Als er das Almfeld erreichte, wurde er von Schipper und dem Treiber überholt, der
+                  auf dem Rücken den Bock und in der Hand ein blutfleckiges Bündel trug, das seinen
+                  Anteil an der unter die Treiber verteilten Gemse enthielt. Der alte Postbote
+                  vermochte mit den beiden nicht Schritt zu halten und blieb zurück.</p>
+               <p>Am Saum des Bergwaldes – hier hatte Franzl aus weiter Ferne das Paar beobachtet –
+                  trennte sich Schipper von seinem Begleiter.</p>
+               <p>»So! Und vergiß die Botschaft an Moser net. Er soll die Unterhos für'n Grafen
+                  gleich kaufen und soll dir s' mitgeben.«</p>
+               <p>Der Mann folgte dem Steig, und Schipper wandte sich seitwärts in den Wald; als er
+                  allein war, knirschte er einen Fluch durch die Zähne.</p>
+               <p>Auf einem stark begangenen Wildwechsel fand er die frische Spur eines genagelten
+                  Schuhes. »Da is er gwesen!« murmelte Schipper und spie auf die Fährte. Nun folgte
+                  er dem Wege, den Franzl genommen <pb/> hatte; die stille Hoffnung, die ihn dabei
+                  leitete, erfüllte sich nicht; er kam zu keiner Salzlecke, bei der die Spur jenes
+                  anderen Fußes fehlte.</p>
+               <p>»Wie gnau er heut sein Dienst gmacht hat! Als hätt er schmecken können, daß ich
+                  ihm nachsteig!«</p>
+               <p>Bald erreichte er den zum Mitterkaser führenden Pfad und sah neben einem
+                  gestürzten Baum ein weißes Kopftuch auf der Erde liegen. Er hob es auf, und
+                  während er das Tuch noch in der Hand hatte, klangen Schritte auf dem tieferen
+                  Steig.</p>
+               <p>Mali erschien, mit den Augen suchend. Als sie den Jäger sah, blieb sie betroffen
+                  stehen; kaum gewahrte sie den Fund in Schippers Hand, da sprang sie auf ihn zu und
+                  entriß ihm das Tuch. »Her damit! Dös Tüchl ghört mein!«</p>
+               <p>»Oho! Bei dir geht's aber gschwind!« Zwinkernd betrachtete Schipper das Mädel. Das
+                  Ergebnis dieser Musterung schien ihm zu behagen. »Wer bist denn du? Dich kenn ich
+                  ja gar net.«</p>
+               <p>»Wenn dich d' Neugier gar so plagt, ich bin die Bruckner-Mali.«</p>
+               <p>»Waaas? Die Mali? Ah, da legst dich nieder! Seit wann bist denn du wieder
+                  daheim?«</p>
+               <p>Die Frage überhörend, ließ Mali die Augen mit einem nicht sehr freundlichen Blick
+                  über die Gestalt des Jägers gleiten. Sie verzog den Mund. »Du mußt der Schipper
+                  sein?«</p>
+               <p>»Freut mich, daß d' mich wiederkennst. Und gut hat dir der Aufenthalt bei der
+                  Schwester angschlagen. Bist allweil a saubers Kind gwesen. Als Madl bist noch
+                  säuberer worden.«</p>
+               <p>Mali lachte. »Ui jegerl! Komplimenten macht er! Die muß ich dir schon zruckgeben.
+                  Du bist schon selbigsmal a schiecher Kerl gwesen. Jetzt schaust noch grauslicher
+                  aus!« Ohne Gruß ging sie davon.</p>
+               <p>Schipper wußte nicht recht, sollte er lachen oder sich ärgern. Er entschloß sich
+                  für das erstere, und je länger er der Davonschreitenden nachblickte, desto
+                  freundlicher wurden seine Augen wieder. »Die is grob. Aber verteufelt sauber. Hat
+                  Holz am Ofen. Für dös Madl könnt ich Dummheiten machen!« Mali verschwand in der
+                  Tiefe des Steiges. Und Schipper kalkulierte unter dünnem Lächeln: »Dem Bruckner
+                  sei' Schwester? Dös trifft sich net schlecht. Mit'm Bruckner könnt man a Wörtl
+                  reden.« Während er weiterschritt, drehte er noch einmal das Gesicht und blickte
+                  schmunzelnd über den Pfad. Durch den Wald herauf hörte er Malis Bergstock
+                  klirren.</p>
+               <p>Sie hatte Eile. Häufig kürzte sie die Wendungen des Pfades <pb/> und nahm ihren
+                  Weg in gerader Richtung talwärts durch den Wald. Als sie das tiefere Gehölz
+                  erreichte, hörte sie über den Berghang her den Hall wuchtiger Axtschläge. Da
+                  drüben arbeitete ihr Bruder. Unschlüssig blieb Mali stehen. Am Morgen hatte sie
+                  den Bruder aufgesucht und ihm versprochen, auf dem Rückweg wiederzukommen. Aber
+                  sie hatte viel Zeit verloren – und das kleine Netterl, meinte sie, würde schon mit
+                  Schmerzen auf sie warten. Die eigentliche Ursache, weshalb sie jetzt, nach der
+                  Begegnung mit Franzl, dem Bruder nicht gern gegenübertrat, wollte sie sich selbst
+                  nicht eingestehen. Damit er wüßte, daß sie bereits auf dem Heimweg wäre, höhlte
+                  sie die Hände um den Mund und schickte einen langgezogenen Ruf in den Wald.</p>
+               <p>Die Axtschläge verstummten, und Bruckner gab Antwort; er hatte die Bedeutung des
+                  Rufes verstanden. Während Mali davoneilte, klangen wieder die Beilhiebe, und es
+                  hallte das Krachen eines stürzenden Baumes durch den weiten Bergwald.</p>
+               <p>Bruckner arbeitete, bis der Abend zu dämmern begann; dann machte auch er sich auf
+                  den Heimweg. Die Joppe um die Schultern tragend, die Axt mit dem Eisen in die
+                  Armbeuge eingehenkt, wanderte er zwischen den Bäumen. Der weiche Moosgrund dämpfte
+                  den Hall seiner Schritte.</p>
+               <p>Plötzlich stand er wie angewurzelt. Er hatte einen Hirsch gewahrt, der aus der
+                  Tiefe des Waldes emporgestiegen kam und die Almen suchte. Bruckners Hände begannen
+                  zu zittern, während er, an einen Baum gedrückt, mit funkelnden Augen jede Bewegung
+                  des Wildes verfolgte. Der Hirsch merkte die Nähe des Menschen nicht und zog in
+                  sorgloser Ruhe zwischen den Bäumen aufwärts, bald hier ein Kraut, bald dort ein
+                  paar Gräser von der Erde zupfend. Weißblinkend hoben sich die Spitzen des
+                  stattlichen Kronengeweihs vom finsteren Grün des abendlichen Waldes ab. Immer
+                  näher kam der Hirsch dem Baum, hinter welchem Bruckner stand; der Bauer faßte mit
+                  langsam gleitender Hand den Stiel der Axt. Nun stand das Wild vor ihm, kaum zehn
+                  Schritt weit. In jähem Schwung holte Bruckner mit der Axt zum Wurf aus. Ehe das
+                  Beil noch flog, machte der Hirsch erschrocken einen Satz und äugte gegen den
+                  höheren Waldhang; das währte nur einen Augenblick, und in sausender Flucht
+                  verschwand er zwischen dem Gewirr der Stämme, während die Beilschneide hallend in
+                  eine Fichte schlug.</p>
+               <p>Bruckner keuchte. »Allweil packt's mich wieder!« Er hob die <pb/> Joppe auf, die
+                  ihm von den Schultern geglitten war, und ging zu der Fichte, um das Beil aus dem
+                  Holz zu reißen. Da hörte er hinter sich ein leises Lachen. Er wandte das Gesicht,
+                  und kalkige Blässe rann über seine Stirn, als er den Jäger erkannte.</p>
+               <p>Langsam, immer lachend, kam Schipper näher. »Du? Was machst denn da?«</p>
+               <p>Bruckner zog schweigend die Joppe an.</p>
+               <p>»Ja, Lenzi! A harts Stückl: so an Prügelhirsch anschauen müssen und kein Büchsl
+                  net haben? Mit der Axt macht sich so was schlecht. Seit wann hat dich denn der
+                  Wildteufel wieder beim Krawattl?«</p>
+               <p>Bruckner nahm die Axt in den Arm; seine Stimme klang heiser. »'s ganze Blut in mir
+                  drin wird rebellisch, so oft mir a Stückl Wild über'n Weg lauft. Aber mein Schwur
+                  hab ich ghalten bis zum heutigen Tag.«</p>
+               <p>»Ja, ja, ich glaub dir schon!« Schipper schmunzelte. »Und wenn's drauf ankäm – so
+                  weit die Gschicht mich angeht, ich tät vielleicht reden lassen mit mir.«</p>
+               <p>Der Bauer maß den Jäger mit hartem Blick. »Dir könnt man so was zutrauen!
+                  Dir!«</p>
+               <p>»Wir zwei sind alte Spezi. Unser Freundschaft hat festen Halt. Wenn's wieder
+                  schnackeln tät bei dir, mich brauchst net fürchten. Der Franzl halt! Der versteht
+                  kein Spaß.« Immer leiser wurden Schippers Worte. »Der hat was an ihm, wie sein
+                  Vater gwesen is.«</p>
+               <p>Eine Weile standen die beiden Aug' in Auge.</p>
+               <p>Dann legte Schipper lachend die Hand auf Bruckners Schulter. »Du! Da droben hab
+                  ich die' Schwester troffen. Die gfallt mir. So eim Madl z'lieb wär mir net amal
+                  der Umweg über'n Pfarrer z'weit.«</p>
+               <p>Bruckner richtete sich auf. »Dös geht aber gschwind bei dir.«</p>
+               <p>»Ja, wie bei die guten Hirsch!«</p>
+               <p>»Schau, dös Madl macht ja die ganzen Jager rebellisch!« höhnte der Bauer. »Gestern
+                  der ander. Und heut schon du! Da tut mir d' Wahl weh.«</p>
+               <p>»Der ander?« fuhr es über Schippers Lippen. Dann fand er sein Schmunzeln wieder.
+                  »Den brauch ich net fürchten. Ich hab meine Gründ dafür. Jetzt gfallt mir 's Madl
+                  noch viel besser. Und wenn ich Ernst machen tät? Was könntst denn aussetzen an
+                  mir? Die schönste Stellung, neunhundert Mark, Holz und Loschie. Mein Posten tragt
+                  mir auch sonst noch was. In fünf Jahr hab ich dreitausend <pb/> Mark erspart. Und
+                  wenn der Graf amal den letzten Schnaufer tut, vergißt er mich gwiß net im
+                  Testament. So gern hat er mich. Jetzt red, Spezi! Was meinst?«</p>
+               <p>Bruckner trat dicht vor den Jäger hin, mit brennenden Augen. »Der ander kommt mir
+                  net ins Haus. Dös hat sein Grund. Da hast recht; aber eh mir du mit deiner Hand an
+                  d' Schwester rührst, eh schlag ich dich nieder mit der Axt.«</p>
+               <p>Schipper wurde um einen Schatten bleicher, doch er lächelte. »Geh, geh! Da möchten
+                  s' dich aber ordentlich einkasteln. Und vor so was hast an Respekt. Dös weiß ich
+                  aus Erfahrung. Und mußt halt auch a bißl an deine Kinder denken! Die brauchen den
+                  Vater. Aber ich merk, heut is dir was über's Leberl glaufen, heut is net gut
+                  diskrieren mit dir. Muß ich halt an andersmal wieder anklopfen. A bißl fester.
+                  Gelt ja?« Lachend stieg Schipper durch den Wald hinauf. Als er den Steig erreichte
+                  und sich umguckte, stand Bruckner noch immer an der gleichen Stelle, die Axt in
+                  der schlaff hängenden Hand. »Jetzt studiert er aber!«</p>
+               <p>Es wurde dunkle Nacht, bis Schipper die erleuchteten Fensterchen der Jagdhütte zu
+                  Gesicht bekam. Auf dem Steig, ein paar Dutzend Schritt vor ihm, hörte er das
+                  Schuhgeklapper des anderen, der den Hund von der Hochalm abgeholt hatte und auf
+                  den Armen zum Palais Dippel trug.</p>
+               <p>In der Hüttenstube klang die Zither. Sie verstummte, als Franzl die Schuhe an die
+                  Schwelle stieß. Hastig legte Graf Egge die blitzenden Edelsteine, die er zu seinem
+                  Zeitvertreib in einer Herzlinie rings um die weiße Hirnschale des Krickels gereiht
+                  hatte, in das hölzerne Kistchen zurück und verwahrte Gehörn und Steine in einem
+                  kleinen Wandschrank, der zu Häupten des Bettes in die Balken eingelassen und mit
+                  schwerem Vorhängschloß zu versperren war. Als Graf Egge den Schlüssel abzog, trat
+                  Franzl in die Stube. Sein Herr machte große Augen, als er auf den Armen des Jägers
+                  den Schweißhund mit dem verpflasterten Schlegel sah.</p>
+               <p>»Was hat der Hund?«</p>
+               <p>Mit kurzen Worten erzählte Franzl Wortlos nickte Graf Egge und trug den Hund zum
+                  Bett; auf seinem Gesicht war die Sorge zu lesen, die er um das Tier empfand.
+                  Nachdem er aufmerksam das Pflaster untersucht hatte, setzte er sich an die Seite
+                  des Hundes und kraute ihm Stirn und Ohren. »Hast du Wild gesehen?«</p>
+               <p>»Wohl, Herr Graf.« Franzl zog das Notizbuch aus der Tasche <pb/> und begann seinen
+                  Rapport. Als er damit zu Ende war, tat er einen tiefen Atemzug. »Und jetzt, Herr
+                  Graf, muß ich die Gschicht von heut von der Fruh zur Sprach bringen.«</p>
+               <p>»Warum?« Ein kaum merkliches Lächeln.</p>
+               <p>»Aber Herr Graf! Schauen S' mir doch ins Gsicht! Man muß mir doch anmerken, was
+                  ich für an Tag hinter mir hab? Zur Hälft bin ich selber dran schuld. Es is unrecht
+                  gwesen, daß ich mich vom Gachzorn hab hinreißen lassen. Statt daß ich mich am
+                  Schipper vergreif, hätt ich mich vor mein Herrn hinstellen und ehrlich fragen
+                  sollen: ›Können Sie vom Franzl so was glauben, Herr Graf?‹«</p>
+               <p>»Hab ich einen Verdacht gegen dich ausgesprochen?«</p>
+               <p>»Dös is freilich wahr, aber –« Dem Jäger verschlug's die Rede, weil er hörte, daß
+                  Schipper in die Hütte trat. Mühsam hielt er seine fünf Sinne beisammen, und als er
+                  nur erst ein paar verworrene Sätze herausgestottert hatte, kam er in warmen Zug.
+                  Forschend hing Graf Egges Blick an dem Jäger, dem die Worte immer heißer von den
+                  Lippen sprudelten. Wie er zu Mali gesprochen, so redete er jetzt zu seinem Herrn,
+                  Ehrlichkeit in jeder Silbe, in jedem Laut seiner Stimme. »Herr Graf,« so schloß
+                  er, »meine Händ sind sauber. Glauben S' mir jetzt?«</p>
+               <p>Kühl und ruhig klang die Antwort. »Ja, ich glaub dir.«</p>
+               <p>Die Tür ging auf, aus der Küche hörte man das Krachen des Feuers, und Schipper
+                  trat ein. »Wünsch guten Abend, Herr Graf.« Er begann den Tisch für das Nachtmahl
+                  zu decken.</p>
+               <p>Franzl strich mit der Hand übers Haar. Nun hatte er die Antwort, klar und deutlich
+                  – und doch gefiel sie ihm nicht. Er stand noch eine Weile. »No also –« sagte er,
+                  als wäre alles in Ordnung, und ging aus der Stube.</p>
+               <p>Graf Egge sah ihm nach, und als die Tür sich geschlossen hatte, fragte er den
+                  andern: »Für wen deckst du?«</p>
+               <p>»Für Sie, Herr Graf, und für uns.«</p>
+               <p>»Ich esse allein.«</p>
+               <p>Schipper machte eine Bewegung, die eine entfernte Ähnlichkeit mit einer Verbeugung
+                  hatte, legte die zwei überzähligen Löffel wieder in die Tischlade zurück und
+                  verließ die Stube.</p>
+               <p>Draußen in der Küche saß Franzl auf dem Herd und starrte ins Feuer. Als er hinter
+                  sich den Schritt des anderen hörte, sprang er auf.</p>
+               <p>
+                  <pb/> »Was willst?« fragte Schipper mit der Harmlosigkeit einer sechzehnjährigen
+                  Kranzjungfer.</p>
+               <p>Es zuckte in Franzls Fäusten; doch er wandte sich ab, trat ins Freie und setzte
+                  sich auf die Hüttenbank. Sehnsüchtig guckte er zu den flimmernden Lichtern des
+                  Himmels auf, als könne er den Fall einer tröstenden Sternschnuppe erwarten. Da
+                  droben rührte sich nichts. Die Weltordnung weigerte sich, dem Hornegger-Franzl in
+                  dieser Nacht eine Gefälligkeit zu erweisen.</p>
+               <p>Nach einer halben Stunde rief ihn Schipper zum Nachtmahl. Er trat wohl in die
+                  Küche, doch statt sich zu der von Graf Egge halb geleerten Pfanne zu setzen, stieg
+                  er über die Leiter zum Heuboden hinauf.</p>
+               <p>Schipper zitierte schmunzelnd das Sprichwort: »Wer trutzt bei der Schüssel, schadt
+                  sich am Rüssel!« Als er die Pfanne geleert hatte, schmierte er Graf Egges
+                  Bergschuhe mit besonderer Sorgfalt. Da erschien sein Herr unter der Stubentür.</p>
+               <p>»Du, mir scheint, dem Hirschmanndl wird d' Nasen heiß.«</p>
+               <p>Es zuckte freudenvoll über Schippers Gesicht, als er den Dialekt dieser Worte
+                  hörte – ein sicheres Zeichen, daß sich am Gewitterhimmel seines Herrn die
+                  dunkelsten Wolken zu verziehen begannen. Geschäftig rannte Schipper in die Stube
+                  und unterzog den auf dem Bett liegenden Hund einer genauen Untersuchung.</p>
+               <p>»Herr Graf, da können S' ruhig sein! Dem Hirschmanndl fehlt net viel. Wär net
+                  übel, wenn dös arme Hundl von der verfluchten Gschicht auch noch was haben müßt.
+                  Und weil wir schon grad reden davon, Herr Graf, da muß ich schon sagen –«</p>
+               <p>»Halt dein Maul!« fuhr ihm Graf Egge ins Wort. »Die Kruck is da, Gott sei Dank!
+                  Aber die Gschicht is mir heut den ganzen Tag im Kopf rumgangen. Es ist die reine
+                  Unmöglichkeit, daß a fremder Mensch dem Bock die Krucken abgschlagen hat. Wenn's
+                  also kein Fremder war, so war's einer von euch zweien. Aber wer? Der Franzl is an
+                  ehrlicher Narr, ich kann ihm so was net zutrauen. War's also der Franzl net, so
+                  mußt es du gwesen sein!«</p>
+               <p>Schipper legte gekränkt die beiden Hände auf sein redliches Herz. »Aber Herr Graf
+                  –«</p>
+               <p>»Halt dein Maul, sag ich! Ein Gauner bist du ja! Aber ich bin dir doch gestern
+                  gleich nachgstiegen. Und heut in der Nacht kannst du doch auch net aufgstanden
+                  sein! Also, wenn du der Heilige bist, is wieder der ander der Lump. Ich kenn mich
+                  nimmer aus. Und wenn <pb/> ich scharfe Saiten aufziehen möcht, so müßt ich euch
+                  alle zwei zum Teufel jagen. Was hab ich davon? Der Franzl is ein Jager, wie ich
+                  weit und breit keinen find'. Und so wie du hat mir noch keiner meine Schuh
+                  geschmiert, so schlau wie du stellt sich keiner an, wenn's der Jagd zulieb was zu
+                  vertuscheln gibt. Was bleibt mir also übrig, als daß ich fünfe grad sein laß? Aber
+                  eins merk dir, Schipper: der erste von euch zwei, der mich ärgert – der fliegt!
+                  Ohne Gnad und Pardon!« Graf Egge griff nach seinem rechten Schienbein.</p>
+               <p>Schipper bot den Anblick eines Märtyrers, der in der Arena steht und mit stiller
+                  Ergebung den Löwen erwartet. »Da kann ich mich nimmer verteidigen. Da bleibt mir
+                  nix übrig, als daß ich mei' Pflicht und Schuldigkeit tu und auf die Stund wart, wo
+                  der Herr Graf einsieht –«</p>
+               <p>»Hör auf mit dem Gesäusel!« brummte Graf Egge; in Schmerz verzog er das Gesicht
+                  und hob den Fuß auf einen Sessel. »Herrgott! Herrgott!«</p>
+               <p>»Haben S' wieder Schmerzen?« Schipper war in die verkörperte Sorge verwandelt.
+                  »Jetzt legen S' Ihnen aber gleich ins Bett!« Mit beiden Händen zog er seinem Herrn
+                  die Joppe herunter. »Morgen müssen S' wieder ordentlich beinand sein. Morgen
+                  schießen S' drei, vier Gamsböck und a paar gute Hirsch!«</p>
+               <p>»Meinst du?«</p>
+               <p>»Natürlich! Da sorg ich schon dafür. Aber jetzt nur gleich ins Bett!«</p>
+               <p>Graf Egge ließ sich zur Matratze führen und trat mit dem kranken Fuß so vorsichtig
+                  auf, als wäre der Stubenboden mit Nadeln gespickt. »Teufel! Das wird mir doch um
+                  Gottes willen net bleiben! Aber macht nix, 's Jagen gib ich deswegen net auf. Wenn
+                  meine Füß nimmer mögen, laß ich mich nauf tragen zum Gamsschießen. So lang's im
+                  Aug net fehlt, is gar nix verloren!«</p>
+               <p>Unter einem zärtlichen Wortschwall entkleidete Schipper seinen Herrn. »So, jetzt
+                  haben S' a paar Minuten Geduld, nachher komm ich mit'm Franzbranntwein und mit die
+                  warmen Tücher.« Er sprang in die Küche.</p>
+               <p>Als er nach einer Weile seine Kur begann und das nackte Bein seines Herrn unter
+                  den Händen hatte, blickte Graf Egge zwinkernd auf ihn nieder.</p>
+               <p>»Schipper! Ich kann vieles verstehen. Sag mir ehrlich: Hast du dem Bock die Kruck
+                  heruntergeschlagen?«</p>
+               <p>
+                  <pb/> Ohne das Frottieren auszusetzen, fing Schipper zu lachen an. »Jetzt hören S'
+                  aber auf! So a Spaßvogel wie Sie is auf der Welt meiner Lebtag noch nie net
+                  dagwesen!«</p>
+               <p>Graf Egge schwieg.</p>
+               <p>Über den beiden zitterte die Stubendecke. Dort oben auf dem Heuboden wälzte Franzl
+                  sich in schlafloser Kümmernis von einer Seite auf die andere.</p>
+            </div>
+
             <div type="chapter">
                <head>11</head>
                <p>Seit zwei Tagen hatte Forbeck von der ersten Helle des Morgens bis zum Einbruch

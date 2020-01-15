@@ -18,12 +18,32 @@
             <measure unit="words">67507</measure>
             <measure unit="pages">186</measure>
          </extent>
-         <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-14"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!----></publicationStmt>
-         <sourceDesc><bibl type="digitalSource">
+         <publicationStmt>
+            <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European
+               Literary History" (CA16204)</publisher>
+            <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+            <date when="2019-11-14"/>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+            <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/>
+            <!---->
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="digitalSource">
                <title>Cécile</title>
                <author>Fontane, Theodor</author>
                <date>1887</date>
-            </bibl></sourceDesc>
+            </bibl>
+            <bibl type="print_source"><author>Theodor Fontane</author>: <title>Romane und
+                  Erzählungen in acht Bänden</title>. <respStmt>Herausgegeben von</respStmt>
+               <editor>Peter Goldammer</editor>, <editor>Gotthard Erler</editor>, <editor>Anita
+                  Golz</editor> und <editor>Jürgen Jahn</editor>, 2. Auflage, Band 4,
+                  <pubPlace>Berlin</pubPlace> und <pubPlace>Weimar</pubPlace>:
+                  <publisher>Aufbau</publisher>, <date>1973</date>. </bibl>
+            <bibl type="firstEdition">Entstanden 1884/85, Erstdruck in: Universum
+                  (<pubPlace>Dresden</pubPlace>), März-September <date>1886</date>.</bibl>
+         </sourceDesc>
       </fileDesc>
       <encodingDesc n="eltec-0">
          <p/>
@@ -39,7 +59,8 @@
             <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
          </textDesc>
       </profileDesc>
-      <revisionDesc><change when="2019-11-14">Checked by releaseChecker script</change>
+      <revisionDesc>
+         <change when="2019-11-14">Checked by releaseChecker script</change>
          <change when="2019-01-28">Conversion from Kallimachos Kernkorpus</change>
       </revisionDesc>
    </teiHeader>

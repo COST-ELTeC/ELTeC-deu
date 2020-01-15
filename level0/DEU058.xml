@@ -19,12 +19,34 @@
             <measure unit="words">41591</measure>
             <measure unit="pages">96</measure>
          </extent>
-         <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-14"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!----></publicationStmt>
-         <sourceDesc><bibl type="digitalSource">
+         <publicationStmt>
+            <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European
+               Literary History" (CA16204)</publisher>
+            <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+            <date when="2019-11-14"/>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+            <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/>
+            <!---->
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="digitalSource">
                <title>Lotti, die Uhrmacherin</title>
                <author>Ebner-Eschenbach, Marie von</author>
                <date>1880</date>
-            </bibl></sourceDesc>
+            </bibl>
+            <bibl type="print_source"><author>Marie von Ebner-Eschenbach</author>:
+                  [<title>Gesammelte Werke in drei Bänden</title>.] [Bd. 1:] Das Gemeindekind.
+               Novellen, Aphorismen, [Bd. 2:] Kleine Romane, [Bd. 3:] Erzählungen. Autobiographische
+               Schriften. <respStmt>Herausgegeben von</respStmt>
+               <editor>Johannes Klein</editor>, <pubPlace>München</pubPlace>:
+                  <publisher>Winkler</publisher>, <date>1956–1958</date>.</bibl>
+            <bibl type="firstEdition">Erstdruck in: Deutsche Rundschau, <pubPlace>Berlin</pubPlace>,
+               Bd. 22, <date>1880</date>; erste Buchausgabe in: Neue Erzählungen,
+                  <pubPlace>Berlin</pubPlace> (<publisher>Franz Ebhardt</publisher>)
+                  <date>1881</date>.</bibl>
+         </sourceDesc>
       </fileDesc>
       <encodingDesc n="eltec-0">
          <p/>
@@ -40,7 +62,8 @@
             <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
          </textDesc>
       </profileDesc>
-      <revisionDesc><change when="2019-11-14">Checked by releaseChecker script</change>
+      <revisionDesc>
+         <change when="2019-11-14">Checked by releaseChecker script</change>
          <change when="2019-01-28">Conversion from Kallimachos Kernkorpus</change>
       </revisionDesc>
    </teiHeader>

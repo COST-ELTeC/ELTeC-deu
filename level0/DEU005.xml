@@ -18,12 +18,30 @@
             <measure unit="words">216063</measure>
             <measure unit="pages">765</measure>
          </extent>
-         <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-14"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!----></publicationStmt>
-         <sourceDesc><bibl type="digitalSource">
+         <publicationStmt>
+            <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European
+               Literary History" (CA16204)</publisher>
+            <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+            <date when="2019-11-14"/>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+            <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/>
+            <!---->
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="digitalSource">
                <title>Der Sonnenwirt</title>
                <author>Kurz, Hermann</author>
                <date>1854</date>
-            </bibl></sourceDesc>
+            </bibl>
+            <bibl type="print_source"><author>Hermann Kurz</author>: <title>Der Sonnenwirt. Eine
+                  schwäbische Volksgeschichte</title>, <pubPlace>Kirchheim / Teck</pubPlace>:
+                  <publisher>Jürgen Schweier</publisher>, <date>1980</date>.</bibl>
+            <bibl type="firstEdition">Erstdruck: <pubPlace>Frankfurt am Main</pubPlace>
+                  (<publisher>Meidinger</publisher>) <date>1855</date>. <note>Vorabdrucke der ersten
+                  vier Kapitel in »Morgenblatt für gebildete Leser«, 1846.</note></bibl>
+         </sourceDesc>
       </fileDesc>
       <encodingDesc n="eltec-0">
          <p/>
@@ -39,7 +57,8 @@
             <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/>
          </textDesc>
       </profileDesc>
-      <revisionDesc><change when="2019-11-14">Checked by releaseChecker script</change>
+      <revisionDesc>
+         <change when="2019-11-14">Checked by releaseChecker script</change>
          <change when="2019-01-28">Conversion from Kallimachos Kernkorpus</change>
       </revisionDesc>
    </teiHeader>
@@ -50,392 +69,406 @@
          <div type="group">
             <head>Erster Teil</head>
             <div type="chapter">
-            <head>1</head>
-            <p>»Nun, Meister Schwan, für diesmal ist Er christlich durchgekommen, straf mich Gott!
-               Ohne Willkomm und Abschied! Herr Gott von Dinkelsbühl, tut mir fast leid, daß ich Ihm
-               nicht ein paar aus dem ff auf Sein gesundes Leder aufmessen darf, aus purer
-               Freundschaft. Und dazu bloß ein halb Jahr! Aber ich hoff, so ein heißgrätiger Bursch
-               wie Er wird bald wieder das Heimweh nach unserer lustigen Kartaus bekommen. Aufs
-               Frühjahr spätestens, wenn die Bäum ausschlagen, werden wir wieder die Ehre haben. Ich
-               will derweil ein paar tüchtige Haselstöcke ins Wasser legen, damit sie den gehörigen
-               Schwung und Zug kriegen zum Willkomm, wenn's heißen wird: ›des Ebersbacher Sonnen
-               wirts sein Gutedel ist wieder da.‹ Adjes, Meister Schwan, glückliche Reise und nichts
-               für ungut.«</p>
-            <p>Es war unter dem Tore des Ludwigsburger Zucht-und Arbeitshauses, wo einer der
-               Aufseher einem jungen Menschen dieses spöttische Lebewohl sagte. Dem untersetzten
-               stämmigen Burschen konnte niemand im Ernste den Meistertitel geben, denn er schien
-               kaum zwanzig Jahre alt zu sein. Auch sah er sehr sauer zu der Ehrenbezeigung, die
-               nicht gerade aus wohlwollendem Herzen kam; sein breites rotwangiges Gesicht spannte
-               sich zu einem trotzigen Ausdruck, den eine tiefe Schramme auf der Stirne <pb/> noch
-               erhöhte. Er hielt die Augen, wie aus Verachtung, zu Boden geheftet, aber dann und
-               wann schoß er seitwärts einen Blick hervor, der wie ein bloßes Messer funkelte. Der
-               Aufseher gab ihm statt des »Abschieds«, den er ihm gerne zugedacht hätte, einen
-               derben Schlag auf die Schulter und ging lachend hinweg. Der entlassene Sträfling
-               ballte die Faust und sah ihm mit ingrimmigen Blicken nach.</p>
-            <p>Eben wollte er mit einer Gebärde, welche ein nichts weniger als anständiges, aber um
-               so aufrichtigeres Gesinnungsbekenntnis enthielt, dem Zuchthause den Rücken kehren,
-               als er, noch einmal umschauend, einen Gegenstand gewahrte, der den Haß auf seinem
-               derben lebhaften Gesichte plötzlich in das entschiedenste Widerspiel verwandelte. Es
-               war ein Greis, der in der Gebrechlichkeit des Alters an einem Stabe über den Hof
-               gegangen kam; er trug schwarze Kleidung, und die beiden weißen Überschlägchen, die
-               ihm von der Halsbinde herabhängend auf der Brust spielten, bezeichneten seinen
-               geistlichen Stand. Seine Erscheinung machte einen sichtlichen Eindruck auf alle
-               Begegnenden; die ausgelassensten Züchtlinge verstummten, als er im Vorübergehen einen
-               Blick auf ihre Arbeiten warf; der rohe Aufseher wich ihm von weitem aus. Jedem bot er
-               seinen zuvorkommenden Gruß; er war immer der erste, der das schwarze Käppchen über
-               den spärlichen weißen Haaren lüpfte, und doch sollte es ihm offenbar dazu dienen,
-               sein greises Haupt vor der Herbstluft zu schützen; denn neben dem Käppchen trug er
-               den dreieckigen Hut unter dem Arm.</p>
-            <p>
-               <pb/> Der junge Mensch war unter dem Tore des Zuchthauses stehengeblieben. In seinen
-               Mienen zuckte es wie Gewitter und Regenschauer; aber zum Weinen schienen diese Züge
-               zu derb. Unwillkürlich bewegte er den Fuß, um dem alten Geistlichen entgegenzulaufen;
-               er besann sich jedoch wieder und blieb schüchtern stehen. Als jener näher kam, zog er
-               die Mütze und trat ihn mit einer linkischen Verbeugung an. Man konnte denken, wenn er
-               ein Hund gewesen wäre, so wäre er mit freudigem Winseln an ihm emporgesprungen und
-               hätte ihm Gesicht und Hände geleckt. So aber war er ein Wesen, um das der
-               Zuchthausaufseher schwerlich seinen Pudel hergegeben hätte, ein entlassener
-               Sträfling, ein unbändiger Mensch, voll Trotz und Roheit; und doch regte sich in
-               seinem Herzen etwas, das wir auch in den winselnden Tieren ahnen und das die Bibel
-               mit den Worten bezeichnet: das Seufzen der Kreatur.</p>
-            <p>»Mit Verlaub!« stammelte er, – »ich wollte nur dem Herrn Waisenpfarrer Adieu sagen,
-               weil der Herr Waisenpfarrer immer so gut gegen mich gewesen ist – ich hätt ja nicht
-               fortgehen können ohne das.«</p>
-            <p>Der Waisenpfarrer – denn dieser war es, dem die Seelsorge im Zuchthause oblag –
-               neigte sich mit freundlichem Lächeln zu ihm. Er hatte aus den verlegenen, halb
-               verschluckten Worten des sonst sehr anstelligen Burschen den rechten Kern
-               herausgehört. »So ist Er denn also jetzt frei, Friedrich?« sagte er zu ihm. »Ich
-               wünsch Ihm von Herzen Glück. Nun gebrauche Er aber auch seine Freiheit so, wie man
-               eine Gottesgabe gebrauchen muß.«</p>
-            <p>
-               <pb/> »Ich versteh schon, Herr Waisenpfarrer!« erwiderte der Jüngling, der mit der
-               ersten Anrede seine Beengung weggesprochen und sich in einen Ton bescheidener
-               Zutraulichkeit hineingefunden hatte. »Ich versteh schon. Das ist wie mit dem Wein.
-               Der ist auch eine Gottesgabe. Wenn man aber solche Gottesgabe zu hart strapaziert, so
-               wirft sie den Menschen hin, daß er gleichsam wie vierfüßig wird. Dagegen, wenn man
-               sie mit Maß genießt, so erfreut sie das Herz und macht helle Gedanken im Kopf. Grade
-               so ist's auch mit der Freiheit. Wenn man von der über Durst trinkt, so kann sie einen
-               auch wohin werfen, wo zum Beispiel keine Freiheit mehr ist.«</p>
-            <p>Bei diesen Worten wies er mit dem Daumen über die Schulter nach dem Gebäude, das er
-               soeben verlassen hatte, und seine weißen Zähne blinkten lachend zwischen den
-               kirschroten Lippen hervor.</p>
-            <p>»Ja, so ist's, mein Freund«, versetzte der Geistliche. »Man pflegt wohl zu sagen: ich
-               nehme mir die Freiheit, das und das zu tun. Das ist nur so eine höfliche Redensart.
-               Mancher aber nimmt sich mehr Freiheit, als er einem andern gönnt, und tut einem
-               andern etwas, was er sich selbst nicht angetan wissen will. Das aber ist zu viel
-               Freiheit, und Er weiß wohl, was zu viel ist, das ist vom Übel. Eigentlich sollten wir
-               unsere Freiheit bloß dazu anwenden, um einander lauter Liebes und Gutes zu tun; denn
-               wenn die Menschen alle einander dienen würden, dann wäre ja ein jeglicher so wie ein
-               Diener auch wieder ein Herr, und dann wäre die wahre Freiheit in der Welt.«</p>
-            <p>
-               <pb/> »Ja, wenn alle so wären, wie der Herr Waisenpfarrer, dann wär's keine Kunst,
-               ihnen zu dienen. Aber so ist's nicht in der Welt. Da ist viel Herzenshärtigkeit und
-               Schlechtigkeit, nicht bloß solche, die den Nebenmenschen übervorteilt, sondern auch
-               Bosheit, die ihm ohne allen Grund die Milch sauer macht, und wenn man auf so einen
-               Giftmichel trifft, so meint eben die Faust gleich, sie müsse ein Wörtlein mit ihm
-               reden.«</p>
-            <p>»Mein Sohn«, sagte der alte Geistliche, »man hat den Verstand dazu, daß man der Faust
-               nicht ihren Willen läßt. Und es kommt nur darauf an, daß man einem Menschen seine
-               gute Seite abgewinnen lernt. Eine gute Seite hat auch der Schlimmste. Wenn man aber
-               einmal diese gefunden hat, so ist's, als hätte man den Schlüssel zu einer sonst
-               verschlossenen Türe, und wenn man hineingeht, so trifft man oft auf Dinge, die man
-               gar nicht hinter dieser Türe gesucht hätte. Da ist zum Exempel ein gewisser Friedrich
-               Schwan. Den hat man mir geschildert als einen rohen, verworfenen Burschen, dessen
-               Herz keiner guten Regung fähig sei – Faust in Sack! Die Leute urteilen eben nach der
-               Außenseite – und wie ich ihn nun selber kennenlernte, da fand ich in ihm einen
-               Menschen, dessen Herz wie ein wild aufgeschossenes Reis ist, trotzig und aufrührisch
-               gegen jedes rauhe Lüftchen, weich und geschmeidig gegen jeden freundlichen
-               Sonnenstrahl, einen Menschen, der gegen harte Worte und Behandlungen störrisch bleibt
-               und den man mit Güte um den Finger wickeln kann. Ist's nicht so?«</p>
-            <p>
-               <pb/> »Ja, so ist's, Herr Waisenpfarrer«, antwortete der junge Mensch verlegen und
-               gerührt.</p>
-            <p>»Nun, das ist aber auch keine Kunst, gegen Gute gut zu sein. Wenn's weiter nichts
-               wäre als das, so würden wir ja durch die breite Pforte in den Himmel eingehen, statt
-               durch die schmale.«</p>
-            <p>»Das ist wahr, Herr Waisenpfarrer«, erwiderte der junge Mensch bedenklich. »Aber wenn
-               alle Menschen unterdiensthaft gegeneinander wären, wie Sie vorhin gesagt haben, so
-               wäre es gerade dasselbe Ding.«</p>
-            <p>»Allerdings. Aber da die Menschen im allgemeinen bis jetzt nicht geneigt sind, uns
-               die Himmelspforte so breit und bequem zu machen, so dürfen wir deshalb der schmalen
-               nicht untreu werden. Wir müssen gegen unsere Nebenmenschen gerade so liebreich und
-               dienstfertig sein, wie sie eigentlich gegen uns sein sollten, unangesehen, ob sie es
-               sind oder nicht. Vielleicht gewinnen wir sie dadurch und bewegen sie, unser Beispiel
-               nachzuahmen.«</p>
-            <p>»Ja, ja, Herr Waisenpfarrer«, fiel der junge Mensch lebhaft ein, »das ist gerade, wie
-               wenn ein ungebautes Stück Feld umgebrochen werden soll. Da kommt es nur drauf an, daß
-               einmal ein Anfang gemacht wird, der für den Fortgang und fürs Fertigwerden Bürgschaft
-               gibt, und ist also ein kleines umgepflügtes Flecklein fast schon so wichtig wie das
-               ganze künftige Neubruchland.«</p>
-            <p>»Er hat mich gar wohl gefaßt«, versetzte der alte Herr mit freundlichem Lächeln.
-               »Wenn das Reich Gottes auf Erden erscheinen und ihm die Stätte bereitet <pb/> werden
-               soll, so tut es zuerst not, daß ein Kern von guten Menschen gezogen wird, von welchen
-               die Güte und der Segen allmählich auf die andern übergehen kann. Die müssen aber
-               festhalten wie ein Häuflein Streiter, von denen der Ausgang einer Schlacht abhängt.
-               Ja, mein Sohn«, fuhr er fort und legte ihm die abgemagerte Hand auf dieselbe
-               Schulter, welche vorhin der Aufseher so unsanft berührt hatte, »da muß man den Pflug
-               über das trotzige Herz gehen lassen, da muß man eine Beleidigung nicht mit
-               Tätlichkeiten erwidern, die ins Zuchthaus führen. Vielmehr, wer zu jenen Kerntruppen
-               gehören will, der muß gegen seinen Feind gar noch ein gutes Wort und ein freundlich
-               Gesicht aufzuwenden haben, und was noch weit mehr heißen will, es muß ihm sogar von
-               Herzen gehen.«</p>
-            <p>Der Jüngling, der irgendeinen Widersacher im Geiste vor sich stehen sehen mochte,
-               trat bei dieser Zumutung betreten einen Schritt zurück. Die Größe der Aufgabe war ihm
-               augenscheinlich schwer aufs Herz gefallen. – »Aber«, sagte er, »da wird mancher
-               denken, wie es im Evangelium heißt: das ist eine harte Rede, wer kann sie hören?«</p>
-            <p>Der Greis lächelte. »Mein junger Freund ist sehr bibelfest«, versetzte er, »ich
-               bemerke das heut nicht zum erstenmal. Die besten Kernsprüche, die schönsten
-               Liederverse hat er fest im Kopfe behalten, aber ob auch in einem feinen Herzen? Das
-               ist nun die Frage. Diese schönen Stellen, welche die Jugend in den Schulen auswendig
-               lernt und oft recht gedankenlos dahersagt, sind Samenkörnern zu vergleichen.<pb/> Nun
-               ist es zwar um ein Samenkorn ein edles Ding, aber der aufgewachsene Baum und seine
-               Früchte sind doch noch etwas ganz anderes. Oh, mein lieber Friedrich, ich fürchte« –
-               bei diesen Worten hob er liebreich den Finger gegen ihn auf –, »ich fürchte, dieses
-               trotzige Gemüt muß noch durch Leiden gebeugt und recht umgebrochen werden, wenn es
-               ein Boden werden soll, darin der Same zu Früchten aufgehen kann. Mein Sohn, habe Er
-               immer den vor Augen, von dem wir jene Sprüche überkommen haben, der nicht schalt, da
-               er geschlagen ward, und nicht dräuete, da er litt. Ich will Ihm aber nicht mit einem
-               Male ein Werk auflegen, das für manche zartere Seelen noch zu schwer ist. Fange Er im
-               Kleinen an, mein lieber Sohn. Strebe Er, sanftmütig zu werden. Denke Er immer zur
-               rechten Zeit daran, den aufquellenden Zorn zu bezähmen; denn der Zorn hat einen bösen
-               Urahn, den Mörder von Anbeginn, und wenn man ihn herausläßt, so gleicht er der Kugel,
-               von der das Sprichwort sagt: ›wenn sie aus dem Rohr ist, so ist sie des Teufels‹. Vor
-               allem aber will ich Ihm eines ans Herz legen. Er ist vermöglicher Leute Kind, und in
-               einem Wirtshause fallen manche Brocken ab. Benütze Er diese Gelegenheit, um Gutes zu
-               tun und nach Seinen Kräften den traurigen Unterschied, der in der Welt ist, ein wenig
-               auszugleichen. Er kann, ohne Seinen Vater zu übervorteilen – und das darf Er ja nicht
-               tun! –, manchem armen Schlucker etwas zufließen lassen. Ich sage das nicht, daß Er
-               meinen soll, Er könne sich ein Verdienst vor Gott damit erwerben. <pb/> Aber der
-               rechte Glaube wird auch immer die rechten Werke gebären, und hinwiederum, wer die
-               rechten Werke tut, der setzt zugleich sein Inneres in die rechte Verfassung, wie sie
-               vor Gott sein soll; denn Gutes tun macht ein gelindes Herz. Deshalb, mein Sohn«,
-               beschloß er mit einem unbeschreiblich heitern und scherzhaften Lächeln, »will ich
-               Ihm, da Er noch so jung ist, nicht zumuten, daß Er gleich als Flügelmann unter jene
-               Kerntruppen tritt, von denen ich gesprochen habe. Suche Er nur zuerst als Marketender
-               bei ihnen anzukommen, dann kann Er sich allmählich weiter aufdienen, bis –«</p>
-            <p>Ein Geräusch unterbrach ihn, das ihm den frommen Scherz aufs kläglichste verbitterte.
-               Unzweideutige Schläge hallten von dem untern Stockwerk her, dem der Geistliche und
-               sein aufmerksames Beichtkind nahe standen. Sie folgten mit unerbittlicher
-               Regelmäßigkeit aufeinander, so daß der Greis die schwache Hand ausstreckte, als ob
-               diese abwehrende Gebärde der Grausamkeit ein Ende machen könnte. Man hörte kein
-               Geschrei, sondern nur ein dumpfes Knurren, in welchem jedoch der menschliche Ton zu
-               unterscheiden war. Dieses Knurren, das sich in Zwischenräumen wiederholte, machte den
-               Vorgang weit unheimlicher, als wenn die lautesten Wehklagen ihn begleitet hätten.</p>
-            <p>Der junge Friedrich ballte die Faust gegen das Gebäude. »Diese Prügelhunde!« rief er,
-               »es ist ihnen nur wohl, wenn sie zuschlagen können.«</p>
-            <p>Der Waisenpfarrer legte ihm wieder die Hand, die aber diesmal zitterte, auf die
-               Schulter. »Mein Sohn«,<pb/> sagte er, »die Menschen haben es mit der Sünde verdient,
-               daß der Schmerz und das Wehtum in die Welt gekommen ist. Wo aber Strafe ist, heißt
-               es, da ist Zucht, und wo Friede ist, da ist Gott.«</p>
-            <p>Die Schläge hallten dazwischen fort. Der Greis brach mit einem tiefen Seufzer die
-               Unterredung ab. »Nun lebe Er wohl, mein lieber Friedrich«, sagte er. »Gott sei mit
-               Ihm auf allen Seinen Wegen. Denke Er an das, was ich Ihm gesagt habe, damit wir uns
-               fröhlich und ebendarum niemals mehr an diesem Orte wiedersehen.«</p>
-            <p>Er drückte ihm die Hand und wankte, so eilig als er es vermochte, an seinem Stabe
-               dahin. Zwar hatte auch er die Meinung seinerzeit ausgesprochen, daß durch grausame
-               Züchtigungen der Wille Gottes erfüllt und sein Kommen vorbereitet werde, aber er
-               schien doch nicht gern dabei zu sein und hatte es in diesem Augenblick wohl tief
-               empfunden, daß das Reich Gottes, so wie er es verstand, noch sehr ferne sei.</p>
-            <p>Der junge Friedrich aber blieb unter den Fenstern des Zuchthauses stehen und lauschte
-               dem Geräusch der Pein, vor welchem sein ehrwürdiger Beichtiger entflohen war. Er
-               fühlte zwar nicht geringe Entrüstung über die Gewalt, die hier einem Menschen angetan
-               wurde, aber der Schmerz des Armen verursachte ihm, der selbst schon manchen derben
-               Puff ausgehalten hatte, kein besonders zartes Mitgefühl.</p>
-            <p>Die Schläge hörten endlich auf. Bald hernach öffnete sich die Türe, und von einer
-               unsichtbaren Hand geschleudert, kam ein Mensch herausgeflogen. <pb/> Der Stoß war
-               nicht eben sanft gewesen, doch hie der Hinausgeworfene sich wie eine Katze auf den
-               Füßen. Sein Gesicht zeigte trotz der zigeunerischen Farbe die Spuren überstandener
-               Anstrengung, es war dunkelrot, und ein schielendes Auge gab diesen jugendlichen Zügen
-               einen furchtbaren Ausdruck. Der junge Zigeuner, der soeben einen rauhen Abschied
-               durchgemacht hatte, schüttelte sich am ganzen Leibe, er kehrte sich gegen das
-               Zuchthaus um, streckte die Zunge, so lang er konnte, heraus und ging dann gemächlich
-               seiner Wege.</p>
-            <p>»Ich glaub, sie haben dich mit ungebrannter Asche gelaugt, und das scharf«, sagte
-               Friedrich, als er an ihm vorüberkam.</p>
-            <p>»Ich glaub auch«, war die trockene Antwort des Zigeuners, der einen Blick aus seinem
-               scheelen Auge über den Frager hinlaufen ließ und sich von dannen machte.</p>
-            <p>Friedrich, der auf den Burschen neugierig geworden war, folgte ihm von weitem nach.
-               Aber erst als sie Ludwigsburg mit seinen vornehmen regelrechten Straßen hinter sich
-               hatten, wagte er, die Gesellschaft des verachteten Zigeuners aufzusuchen. Dieser
-               schien nachlässig vor sich herzuschlendern, und doch hatte er Mühe, gleichen Schritt
-               zu halten und ihn endlich einzuholen.</p>
-            <p>»He, wohinaus, Landsmann?« schrie er ihn an.</p>
-            <p>»Dem Hohenstaufen zu«, antwortete der Zigeuner seitwärts herüber, ohne sich in seinem
-               Gange aufhalten zu lassen.</p>
-            <p>»Dann haben wir ja schier gar einen Weg«, sagte <pb/> Friedrich, an seiner Seite
-               gehend. »Der meinige führt nach Ebersbach.«</p>
-            <p>»Da können wir wenigstens eine Strecke weit beisammenbleiben«, erwiderte der
-               Zigeuner.</p>
-            <p>Die beiden jungen Burschen gingen nun mit wackeren Schritten durch die Ebene und dann
-               jenseits des Neckars über die Anhöhen hin, welche zwischen diesem und der Rems
-               liegen, und machten nach einer tüchtigen Wanderung bei einem einsamen Wirtshäuschen
-               halt, wo Friedrich seinen Gefährten zu Gaste lud. Eine Flasche vom Saft des Apfels
-               und ein Rettich, der den Sommer überlebt hatte, war alles, was ihm ein paar gesparte
-               Pfennige aufzutischen erlaubten. Die vorgerückte Jahreszeit ließ sich so mild an, daß
-               die beiden Wanderer im Freien auf der verwitterten Bank unter dem alten Apfelbaum ihr
-               Mahl verzehren konnten. Hungrig und durstig griffen sie zu und ließen sich's nach der
-               Weise der Jugend schmecken.</p>
-            <p>Wie lustige Sperlinge genossen sie der wiedererlangten Freiheit, schalten auf das
-               Gefängnis, von dem sie herkamen, spotteten über die Schwachheiten der Aufseher und
-               erzählten sich lose Streiche, womit sie deren Wachsamkeit umgangen hatten. Unter
-               Plaudern und Lachen war die Flasche nur allzubald geleert. Sie kehrten alle Taschen
-               um, bis sie in der erdenklich kleinsten Münze, aber auch mit dem erdenklich größten
-               Jubel die nötige Summe zusammengebracht hatten, um eine zweite zu bestellen.</p>
-            <p>»Wie bist du denn eigentlich«, fragte Friedrich unter dem Einschenken, »in den
-               Gasthof zur Kardätsche <pb/> geraten? Mit bloßem Vagabundieren hast doch so jung
-               nicht so hoch in die Wolle avancieren können.«</p>
-            <p>»Nein«, erwiderte der Zigeuner unbefangen, »ich hab krumme Finger gemacht.«</p>
-            <p>»Pfui«, rief Friedrich, »Stehlen, das ist was Hundsgemeines, heißt das, wenn –«</p>
-            <p>»Von z'wegen was seid Ihr hineingekommen?« unterbrach ihn der Zigeuner etwas rasch.
-               Ungeachtet des Ärgers über die biderbe Bemerkung vergaß er nicht, daß sein Genosse
-               der herrschenden Nation angehörte und daß er den größeren Teil der Zeche bezahlt
-               hatte: Grund genug, ihn in der majestätischen Mehrzahl anzureden. – »Man wird Euch
-               auch nicht bloß um der Kostbarkeit willen hinter Glas und Rahmen aufgehoben
-               haben.«</p>
-            <p>»Ich hab einen durchgeprügelt und das lederwindelweich. Der Heuchler gab dann vor, er
-               könne den Arm nicht mehr gebrauchen. Es war aber erlogen, und so schickten sie mich
-               eben auf ein halb Jahr an das Örtchen, von dem man nicht gern red't.«</p>
-            <p>Der Zigeuner machte ein unbefriedigtes Gesicht. »Und habt Ihr Euch niemals an fremdem
-               Eigentum vergriffen«, fragte er, »daß Ihr da so auf dem höchsten Gaul sitzen könnt?
-               Seid Ihr niemals einem andern in die Äpfel gegangen oder in die Kirschen? Denn«,
-               setzte er eifrig hinzu, »Stehlen ist Stehlen, das sag ich.«</p>
-            <p>»Ja, meinem Vater bin ich wohl über die Kirschen gegangen und auch über die Geldlade.
-               Aber das ist<pb/> was anderes, das geht ja vom eigenen und heißt eben vor der Zeit
-               geerbt. Das ist nicht gestohlen. Stehlen heißt, wenn man fremden Leuten das Ihrige
-               nimmt, und das ist eine Schmählichkeit.«</p>
-            <p>»Wenn bei uns einer«, versetzte der Zigeuner höhnisch, »seine Eltern bestehlen würde,
-               so könnte seines Bleibens nicht mehr sein; der ärgste Spitzbube würde ihn verachten
-               und anspeien. Bei uns ist es Sitte, daß man die Eltern ehrt und liebt und daß man
-               ihnen eher zubringt, als daß man sie bestiehlt. Dafür lassen sie es aber auch an
-               ihren Kindern nicht fehlen, sie geben ihnen den letzten Bissen vom Munde weg, und des
-               halb ist es gar nicht möglich, daß so etwas bei uns vorkommt. Ist mir auch eine ganz
-               besondere Lebensart, daß ich einen Fremden schonen soll, der mich nichts angeht, und
-               soll mich dagegen an meinem Vater vergreifen, der mir der Nächste ist in der Welt.
-               Das bring mir ein anderer in den Kopf, mir ist es zu hoch. Kommt mir gerade vor, wie
-               wenn im Krieg einer sich von den Feinden abwenden wollte und auf seine Freunde
-               schießen.«</p>
-            <p>Friedrich war betroffen. Sein gesunder Verstand sagte ihm, daß etwas Wahres an dieser
-               Ansicht sei, und doch konnte er sie nicht zugeben, da sie den Sitten und
-               Gewohnheiten, unter denen er aufgewachsen, völlig widersprach. Die beiden jungen
-               Leute stritten eifrig und konnten sich lange nicht verständigen. Darin waren sie zwar
-               einer Ansicht, daß auf die »Herrschaft« keine strengen Begriffe von Eigentum
-               anzuwenden, daß die Tiere im Walde, die Fische im Wasser eigentlich Gemeingut seien;
-               aber über den<pb/> Rest des großen Kapitels vom Mein und Dein konnten sie nicht einig
-               werden.</p>
-            <p>»Stehlen und Stehlen ist zweierlei«, rief Friedrich zuletzt. »Geh du nach Ebersbach
-               und frag von Haus zu Haus, ob die Leut nicht einen Unterschied machen, und die Leut
-               müssen doch auch wissen, was sie tun. Überall gilt's für eine größere Schande, wenn
-               einer einem Fremden was stiehlt, als wenn er's den Eigenen nimmt; denn da bleibt's ja
-               in der Familie.«</p>
-            <p>»Dann sollte man ihn auch in der Familie abmurxeln«, sagte der hartnäckige Zigeuner,
-               »und jedem davon ein Stück zum Kochen geben, wenn eure Gesetze so schlecht sind, daß
-               sie bloß den einen Diebstahl strafen, den andern aber nicht.«</p>
-            <p>»Oha«, sagte Friedrich, »umgekehrt ist auch gefahren. Selbiges ist anders. Die
-               Gesetze, die sind so überzwerch wie du, die behaupten auch, Stehlen sei Stehlen. Wie
-               es herauskam, daß ich meinem Vater ein paar hundert Gulden genommen hatte, die er mir
-               nicht gutwillig geben wollte, um in die Fremde zu gehen, da taten sie mich geschwind
-               nach Ludwigsburg zum Wollkardätschen, ob ich gleich erst ein unverständiger
-               vierzehnjähriger Bube war. Damals hab ich auch gelernt, was der Willkomm und Abschied
-               für höfliche Komplimente sind, und hab empfunden, wie es patscht, wenn Haselholz und
-               Hirschleder zusammenkommen.«</p>
-            <p>Der Zigeuner schlug ein lustiges Gelächter auf. »Aber nicht wahr«, rief er
-               triumphierend, »mit einem solchen Leibschaden noch stundenlang drauflos <pb/>
-               marschieren und dann auf einem hölzernen. Bänkchen herumrutschen, das könnt auch
-               nicht ein jeder.«</p>
-            <p>»Nun, nun«, entgegnete Friedrich, »man merkt's dessenungeachtet wohl, wo du dermalen
-               deine schwache Seite hast. Du sitzt ja so windschief da, als wenn das Bänkchen unter
-               dir brennte, die armen Seelen in der Hölle, die auf dem Glufenhäfelein sitzen, können
-               nicht öfter wechseln und nicht possierlicher den Fuß an sich ziehen. Aber das muß man
-               dir lassen: mannlich hast du dich gehalten. Wenn ich nur noch ein paar übrige Kreuzer
-               hätt, so ließ ich dir einen Kirschengeist zum Einreiben kommen.«</p>
-            <p>»Einreiben! Wer wird auch die Gottesgabe so sündlich verschwenden! Den Kirschengeist
-               muß man innerlich brauchen, von innen heraus kuriert er noch einmal so schnell.«</p>
-            <p>»Das glaub ich dir!« lachte Friedrich. »Überhaupt hab ich schon oft gedacht, ihr
-               Zigeuner müsset ein gutes Fell haben, stich- und kugelfest. Man könnt's, schätz ich
-               wohl, zum Überzug für ein schwaches Gewissen brauchen.«</p>
-            <p>»Es dient oft auch dazu. Ja, eine gute Haut, die muß der Zigeuner haben, und
-               hartgesotten muß er sein, wenn er solch mühseliges Leben aushalten soll. Frost und
-               Hitze muß ihm gleichviel gelten. Halbnackt muß er gehen können, wenn ihm der gefrorne
-               Schnee unter den Füßen kracht, und die schwerste Bürde muß ihm wie ein Flaum sein,
-               wenn ihn die Sonne mittags auf die Glieder sticht. Sein Lager ist unter Gottes freiem
-               Himmel, und in böser <pb/> Nacht hat er's nicht immer so gut, daß er auch nur im
-               Hüterhäuschen unterkriechen kann. Oft hat er nur einen Baum zum Obdach, unter dem
-               schläft er zufrieden, wenn der Sturm durch die Äste fährt und die Blätter schüttelt,
-               daß ihm der kalte Regen auf die Stirne tropft.«</p>
-            <p>»Herr Gott«, rief Friedrich mit rauher Rührung, »ich kann doch auch was vertragen,
-               aber so ein Leben muß ja den besten Mann umbringen! Mußt du nicht selber sagen, daß
-               es vernünftiger wäre, wenn ihr das Heidenleben aufgäbet, eine christliche Ordnung
-               anfinget und ließet euch mit andern ehrlichen Christenmenschen in Handel und Wandel
-               ein? Wer ein paar tüchtige Arme hat und einen Kopf, der sie regiert, der wird nicht
-               sobald mit leerem Magen ins Bett gehen und nicht im kalten Regen schlafen
-               dürfen.«</p>
-            <p>»Wir sind so gute Christen wie ihr«, versetzte der junge Zigeuner eifrig, »es mag
-               sich fragen, ob wir nicht besser sind? Aber wie wollten wir denn mit euch leben? Ihr
-               stoßt uns ja aus und wollt keine Gemeinschaft mit uns haben. Wie kann der Zigeuner,
-               dem ihr mit Verachtung die Türe weiset, sein ehrlich Brot bei euch verdienen? Ich bin
-               aus einer Familie, die schon seit zweihundert Jahren hier im Württembergischen, dann
-               im Deutschherrischen drunten und in den beiden Markgrafschaften am Rheine drüben hin
-               und wieder zieht. Nun fehlt es uns zwar dort nicht an Bekanntschaften, aber ich
-               möchte doch auch in all diesen Landen einen einzigen Menschen sehen, wenn unsereiner
-               z.B. käme <pb/> und ihm sagte: ›Ich will ein ander Leben führen und ein ordentliches
-               Wesen anfangen, da bin ich, nimm mich auf, teile dein Haus und dein Brot mit mir,
-               soviel als dir meine Dienste wert sein mögen‹ – den Menschen möcht ich sehen, der
-               darauf sagen würde: ›Tritt ein und bleibe bei mir.‹ Auch unter den Unsrigen möcht ich
-               den Menschen sehen, dem es im Schlaf einfallen könnte, eine solche Bitte zu tun. Denn
-               jeder weiß die Antwort im voraus und weiß, wie man beiderseits voneinander denkt. Das
-               ist jetzt eben einmal von Anbeginn so und wird auch nicht mehr anders werden. Ich
-               weiß wohl, ein mancher von den Meinigen ist eines bösen Todes gestorben, und wie
-               könnte es auch anders sein? Das Element, in dem einer lebt, ist natürlicherweise auch
-               zuletzt sein Tod. Das ist allenthalben so. Wer sein Leben lang im Hanfsamen sitzt wie
-               ein freier Spatz, der find't wohl auf die Länge auch ein hänfenes Ende. Man tät's
-               wohlfeiler nehmen, wenn man's haben könnte. Ein paar fette Kapitälchen verzinsen,
-               essen und trinken, was gut schmeckt, mit vier Schweißfuchsen fahren oder auch nur mit
-               zweien, – meint Ihr, der Zigeuner habe zu einem solchen gemächlichen Leben nicht so
-               viel Genie als irgend jemand in der Christenheit?«</p>
-            <p>»Mir zweifelt's gar nicht!« lachte Friedrich. – »Aber jetzt kann ich auch auf einmal
-               begreifen, warum du es für so schandhaft hältst, wenn von euch einer seinem eigenen
-               Vater etwas nehmen würde, und an diesem Beispiel wird mir's klar, daß du eigentlich
-               Ehr im Leibe hast. Denn die Moral ist bei euch im<pb/> Grund die nämliche wie bei
-               uns, nur daß sie natürlicherweise umgekehrt ist.«</p>
-            <p>Mit diesen Worten, die zwar keine klare Anschauung des Standpunkts, aber doch eine
-               gewisse Ahnung desselben verrieten, suchte er die obschwebende Streitfrage zu lösen.
-               »Aber es wird spät«, fuhr er fort, »und wenn wir die Buttel auch auswinden wie ein
-               Leintuch in der Wäsche, so pressen wir doch keinen Tropfen mehr raus. Weißt was? Komm
-               du mit mir über Ebersbach, ich will dir einen heidenmäßigen Kirschengeist einschenken
-               zur inwendigen Kur. Ob du links am Staufen vorbeigehst oder rechts, das ist gehopft
-               wie gesprungen.«</p>
-            <p>»Ja, es ist am End ein Ding«, entschied sich der Zigeuner, »und auf eine Stunde soll
-               mir's nicht ankommen.«</p>
-            <p>Die beiden jungen Burschen erhoben sich und stiegen die gelinden Anhöhen hinab, an
-               deren Fuße das Filstal sich gegen den Neckar öffnet. Wohlgemut schlenderten sie die
-               Straße an dem Flüßchen aufwärts; der Zigeuner pfiff gellende Weisen, Friedrich aber
-               schwieg still, und unter seiner breiten Stirne schien ein mächtiger Gedanke zu
-               arbeiten. Die Worte des Waisenpfarrers gingen ihm im Sinne herum; das Vertrauen des
-               ehrwürdigen alten Mannes hatte ihn stolz gemacht, und es war ihm zumute, als ob er
-               gar nichts nötig hätte als ein bißchen guten Willen, um ein großes Werk zustande zu
-               bringen.</p>
-            <p>Sie waren wohl eine gute Stunde so zugeschritten, ohne ein Wort miteinander zu reden,
-               als Friedrich <pb/> auf einmal stehenblieb und seinen Gefährten kräftig am Arme
-               faßte. »Und ich sag dir«, rief er, »du bleibst bei mir! Ich will dir zeigen, daß ich
-               auch ein guter Christ bin. Wenn ich dein armes verstoßenes Volk in das Erbe einsetzen
-               könnte, das von Gott und Rechts wegen einem so gut gehört wie dem andern – mit einem
-               Schlag wollt ich das tun. Nun kann ich aber weiter nichts, als an einem einzelnen,
-               der mir unter die Hände kommt, ein christlich Werk verrichten. Du gehst mit mir, da
-               ist keine Widerrede, die Sonne von Ebersbach hat Raum für viele! Da wird sich schon
-               ein Plätzlein für dich finden im Haus und ein Stuhl am Tisch und ein Brocken in der
-               Schüssel. Zu tun gibt's auch immer etwas, du dienst meinem Vater als Knecht, wie ich,
-               und sollst es nicht schlechter haben als ich. An Frost und Schneepatschen, an Last
-               und Hitze wird's zwar nicht fehlen, je nachdem die Jahreszeit ist; aber das Schlafen
-               im kalten Regen und alles andere, was dazu gehört, das soll und muß ein Ende haben.
-               Komm her, schlag ein.«</p>
-            <p>Der andere hatte ihn anfangs mit seinem scheelen Auge verwundert angesehen; die
-               Zuversichtlichkeit seiner Rede schien aber jedes Bedenken bei dem Zigeuner verwischt
-               zu haben, und er tat, wie ihn sein Gefährte hieß. Friedrich erwiderte seinen
-               Handschlag mit einem noch kräftigeren, und zufrieden, wie wenn sie einen guten
-               Markthandel abgeschlossen hätten, setzten sie ihren Weg miteinander fort. Der Tag
-               begann sich eben zu neigen, da breitete sich das Ziel ihrer Reise, ein beträchtlicher
-               Flecken, <pb/> in angenehmer Talweite zwischen den Anhöhen wohlgelegen, freundlich
-               und heimatlich vor ihren Augen aus.</p>
+               <head>1</head>
+               <p>»Nun, Meister Schwan, für diesmal ist Er christlich durchgekommen, straf mich
+                  Gott! Ohne Willkomm und Abschied! Herr Gott von Dinkelsbühl, tut mir fast leid,
+                  daß ich Ihm nicht ein paar aus dem ff auf Sein gesundes Leder aufmessen darf, aus
+                  purer Freundschaft. Und dazu bloß ein halb Jahr! Aber ich hoff, so ein
+                  heißgrätiger Bursch wie Er wird bald wieder das Heimweh nach unserer lustigen
+                  Kartaus bekommen. Aufs Frühjahr spätestens, wenn die Bäum ausschlagen, werden wir
+                  wieder die Ehre haben. Ich will derweil ein paar tüchtige Haselstöcke ins Wasser
+                  legen, damit sie den gehörigen Schwung und Zug kriegen zum Willkomm, wenn's heißen
+                  wird: ›des Ebersbacher Sonnen wirts sein Gutedel ist wieder da.‹ Adjes, Meister
+                  Schwan, glückliche Reise und nichts für ungut.«</p>
+               <p>Es war unter dem Tore des Ludwigsburger Zucht-und Arbeitshauses, wo einer der
+                  Aufseher einem jungen Menschen dieses spöttische Lebewohl sagte. Dem untersetzten
+                  stämmigen Burschen konnte niemand im Ernste den Meistertitel geben, denn er schien
+                  kaum zwanzig Jahre alt zu sein. Auch sah er sehr sauer zu der Ehrenbezeigung, die
+                  nicht gerade aus wohlwollendem Herzen kam; sein breites rotwangiges Gesicht
+                  spannte sich zu einem trotzigen Ausdruck, den eine tiefe Schramme auf der Stirne
+                  <pb/> noch erhöhte. Er hielt die Augen, wie aus Verachtung, zu Boden geheftet,
+                  aber dann und wann schoß er seitwärts einen Blick hervor, der wie ein bloßes
+                  Messer funkelte. Der Aufseher gab ihm statt des »Abschieds«, den er ihm gerne
+                  zugedacht hätte, einen derben Schlag auf die Schulter und ging lachend hinweg. Der
+                  entlassene Sträfling ballte die Faust und sah ihm mit ingrimmigen Blicken
+                  nach.</p>
+               <p>Eben wollte er mit einer Gebärde, welche ein nichts weniger als anständiges, aber
+                  um so aufrichtigeres Gesinnungsbekenntnis enthielt, dem Zuchthause den Rücken
+                  kehren, als er, noch einmal umschauend, einen Gegenstand gewahrte, der den Haß auf
+                  seinem derben lebhaften Gesichte plötzlich in das entschiedenste Widerspiel
+                  verwandelte. Es war ein Greis, der in der Gebrechlichkeit des Alters an einem
+                  Stabe über den Hof gegangen kam; er trug schwarze Kleidung, und die beiden weißen
+                  Überschlägchen, die ihm von der Halsbinde herabhängend auf der Brust spielten,
+                  bezeichneten seinen geistlichen Stand. Seine Erscheinung machte einen sichtlichen
+                  Eindruck auf alle Begegnenden; die ausgelassensten Züchtlinge verstummten, als er
+                  im Vorübergehen einen Blick auf ihre Arbeiten warf; der rohe Aufseher wich ihm von
+                  weitem aus. Jedem bot er seinen zuvorkommenden Gruß; er war immer der erste, der
+                  das schwarze Käppchen über den spärlichen weißen Haaren lüpfte, und doch sollte es
+                  ihm offenbar dazu dienen, sein greises Haupt vor der Herbstluft zu schützen; denn
+                  neben dem Käppchen trug er den dreieckigen Hut unter dem Arm.</p>
+               <p>
+                  <pb/> Der junge Mensch war unter dem Tore des Zuchthauses stehengeblieben. In
+                  seinen Mienen zuckte es wie Gewitter und Regenschauer; aber zum Weinen schienen
+                  diese Züge zu derb. Unwillkürlich bewegte er den Fuß, um dem alten Geistlichen
+                  entgegenzulaufen; er besann sich jedoch wieder und blieb schüchtern stehen. Als
+                  jener näher kam, zog er die Mütze und trat ihn mit einer linkischen Verbeugung an.
+                  Man konnte denken, wenn er ein Hund gewesen wäre, so wäre er mit freudigem Winseln
+                  an ihm emporgesprungen und hätte ihm Gesicht und Hände geleckt. So aber war er ein
+                  Wesen, um das der Zuchthausaufseher schwerlich seinen Pudel hergegeben hätte, ein
+                  entlassener Sträfling, ein unbändiger Mensch, voll Trotz und Roheit; und doch
+                  regte sich in seinem Herzen etwas, das wir auch in den winselnden Tieren ahnen und
+                  das die Bibel mit den Worten bezeichnet: das Seufzen der Kreatur.</p>
+               <p>»Mit Verlaub!« stammelte er, – »ich wollte nur dem Herrn Waisenpfarrer Adieu
+                  sagen, weil der Herr Waisenpfarrer immer so gut gegen mich gewesen ist – ich hätt
+                  ja nicht fortgehen können ohne das.«</p>
+               <p>Der Waisenpfarrer – denn dieser war es, dem die Seelsorge im Zuchthause oblag –
+                  neigte sich mit freundlichem Lächeln zu ihm. Er hatte aus den verlegenen, halb
+                  verschluckten Worten des sonst sehr anstelligen Burschen den rechten Kern
+                  herausgehört. »So ist Er denn also jetzt frei, Friedrich?« sagte er zu ihm. »Ich
+                  wünsch Ihm von Herzen Glück. Nun gebrauche Er aber auch seine Freiheit so, wie man
+                  eine Gottesgabe gebrauchen muß.«</p>
+               <p>
+                  <pb/> »Ich versteh schon, Herr Waisenpfarrer!« erwiderte der Jüngling, der mit der
+                  ersten Anrede seine Beengung weggesprochen und sich in einen Ton bescheidener
+                  Zutraulichkeit hineingefunden hatte. »Ich versteh schon. Das ist wie mit dem Wein.
+                  Der ist auch eine Gottesgabe. Wenn man aber solche Gottesgabe zu hart strapaziert,
+                  so wirft sie den Menschen hin, daß er gleichsam wie vierfüßig wird. Dagegen, wenn
+                  man sie mit Maß genießt, so erfreut sie das Herz und macht helle Gedanken im Kopf.
+                  Grade so ist's auch mit der Freiheit. Wenn man von der über Durst trinkt, so kann
+                  sie einen auch wohin werfen, wo zum Beispiel keine Freiheit mehr ist.«</p>
+               <p>Bei diesen Worten wies er mit dem Daumen über die Schulter nach dem Gebäude, das
+                  er soeben verlassen hatte, und seine weißen Zähne blinkten lachend zwischen den
+                  kirschroten Lippen hervor.</p>
+               <p>»Ja, so ist's, mein Freund«, versetzte der Geistliche. »Man pflegt wohl zu sagen:
+                  ich nehme mir die Freiheit, das und das zu tun. Das ist nur so eine höfliche
+                  Redensart. Mancher aber nimmt sich mehr Freiheit, als er einem andern gönnt, und
+                  tut einem andern etwas, was er sich selbst nicht angetan wissen will. Das aber ist
+                  zu viel Freiheit, und Er weiß wohl, was zu viel ist, das ist vom Übel. Eigentlich
+                  sollten wir unsere Freiheit bloß dazu anwenden, um einander lauter Liebes und
+                  Gutes zu tun; denn wenn die Menschen alle einander dienen würden, dann wäre ja ein
+                  jeglicher so wie ein Diener auch wieder ein Herr, und dann wäre die wahre Freiheit
+                  in der Welt.«</p>
+               <p>
+                  <pb/> »Ja, wenn alle so wären, wie der Herr Waisenpfarrer, dann wär's keine Kunst,
+                  ihnen zu dienen. Aber so ist's nicht in der Welt. Da ist viel Herzenshärtigkeit
+                  und Schlechtigkeit, nicht bloß solche, die den Nebenmenschen übervorteilt, sondern
+                  auch Bosheit, die ihm ohne allen Grund die Milch sauer macht, und wenn man auf so
+                  einen Giftmichel trifft, so meint eben die Faust gleich, sie müsse ein Wörtlein
+                  mit ihm reden.«</p>
+               <p>»Mein Sohn«, sagte der alte Geistliche, »man hat den Verstand dazu, daß man der
+                  Faust nicht ihren Willen läßt. Und es kommt nur darauf an, daß man einem Menschen
+                  seine gute Seite abgewinnen lernt. Eine gute Seite hat auch der Schlimmste. Wenn
+                  man aber einmal diese gefunden hat, so ist's, als hätte man den Schlüssel zu einer
+                  sonst verschlossenen Türe, und wenn man hineingeht, so trifft man oft auf Dinge,
+                  die man gar nicht hinter dieser Türe gesucht hätte. Da ist zum Exempel ein
+                  gewisser Friedrich Schwan. Den hat man mir geschildert als einen rohen,
+                  verworfenen Burschen, dessen Herz keiner guten Regung fähig sei – Faust in Sack!
+                  Die Leute urteilen eben nach der Außenseite – und wie ich ihn nun selber
+                  kennenlernte, da fand ich in ihm einen Menschen, dessen Herz wie ein wild
+                  aufgeschossenes Reis ist, trotzig und aufrührisch gegen jedes rauhe Lüftchen,
+                  weich und geschmeidig gegen jeden freundlichen Sonnenstrahl, einen Menschen, der
+                  gegen harte Worte und Behandlungen störrisch bleibt und den man mit Güte um den
+                  Finger wickeln kann. Ist's nicht so?«</p>
+               <p>
+                  <pb/> »Ja, so ist's, Herr Waisenpfarrer«, antwortete der junge Mensch verlegen und
+                  gerührt.</p>
+               <p>»Nun, das ist aber auch keine Kunst, gegen Gute gut zu sein. Wenn's weiter nichts
+                  wäre als das, so würden wir ja durch die breite Pforte in den Himmel eingehen,
+                  statt durch die schmale.«</p>
+               <p>»Das ist wahr, Herr Waisenpfarrer«, erwiderte der junge Mensch bedenklich. »Aber
+                  wenn alle Menschen unterdiensthaft gegeneinander wären, wie Sie vorhin gesagt
+                  haben, so wäre es gerade dasselbe Ding.«</p>
+               <p>»Allerdings. Aber da die Menschen im allgemeinen bis jetzt nicht geneigt sind, uns
+                  die Himmelspforte so breit und bequem zu machen, so dürfen wir deshalb der
+                  schmalen nicht untreu werden. Wir müssen gegen unsere Nebenmenschen gerade so
+                  liebreich und dienstfertig sein, wie sie eigentlich gegen uns sein sollten,
+                  unangesehen, ob sie es sind oder nicht. Vielleicht gewinnen wir sie dadurch und
+                  bewegen sie, unser Beispiel nachzuahmen.«</p>
+               <p>»Ja, ja, Herr Waisenpfarrer«, fiel der junge Mensch lebhaft ein, »das ist gerade,
+                  wie wenn ein ungebautes Stück Feld umgebrochen werden soll. Da kommt es nur drauf
+                  an, daß einmal ein Anfang gemacht wird, der für den Fortgang und fürs Fertigwerden
+                  Bürgschaft gibt, und ist also ein kleines umgepflügtes Flecklein fast schon so
+                  wichtig wie das ganze künftige Neubruchland.«</p>
+               <p>»Er hat mich gar wohl gefaßt«, versetzte der alte Herr mit freundlichem Lächeln.
+                  »Wenn das Reich Gottes auf Erden erscheinen und ihm die Stätte bereitet <pb/>
+                  werden soll, so tut es zuerst not, daß ein Kern von guten Menschen gezogen wird,
+                  von welchen die Güte und der Segen allmählich auf die andern übergehen kann. Die
+                  müssen aber festhalten wie ein Häuflein Streiter, von denen der Ausgang einer
+                  Schlacht abhängt. Ja, mein Sohn«, fuhr er fort und legte ihm die abgemagerte Hand
+                  auf dieselbe Schulter, welche vorhin der Aufseher so unsanft berührt hatte, »da
+                  muß man den Pflug über das trotzige Herz gehen lassen, da muß man eine Beleidigung
+                  nicht mit Tätlichkeiten erwidern, die ins Zuchthaus führen. Vielmehr, wer zu jenen
+                  Kerntruppen gehören will, der muß gegen seinen Feind gar noch ein gutes Wort und
+                  ein freundlich Gesicht aufzuwenden haben, und was noch weit mehr heißen will, es
+                  muß ihm sogar von Herzen gehen.«</p>
+               <p>Der Jüngling, der irgendeinen Widersacher im Geiste vor sich stehen sehen mochte,
+                  trat bei dieser Zumutung betreten einen Schritt zurück. Die Größe der Aufgabe war
+                  ihm augenscheinlich schwer aufs Herz gefallen. – »Aber«, sagte er, »da wird
+                  mancher denken, wie es im Evangelium heißt: das ist eine harte Rede, wer kann sie
+                  hören?«</p>
+               <p>Der Greis lächelte. »Mein junger Freund ist sehr bibelfest«, versetzte er, »ich
+                  bemerke das heut nicht zum erstenmal. Die besten Kernsprüche, die schönsten
+                  Liederverse hat er fest im Kopfe behalten, aber ob auch in einem feinen Herzen?
+                  Das ist nun die Frage. Diese schönen Stellen, welche die Jugend in den Schulen
+                  auswendig lernt und oft recht gedankenlos dahersagt, sind Samenkörnern zu
+                  vergleichen.<pb/> Nun ist es zwar um ein Samenkorn ein edles Ding, aber der
+                  aufgewachsene Baum und seine Früchte sind doch noch etwas ganz anderes. Oh, mein
+                  lieber Friedrich, ich fürchte« – bei diesen Worten hob er liebreich den Finger
+                  gegen ihn auf –, »ich fürchte, dieses trotzige Gemüt muß noch durch Leiden gebeugt
+                  und recht umgebrochen werden, wenn es ein Boden werden soll, darin der Same zu
+                  Früchten aufgehen kann. Mein Sohn, habe Er immer den vor Augen, von dem wir jene
+                  Sprüche überkommen haben, der nicht schalt, da er geschlagen ward, und nicht
+                  dräuete, da er litt. Ich will Ihm aber nicht mit einem Male ein Werk auflegen, das
+                  für manche zartere Seelen noch zu schwer ist. Fange Er im Kleinen an, mein lieber
+                  Sohn. Strebe Er, sanftmütig zu werden. Denke Er immer zur rechten Zeit daran, den
+                  aufquellenden Zorn zu bezähmen; denn der Zorn hat einen bösen Urahn, den Mörder
+                  von Anbeginn, und wenn man ihn herausläßt, so gleicht er der Kugel, von der das
+                  Sprichwort sagt: ›wenn sie aus dem Rohr ist, so ist sie des Teufels‹. Vor allem
+                  aber will ich Ihm eines ans Herz legen. Er ist vermöglicher Leute Kind, und in
+                  einem Wirtshause fallen manche Brocken ab. Benütze Er diese Gelegenheit, um Gutes
+                  zu tun und nach Seinen Kräften den traurigen Unterschied, der in der Welt ist, ein
+                  wenig auszugleichen. Er kann, ohne Seinen Vater zu übervorteilen – und das darf Er
+                  ja nicht tun! –, manchem armen Schlucker etwas zufließen lassen. Ich sage das
+                  nicht, daß Er meinen soll, Er könne sich ein Verdienst vor Gott damit erwerben.
+                  <pb/> Aber der rechte Glaube wird auch immer die rechten Werke gebären, und
+                  hinwiederum, wer die rechten Werke tut, der setzt zugleich sein Inneres in die
+                  rechte Verfassung, wie sie vor Gott sein soll; denn Gutes tun macht ein gelindes
+                  Herz. Deshalb, mein Sohn«, beschloß er mit einem unbeschreiblich heitern und
+                  scherzhaften Lächeln, »will ich Ihm, da Er noch so jung ist, nicht zumuten, daß Er
+                  gleich als Flügelmann unter jene Kerntruppen tritt, von denen ich gesprochen habe.
+                  Suche Er nur zuerst als Marketender bei ihnen anzukommen, dann kann Er sich
+                  allmählich weiter aufdienen, bis –«</p>
+               <p>Ein Geräusch unterbrach ihn, das ihm den frommen Scherz aufs kläglichste
+                  verbitterte. Unzweideutige Schläge hallten von dem untern Stockwerk her, dem der
+                  Geistliche und sein aufmerksames Beichtkind nahe standen. Sie folgten mit
+                  unerbittlicher Regelmäßigkeit aufeinander, so daß der Greis die schwache Hand
+                  ausstreckte, als ob diese abwehrende Gebärde der Grausamkeit ein Ende machen
+                  könnte. Man hörte kein Geschrei, sondern nur ein dumpfes Knurren, in welchem
+                  jedoch der menschliche Ton zu unterscheiden war. Dieses Knurren, das sich in
+                  Zwischenräumen wiederholte, machte den Vorgang weit unheimlicher, als wenn die
+                  lautesten Wehklagen ihn begleitet hätten.</p>
+               <p>Der junge Friedrich ballte die Faust gegen das Gebäude. »Diese Prügelhunde!« rief
+                  er, »es ist ihnen nur wohl, wenn sie zuschlagen können.«</p>
+               <p>Der Waisenpfarrer legte ihm wieder die Hand, die aber diesmal zitterte, auf die
+                  Schulter. »Mein Sohn«,<pb/> sagte er, »die Menschen haben es mit der Sünde
+                  verdient, daß der Schmerz und das Wehtum in die Welt gekommen ist. Wo aber Strafe
+                  ist, heißt es, da ist Zucht, und wo Friede ist, da ist Gott.«</p>
+               <p>Die Schläge hallten dazwischen fort. Der Greis brach mit einem tiefen Seufzer die
+                  Unterredung ab. »Nun lebe Er wohl, mein lieber Friedrich«, sagte er. »Gott sei mit
+                  Ihm auf allen Seinen Wegen. Denke Er an das, was ich Ihm gesagt habe, damit wir
+                  uns fröhlich und ebendarum niemals mehr an diesem Orte wiedersehen.«</p>
+               <p>Er drückte ihm die Hand und wankte, so eilig als er es vermochte, an seinem Stabe
+                  dahin. Zwar hatte auch er die Meinung seinerzeit ausgesprochen, daß durch grausame
+                  Züchtigungen der Wille Gottes erfüllt und sein Kommen vorbereitet werde, aber er
+                  schien doch nicht gern dabei zu sein und hatte es in diesem Augenblick wohl tief
+                  empfunden, daß das Reich Gottes, so wie er es verstand, noch sehr ferne sei.</p>
+               <p>Der junge Friedrich aber blieb unter den Fenstern des Zuchthauses stehen und
+                  lauschte dem Geräusch der Pein, vor welchem sein ehrwürdiger Beichtiger entflohen
+                  war. Er fühlte zwar nicht geringe Entrüstung über die Gewalt, die hier einem
+                  Menschen angetan wurde, aber der Schmerz des Armen verursachte ihm, der selbst
+                  schon manchen derben Puff ausgehalten hatte, kein besonders zartes Mitgefühl.</p>
+               <p>Die Schläge hörten endlich auf. Bald hernach öffnete sich die Türe, und von einer
+                  unsichtbaren Hand geschleudert, kam ein Mensch herausgeflogen. <pb/> Der Stoß war
+                  nicht eben sanft gewesen, doch hie der Hinausgeworfene sich wie eine Katze auf den
+                  Füßen. Sein Gesicht zeigte trotz der zigeunerischen Farbe die Spuren überstandener
+                  Anstrengung, es war dunkelrot, und ein schielendes Auge gab diesen jugendlichen
+                  Zügen einen furchtbaren Ausdruck. Der junge Zigeuner, der soeben einen rauhen
+                  Abschied durchgemacht hatte, schüttelte sich am ganzen Leibe, er kehrte sich gegen
+                  das Zuchthaus um, streckte die Zunge, so lang er konnte, heraus und ging dann
+                  gemächlich seiner Wege.</p>
+               <p>»Ich glaub, sie haben dich mit ungebrannter Asche gelaugt, und das scharf«, sagte
+                  Friedrich, als er an ihm vorüberkam.</p>
+               <p>»Ich glaub auch«, war die trockene Antwort des Zigeuners, der einen Blick aus
+                  seinem scheelen Auge über den Frager hinlaufen ließ und sich von dannen
+                  machte.</p>
+               <p>Friedrich, der auf den Burschen neugierig geworden war, folgte ihm von weitem
+                  nach. Aber erst als sie Ludwigsburg mit seinen vornehmen regelrechten Straßen
+                  hinter sich hatten, wagte er, die Gesellschaft des verachteten Zigeuners
+                  aufzusuchen. Dieser schien nachlässig vor sich herzuschlendern, und doch hatte er
+                  Mühe, gleichen Schritt zu halten und ihn endlich einzuholen.</p>
+               <p>»He, wohinaus, Landsmann?« schrie er ihn an.</p>
+               <p>»Dem Hohenstaufen zu«, antwortete der Zigeuner seitwärts herüber, ohne sich in
+                  seinem Gange aufhalten zu lassen.</p>
+               <p>»Dann haben wir ja schier gar einen Weg«, sagte <pb/> Friedrich, an seiner Seite
+                  gehend. »Der meinige führt nach Ebersbach.«</p>
+               <p>»Da können wir wenigstens eine Strecke weit beisammenbleiben«, erwiderte der
+                  Zigeuner.</p>
+               <p>Die beiden jungen Burschen gingen nun mit wackeren Schritten durch die Ebene und
+                  dann jenseits des Neckars über die Anhöhen hin, welche zwischen diesem und der
+                  Rems liegen, und machten nach einer tüchtigen Wanderung bei einem einsamen
+                  Wirtshäuschen halt, wo Friedrich seinen Gefährten zu Gaste lud. Eine Flasche vom
+                  Saft des Apfels und ein Rettich, der den Sommer überlebt hatte, war alles, was ihm
+                  ein paar gesparte Pfennige aufzutischen erlaubten. Die vorgerückte Jahreszeit ließ
+                  sich so mild an, daß die beiden Wanderer im Freien auf der verwitterten Bank unter
+                  dem alten Apfelbaum ihr Mahl verzehren konnten. Hungrig und durstig griffen sie zu
+                  und ließen sich's nach der Weise der Jugend schmecken.</p>
+               <p>Wie lustige Sperlinge genossen sie der wiedererlangten Freiheit, schalten auf das
+                  Gefängnis, von dem sie herkamen, spotteten über die Schwachheiten der Aufseher und
+                  erzählten sich lose Streiche, womit sie deren Wachsamkeit umgangen hatten. Unter
+                  Plaudern und Lachen war die Flasche nur allzubald geleert. Sie kehrten alle
+                  Taschen um, bis sie in der erdenklich kleinsten Münze, aber auch mit dem
+                  erdenklich größten Jubel die nötige Summe zusammengebracht hatten, um eine zweite
+                  zu bestellen.</p>
+               <p>»Wie bist du denn eigentlich«, fragte Friedrich unter dem Einschenken, »in den
+                  Gasthof zur Kardätsche <pb/> geraten? Mit bloßem Vagabundieren hast doch so jung
+                  nicht so hoch in die Wolle avancieren können.«</p>
+               <p>»Nein«, erwiderte der Zigeuner unbefangen, »ich hab krumme Finger gemacht.«</p>
+               <p>»Pfui«, rief Friedrich, »Stehlen, das ist was Hundsgemeines, heißt das, wenn
+                  –«</p>
+               <p>»Von z'wegen was seid Ihr hineingekommen?« unterbrach ihn der Zigeuner etwas
+                  rasch. Ungeachtet des Ärgers über die biderbe Bemerkung vergaß er nicht, daß sein
+                  Genosse der herrschenden Nation angehörte und daß er den größeren Teil der Zeche
+                  bezahlt hatte: Grund genug, ihn in der majestätischen Mehrzahl anzureden. – »Man
+                  wird Euch auch nicht bloß um der Kostbarkeit willen hinter Glas und Rahmen
+                  aufgehoben haben.«</p>
+               <p>»Ich hab einen durchgeprügelt und das lederwindelweich. Der Heuchler gab dann vor,
+                  er könne den Arm nicht mehr gebrauchen. Es war aber erlogen, und so schickten sie
+                  mich eben auf ein halb Jahr an das Örtchen, von dem man nicht gern red't.«</p>
+               <p>Der Zigeuner machte ein unbefriedigtes Gesicht. »Und habt Ihr Euch niemals an
+                  fremdem Eigentum vergriffen«, fragte er, »daß Ihr da so auf dem höchsten Gaul
+                  sitzen könnt? Seid Ihr niemals einem andern in die Äpfel gegangen oder in die
+                  Kirschen? Denn«, setzte er eifrig hinzu, »Stehlen ist Stehlen, das sag ich.«</p>
+               <p>»Ja, meinem Vater bin ich wohl über die Kirschen gegangen und auch über die
+                  Geldlade. Aber das ist<pb/> was anderes, das geht ja vom eigenen und heißt eben
+                  vor der Zeit geerbt. Das ist nicht gestohlen. Stehlen heißt, wenn man fremden
+                  Leuten das Ihrige nimmt, und das ist eine Schmählichkeit.«</p>
+               <p>»Wenn bei uns einer«, versetzte der Zigeuner höhnisch, »seine Eltern bestehlen
+                  würde, so könnte seines Bleibens nicht mehr sein; der ärgste Spitzbube würde ihn
+                  verachten und anspeien. Bei uns ist es Sitte, daß man die Eltern ehrt und liebt
+                  und daß man ihnen eher zubringt, als daß man sie bestiehlt. Dafür lassen sie es
+                  aber auch an ihren Kindern nicht fehlen, sie geben ihnen den letzten Bissen vom
+                  Munde weg, und des halb ist es gar nicht möglich, daß so etwas bei uns vorkommt.
+                  Ist mir auch eine ganz besondere Lebensart, daß ich einen Fremden schonen soll,
+                  der mich nichts angeht, und soll mich dagegen an meinem Vater vergreifen, der mir
+                  der Nächste ist in der Welt. Das bring mir ein anderer in den Kopf, mir ist es zu
+                  hoch. Kommt mir gerade vor, wie wenn im Krieg einer sich von den Feinden abwenden
+                  wollte und auf seine Freunde schießen.«</p>
+               <p>Friedrich war betroffen. Sein gesunder Verstand sagte ihm, daß etwas Wahres an
+                  dieser Ansicht sei, und doch konnte er sie nicht zugeben, da sie den Sitten und
+                  Gewohnheiten, unter denen er aufgewachsen, völlig widersprach. Die beiden jungen
+                  Leute stritten eifrig und konnten sich lange nicht verständigen. Darin waren sie
+                  zwar einer Ansicht, daß auf die »Herrschaft« keine strengen Begriffe von Eigentum
+                  anzuwenden, daß die Tiere im Walde, die Fische im Wasser eigentlich Gemeingut
+                  seien; aber über den<pb/> Rest des großen Kapitels vom Mein und Dein konnten sie
+                  nicht einig werden.</p>
+               <p>»Stehlen und Stehlen ist zweierlei«, rief Friedrich zuletzt. »Geh du nach
+                  Ebersbach und frag von Haus zu Haus, ob die Leut nicht einen Unterschied machen,
+                  und die Leut müssen doch auch wissen, was sie tun. Überall gilt's für eine größere
+                  Schande, wenn einer einem Fremden was stiehlt, als wenn er's den Eigenen nimmt;
+                  denn da bleibt's ja in der Familie.«</p>
+               <p>»Dann sollte man ihn auch in der Familie abmurxeln«, sagte der hartnäckige
+                  Zigeuner, »und jedem davon ein Stück zum Kochen geben, wenn eure Gesetze so
+                  schlecht sind, daß sie bloß den einen Diebstahl strafen, den andern aber
+                  nicht.«</p>
+               <p>»Oha«, sagte Friedrich, »umgekehrt ist auch gefahren. Selbiges ist anders. Die
+                  Gesetze, die sind so überzwerch wie du, die behaupten auch, Stehlen sei Stehlen.
+                  Wie es herauskam, daß ich meinem Vater ein paar hundert Gulden genommen hatte, die
+                  er mir nicht gutwillig geben wollte, um in die Fremde zu gehen, da taten sie mich
+                  geschwind nach Ludwigsburg zum Wollkardätschen, ob ich gleich erst ein
+                  unverständiger vierzehnjähriger Bube war. Damals hab ich auch gelernt, was der
+                  Willkomm und Abschied für höfliche Komplimente sind, und hab empfunden, wie es
+                  patscht, wenn Haselholz und Hirschleder zusammenkommen.«</p>
+               <p>Der Zigeuner schlug ein lustiges Gelächter auf. »Aber nicht wahr«, rief er
+                  triumphierend, »mit einem solchen Leibschaden noch stundenlang drauflos <pb/>
+                  marschieren und dann auf einem hölzernen. Bänkchen herumrutschen, das könnt auch
+                  nicht ein jeder.«</p>
+               <p>»Nun, nun«, entgegnete Friedrich, »man merkt's dessenungeachtet wohl, wo du
+                  dermalen deine schwache Seite hast. Du sitzt ja so windschief da, als wenn das
+                  Bänkchen unter dir brennte, die armen Seelen in der Hölle, die auf dem
+                  Glufenhäfelein sitzen, können nicht öfter wechseln und nicht possierlicher den Fuß
+                  an sich ziehen. Aber das muß man dir lassen: mannlich hast du dich gehalten. Wenn
+                  ich nur noch ein paar übrige Kreuzer hätt, so ließ ich dir einen Kirschengeist zum
+                  Einreiben kommen.«</p>
+               <p>»Einreiben! Wer wird auch die Gottesgabe so sündlich verschwenden! Den
+                  Kirschengeist muß man innerlich brauchen, von innen heraus kuriert er noch einmal
+                  so schnell.«</p>
+               <p>»Das glaub ich dir!« lachte Friedrich. »Überhaupt hab ich schon oft gedacht, ihr
+                  Zigeuner müsset ein gutes Fell haben, stich- und kugelfest. Man könnt's, schätz
+                  ich wohl, zum Überzug für ein schwaches Gewissen brauchen.«</p>
+               <p>»Es dient oft auch dazu. Ja, eine gute Haut, die muß der Zigeuner haben, und
+                  hartgesotten muß er sein, wenn er solch mühseliges Leben aushalten soll. Frost und
+                  Hitze muß ihm gleichviel gelten. Halbnackt muß er gehen können, wenn ihm der
+                  gefrorne Schnee unter den Füßen kracht, und die schwerste Bürde muß ihm wie ein
+                  Flaum sein, wenn ihn die Sonne mittags auf die Glieder sticht. Sein Lager ist
+                  unter Gottes freiem Himmel, und in böser <pb/> Nacht hat er's nicht immer so gut,
+                  daß er auch nur im Hüterhäuschen unterkriechen kann. Oft hat er nur einen Baum zum
+                  Obdach, unter dem schläft er zufrieden, wenn der Sturm durch die Äste fährt und
+                  die Blätter schüttelt, daß ihm der kalte Regen auf die Stirne tropft.«</p>
+               <p>»Herr Gott«, rief Friedrich mit rauher Rührung, »ich kann doch auch was vertragen,
+                  aber so ein Leben muß ja den besten Mann umbringen! Mußt du nicht selber sagen,
+                  daß es vernünftiger wäre, wenn ihr das Heidenleben aufgäbet, eine christliche
+                  Ordnung anfinget und ließet euch mit andern ehrlichen Christenmenschen in Handel
+                  und Wandel ein? Wer ein paar tüchtige Arme hat und einen Kopf, der sie regiert,
+                  der wird nicht sobald mit leerem Magen ins Bett gehen und nicht im kalten Regen
+                  schlafen dürfen.«</p>
+               <p>»Wir sind so gute Christen wie ihr«, versetzte der junge Zigeuner eifrig, »es mag
+                  sich fragen, ob wir nicht besser sind? Aber wie wollten wir denn mit euch leben?
+                  Ihr stoßt uns ja aus und wollt keine Gemeinschaft mit uns haben. Wie kann der
+                  Zigeuner, dem ihr mit Verachtung die Türe weiset, sein ehrlich Brot bei euch
+                  verdienen? Ich bin aus einer Familie, die schon seit zweihundert Jahren hier im
+                  Württembergischen, dann im Deutschherrischen drunten und in den beiden
+                  Markgrafschaften am Rheine drüben hin und wieder zieht. Nun fehlt es uns zwar dort
+                  nicht an Bekanntschaften, aber ich möchte doch auch in all diesen Landen einen
+                  einzigen Menschen sehen, wenn unsereiner z.B. käme <pb/> und ihm sagte: ›Ich will
+                  ein ander Leben führen und ein ordentliches Wesen anfangen, da bin ich, nimm mich
+                  auf, teile dein Haus und dein Brot mit mir, soviel als dir meine Dienste wert sein
+                  mögen‹ – den Menschen möcht ich sehen, der darauf sagen würde: ›Tritt ein und
+                  bleibe bei mir.‹ Auch unter den Unsrigen möcht ich den Menschen sehen, dem es im
+                  Schlaf einfallen könnte, eine solche Bitte zu tun. Denn jeder weiß die Antwort im
+                  voraus und weiß, wie man beiderseits voneinander denkt. Das ist jetzt eben einmal
+                  von Anbeginn so und wird auch nicht mehr anders werden. Ich weiß wohl, ein mancher
+                  von den Meinigen ist eines bösen Todes gestorben, und wie könnte es auch anders
+                  sein? Das Element, in dem einer lebt, ist natürlicherweise auch zuletzt sein Tod.
+                  Das ist allenthalben so. Wer sein Leben lang im Hanfsamen sitzt wie ein freier
+                  Spatz, der find't wohl auf die Länge auch ein hänfenes Ende. Man tät's wohlfeiler
+                  nehmen, wenn man's haben könnte. Ein paar fette Kapitälchen verzinsen, essen und
+                  trinken, was gut schmeckt, mit vier Schweißfuchsen fahren oder auch nur mit
+                  zweien, – meint Ihr, der Zigeuner habe zu einem solchen gemächlichen Leben nicht
+                  so viel Genie als irgend jemand in der Christenheit?«</p>
+               <p>»Mir zweifelt's gar nicht!« lachte Friedrich. – »Aber jetzt kann ich auch auf
+                  einmal begreifen, warum du es für so schandhaft hältst, wenn von euch einer seinem
+                  eigenen Vater etwas nehmen würde, und an diesem Beispiel wird mir's klar, daß du
+                  eigentlich Ehr im Leibe hast. Denn die Moral ist bei euch im<pb/> Grund die
+                  nämliche wie bei uns, nur daß sie natürlicherweise umgekehrt ist.«</p>
+               <p>Mit diesen Worten, die zwar keine klare Anschauung des Standpunkts, aber doch eine
+                  gewisse Ahnung desselben verrieten, suchte er die obschwebende Streitfrage zu
+                  lösen. »Aber es wird spät«, fuhr er fort, »und wenn wir die Buttel auch auswinden
+                  wie ein Leintuch in der Wäsche, so pressen wir doch keinen Tropfen mehr raus.
+                  Weißt was? Komm du mit mir über Ebersbach, ich will dir einen heidenmäßigen
+                  Kirschengeist einschenken zur inwendigen Kur. Ob du links am Staufen vorbeigehst
+                  oder rechts, das ist gehopft wie gesprungen.«</p>
+               <p>»Ja, es ist am End ein Ding«, entschied sich der Zigeuner, »und auf eine Stunde
+                  soll mir's nicht ankommen.«</p>
+               <p>Die beiden jungen Burschen erhoben sich und stiegen die gelinden Anhöhen hinab, an
+                  deren Fuße das Filstal sich gegen den Neckar öffnet. Wohlgemut schlenderten sie
+                  die Straße an dem Flüßchen aufwärts; der Zigeuner pfiff gellende Weisen, Friedrich
+                  aber schwieg still, und unter seiner breiten Stirne schien ein mächtiger Gedanke
+                  zu arbeiten. Die Worte des Waisenpfarrers gingen ihm im Sinne herum; das Vertrauen
+                  des ehrwürdigen alten Mannes hatte ihn stolz gemacht, und es war ihm zumute, als
+                  ob er gar nichts nötig hätte als ein bißchen guten Willen, um ein großes Werk
+                  zustande zu bringen.</p>
+               <p>Sie waren wohl eine gute Stunde so zugeschritten, ohne ein Wort miteinander zu
+                  reden, als Friedrich <pb/> auf einmal stehenblieb und seinen Gefährten kräftig am
+                  Arme faßte. »Und ich sag dir«, rief er, »du bleibst bei mir! Ich will dir zeigen,
+                  daß ich auch ein guter Christ bin. Wenn ich dein armes verstoßenes Volk in das
+                  Erbe einsetzen könnte, das von Gott und Rechts wegen einem so gut gehört wie dem
+                  andern – mit einem Schlag wollt ich das tun. Nun kann ich aber weiter nichts, als
+                  an einem einzelnen, der mir unter die Hände kommt, ein christlich Werk verrichten.
+                  Du gehst mit mir, da ist keine Widerrede, die Sonne von Ebersbach hat Raum für
+                  viele! Da wird sich schon ein Plätzlein für dich finden im Haus und ein Stuhl am
+                  Tisch und ein Brocken in der Schüssel. Zu tun gibt's auch immer etwas, du dienst
+                  meinem Vater als Knecht, wie ich, und sollst es nicht schlechter haben als ich. An
+                  Frost und Schneepatschen, an Last und Hitze wird's zwar nicht fehlen, je nachdem
+                  die Jahreszeit ist; aber das Schlafen im kalten Regen und alles andere, was dazu
+                  gehört, das soll und muß ein Ende haben. Komm her, schlag ein.«</p>
+               <p>Der andere hatte ihn anfangs mit seinem scheelen Auge verwundert angesehen; die
+                  Zuversichtlichkeit seiner Rede schien aber jedes Bedenken bei dem Zigeuner
+                  verwischt zu haben, und er tat, wie ihn sein Gefährte hieß. Friedrich erwiderte
+                  seinen Handschlag mit einem noch kräftigeren, und zufrieden, wie wenn sie einen
+                  guten Markthandel abgeschlossen hätten, setzten sie ihren Weg miteinander fort.
+                  Der Tag begann sich eben zu neigen, da breitete sich das Ziel ihrer Reise, ein
+                  beträchtlicher Flecken, <pb/> in angenehmer Talweite zwischen den Anhöhen
+                  wohlgelegen, freundlich und heimatlich vor ihren Augen aus.</p>
             </div>
             <div type="chapter">
                <head>2</head>
@@ -4977,315 +5010,327 @@
          <div type="group">
             <head>Zweiter Teil</head>
             <div type="chapter">
-            <head>15</head>
-            <p>Christinens Brief war immer noch nicht fertig, und ihr Vater hatte den Weg zum
-               Pfarrer und Chirurgus gleichfalls noch nicht gefunden, da verbreitete sich eines
-               Tages im Flecken das Geschrei, des Sonnenwirts Frieder sei wieder da oder wenigstens
-               im Anzuge begriffen. Die Nachricht drang mit großer Schnelligkeit selbst zu dem
-               entlegenen Hause des Hirschbauers, und einer von Christinens Brüdern machte sich
-               sogleich auf, um Kundschaft einzuziehen. Es verhielt sich wirklich so, wie das
-               Gerücht sagte. Ein Fuhrmann, der in der ›Sonne‹ einkehrte, hatte den Erben derselben
-               unterwegs, und zwar in ziemlich abgerissenem Zustande, angetroffen; zur Bestätigung,
-               daß er die Wahrheit sage, zeigte er ein Schreiben vor, das ihm der Wanderer
-               mitgegeben hatte, um es an denjenigen seiner beiden Schwäger, zu welchem er noch das
-               meiste Vertrauen hatte, zu bestellen. Es ging soeben sehr lebhaft in der ›Sonne‹ zu,
-               weshalb die Neuigkeit wie ein Lauffeuer sich verbreitete. Der Fuhrmann erzählte noch,
-               er habe den Frieder aufsitzen heißen; derselbe habe sich aber geweigert, da er nicht
-               nach Hause kommen wolle, bis er wisse, wie er aufgenommen werde. Er gab den Brief
-               einem Knechte, der ihn zum Chirurgus hinübertrug. Dieser ließ nach einer Weile dem
-               Sonnenwirt sagen, es sei endlich Nachricht von seinem <pb/> Sohne da; wenn der Herr
-               Vater aufgelegt sei, sie zu hören, so wolle er mit dem Briefe herüberkommen. Der
-               Sonnenwirt antwortete, er habe im Augenblick alle Hände voll zu tun, und auf den
-               Abend wolle er Ruhe haben; morgen sei auch ein Tag, um von verdrießlichen Dingen zu
-               reden.</p>
-            <p>Auf den andern Tag wurde in der ›Sonne‹ ein Familienrat zusammenberufen, welchem der
-               Chirurgus den Brief seines jungen Schwagers vorlas. Derselbe lautete gleich eingangs
-               so über alle Maßen niedergeschlagen und unterwürfig, daß die Sonnenwirtin einmal über
-               das andere in ein triumphierendes Gelächter ausbrach. »Geliebter Schwager«, las der
-               Chirurg, »ich weiß mir nicht mehr zu helfen, so will ich Ihn um Gottes Willen gebeten
-               haben, mir einen Rath zu ertheilen, denn ich laufe in der Irr, als wie ein verlornes
-               Schaf; so rufe ich zu Gott, er möchte mir einen Hirten senden, der mich wieder auf
-               den rechten Weg bringen sollte. Meine Reise ist nicht bestanden, wie ich geglaubt
-               hab: mein Herr Vetter hat des Gerichtsschreibers Sohn von Boll zum Knecht, und hat
-               ihn nicht fortschicken können, weil er auch ein Freund von ihm sei. So bin ich
-               diesesmal in mich selber gangen und mußt erst erkennen, was ich bei meinem Vater vor
-               gute Tag gehabt hab und ihm nicht gefolgt, so bitt ich nur noch diesesmal zu helfen
-               und mich nicht zu verlassen. Meine Eine Bitt an die Meinen ist, mir nur noch so viel
-               zu helfen, daß ich nur einer von seinen Taglöhnern sein möchte. Ich werde gewiß
-               meinem Vater in allen Stücken gehorsam sein; wann ich es nicht tue <pb/> und ihm im
-               Geringsten was anstelle, so sprich ich das Urteil wider mich und schreibe meine
-               eignige Hand unter, daß ich auf den ewigen Arrest soll gesetzt werden. Ich weiß wohl,
-               ich hab es gegen den Herrn Schwager nicht verdient, weil ich Ihn schon in vielen
-               Stücken erzürnt und beleidiget hab, es ist mir aber herzlich leid, es wird
-               inskünftige nicht mehr geschehen. So mein ich nun, ob der Schwager nicht eine Bitte
-               vor mich bei dem Herrn Amtmann tun möchte. Man redt wider mich in Eberspbach, es
-               sollte einen Heiden erbarmen über solche Reden: ich soll gesagt haben, ich wolle alle
-               Häuser in Brand stecken und den und jenen todt stechen. Mein Hertze hat noch niemal
-               daran gedacht. Geliebter Herr Schwager, ich gedenke auch noch an Gott, und gedenke
-               bei mir selbst, ich möcht hinkommen wo ich wollt, und Gott möchte mich auf das
-               Krankenbette legen, ich gewiß mein Vaterland durch solche Streich nicht verschertzen
-               will. So bitte ich den Schwager mich auf diesesmal nicht zu verlassen und mir einen
-               Rad zu geben und zu helfen« –</p>
-            <p>»›Rad‹ schreibt er«, unterbrach sich der Chirurg im Lesen: »er kann doch sonst besser
-               schreiben und hat das Wort weiter oben auch richtig geschrieben.«</p>
-            <p>»Seine Hand weiß mehr als er und hat das Rechte troffen«, bemerkte die Sonnenwirtin,
-               »der Weg, den er geht, führt wohl noch zu Galgen und Rad.«</p>
-            <p>»Ist der Brief aus?« fragte der Sonnenwirt.</p>
-            <p>»Ich hab das Vertrauen zu Ihm«, fuhr der Vorleser fort, »und glaub in meinem Hertzen,
-               daß Er des Herrn Amtmanns sein Hertze am besten erweichen <pb/> kann. Mein Vater
-               schickt einen Knecht fort auf Fastnacht; er erbarmet sich meiner gewiß und nimmt mich
-               wieder an, wann ich befreit bin von dem Herrn Amtmann. Ich hab nicht längere Weil
-               gehabt; wann ich mich sehen darf lassen, so will ich mündlich mit Ihm reden. Er ist
-               von mir viel tausendmal gegrüßt und schließe ihn in die Vorsorg Gottes. Sein getreuer
-               Schwager bis in den Tod.«</p>
-            <p>»Es muß ein wenig konfus in seinem Kopf hergehen«, fügte der Chirurg hinzu, »denn er
-               lebt mit dem Datum noch im vorigen Jahr.«</p>
-            <p>»Er kann eben in gar nichts ordentlich sein«, bemerkte die Sonnenwirtin.</p>
-            <p>»Jetzt, was ist zu tun?« fragte der Chirurg.</p>
-            <p>Der Krämer, der nicht wieder die Mißgriffe von neulich begehen wollte, half sich mit
-               Achselzucken, Händereiben und Lächeln nach allen Seiten hin.</p>
-            <p>Die Sonnenwirtin sagte: »Entweder ist er der Landstreicherei obgelegen, hat sein Geld
-               vertan und ist gar nicht bei dem Vetter gewesen, oder hat er drunten gleich zum
-               Einstand schlechte Streich gemacht und ist wieder fortgejagt worden. Wenn sein
-               Gewissen gut wär, tät er nicht so erbärmlich und so untertänig schreiben. Das ist
-               sonst sein Sach nicht.«</p>
-            <p>»Soviel ist richtig«, sagte der Sonnenwirt nach einigem Nachdenken, »daß der
-               Gerichtsschreiber in Boll drüben einen Sohn in die Fremde geschickt hat, und das erst
-               ganz kürzlich, denn ich hab's erst vor ein paar Tagen gehört, nur hab ich nicht sagen
-               hören, wohin. Weil er aber allerdings zu unsrer Gefreundschaft gehört, und mein
-               Bruder in Sachsenhausen <pb/> also auch ein Vetter von ihm ist, so ist's wohl
-               möglich, daß er ihn dorthin getan hat; denn seine Buben sind dickköpfig und haben
-               wenig Beruf für die Schreiberei.«</p>
-            <p>»Es kommt natürlich alles darauf an, ob die Angabe wahr ist«, bemerkte der
-               Chirurg.</p>
-            <p>»Wenn's wahr ist«, sagte der Sonnenwirt, »so müssen die beiden schier miteinander bei
-               meinem Bruder drunten angekommen sein.«</p>
-            <p>»Man muß eben hinunterschreiben«, meinte Magdalene.</p>
-            <p>»Ja, aber was fangt man derweil mit dem Buben an, bis Antwort kommt?« fragte die
-               Krämerin. »In Plochingen, von wo er schreibt, kann man ihn doch nicht liegenlassen,
-               daß er dort eine rechte Zech hinmacht.«</p>
-            <p>»Und wenn man ihn ohne weiters wieder ins Haus nimmt«, sagte die Sonnenwirtin, »so
-               setzt er sich fest und fangt das alt Lied wieder an und ist dann nicht mehr
-               fortzubringen, wenn's auch zehnmal von Sachsenhausen kommt, daß all sein Vorgeben
-               verlogen sei.«</p>
-            <p>In diesem Augenblicke hörte man ein Posthorn und gleich darauf den Knall einer
-               Peitsche. »Der Postreiter hält vorm Haus, der Hausknecht soll ihm das Pferd halten«,
-               sagte der Sonnenwirt, der ans Fenster getreten war. Es freute ihn jedesmal, wenn
-               Briefe für den Flecken in der ›Sonne‹ abgegeben wurden oder wenn Postpferde zur
-               Einkehr genötigt waren, weil er den Beweis darauf zu gründen hoffte, daß eine
-               Zwischenpost hier errichtet werden sollte. <pb/> Nach einer Weile kam der Postknecht
-               herein und überreichte ihm einen Brief: »An Herrn Hans Jerg Schwan zur löblichen
-               Sonne in Eberspbach«. Der Sonnenwirt befahl einen Schoppen und las den Brief
-               bedächtig, während jener den Wein stehend trank; denn in seinen hohen, steifen
-               Stiefeln würde ihm das Sitzen eine Arbeit gekostet haben, die sich für einen kurzen
-               Aufenthalt nicht verlohnte.</p>
-            <p>Der Sonnenwirt hatte den Brief erst zu Ende gelesen, als der Postknecht schon wieder
-               zu Pferde saß und blasend gen Göppingen weiter ritt. »Der Bub hat nicht gelogen«,
-               sagte er, »es verhält sich vielmehr alles so, wie er behauptet. Mein Bruder schreibt
-               mir da, er hätt ihn gern behalten, aber er habe dem Gerichtsschreiber in Boll für
-               dessen Sohn bereits zugesagt gehabt. Als Gast wär er ihm willkommen gewesen, solang
-               er hätte bleiben mögen, auch habe alles im Haus den Vetter gern gehabt; der aber habe
-               sich nicht halten lassen, sondern sei nach etlichen Tagen wieder fort.«</p>
-            <p>»Und hat sich, Gott weiß wie lang, in der Welt herumgetrieben«, sagte die
-               Sonnenwirtin.</p>
-            <p>»Nicht gar lang, dem Datum nach«, entgegnete der Chirurg, dem der Sonnenwirt den
-               Brief hingereicht hatte.</p>
-            <p>»Es ist zwar dumm von dem Buben«, versetzte der Sonnenwirt, »daß er auf die Einladung
-               nicht länger blieben ist; man hätt sich unterdessen für ihn umsehen und ihn anderswo
-               unterbringen können. Aber verdenken kann ich's ihm doch grad auch nicht, daß er
-               seinen Verwandten nicht als unnützer Brotesser <pb/> hat hinliegen wollen, nachdem
-               man ihn nicht zum Schaffen angenommen hat.«</p>
-            <p>»Ja«, bemerkte Magdalene, »das Sprichwort sagt: Zwei Tag ein Gast, den dritten ein
-               Überlast.«</p>
-            <p>»Von seiner Liebschaft schreibt er gar nichts«, sagte die Sonnenwirtin. »Soviel gute
-               Wörtlein er sonst gibt, so spricht er doch nicht mit einer Silbe davon, daß er in dem
-               Stück nachgeben wolle.«</p>
-            <p>»Er schreibt aber, er wolle in allen Stücken gehorsam sein und nicht das geringste
-               mehr anstellen«, entgegnete der Chirurgus. »Man kann ihn also beim Wort nehmen und
-               ihm beweisen, daß er auch das versprochen habe.«</p>
-            <p>»Recht degenmäßig schreibt er, das muß man sagen«, bemerkte die Krämerin. »Ich hätt
-               gar nicht glaubt, daß der Strobelkopf, der störrig, so mürb werden könnt.«</p>
-            <p>»Der hat sich in der Fremde die Hörner verstoßen«, sagte der Sonnenwirt behaglich
-               lachend; »das sieht man jedem Wort an, das er schreibt. Jetzt weiß er nimmer, wo aus
-               und wo ein. Ja, ja, es ist eben ein ganz anders Leben da drunten als bei uns. Die
-               Leut sind dort viel alerter und aufgeweckter, und wenn auch bei manchem nicht viel
-               dahinter ist, so ist's eben doch unsereinem, wie wenn er der Garnichts dagegen
-               wär.«</p>
-            <p>»Das glaub ich«, sagte der Chirurg, »das kann solch einem trutzigen, stutzigen
-               Schwabenkopf spanisch vorkommen.«</p>
-            <p>»Ich bin ja selbst auch schon drunten gewesen«, fuhr der Sonnenwirt fort. »Ja was!
-               Bis unsereiner <pb/> sich nur besinnt, was er sagen soll, haben die dem Teufel ein
-               Ohr weggeschwätzt. Es mag sein, daß wir im Schreiben und sonst in mancherlei
-               Solidität mehr sind als sie, wenigstens gibt man sich bei uns in der Schul mehr Müh,
-               aber nachher müssen wir ihnen weit nachstehen, sie sind viel zu geschwind für uns.
-               Mein Sohn ist gewiß keiner von den Langsamen im Geist, aber ich steh dafür und kann
-               ganz ins Feuer sehen, daß sie ihm gleich über den Kopf gewachsen sind. Und dann
-               machen sie gar keine Umständ, wie man's bei uns macht. Sie sind eigentlich doch auch
-               wieder fadengrad wie wir, und noch mehr als wir. Bei uns, da tut man einen Besuch
-               jeden Tag, den er da ist, gleichsam mit dem Seilstumpen anbinden, damit er ja sieht,
-               daß man ihn nicht fortlassen will. Mein Bruder aber, der gar kein Schwab mehr ist und
-               in dem Klima ganz die Art angenommen hat, wie die andern auch sind, der hat
-               wahrscheinlich ein einzigs Mal gesagt: Du bist willkommen, Vetter, und bleib, solang
-               du magst; und dann hat der Bub natürlich bald gemeint, man sei seiner überdrüssig,
-               weil man's ihm nicht zehn-und zwanzigmal gesagt hat. Es hätt aber nichts zu sagen
-               gehabt, denn wenn sie einen loswerden wollen, so wissen sie schon den Schnabel
-               aufzutun. Nun, jetzt hat er auf einmal einsehen gelernt, daß die Welt größer ist als
-               sein Kopf, und kommt aus der Fremde wie der Schneck, wenn er die Hörner einzieht und
-               wieder in sein Haus zurückgeht.«</p>
-            <p>»Der Herr Vater ist also der Meinung, ihn wieder anzunehmen?« fragte der Chirurg.</p>
-            <p>
-               <pb/> »Was bleibt sonst übrig?« antwortete der Sonnenwirt. »Ich wüßt nicht, wo ich
-               ihn in der Geschwindigkeit hinschicken sollt.«</p>
-            <p>»Dann kann er gleich den alten Tanz wieder anfangen«, sagte die Sonnenwirtin.</p>
-            <p>»Dafür kann man ihm tun«, entgegnete er. »Eh er nicht ausdrücklich versprochen hat,
-               daß er sich mit der Person weder mündlich noch schriftlich mehr einlassen will, kommt
-               er mir nicht ins Haus.«</p>
-            <p>»Ich will ihm das nach Plochingen schreiben«, erbot sich der Chirurg.</p>
-            <p>»Braucht nichts zu schreiben«, versetzte der Sonnenwirt. »Zuerst muß man ja doch mit
-               dem Amtmann reden, daß der seiner Heimkunft keine Schwierigkeit in den Weg legt,
-               nachdem er nun einmal die Hand in der Sach hat. Dann ist's überhaupt besser, man gibt
-               dem Buben gar keine Antwort und läßt ihn zappeln, er wird dadurch nur um so
-               mürber.«</p>
-            <p>»Wart, du wirst eine schöne Rechnung vom Plochinger Bärenwirt kriegen«, lachte die
-               Sonnenwirtin.</p>
-            <p>»Ich hab ihn nicht heißen in den Plochinger Bären hinliegen.«</p>
-            <p>»Irgendwo muß er aber doch sein«, bemerkte die Frau des Chirurgen schüchtern.</p>
-            <p>»Warum ist er nicht gleich hierhergekommen?« entgegnete der Sonnenwirt. »Wenn ich ihn
-               auch nicht ohne weiters angenommen hätt, so hätt man doch dafür sorgen können, daß er
-               eine Weile wo unterkommen wär.«</p>
-            <p>»Mir scheint's auch das nötigste, daß man sich zuerst mit dem Amt verständigt«, sagte
-               der Chirurg.</p>
-            <p>
-               <pb/> »Das übrige wird sich finden. Er hat Verwandte hier und in der Gegend und wird
-               nicht im Bären bleiben, denn er weiß, daß das den Herrn Vater verdrießen muß.«</p>
-            <p>»Wenn nur auch der Herr Amtmann seinen Konsens gibt«, bemerkte der Krämer, der die
-               Notwendigkeit fühlte, im Familienrat endlich etwas, das einer eigenen Meinung glich,
-               zu äußern.</p>
-            <p>»Es liegt ja nichts Sonderliches wider ihn vor«, versetzte der Sonnenwirt.</p>
-            <p>»Wenn's dem Herrn Vater geliebt«, sagte der Chirurg, »so bin ich erbötig, ins Amthaus
-               mitzugehen. Ich muß nur erst einen andern Kittel anziehen, damit ich ein wenig
-               amtsmäßiger aussehe.«</p>
-            <p>»Ja, wir wollen die Sach lieber gleich abmachen«, erwiderte der Sonnenwirt.</p>
-            <p>Als der Chirurg mit seiner Frau nach Hause ging, um sich »amtsmäßig« anzuziehen,
-               sagte diese zu ihm: »Wenn du nichts dagegen hast, so will ich meinem Bruder nach
-               Plochingen schreiben, will ihm auch etwas Geld schicken, daß er seine Rechnung dort
-               zahlen kann, und will ihn nach Hattenhofen hinüber zum Vetter gehen heißen; der
-               behält ihn schon etliche Zeit, und dort ist er auch mehr abseits, daß ihn nicht so
-               viele Menschen sehen.«</p>
-            <p>»Tu das meinetwegen«, sagte ihr Mann.</p>
-            <p>Die beiden Männer gingen ins Amthaus und trugen dem Amtmann ihr Anliegen vor.
-               Derselbe machte ein bedenkliches Gesicht und sagte: »Ich hätte rebus sic stantibus
-               nichts Erhebliches dagegen einzuwenden, daß der halb und halb exilierte junge Mensch,
-               <pb/> selbstverständlich unter der Bedingung künftigen Wohlverhaltens und radikal
-               gebesserter Aufführung wie auch völliger Vermeidung aller Turbulenzen und
-               Extravaganzen, aus dem Quasiexil in sein elterliches Haus zurückkehre; allein da ich
-               nun einmal über seine Entlassung an das Oberamt berichtet habe, so habe ich auch über
-               seine Wiederannahme die amtliche Entscheidung nicht mehr in der Hand. Ich will jedoch
-               an den Herrn Vogt in Göppingen schreiben und wohldemselben vorstellen, daß der junge
-               Mensch gleichsam als verlorner Sohn und reuiger Sünder unter die ihm von Gott
-               verordnete Autorität sich wieder zurückfügen wolle. Vielleicht dürfen wir uns eines
-               günstigen Bescheides versehen. Sobald solcher an mich herabgelangt, werde nicht
-               ermangeln, davon Meldung zu erlassen.«</p>
-            <p>Nach einigen Tagen kam der Amtsknecht, um den Sonnenwirt zum Amtmann zu berufen. Der
-               Sonnenwirt schickte nach seinem Beistand. »Der Schwager hat schon wieder
-               geschrieben«, sagte dieser, als sie miteinander nach dem Amthause gingen. »Diesmal
-               schreibt er aus Hattenhofen, wohin er von Plochingen gegangen ist.«</p>
-            <p>»Ich hab mir's wohl gedacht, daß er sich's nicht getrauen wird, zu Plochingen im
-               Wirtshaus liegenzubleiben«, versetzte der Sonnenwirt lächelnd. »Was schreibt er
-               denn?«</p>
-            <p>»Er schreibt beinahe noch lamentabler als das letztemal. Übrigens scheinen ihm unterm
-               Warten kuriose Gedanken aufgestiegen zu sein, und er traut dem Landfrieden nicht
-               recht; denn er schreibt im Verlauf<pb/> des Briefes: ›Ich glaube, der Herr Schwager
-               wird mich nicht nur herzulocken, damit ich möchte in Arrest gesetzt werden, sondern
-               der Herr Schwager hat's noch jederzeit redlich und getreu mit mir gemeint.‹«</p>
-            <p>Der Sonnenwirt lachte äußerst behaglich. »Er hat Angst«, sagte er, »und da wird, hoff
-               ich, auch die Zucht Eingang bei ihm finden.«</p>
-            <p>»Gott geb's«, erwiderte der Chirurg. »Diesmal hat er auch das Datum richtig
-               geschrieben; vielleicht ist das ein Omen, daß er auch sonst wieder in die Ordnung
-               kommen wird.«</p>
-            <p>»Gott geb's«, sagte der Sonnenwirt.</p>
-            <p>»Nun, Sein Gutedel ist ja wieder da, Herr Sonnen wirt«, begann die Amtmännin, welche
-               diesmal zugegen war, mit saurem Gesicht. »Der hat nicht lang gut getan.«</p>
-            <p>»Es ist bei meinem Bruder kein Platz für ihn gewesen, mit Ihrem Wohlnehmen, Frau
-               Amtmännin. Der hat einen halbstudierten Hausknecht angenommen. Will auch sehen, was
-               da noch draus wird. Aber was will ich jetzt machen? Es ist doch mein eigen Fleisch
-               und Blut, das ich nicht in der Irre laufen lassen kann. Ich nehm ihn aber nicht eher
-               an, als bis er versprochen hat, daß er die unverständige Liebschaft aufgeben
-               will.«</p>
-            <p>»Meinetwegen«, sagte die Amtmännin. »Aber mir soll der Grobian nicht wieder ins Haus
-               kommen, ich will mir keine Unverschämtheiten mehr von ihm machen lassen, und wenn ich
-               nicht eine Wäsche gehabt hätte an dem Tag, wo mein Mann nach Göppingen<pb/> schrieb,
-               so wäre die Sache vielleicht nicht so schnell gegangen.«</p>
-            <p>Der Sonnenwirt verlor einen guten Teil seiner Behaglichkeit beim Anblick dieser
-               fortdauernden Ungnade der Amtmännin gegen seinen Sohn, obgleich er die Ursache dieses
-               Grolls in seinem Herzen gebilligt hatte.</p>
-            <p>»Die Antwort vom Herrn Vogt ist angekommen«, sagte der Amtmann, der dieselbe als eine
-               Art Schutzwaffe gegen seine Frau betrachten mochte. Er nahm den Brief zur Hand,
-               entfaltete ihn langsam, räusperte sich mit Wichtigkeit und las, während der
-               Sonnenwirt und sein Schwiegersohn eine ehrerbietige Haltung annahmen, mit
-               nachdrücklicher Betonung wie folgt: »Wohledler, insonders vielgeehrter Herr Amtmann!
-               Weilen mit einem jungen Menschen ich jedesmal viel lieber überflüssige Geduld haben
-               als mit der äußersten Strenge fürgehen will, solang noch Hoffnung vorhanden sein
-               kann, es werde einer in sich gehen, mithin in bessere Wege und so obrigkeitlichen als
-               väterlichen Gehorsam zurücktreten: so will ich nicht darwider sein, daß den jungen
-               Schwahnen sein Vater wieder auf- und annehme. Es ist aber jenem mit allem Ernst zu
-               bedeuten, daß, so der geringste neue Fehltritt wider ihn werde herauskommen, man
-               solchenfalls Altes und Neues zusammennehmen und wider ihn mit aller Schärfe verfahren
-               werde. Ich verharre damit unter göttlichen Schutzes Erlassung des Herrn Amtmanns
-               dienstwilligster« etcetera. »Also wonach sich zu achten!« fügte der Amtmann der
-               Vorlesung bei. »Da nun meine Frau <pb/> Seinen Sohn nicht gerne im Hause sieht, so
-               will ich's unterlassen, solchen zu zitieren, muß aber dem Herrn Sonnenwirt die
-               Verpflichtung aufgeben, selbigem aufs ernstlichste einzuschärfen, unter welcher
-               Bedingung einzig und allein ihn wieder zu admittieren beschlossen worden ist, und daß
-               ich bei dem geringfügigsten neuen Vorfall unverweilt gegen ihn einzuschreiten mich
-               bemüßigt sehen würde.«</p>
-            <p>Der Sonnenwirt versprach, seinem Sohn das Nötige zu sagen, sowie auch dafür zu
-               sorgen, daß er das Amthaus meide, es wäre denn, daß er besonders vom Herrn Amtmann
-               vorgeladen würde. Der Amtmann pries die Milde und Menschenfreundlichkeit des Vogts,
-               wobei die Amtmännin einfließen ließ, die gutmütigsten Menschen seien gemeiniglich
-               diejenigen, die sich nicht gern viel zu schaffen machen. Hierauf hielt der Chirurg in
-               rednerischer Unterstützung des Sonnenwirts eine lange und wohlgesetzte Danksagung für
-               die große Mühewaltung, welche der Herr Amtmann auf sich zu nehmen die Güte gehabt.
-               Die Amtmännin ermahnte den Sonnenwirt, künftig den Stab Wehe zu gebrauchen, damit man
-               von seinem Früchtlein nicht noch mehr Mühe habe. Der Sonnenwirt versprach das beste,
-               und die beiden Männer empfahlen sich in Unterwürfigkeit.</p>
-            <p>»So, schon alles im reinen?« sagte die Sonnenwirtin, als sie Bericht über ihren Gang
-               erstatteten. »Nun ja, da kann man jetzt gleich den Verspruch mit der Jungfer
-               Hirschbäuerin folgen lassen.«</p>
-            <p>»Das hat gute Weg«, entgegnete der Sonnenwirt. »Wie ich gesagt hab, dabei bleibt's.
-               Wenn der Bub<pb/> wieder mein Haus betreten will, so muß er zuerst heilig
-               versprechen, daß er weder mündlich noch schriftlich mehr etwas mit ihr zu schaffen
-               haben will.«</p>
-            <p>»Soll ich nach Hattenhofen schreiben?« fragte der Chirurg.</p>
-            <p>»Wie wär's denn?« sagte die Sonnenwirtin, die ihm zum Schabernack wenigstens eine
-               kleine Ungemächlichkeit aufladen wollte. »Der Herr Sohn hat ja heut seinen Schabes
-               nicht. Wie wär's, wenn Er des Schuhmachers Rappen vorspannen tät und tät sich selber
-               nach Hattenhofen auf den Weg machen? Er kann's ja doch nicht erwarten, bis Er Sein
-               räudig's Schaf wieder in der Kur hat. Übrigens denket an mich, ihr beide: solang man
-               singt, ist die Kirch nicht aus. Ihr werdet's noch erleben, das ich recht behalt.«</p>
-            <p>»Ich hab ohnehin ein Geschäft draußen«, erwiderte der Chirurg, der ihr die
-               Befriedigung nicht gönnte, daß er bloß auf ihre Veranlassung einen Weg von ein paar
-               Stunden machen sollte. »Ich muß eine Weibsperson dort schneiden, die ein Geschwür im
-               Munde hat. Für böse Mäuler gibt's kein probateres Mittel als unsre Instrumente.«</p>
-            <p>Der Sonnenwirt lachte und nahm sein Erbieten an, persönlich mit dem Flüchtling zu
-               reden, ihm förmlich das von dem Vater ausbedungene Versprechen abzunehmen und ihn
-               dann gleich aus seinem Zufluchtsorte mitzubringen.</p>
-            <p>»Du bist doch recht brav«, sagte seine Frau zu ihm, als er sich zu Hause anschickte,
-               über Feld zu gehen.<pb/> »Sieh, es freut mich von ganzem Herzen, wie gut du gegen
-               meinen Bruder bist.«</p>
-            <p>»Quod medicamenta non sanant –«, murmelte der Chirurg vor sich hin und hielt wieder
-               inne. Dann wandte er sich zu seiner Frau: »Solang man singt, ist die Kirche nicht
-               aus«, hat deine Mutter gesagt, »und mir hat ein Vögelein gepfiffen, sie werde wohl
-               recht haben. Zwar, wenn dein Bruder jetzt Vernunft annimmt, so will ich ihm alles
-               Gute gönnen und will gerne dazu geholfen haben. Aber die Kugel, die bergab geht,
-               rollt gemeiniglich so fort ohne Aufenthalt. Ohnehin, wenn dein Vater heut stirbt, so
-               nimmt er morgen sein Bauernmensch. Meinst du, du würdest nicht besser zu einer
-               Sonnenwirtin taugen? Und sollt ich zum Wirtschaften nicht so gut Geschick haben als
-               zum Rasieren? Deine Mutter ist so giftig und höhnisch, daß sie meinen Rasiertag
-               meinen Schabes heißt. Ei, mir stände es gar wohl an, einen Ruhetag aus ihm zu machen,
-               wenigstens was das Bartschaben betrifft.«</p>
-            <p>Er ging, und Magdalene sah ihm seufzend nach. Dieser Seufzer mochte wohl mancherlei
-               zu bedeuten haben.</p>
+               <head>15</head>
+               <p>Christinens Brief war immer noch nicht fertig, und ihr Vater hatte den Weg zum
+                  Pfarrer und Chirurgus gleichfalls noch nicht gefunden, da verbreitete sich eines
+                  Tages im Flecken das Geschrei, des Sonnenwirts Frieder sei wieder da oder
+                  wenigstens im Anzuge begriffen. Die Nachricht drang mit großer Schnelligkeit
+                  selbst zu dem entlegenen Hause des Hirschbauers, und einer von Christinens Brüdern
+                  machte sich sogleich auf, um Kundschaft einzuziehen. Es verhielt sich wirklich so,
+                  wie das Gerücht sagte. Ein Fuhrmann, der in der ›Sonne‹ einkehrte, hatte den Erben
+                  derselben unterwegs, und zwar in ziemlich abgerissenem Zustande, angetroffen; zur
+                  Bestätigung, daß er die Wahrheit sage, zeigte er ein Schreiben vor, das ihm der
+                  Wanderer mitgegeben hatte, um es an denjenigen seiner beiden Schwäger, zu welchem
+                  er noch das meiste Vertrauen hatte, zu bestellen. Es ging soeben sehr lebhaft in
+                  der ›Sonne‹ zu, weshalb die Neuigkeit wie ein Lauffeuer sich verbreitete. Der
+                  Fuhrmann erzählte noch, er habe den Frieder aufsitzen heißen; derselbe habe sich
+                  aber geweigert, da er nicht nach Hause kommen wolle, bis er wisse, wie er
+                  aufgenommen werde. Er gab den Brief einem Knechte, der ihn zum Chirurgus
+                  hinübertrug. Dieser ließ nach einer Weile dem Sonnenwirt sagen, es sei endlich
+                  Nachricht von seinem <pb/> Sohne da; wenn der Herr Vater aufgelegt sei, sie zu
+                  hören, so wolle er mit dem Briefe herüberkommen. Der Sonnenwirt antwortete, er
+                  habe im Augenblick alle Hände voll zu tun, und auf den Abend wolle er Ruhe haben;
+                  morgen sei auch ein Tag, um von verdrießlichen Dingen zu reden.</p>
+               <p>Auf den andern Tag wurde in der ›Sonne‹ ein Familienrat zusammenberufen, welchem
+                  der Chirurgus den Brief seines jungen Schwagers vorlas. Derselbe lautete gleich
+                  eingangs so über alle Maßen niedergeschlagen und unterwürfig, daß die Sonnenwirtin
+                  einmal über das andere in ein triumphierendes Gelächter ausbrach. »Geliebter
+                  Schwager«, las der Chirurg, »ich weiß mir nicht mehr zu helfen, so will ich Ihn um
+                  Gottes Willen gebeten haben, mir einen Rath zu ertheilen, denn ich laufe in der
+                  Irr, als wie ein verlornes Schaf; so rufe ich zu Gott, er möchte mir einen Hirten
+                  senden, der mich wieder auf den rechten Weg bringen sollte. Meine Reise ist nicht
+                  bestanden, wie ich geglaubt hab: mein Herr Vetter hat des Gerichtsschreibers Sohn
+                  von Boll zum Knecht, und hat ihn nicht fortschicken können, weil er auch ein
+                  Freund von ihm sei. So bin ich diesesmal in mich selber gangen und mußt erst
+                  erkennen, was ich bei meinem Vater vor gute Tag gehabt hab und ihm nicht gefolgt,
+                  so bitt ich nur noch diesesmal zu helfen und mich nicht zu verlassen. Meine Eine
+                  Bitt an die Meinen ist, mir nur noch so viel zu helfen, daß ich nur einer von
+                  seinen Taglöhnern sein möchte. Ich werde gewiß meinem Vater in allen Stücken
+                  gehorsam sein; wann ich es nicht tue <pb/> und ihm im Geringsten was anstelle, so
+                  sprich ich das Urteil wider mich und schreibe meine eignige Hand unter, daß ich
+                  auf den ewigen Arrest soll gesetzt werden. Ich weiß wohl, ich hab es gegen den
+                  Herrn Schwager nicht verdient, weil ich Ihn schon in vielen Stücken erzürnt und
+                  beleidiget hab, es ist mir aber herzlich leid, es wird inskünftige nicht mehr
+                  geschehen. So mein ich nun, ob der Schwager nicht eine Bitte vor mich bei dem
+                  Herrn Amtmann tun möchte. Man redt wider mich in Eberspbach, es sollte einen
+                  Heiden erbarmen über solche Reden: ich soll gesagt haben, ich wolle alle Häuser in
+                  Brand stecken und den und jenen todt stechen. Mein Hertze hat noch niemal daran
+                  gedacht. Geliebter Herr Schwager, ich gedenke auch noch an Gott, und gedenke bei
+                  mir selbst, ich möcht hinkommen wo ich wollt, und Gott möchte mich auf das
+                  Krankenbette legen, ich gewiß mein Vaterland durch solche Streich nicht
+                  verschertzen will. So bitte ich den Schwager mich auf diesesmal nicht zu verlassen
+                  und mir einen Rad zu geben und zu helfen« –</p>
+               <p>»›Rad‹ schreibt er«, unterbrach sich der Chirurg im Lesen: »er kann doch sonst
+                  besser schreiben und hat das Wort weiter oben auch richtig geschrieben.«</p>
+               <p>»Seine Hand weiß mehr als er und hat das Rechte troffen«, bemerkte die
+                  Sonnenwirtin, »der Weg, den er geht, führt wohl noch zu Galgen und Rad.«</p>
+               <p>»Ist der Brief aus?« fragte der Sonnenwirt.</p>
+               <p>»Ich hab das Vertrauen zu Ihm«, fuhr der Vorleser fort, »und glaub in meinem
+                  Hertzen, daß Er des Herrn Amtmanns sein Hertze am besten erweichen <pb/> kann.
+                  Mein Vater schickt einen Knecht fort auf Fastnacht; er erbarmet sich meiner gewiß
+                  und nimmt mich wieder an, wann ich befreit bin von dem Herrn Amtmann. Ich hab
+                  nicht längere Weil gehabt; wann ich mich sehen darf lassen, so will ich mündlich
+                  mit Ihm reden. Er ist von mir viel tausendmal gegrüßt und schließe ihn in die
+                  Vorsorg Gottes. Sein getreuer Schwager bis in den Tod.«</p>
+               <p>»Es muß ein wenig konfus in seinem Kopf hergehen«, fügte der Chirurg hinzu, »denn
+                  er lebt mit dem Datum noch im vorigen Jahr.«</p>
+               <p>»Er kann eben in gar nichts ordentlich sein«, bemerkte die Sonnenwirtin.</p>
+               <p>»Jetzt, was ist zu tun?« fragte der Chirurg.</p>
+               <p>Der Krämer, der nicht wieder die Mißgriffe von neulich begehen wollte, half sich
+                  mit Achselzucken, Händereiben und Lächeln nach allen Seiten hin.</p>
+               <p>Die Sonnenwirtin sagte: »Entweder ist er der Landstreicherei obgelegen, hat sein
+                  Geld vertan und ist gar nicht bei dem Vetter gewesen, oder hat er drunten gleich
+                  zum Einstand schlechte Streich gemacht und ist wieder fortgejagt worden. Wenn sein
+                  Gewissen gut wär, tät er nicht so erbärmlich und so untertänig schreiben. Das ist
+                  sonst sein Sach nicht.«</p>
+               <p>»Soviel ist richtig«, sagte der Sonnenwirt nach einigem Nachdenken, »daß der
+                  Gerichtsschreiber in Boll drüben einen Sohn in die Fremde geschickt hat, und das
+                  erst ganz kürzlich, denn ich hab's erst vor ein paar Tagen gehört, nur hab ich
+                  nicht sagen hören, wohin. Weil er aber allerdings zu unsrer Gefreundschaft gehört,
+                  und mein Bruder in Sachsenhausen <pb/> also auch ein Vetter von ihm ist, so ist's
+                  wohl möglich, daß er ihn dorthin getan hat; denn seine Buben sind dickköpfig und
+                  haben wenig Beruf für die Schreiberei.«</p>
+               <p>»Es kommt natürlich alles darauf an, ob die Angabe wahr ist«, bemerkte der
+                  Chirurg.</p>
+               <p>»Wenn's wahr ist«, sagte der Sonnenwirt, »so müssen die beiden schier miteinander
+                  bei meinem Bruder drunten angekommen sein.«</p>
+               <p>»Man muß eben hinunterschreiben«, meinte Magdalene.</p>
+               <p>»Ja, aber was fangt man derweil mit dem Buben an, bis Antwort kommt?« fragte die
+                  Krämerin. »In Plochingen, von wo er schreibt, kann man ihn doch nicht
+                  liegenlassen, daß er dort eine rechte Zech hinmacht.«</p>
+               <p>»Und wenn man ihn ohne weiters wieder ins Haus nimmt«, sagte die Sonnenwirtin, »so
+                  setzt er sich fest und fangt das alt Lied wieder an und ist dann nicht mehr
+                  fortzubringen, wenn's auch zehnmal von Sachsenhausen kommt, daß all sein Vorgeben
+                  verlogen sei.«</p>
+               <p>In diesem Augenblicke hörte man ein Posthorn und gleich darauf den Knall einer
+                  Peitsche. »Der Postreiter hält vorm Haus, der Hausknecht soll ihm das Pferd
+                  halten«, sagte der Sonnenwirt, der ans Fenster getreten war. Es freute ihn
+                  jedesmal, wenn Briefe für den Flecken in der ›Sonne‹ abgegeben wurden oder wenn
+                  Postpferde zur Einkehr genötigt waren, weil er den Beweis darauf zu gründen
+                  hoffte, daß eine Zwischenpost hier errichtet werden sollte. <pb/> Nach einer Weile
+                  kam der Postknecht herein und überreichte ihm einen Brief: »An Herrn Hans Jerg
+                  Schwan zur löblichen Sonne in Eberspbach«. Der Sonnenwirt befahl einen Schoppen
+                  und las den Brief bedächtig, während jener den Wein stehend trank; denn in seinen
+                  hohen, steifen Stiefeln würde ihm das Sitzen eine Arbeit gekostet haben, die sich
+                  für einen kurzen Aufenthalt nicht verlohnte.</p>
+               <p>Der Sonnenwirt hatte den Brief erst zu Ende gelesen, als der Postknecht schon
+                  wieder zu Pferde saß und blasend gen Göppingen weiter ritt. »Der Bub hat nicht
+                  gelogen«, sagte er, »es verhält sich vielmehr alles so, wie er behauptet. Mein
+                  Bruder schreibt mir da, er hätt ihn gern behalten, aber er habe dem
+                  Gerichtsschreiber in Boll für dessen Sohn bereits zugesagt gehabt. Als Gast wär er
+                  ihm willkommen gewesen, solang er hätte bleiben mögen, auch habe alles im Haus den
+                  Vetter gern gehabt; der aber habe sich nicht halten lassen, sondern sei nach
+                  etlichen Tagen wieder fort.«</p>
+               <p>»Und hat sich, Gott weiß wie lang, in der Welt herumgetrieben«, sagte die
+                  Sonnenwirtin.</p>
+               <p>»Nicht gar lang, dem Datum nach«, entgegnete der Chirurg, dem der Sonnenwirt den
+                  Brief hingereicht hatte.</p>
+               <p>»Es ist zwar dumm von dem Buben«, versetzte der Sonnenwirt, »daß er auf die
+                  Einladung nicht länger blieben ist; man hätt sich unterdessen für ihn umsehen und
+                  ihn anderswo unterbringen können. Aber verdenken kann ich's ihm doch grad auch
+                  nicht, daß er seinen Verwandten nicht als unnützer Brotesser <pb/> hat hinliegen
+                  wollen, nachdem man ihn nicht zum Schaffen angenommen hat.«</p>
+               <p>»Ja«, bemerkte Magdalene, »das Sprichwort sagt: Zwei Tag ein Gast, den dritten ein
+                  Überlast.«</p>
+               <p>»Von seiner Liebschaft schreibt er gar nichts«, sagte die Sonnenwirtin. »Soviel
+                  gute Wörtlein er sonst gibt, so spricht er doch nicht mit einer Silbe davon, daß
+                  er in dem Stück nachgeben wolle.«</p>
+               <p>»Er schreibt aber, er wolle in allen Stücken gehorsam sein und nicht das geringste
+                  mehr anstellen«, entgegnete der Chirurgus. »Man kann ihn also beim Wort nehmen und
+                  ihm beweisen, daß er auch das versprochen habe.«</p>
+               <p>»Recht degenmäßig schreibt er, das muß man sagen«, bemerkte die Krämerin. »Ich
+                  hätt gar nicht glaubt, daß der Strobelkopf, der störrig, so mürb werden
+                  könnt.«</p>
+               <p>»Der hat sich in der Fremde die Hörner verstoßen«, sagte der Sonnenwirt behaglich
+                  lachend; »das sieht man jedem Wort an, das er schreibt. Jetzt weiß er nimmer, wo
+                  aus und wo ein. Ja, ja, es ist eben ein ganz anders Leben da drunten als bei uns.
+                  Die Leut sind dort viel alerter und aufgeweckter, und wenn auch bei manchem nicht
+                  viel dahinter ist, so ist's eben doch unsereinem, wie wenn er der Garnichts
+                  dagegen wär.«</p>
+               <p>»Das glaub ich«, sagte der Chirurg, »das kann solch einem trutzigen, stutzigen
+                  Schwabenkopf spanisch vorkommen.«</p>
+               <p>»Ich bin ja selbst auch schon drunten gewesen«, fuhr der Sonnenwirt fort. »Ja was!
+                  Bis unsereiner <pb/> sich nur besinnt, was er sagen soll, haben die dem Teufel ein
+                  Ohr weggeschwätzt. Es mag sein, daß wir im Schreiben und sonst in mancherlei
+                  Solidität mehr sind als sie, wenigstens gibt man sich bei uns in der Schul mehr
+                  Müh, aber nachher müssen wir ihnen weit nachstehen, sie sind viel zu geschwind für
+                  uns. Mein Sohn ist gewiß keiner von den Langsamen im Geist, aber ich steh dafür
+                  und kann ganz ins Feuer sehen, daß sie ihm gleich über den Kopf gewachsen sind.
+                  Und dann machen sie gar keine Umständ, wie man's bei uns macht. Sie sind
+                  eigentlich doch auch wieder fadengrad wie wir, und noch mehr als wir. Bei uns, da
+                  tut man einen Besuch jeden Tag, den er da ist, gleichsam mit dem Seilstumpen
+                  anbinden, damit er ja sieht, daß man ihn nicht fortlassen will. Mein Bruder aber,
+                  der gar kein Schwab mehr ist und in dem Klima ganz die Art angenommen hat, wie die
+                  andern auch sind, der hat wahrscheinlich ein einzigs Mal gesagt: Du bist
+                  willkommen, Vetter, und bleib, solang du magst; und dann hat der Bub natürlich
+                  bald gemeint, man sei seiner überdrüssig, weil man's ihm nicht zehn-und zwanzigmal
+                  gesagt hat. Es hätt aber nichts zu sagen gehabt, denn wenn sie einen loswerden
+                  wollen, so wissen sie schon den Schnabel aufzutun. Nun, jetzt hat er auf einmal
+                  einsehen gelernt, daß die Welt größer ist als sein Kopf, und kommt aus der Fremde
+                  wie der Schneck, wenn er die Hörner einzieht und wieder in sein Haus
+                  zurückgeht.«</p>
+               <p>»Der Herr Vater ist also der Meinung, ihn wieder anzunehmen?« fragte der
+                  Chirurg.</p>
+               <p>
+                  <pb/> »Was bleibt sonst übrig?« antwortete der Sonnenwirt. »Ich wüßt nicht, wo ich
+                  ihn in der Geschwindigkeit hinschicken sollt.«</p>
+               <p>»Dann kann er gleich den alten Tanz wieder anfangen«, sagte die Sonnenwirtin.</p>
+               <p>»Dafür kann man ihm tun«, entgegnete er. »Eh er nicht ausdrücklich versprochen
+                  hat, daß er sich mit der Person weder mündlich noch schriftlich mehr einlassen
+                  will, kommt er mir nicht ins Haus.«</p>
+               <p>»Ich will ihm das nach Plochingen schreiben«, erbot sich der Chirurg.</p>
+               <p>»Braucht nichts zu schreiben«, versetzte der Sonnenwirt. »Zuerst muß man ja doch
+                  mit dem Amtmann reden, daß der seiner Heimkunft keine Schwierigkeit in den Weg
+                  legt, nachdem er nun einmal die Hand in der Sach hat. Dann ist's überhaupt besser,
+                  man gibt dem Buben gar keine Antwort und läßt ihn zappeln, er wird dadurch nur um
+                  so mürber.«</p>
+               <p>»Wart, du wirst eine schöne Rechnung vom Plochinger Bärenwirt kriegen«, lachte die
+                  Sonnenwirtin.</p>
+               <p>»Ich hab ihn nicht heißen in den Plochinger Bären hinliegen.«</p>
+               <p>»Irgendwo muß er aber doch sein«, bemerkte die Frau des Chirurgen schüchtern.</p>
+               <p>»Warum ist er nicht gleich hierhergekommen?« entgegnete der Sonnenwirt. »Wenn ich
+                  ihn auch nicht ohne weiters angenommen hätt, so hätt man doch dafür sorgen können,
+                  daß er eine Weile wo unterkommen wär.«</p>
+               <p>»Mir scheint's auch das nötigste, daß man sich zuerst mit dem Amt verständigt«,
+                  sagte der Chirurg.</p>
+               <p>
+                  <pb/> »Das übrige wird sich finden. Er hat Verwandte hier und in der Gegend und
+                  wird nicht im Bären bleiben, denn er weiß, daß das den Herrn Vater verdrießen
+                  muß.«</p>
+               <p>»Wenn nur auch der Herr Amtmann seinen Konsens gibt«, bemerkte der Krämer, der die
+                  Notwendigkeit fühlte, im Familienrat endlich etwas, das einer eigenen Meinung
+                  glich, zu äußern.</p>
+               <p>»Es liegt ja nichts Sonderliches wider ihn vor«, versetzte der Sonnenwirt.</p>
+               <p>»Wenn's dem Herrn Vater geliebt«, sagte der Chirurg, »so bin ich erbötig, ins
+                  Amthaus mitzugehen. Ich muß nur erst einen andern Kittel anziehen, damit ich ein
+                  wenig amtsmäßiger aussehe.«</p>
+               <p>»Ja, wir wollen die Sach lieber gleich abmachen«, erwiderte der Sonnenwirt.</p>
+               <p>Als der Chirurg mit seiner Frau nach Hause ging, um sich »amtsmäßig« anzuziehen,
+                  sagte diese zu ihm: »Wenn du nichts dagegen hast, so will ich meinem Bruder nach
+                  Plochingen schreiben, will ihm auch etwas Geld schicken, daß er seine Rechnung
+                  dort zahlen kann, und will ihn nach Hattenhofen hinüber zum Vetter gehen heißen;
+                  der behält ihn schon etliche Zeit, und dort ist er auch mehr abseits, daß ihn
+                  nicht so viele Menschen sehen.«</p>
+               <p>»Tu das meinetwegen«, sagte ihr Mann.</p>
+               <p>Die beiden Männer gingen ins Amthaus und trugen dem Amtmann ihr Anliegen vor.
+                  Derselbe machte ein bedenkliches Gesicht und sagte: »Ich hätte rebus sic stantibus
+                  nichts Erhebliches dagegen einzuwenden, daß der halb und halb exilierte junge
+                  Mensch, <pb/> selbstverständlich unter der Bedingung künftigen Wohlverhaltens und
+                  radikal gebesserter Aufführung wie auch völliger Vermeidung aller Turbulenzen und
+                  Extravaganzen, aus dem Quasiexil in sein elterliches Haus zurückkehre; allein da
+                  ich nun einmal über seine Entlassung an das Oberamt berichtet habe, so habe ich
+                  auch über seine Wiederannahme die amtliche Entscheidung nicht mehr in der Hand.
+                  Ich will jedoch an den Herrn Vogt in Göppingen schreiben und wohldemselben
+                  vorstellen, daß der junge Mensch gleichsam als verlorner Sohn und reuiger Sünder
+                  unter die ihm von Gott verordnete Autorität sich wieder zurückfügen wolle.
+                  Vielleicht dürfen wir uns eines günstigen Bescheides versehen. Sobald solcher an
+                  mich herabgelangt, werde nicht ermangeln, davon Meldung zu erlassen.«</p>
+               <p>Nach einigen Tagen kam der Amtsknecht, um den Sonnenwirt zum Amtmann zu berufen.
+                  Der Sonnenwirt schickte nach seinem Beistand. »Der Schwager hat schon wieder
+                  geschrieben«, sagte dieser, als sie miteinander nach dem Amthause gingen. »Diesmal
+                  schreibt er aus Hattenhofen, wohin er von Plochingen gegangen ist.«</p>
+               <p>»Ich hab mir's wohl gedacht, daß er sich's nicht getrauen wird, zu Plochingen im
+                  Wirtshaus liegenzubleiben«, versetzte der Sonnenwirt lächelnd. »Was schreibt er
+                  denn?«</p>
+               <p>»Er schreibt beinahe noch lamentabler als das letztemal. Übrigens scheinen ihm
+                  unterm Warten kuriose Gedanken aufgestiegen zu sein, und er traut dem Landfrieden
+                  nicht recht; denn er schreibt im Verlauf<pb/> des Briefes: ›Ich glaube, der Herr
+                  Schwager wird mich nicht nur herzulocken, damit ich möchte in Arrest gesetzt
+                  werden, sondern der Herr Schwager hat's noch jederzeit redlich und getreu mit mir
+                  gemeint.‹«</p>
+               <p>Der Sonnenwirt lachte äußerst behaglich. »Er hat Angst«, sagte er, »und da wird,
+                  hoff ich, auch die Zucht Eingang bei ihm finden.«</p>
+               <p>»Gott geb's«, erwiderte der Chirurg. »Diesmal hat er auch das Datum richtig
+                  geschrieben; vielleicht ist das ein Omen, daß er auch sonst wieder in die Ordnung
+                  kommen wird.«</p>
+               <p>»Gott geb's«, sagte der Sonnenwirt.</p>
+               <p>»Nun, Sein Gutedel ist ja wieder da, Herr Sonnen wirt«, begann die Amtmännin,
+                  welche diesmal zugegen war, mit saurem Gesicht. »Der hat nicht lang gut
+                  getan.«</p>
+               <p>»Es ist bei meinem Bruder kein Platz für ihn gewesen, mit Ihrem Wohlnehmen, Frau
+                  Amtmännin. Der hat einen halbstudierten Hausknecht angenommen. Will auch sehen,
+                  was da noch draus wird. Aber was will ich jetzt machen? Es ist doch mein eigen
+                  Fleisch und Blut, das ich nicht in der Irre laufen lassen kann. Ich nehm ihn aber
+                  nicht eher an, als bis er versprochen hat, daß er die unverständige Liebschaft
+                  aufgeben will.«</p>
+               <p>»Meinetwegen«, sagte die Amtmännin. »Aber mir soll der Grobian nicht wieder ins
+                  Haus kommen, ich will mir keine Unverschämtheiten mehr von ihm machen lassen, und
+                  wenn ich nicht eine Wäsche gehabt hätte an dem Tag, wo mein Mann nach
+                  Göppingen<pb/> schrieb, so wäre die Sache vielleicht nicht so schnell
+                  gegangen.«</p>
+               <p>Der Sonnenwirt verlor einen guten Teil seiner Behaglichkeit beim Anblick dieser
+                  fortdauernden Ungnade der Amtmännin gegen seinen Sohn, obgleich er die Ursache
+                  dieses Grolls in seinem Herzen gebilligt hatte.</p>
+               <p>»Die Antwort vom Herrn Vogt ist angekommen«, sagte der Amtmann, der dieselbe als
+                  eine Art Schutzwaffe gegen seine Frau betrachten mochte. Er nahm den Brief zur
+                  Hand, entfaltete ihn langsam, räusperte sich mit Wichtigkeit und las, während der
+                  Sonnenwirt und sein Schwiegersohn eine ehrerbietige Haltung annahmen, mit
+                  nachdrücklicher Betonung wie folgt: »Wohledler, insonders vielgeehrter Herr
+                  Amtmann! Weilen mit einem jungen Menschen ich jedesmal viel lieber überflüssige
+                  Geduld haben als mit der äußersten Strenge fürgehen will, solang noch Hoffnung
+                  vorhanden sein kann, es werde einer in sich gehen, mithin in bessere Wege und so
+                  obrigkeitlichen als väterlichen Gehorsam zurücktreten: so will ich nicht darwider
+                  sein, daß den jungen Schwahnen sein Vater wieder auf- und annehme. Es ist aber
+                  jenem mit allem Ernst zu bedeuten, daß, so der geringste neue Fehltritt wider ihn
+                  werde herauskommen, man solchenfalls Altes und Neues zusammennehmen und wider ihn
+                  mit aller Schärfe verfahren werde. Ich verharre damit unter göttlichen Schutzes
+                  Erlassung des Herrn Amtmanns dienstwilligster« etcetera. »Also wonach sich zu
+                  achten!« fügte der Amtmann der Vorlesung bei. »Da nun meine Frau <pb/> Seinen Sohn
+                  nicht gerne im Hause sieht, so will ich's unterlassen, solchen zu zitieren, muß
+                  aber dem Herrn Sonnenwirt die Verpflichtung aufgeben, selbigem aufs ernstlichste
+                  einzuschärfen, unter welcher Bedingung einzig und allein ihn wieder zu admittieren
+                  beschlossen worden ist, und daß ich bei dem geringfügigsten neuen Vorfall
+                  unverweilt gegen ihn einzuschreiten mich bemüßigt sehen würde.«</p>
+               <p>Der Sonnenwirt versprach, seinem Sohn das Nötige zu sagen, sowie auch dafür zu
+                  sorgen, daß er das Amthaus meide, es wäre denn, daß er besonders vom Herrn Amtmann
+                  vorgeladen würde. Der Amtmann pries die Milde und Menschenfreundlichkeit des
+                  Vogts, wobei die Amtmännin einfließen ließ, die gutmütigsten Menschen seien
+                  gemeiniglich diejenigen, die sich nicht gern viel zu schaffen machen. Hierauf
+                  hielt der Chirurg in rednerischer Unterstützung des Sonnenwirts eine lange und
+                  wohlgesetzte Danksagung für die große Mühewaltung, welche der Herr Amtmann auf
+                  sich zu nehmen die Güte gehabt. Die Amtmännin ermahnte den Sonnenwirt, künftig den
+                  Stab Wehe zu gebrauchen, damit man von seinem Früchtlein nicht noch mehr Mühe
+                  habe. Der Sonnenwirt versprach das beste, und die beiden Männer empfahlen sich in
+                  Unterwürfigkeit.</p>
+               <p>»So, schon alles im reinen?« sagte die Sonnenwirtin, als sie Bericht über ihren
+                  Gang erstatteten. »Nun ja, da kann man jetzt gleich den Verspruch mit der Jungfer
+                  Hirschbäuerin folgen lassen.«</p>
+               <p>»Das hat gute Weg«, entgegnete der Sonnenwirt. »Wie ich gesagt hab, dabei
+                  bleibt's. Wenn der Bub<pb/> wieder mein Haus betreten will, so muß er zuerst
+                  heilig versprechen, daß er weder mündlich noch schriftlich mehr etwas mit ihr zu
+                  schaffen haben will.«</p>
+               <p>»Soll ich nach Hattenhofen schreiben?« fragte der Chirurg.</p>
+               <p>»Wie wär's denn?« sagte die Sonnenwirtin, die ihm zum Schabernack wenigstens eine
+                  kleine Ungemächlichkeit aufladen wollte. »Der Herr Sohn hat ja heut seinen Schabes
+                  nicht. Wie wär's, wenn Er des Schuhmachers Rappen vorspannen tät und tät sich
+                  selber nach Hattenhofen auf den Weg machen? Er kann's ja doch nicht erwarten, bis
+                  Er Sein räudig's Schaf wieder in der Kur hat. Übrigens denket an mich, ihr beide:
+                  solang man singt, ist die Kirch nicht aus. Ihr werdet's noch erleben, das ich
+                  recht behalt.«</p>
+               <p>»Ich hab ohnehin ein Geschäft draußen«, erwiderte der Chirurg, der ihr die
+                  Befriedigung nicht gönnte, daß er bloß auf ihre Veranlassung einen Weg von ein
+                  paar Stunden machen sollte. »Ich muß eine Weibsperson dort schneiden, die ein
+                  Geschwür im Munde hat. Für böse Mäuler gibt's kein probateres Mittel als unsre
+                  Instrumente.«</p>
+               <p>Der Sonnenwirt lachte und nahm sein Erbieten an, persönlich mit dem Flüchtling zu
+                  reden, ihm förmlich das von dem Vater ausbedungene Versprechen abzunehmen und ihn
+                  dann gleich aus seinem Zufluchtsorte mitzubringen.</p>
+               <p>»Du bist doch recht brav«, sagte seine Frau zu ihm, als er sich zu Hause
+                  anschickte, über Feld zu gehen.<pb/> »Sieh, es freut mich von ganzem Herzen, wie
+                  gut du gegen meinen Bruder bist.«</p>
+               <p>»Quod medicamenta non sanant –«, murmelte der Chirurg vor sich hin und hielt
+                  wieder inne. Dann wandte er sich zu seiner Frau: »Solang man singt, ist die Kirche
+                  nicht aus«, hat deine Mutter gesagt, »und mir hat ein Vögelein gepfiffen, sie
+                  werde wohl recht haben. Zwar, wenn dein Bruder jetzt Vernunft annimmt, so will ich
+                  ihm alles Gute gönnen und will gerne dazu geholfen haben. Aber die Kugel, die
+                  bergab geht, rollt gemeiniglich so fort ohne Aufenthalt. Ohnehin, wenn dein Vater
+                  heut stirbt, so nimmt er morgen sein Bauernmensch. Meinst du, du würdest nicht
+                  besser zu einer Sonnenwirtin taugen? Und sollt ich zum Wirtschaften nicht so gut
+                  Geschick haben als zum Rasieren? Deine Mutter ist so giftig und höhnisch, daß sie
+                  meinen Rasiertag meinen Schabes heißt. Ei, mir stände es gar wohl an, einen
+                  Ruhetag aus ihm zu machen, wenigstens was das Bartschaben betrifft.«</p>
+               <p>Er ging, und Magdalene sah ihm seufzend nach. Dieser Seufzer mochte wohl
+                  mancherlei zu bedeuten haben.</p>
             </div>
             <div type="chapter">
                <head>16</head>
@@ -10219,261 +10264,265 @@
          <div type="group">
             <head>Dritter Teil</head>
             <div type="chapter">
-            <head>30</head>
-            <p>»Gesegnete Mahlzeit beieinander! Das ist ja schön, daß man die Ahne und die Kinder
-               bei der Gottesgabe findet, die Leib und Seel zusammenhält.«</p>
-            <p>Mit diesen Worten trat der Geächtete durch die Türe ein, deren Schwelle er so
-               manchmal in Glück und Leid überschritten hatte. »Was speist man denn?« fragte er
-               heiter.</p>
-            <p>»Rübelessupp und Grundbirn!« antwortete der Knabe, der mit der Großmutter und seinem
-               kleinen Schwesterlein zu Tische saß und mit seinem Löffel der gemeinsamen Schüssel
-               wacker zusprach.</p>
-            <p>»Will Er's nicht mithalten?« fragte die Hirschbäuerin, ohne sich in ihrer eifrigen
-               Beschäftigung stören zu lassen.</p>
-            <p>»Danke! was für drei gekocht ist, ist nicht für vier; man muß keine Deichsel an die
-               Suppenschüssel machen. Im Gegenteil bring ich hier ein paar Brätlein. Wenn Ihr's
-               nicht essen wollt, so könnt Ihr's unter der Hand zu Geld machen.« Er hielt ihr ein
-               paar Hasen hin. Bei diesem Anblick legte sie schnell den Löffel auf den Tisch,
-               ergriff das Geschenk und trug es in eine Ecke der Stube, wo sie einen leeren Korb
-               darüberdeckte.</p>
-            <p>Der Ankömmling setzte sich an den Tisch, holte einen hölzernen Löffel aus der
-               Schublade und fütterte das Kleine, das erwartungsvoll nach der Großmutter<pb/>
-               hinstarrte, aus der Schüssel, ohne sich selbst einen Bissen zu gönnen. Bei dem trüben
-               Schein der armseligen Ampel blickte er abwechselnd seine Kinder an und freute sich,
-               daß es ihnen so gut schmeckte.</p>
-            <p>»Wo ist denn der Lobele blieben?« fragte die Alte, sich wieder an den Tisch
-               setzend.</p>
-            <p>»Mein weißköpfigs Schwägerle«, erwiderte er, »hab ich in Rechberghausen beim Christle
-               gelassen. Ich hab einen weiten Umweg machen müssen« – er warf einen Blick nach der
-               Ecke, wo die Hasen lagen – »wo ich ihn nicht hab mitnehmen wollen, und ihn allein
-               heruntergehen zu lassen, dazu ist mir's zu spät gewesen. Morgen früh ist er wieder
-               da. Ist's richtig, was er mir ausgerichtet hat? Mein Vater will sich also zu einem
-               gütlichen Abkommen mit mir verstehen?«</p>
-            <p>»Ja«, sagte sie, »er hat mich kommen lassen und hat so mit mir geredt, daß ich
-               glauben muß, es sei sein Ernst. Vierhundert Gulden will er Ihm geben, wenn Er mit der
-               Christine und den Kindern nach Pennsylvanien geht, die Hälfte bar und die Hälfte
-               drüben, aber das Bare nicht eher, als bis mit der Abreis alles im reinen sei. Bis
-               dahin will er sorgen, daß den Kindern nichts abgeht.«</p>
-            <p>»Wenn nur die Christine frei wär, dann ging ich gleich«, versetzte er. »Wißt Ihr
-               nichts von ihr?«</p>
-            <p>»Nein.«</p>
-            <p>»Einundzwanzig Wochen sind es jetzt, daß ich ihr Gefängnis umschwärme«, sagte er.
-               »Was ich in dieser Zeit durchgemacht hab, wird nicht bald einem <pb/> Zigeuner
-               vorgekommen sein, denn der hat doch noch die Wahl, in welcher Gegend er sein
-               Nachtquartier nehmen will, und wenn's auch nur in einer Höhle wär. Ich aber bin wie
-               ein böser Geist immer in das Revier da gebannt gewesen.«</p>
-            <p>Die Alte lächelte schlau. »Beim Krämerchristle«, sagte sie, »hat's doch gewiß nicht
-               an Loschement gefehlt.«</p>
-            <p>»Beim Christle«, sagte er, »kann ich meinen kleinen Schwager unterbringen, wenn er
-               mir eine Botschaft tut und ich ihn nicht in der Nacht heimlassen will, und vom
-               Christle nehm ich's an, wenn er, wie ein paarmal geschehen ist, in meiner Abwesenheit
-               meinem Weib oder meinen Kindern etwas schickt, zumal wenn das« – er sah die Alte
-               scharf an – »nicht für die Schleckerei, sondern für die bittere Notdurft ist. Beim
-               Christle und sonst da und dort bin ich selber auch ein paarmal über Nacht gewesen,
-               wenn man ein gemeinsames Geschäft vorgehabt hat, bei dem der Nutzen zum kleinsten
-               Teil auf meiner Seite gewesen ist. Aber wenn gleich Rechberghausen nicht dem Herzog
-               von Württemberg, sondern dem Grafen von Preysing gehört, so hätt ich doch dem
-               Christle nicht zumuten mögen, einem vogelfreien Menschen, wie ich bin, nach dem man
-               über jede Grenze streifen darf, einen beständigen Aufenthalt zu geben. Nein,
-               Schwieger, ich bin in diesen einundzwanzig Wochen das wenigste Mal unter Dach und
-               Fach gekommen, und wenn ich nur in einer Scheuer hab unterkriechen können, so ist das
-               ein Festtag für mich gewesen. Die meiste Zeit aber hab <pb/> ich tief im Wald, oft
-               auch im freien Feld, auf dem Schnee geschlafen, ein paar harte Felle von geschossenem
-               Wild zur Decke und den kalten, sternglitzernden Himmel über mir. Wenn mir früher
-               jemand behauptet hätte, das sei ein Mensch auszuhalten imstand, ich hätt ihm nichts
-               davon geglaubt. Aber seht nur meine Kleider an: die zeugen am besten von meiner
-               Lebensart; im Herbst sind sie noch ganz neu gewesen, und jetzt hängen sie halb in
-               Fetzen an mir herum. Und wenn mir nicht der große Bart gewachsen wär, so könntet Ihr
-               sehen, wie ich abgemagert bin – nichts als Haut und Knochen. Und fasten hab ich
-               gelernt, wie kein katholischer Heiliger; ich bin ordentlich mit dem Hunger auf du und
-               du zu stehen kommen.«</p>
-            <p>Der Knabe warf seinen Löffel auf den Tisch und aß nicht weiter, während sein Vater
-               unter dem Reden den Löffel fleißig nach dem Munde des kleineren Kindes führte.</p>
-            <p>»Da wär's in Pennsylvanien doch besser«, bemerkte die Alte.</p>
-            <p>»Meint Ihr nicht, der Jerg ging mit?« fragte er und setzte schnell hinzu: »daß wir
-               Euch nicht allein zurückließen, versteht sich von selbst.«</p>
-            <p>»O du mein Heiland, Er hat's gut mit mir vor«, sagte sie. »Sollt ich auf meine alte
-               Tag noch so weit übers Meer? Und der Jerg, der ist jetzt zu Stuttgart im Dienst als
-               Packer bei einem Kaufmann und meint, er könn's sein Leben lang nicht besser kriegen.
-               Nächstens will er mir all Woch ein Geldle schicken.«</p>
-            <p>
-               <pb/> »Das Land da drüben ist so groß, wie ich mir habsagen lassen, daß wir ein
-               halbes Fürstentum in Besitznehmen könnten. Das wär doch ein ander Leben.«</p>
-            <p>»Mein letzte Stütz sollt ich hergeben oder gar selber mitgehen und vielleicht
-               unterwegs, wie der Jonas, von einem Fisch gefressen werden?«</p>
-            <p>»Ahne, der Fisch hat ihn ja wieder ausgespien«, bemerkte der Knabe dazwischen.</p>
-            <p>»Und das Reis'geld«, fuhr sie fort, ohne auf die Bemerkung zu achten, »wär für uns
-               alle zusammen nicht gnug.«</p>
-            <p>»Ob mein Vater die vierhundert Gulden auf einmal hergibt oder auf zweimal, kann ihm
-               gleichgültig sein, wenn's ihm überhaupt mit dem Anerbieten Ernst ist. Glaubt Ihr
-               wirklich, Schwieger, daß er's ehrlich meint?«</p>
-            <p>»Daß er's anders tut, als er gesagt hat, glaub ich nicht, dagegen das glaub ich, daß
-               ihm zu trauen ist, denn warum? er möcht Ihn eben fort han, weil er sich vor Ihm
-               fürchtet und weil der ganz Fleck in Ängsten vor Ihm ist.«</p>
-            <p>Der Geächtete lachte stolz.</p>
-            <p>»Ich glaub ferner auch«, fuhr sie zutraulich fort, »daß der Amtmann mit unter der
-               Sach steckt; denn dem wär's ebenmäßig wohl, wenn er nichts mehr mit Ihm zu tun
-               hätt.«</p>
-            <p>»Der Amtmann?« sagte er. »Wenn das der Fall ist, so muß man sich vor Finten hüten.
-               Der arbeitet an einem doppelten Plan. Mag leicht sein, daß er fürlieb nimmt, wenn er
-               mich über alle Berg weiß, aber noch lieber ist's ihm, wenn er mich wieder <pb/> unter
-               seine Klauen kriegen und einliefern und eine Belobung davontragen kann. Nein,
-               Schwieger, wenn ich gewußt hätt, daß der Amtmann im Spiel ist – seht ja zu, daß Ihr
-               die Hand nicht zu einem falschen Spiel bietet!«</p>
-            <p>»Ich vermut's ja nur«, sagte sie. »Mein Herz denkt an nichts Args. Wer wird denn auch
-               gleich so ängstlich sein?«</p>
-            <p>»Ängstlich!« rief der Geächtete, und sein ganzer Stolz flammte auf: »wer kann mir
-               nachsagen, daß ich jemals Angst hab blicken lassen?«</p>
-            <p>»Nu, nu, man redt ja nur. Eins ist so wenig nutz wie das ander. Wer alle Stauden will
-               fliehen, kommt nie in Wald, und hinwiederum, dem Trauwohl hat man den Gaul
-               weggeritten. Für heut hat's jedenfalls kein Gefahr, denn kein Mensch weiß, daß Er da
-               ist.«</p>
-            <p>»Doch will ich nicht über Nacht bleiben.«</p>
-            <p>»Ja, und wenn sie dann wieder mitten in der Nacht Haussuchung halten wollen, so läßt
-               Er ihnen wieder das Nachsehen. Denn besser in der Acht als in der Hacht, besser der
-               Nam als der Leib am Galgen.«</p>
-            <p>»Wenn man durch meinen Vater mit dem Amtmann unterhandeln könnt, daß die Christine
-               frei würd, unter der Bedingung, mit mir nach Pennsylvanien zu gehen, so könntet Ihr
-               mir ja an einen sichern Ort Meldung tun. Aber ohne den Jerg ist's nur halb gelebt.
-               Ein Mann wie mein Schwager wär mir mehr wert als ein Kapital in dem großen wüsten
-               Land, wo man Wälder ausstocken und mit den Wilden kämpfen muß.«</p>
-            <p>
-               <pb/> »Wenn die Kinder im Bett sind, so wollen wir weiter reden«, sagte sie und trug
-               das Eßgeschirr hinaus.</p>
-            <p>»Vater«, sagte der Knabe jetzt, der lange auf einen Augeinblick, wo er auch etwas
-               reden durfte, gewartet hatte, »Vater, ich hab mich so lang drauf gefreut, bis Er auch
-               einmal wiederkommt.«</p>
-            <p>Die helle Stimme des Knaben tat dem Geächteten tief im Herzen wohl. »So, Friederle«,
-               sagte er, »hast dich auf den Vater gefreut? Sieh, ich hab euch auch was mitgebracht.«
-               Mit diesen Worten zog er aus der Tasche allerlei Spielzeug, das er in müßigen Stunden
-               künstlich geschnitzt hatte. »Die Docken gehören deinem Christinele, die gibst ihr
-               morgen früh, wenn sie aufwacht.« Er legte das Kind, das in seinem Arme eingeschlafen
-               war, auf das Bett und brachte aus seinen anderen Taschen noch mehr der Herrlichkeiten
-               hervor. »Da sind für dich Soldaten, Fußvolk und Reiter, auch etliche Kanonen dabei,
-               weil's jetzt Krieg ist, und damit deine Schulkameraden nicht sagen können, du habest
-               nicht so schöne oder nicht schönere Spielsachen als sie. Lernst auch brav? Erzähl mir
-               einmal, was heut in der Schule vorgekommen ist.«</p>
-            <p>»Die Geschicht vom Simson ist gelesen worden«, antwortete der Knabe.</p>
-            <p>»Hast du mitlesen dürfen?« fragte der Vater. »Kannst lesen?«</p>
-            <p>»Noch nicht ganz gut«, sagte der Knabe, »'s kommt nur hie und da ein kleiner Vers zum
-               Lesen an mich. Aber die Geschicht hat mir mächtig gut gefallen, <pb/> wie der Simson
-               den Löwen zerrissen hat und wie er mit dem Eselskinnbacken tausend Philister
-               geschlagen hat und hat ihnen das Stadttor in der Nacht fortgetragen und Füchs in ihre
-               Felder trieben mit brennende Schwänz, und wie er zuletzt das Haus eingerissen hat,
-               daß es auf ihn und alle Philister zusammengefallen ist.«</p>
-            <p>»Du gibst ja recht acht«, sagte der Vater freundlich. »Möchtest vielleicht auch ein
-               Simson werden?«</p>
-            <p>Der Knabe sah ihn verwundert an.</p>
-            <p>»Gelt, das verstehst du nicht? Was möchtest denn werden?«</p>
-            <p>»Ich möcht werden, was mein Vater ist.«</p>
-            <p>»Was ist denn dein Vater?«</p>
-            <p>Der Knabe sah ihn starr an und antwortete auf wiederholtes Fragen: »Ich weiß
-               nicht.«</p>
-            <p>»Warum sagst du denn, du möchtest werden, was dein Vater ist, und weißt es
-               nicht?«</p>
-            <p>»Ha, so sagt jeder Bub, wenn man ihn fragt, was er werden wöll.«</p>
-            <p>»So! Wie heißen sie denn deinen Vater?«</p>
-            <p>»Er sei söllig stark, so daß alles Angst vor ihm haben müß.«</p>
-            <p>»So? und was sagen sie sonst von ihm?«</p>
-            <p>Der Knabe schwieg.</p>
-            <p>»Wie gehen denn deine Kameraden in der Schule mit dir um? Sag's, ich will's
-               wissen.«</p>
-            <p>»Sie lassen mich nicht ins Buch neingucken, so daß mir der Schulmeister schon oft
-               eine besondere Bibel geben hat, und einmal, wo sie wüst gegen mich gewesen sind, hat
-               der Schulmeister zu ihnen <pb/> gesagt, sie sollen mich gehen lassen, ich sei ein
-               unglücklich's Kind, ich könn nichts dafür.«</p>
-            <p>»Für was?«</p>
-            <p>Der Knabe schwieg.</p>
-            <p>»Ich befehl dir's, ich will wissen, was sie von deinem Vater gesagt haben.«</p>
-            <p>Er mußte seinen Willen im gebietendsten Tone geltend machen, bis der Knabe endlich
-               schüchtern und zögernd antwortete: »Sie sagen – Er hab – gestohlen.«</p>
-            <p>»Und wenn das wahr ist, so willst du dennoch werden, was dein Vater ist?«</p>
-            <p>»Ja.«</p>
-            <p>»Was ist einer, der stiehlt?«</p>
-            <p>Er bedurfte abermals der größten Anstrengung, um aus dem Knaben die Antwort
-               herauszubringen: »Ein Dieb.«</p>
-            <p>»Ein Dieb also willst werden?«</p>
-            <p>»Ja.«</p>
-            <p>»Wart, ich will dir einen Denkzettel geben! Ahne, wo ist die Rute?«</p>
-            <p>Er gewahrte nicht, daß die Alte nach langer Abwesenheit erst in diesem Augenblick
-               wieder in die Stube trat und die Türe ein wenig hinter sich offen ließ. Sie bat für
-               den Knaben, als sie hörte, um was es sich handle, und suchte dem unglücklichen Vater
-               bemerklich zu machen, daß das Kind sich nicht auszudrücken vermöge und daß er ihm
-               noch keine Unterscheidung zumuten dürfe. »Nein«, sagte er unerbittlich, »man soll mir
-               nicht nachsagen, daß ich den Buben zu solchen Gedanken angeleitet oder <pb/> ihm's
-               auch nur zugelassen hab, und wenn ich keine Rute haben kann, so tut's auch die
-               Hand.«</p>
-            <p>Er zog den Knaben zwischen die Knie und patschte ihn mit seiner kräftigen Hand so
-               nachdrücklich, daß derselbe mit offenem Mund schnaubte und schnappte; doch gab er
-               keinen Laut des Schmerzes von sich.</p>
-            <p>»Was heulst nicht, du Krott?« fragte der Vater, in seinem wenig überlegten
-               Besserungsgeschäfte innehaltend.</p>
-            <p>»Ich hab immer gehört, mein Vater hab nie geheult, wenn man ihn auch noch so arg
-               geschlagen hab«, antwortete der Knabe, nicht trotzig, aber mit entschiedenem Tone und
-               seinem Vater ruhig ins Auge sehend.</p>
-            <p>Dieser ließ die Hand sinken und zog den Knaben in seine Arme. »Ach, Friederle, mein
-               Kind, mein lieb's Kind«, rief er, »ich hätt dich ja gewiß nicht geschlagen, wenn ich
-               allezeit bei dir wär und dich im Guten unterweisen könnt. Aber ein Dieb sollst und
-               darfst du mir nicht werden, das verbiet ich dir hoch und teuer. Glaubst du, daß ich's
-               gut mit dir mein?«</p>
-            <p>»Ja«, sagte der Knabe, indem er ihn mit seinen blauen Augen aufrichtig ansah.</p>
-            <p>»Willst mir's nachtragen, daß ich dich geschlagen hab?«</p>
-            <p>»Nein.«</p>
-            <p>»Willst mir versprechen« – er drückte ihn immer heftiger an sich und schrie ihm die
-               Worte ins Ohr: »Werd brav! werd rechtschaffen! Du mußt nicht <pb/> meinen, es müsse
-               dir auch gehen wie deinem Vater! Es geht nicht jedem so, es darf dir nicht auch so
-               gehen! Wenn du älter bist und mehr weißt als jetzt, dann wirst du einsehen, daß du
-               kein Dieb zu werden brauchst, wenn du deinem Vater anhänglich sein willst. Dann wirst
-               du aber auch verstehen, daß dein Vater nicht so schlecht gewesen ist, wie die Leut
-               von ihm gesagt haben. Und deine Mutter, die du so wenig gesehen hast, ist eine gute
-               Mutter, Kind, und kann nichts dafür, daß sie nicht öfter nach dir sieht, und wenn sie
-               wieder bei dir sein kann – –«</p>
-            <p>Die Stimme brach ihm, er schlug die Hände vor die Augen und legte den Kopf auf den
-               Tisch. Es wurde ganz still, nur daß man tief aus seiner Brust herauf ein
-               unterdrücktes Schluchzen hörte. Die Alte sah sich einen Augenblick um, setzte sich
-               dann so, daß sie dem Tische und der Türe den Rücken zukehrte, und begann hierauf mit
-               einer Stimme, die abscheulich lautete, das geistliche Lied zu singen: »Valet will ich
-               dir geben, du arge falsche Welt.«</p>
-            <p>Der Geächtete hatte seinen Empfindungen eine kurze Zeit freien Lauf gelassen, da
-               weckte ihn ein durchdringendes Geschrei seines kleinen Sohnes: »Vater! Vater!
-               Philister über dir, Simson.«</p>
-            <p>Er fuhr auf und starrte, die Augen voll Tränen, in die Stube, aber die Bewegung hatte
-               nur dazu gedient, seinen Kopf einer Schlinge preiszugeben, die im gleichen
-               Augenblicke fest um seinen Hals zugezogen wurde. Die Stube war voll bewaffneter <pb/>
-               Männer. Er fuhr mit der Hand nach dem Halse, um sich von der Schlinge freizumachen.
-               Da schrie der Fischer, der unter den vordersten war: »Hand weg, oder du mußt
-               verworgen!« Zugleich wurde die Schlinge noch fester angezogen, so daß er taumelte. Er
-               ließ ab vom Widerstande und war nach kurzer Zeit an Armen und Beinen so fest
-               geschnürt, daß man ihn ohne Gefahr fortschaffen konnte. Die Alte schickte sich
-               heulend und schreiend an, mit ihrer trüben Ampel zum Haus hinauszuleuchten, und
-               beteuerte ihm fortwährend, daß sie an dem Unglück unschuldig sei. »Mag sein«,
-               erwiderte er, sie mit ungewissen Blicken messend, »aber dir, Fischerhanne, ist's
-               geschworen – und wenn ihr mir auch die Arm fesselt, die Schwurfinger kann ich doch
-               noch bewegen – der nächste Streich, den du mir spielst, ist dein Tod.« –
-               »Verhoffentlich wird kein weiterer nötig sein«, sagte der Fischer, und alle lachten
-               zusammen. Während ein Teil der Wachmannschaft den Gefangenen so eilig fortschleppte,
-               daß er nur noch mit den Augen seinem Knaben ein Lebewohl zuwinken konnte, stöberte
-               ein anderer, den Fischer an der Spitze, in der Stube herum. Die Alte, als sie dies
-               bemerkte, überließ den Fortgehenden die Sorge, wie sie sich ohne Licht zurechtfinden
-               wollten, und eilte in die Stube zurück, konnte es aber nicht verhindern, daß die
-               Hasen, als offenbares Herrschaftseigentum, in Beschlag genommen wurden.</p>
-            <p>Der Knabe war außer sich, und die Nachbarn, welche halb teilnehmend, halb neugierig
-               hinter den Häschern in die Stube gedrungen waren, versuchten <pb/> ihn umsonst zu
-               trösten. Nachdem die Alte sich über den Verlust ihres soeben zum Geschenk erhaltenen
-               Wildbrets einigermaßen beruhigt hatte, schwatzte sie ihm vor, sein Vater werde nur
-               ein wenig zur Mutter nach Göppingen gebracht und werde bald wiederkommen. Er ließ
-               sich nach und nach beschwichtigen; über eines aber konnte er sich nicht zufrieden
-               geben: »Mein Vater«, sagte er, »hat sonst nie geheult, und jetzt haben sie ihn grad
-               geholt, wo er geheult hat.«</p>
-            <p>In diesem Augenblicke kam der Schütz, zu spät, um an der Gefangennehmung, zu welcher
-               er beordert war, teilzunehmen, aber früh genug, um der Alten eine Nachricht zu
-               bringen, die sie ganz darniederschmetterte. »Wisset Ihr auch, Hirschbäurin«, sagte
-               er, »daß Euer zweiter Sohn in Stuttgart hat Soldat werden müssen? Er hat einem
-               Soldaten zur Desertion geholfen, und der Oberst Rieger, der dem Herzog sein
-               Kriegsvolk zusammenwirbt, hat darauf gemeint, er sei ihm als Stellvertreter ebensogut
-               oder noch lieber.«</p>
-            <p>Sie warf sich zu Boden und raufte ihre Haare. Diesmal war ihr Schreien und Heulen
-               ernstlich gemeint. »Jetzt hab ich mein Stecken und Stab verloren!« jammerte sie.</p>
+               <head>30</head>
+               <p>»Gesegnete Mahlzeit beieinander! Das ist ja schön, daß man die Ahne und die Kinder
+                  bei der Gottesgabe findet, die Leib und Seel zusammenhält.«</p>
+               <p>Mit diesen Worten trat der Geächtete durch die Türe ein, deren Schwelle er so
+                  manchmal in Glück und Leid überschritten hatte. »Was speist man denn?« fragte er
+                  heiter.</p>
+               <p>»Rübelessupp und Grundbirn!« antwortete der Knabe, der mit der Großmutter und
+                  seinem kleinen Schwesterlein zu Tische saß und mit seinem Löffel der gemeinsamen
+                  Schüssel wacker zusprach.</p>
+               <p>»Will Er's nicht mithalten?« fragte die Hirschbäuerin, ohne sich in ihrer eifrigen
+                  Beschäftigung stören zu lassen.</p>
+               <p>»Danke! was für drei gekocht ist, ist nicht für vier; man muß keine Deichsel an
+                  die Suppenschüssel machen. Im Gegenteil bring ich hier ein paar Brätlein. Wenn
+                  Ihr's nicht essen wollt, so könnt Ihr's unter der Hand zu Geld machen.« Er hielt
+                  ihr ein paar Hasen hin. Bei diesem Anblick legte sie schnell den Löffel auf den
+                  Tisch, ergriff das Geschenk und trug es in eine Ecke der Stube, wo sie einen
+                  leeren Korb darüberdeckte.</p>
+               <p>Der Ankömmling setzte sich an den Tisch, holte einen hölzernen Löffel aus der
+                  Schublade und fütterte das Kleine, das erwartungsvoll nach der Großmutter<pb/>
+                  hinstarrte, aus der Schüssel, ohne sich selbst einen Bissen zu gönnen. Bei dem
+                  trüben Schein der armseligen Ampel blickte er abwechselnd seine Kinder an und
+                  freute sich, daß es ihnen so gut schmeckte.</p>
+               <p>»Wo ist denn der Lobele blieben?« fragte die Alte, sich wieder an den Tisch
+                  setzend.</p>
+               <p>»Mein weißköpfigs Schwägerle«, erwiderte er, »hab ich in Rechberghausen beim
+                  Christle gelassen. Ich hab einen weiten Umweg machen müssen« – er warf einen Blick
+                  nach der Ecke, wo die Hasen lagen – »wo ich ihn nicht hab mitnehmen wollen, und
+                  ihn allein heruntergehen zu lassen, dazu ist mir's zu spät gewesen. Morgen früh
+                  ist er wieder da. Ist's richtig, was er mir ausgerichtet hat? Mein Vater will sich
+                  also zu einem gütlichen Abkommen mit mir verstehen?«</p>
+               <p>»Ja«, sagte sie, »er hat mich kommen lassen und hat so mit mir geredt, daß ich
+                  glauben muß, es sei sein Ernst. Vierhundert Gulden will er Ihm geben, wenn Er mit
+                  der Christine und den Kindern nach Pennsylvanien geht, die Hälfte bar und die
+                  Hälfte drüben, aber das Bare nicht eher, als bis mit der Abreis alles im reinen
+                  sei. Bis dahin will er sorgen, daß den Kindern nichts abgeht.«</p>
+               <p>»Wenn nur die Christine frei wär, dann ging ich gleich«, versetzte er. »Wißt Ihr
+                  nichts von ihr?«</p>
+               <p>»Nein.«</p>
+               <p>»Einundzwanzig Wochen sind es jetzt, daß ich ihr Gefängnis umschwärme«, sagte er.
+                  »Was ich in dieser Zeit durchgemacht hab, wird nicht bald einem <pb/> Zigeuner
+                  vorgekommen sein, denn der hat doch noch die Wahl, in welcher Gegend er sein
+                  Nachtquartier nehmen will, und wenn's auch nur in einer Höhle wär. Ich aber bin
+                  wie ein böser Geist immer in das Revier da gebannt gewesen.«</p>
+               <p>Die Alte lächelte schlau. »Beim Krämerchristle«, sagte sie, »hat's doch gewiß
+                  nicht an Loschement gefehlt.«</p>
+               <p>»Beim Christle«, sagte er, »kann ich meinen kleinen Schwager unterbringen, wenn er
+                  mir eine Botschaft tut und ich ihn nicht in der Nacht heimlassen will, und vom
+                  Christle nehm ich's an, wenn er, wie ein paarmal geschehen ist, in meiner
+                  Abwesenheit meinem Weib oder meinen Kindern etwas schickt, zumal wenn das« – er
+                  sah die Alte scharf an – »nicht für die Schleckerei, sondern für die bittere
+                  Notdurft ist. Beim Christle und sonst da und dort bin ich selber auch ein paarmal
+                  über Nacht gewesen, wenn man ein gemeinsames Geschäft vorgehabt hat, bei dem der
+                  Nutzen zum kleinsten Teil auf meiner Seite gewesen ist. Aber wenn gleich
+                  Rechberghausen nicht dem Herzog von Württemberg, sondern dem Grafen von Preysing
+                  gehört, so hätt ich doch dem Christle nicht zumuten mögen, einem vogelfreien
+                  Menschen, wie ich bin, nach dem man über jede Grenze streifen darf, einen
+                  beständigen Aufenthalt zu geben. Nein, Schwieger, ich bin in diesen einundzwanzig
+                  Wochen das wenigste Mal unter Dach und Fach gekommen, und wenn ich nur in einer
+                  Scheuer hab unterkriechen können, so ist das ein Festtag für mich gewesen. Die
+                  meiste Zeit aber hab <pb/> ich tief im Wald, oft auch im freien Feld, auf dem
+                  Schnee geschlafen, ein paar harte Felle von geschossenem Wild zur Decke und den
+                  kalten, sternglitzernden Himmel über mir. Wenn mir früher jemand behauptet hätte,
+                  das sei ein Mensch auszuhalten imstand, ich hätt ihm nichts davon geglaubt. Aber
+                  seht nur meine Kleider an: die zeugen am besten von meiner Lebensart; im Herbst
+                  sind sie noch ganz neu gewesen, und jetzt hängen sie halb in Fetzen an mir herum.
+                  Und wenn mir nicht der große Bart gewachsen wär, so könntet Ihr sehen, wie ich
+                  abgemagert bin – nichts als Haut und Knochen. Und fasten hab ich gelernt, wie kein
+                  katholischer Heiliger; ich bin ordentlich mit dem Hunger auf du und du zu stehen
+                  kommen.«</p>
+               <p>Der Knabe warf seinen Löffel auf den Tisch und aß nicht weiter, während sein Vater
+                  unter dem Reden den Löffel fleißig nach dem Munde des kleineren Kindes führte.</p>
+               <p>»Da wär's in Pennsylvanien doch besser«, bemerkte die Alte.</p>
+               <p>»Meint Ihr nicht, der Jerg ging mit?« fragte er und setzte schnell hinzu: »daß wir
+                  Euch nicht allein zurückließen, versteht sich von selbst.«</p>
+               <p>»O du mein Heiland, Er hat's gut mit mir vor«, sagte sie. »Sollt ich auf meine
+                  alte Tag noch so weit übers Meer? Und der Jerg, der ist jetzt zu Stuttgart im
+                  Dienst als Packer bei einem Kaufmann und meint, er könn's sein Leben lang nicht
+                  besser kriegen. Nächstens will er mir all Woch ein Geldle schicken.«</p>
+               <p>
+                  <pb/> »Das Land da drüben ist so groß, wie ich mir habsagen lassen, daß wir ein
+                  halbes Fürstentum in Besitznehmen könnten. Das wär doch ein ander Leben.«</p>
+               <p>»Mein letzte Stütz sollt ich hergeben oder gar selber mitgehen und vielleicht
+                  unterwegs, wie der Jonas, von einem Fisch gefressen werden?«</p>
+               <p>»Ahne, der Fisch hat ihn ja wieder ausgespien«, bemerkte der Knabe dazwischen.</p>
+               <p>»Und das Reis'geld«, fuhr sie fort, ohne auf die Bemerkung zu achten, »wär für uns
+                  alle zusammen nicht gnug.«</p>
+               <p>»Ob mein Vater die vierhundert Gulden auf einmal hergibt oder auf zweimal, kann
+                  ihm gleichgültig sein, wenn's ihm überhaupt mit dem Anerbieten Ernst ist. Glaubt
+                  Ihr wirklich, Schwieger, daß er's ehrlich meint?«</p>
+               <p>»Daß er's anders tut, als er gesagt hat, glaub ich nicht, dagegen das glaub ich,
+                  daß ihm zu trauen ist, denn warum? er möcht Ihn eben fort han, weil er sich vor
+                  Ihm fürchtet und weil der ganz Fleck in Ängsten vor Ihm ist.«</p>
+               <p>Der Geächtete lachte stolz.</p>
+               <p>»Ich glaub ferner auch«, fuhr sie zutraulich fort, »daß der Amtmann mit unter der
+                  Sach steckt; denn dem wär's ebenmäßig wohl, wenn er nichts mehr mit Ihm zu tun
+                  hätt.«</p>
+               <p>»Der Amtmann?« sagte er. »Wenn das der Fall ist, so muß man sich vor Finten hüten.
+                  Der arbeitet an einem doppelten Plan. Mag leicht sein, daß er fürlieb nimmt, wenn
+                  er mich über alle Berg weiß, aber noch lieber ist's ihm, wenn er mich wieder <pb/>
+                  unter seine Klauen kriegen und einliefern und eine Belobung davontragen kann.
+                  Nein, Schwieger, wenn ich gewußt hätt, daß der Amtmann im Spiel ist – seht ja zu,
+                  daß Ihr die Hand nicht zu einem falschen Spiel bietet!«</p>
+               <p>»Ich vermut's ja nur«, sagte sie. »Mein Herz denkt an nichts Args. Wer wird denn
+                  auch gleich so ängstlich sein?«</p>
+               <p>»Ängstlich!« rief der Geächtete, und sein ganzer Stolz flammte auf: »wer kann mir
+                  nachsagen, daß ich jemals Angst hab blicken lassen?«</p>
+               <p>»Nu, nu, man redt ja nur. Eins ist so wenig nutz wie das ander. Wer alle Stauden
+                  will fliehen, kommt nie in Wald, und hinwiederum, dem Trauwohl hat man den Gaul
+                  weggeritten. Für heut hat's jedenfalls kein Gefahr, denn kein Mensch weiß, daß Er
+                  da ist.«</p>
+               <p>»Doch will ich nicht über Nacht bleiben.«</p>
+               <p>»Ja, und wenn sie dann wieder mitten in der Nacht Haussuchung halten wollen, so
+                  läßt Er ihnen wieder das Nachsehen. Denn besser in der Acht als in der Hacht,
+                  besser der Nam als der Leib am Galgen.«</p>
+               <p>»Wenn man durch meinen Vater mit dem Amtmann unterhandeln könnt, daß die Christine
+                  frei würd, unter der Bedingung, mit mir nach Pennsylvanien zu gehen, so könntet
+                  Ihr mir ja an einen sichern Ort Meldung tun. Aber ohne den Jerg ist's nur halb
+                  gelebt. Ein Mann wie mein Schwager wär mir mehr wert als ein Kapital in dem großen
+                  wüsten Land, wo man Wälder ausstocken und mit den Wilden kämpfen muß.«</p>
+               <p>
+                  <pb/> »Wenn die Kinder im Bett sind, so wollen wir weiter reden«, sagte sie und
+                  trug das Eßgeschirr hinaus.</p>
+               <p>»Vater«, sagte der Knabe jetzt, der lange auf einen Augeinblick, wo er auch etwas
+                  reden durfte, gewartet hatte, »Vater, ich hab mich so lang drauf gefreut, bis Er
+                  auch einmal wiederkommt.«</p>
+               <p>Die helle Stimme des Knaben tat dem Geächteten tief im Herzen wohl. »So,
+                  Friederle«, sagte er, »hast dich auf den Vater gefreut? Sieh, ich hab euch auch
+                  was mitgebracht.« Mit diesen Worten zog er aus der Tasche allerlei Spielzeug, das
+                  er in müßigen Stunden künstlich geschnitzt hatte. »Die Docken gehören deinem
+                  Christinele, die gibst ihr morgen früh, wenn sie aufwacht.« Er legte das Kind, das
+                  in seinem Arme eingeschlafen war, auf das Bett und brachte aus seinen anderen
+                  Taschen noch mehr der Herrlichkeiten hervor. »Da sind für dich Soldaten, Fußvolk
+                  und Reiter, auch etliche Kanonen dabei, weil's jetzt Krieg ist, und damit deine
+                  Schulkameraden nicht sagen können, du habest nicht so schöne oder nicht schönere
+                  Spielsachen als sie. Lernst auch brav? Erzähl mir einmal, was heut in der Schule
+                  vorgekommen ist.«</p>
+               <p>»Die Geschicht vom Simson ist gelesen worden«, antwortete der Knabe.</p>
+               <p>»Hast du mitlesen dürfen?« fragte der Vater. »Kannst lesen?«</p>
+               <p>»Noch nicht ganz gut«, sagte der Knabe, »'s kommt nur hie und da ein kleiner Vers
+                  zum Lesen an mich. Aber die Geschicht hat mir mächtig gut gefallen, <pb/> wie der
+                  Simson den Löwen zerrissen hat und wie er mit dem Eselskinnbacken tausend
+                  Philister geschlagen hat und hat ihnen das Stadttor in der Nacht fortgetragen und
+                  Füchs in ihre Felder trieben mit brennende Schwänz, und wie er zuletzt das Haus
+                  eingerissen hat, daß es auf ihn und alle Philister zusammengefallen ist.«</p>
+               <p>»Du gibst ja recht acht«, sagte der Vater freundlich. »Möchtest vielleicht auch
+                  ein Simson werden?«</p>
+               <p>Der Knabe sah ihn verwundert an.</p>
+               <p>»Gelt, das verstehst du nicht? Was möchtest denn werden?«</p>
+               <p>»Ich möcht werden, was mein Vater ist.«</p>
+               <p>»Was ist denn dein Vater?«</p>
+               <p>Der Knabe sah ihn starr an und antwortete auf wiederholtes Fragen: »Ich weiß
+                  nicht.«</p>
+               <p>»Warum sagst du denn, du möchtest werden, was dein Vater ist, und weißt es
+                  nicht?«</p>
+               <p>»Ha, so sagt jeder Bub, wenn man ihn fragt, was er werden wöll.«</p>
+               <p>»So! Wie heißen sie denn deinen Vater?«</p>
+               <p>»Er sei söllig stark, so daß alles Angst vor ihm haben müß.«</p>
+               <p>»So? und was sagen sie sonst von ihm?«</p>
+               <p>Der Knabe schwieg.</p>
+               <p>»Wie gehen denn deine Kameraden in der Schule mit dir um? Sag's, ich will's
+                  wissen.«</p>
+               <p>»Sie lassen mich nicht ins Buch neingucken, so daß mir der Schulmeister schon oft
+                  eine besondere Bibel geben hat, und einmal, wo sie wüst gegen mich gewesen sind,
+                  hat der Schulmeister zu ihnen <pb/> gesagt, sie sollen mich gehen lassen, ich sei
+                  ein unglücklich's Kind, ich könn nichts dafür.«</p>
+               <p>»Für was?«</p>
+               <p>Der Knabe schwieg.</p>
+               <p>»Ich befehl dir's, ich will wissen, was sie von deinem Vater gesagt haben.«</p>
+               <p>Er mußte seinen Willen im gebietendsten Tone geltend machen, bis der Knabe endlich
+                  schüchtern und zögernd antwortete: »Sie sagen – Er hab – gestohlen.«</p>
+               <p>»Und wenn das wahr ist, so willst du dennoch werden, was dein Vater ist?«</p>
+               <p>»Ja.«</p>
+               <p>»Was ist einer, der stiehlt?«</p>
+               <p>Er bedurfte abermals der größten Anstrengung, um aus dem Knaben die Antwort
+                  herauszubringen: »Ein Dieb.«</p>
+               <p>»Ein Dieb also willst werden?«</p>
+               <p>»Ja.«</p>
+               <p>»Wart, ich will dir einen Denkzettel geben! Ahne, wo ist die Rute?«</p>
+               <p>Er gewahrte nicht, daß die Alte nach langer Abwesenheit erst in diesem Augenblick
+                  wieder in die Stube trat und die Türe ein wenig hinter sich offen ließ. Sie bat
+                  für den Knaben, als sie hörte, um was es sich handle, und suchte dem unglücklichen
+                  Vater bemerklich zu machen, daß das Kind sich nicht auszudrücken vermöge und daß
+                  er ihm noch keine Unterscheidung zumuten dürfe. »Nein«, sagte er unerbittlich,
+                  »man soll mir nicht nachsagen, daß ich den Buben zu solchen Gedanken angeleitet
+                  oder <pb/> ihm's auch nur zugelassen hab, und wenn ich keine Rute haben kann, so
+                  tut's auch die Hand.«</p>
+               <p>Er zog den Knaben zwischen die Knie und patschte ihn mit seiner kräftigen Hand so
+                  nachdrücklich, daß derselbe mit offenem Mund schnaubte und schnappte; doch gab er
+                  keinen Laut des Schmerzes von sich.</p>
+               <p>»Was heulst nicht, du Krott?« fragte der Vater, in seinem wenig überlegten
+                  Besserungsgeschäfte innehaltend.</p>
+               <p>»Ich hab immer gehört, mein Vater hab nie geheult, wenn man ihn auch noch so arg
+                  geschlagen hab«, antwortete der Knabe, nicht trotzig, aber mit entschiedenem Tone
+                  und seinem Vater ruhig ins Auge sehend.</p>
+               <p>Dieser ließ die Hand sinken und zog den Knaben in seine Arme. »Ach, Friederle,
+                  mein Kind, mein lieb's Kind«, rief er, »ich hätt dich ja gewiß nicht geschlagen,
+                  wenn ich allezeit bei dir wär und dich im Guten unterweisen könnt. Aber ein Dieb
+                  sollst und darfst du mir nicht werden, das verbiet ich dir hoch und teuer. Glaubst
+                  du, daß ich's gut mit dir mein?«</p>
+               <p>»Ja«, sagte der Knabe, indem er ihn mit seinen blauen Augen aufrichtig ansah.</p>
+               <p>»Willst mir's nachtragen, daß ich dich geschlagen hab?«</p>
+               <p>»Nein.«</p>
+               <p>»Willst mir versprechen« – er drückte ihn immer heftiger an sich und schrie ihm
+                  die Worte ins Ohr: »Werd brav! werd rechtschaffen! Du mußt nicht <pb/> meinen, es
+                  müsse dir auch gehen wie deinem Vater! Es geht nicht jedem so, es darf dir nicht
+                  auch so gehen! Wenn du älter bist und mehr weißt als jetzt, dann wirst du
+                  einsehen, daß du kein Dieb zu werden brauchst, wenn du deinem Vater anhänglich
+                  sein willst. Dann wirst du aber auch verstehen, daß dein Vater nicht so schlecht
+                  gewesen ist, wie die Leut von ihm gesagt haben. Und deine Mutter, die du so wenig
+                  gesehen hast, ist eine gute Mutter, Kind, und kann nichts dafür, daß sie nicht
+                  öfter nach dir sieht, und wenn sie wieder bei dir sein kann – –«</p>
+               <p>Die Stimme brach ihm, er schlug die Hände vor die Augen und legte den Kopf auf den
+                  Tisch. Es wurde ganz still, nur daß man tief aus seiner Brust herauf ein
+                  unterdrücktes Schluchzen hörte. Die Alte sah sich einen Augenblick um, setzte sich
+                  dann so, daß sie dem Tische und der Türe den Rücken zukehrte, und begann hierauf
+                  mit einer Stimme, die abscheulich lautete, das geistliche Lied zu singen: »Valet
+                  will ich dir geben, du arge falsche Welt.«</p>
+               <p>Der Geächtete hatte seinen Empfindungen eine kurze Zeit freien Lauf gelassen, da
+                  weckte ihn ein durchdringendes Geschrei seines kleinen Sohnes: »Vater! Vater!
+                  Philister über dir, Simson.«</p>
+               <p>Er fuhr auf und starrte, die Augen voll Tränen, in die Stube, aber die Bewegung
+                  hatte nur dazu gedient, seinen Kopf einer Schlinge preiszugeben, die im gleichen
+                  Augenblicke fest um seinen Hals zugezogen wurde. Die Stube war voll bewaffneter
+                  <pb/> Männer. Er fuhr mit der Hand nach dem Halse, um sich von der Schlinge
+                  freizumachen. Da schrie der Fischer, der unter den vordersten war: »Hand weg, oder
+                  du mußt verworgen!« Zugleich wurde die Schlinge noch fester angezogen, so daß er
+                  taumelte. Er ließ ab vom Widerstande und war nach kurzer Zeit an Armen und Beinen
+                  so fest geschnürt, daß man ihn ohne Gefahr fortschaffen konnte. Die Alte schickte
+                  sich heulend und schreiend an, mit ihrer trüben Ampel zum Haus hinauszuleuchten,
+                  und beteuerte ihm fortwährend, daß sie an dem Unglück unschuldig sei. »Mag sein«,
+                  erwiderte er, sie mit ungewissen Blicken messend, »aber dir, Fischerhanne, ist's
+                  geschworen – und wenn ihr mir auch die Arm fesselt, die Schwurfinger kann ich doch
+                  noch bewegen – der nächste Streich, den du mir spielst, ist dein Tod.« –
+                  »Verhoffentlich wird kein weiterer nötig sein«, sagte der Fischer, und alle
+                  lachten zusammen. Während ein Teil der Wachmannschaft den Gefangenen so eilig
+                  fortschleppte, daß er nur noch mit den Augen seinem Knaben ein Lebewohl zuwinken
+                  konnte, stöberte ein anderer, den Fischer an der Spitze, in der Stube herum. Die
+                  Alte, als sie dies bemerkte, überließ den Fortgehenden die Sorge, wie sie sich
+                  ohne Licht zurechtfinden wollten, und eilte in die Stube zurück, konnte es aber
+                  nicht verhindern, daß die Hasen, als offenbares Herrschaftseigentum, in Beschlag
+                  genommen wurden.</p>
+               <p>Der Knabe war außer sich, und die Nachbarn, welche halb teilnehmend, halb
+                  neugierig hinter den Häschern in die Stube gedrungen waren, versuchten <pb/> ihn
+                  umsonst zu trösten. Nachdem die Alte sich über den Verlust ihres soeben zum
+                  Geschenk erhaltenen Wildbrets einigermaßen beruhigt hatte, schwatzte sie ihm vor,
+                  sein Vater werde nur ein wenig zur Mutter nach Göppingen gebracht und werde bald
+                  wiederkommen. Er ließ sich nach und nach beschwichtigen; über eines aber konnte er
+                  sich nicht zufrieden geben: »Mein Vater«, sagte er, »hat sonst nie geheult, und
+                  jetzt haben sie ihn grad geholt, wo er geheult hat.«</p>
+               <p>In diesem Augenblicke kam der Schütz, zu spät, um an der Gefangennehmung, zu
+                  welcher er beordert war, teilzunehmen, aber früh genug, um der Alten eine
+                  Nachricht zu bringen, die sie ganz darniederschmetterte. »Wisset Ihr auch,
+                  Hirschbäurin«, sagte er, »daß Euer zweiter Sohn in Stuttgart hat Soldat werden
+                  müssen? Er hat einem Soldaten zur Desertion geholfen, und der Oberst Rieger, der
+                  dem Herzog sein Kriegsvolk zusammenwirbt, hat darauf gemeint, er sei ihm als
+                  Stellvertreter ebensogut oder noch lieber.«</p>
+               <p>Sie warf sich zu Boden und raufte ihre Haare. Diesmal war ihr Schreien und Heulen
+                  ernstlich gemeint. »Jetzt hab ich mein Stecken und Stab verloren!« jammerte
+                  sie.</p>
             </div>
             <div type="chapter">
                <head>31</head>

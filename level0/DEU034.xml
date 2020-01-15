@@ -19,12 +19,29 @@
             <measure unit="words">98067</measure>
             <measure unit="pages">397</measure>
          </extent>
-         <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-14"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!----></publicationStmt>
-         <sourceDesc><bibl type="digitalSource">
+         <publicationStmt>
+            <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European
+               Literary History" (CA16204)</publisher>
+            <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+            <date when="2019-11-14"/>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+            <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/>
+            <!---->
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="digitalSource">
                <title>Auch Einer 1</title>
                <author>Vischer, Friedrich Theodor</author>
                <date>1879</date>
-            </bibl></sourceDesc>
+            </bibl>
+            <bibl type="print_source"><author>Vischer, Friedrich Theodor von</author>: <title>Auch
+                  Einer</title>, Eine Reisebekanntschaft, Erster Band.
+                  <pubPlace>Stuttgart</pubPlace>
+               <pubPlace>Leipzig</pubPlace>: <publisher>Hallberger</publisher>,
+               <date>1879</date></bibl>
+         </sourceDesc>
       </fileDesc>
       <encodingDesc n="eltec-0">
          <p/>
@@ -40,7 +57,8 @@
             <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
          </textDesc>
       </profileDesc>
-      <revisionDesc><change when="2019-11-14">Checked by releaseChecker script</change>
+      <revisionDesc>
+         <change when="2019-11-14">Checked by releaseChecker script</change>
          <change when="2019-01-28">Conversion from Kallimachos Kernkorpus</change>
       </revisionDesc>
    </teiHeader>
@@ -6186,264 +6204,276 @@
          </div>
          <div type="group">
             <div type="chapter">
-            <head> Hu — hu — brum — brum — hu — hu! oder Entbehrung ist Entbärung, </head>
-            <p>erfunden und in Szene gesetzt</p>
-            <p>von</p>
-            <p>Hopp-Hoppodur.</p>
-            <p>Das Spiel begann. Ein mächtig großer Bär trat auf, in jeder Bewegung noch plumper,
-               als Bären sonst sind. Er setzt sich auf einen Felsblock, streckt die Vorderfüße
-               sehnsuchtsvoll in die Luft, drückt auf jede Weise das schmerzliche Gefühl des
-               Alleinseins aus und ergießt sich in Thränen. In Ermanglung eines Sacktuchs wischt er
-               sich die Augen und sofort auch die vom Weinen hörbar affizirte Nase mit den Tatzen,
-               welche er hierauf an seinem Pelz abreibt. Heftiger wird das Weinen, es geht in
-               Gebrüll über, heftiger werden die genannten Wischbewegungen. Plötzlich hält er inne,
-               starrt in's Weite und verschwindet mit schwerfälligen Sprüngen von der Bühne.</p>
-            <p>Nach kurzer Zeit erscheint eine Bärin, ungewöhnlich glatt von Pelz, von rundlicher
-               Hüftbildung und weich von Bewegungen. Hinter ihr Petz. Sie setzt sich mit vornehmem
-               Anstand auf den Felsblock. Petz wartet vor ihr auf, ringt die Vorderfüße, fällt dabei
-               ungeschickt um und wälzt sich wild brummend am Boden, die Bärin lacht. — Es war wie
-               im italie<pb/>nischen Maskenspiel erlaubt, mit einzelnen Lauten die Stummheit der
-               Pantomimen zu unterbrechen. — Petz richtet sich auf, bricht in Thränen aus,
-               wiederholt die unanständige Art des Abwischens und will die so gebrauchte 'Pfote der
-               Bärin reichen. Er erhält eine große Ohrfeige. Geht ab mit traurigem Grunzen.</p>
-            <p>Die Bärin drückt durch Gebärden aus, daß dieser Verehrer denn doch an sich eine
-               brave, künftiger Tröstung nicht unwerthe Natur, vielleicht ein nur noch
-               ungeschliffener Edelstein sein dürfte. Langsam, schüchtern, ganz niedergedrückt
-               erscheint Petz wieder vor dem süßen Bilde. Sie fordert ihn auf, zu tanzen. Er
-               versucht ein Solo auf den Hinterbeinen. Fällt wieder öfters und überkugelt sich
-               mehrmals, läßt sich durch das Lachen der Dulcinea nicht verstimmen und versucht eine
-               neue Methode. Er fängt an, sich wie in einem Menuet einfach, aber in durchaus
-               reizender Weise nach der Angebeteten vorwärts und zurückzubewegen und bei jeder
-               Annäherung, aufgerichtet, eine zierliche Verbeugung zu machen. Wir müssen hier
-               einschalten, daß der darstellende Künstler diese Weise, den Hof zu machen, gründlich
-               der Bärennatur abgesehen hatte und mit vollendeter Virtuosität wiedergab. Petz war
-               unermüdlich in diesen Pas, wohl fünfzigmal bewegte er sich auf seinen rutschenden
-               Sohlen hin und wieder. Endlich spiegelt sich Erweichung in den Zügen des so
-               schmelzend angeschmachteten Weibs. Aber jetzt ereignet<pb/>sich leider eine
-               Ungebührlichkeit. Der Bär muß vor Rührung niesen. Er fällt in seine Unbildung zurück
-               und gebraucht wie vorhin die Pfoten. Petzin will zu einer zweiten unsanften
-               Behandlung ausholen, besinnt sich aber, trabt plötzlich hinweg und erscheint nach
-               einer Pause, in welcher sich der Verlassene trostloser Verzweiflung hingegeben, unter
-               dem Jubel der Zuschauer mit einem schneeweißen, roth gesäumten Tüchlein. Mit Grazie
-               zeigt sie ihm den Gebrauch, mit Grazie reicht sie es hin, sinnend betrachtet es Petz,
-               man sieht, daß ein radikaler Prozeß in seinem Geist und Gemüth vor sich geht und —
-               zum ersten Mal im Leben — schnäuzt er sich — kräftig, vernehmlich, laut!</p>
-            <p>Lebhafter Beifall. Der erste Akt ist vorüber. Mit kühnem Geistesfluge nimmt der
-               Tanzdichter an, eine geraume Zeit, Monate, Jahre seien in der kaum viertelstündigen
-               Pause verstrichen. Hornstöße verkünden den Anfang des zweiten Aktes; ihnen folgt eine
-               lustige Melodie von Pfeifen und Blättlein, unter deren Klängen eine glückliche
-               Bärenfamilie auf die Bühne tritt. Vier muntere Kinder folgen dem zärtlichen
-               Elternpaar. Der kleine Bruder und das Schwesterchen Sigunens mit zwei Nachbarkindern
-               stacken in den Pelzen. Wer je den Galopp von Bärenjungen gesehen und bemerkt hat, wie
-               drollig sie dabei mit dem rechten Hinterbein nachschieben, der mußte staunen, mit
-               welcher Meisterschaft die klugen Kinder das vorstellten; schon in ihrem<pb/>Alter
-               zeigte sich die Schärfe der Beobachtung, die Geschicklichkeit der Nachahmung
-               charakteristischer Thiertypen, wie sie Naturvölkern eigen ist; man weiß, mit welch'
-               treffender Wahrheit die Indianer in ihren Tänzen diese naive Kunst üben; kein
-               moderner Pantomime, der den Joko spielt, wird diese Kinder erreichen. Nun entwickelte
-               sich in diesem Familienkreise ein herzgewinnendes Bild von sorgsamer Erziehung. Die
-               Jungen wurden von Vater und Mutter gelehrt, das Tüchlein richtig zu brauchen, einer
-               der Söhne, als er ein Schwesterchen zauste, vom Papa mit einer Ruthe gestrichen,
-               wobei er ihn elegant zwischen die Beine nahm und ihm hinten aufmaß; ein Sturm von
-               Gelächter brach im Publikum, namentlich unter den Frauen und Mädchen los, als in
-               einem kritischen Moment die Mama hinaustrabte, mit einem Topfe wiederkam und die
-               kleinere Tochter zierlich darauf setzte. Nach solchen Handlungen erziehender
-               Thätigkeit erfolgte orchestischer Unterricht, der nach einigen drolligen Vorübungen
-               so beschleunigte Früchte trug, daß die Familie zu einem ordentlichen Tanze schreiten
-               konnte. Es war ein Landler, was sie aufführten, das heißt jener Tanz, wovon unser
-               Walzer nur ein geistlos weggebrochenes Stück ist: zuerst walzte Papa mit Mama, dann
-               je ein Brüderchen mit einem Schwesterchen, hierauf lösten sich die Paare, jeder
-               Tänzer schien sich mit der Tänzerin zu entzweien, eilte ihr nach, fieng sie, faßte
-               sie an beiden Händen, hielt ihr die<pb/>eine hoch und sie schlüpfte, während Beide
-               sich zugleich drehten, unter den gehobenen Armen durch, dann ließ er sie wieder los,
-               Tänzer und Tänzerin kreisten jetzt jedes selbst wieder wirbelnd, umeinander,
-               dazwischen machten die Tänzer allerhand Kunststücke, sprangen hoch, patschten sich in
-               der Luft mit den Händen auf die Fußsohlen, juchzten dazu, ergriffen ihr Diendl wieder
-               und endlich wurde die allgemeine Wiederfindung und Beglückung mit einem rasenden
-               Schlußwalzer besiegelt. Inzwischen hatten sich aber nach und nach auf der Bühne
-               selbst Zuschauer eingefunden: ein Wolf, ein Fuchs, ein Dachs, ein Füllen, ein
-               Wildschwein, eine Gemse, ein Steinbock, ein wilder Kater, ein Murmelthier, ein
-               Auerhahn und noch mehreres Waldvolk; sie schienen die Feindschaft unter sich zu
-               vergessen, fiengen an, das Tanzen nachzuahmen, anfangs täppisch, unglücklich, dann
-               geschickter, behender, die Musiker waren längst wieder erwarmt, bliesen und schlugen,
-               was das Zeug hielt, die Thiere wurden sämmtlich so charaktertreu gespielt wie die
-               Bären und fügten sich unbeschadet dieser Besonderheit immer glatter in das Gesetz,
-               das die Tanzverschlingungen beherrschte. Endlich vereinigte sich Alles zu einem
-               großen — Cotillon würden wir sagen, Volltanz sagten die Pfahlleute, und dieser
-               Volltanz schloß mit einer höchst korrekt und zierlich durchgeführten
-               Schnupftuchtour.</p>
-            <p>Der dritte Akt trat ein ohne eigentliche Pause, doch<pb/>nicht ohne nachdrücklichen
-               Einschnitt. Man vernahm plötzlich ein furchtbares Grunzen, ein eigenthümliches
-               Schnarchen, Speien, Prusten. Der Tanz stand augenblicklich still. Aufgerichtet
-               horchten die sämmtlichen Thiere. Ein Drachenungethüm wackelte auf die Bühne, es spie
-               Feuer, glutroth funkelten seine Augen, ein rother Kamm bekrönte schrecklich seinen
-               krokodilähnlichen Kopf, kurze Flügel schwankten auf seinem Rücken, lang hin starrte
-               sein schuppiger Schwanz. Die Thiere stieben auseinander, der Drache wirbelt auf der
-               leeren Bühne um seine Axe, zuerst die Bären sind es, die vorsichtig wieder den Kopf
-               hereinstrecken, sie wagen sich herbei, der Petz wirft sich dem Ungethüm rittlings auf
-               den Hals und bearbeitet seinen Kopf mit den Tatzen, die Bärin, ermuthigt, steigt auf
-               seinen stachligen Rücken, die Jungen setzen sich auf seinen Schwanz, in wilderen und
-               wilderen Kreisen wirbelt das Scheusal. Jetzt geschieht ein kleiner Unschick. Die
-               Drachenmaske war mühsam und sinnreich genug, doch eben nicht allzu haltbar aus
-               Leinwand und Bast zusammengestoppelt und mit dem Nöthigen ausgestattet, um Feuer zu
-               speien, — der Künstler war derselbe Bappabuk, der die Festscheibe erbildet hatte. Bis
-               dahin war es nun ganz ordentlich gegangen, jetzt aber fieng der Drache auf einmal an,
-               ganz menschlich zu husten, gleichzeitig fiel ein Kohlenbecken aus seinem Rachen, und
-               eine Hand fuhr heraus und griff darnach. Dank der Höhe,<pb/>auf welcher die Bildung
-               der Pfahlbewohner angekommen war, hatten sie bereits das Bärlappenmehl erfunden; der
-               eine der zwei in dem Balg verborgenen Bursche, der vordere, dessen Beine in den
-               Vorderfüßen stacken, hatte neben dem Prusten, Brüllen, Grunzen, das er im Verein mit
-               seinem Hintermann besorgte, das Feuerspeien in's Werk zu setzen; er blies den
-               genannten Staub aus einem Federkiel über die Kohlen; jetzt verschluckte er sich im
-               Einathmen des Rauchs und stieß den schwachbefestigten Kohlentopf hinaus. Der hintere
-               Bursche, unbequem auf dem Bauch liegend, um dem Rumpfe des Unthiers mit seinem Leib
-               eine Füllung zu geben, hatte überdieß zwischen seinen Füßen hindurch, welche die
-               Hinterbeine vorstellten, nach rückwärts ein schwankes, schlankes Weidenstämmchen zu
-               regieren, das den Grat des Schwanzes bildete; es war keine Kleinigkeit, diese Stange
-               festzuhalten, als die Bärchen sich darauf setzten, sie entfiel ihm, zerrieß die
-               Wandung der künstlichen Form, der Schwanz brach ab, die kleinen Petze kugelten um.
-               „Thut nichts, thut nichts!“ schrieen ein paar muntere Bursche aus der Mitte der
-               Zuschauer, hemdärmelig, die Wämser resolut über die linke Schulter geworfen; „nur
-               lustig weiter, kleiner Meilyr, kleiner Cynddelw!“ Man ordnete den Schaden mit
-               Schnüren so gut es gieng, die zwei munteren Grippospieler halfen sich weiter so gut
-               sie konnten, die übrigen Thiere erschienen, nun ebenfalls<pb/>ermuthigt, wieder auf
-               der Bühne und es erfolgte ein rasendes Zausen zwischen dem Drachen und der ganzen
-               Gesellschaft, dem jedoch gewisse Töne ein so plötzliches Ende setzten, wie vorhin die
-               Erscheinung des Drachen dem Rundtanz. Die Töne waren nicht stark, es war ein feines,
-               hochstimmiges Wimmern; man erkannte den klagenden, weichen Laut des Kibitzes. Ein
-               paar erlegte Exemplare der Gattung wurden über die Bühne so geworfen, daß sie
-               fliegend scheinen konnten; das Wimmern wußte ein Meister im Nachahmen aller
-               Vogelstimmen, wie Hopp-Hoppodur, hinter der Szene täuschend genug hervorzubringen.
-               Jetzt aber läßt sich ein Ton ganz anderer Art vernehmen, ein Ton, der schwer zu
-               beschreiben ist. War es ein Heulen, ein Schnarren, Bellen, ein Brüllen? Gewiß war
-               nur, daß der Ton eine Stärke hatte, als käme er aus dem Hals eines großen
-               Vierfüßlers. Die Laute waren, in Sylben dargestellt: „Hu! Hu! Brum!“ Dann folgte
-               zuerst „Brum“ und die „Hu, hu“ wurden jetzt zum ausund nachtönenden Schlußklang. Das
-               waren denn die Töne, welche den Titel des Tanzspiels bildeten, wo sie nur zugleich
-               nebenher dem Brummen des Bären galten. Die Thiere standen wie versteinert, der Drache
-               saß aufrecht auf der Wurzel seines nothdürftig wieder befestigten Schwanzes, der
-               vordere Insaße hatte sich auf die Schultern des hinteren gesetzt, des letzteren Beine
-               trugen und hielten mühsam das Ganze und der Schwanz<pb/>legte sich zwischen ihnen
-               hervor wie ein langer Frack über die Bühne. Im damaligen Publikum gab es keinen
-               Zuschauer, der den Ton nicht ganz gut kannte; von unsern heutigen Lesern kennen wohl
-               nur wenige den Ruf der Rohrdommel so gut, sie hätten erst warten müssen, bis dieser
-               Wasservogel, der Selinur heilig, nun in Person auf der Bühne erschien und seinen
-               unheimlichen Geisterruf wiederholte, nicht in Einem nur, sondern in sechs Exemplaren,
-               die gravitätisch wie Soldaten eintraten, sich in drei und drei theilten und nun wie
-               beorderte Leibwachen freien Raum für eine noch unsichtbare, ehrfurchtsvoll erwartete
-               Persönlichkeit herstellten. Die übrigen Thiere drängten sich willig hinter diesen
-               lebendigen Spalieren zusammen. Die gelben, schwarzgefleckten Bewohner des Röhrichts
-               ließen hierauf wieder ihren seltsamen Brüll- und Klageruf vernehmen, reckten dabei
-               die dicken Hälse lang vorwärts, zogen sie dann ein und stellten die Köpfe, die jetzt
-               halslos auf dem Rumpfe zu ruhen schienen, steil aufwärts, daß der Schnabel zum Himmel
-               sah, und so standen sie nun als unbewegte Schildwachen, allerdings nur auf Einem Bein
-               oder vielmehr „Ständer“, wie der schulgerechte Jäger sagt. — Stumme, erwartungsvolle
-               Pause. Da wandelt aus dem Wald eine schneeweiße Kuh hervor und stellt sich mitten in
-               die Oeffnung der zwei von hier in die Breite der Bühne auslaufenden Spalierradien.
-               Sie blickt sanft und groß.<pb/>Alle Thiere stehen jetzt tief gebückt, der Drache
-               kriecht vor sie hin und winselt. Sie brüllt weich, lieblich, mit mütterlichem Tone.
-               Auf einmal erscheint ein munteres Kalb, ein Scheck; es vergnügt sich in
-               schwerfälligen, ungeregelten Sprüngen. Das wurde wiederum ganz meisterlich agirt; der
-               Künstler wußte sich mit ganzer Seele in das gründlich Unvermittelte, jedes runden
-               Uebergangs Entbehrende der Scherzbewegungen des Kuhsöhnchens zu versetzen; bei der
-               Herstellung der Maske hatte Bappabuk sogar nicht vergessen, in der Mitte des
-               Schwanzes jenen knopfigen Bug anzubringen, vermöge dessen dieß Organ des jungen Rinds
-               wie halbgebrochen aussieht. Wie ward der Sinn dieser Erscheinung von den Zuschauern
-               verstanden! Da war keiner so gedankenlos, daß er nicht begriffen hätte, der Scheck
-               sei die Welt und die plumpen Sprünge seien die noch bildungslosen Urzustände der
-               Menschheit. Nun aber richtete sich die Kuh auf, trat auf den Hinterfüßen hervor,
-               faßte mit dem einen Vorderhuf ihr Kind am Ohr, mit dem andern den Drachen am Kamm,
-               stellte sie in die Mitte, bedeutete ihnen, wohl aufzumerken, holte dann zwei der
-               jungen Bären hervor und forderte sie auf, eine Galoppade zu beginnen, indem sie ihnen
-               die Tanzschritte vormachte. Die Bärchen machten ihre Sache so hübsch ordentlich, daß
-               nun die Kuh sie dem Drachen und Kalb als Muster empfehlen durfte. Das neue Paar
-               umfieng sich mit den<pb/>Vorderfüßen, trat an und versuchte seine Kunst. Es gieng
-               zuerst holperig, das Paar fiel sogar zu Boden, aber es raffte sich auf, schliff
-               glatter und glatter, gieng in einen Hopswalzer über, jetzt begannen die übrigen
-               Thiere mit den Beinen zu zappeln, konnten sich nicht länger halten, faßten sich zum
-               Tanz an und die ganze Gesellschaft umkreiste nun die aufrecht thronende Kuh; rascher
-               und feuriger erscholl die Musik, die Thiere fiengen an, den Tanz mit den
-               verschiedenen Rufen ihrer Gattung zu begleiten: der Wolf heulte, der Fuchs ließ sein
-               heiseres Bellen hören, der Dachs knurrte, das Füllen wieherte, das Wildschwein
-               grunzte, Gemse und Steinbock mischten zwischen Mäckern ihren pfeifenden Warnlaut, der
-               Kater rallte, das Murmelthier pfiff ganz fein, der Auerhahn gab gestoßene, tiefe
-               Krächztöne von sich wie beim Balzen, die Rohrdommeln blieben nicht zurück, tanzten
-               mit und ließen ihre durchdringenden U-Laute wieder vernehmen, die Bären brummten, der
-               Drache fauchte, das Kalb muhte und selbst die ehrwürdige Mutter stimmte anmuthvoll in
-               das allgemeine Konzert mit ein; die Jugend unter den Zuhörern sang Schnaderhüpfel
-               dazu, es war lustig. Es war nun aber auch genug. Bis zur Sättigung der Geister war es
-               begriffen, daß hier die Unbildung, ja das Böse dargestellt war, zuerst als
-               Störenfried der in schöner Entwicklung begriffenen Humanität, dann überwunden, ja zum
-               dienenden Moment herabgesetzt<pb/>von der Weltordnung selbst, die schon durch ihre
-               Inkarnation als Kuh es erklärt hat, daß sie mit der Grundlage aller Gesittung, dem
-               Ackerbau, auch die Bildung, die sanfte, schöne Menschlichkeit gewollt hat. Ein
-               Paukenschlag bezeichnete wiederum das Finale, alle Thiere standen plötzlich still,
-               jedes, die heilige Kuh voran, schlug zuerst eine Pirouette und ließ dieser
-               Kreiselbewegung eine rein wagrechte Ausstreckung des einen Beines folgen. Ungeheurer
-               Jubel, als das eigentliche Punktum der Handlung, erlöste nun die Müden aus dieser
-               Stellung. Stürmisch wurde der sinnreiche, liebenswürdige Urheber der Schöpfung, der
-               Tanzdichter Hopp-Hoppodur gerufen. Mit ein paar lustigen Tanzsprüngen hüpfte der
-               philosophische und doch so heitere Künstler aus den Büschen des Hintergrundes auf die
-               Bühne, ließ sich hochpreisen, war mit einem Satz unter den Zuschauern, ergriff die
-               hübsche Gwennywar, die wir schon kennen als die Schelmin, welche Alpin das
-               schweißaustreibende Wort Sigunens von Arthur's schönem Nacken hinterbracht hatte; er
-               zog die gern Folgende auf die Bühne, führte sie zu einem Landler auf, das schlanke
-               Fratzenmädel war die erste Tänzerin des Dorfes und entsprach den Künsten des Meisters
-               mit reizenden Wendungen, Schritten und Beugungen, Alles folgte, was junge Beine
-               hatte, ja selbst ein paar Graubärte konnten nicht widerstehen, ein Tanzlebtag gieng
-               los, wie ihn Dorf Robanus noch selten<pb/>gesehen, die müden Thiere wurden jetzt aus
-               Spielern Zuschauer und unter behaglichem Gucken erlabten sie mit kräftigen Methzügen
-               die durstige Kehle und die vielgebrauchten Glieder; der Drache soff beträchtlich.</p>
-            <p>„Wo steckt denn Alpin?“ fragte ein Bursche Sigunen, die theilnahmlos, gedankenvoll
-               unter den Mädchen stand. „Weiß nicht,“ versetzte sie, „er wird beim Tischzurichten
-               helfen.“ — „Nun, komm' her, so tanz' mit mir,“ sagte der Frager und bot ihr den Arm,
-               bekam aber einen Korb und unter dem Vorwand, nach dem kleinen Schwesterchen sehen zu
-               müssen, gieng sie nach Hause. Auch Gwennywar hatte lang nach dem Vermißten
-               umgeschaut, jetzt aber vergaß das junge Quecksilber Alles im Arm ihres bewunderten
-               Tänzers.</p>
-            <p>Die Greise, mit Ausnahme der erwähnten paar lustigen alten Knaben, auch die Mehrzahl
-               der Männer hatte sich nach dem Ende der Aufführung verlaufen, und diese Müßigen
-               hatten zuerst wieder Zeit, des Gefangenen zu gedenken, den man unter Schützenfest,
-               Morgenimbiß und Tanzspiel fast vergessen hatte. Der Druide, der sonst an Festen beim
-               Schaustück auf seinem Ehrensitze so behaglich lachend bis zum Schluß verweilte, wie
-               wohl einst der hohe Priester des Dionysos auf seiner Marmorbank im Theater zu Athen,
-               er war dießmal bald nach Beginn verschwunden. Heimgekehrte fanden sein Haus
-               geschlossen. Es hieß, man habe die Gemeindeältesten hineingehen sehen. Man
-               munkelte<pb/>von einem unbekannten Etwas, das gegen den Erzketzer im Werk sein müsse.
-               Was sollte es mit ihm werden? Strafen bis zu einer gewissen Höhe zu verfügen, lag in
-               der Macht des Oberhirten. Sollte aber — weiter gegangen werden, so war, wenn es sich
-               nicht um Kriegsgefangene handelte, aus denen das Loos die Opfer für Grippo bestimmte,
-               die Gemeinde zu befragen. Nun — es war Festtag; man schlug sich's aus dem Kopfe; es
-               hatte ja weiter keine Eile, auf alle Fälle konnte es um den Sünder nicht viel Schade
-               sein, wenn er in seinem Käfig einige Tage oder Wochen tüchtig brummte.</p>
-            <p>Inzwischen waren vereinigte Kräfte längst beschäftigt, den Festschmaus vorzubereiten.
-               Tische und Bänke waren im nahen Haine schon aufgeschlagen, Köche und Köchinnen an
-               einer Reihe von Feuern in voller Thätigkeit. Wir glauben uns verpflichtet, den
-               Speiszettel zu geben; menu dürfen wir ja nicht sagen, die Pfahlmänner hätten sich
-               geschämt, das wälsche Wort zu gebrauchen, wenn sie es gekannt hätten, sie
-               verabscheuten alle unnöthige Entlehnung aus fremden Sprachen. „Speiszettel“ ist
-               natürlich auch nur poetische Licenz; das Kunstwerk der Komposition dieses Schmauses
-               stand klar entfaltet nur vor dem Geiste des Oberkochs Sidutop, minder klar, in
-               gewissem Helldunkel vor dem Innern seines Gefolges von Köchen und Köchinnen, und das
-               Publikum befand sich in blindem Autoritäts<pb/>glauben, man wartete, man vertraute
-               unbedingt und dachte, es werde schon recht werden; nur Angus, der Druide, hatte durch
-               Hülfe Urhixidur's einen hellen Einblick in das wohlgegliederte Ganze gewonnen. Dieses
-               Ganze überblicke man nun und man wird nicht mehr glauben, daß die Pfahlbewohner
-               schlecht gegessen haben! Diese irrige Vorstellung zu widerlegen, das ist es, was wir
-               für Pflicht halten, darum geben wir in formell präzisirter Ordnung hiemit die
-               Gedankenreihe Sidutop's, wie sich solche an jenem Abend in der Körperwelt
-               verwirklichte. Um diesen logischen Zusammenhang nicht zu unterbrechen, lassen wir die
-               Beleuchtung einzelner Punkte, die vielleicht dem Leser dunkel sein dürften, in
-               Anmerkungen folgen.</p>
-            <p>Zuvor ist nur noch von der Beleuchtung zu melden. In dieser Festnacht sollte es nicht
-               an den Pechfackeln genügen, die rings um die Tische, in hohe Pfähle eingelassen, ihr
-               röthliches Licht verbreiteten; zwischen je zweien derselben loderte in irdenem Becken
-               eine zartere Flamme von Kienholz und an den Stämmen der nächsten Eichen hiengen
-               Kränze von Schüsselchen, worin ölgetränkte Döchte brannten. Knaben waren aufgestellt,
-               sorgsam diese dreierlei Lichtquellen zu unterhalten, deren Harzgerüche sich angenehm
-               mit dem Dufte mischten, der aus den Kochkesseln emporstieg. — Und nun mag denn die
-               Beschreibung ihres reichen Inhalts folgen.</p>
-            <pb/>
+               <head> Hu — hu — brum — brum — hu — hu! oder Entbehrung ist Entbärung, </head>
+               <p>erfunden und in Szene gesetzt</p>
+               <p>von</p>
+               <p>Hopp-Hoppodur.</p>
+               <p>Das Spiel begann. Ein mächtig großer Bär trat auf, in jeder Bewegung noch plumper,
+                  als Bären sonst sind. Er setzt sich auf einen Felsblock, streckt die Vorderfüße
+                  sehnsuchtsvoll in die Luft, drückt auf jede Weise das schmerzliche Gefühl des
+                  Alleinseins aus und ergießt sich in Thränen. In Ermanglung eines Sacktuchs wischt
+                  er sich die Augen und sofort auch die vom Weinen hörbar affizirte Nase mit den
+                  Tatzen, welche er hierauf an seinem Pelz abreibt. Heftiger wird das Weinen, es
+                  geht in Gebrüll über, heftiger werden die genannten Wischbewegungen. Plötzlich
+                  hält er inne, starrt in's Weite und verschwindet mit schwerfälligen Sprüngen von
+                  der Bühne.</p>
+               <p>Nach kurzer Zeit erscheint eine Bärin, ungewöhnlich glatt von Pelz, von rundlicher
+                  Hüftbildung und weich von Bewegungen. Hinter ihr Petz. Sie setzt sich mit
+                  vornehmem Anstand auf den Felsblock. Petz wartet vor ihr auf, ringt die
+                  Vorderfüße, fällt dabei ungeschickt um und wälzt sich wild brummend am Boden, die
+                  Bärin lacht. — Es war wie im italie<pb/>nischen Maskenspiel erlaubt, mit einzelnen
+                  Lauten die Stummheit der Pantomimen zu unterbrechen. — Petz richtet sich auf,
+                  bricht in Thränen aus, wiederholt die unanständige Art des Abwischens und will die
+                  so gebrauchte 'Pfote der Bärin reichen. Er erhält eine große Ohrfeige. Geht ab mit
+                  traurigem Grunzen.</p>
+               <p>Die Bärin drückt durch Gebärden aus, daß dieser Verehrer denn doch an sich eine
+                  brave, künftiger Tröstung nicht unwerthe Natur, vielleicht ein nur noch
+                  ungeschliffener Edelstein sein dürfte. Langsam, schüchtern, ganz niedergedrückt
+                  erscheint Petz wieder vor dem süßen Bilde. Sie fordert ihn auf, zu tanzen. Er
+                  versucht ein Solo auf den Hinterbeinen. Fällt wieder öfters und überkugelt sich
+                  mehrmals, läßt sich durch das Lachen der Dulcinea nicht verstimmen und versucht
+                  eine neue Methode. Er fängt an, sich wie in einem Menuet einfach, aber in durchaus
+                  reizender Weise nach der Angebeteten vorwärts und zurückzubewegen und bei jeder
+                  Annäherung, aufgerichtet, eine zierliche Verbeugung zu machen. Wir müssen hier
+                  einschalten, daß der darstellende Künstler diese Weise, den Hof zu machen,
+                  gründlich der Bärennatur abgesehen hatte und mit vollendeter Virtuosität
+                  wiedergab. Petz war unermüdlich in diesen Pas, wohl fünfzigmal bewegte er sich auf
+                  seinen rutschenden Sohlen hin und wieder. Endlich spiegelt sich Erweichung in den
+                  Zügen des so schmelzend angeschmachteten Weibs. Aber jetzt ereignet<pb/>sich
+                  leider eine Ungebührlichkeit. Der Bär muß vor Rührung niesen. Er fällt in seine
+                  Unbildung zurück und gebraucht wie vorhin die Pfoten. Petzin will zu einer zweiten
+                  unsanften Behandlung ausholen, besinnt sich aber, trabt plötzlich hinweg und
+                  erscheint nach einer Pause, in welcher sich der Verlassene trostloser Verzweiflung
+                  hingegeben, unter dem Jubel der Zuschauer mit einem schneeweißen, roth gesäumten
+                  Tüchlein. Mit Grazie zeigt sie ihm den Gebrauch, mit Grazie reicht sie es hin,
+                  sinnend betrachtet es Petz, man sieht, daß ein radikaler Prozeß in seinem Geist
+                  und Gemüth vor sich geht und — zum ersten Mal im Leben — schnäuzt er sich —
+                  kräftig, vernehmlich, laut!</p>
+               <p>Lebhafter Beifall. Der erste Akt ist vorüber. Mit kühnem Geistesfluge nimmt der
+                  Tanzdichter an, eine geraume Zeit, Monate, Jahre seien in der kaum
+                  viertelstündigen Pause verstrichen. Hornstöße verkünden den Anfang des zweiten
+                  Aktes; ihnen folgt eine lustige Melodie von Pfeifen und Blättlein, unter deren
+                  Klängen eine glückliche Bärenfamilie auf die Bühne tritt. Vier muntere Kinder
+                  folgen dem zärtlichen Elternpaar. Der kleine Bruder und das Schwesterchen Sigunens
+                  mit zwei Nachbarkindern stacken in den Pelzen. Wer je den Galopp von Bärenjungen
+                  gesehen und bemerkt hat, wie drollig sie dabei mit dem rechten Hinterbein
+                  nachschieben, der mußte staunen, mit welcher Meisterschaft die klugen Kinder das
+                  vorstellten; schon in ihrem<pb/>Alter zeigte sich die Schärfe der Beobachtung, die
+                  Geschicklichkeit der Nachahmung charakteristischer Thiertypen, wie sie
+                  Naturvölkern eigen ist; man weiß, mit welch' treffender Wahrheit die Indianer in
+                  ihren Tänzen diese naive Kunst üben; kein moderner Pantomime, der den Joko spielt,
+                  wird diese Kinder erreichen. Nun entwickelte sich in diesem Familienkreise ein
+                  herzgewinnendes Bild von sorgsamer Erziehung. Die Jungen wurden von Vater und
+                  Mutter gelehrt, das Tüchlein richtig zu brauchen, einer der Söhne, als er ein
+                  Schwesterchen zauste, vom Papa mit einer Ruthe gestrichen, wobei er ihn elegant
+                  zwischen die Beine nahm und ihm hinten aufmaß; ein Sturm von Gelächter brach im
+                  Publikum, namentlich unter den Frauen und Mädchen los, als in einem kritischen
+                  Moment die Mama hinaustrabte, mit einem Topfe wiederkam und die kleinere Tochter
+                  zierlich darauf setzte. Nach solchen Handlungen erziehender Thätigkeit erfolgte
+                  orchestischer Unterricht, der nach einigen drolligen Vorübungen so beschleunigte
+                  Früchte trug, daß die Familie zu einem ordentlichen Tanze schreiten konnte. Es war
+                  ein Landler, was sie aufführten, das heißt jener Tanz, wovon unser Walzer nur ein
+                  geistlos weggebrochenes Stück ist: zuerst walzte Papa mit Mama, dann je ein
+                  Brüderchen mit einem Schwesterchen, hierauf lösten sich die Paare, jeder Tänzer
+                  schien sich mit der Tänzerin zu entzweien, eilte ihr nach, fieng sie, faßte sie an
+                  beiden Händen, hielt ihr die<pb/>eine hoch und sie schlüpfte, während Beide sich
+                  zugleich drehten, unter den gehobenen Armen durch, dann ließ er sie wieder los,
+                  Tänzer und Tänzerin kreisten jetzt jedes selbst wieder wirbelnd, umeinander,
+                  dazwischen machten die Tänzer allerhand Kunststücke, sprangen hoch, patschten sich
+                  in der Luft mit den Händen auf die Fußsohlen, juchzten dazu, ergriffen ihr Diendl
+                  wieder und endlich wurde die allgemeine Wiederfindung und Beglückung mit einem
+                  rasenden Schlußwalzer besiegelt. Inzwischen hatten sich aber nach und nach auf der
+                  Bühne selbst Zuschauer eingefunden: ein Wolf, ein Fuchs, ein Dachs, ein Füllen,
+                  ein Wildschwein, eine Gemse, ein Steinbock, ein wilder Kater, ein Murmelthier, ein
+                  Auerhahn und noch mehreres Waldvolk; sie schienen die Feindschaft unter sich zu
+                  vergessen, fiengen an, das Tanzen nachzuahmen, anfangs täppisch, unglücklich, dann
+                  geschickter, behender, die Musiker waren längst wieder erwarmt, bliesen und
+                  schlugen, was das Zeug hielt, die Thiere wurden sämmtlich so charaktertreu
+                  gespielt wie die Bären und fügten sich unbeschadet dieser Besonderheit immer
+                  glatter in das Gesetz, das die Tanzverschlingungen beherrschte. Endlich vereinigte
+                  sich Alles zu einem großen — Cotillon würden wir sagen, Volltanz sagten die
+                  Pfahlleute, und dieser Volltanz schloß mit einer höchst korrekt und zierlich
+                  durchgeführten Schnupftuchtour.</p>
+               <p>Der dritte Akt trat ein ohne eigentliche Pause, doch<pb/>nicht ohne
+                  nachdrücklichen Einschnitt. Man vernahm plötzlich ein furchtbares Grunzen, ein
+                  eigenthümliches Schnarchen, Speien, Prusten. Der Tanz stand augenblicklich still.
+                  Aufgerichtet horchten die sämmtlichen Thiere. Ein Drachenungethüm wackelte auf die
+                  Bühne, es spie Feuer, glutroth funkelten seine Augen, ein rother Kamm bekrönte
+                  schrecklich seinen krokodilähnlichen Kopf, kurze Flügel schwankten auf seinem
+                  Rücken, lang hin starrte sein schuppiger Schwanz. Die Thiere stieben auseinander,
+                  der Drache wirbelt auf der leeren Bühne um seine Axe, zuerst die Bären sind es,
+                  die vorsichtig wieder den Kopf hereinstrecken, sie wagen sich herbei, der Petz
+                  wirft sich dem Ungethüm rittlings auf den Hals und bearbeitet seinen Kopf mit den
+                  Tatzen, die Bärin, ermuthigt, steigt auf seinen stachligen Rücken, die Jungen
+                  setzen sich auf seinen Schwanz, in wilderen und wilderen Kreisen wirbelt das
+                  Scheusal. Jetzt geschieht ein kleiner Unschick. Die Drachenmaske war mühsam und
+                  sinnreich genug, doch eben nicht allzu haltbar aus Leinwand und Bast
+                  zusammengestoppelt und mit dem Nöthigen ausgestattet, um Feuer zu speien, — der
+                  Künstler war derselbe Bappabuk, der die Festscheibe erbildet hatte. Bis dahin war
+                  es nun ganz ordentlich gegangen, jetzt aber fieng der Drache auf einmal an, ganz
+                  menschlich zu husten, gleichzeitig fiel ein Kohlenbecken aus seinem Rachen, und
+                  eine Hand fuhr heraus und griff darnach. Dank der Höhe,<pb/>auf welcher die
+                  Bildung der Pfahlbewohner angekommen war, hatten sie bereits das Bärlappenmehl
+                  erfunden; der eine der zwei in dem Balg verborgenen Bursche, der vordere, dessen
+                  Beine in den Vorderfüßen stacken, hatte neben dem Prusten, Brüllen, Grunzen, das
+                  er im Verein mit seinem Hintermann besorgte, das Feuerspeien in's Werk zu setzen;
+                  er blies den genannten Staub aus einem Federkiel über die Kohlen; jetzt
+                  verschluckte er sich im Einathmen des Rauchs und stieß den schwachbefestigten
+                  Kohlentopf hinaus. Der hintere Bursche, unbequem auf dem Bauch liegend, um dem
+                  Rumpfe des Unthiers mit seinem Leib eine Füllung zu geben, hatte überdieß zwischen
+                  seinen Füßen hindurch, welche die Hinterbeine vorstellten, nach rückwärts ein
+                  schwankes, schlankes Weidenstämmchen zu regieren, das den Grat des Schwanzes
+                  bildete; es war keine Kleinigkeit, diese Stange festzuhalten, als die Bärchen sich
+                  darauf setzten, sie entfiel ihm, zerrieß die Wandung der künstlichen Form, der
+                  Schwanz brach ab, die kleinen Petze kugelten um. „Thut nichts, thut nichts!“
+                  schrieen ein paar muntere Bursche aus der Mitte der Zuschauer, hemdärmelig, die
+                  Wämser resolut über die linke Schulter geworfen; „nur lustig weiter, kleiner
+                  Meilyr, kleiner Cynddelw!“ Man ordnete den Schaden mit Schnüren so gut es gieng,
+                  die zwei munteren Grippospieler halfen sich weiter so gut sie konnten, die übrigen
+                  Thiere erschienen, nun ebenfalls<pb/>ermuthigt, wieder auf der Bühne und es
+                  erfolgte ein rasendes Zausen zwischen dem Drachen und der ganzen Gesellschaft, dem
+                  jedoch gewisse Töne ein so plötzliches Ende setzten, wie vorhin die Erscheinung
+                  des Drachen dem Rundtanz. Die Töne waren nicht stark, es war ein feines,
+                  hochstimmiges Wimmern; man erkannte den klagenden, weichen Laut des Kibitzes. Ein
+                  paar erlegte Exemplare der Gattung wurden über die Bühne so geworfen, daß sie
+                  fliegend scheinen konnten; das Wimmern wußte ein Meister im Nachahmen aller
+                  Vogelstimmen, wie Hopp-Hoppodur, hinter der Szene täuschend genug hervorzubringen.
+                  Jetzt aber läßt sich ein Ton ganz anderer Art vernehmen, ein Ton, der schwer zu
+                  beschreiben ist. War es ein Heulen, ein Schnarren, Bellen, ein Brüllen? Gewiß war
+                  nur, daß der Ton eine Stärke hatte, als käme er aus dem Hals eines großen
+                  Vierfüßlers. Die Laute waren, in Sylben dargestellt: „Hu! Hu! Brum!“ Dann folgte
+                  zuerst „Brum“ und die „Hu, hu“ wurden jetzt zum ausund nachtönenden Schlußklang.
+                  Das waren denn die Töne, welche den Titel des Tanzspiels bildeten, wo sie nur
+                  zugleich nebenher dem Brummen des Bären galten. Die Thiere standen wie
+                  versteinert, der Drache saß aufrecht auf der Wurzel seines nothdürftig wieder
+                  befestigten Schwanzes, der vordere Insaße hatte sich auf die Schultern des
+                  hinteren gesetzt, des letzteren Beine trugen und hielten mühsam das Ganze und der
+                  Schwanz<pb/>legte sich zwischen ihnen hervor wie ein langer Frack über die Bühne.
+                  Im damaligen Publikum gab es keinen Zuschauer, der den Ton nicht ganz gut kannte;
+                  von unsern heutigen Lesern kennen wohl nur wenige den Ruf der Rohrdommel so gut,
+                  sie hätten erst warten müssen, bis dieser Wasservogel, der Selinur heilig, nun in
+                  Person auf der Bühne erschien und seinen unheimlichen Geisterruf wiederholte,
+                  nicht in Einem nur, sondern in sechs Exemplaren, die gravitätisch wie Soldaten
+                  eintraten, sich in drei und drei theilten und nun wie beorderte Leibwachen freien
+                  Raum für eine noch unsichtbare, ehrfurchtsvoll erwartete Persönlichkeit
+                  herstellten. Die übrigen Thiere drängten sich willig hinter diesen lebendigen
+                  Spalieren zusammen. Die gelben, schwarzgefleckten Bewohner des Röhrichts ließen
+                  hierauf wieder ihren seltsamen Brüll- und Klageruf vernehmen, reckten dabei die
+                  dicken Hälse lang vorwärts, zogen sie dann ein und stellten die Köpfe, die jetzt
+                  halslos auf dem Rumpfe zu ruhen schienen, steil aufwärts, daß der Schnabel zum
+                  Himmel sah, und so standen sie nun als unbewegte Schildwachen, allerdings nur auf
+                  Einem Bein oder vielmehr „Ständer“, wie der schulgerechte Jäger sagt. — Stumme,
+                  erwartungsvolle Pause. Da wandelt aus dem Wald eine schneeweiße Kuh hervor und
+                  stellt sich mitten in die Oeffnung der zwei von hier in die Breite der Bühne
+                  auslaufenden Spalierradien. Sie blickt sanft und groß.<pb/>Alle Thiere stehen
+                  jetzt tief gebückt, der Drache kriecht vor sie hin und winselt. Sie brüllt weich,
+                  lieblich, mit mütterlichem Tone. Auf einmal erscheint ein munteres Kalb, ein
+                  Scheck; es vergnügt sich in schwerfälligen, ungeregelten Sprüngen. Das wurde
+                  wiederum ganz meisterlich agirt; der Künstler wußte sich mit ganzer Seele in das
+                  gründlich Unvermittelte, jedes runden Uebergangs Entbehrende der Scherzbewegungen
+                  des Kuhsöhnchens zu versetzen; bei der Herstellung der Maske hatte Bappabuk sogar
+                  nicht vergessen, in der Mitte des Schwanzes jenen knopfigen Bug anzubringen,
+                  vermöge dessen dieß Organ des jungen Rinds wie halbgebrochen aussieht. Wie ward
+                  der Sinn dieser Erscheinung von den Zuschauern verstanden! Da war keiner so
+                  gedankenlos, daß er nicht begriffen hätte, der Scheck sei die Welt und die plumpen
+                  Sprünge seien die noch bildungslosen Urzustände der Menschheit. Nun aber richtete
+                  sich die Kuh auf, trat auf den Hinterfüßen hervor, faßte mit dem einen Vorderhuf
+                  ihr Kind am Ohr, mit dem andern den Drachen am Kamm, stellte sie in die Mitte,
+                  bedeutete ihnen, wohl aufzumerken, holte dann zwei der jungen Bären hervor und
+                  forderte sie auf, eine Galoppade zu beginnen, indem sie ihnen die Tanzschritte
+                  vormachte. Die Bärchen machten ihre Sache so hübsch ordentlich, daß nun die Kuh
+                  sie dem Drachen und Kalb als Muster empfehlen durfte. Das neue Paar umfieng sich
+                  mit den<pb/>Vorderfüßen, trat an und versuchte seine Kunst. Es gieng zuerst
+                  holperig, das Paar fiel sogar zu Boden, aber es raffte sich auf, schliff glatter
+                  und glatter, gieng in einen Hopswalzer über, jetzt begannen die übrigen Thiere mit
+                  den Beinen zu zappeln, konnten sich nicht länger halten, faßten sich zum Tanz an
+                  und die ganze Gesellschaft umkreiste nun die aufrecht thronende Kuh; rascher und
+                  feuriger erscholl die Musik, die Thiere fiengen an, den Tanz mit den verschiedenen
+                  Rufen ihrer Gattung zu begleiten: der Wolf heulte, der Fuchs ließ sein heiseres
+                  Bellen hören, der Dachs knurrte, das Füllen wieherte, das Wildschwein grunzte,
+                  Gemse und Steinbock mischten zwischen Mäckern ihren pfeifenden Warnlaut, der Kater
+                  rallte, das Murmelthier pfiff ganz fein, der Auerhahn gab gestoßene, tiefe
+                  Krächztöne von sich wie beim Balzen, die Rohrdommeln blieben nicht zurück, tanzten
+                  mit und ließen ihre durchdringenden U-Laute wieder vernehmen, die Bären brummten,
+                  der Drache fauchte, das Kalb muhte und selbst die ehrwürdige Mutter stimmte
+                  anmuthvoll in das allgemeine Konzert mit ein; die Jugend unter den Zuhörern sang
+                  Schnaderhüpfel dazu, es war lustig. Es war nun aber auch genug. Bis zur Sättigung
+                  der Geister war es begriffen, daß hier die Unbildung, ja das Böse dargestellt war,
+                  zuerst als Störenfried der in schöner Entwicklung begriffenen Humanität, dann
+                  überwunden, ja zum dienenden Moment herabgesetzt<pb/>von der Weltordnung selbst,
+                  die schon durch ihre Inkarnation als Kuh es erklärt hat, daß sie mit der Grundlage
+                  aller Gesittung, dem Ackerbau, auch die Bildung, die sanfte, schöne Menschlichkeit
+                  gewollt hat. Ein Paukenschlag bezeichnete wiederum das Finale, alle Thiere standen
+                  plötzlich still, jedes, die heilige Kuh voran, schlug zuerst eine Pirouette und
+                  ließ dieser Kreiselbewegung eine rein wagrechte Ausstreckung des einen Beines
+                  folgen. Ungeheurer Jubel, als das eigentliche Punktum der Handlung, erlöste nun
+                  die Müden aus dieser Stellung. Stürmisch wurde der sinnreiche, liebenswürdige
+                  Urheber der Schöpfung, der Tanzdichter Hopp-Hoppodur gerufen. Mit ein paar
+                  lustigen Tanzsprüngen hüpfte der philosophische und doch so heitere Künstler aus
+                  den Büschen des Hintergrundes auf die Bühne, ließ sich hochpreisen, war mit einem
+                  Satz unter den Zuschauern, ergriff die hübsche Gwennywar, die wir schon kennen als
+                  die Schelmin, welche Alpin das schweißaustreibende Wort Sigunens von Arthur's
+                  schönem Nacken hinterbracht hatte; er zog die gern Folgende auf die Bühne, führte
+                  sie zu einem Landler auf, das schlanke Fratzenmädel war die erste Tänzerin des
+                  Dorfes und entsprach den Künsten des Meisters mit reizenden Wendungen, Schritten
+                  und Beugungen, Alles folgte, was junge Beine hatte, ja selbst ein paar Graubärte
+                  konnten nicht widerstehen, ein Tanzlebtag gieng los, wie ihn Dorf Robanus noch
+                  selten<pb/>gesehen, die müden Thiere wurden jetzt aus Spielern Zuschauer und unter
+                  behaglichem Gucken erlabten sie mit kräftigen Methzügen die durstige Kehle und die
+                  vielgebrauchten Glieder; der Drache soff beträchtlich.</p>
+               <p>„Wo steckt denn Alpin?“ fragte ein Bursche Sigunen, die theilnahmlos, gedankenvoll
+                  unter den Mädchen stand. „Weiß nicht,“ versetzte sie, „er wird beim Tischzurichten
+                  helfen.“ — „Nun, komm' her, so tanz' mit mir,“ sagte der Frager und bot ihr den
+                  Arm, bekam aber einen Korb und unter dem Vorwand, nach dem kleinen Schwesterchen
+                  sehen zu müssen, gieng sie nach Hause. Auch Gwennywar hatte lang nach dem
+                  Vermißten umgeschaut, jetzt aber vergaß das junge Quecksilber Alles im Arm ihres
+                  bewunderten Tänzers.</p>
+               <p>Die Greise, mit Ausnahme der erwähnten paar lustigen alten Knaben, auch die
+                  Mehrzahl der Männer hatte sich nach dem Ende der Aufführung verlaufen, und diese
+                  Müßigen hatten zuerst wieder Zeit, des Gefangenen zu gedenken, den man unter
+                  Schützenfest, Morgenimbiß und Tanzspiel fast vergessen hatte. Der Druide, der
+                  sonst an Festen beim Schaustück auf seinem Ehrensitze so behaglich lachend bis zum
+                  Schluß verweilte, wie wohl einst der hohe Priester des Dionysos auf seiner
+                  Marmorbank im Theater zu Athen, er war dießmal bald nach Beginn verschwunden.
+                  Heimgekehrte fanden sein Haus geschlossen. Es hieß, man habe die Gemeindeältesten
+                  hineingehen sehen. Man munkelte<pb/>von einem unbekannten Etwas, das gegen den
+                  Erzketzer im Werk sein müsse. Was sollte es mit ihm werden? Strafen bis zu einer
+                  gewissen Höhe zu verfügen, lag in der Macht des Oberhirten. Sollte aber — weiter
+                  gegangen werden, so war, wenn es sich nicht um Kriegsgefangene handelte, aus denen
+                  das Loos die Opfer für Grippo bestimmte, die Gemeinde zu befragen. Nun — es war
+                  Festtag; man schlug sich's aus dem Kopfe; es hatte ja weiter keine Eile, auf alle
+                  Fälle konnte es um den Sünder nicht viel Schade sein, wenn er in seinem Käfig
+                  einige Tage oder Wochen tüchtig brummte.</p>
+               <p>Inzwischen waren vereinigte Kräfte längst beschäftigt, den Festschmaus
+                  vorzubereiten. Tische und Bänke waren im nahen Haine schon aufgeschlagen, Köche
+                  und Köchinnen an einer Reihe von Feuern in voller Thätigkeit. Wir glauben uns
+                  verpflichtet, den Speiszettel zu geben; menu dürfen wir ja nicht sagen, die
+                  Pfahlmänner hätten sich geschämt, das wälsche Wort zu gebrauchen, wenn sie es
+                  gekannt hätten, sie verabscheuten alle unnöthige Entlehnung aus fremden Sprachen.
+                  „Speiszettel“ ist natürlich auch nur poetische Licenz; das Kunstwerk der
+                  Komposition dieses Schmauses stand klar entfaltet nur vor dem Geiste des Oberkochs
+                  Sidutop, minder klar, in gewissem Helldunkel vor dem Innern seines Gefolges von
+                  Köchen und Köchinnen, und das Publikum befand sich in blindem
+                  Autoritäts<pb/>glauben, man wartete, man vertraute unbedingt und dachte, es werde
+                  schon recht werden; nur Angus, der Druide, hatte durch Hülfe Urhixidur's einen
+                  hellen Einblick in das wohlgegliederte Ganze gewonnen. Dieses Ganze überblicke man
+                  nun und man wird nicht mehr glauben, daß die Pfahlbewohner schlecht gegessen
+                  haben! Diese irrige Vorstellung zu widerlegen, das ist es, was wir für Pflicht
+                  halten, darum geben wir in formell präzisirter Ordnung hiemit die Gedankenreihe
+                  Sidutop's, wie sich solche an jenem Abend in der Körperwelt verwirklichte. Um
+                  diesen logischen Zusammenhang nicht zu unterbrechen, lassen wir die Beleuchtung
+                  einzelner Punkte, die vielleicht dem Leser dunkel sein dürften, in Anmerkungen
+                  folgen.</p>
+               <p>Zuvor ist nur noch von der Beleuchtung zu melden. In dieser Festnacht sollte es
+                  nicht an den Pechfackeln genügen, die rings um die Tische, in hohe Pfähle
+                  eingelassen, ihr röthliches Licht verbreiteten; zwischen je zweien derselben
+                  loderte in irdenem Becken eine zartere Flamme von Kienholz und an den Stämmen der
+                  nächsten Eichen hiengen Kränze von Schüsselchen, worin ölgetränkte Döchte
+                  brannten. Knaben waren aufgestellt, sorgsam diese dreierlei Lichtquellen zu
+                  unterhalten, deren Harzgerüche sich angenehm mit dem Dufte mischten, der aus den
+                  Kochkesseln emporstieg. — Und nun mag denn die Beschreibung ihres reichen Inhalts
+                  folgen.</p>
+               <pb/>
             </div>
             <div type="chapter">
                <head> Anmerkungen. </head>

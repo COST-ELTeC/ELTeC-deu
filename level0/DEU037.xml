@@ -18,12 +18,32 @@
             <measure unit="words">148356</measure>
             <measure unit="pages">412</measure>
          </extent>
-         <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-14"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!----></publicationStmt>
-         <sourceDesc><bibl type="digitalSource">
+         <publicationStmt>
+            <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European
+               Literary History" (CA16204)</publisher>
+            <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+            <date when="2019-11-14"/>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+            <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/>
+            <!---->
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="digitalSource">
                <title>Das Heideprinzeßchen</title>
                <author>Marlitt, Eugenie</author>
                <date>1871</date>
-            </bibl></sourceDesc>
+            </bibl>
+            <bibl type="print_source"><author>Eugenie Marlitt</author>: <title>Gesammelte Romane und
+                  Novellen</title>. 2. Auflage, Band 1–10, <pubPlace>Leipzig</pubPlace>:
+                  <publisher>Verlag von Ernst Keil’s Nachfolger G.m.b.H.</publisher>,
+                  <date>1900</date>. </bibl>
+            <bibl type="firstEdition">Erstdruck in: Gartenlaube, <pubPlace>Leipzig</pubPlace>
+                  (<publisher>Ernst Keil</publisher>) <date>1871</date>, erste Buchausgabe:
+                  <pubPlace>Leipzig</pubPlace> (<publisher>Ernst Keil</publisher>)
+               <date>1872</date>.</bibl>
+         </sourceDesc>
       </fileDesc>
       <encodingDesc n="eltec-0">
          <p/>
@@ -39,7 +59,8 @@
             <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
          </textDesc>
       </profileDesc>
-      <revisionDesc><change when="2019-11-14">Checked by releaseChecker script</change>
+      <revisionDesc>
+         <change when="2019-11-14">Checked by releaseChecker script</change>
          <change when="2019-01-28">Conversion from Kallimachos Kernkorpus</change>
       </revisionDesc>
    </teiHeader>
@@ -10732,397 +10753,384 @@
                weggescheucht, davonflog, hinaus in die lichtlose Nacht.</p>
             <pb/>
          </div>
-         
-            <div type="chapter">
-               <head>33</head>
-               <p>Das war ein Wiedersehen! ... Zu Fuße wanderte ich vom letzten Dorfe nach dem
-                  Dierkhofe – durch den totenstillen, laublosen Wald. Es dunkelte im Dickicht, und
-                  raschelnde Blätter hingen sich an meinen Rocksaum – die hatten frisch droben im
-                  Morgenwind geplappert, als ich in die Welt hinausgepilgert war, und jetzt
-                  begleiteten sie mich als gefallene Gespenster mit eintönigem Flüstern und Rauschen
-                  ganze Strecken lang ... Und als ich hinaustrat in die unermeßliche Ebene, als in
-                  der Abenddämmerung seitwärts die Hünengräber auftauchten und fern vom Dierkhof her
-                  ein Lichtlein funkelte und Spitzens wohlbekanntes Gekläff halb verloren
-                  herüberscholl, da warf ich mich vor Schmerz aufweinend in das winterdürre
-                  Heidegestrüpp – ich kam unglücklich, gebrochen in die Heide zurück.</p>
-               <p>Und nun wuchsen die vier Eichen immer höher vor mir auf – ich sah deutlich den
-                  dunklen Punkt inmitten des einen Wipfels, das alte wohlbekannte Elsternest – die
-                  jungen Vögel, die damals lustig in meinen Abschiedsjammer hineingeschrieen hatten,
-                  sie waren längst auf- und davongeflogen, und wohl nur das alte angestammte Paar
-                  hockte als Turmwart des Dierkhofes droben und richtete die scharfen, klugen Augen
-                  auf das einsame Menschenkind, das über die Heide dahergewandert kam. Tief in der
-                  dunklen Wölbung des Hausthors glühte schwach ein Feuerkern, im Herde brannte der
-                  Torf, und das traute Dach, aus welchem der Rauch in kerzengeraden gelblichen
-                  Streifen zum Abendhimmel aufstieg, sah aus, als wüchse es direkt aus dem
-                  Heideboden, so eingesunken, so klein geworden kam mir der Dierkhof vor. Da sah ich
-                  Spitz wie toll über den Hof rennen – in der Thür der Umzäunung blieb er wie
-                  atemlos, mit steifgespitzten Ohren, einen Augenblick stehen; aber nun raste er auf
-                  mich zu – er sprang mir freudewinselnd bis hinauf an das Gesicht, um mir die
-                  Wangen zu lecken – ich hatte Mühe, mich auf den Füßen zu halten.</p>
-               <p>
-                  <pb/> »Was hat denn das Tier? Es ist ja wie närrisch?« rief Ilse und trat unter
-                  das Hausthor ... Ach, diese Stimme! Ich lief über den Hof und warf mich an die
-                  Brust der großen Frau – da meinte ich ja endlich den Qualen entronnen zu sein, die
-                  mich wie die Furien bis in die stillste, tiefste Heide hinein verfolgten ... Sie
-                  schrie nicht auf und sagte auch kein Wort; aber die Arme umschlossen mich fest –
-                  ich wurde gehätschelt und geliebkost wie in meiner Kindheit und wußte sofort, daß
-                  sie sich unbeschreiblich gesehnt haben müsse, und als wir auf den Fleet traten, wo
-                  bereits Licht brannte, da sah ich auch, daß sie blässer geworden war.</p>
-               <p>Aber völlig ließ sich Ilse nie von ihrem Gefühl überrumpeln. Sie schob mich
-                  plötzlich mit steif ausgestreckten Armen von sich. »Lenore, du bist
-                  durchgebrannt!« sagte sie in jenem gefürchteten Tone, mit welchem sie mir einst
-                  auch meine Kindersünden auf den Kopf schuld gegeben hatte.</p>
-               <p>Bei allem inneren Weh mußte ich lächeln. Ich setzte mich auf Heinzens Holzstuhl
-                  und erzählte ihr von dem Feuerunglück und der Krankheit meines Vaters, wobei sie
-                  einmal über das andere die Hände über dem Kopfe zusammenschlug. Das hinderte sie
-                  jedoch nicht, das Feuer im Herd neu zu schüren, den Wasserkessel aufzusetzen und
-                  mich mit einem Butterbrot sehr gegen meinen Willen, Bissen um Bissen, zu
-                  füttern.</p>
-               <p>»Ja, ja, das war freilich das Gescheiteste,« meinte sie, als ich ihr schließlich
-                  mitteilte, daß die Aerzte mich auf den Dierkhof <pb/> geschickt hätten. Dann
-                  verschwand sie im Innern des Hauses, um mich bald darauf vor ein himmelhoch
-                  aufgetürmtes Bett zu führen.</p>
-               <p>»So, Kind – nun gehst du zu Bett, und den Fliederthee bringe ich auch gleich. Auf
-                  zwanzig Schritte sieht man dir's an, daß du dich auf der Reise erkältet hast – das
-                  ist ja das reine Fiebergesicht ... Und gesprochen wird nun gar nichts mehr –
-                  morgen erzählst du weiter.«</p>
-               <p>Auf mein entsetzliches Sträuben hin wurde mir der Fliederthee erlassen – ins Bett
-                  aber wurde ich ohne Gnade gesteckt ... Da sah nun wieder das verräucherte Bild
-                  Karls des Großen unverwandt auf mich nieder. Ich sprang auf, nahm es vom Nagel und
-                  kehrte es gegen die Wand ... Wie haßte ich dieses Gesicht! Wie viel
-                  Leichtfertigkeit, Lug und Trug deckte die weiße Stirn, die mich am Hünengrabe
-                  förmlich geblendet! ... Sie hatte mir wie ein Licht in die dunkle Welt
-                  hineingeleuchtet – diesem trügerischen Schein war ich damals halb unbewußt
-                  gefolgt, um seinetwillen hatte ich mich von der Heimat losgerissen; jetzt sah ich
-                  klar in meine damaligen Empfindungen und verabscheute sie – sie hatten mich blind
-                  gemacht und auf einen Weg voll Irrtümer geführt.</p>
-               <p>Ich setzte mich wieder, wie in der Sterbenacht meiner Großmutter, auf das Fußende
-                  des Bettes und sah hinaus in die unermeßliche Weite. Nein – auch auf dem Dierkhof
-                  fand ich keine Ruhe, und je tiefer und lautloser die Stille um mich webte, desto
-                  furchtbarer schrie mein einsames Herz auf ... Jetzt begriff ich, wie meine
-                  Großmutter stundenlang dort in der Baumhofecke hatte stehen und unverwandt in die
-                  weite Welt hinausstarren können – die umschleierten Augen hatten ein Wesen in der
-                  Nebelferne gesucht, die Verlorene, Entartete, die das schwergekränkte Mutterherz
-                  dennoch nicht vergessen konnte. Und für mich breitete sich der weite, von
-                  Millionen Goldflittern betupfte Nachthimmel auch nur über einen einzigen Punkt,
-                  über das ferne, alte Kaufmannshaus.</p>
-               <p>Draußen fuhr der Wind auf und machte die dürren Zweige des Ebereschenbaumes leise
-                  an die Scheiben klopfen; ich wich zurück und legte die Hand über die Augen – unter
-                  dem Fenster stand ja die Bank, auf welcher ich Tante Christinens Brief zum
-                  erstenmal gelesen. Nun hatte ich sie in der That auf den Knieen liegen sehen, die
-                  märchenhafte Gestalt, schöner als die schönsten Blumenleiber, die in meinem
-                  Kinderbuche aus Lilien- und Rosenkelchen <pb/> emporwuchsen. Und aus den weißen
-                  Atlaswogen hatten sich zwei zarte Arme ausgestreckt, um den einst tief beleidigten
-                  Mann schmeichelnd wieder an das treulose Herz zu ziehen ... Ich schlug mich
-                  unwillkürlich mit den geballten Händen gegen die Brust – ich war schwach und feig
-                  gewesen in jenem verhängnisvollen Augenblicke, ich durfte nicht hinausgehen,
-                  meinen Kopf mußte ich, wie wenige Stunden zuvor, fest an seine Brust legen – er
-                  selbst hatte mir diesen Platz angewiesen, und ich wußte, daß es in Zärtlichkeit
-                  geschehen war; ich hatte es an dem Klopfen seines Herzens, an der leise zitternden
-                  Hand gefühlt, die, während ich gebeichtet, immer wieder behutsam, aber
-                  zartschmeichelnd über meine Locken hingeglitten war. Ich durfte nicht dulden, daß
-                  diese rosig weißen Hände ihn berührten, dann wäre vielleicht der böse Zauber nicht
-                  über ihn gekommen ...</p>
-               <p>Jetzt war es wohl hell im Vorderhause, so hell, wie an jenem Theeabend, wo die
-                  Prinzessin dagewesen ... Und er saß am Flügel – vergessen war die Zeit, wo er um
-                  ihretwillen keine Taste mehr berührt hatte; sie sang ihm ja jetzt die berauschende
-                  dämonische Tarantella ... Und binnen wenigen Wochen schritt eine neue Hausfrau
-                  durch die hallenden Gänge des Claudiushauses – nicht im klaren Stirnschleier, wohl
-                  aber mit langer, seidenrauschender Schleppe, Blumen in das Haar gestreut und ein
-                  Trällern auf den Lippen – und es wurde lebendig in den stillen
-                  Gesellschaftszimmern, Gäste flogen ein und aus, und Champagnerpfropfen knallten,
-                  und niemand verdachte dem Manne seine Wahl, die Frau war ja noch »von hinreißender
-                  Schönheit« ... Nun wurde er mein Onkel – ich sprang auf und rannte außer mir auf
-                  und ab ... nein, ich war kein sanftes Engelsgemüt, ich konnte nicht mit heißen
-                  Thränen in den Augen lächeln, ich wehrte mich aufschreiend gegen das Messer, das
-                  mir erbarmungslos immer wieder in der Brust umgewendet wurde! ... Nach K. kehrte
-                  ich nicht wieder zurück; ich wollte meinen Vater beschwören, einen andern
-                  Aufenthaltsort zu wählen – wie konnte ich je das Wort »Onkel« über meine Lippen
-                  bringen? Nie, nie!</p>
-               <p>Das sanfte Klopfen draußen an den Scheiben verwandelte sich in ein heftiges
-                  Peitschen und Schlagen – der Frühlingssturm brauste über die Heide hin ... Nun
-                  hörte ich's wieder, das Knistern und Knacken der alten Balken, das Schnauben und
-                  Pfauchen um die Ecken, und in den Eichenwipfeln das Gerassel der verdorrten <pb/>
-                  Blätter, die, längst tot und modernd, sich doch noch unter gespensterhaftem
-                  Rauschen an die lebendigen Aeste angstvoll anklammerten. Der alte Dierkhof
-                  zitterte unter den wuchtigen Stößen, droben in den Dachluken ächzten die morschen
-                  Holzläden, und die Fensterscheiben klirrten leise, als ließe der Sturm feine,
-                  klingende Silberketten durch seine Finger laufen.</p>
-               <p>Ilse trat mit dem Hauslämpchen ein, um nach mir zu sehen.</p>
-               <p>»Hab mir's gedacht, daß du nicht schlafen kannst,« sagte sie, als sie mich
-                  angekleidet auf dem Bett sitzen sah. »Kind, du bist das alte Heidelied nicht mehr
-                  gewohnt – freilich, dort in den Bergen, da duckt sich der Sturm zahm nieder, er
-                  gefällt mir aber auch nicht halb so gut ... Gehe du nur wieder in dein warmes Bett
-                  – er thut dir nichts!«</p>
-               <p>Freilich, der that mir nichts – vor ihm schützte mich der traute Dierkhof mit
-                  seinem Mantel! ...</p>
-               <p>
-                  <pb/> Nun war ich seit drei Tagen in der Heide und die Stürme pfiffen und johlten
-                  Tag und Nacht in einem Atem über die weite Fläche hin. Mieke, Spitz und das
-                  Federvieh, alles tummelte sich in der Tenne und sah vom geborgenen Platz aus durch
-                  das offene Hausthor den Unhold draußen vorbeijagen. Aber es wehte warm herein, und
-                  ich meinte, dann und wann fliege schon ein feiner Blumenatem auf seinen Schwingen
-                  mit. Heinz blieb auch auf dem Dierkhof. Ilse litt es nicht, daß er abends bei »dem
-                  Gebrause« in seine Hütte zurückkehrte ... Ach, wie war alles anders geworden! Ich
-                  las nicht mehr vor, wenn wir auf dem Fleet saßen – die Märchen hatten keinen Reiz
-                  für mich – und mit dem Erzählen aus der Stadt wollte es auch nicht gehen. So oft
-                  Ilse den Namen Claudius aussprach – und das geschah zu meiner Verzweiflung nur zu
-                  oft – da fühlte ich meine Kehle zugeschnürt; ich wußte es, sprach ich nur den
-                  Namen selbst aus, da stürzte der mühsam aufrecht erhaltene Damm der
-                  Selbstbeherrschung unrettbar zusammen, und ich schrie, zum Entsetzen der beiden
-                  treuen Seelen an meiner Seite, meinen Schmerz in alle vier Winde hinaus. Heinz sah
-                  mich ohnehin stets scheu von der Seite an, er verstand mich und meine
-                  Ausdrucksweise nicht mehr recht, und Ilse erzählte mir lachend, er habe gesagt,
-                  ich sei nun ein wirkliches Prinzeßchen geworden, so ganz absonderlich, und er
-                  begriffe nicht, daß Ilse nicht auch die Vorhänge an die Fenster hänge und das
-                  vornehme Sofa in die Stube schöbe, wie es doch bei Fräulein Streit gewesen
-                  sei.</p>
-               <p>Am dritten Tage gegen Abend ließ der Sturm nach; er blies zwar noch immer gewaltig
-                  über die Ebene hin; aber länger litt es mich nicht mehr im Hause – ich sprang
-                  hinaus in das Wogen und Tönen und ließ mich hinüber auf den Hügel tragen ... Ach
-                  ja, da stand sie noch mit festem Fuß, die liebe alte Föhre, und als ich sie mit
-                  beiden Armen umschlang, da streute sie rieselnd einen Nadelregen über mich her.
-                  Und die Ginsterbüsche hakten sich an meine Kleider; aber die Stelle, wo man im
-                  vorigen Jahr das Hünengrab aufgebrochen, lag kahl zu meinen Füßen, und kleine
-                  Sandbäche rieselten von Zeit zu Zeit da hinab, wo auch die Menschenasche
-                  verschüttet war ... Ueber den Waldstreifen zuckten die flammenden Spieße der
-                  Abendröte empor – morgen gab es abermals Sturm; war es doch, als wolle selbst das
-                  Toben in den Lüften eine Schranke zwischen mich und die Welt draußen ziehen ...
-                  Und dort wand sich der <pb/> Fluß hin, neben welchem die drei Herren damals eifrig
-                  gestrebt hatten, die öde Heide zu verlassen – da war die hohe, schlankmächtige
-                  Gestalt des »alten Herrn« fest durch das Gestrüpp geschritten, während die
-                  verwöhnten Füße des schönen Tankred fast ängstlich den samtweichen Rasenweg
-                  innegehalten hatten.</p>
-               <p>Jetzt war es todeseinsam da drüben – nein – ich hielt die Hand über die Augen, um
-                  das Wunder in der menschenleeren Heide besser anstarren zu können. Dort bewegte
-                  sich ein dunkles Etwas auf dem schmalen Sandweg, den Heinz mit dem Namen
-                  »Fahrstraße« beehrte. Himmel, Ilse hatte ihre Drohung wahr gemacht und den Doktor
-                  kommen lassen! Mein bleiches Gesicht, mein niedergeschlagenes Wesen ängstigten sie
-                  ja unbeschreiblich. Der dunkle Punkt schwankte näher und näher; das rote
-                  Abendlicht überfloß ihn grell – es war richtig die alte Kutsche, in welcher man
-                  den Arzt an das Sterbebett meiner Großmutter geholt hatte. Sie machte eine
-                  Schwenkung – wie eine Silhouette hoben sich das kräftig anziehende Pferd und die
-                  Kalesche vom Himmel ab; ich sah die Wagenfenster aufblinken und den stämmigen
-                  Bauernkutscher auf dem Bock sitzen ... Plötzlich hielt der Wagen still, und ein
-                  Herr sprang heraus – und wenn die Gestalt dort vom blonden Scheitel bis zur Zehe
-                  herab noch so streng verhüllt gewesen wäre, an dieser einen Bewegung hätte ich sie
-                  unter Tausenden heraus erkannt! ... Meine Pulse stockten, ich biß die Zähne
-                  zusammen und starrte angstvoll auf die Wagenthür – jetzt mußte auch sie
-                  aussteigen, die schöne Frau mit dem Samtmantel, den weißen Hermelin um die
-                  Schultern geschlagen – Onkel und Tante kamen, um die Entflohene zurückzuholen –
-                  allein die Thür fiel zu, und der Wagen schwenkte um nach dem Walde zurück. Herr
-                  Claudius aber schritt über die Heide her, direkt auf den Hügel zu; ein weiter
-                  Mantel flatterte von seinen Schultern, und die blauen Brillengläser funkelten in
-                  der Abendsonne ... Ich ließ die Föhre los, breitete die Arme weit aus und wollte
-                  den Hügel hinabstürmen; aber ich ließ sie sofort wieder sinken – einen Onkel
-                  begrüßt man nicht leidenschaftlich – taumelnd im Sturme umfing ich die Föhre
-                  wieder und drückte meine Stirn an die harte Rinde.</p>
-               <p>Jetzt kamen die Schritte näher und näher – ich bewegte mich nicht, mir war es, als
-                  sei ich an einen Marterpfahl gebunden und müsse ausharren im lautlosen
-                  Schmerz.</p>
-               <p>
-                  <pb/>
-                  <pb/>Am Fuße des Hügels blieb er stehen.</p>
-               <p>»Auch nicht um einen Schritt kommen Sie mir entgegen, Lenore?« rief er hinauf.</p>
-               <p>»Onkel,« rang es sich von meinen Lippen.</p>
-               <p>Mit wenigen Schritten stand er droben neben mir – ein Lächeln zuckte um seinen
-                  Mund.</p>
-               <p>»Seltsames Mädchen, in welche ungeheuerliche Vorstellung haben Sie sich verrannt!
-                  Glauben Sie wirklich, daß ein gesetzter Onkel so sehnsüchtig und angstvoll einer
-                  entflohenen kleinen Nichte nacheilen würde?«</p>
-               <p>Er ergriff sanft meine beiden Hände und zog mich den Hügel hinab. »So, hier fegt
-                  der Sturm über uns weg ... Ich bin Ihr Onkel nicht – aber bei Ihrem Vater bin ich
-                  gewesen und habe um andere Rechte gebeten; er hat mir freudig die Erlaubnis
-                  gegeben, Sie heimzuholen – aber nicht in die Karolinenlust, Lenore; wenn Sie sich
-                  entschließen, mit mir zu gehen, dann gibt es für uns beide nur einen Weg ...
-                  Lenore, zwischen Ihnen und mir steht nur noch Ihr eigener Wille – haben Sie noch
-                  keinen anderen Namen für mich?«</p>
-               <p>»Erich!« jauchzte ich auf und schlang die Arme um seinen Hals.</p>
-               <p>»Böses Kind,« sagte er, mich fest umschließend. »Was alles hast du mir gethan! Nie
-                  werde ich die Stunde vergessen, in welcher Fräulein Fliedner erschrocken aus der
-                  Karolinenlust zurückkam und mir sagte, du seiest fort, fort mit dem Nachtzug – ein
-                  verscheuchtes Heidevögelchen, einsam draußen in Nacht und Fremde. Und wie trauerte
-                  ich, daß du dir nicht einmal bewußt warst, welchen Schmerz du mir zufügtest! ...
-                  Lenore, wie war es dir möglich, zu denken, ich könne eben mein heilig geliebtes
-                  Mädchen an das Herz ziehen, um es gleich darauf um der häßlich geschminkten Sünde
-                  willen zu verstoßen?«</p>
-               <p>Ich wand mich los.</p>
-               <p>»Sehen Sie mich doch nur an!« rief ich und unterwarf mich halb lachend, halb
-                  weinend einer Musterung seines Blickes. »Neben Tante Christine bin ich doch das
-                  armseligste Nichtschen, wie Charlotte mich immer nennt! ... Ich habe die Tante zu
-                  Ihren Füßen gesehen; sie hat um Verzeihung gebeten – ach, und in welchen Tönen!
-                  Und ich wußte, daß Sie diese wunderschöne Frau sehr lieb gehabt haben, so lieb
-                  –«</p>
+
+         <div type="chapter">
+            <head>33</head>
+            <p>Das war ein Wiedersehen! ... Zu Fuße wanderte ich vom letzten Dorfe nach dem
+               Dierkhofe – durch den totenstillen, laublosen Wald. Es dunkelte im Dickicht, und
+               raschelnde Blätter hingen sich an meinen Rocksaum – die hatten frisch droben im
+               Morgenwind geplappert, als ich in die Welt hinausgepilgert war, und jetzt begleiteten
+               sie mich als gefallene Gespenster mit eintönigem Flüstern und Rauschen ganze Strecken
+               lang ... Und als ich hinaustrat in die unermeßliche Ebene, als in der Abenddämmerung
+               seitwärts die Hünengräber auftauchten und fern vom Dierkhof her ein Lichtlein
+               funkelte und Spitzens wohlbekanntes Gekläff halb verloren herüberscholl, da warf ich
+               mich vor Schmerz aufweinend in das winterdürre Heidegestrüpp – ich kam unglücklich,
+               gebrochen in die Heide zurück.</p>
+            <p>Und nun wuchsen die vier Eichen immer höher vor mir auf – ich sah deutlich den
+               dunklen Punkt inmitten des einen Wipfels, das alte wohlbekannte Elsternest – die
+               jungen Vögel, die damals lustig in meinen Abschiedsjammer hineingeschrieen hatten,
+               sie waren längst auf- und davongeflogen, und wohl nur das alte angestammte Paar
+               hockte als Turmwart des Dierkhofes droben und richtete die scharfen, klugen Augen auf
+               das einsame Menschenkind, das über die Heide dahergewandert kam. Tief in der dunklen
+               Wölbung des Hausthors glühte schwach ein Feuerkern, im Herde brannte der Torf, und
+               das traute Dach, aus welchem der Rauch in kerzengeraden gelblichen Streifen zum
+               Abendhimmel aufstieg, sah aus, als wüchse es direkt aus dem Heideboden, so
+               eingesunken, so klein geworden kam mir der Dierkhof vor. Da sah ich Spitz wie toll
+               über den Hof rennen – in der Thür der Umzäunung blieb er wie atemlos, mit
+               steifgespitzten Ohren, einen Augenblick stehen; aber nun raste er auf mich zu – er
+               sprang mir freudewinselnd bis hinauf an das Gesicht, um mir die Wangen zu lecken –
+               ich hatte Mühe, mich auf den Füßen zu halten.</p>
+            <p>
+               <pb/> »Was hat denn das Tier? Es ist ja wie närrisch?« rief Ilse und trat unter das
+               Hausthor ... Ach, diese Stimme! Ich lief über den Hof und warf mich an die Brust der
+               großen Frau – da meinte ich ja endlich den Qualen entronnen zu sein, die mich wie die
+               Furien bis in die stillste, tiefste Heide hinein verfolgten ... Sie schrie nicht auf
+               und sagte auch kein Wort; aber die Arme umschlossen mich fest – ich wurde gehätschelt
+               und geliebkost wie in meiner Kindheit und wußte sofort, daß sie sich unbeschreiblich
+               gesehnt haben müsse, und als wir auf den Fleet traten, wo bereits Licht brannte, da
+               sah ich auch, daß sie blässer geworden war.</p>
+            <p>Aber völlig ließ sich Ilse nie von ihrem Gefühl überrumpeln. Sie schob mich plötzlich
+               mit steif ausgestreckten Armen von sich. »Lenore, du bist durchgebrannt!« sagte sie
+               in jenem gefürchteten Tone, mit welchem sie mir einst auch meine Kindersünden auf den
+               Kopf schuld gegeben hatte.</p>
+            <p>Bei allem inneren Weh mußte ich lächeln. Ich setzte mich auf Heinzens Holzstuhl und
+               erzählte ihr von dem Feuerunglück und der Krankheit meines Vaters, wobei sie einmal
+               über das andere die Hände über dem Kopfe zusammenschlug. Das hinderte sie jedoch
+               nicht, das Feuer im Herd neu zu schüren, den Wasserkessel aufzusetzen und mich mit
+               einem Butterbrot sehr gegen meinen Willen, Bissen um Bissen, zu füttern.</p>
+            <p>»Ja, ja, das war freilich das Gescheiteste,« meinte sie, als ich ihr schließlich
+               mitteilte, daß die Aerzte mich auf den Dierkhof <pb/> geschickt hätten. Dann
+               verschwand sie im Innern des Hauses, um mich bald darauf vor ein himmelhoch
+               aufgetürmtes Bett zu führen.</p>
+            <p>»So, Kind – nun gehst du zu Bett, und den Fliederthee bringe ich auch gleich. Auf
+               zwanzig Schritte sieht man dir's an, daß du dich auf der Reise erkältet hast – das
+               ist ja das reine Fiebergesicht ... Und gesprochen wird nun gar nichts mehr – morgen
+               erzählst du weiter.«</p>
+            <p>Auf mein entsetzliches Sträuben hin wurde mir der Fliederthee erlassen – ins Bett
+               aber wurde ich ohne Gnade gesteckt ... Da sah nun wieder das verräucherte Bild Karls
+               des Großen unverwandt auf mich nieder. Ich sprang auf, nahm es vom Nagel und kehrte
+               es gegen die Wand ... Wie haßte ich dieses Gesicht! Wie viel Leichtfertigkeit, Lug
+               und Trug deckte die weiße Stirn, die mich am Hünengrabe förmlich geblendet! ... Sie
+               hatte mir wie ein Licht in die dunkle Welt hineingeleuchtet – diesem trügerischen
+               Schein war ich damals halb unbewußt gefolgt, um seinetwillen hatte ich mich von der
+               Heimat losgerissen; jetzt sah ich klar in meine damaligen Empfindungen und
+               verabscheute sie – sie hatten mich blind gemacht und auf einen Weg voll Irrtümer
+               geführt.</p>
+            <p>Ich setzte mich wieder, wie in der Sterbenacht meiner Großmutter, auf das Fußende des
+               Bettes und sah hinaus in die unermeßliche Weite. Nein – auch auf dem Dierkhof fand
+               ich keine Ruhe, und je tiefer und lautloser die Stille um mich webte, desto
+               furchtbarer schrie mein einsames Herz auf ... Jetzt begriff ich, wie meine Großmutter
+               stundenlang dort in der Baumhofecke hatte stehen und unverwandt in die weite Welt
+               hinausstarren können – die umschleierten Augen hatten ein Wesen in der Nebelferne
+               gesucht, die Verlorene, Entartete, die das schwergekränkte Mutterherz dennoch nicht
+               vergessen konnte. Und für mich breitete sich der weite, von Millionen Goldflittern
+               betupfte Nachthimmel auch nur über einen einzigen Punkt, über das ferne, alte
+               Kaufmannshaus.</p>
+            <p>Draußen fuhr der Wind auf und machte die dürren Zweige des Ebereschenbaumes leise an
+               die Scheiben klopfen; ich wich zurück und legte die Hand über die Augen – unter dem
+               Fenster stand ja die Bank, auf welcher ich Tante Christinens Brief zum erstenmal
+               gelesen. Nun hatte ich sie in der That auf den Knieen liegen sehen, die märchenhafte
+               Gestalt, schöner als die schönsten Blumenleiber, die in meinem Kinderbuche aus
+               Lilien- und Rosenkelchen <pb/> emporwuchsen. Und aus den weißen Atlaswogen hatten
+               sich zwei zarte Arme ausgestreckt, um den einst tief beleidigten Mann schmeichelnd
+               wieder an das treulose Herz zu ziehen ... Ich schlug mich unwillkürlich mit den
+               geballten Händen gegen die Brust – ich war schwach und feig gewesen in jenem
+               verhängnisvollen Augenblicke, ich durfte nicht hinausgehen, meinen Kopf mußte ich,
+               wie wenige Stunden zuvor, fest an seine Brust legen – er selbst hatte mir diesen
+               Platz angewiesen, und ich wußte, daß es in Zärtlichkeit geschehen war; ich hatte es
+               an dem Klopfen seines Herzens, an der leise zitternden Hand gefühlt, die, während ich
+               gebeichtet, immer wieder behutsam, aber zartschmeichelnd über meine Locken
+               hingeglitten war. Ich durfte nicht dulden, daß diese rosig weißen Hände ihn
+               berührten, dann wäre vielleicht der böse Zauber nicht über ihn gekommen ...</p>
+            <p>Jetzt war es wohl hell im Vorderhause, so hell, wie an jenem Theeabend, wo die
+               Prinzessin dagewesen ... Und er saß am Flügel – vergessen war die Zeit, wo er um
+               ihretwillen keine Taste mehr berührt hatte; sie sang ihm ja jetzt die berauschende
+               dämonische Tarantella ... Und binnen wenigen Wochen schritt eine neue Hausfrau durch
+               die hallenden Gänge des Claudiushauses – nicht im klaren Stirnschleier, wohl aber mit
+               langer, seidenrauschender Schleppe, Blumen in das Haar gestreut und ein Trällern auf
+               den Lippen – und es wurde lebendig in den stillen Gesellschaftszimmern, Gäste flogen
+               ein und aus, und Champagnerpfropfen knallten, und niemand verdachte dem Manne seine
+               Wahl, die Frau war ja noch »von hinreißender Schönheit« ... Nun wurde er mein Onkel –
+               ich sprang auf und rannte außer mir auf und ab ... nein, ich war kein sanftes
+               Engelsgemüt, ich konnte nicht mit heißen Thränen in den Augen lächeln, ich wehrte
+               mich aufschreiend gegen das Messer, das mir erbarmungslos immer wieder in der Brust
+               umgewendet wurde! ... Nach K. kehrte ich nicht wieder zurück; ich wollte meinen Vater
+               beschwören, einen andern Aufenthaltsort zu wählen – wie konnte ich je das Wort
+               »Onkel« über meine Lippen bringen? Nie, nie!</p>
+            <p>Das sanfte Klopfen draußen an den Scheiben verwandelte sich in ein heftiges Peitschen
+               und Schlagen – der Frühlingssturm brauste über die Heide hin ... Nun hörte ich's
+               wieder, das Knistern und Knacken der alten Balken, das Schnauben und Pfauchen um die
+               Ecken, und in den Eichenwipfeln das Gerassel der verdorrten <pb/> Blätter, die,
+               längst tot und modernd, sich doch noch unter gespensterhaftem Rauschen an die
+               lebendigen Aeste angstvoll anklammerten. Der alte Dierkhof zitterte unter den
+               wuchtigen Stößen, droben in den Dachluken ächzten die morschen Holzläden, und die
+               Fensterscheiben klirrten leise, als ließe der Sturm feine, klingende Silberketten
+               durch seine Finger laufen.</p>
+            <p>Ilse trat mit dem Hauslämpchen ein, um nach mir zu sehen.</p>
+            <p>»Hab mir's gedacht, daß du nicht schlafen kannst,« sagte sie, als sie mich
+               angekleidet auf dem Bett sitzen sah. »Kind, du bist das alte Heidelied nicht mehr
+               gewohnt – freilich, dort in den Bergen, da duckt sich der Sturm zahm nieder, er
+               gefällt mir aber auch nicht halb so gut ... Gehe du nur wieder in dein warmes Bett –
+               er thut dir nichts!«</p>
+            <p>Freilich, der that mir nichts – vor ihm schützte mich der traute Dierkhof mit seinem
+               Mantel! ...</p>
+            <p>
+               <pb/> Nun war ich seit drei Tagen in der Heide und die Stürme pfiffen und johlten Tag
+               und Nacht in einem Atem über die weite Fläche hin. Mieke, Spitz und das Federvieh,
+               alles tummelte sich in der Tenne und sah vom geborgenen Platz aus durch das offene
+               Hausthor den Unhold draußen vorbeijagen. Aber es wehte warm herein, und ich meinte,
+               dann und wann fliege schon ein feiner Blumenatem auf seinen Schwingen mit. Heinz
+               blieb auch auf dem Dierkhof. Ilse litt es nicht, daß er abends bei »dem Gebrause« in
+               seine Hütte zurückkehrte ... Ach, wie war alles anders geworden! Ich las nicht mehr
+               vor, wenn wir auf dem Fleet saßen – die Märchen hatten keinen Reiz für mich – und mit
+               dem Erzählen aus der Stadt wollte es auch nicht gehen. So oft Ilse den Namen Claudius
+               aussprach – und das geschah zu meiner Verzweiflung nur zu oft – da fühlte ich meine
+               Kehle zugeschnürt; ich wußte es, sprach ich nur den Namen selbst aus, da stürzte der
+               mühsam aufrecht erhaltene Damm der Selbstbeherrschung unrettbar zusammen, und ich
+               schrie, zum Entsetzen der beiden treuen Seelen an meiner Seite, meinen Schmerz in
+               alle vier Winde hinaus. Heinz sah mich ohnehin stets scheu von der Seite an, er
+               verstand mich und meine Ausdrucksweise nicht mehr recht, und Ilse erzählte mir
+               lachend, er habe gesagt, ich sei nun ein wirkliches Prinzeßchen geworden, so ganz
+               absonderlich, und er begriffe nicht, daß Ilse nicht auch die Vorhänge an die Fenster
+               hänge und das vornehme Sofa in die Stube schöbe, wie es doch bei Fräulein Streit
+               gewesen sei.</p>
+            <p>Am dritten Tage gegen Abend ließ der Sturm nach; er blies zwar noch immer gewaltig
+               über die Ebene hin; aber länger litt es mich nicht mehr im Hause – ich sprang hinaus
+               in das Wogen und Tönen und ließ mich hinüber auf den Hügel tragen ... Ach ja, da
+               stand sie noch mit festem Fuß, die liebe alte Föhre, und als ich sie mit beiden Armen
+               umschlang, da streute sie rieselnd einen Nadelregen über mich her. Und die
+               Ginsterbüsche hakten sich an meine Kleider; aber die Stelle, wo man im vorigen Jahr
+               das Hünengrab aufgebrochen, lag kahl zu meinen Füßen, und kleine Sandbäche rieselten
+               von Zeit zu Zeit da hinab, wo auch die Menschenasche verschüttet war ... Ueber den
+               Waldstreifen zuckten die flammenden Spieße der Abendröte empor – morgen gab es
+               abermals Sturm; war es doch, als wolle selbst das Toben in den Lüften eine Schranke
+               zwischen mich und die Welt draußen ziehen ... Und dort wand sich der <pb/> Fluß hin,
+               neben welchem die drei Herren damals eifrig gestrebt hatten, die öde Heide zu
+               verlassen – da war die hohe, schlankmächtige Gestalt des »alten Herrn« fest durch das
+               Gestrüpp geschritten, während die verwöhnten Füße des schönen Tankred fast ängstlich
+               den samtweichen Rasenweg innegehalten hatten.</p>
+            <p>Jetzt war es todeseinsam da drüben – nein – ich hielt die Hand über die Augen, um das
+               Wunder in der menschenleeren Heide besser anstarren zu können. Dort bewegte sich ein
+               dunkles Etwas auf dem schmalen Sandweg, den Heinz mit dem Namen »Fahrstraße« beehrte.
+               Himmel, Ilse hatte ihre Drohung wahr gemacht und den Doktor kommen lassen! Mein
+               bleiches Gesicht, mein niedergeschlagenes Wesen ängstigten sie ja unbeschreiblich.
+               Der dunkle Punkt schwankte näher und näher; das rote Abendlicht überfloß ihn grell –
+               es war richtig die alte Kutsche, in welcher man den Arzt an das Sterbebett meiner
+               Großmutter geholt hatte. Sie machte eine Schwenkung – wie eine Silhouette hoben sich
+               das kräftig anziehende Pferd und die Kalesche vom Himmel ab; ich sah die Wagenfenster
+               aufblinken und den stämmigen Bauernkutscher auf dem Bock sitzen ... Plötzlich hielt
+               der Wagen still, und ein Herr sprang heraus – und wenn die Gestalt dort vom blonden
+               Scheitel bis zur Zehe herab noch so streng verhüllt gewesen wäre, an dieser einen
+               Bewegung hätte ich sie unter Tausenden heraus erkannt! ... Meine Pulse stockten, ich
+               biß die Zähne zusammen und starrte angstvoll auf die Wagenthür – jetzt mußte auch sie
+               aussteigen, die schöne Frau mit dem Samtmantel, den weißen Hermelin um die Schultern
+               geschlagen – Onkel und Tante kamen, um die Entflohene zurückzuholen – allein die Thür
+               fiel zu, und der Wagen schwenkte um nach dem Walde zurück. Herr Claudius aber schritt
+               über die Heide her, direkt auf den Hügel zu; ein weiter Mantel flatterte von seinen
+               Schultern, und die blauen Brillengläser funkelten in der Abendsonne ... Ich ließ die
+               Föhre los, breitete die Arme weit aus und wollte den Hügel hinabstürmen; aber ich
+               ließ sie sofort wieder sinken – einen Onkel begrüßt man nicht leidenschaftlich –
+               taumelnd im Sturme umfing ich die Föhre wieder und drückte meine Stirn an die harte
+               Rinde.</p>
+            <p>Jetzt kamen die Schritte näher und näher – ich bewegte mich nicht, mir war es, als
+               sei ich an einen Marterpfahl gebunden und müsse ausharren im lautlosen Schmerz.</p>
+            <p>
                <pb/>
-               <p>Ein flammendes Rot stieg in sein Gesicht – ich hatte ihn noch nie so tief erröten
-                  sehen.</p>
-               <p>»Ich weiß, daß Fräulein Fliedner geplaudert hat,« sagte er. »Sie klagt sich auch
-                  an, deine Flucht veranlaßt zu haben, indem sie, wunderlich genug, der Furcht
-                  Ausdruck gegeben hat, ich könne dem Zauber erliegen ... Meine Kleine, ich gestatte
-                  dir absichtlich keinen Blick in jene Zeit, auf die jahrelange Reue gefolgt ist –
-                  du sollst deine keuschen Kinderaugen behalten, sie sind meine Erquickung, mein
-                  Stolz ... Ich habe mich schwer geirrt damals, am meisten in mir selbst; ich habe
-                  das Aufflammen häßlicher Leidenschaft für jenes Sternenlicht gehalten, das erst
-                  mit deinem Erscheinen über meinem Leben aufgehen sollte ... Bis zur äußersten
-                  Konsequenz hat sich die Verirrung meiner Jugend gerächt – bis zu dieser Stunde
-                  habe ich leiden müssen; aber nun sei es auch genug der Sühne – ich verlange mein
-                  Recht!«</p>
-               <p>Er küßte mich – dann schlug er schützend seinen Mantel um mich. »Du wirst manches
-                  verändert finden, wenn wir heimkommen, mein Kind,« sagte er nach einer Pause mit
-                  gedämpfter Stimme. »Die Mietwohnung im Erdgeschoß des Schweizerhäuschens ist leer
-                  – der Zugvogel ist wieder nach dem Süden geflogen –«</p>
-               <p>»Aber sie war arm – was wird sie anfangen?« fiel ich beklommen ein.</p>
-               <p>»Dafür ist gesorgt – sie ist ja deine Tante, Lenore.«</p>
-               <p>»Und Charlotte?«</p>
-               <p>»Sie hat eine furchtbare Lehre empfangen; aber ich habe mich nicht in ihr geirrt –
-                  es ist trotz alledem ein tüchtiger Kern in diesem Mädchen. Anfänglich war sie tief
-                  erschüttert an Leib und Seele – sie hat sich jedoch aufgerafft, und jetzt bricht
-                  der wahre Stolz, die wirkliche Seelenwürde durch. Sie schämt sich ihres Thuns und
-                  Treibens im Institut; sie hat wenig gelernt, trotz ihrer Begabung und der ihr
-                  gebotenen reichen Ausbildungsmittel, weil sie stets vorausgesetzt hat, sie sei zu
-                  Höherem geboren und brauche nicht zu arbeiten. Nun geht sie abermals in ein
-                  Institut, um sich zur Gouvernante heranzubilden. Ich bin diesem Entschluß durchaus
-                  nicht entgegen – durch geistige Thätigkeit wird sie vollends genesen; übrigens
-                  bleibt das Claudiushaus ihre Heimat ... Dagobert aber will den Dienst quittieren
-                  und als Farmer nach Amerika gehen ... <pb/> Die Verblendung der Geschwister
-                  bezüglich ihrer Abkunft und die schließliche Enthüllung sind in der Stadt ruchbar
-                  geworden – wer geplaudert haben mag, man weiß es nicht – Dagoberts Stellung wird
-                  voraussichtlich eine unerquickliche werden, deshalb geht er freiwillig ... Wenige
-                  Stunden vor meiner Abreise hierher war ich bei der Prinzessin –«</p>
-               <p>Ich verbarg mein Gesicht an seiner Brust. »Nun kommt das Strafgericht auch über
-                  mich!« flüsterte ich.</p>
-               <p>»Ja, ja, nun weiß ich alles!« bestätigte er mit scheinbarer Strenge. »Das
-                  Heideprinzeßchen hat seine kleine, vorwitzige Nase schon am ersten Tag in das
-                  Geheimnis von Karolinenlust gesteckt und dann wacker mitgeholfen bei der Intrigue
-                  gegen den unglücklichen Mann im Vorderhause –«</p>
-               <p>»Und er verzeiht mir nicht –«</p>
-               <p>Er lächelte auf mich nieder. »Hätte er dann wohl den roten Mund geküßt, der so
-                  heroisch schweigen kann?«</p>
-               <p>Wir traten hinter dem schützenden Hügel hervor – der Sturm fiel uns an. »O säh'
-                  ich auf der Heide dort im Sturme dich!« sang ich jauchzend aus voller Brust in das
-                  Klingen und Sausen hinein. Es war ja wahr geworden, ich schritt, von starkem Arm
-                  gehalten, an seiner Seite dahin, und seine Linke hielt sorgsam den Mantel
-                  zusammen, den er mir um Haupt und Schultern geschlagen ... Und der Sturm schoß mit
-                  seinem Frühlingsatem an mir vorüber und höhnte: »Gefangen, gefangen!« Und ich
-                  lachte auf und schmiegte mich glückselig an den Mann, der mich führte – mochten
-                  Sturm und Bienen und Schmetterlinge frei über die Heide hinfliegen – ich flog
-                  nicht mehr mit! ...</p>
-               <p>Ilse saß auf dem Fleet und schälte Kartoffeln, und Heinz kam eben mit der
-                  qualmenden Pfeife aus dem Baumhof, als wir in die Tenne traten ... Nie hatte ich
-                  meine treue Pflegerin so konsterniert gesehen, als in dem Augenblick, wo Herr
-                  Claudius mir den Mantelzipfel vom Haupt schob und ich sie anlachte. Das Messer und
-                  die halbgeschälte Kartoffel fielen ihr aus den Händen auf den Schoß. »Herr
-                  Claudius!« rief sie erstarrt. Bei dem Namen riß Heinz erschrocken die Pfeife aus
-                  dem Munde und hielt sie auf dem Rücken.</p>
-               <p>»Grüß Gott, Frau Ilse!« sagte Herr Claudius. »Sie haben einen kleinen Deserteur
-                  beherbergt; – ich bin gekommen, ihn heimzuholen – mein ist er!«</p>
-               <p>
-                  <pb/> Jetzt ging der ›Frau Ilse‹ ein Licht auf. Sie sprang empor, Messer, Schalen
-                  und Kartoffeln, alles rollte von der Schürze auf die Steinplatten. »O herrje, das
-                  war also die Krankheit?« – Sie schlug die Hände zusammen. – »Da war freilich
-                  Fliederthee das konträre Mittel! ... Schön angeführt hast du mich, Lenore, o
-                  herrje! ... Und heiraten wollen Sie das Kind da, Herr Claudius?« schalt sie
-                  förmlich, während ihr die Thränen der Rührung über die Wangen liefen. »Sehen Sie
-                  sich doch nur die kleinwinzigen Hände an und das Gesichtchen, und die jungen,
-                  jungen Augen –«</p>
-               <p>Herr Claudius errötete fein wie ein Mädchengesicht. »Ich bin ihr recht, meiner
-                  jungen Lenore,« sagte er leise und ein wenig zögernd. »Sie behauptet, den ›alten,
-                  uralten Mann‹ lieb zu haben.«</p>
-               <p>Ich schmiegte mich fester an ihn.</p>
-               <p>»I bewahre, Herr Claudius, so ist ja das gar nicht gemeint,« protestierte Ilse
-                  eifrig. »Die möchte ich sehen, die da nicht auf der Stelle, mit Freuden, Ja und
-                  Amen sagte! Aber, aber – die vielen Leute, die Sie kommandieren, wie sollen denn
-                  die Respekt kriegen vor solch einem Weibchen, das Sie wie ein Kind auf dem Arm im
-                  Hause herumtragen können!«</p>
-               <p>Er lachte leise auf. »Respekt werden sie schon bekommen, wenn sie sehen, wie ›das
-                  Weibchen‹ den Chef des Hauses kommandiert ... Und nun, Frau Ilse, rüsten Sie sich
-                  – morgen reisen wir heim – die Braut darf nur in Ihrer Begleitung
-                  zurückkehren.«</p>
-               <p>Ilse fuhr sich mit dem Schürzenzipfel über die Augen. »Aber der Dierkhof
-                  unterdessen, Herr Claudius? Wenn Sie nur wüßten, wie ich ihn dazumal
-                  wiedergefunden habe!« sagte sie ein wenig scharf und anzüglich.</p>
-               <p>Heinz kratzte sich verlegen hinter dem Ohr und sah scheu nach der gestrengen
-                  Schwester. Aber ich sprang auf ihn zu und schlang meinen Arm in den seinen.
-                  »Heinz, böser Heinz, gratulierst du mir nicht?«</p>
-               <p>»Ach ja, Prinzeßchen; aber es dauert mich auch; da draußen ist's doch lange –
-                  keine Heide!«</p>
+               <pb/>Am Fuße des Hügels blieb er stehen.</p>
+            <p>»Auch nicht um einen Schritt kommen Sie mir entgegen, Lenore?« rief er hinauf.</p>
+            <p>»Onkel,« rang es sich von meinen Lippen.</p>
+            <p>Mit wenigen Schritten stand er droben neben mir – ein Lächeln zuckte um seinen
+               Mund.</p>
+            <p>»Seltsames Mädchen, in welche ungeheuerliche Vorstellung haben Sie sich verrannt!
+               Glauben Sie wirklich, daß ein gesetzter Onkel so sehnsüchtig und angstvoll einer
+               entflohenen kleinen Nichte nacheilen würde?«</p>
+            <p>Er ergriff sanft meine beiden Hände und zog mich den Hügel hinab. »So, hier fegt der
+               Sturm über uns weg ... Ich bin Ihr Onkel nicht – aber bei Ihrem Vater bin ich gewesen
+               und habe um andere Rechte gebeten; er hat mir freudig die Erlaubnis gegeben, Sie
+               heimzuholen – aber nicht in die Karolinenlust, Lenore; wenn Sie sich entschließen,
+               mit mir zu gehen, dann gibt es für uns beide nur einen Weg ... Lenore, zwischen Ihnen
+               und mir steht nur noch Ihr eigener Wille – haben Sie noch keinen anderen Namen für
+               mich?«</p>
+            <p>»Erich!« jauchzte ich auf und schlang die Arme um seinen Hals.</p>
+            <p>»Böses Kind,« sagte er, mich fest umschließend. »Was alles hast du mir gethan! Nie
+               werde ich die Stunde vergessen, in welcher Fräulein Fliedner erschrocken aus der
+               Karolinenlust zurückkam und mir sagte, du seiest fort, fort mit dem Nachtzug – ein
+               verscheuchtes Heidevögelchen, einsam draußen in Nacht und Fremde. Und wie trauerte
+               ich, daß du dir nicht einmal bewußt warst, welchen Schmerz du mir zufügtest! ...
+               Lenore, wie war es dir möglich, zu denken, ich könne eben mein heilig geliebtes
+               Mädchen an das Herz ziehen, um es gleich darauf um der häßlich geschminkten Sünde
+               willen zu verstoßen?«</p>
+            <p>Ich wand mich los.</p>
+            <p>»Sehen Sie mich doch nur an!« rief ich und unterwarf mich halb lachend, halb weinend
+               einer Musterung seines Blickes. »Neben Tante Christine bin ich doch das armseligste
+               Nichtschen, wie Charlotte mich immer nennt! ... Ich habe die Tante zu Ihren Füßen
+               gesehen; sie hat um Verzeihung gebeten – ach, und in welchen Tönen! Und ich wußte,
+               daß Sie diese wunderschöne Frau sehr lieb gehabt haben, so lieb –«</p>
+            <pb/>
+            <p>Ein flammendes Rot stieg in sein Gesicht – ich hatte ihn noch nie so tief erröten
+               sehen.</p>
+            <p>»Ich weiß, daß Fräulein Fliedner geplaudert hat,« sagte er. »Sie klagt sich auch an,
+               deine Flucht veranlaßt zu haben, indem sie, wunderlich genug, der Furcht Ausdruck
+               gegeben hat, ich könne dem Zauber erliegen ... Meine Kleine, ich gestatte dir
+               absichtlich keinen Blick in jene Zeit, auf die jahrelange Reue gefolgt ist – du
+               sollst deine keuschen Kinderaugen behalten, sie sind meine Erquickung, mein Stolz ...
+               Ich habe mich schwer geirrt damals, am meisten in mir selbst; ich habe das Aufflammen
+               häßlicher Leidenschaft für jenes Sternenlicht gehalten, das erst mit deinem
+               Erscheinen über meinem Leben aufgehen sollte ... Bis zur äußersten Konsequenz hat
+               sich die Verirrung meiner Jugend gerächt – bis zu dieser Stunde habe ich leiden
+               müssen; aber nun sei es auch genug der Sühne – ich verlange mein Recht!«</p>
+            <p>Er küßte mich – dann schlug er schützend seinen Mantel um mich. »Du wirst manches
+               verändert finden, wenn wir heimkommen, mein Kind,« sagte er nach einer Pause mit
+               gedämpfter Stimme. »Die Mietwohnung im Erdgeschoß des Schweizerhäuschens ist leer –
+               der Zugvogel ist wieder nach dem Süden geflogen –«</p>
+            <p>»Aber sie war arm – was wird sie anfangen?« fiel ich beklommen ein.</p>
+            <p>»Dafür ist gesorgt – sie ist ja deine Tante, Lenore.«</p>
+            <p>»Und Charlotte?«</p>
+            <p>»Sie hat eine furchtbare Lehre empfangen; aber ich habe mich nicht in ihr geirrt – es
+               ist trotz alledem ein tüchtiger Kern in diesem Mädchen. Anfänglich war sie tief
+               erschüttert an Leib und Seele – sie hat sich jedoch aufgerafft, und jetzt bricht der
+               wahre Stolz, die wirkliche Seelenwürde durch. Sie schämt sich ihres Thuns und
+               Treibens im Institut; sie hat wenig gelernt, trotz ihrer Begabung und der ihr
+               gebotenen reichen Ausbildungsmittel, weil sie stets vorausgesetzt hat, sie sei zu
+               Höherem geboren und brauche nicht zu arbeiten. Nun geht sie abermals in ein Institut,
+               um sich zur Gouvernante heranzubilden. Ich bin diesem Entschluß durchaus nicht
+               entgegen – durch geistige Thätigkeit wird sie vollends genesen; übrigens bleibt das
+               Claudiushaus ihre Heimat ... Dagobert aber will den Dienst quittieren und als Farmer
+               nach Amerika gehen ... <pb/> Die Verblendung der Geschwister bezüglich ihrer Abkunft
+               und die schließliche Enthüllung sind in der Stadt ruchbar geworden – wer geplaudert
+               haben mag, man weiß es nicht – Dagoberts Stellung wird voraussichtlich eine
+               unerquickliche werden, deshalb geht er freiwillig ... Wenige Stunden vor meiner
+               Abreise hierher war ich bei der Prinzessin –«</p>
+            <p>Ich verbarg mein Gesicht an seiner Brust. »Nun kommt das Strafgericht auch über
+               mich!« flüsterte ich.</p>
+            <p>»Ja, ja, nun weiß ich alles!« bestätigte er mit scheinbarer Strenge. »Das
+               Heideprinzeßchen hat seine kleine, vorwitzige Nase schon am ersten Tag in das
+               Geheimnis von Karolinenlust gesteckt und dann wacker mitgeholfen bei der Intrigue
+               gegen den unglücklichen Mann im Vorderhause –«</p>
+            <p>»Und er verzeiht mir nicht –«</p>
+            <p>Er lächelte auf mich nieder. »Hätte er dann wohl den roten Mund geküßt, der so
+               heroisch schweigen kann?«</p>
+            <p>Wir traten hinter dem schützenden Hügel hervor – der Sturm fiel uns an. »O säh' ich
+               auf der Heide dort im Sturme dich!« sang ich jauchzend aus voller Brust in das
+               Klingen und Sausen hinein. Es war ja wahr geworden, ich schritt, von starkem Arm
+               gehalten, an seiner Seite dahin, und seine Linke hielt sorgsam den Mantel zusammen,
+               den er mir um Haupt und Schultern geschlagen ... Und der Sturm schoß mit seinem
+               Frühlingsatem an mir vorüber und höhnte: »Gefangen, gefangen!« Und ich lachte auf und
+               schmiegte mich glückselig an den Mann, der mich führte – mochten Sturm und Bienen und
+               Schmetterlinge frei über die Heide hinfliegen – ich flog nicht mehr mit! ...</p>
+            <p>Ilse saß auf dem Fleet und schälte Kartoffeln, und Heinz kam eben mit der qualmenden
+               Pfeife aus dem Baumhof, als wir in die Tenne traten ... Nie hatte ich meine treue
+               Pflegerin so konsterniert gesehen, als in dem Augenblick, wo Herr Claudius mir den
+               Mantelzipfel vom Haupt schob und ich sie anlachte. Das Messer und die halbgeschälte
+               Kartoffel fielen ihr aus den Händen auf den Schoß. »Herr Claudius!« rief sie
+               erstarrt. Bei dem Namen riß Heinz erschrocken die Pfeife aus dem Munde und hielt sie
+               auf dem Rücken.</p>
+            <p>»Grüß Gott, Frau Ilse!« sagte Herr Claudius. »Sie haben einen kleinen Deserteur
+               beherbergt; – ich bin gekommen, ihn heimzuholen – mein ist er!«</p>
+            <p>
+               <pb/> Jetzt ging der ›Frau Ilse‹ ein Licht auf. Sie sprang empor, Messer, Schalen und
+               Kartoffeln, alles rollte von der Schürze auf die Steinplatten. »O herrje, das war
+               also die Krankheit?« – Sie schlug die Hände zusammen. – »Da war freilich Fliederthee
+               das konträre Mittel! ... Schön angeführt hast du mich, Lenore, o herrje! ... Und
+               heiraten wollen Sie das Kind da, Herr Claudius?« schalt sie förmlich, während ihr die
+               Thränen der Rührung über die Wangen liefen. »Sehen Sie sich doch nur die
+               kleinwinzigen Hände an und das Gesichtchen, und die jungen, jungen Augen –«</p>
+            <p>Herr Claudius errötete fein wie ein Mädchengesicht. »Ich bin ihr recht, meiner jungen
+               Lenore,« sagte er leise und ein wenig zögernd. »Sie behauptet, den ›alten, uralten
+               Mann‹ lieb zu haben.«</p>
+            <p>Ich schmiegte mich fester an ihn.</p>
+            <p>»I bewahre, Herr Claudius, so ist ja das gar nicht gemeint,« protestierte Ilse
+               eifrig. »Die möchte ich sehen, die da nicht auf der Stelle, mit Freuden, Ja und Amen
+               sagte! Aber, aber – die vielen Leute, die Sie kommandieren, wie sollen denn die
+               Respekt kriegen vor solch einem Weibchen, das Sie wie ein Kind auf dem Arm im Hause
+               herumtragen können!«</p>
+            <p>Er lachte leise auf. »Respekt werden sie schon bekommen, wenn sie sehen, wie ›das
+               Weibchen‹ den Chef des Hauses kommandiert ... Und nun, Frau Ilse, rüsten Sie sich –
+               morgen reisen wir heim – die Braut darf nur in Ihrer Begleitung zurückkehren.«</p>
+            <p>Ilse fuhr sich mit dem Schürzenzipfel über die Augen. »Aber der Dierkhof unterdessen,
+               Herr Claudius? Wenn Sie nur wüßten, wie ich ihn dazumal wiedergefunden habe!« sagte
+               sie ein wenig scharf und anzüglich.</p>
+            <p>Heinz kratzte sich verlegen hinter dem Ohr und sah scheu nach der gestrengen
+               Schwester. Aber ich sprang auf ihn zu und schlang meinen Arm in den seinen. »Heinz,
+               böser Heinz, gratulierst du mir nicht?«</p>
+            <p>»Ach ja, Prinzeßchen; aber es dauert mich auch; da draußen ist's doch lange – keine
+               Heide!«</p>
 
-               <!--milestone hi_start-->
-               <p>
-                  <pb/> * * *</p>
-               <!--milestone hi_end-->
+            <!--milestone hi_start-->
+            <p>
+               <pb/> * * *</p>
+            <!--milestone hi_end-->
 
-               <p>Diese Niederschrift habe ich zwei Jahre nach meinem Hochzeitstage begonnen. Die
-                  Korbwanne stand neben meinem Schreibtisch, und zwischen dem Kissen atmete ein
-                  junges Wesen – mein schöner, blonder Erstgeborner. Für dieses kleine Wunder, das
-                  ich immer wieder anstaunen mußte, wollte ich meine Erlebnisse niederschreiben ...
-                  Seitdem hat auch ein prächtiger, braungelockter Bursche mit der kräftigsten
-                  Jungenstimme in dem grünumschleierten Korb gelegen, und jetzt schläft Lenore, das
-                  einzige Töchterchen des Claudiushauses, auf derselben Stelle – seit sieben Jahren
-                  bin ich verheiratet. Ich sitze in Charlottens ehemaligem Zimmer. Die dunklen
-                  Vorhänge sind verschwunden – es ist sonnig um mich her, Rosenbouquets, gestickt
-                  und gemalt, liegen hingestreut auf Teppich, Möbeln und Wänden, und in den
-                  Fensternischen duften förmliche Blumenhecken. Lenore schlummert, die Fäustchen an
-                  die Wange gedrückt – es ist so still, daß ich die Fliegen summen höre – nun
-                  endlich zum Schluß!</p>
-               <p>Da wird die Thür aufgestoßen, und sie kommen hereingestürmt, die zwei Stammhalter
-                  des Claudiushauses.</p>
-               <p>»Aber Mama, du schreibst auch zu lange!« ruft der Blonde vorwurfsvoll. »Wir wollen
-                  doch Sauermilch im Garten essen – Tante Fliedner ist schon in der Laube, und den
-                  Großpapa haben wir auch geholt.«</p>
-               <p>Ich sehe ihm mit zitternder Lust in das Gesicht – er schießt piniengleich in die
-                  Höhe; aber, o weh – wie wird es um die Autorität stehen, wenn er der kleinen
-                  Mutter über den Kopf gewachsen ist? ... Der kleine Braune aber hebt sich auf die
-                  Zehen, legt mir einen fingerdicken Strick und ein schwankes Weidengertchen quer
-                  über das Manuskript und bittet mit seiner tiefen, treuherzigen Stimme: »Mama, eine
-                  Peitsche machen!«</p>
-               <p>»Geht nur einstweilen in den Garten,« sagte ich, während meine Finger sich
-                  abmühen, die fast unmögliche Peitsche herzustellen. »Ich muß erst noch etwas von
-                  Tante Charlotte schreiben.«</p>
-               <p>»Von Paulchen auch?« – Auf meine Bejahung laufen sie wieder hinaus, die Treppe
-                  hinunter.</p>
-               <p>Am Tag nach meiner Rückkehr aus der Heide verließ Charlotte das Claudiushaus, um
-                  in ein Institut einzutreten; und kurze Zeit darauf ging der junge Helldorf nach
-                  England – er hatte um Charlottens Hand gebeten und war zurückgewiesen worden. Mir
-                  gestand sie schriftlich ein, sie habe ihn in ihrem Hochmut zu schlecht behandelt,
-                  und nun sie von ihrer vermeintlichen Höhe <pb/> herabgestürzt sei, werde sie ihrer
-                  Neigung noch weniger Raum geben. Wir litten nicht, daß sie nach vollendeten
-                  Studien in fremde Abhängigkeit trat – sie kehrte auf unsere Bitten in das
-                  Claudiushaus zurück – eine leidenschaftlich liebende Tante für unsere Kinder.
-                  Helldorfs Name kam nie über ihre Lippen, obgleich sie, wie wir auch, viel im Hause
-                  des Oberlehrers verkehrte. Da kam der Krieg im Jahre 66. Max Helldorf wurde
-                  einberufen und bei Königgrätz schwer verwundet ... Eine Stunde nachher, als der
-                  Oberlehrer schreckensbleich die Nachricht in unser Haus gebracht hatte, trat
-                  Charlotte im Reiseanzug in mein Zimmer. »Ich gehe als Diakonissin, Lenore,« sagte
-                  sie fest. »Vertritt meine Handlungsweise beim Onkel – ich kann nicht anders.«</p>
-               <p>Claudius war verreist – ich ließ sie mit tausend Freuden ziehen. Nach vier Wochen
-                  unterschrieb sie einen langen, glückatmenden Bericht als Charlotte Helldorf. Der
-                  Feldgeistliche hatte den Genesenden und seine treue Pflegerin eingesegnet ...
-                  Jetzt wohnt das junge Paar in Dorotheenthal – Helldorf ist Prokurist der Firma
-                  Claudius geworden – und seit »Paulchen« die großen Augen aufgeschlagen hat,
-                  begreift Charlotte nicht mehr, wie sich die Menschen, die alle mit gleichem Rechte
-                  in die Welt treten, in Hochmütige und Mißachtete zerspalten können.</p>
-               <p>Ach, jetzt höre ich feste Schritte die Treppe heraufkommen – die Schreibstube ist
-                  geschlossen ... Ich schreibe weiter und thue, als hörte ich ihn nicht kommen, den
-                  Mann, der mich mehr verzieht, als er verantworten kann. Ich lache ihn stets aus,
-                  wenn er mich dann in seine Arme nimmt und über meinen Kopf hinweg wie
-                  entschuldigend zu meinem Vater sagt: »Sie ist ja das älteste und unbesonnenste von
-                  meinen Kindern.« Und mein Vater nickt mit seinem zerstreuten Lächeln dazu – er ist
-                  noch immer sehr zerstreut, mein guter Papa, aber er wird von uns auf den Händen
-                  getragen, und sein neuestes Werk macht Furore in der Gelehrtenwelt. Vielleicht
-                  sind seine Enkel daran schuld – sie dürfen in der restaurierten Bibliothek
-                  rumoren, soviel sie Lust haben, und klettern auf seinen Schoß, während er
-                  schreibt. Seine Stellung bei Hofe ist angenehmer denn je, und die Prinzessin kommt
-                  oft in das Claudiushaus; aber über dem Lotharbild hängt ein dunkler Vorhang, und
-                  die Tapetenthür in der Karolinenlust ist zugemauert worden.</p>
-               <p>Jetzt ist der hohe, noch immer schlanke Mann leise eingetreten, <pb/> er biegt
-                  sich über die Korbwanne und betrachtet sein schlafendes Töchterchen.</p>
-               <p>»Es ist erstaunlich, wie das Kind dir ähnlich sieht, Lenore.«</p>
-               <p>Ich springe stolz auf; denn er sagt das mit einem entzückten Blick ... Fort mit
-                  der Feder und dem Manuskript! Sie haben keine Farben für den Sonnenblick des
-                  Glückes über der Stirn des »Heideprinzeßchens«.</p>
-            </div>
-         
+            <p>Diese Niederschrift habe ich zwei Jahre nach meinem Hochzeitstage begonnen. Die
+               Korbwanne stand neben meinem Schreibtisch, und zwischen dem Kissen atmete ein junges
+               Wesen – mein schöner, blonder Erstgeborner. Für dieses kleine Wunder, das ich immer
+               wieder anstaunen mußte, wollte ich meine Erlebnisse niederschreiben ... Seitdem hat
+               auch ein prächtiger, braungelockter Bursche mit der kräftigsten Jungenstimme in dem
+               grünumschleierten Korb gelegen, und jetzt schläft Lenore, das einzige Töchterchen des
+               Claudiushauses, auf derselben Stelle – seit sieben Jahren bin ich verheiratet. Ich
+               sitze in Charlottens ehemaligem Zimmer. Die dunklen Vorhänge sind verschwunden – es
+               ist sonnig um mich her, Rosenbouquets, gestickt und gemalt, liegen hingestreut auf
+               Teppich, Möbeln und Wänden, und in den Fensternischen duften förmliche Blumenhecken.
+               Lenore schlummert, die Fäustchen an die Wange gedrückt – es ist so still, daß ich die
+               Fliegen summen höre – nun endlich zum Schluß!</p>
+            <p>Da wird die Thür aufgestoßen, und sie kommen hereingestürmt, die zwei Stammhalter des
+               Claudiushauses.</p>
+            <p>»Aber Mama, du schreibst auch zu lange!« ruft der Blonde vorwurfsvoll. »Wir wollen
+               doch Sauermilch im Garten essen – Tante Fliedner ist schon in der Laube, und den
+               Großpapa haben wir auch geholt.«</p>
+            <p>Ich sehe ihm mit zitternder Lust in das Gesicht – er schießt piniengleich in die
+               Höhe; aber, o weh – wie wird es um die Autorität stehen, wenn er der kleinen Mutter
+               über den Kopf gewachsen ist? ... Der kleine Braune aber hebt sich auf die Zehen, legt
+               mir einen fingerdicken Strick und ein schwankes Weidengertchen quer über das
+               Manuskript und bittet mit seiner tiefen, treuherzigen Stimme: »Mama, eine Peitsche
+               machen!«</p>
+            <p>»Geht nur einstweilen in den Garten,« sagte ich, während meine Finger sich abmühen,
+               die fast unmögliche Peitsche herzustellen. »Ich muß erst noch etwas von Tante
+               Charlotte schreiben.«</p>
+            <p>»Von Paulchen auch?« – Auf meine Bejahung laufen sie wieder hinaus, die Treppe
+               hinunter.</p>
+            <p>Am Tag nach meiner Rückkehr aus der Heide verließ Charlotte das Claudiushaus, um in
+               ein Institut einzutreten; und kurze Zeit darauf ging der junge Helldorf nach England
+               – er hatte um Charlottens Hand gebeten und war zurückgewiesen worden. Mir gestand sie
+               schriftlich ein, sie habe ihn in ihrem Hochmut zu schlecht behandelt, und nun sie von
+               ihrer vermeintlichen Höhe <pb/> herabgestürzt sei, werde sie ihrer Neigung noch
+               weniger Raum geben. Wir litten nicht, daß sie nach vollendeten Studien in fremde
+               Abhängigkeit trat – sie kehrte auf unsere Bitten in das Claudiushaus zurück – eine
+               leidenschaftlich liebende Tante für unsere Kinder. Helldorfs Name kam nie über ihre
+               Lippen, obgleich sie, wie wir auch, viel im Hause des Oberlehrers verkehrte. Da kam
+               der Krieg im Jahre 66. Max Helldorf wurde einberufen und bei Königgrätz schwer
+               verwundet ... Eine Stunde nachher, als der Oberlehrer schreckensbleich die Nachricht
+               in unser Haus gebracht hatte, trat Charlotte im Reiseanzug in mein Zimmer. »Ich gehe
+               als Diakonissin, Lenore,« sagte sie fest. »Vertritt meine Handlungsweise beim Onkel –
+               ich kann nicht anders.«</p>
+            <p>Claudius war verreist – ich ließ sie mit tausend Freuden ziehen. Nach vier Wochen
+               unterschrieb sie einen langen, glückatmenden Bericht als Charlotte Helldorf. Der
+               Feldgeistliche hatte den Genesenden und seine treue Pflegerin eingesegnet ... Jetzt
+               wohnt das junge Paar in Dorotheenthal – Helldorf ist Prokurist der Firma Claudius
+               geworden – und seit »Paulchen« die großen Augen aufgeschlagen hat, begreift Charlotte
+               nicht mehr, wie sich die Menschen, die alle mit gleichem Rechte in die Welt treten,
+               in Hochmütige und Mißachtete zerspalten können.</p>
+            <p>Ach, jetzt höre ich feste Schritte die Treppe heraufkommen – die Schreibstube ist
+               geschlossen ... Ich schreibe weiter und thue, als hörte ich ihn nicht kommen, den
+               Mann, der mich mehr verzieht, als er verantworten kann. Ich lache ihn stets aus, wenn
+               er mich dann in seine Arme nimmt und über meinen Kopf hinweg wie entschuldigend zu
+               meinem Vater sagt: »Sie ist ja das älteste und unbesonnenste von meinen Kindern.« Und
+               mein Vater nickt mit seinem zerstreuten Lächeln dazu – er ist noch immer sehr
+               zerstreut, mein guter Papa, aber er wird von uns auf den Händen getragen, und sein
+               neuestes Werk macht Furore in der Gelehrtenwelt. Vielleicht sind seine Enkel daran
+               schuld – sie dürfen in der restaurierten Bibliothek rumoren, soviel sie Lust haben,
+               und klettern auf seinen Schoß, während er schreibt. Seine Stellung bei Hofe ist
+               angenehmer denn je, und die Prinzessin kommt oft in das Claudiushaus; aber über dem
+               Lotharbild hängt ein dunkler Vorhang, und die Tapetenthür in der Karolinenlust ist
+               zugemauert worden.</p>
+            <p>Jetzt ist der hohe, noch immer schlanke Mann leise eingetreten, <pb/> er biegt sich
+               über die Korbwanne und betrachtet sein schlafendes Töchterchen.</p>
+            <p>»Es ist erstaunlich, wie das Kind dir ähnlich sieht, Lenore.«</p>
+            <p>Ich springe stolz auf; denn er sagt das mit einem entzückten Blick ... Fort mit der
+               Feder und dem Manuskript! Sie haben keine Farben für den Sonnenblick des Glückes über
+               der Stirn des »Heideprinzeßchens«.</p>
+         </div>
+
       </body>
    </text>
 </TEI>

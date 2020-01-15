@@ -18,12 +18,30 @@
             <measure unit="words">322371</measure>
             <measure unit="pages">1737</measure>
          </extent>
-         <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-14"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!----></publicationStmt>
-         <sourceDesc><bibl type="digitalSource">
+         <publicationStmt>
+            <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European
+               Literary History" (CA16204)</publisher>
+            <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+            <date when="2019-11-14"/>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+            <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/>
+            <!---->
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="digitalSource">
                <title>Weisse Sclaven oder die Leiden des Volkes</title>
                <author>Willkomm, Ernst Adolf</author>
                <date>1845</date>
-            </bibl></sourceDesc>
+            </bibl>
+            <bibl type="print_source"><author>Ernst Willkomm</author>: <title>Weisse Sclaven oder
+                  die Leiden des Volkes</title>. Ein Roman von Ernst Willkomm, Theile 1–5,
+                  <pubPlace>Leipzig</pubPlace>: <publisher>Verlag von Chr. E. Kollmann</publisher>,
+                  <date>1845</date>.</bibl>
+            <bibl type="firstEdition">Erstdruck: <pubPlace>Leipzig</pubPlace>
+                  (<publisher>Kollmann</publisher>) <date>1845</date>. 5 Bände.</bibl>
+         </sourceDesc>
       </fileDesc>
       <encodingDesc n="eltec-0">
          <p/>
@@ -39,7 +57,8 @@
             <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/>
          </textDesc>
       </profileDesc>
-      <revisionDesc><change when="2019-11-14">Checked by releaseChecker script</change>
+      <revisionDesc>
+         <change when="2019-11-14">Checked by releaseChecker script</change>
          <change when="2019-01-28">Conversion from Kallimachos Kernkorpus</change>
       </revisionDesc>
    </teiHeader>
@@ -2103,7 +2122,7 @@
                <head>Zweites Buch</head>
                <div type="chapter">
                   <head>Erstes Kapitel.</head>
-                  
+
                   <p>Die letzte Spinte.</p>
                   <p>Ehe noch Adrian mit seinen Gästen das Haus am See erreichte, zeigte das Läuten
                      der Glocke auf der Fabrik die Mittagsstunde an, die zugleich diejenige Zeit
@@ -2333,212 +2352,206 @@
                      schnell hoch aufloheten, und setzte sich wieder an den Tisch.</p>
                   <p>Haideröschen begann:</p>
 
-                  
-                  
-                     <p>Das Mährchen von den andächtigen Sängern. Dies und die folgenden kurzen
-                        Mährchen sind wörtlich dem trefflichen Werke ›Volkslieder der Ober-und
-                        Niederlausitz‹ von Haupt und Schmaler herausgegeben entlehnt. </p>
-                     <p>»Es geschah aber, daß der Herr Christus und der heilige Petrus in der Welt
-                        herumwandelten. Und sie kamen in ein Dörflein, wo man in einem Hause so
-                        schön sang. Und der Herr Christus blieb stehen, um zuzuhören, der heilige
-                        Petrus ging aber immer weiter. Und als er ein Stückchen weiter gekommen war,
-                        sah er sich um und der Herr Christus stand noch dort. Der heilige Petrus
-                        ging aber immer weiter. Und als <pb/> er ein Stückchen weiter gekommen war,
-                        sah er sich wieder um und der Herr Christus stand noch immer da. Der heilige
-                        Petrus ging aber doch noch immer weiter. Und als er ein Stückchen weiter
-                        gekommen war, sah er sich noch einmal um und siehe – der Herr Christus stand
-                        immer noch da und hörte zu. Da kehrte der heilige Petrus auch um und kam
-                        wieder zu dem Hause und dort sang man so schöne Volkslieder. Da sie nun eine
-                        Zeitlang zugehört hatten, gingen sie beide weiter und kamen an ein anderes
-                        Haus, dort sang man auch. Und der heilige Petrus blieb stehen, um zu
-                        horchen, der Herr Christus ging aber immer weiter. Da ging der heilige
-                        Petrus auch weiter und wunderte sich gewaltig. Da sprach der Herr Christus:
-                        Was wunderst Du Dich so gewaltig? Und der heilige Petrus sprach: Ich wundere
-                        mich darüber so gewaltig, daß Du dort stehen bliebst, wo sie Volkslieder
-                        sangen, und hier vorbeigehst, wo sie geistliche Lieder singen. Da sprach der
-                        Herr Christus: Mein lieber heiliger Petrus, dort singen sie Volkslieder,
-                        aber mit aller möglichen Andacht, hier singen sie geistliche Lieder, aber
-                        ohne die geringste Andacht.«</p>
-                     <p>
-                        <pb/> Allgemeines Händeklatschen belohnte die glückliche Mährchenerzählerin,
-                        und als wollte man zum Dank für das rechtfertigende und kluge Wort Christi
-                        im Mährchen sich selbst eine Genugthuung zu Theil werden lassen, stimmten
-                        sogleich ein paar von den Burschen das Lied von der Brautwahl an, in welchem
-                        das reiche Mädchen dem armen klagt, daß sie ein und denselben Schatz mit ihr
-                        liebe, und sie bittet, ihr den Burschen gegen ihren eigenen Bruder
-                        abzutreten. Das Mädchen dankt jedoch für diesen Tausch und ihr Bursche, der
-                        die Pferde hütend das Gespräch mit angehört hat und in dessen Herzen sich
-                        doch die Lust nach reichem Besitz bei den Worten des wohlhabenden Mädchens
-                        regt, wird durch die Entgegnung seiner armen Geliebten schnell wieder zu
-                        seiner Pflicht zurückgeführt und verschmäht die arbeitsscheue Reiche, um der
-                        Armen Herz und Hand zu reichen.</p>
-                     <p>»Nun was Lustiges!« rief Clemens. »Das Lied war zwar hübsch und recht
-                        herzerquickend, wenn aber Haideröschen ihr Purpurglöckchen läutet, klingt's
-                        doch noch viel schöner. Was meint Ihr?«</p>
-                     <p>»Aber was recht Lustiges, das bitt' ich mir aus!« sagte nochmals der
-                        lebhafte Clemens.</p>
-                     <p>»Ach ja, Röschen muß uns noch eins ihrer <pb/> Mährchen erzählen!« riefen
-                        einige von den Mädchen.</p>
-                     <p>»Ich weiß aber nichts, das so lustig ist.«</p>
-                     <p>»Warum denn nicht? Besinne Dich nur!«</p>
-                     <p>»Das hilft nicht. Wenn mir's nicht gleich einfällt, so kommt auch beim
-                        Nachdenken nichts heraus.«</p>
-                     <p>»Du weißt aber doch ein lustiges Mährchen,« sagte ihre Nachbarin. »Gelt, Du
-                        hast's uns erzählt letzthin zur Vesper beim Flachsbrechen! Nun?«</p>
-                     <p>»Ich erinnere mich nicht.«</p>
-                     <p>»Es war eine Geschichte von einem armen Manne –«</p>
-                     <p>»Mit den vielen Kindern, meinst Du?« fiel Röschen ein.</p>
-                     <p>»Ganz recht. O bitte, erzähle sie uns!«</p>
-                     <p>»Ja die Geschichte ist recht lustig,« sagte Röschen schelmisch lächelnd. »Es
-                        kommt mir nur vor, als wolle sie jetzt, wo ich ein so ernsthaftes Mährchen
-                        vorgetragen habe, nicht recht passen.«</p>
-                     <p>»Sieh, Schelm!« rief Clemens, »bist Du <pb/> nicht gerade wie der heilige
-                        Petrus? Wäre doch der Herr Christus gleich bei der Hand, er würde Dir Dein
-                        Flachsköpfchen schön waschen! Unser Herrgott hat uns das Lachen in die Augen
-                        und in das ganze Gesicht gelegt, daß wir recht oft diesen fröhlichen Spiegel
-                        seinem Himmel zukehren sollen, damit er an ihm sehen kann, ob wir auch noch
-                        seinem Ebenbilde gleichen!«</p>
-                     <p>»Immer frischweg erzählt,« sagte Ehrhold ermunternd. »Es ist eben so wenig
-                        eine Sünde, als wenn Einer bei der Litanei niest und sein Nachbar ruft ihm
-                        Gott helf! zu.«</p>
-                     <p>Röschen, noch blühender aussehend, wie gewöhnlich, blinzelte mit ihren
-                        strahlenden Augen Clemens zu und begann abermals:</p>
 
-                  
-                  
-                     <p>Die Geschichte vom armen Manne, der die vielen Kinder hatte.</p>
-                     <p>»Es war aber einmal ein Vater und eine Mutter, die hatten eine große Schaar
-                        Kinder. Da fuhr der Vater einmal in die Stadt und kaufte ein Viertel
-                        Eicheln. Als er nach Hause kam, gab er jedem Kinde eine, und da blieb noch
-                        eine übrig, die warf er hinter den Ofen und daraus erwuchs eine Eiche bis in
-                        den Himmel. <pb/> Darauf sagte der Vater, daß er daran hinaufsteigen wolle.
-                        Die Mutter sagte: Meinetwegen steige hinauf! Er kam hinaufgestiegen und
-                        klopfte an. Gott der Herr sprach zu St. Petrus: Geh', sieh, wer dort klopft.
-                        Er ging und sagte: Wer ist da? Der arme Mann sagte: Ich, der arme Mann, der
-                        die vielen Kinder hat. Sanct Petrus sagte: der arme Mann, der die vielen
-                        Kinder hat. Gott der Herr sprach zu St. Petrus: Im Kämmerlein sind zwei Laib
-                        Brod, gib sie ihm. Der arme Mann stieg fröhlich herab und rief: Frau, mach'
-                        auf, ich habe es gut getroffen, ich bringe zwei Laib Brod. Sie verzehrten
-                        das Brod und er sagte: Frau, ich möchte dort wieder hinaufsteigen. Sie
-                        sagte: Meinetwegen steige hinauf. Er kam dort wieder hinaufgestiegen und
-                        klopfte an. Gott der Herr sprach zu St. Petrus: Geh', sieh, wer dort wieder
-                        klopft. Er ging und sagte: Wer ist da? Der arme Mann antwortete: Ich, der
-                        arme Mann, der die vielen Kinder hat. St. Petrus sagte: Der arme Mann, der
-                        die vielen Kinder hat. Gott der Herr sprach zu St. Petrus: Im Kämmerlein
-                        steht ein Korb mit Semmeln, gib sie ihm. Der arme Mann der stieg wieder
-                        fröhlich herab <pb/> und rief: Frau, mach' auf, ich habe es wieder gut
-                        getroffen, ich bringe einen Korb mit Semmeln. Sie verzehrten die Semmeln und
-                        er sagte: Frau, ich möchte dort wieder hinaufsteigen. Sie sagte: Meinetwegen
-                        steige hinauf. Er kam dort hinaufgestiegen und klopfte an. Gott der Herr
-                        sprach zu St. Petrus: Geh, sieh, wer dort schon wieder an die Thür donnert.
-                        Er ging und sagte: Wer ist da? Der arme Mann antwortete: Ich, der arme Mann,
-                        der die vielen Kinder hat. St. Petrus sagte: Der arme Mann, der die vielen
-                        Kinder hat. Gott der Herr sprach zu St. Petrus: Hinter der Thür steht ein
-                        großer Stock, nimm den und haue ihn doch so durch, daß er von einem Aste auf
-                        den andern fliegt. St. Petrus ging hin und hieb ihn durch. Der arme Mann
-                        stieg eilig herab und rief: Frau, mach' auf, mach' auf, ich bin dort sehr
-                        übel angekommen, ich bringe sehr große Prügel mit –«</p>
-                     <p>Während die jungen Mädchen noch über die humoristische Bestrafung des
-                        Unersättlichen lachten und die Burschen sich nicht genug in Lobeserhebungen
-                        über das prächtige Erzählertalent Röschens erschöpfen konnten, klopfte es
-                        einigemal an den halbgeschlossenen Fensterladen, erst <pb/> leise, dann laut
-                        und immer lauter. Ehrhold bemerkte es zuerst und gebot der summenden
-                        Spinngesellschaft Ruhe. Sogleich erscholl das Klopfen von neuem und diesmal
-                        so stark, daß die hölzerne Balkenwand schütterte.</p>
-                     <p>»Nun, nun, reißt mir nur nichts Haus ein!« sagte der Wirth aufstehend und so
-                        laut, daß der außen so heftig Anklopfende seine Worte vernehmen konnte. »Ihr
-                        hört ja doch, daß die Spinte beisammen ist und unter Scherz und Lust
-                        begraben wird, werdet's also erwarten! Was soll's denn?«</p>
-                     <p>»Das Krummholz ist da,« erwiederte von draußen die Ehrhold wohlbekannte
-                        Stimme des Nachbars.</p>
-                     <p>»Schon wieder? Was hat denn der Richter zu melden?« versetzte Ehrhold, den
-                        Schieber am Fenster öffnend und den hölzernen Laden vollends aufstoßend. Ein
-                        Mann in Pelzmütze und weißgrauem Schaafpelz reichte ihm ein krummes, fast
-                        wie ein Hammer gestaltetes Holz, an das ein Papier genagelt war, welches
-                        eine Einladung oder einen Befehl der Obrigkeit enthielt, der auf diese Weise
-                        den einzelnen Hauswirthen zugeschickt und mitgerheilt ward.</p>
-                     <p>
-                        <pb/> »Es ist von wegen der Hofemädchen,« sagte der Nachbar. »Der Herr will
-                        sie über acht Tage beschauen und sich die kräftigsten und die ihm am meisten
-                        gefallen aussuchen. Ihr sollt deshalb, wie alle Andern, übermorgen in der
-                        Dämmerung in die Schenke kommen und da Meldung thun, welche und wie viele
-                        Mädchen Ihr zu stellen habt. Weiter steht nichts auf dem Papiere, und wollt
-                        Ihr Eure Gäste nicht gern verlassen, so mach' ich mir schon den Spaziergang
-                        bis zum nächsten Nachbar.«</p>
-                     <p>»Vielen Dank, Nachbar, und es wird mir lieb sein,« erwiederte Ehrhold. »Was
-                        aber für dieses Jahr den Mägdedienst bei Hofe anbelangt, so habe ich Niemand
-                        zu stellen. Ihr wißt's ja.«</p>
-                     <p>»Ihr kommt aber doch in die Schenke, Nachbar?«</p>
-                     <p>»Ich werd' schon da sein und meinen Krug Bier trinken.«</p>
-                     <p>»Gute Nacht denn und fröhliche Spinte! Ich denke, es wird diese Nacht noch
-                        ein Schneegestöber geben. Ihr könnt immer vor Schlafengehen die Bodenfenster
-                        schließen, daß Euch der schöne Winterwaizen nicht verweht wird.«</p>
-                     <p>»Gute Nacht!« sagte Ehrhold, schloß Laden <pb/> und Fenster und setzte sich
-                        wieder zu seinen Gästen.</p>
-                     <p>»Vater Ehrhold,« nahm Clemens das Wort, ohne Zweifel durch Röschen dazu
-                        veranlaßt, die ihn während des Wirthes Gespräch mit dem Nachbar zu sich
-                        gerufen und heimlich mit ihm geflüstert hatte, »wir hätten Lust, wie wir da
-                        beisammen sitzen, künftigen Sonntag über drei Wochen nach Königshain zu
-                        gehen. Ihr seid doch mit dabei?«</p>
-                     <p>»Was habt Ihr dort vor?«</p>
-                     <p>»Ach, da ist das Todaustreiben, Vetter,« fiel Röschen ein, vor Freude in die
-                        Hände klatschend, »und das möcht' ich gar so gern einmal mit ansehen! Es
-                        gehen viele hin, auch der Vater wird vermuthlich dort sein, da er um diese
-                        Zeit für die gnädigste Herrschaft eine Lieferung Getraide nach Görlitz
-                        führen muß. Ich will auch recht fromm sein die Zeit her und für Dich und die
-                        Muhme so schöne Käse machen, daß Du auf Ostern beim Kuchenbacken Deine
-                        Freude daran haben sollst! Geh nur mit!«</p>
-                     <p>»Wenn den Andern so viel daran liegt, wie Dir, so werd' ich wohl nachgeben
-                        müssen. Zwar hab' ich mir sagen lassen, es sei weiter <pb/> nichts als ein
-                        dummer Spectakel, bei dem viel müßiges Volk zusammenlaufe, Abends die
-                        Schenken auskehre und sich auf dem Heimwege die Jacken tüchtig ausklopfe,
-                        indeß – Dir zu Liebe –«</p>
-                     <p>»Nun also mir zu Liebe, Vetter, und meinem guten Vater, der sich um das
-                        Unglück meines Bruders so sehr grämt!«</p>
-                     <p>»Kind, Kind,« versetzte Ehrhold, »mit Deinen frommen blauen Augen ziehst Du
-                        einem das Herz aus der Brust! Was will ich thun? Ich muß klein zugeben, um
-                        nur den lieben hellen Himmel in Deinem Köpfchen nicht zu trüben. Ganz
-                        umsonst aber will ich mein Versprechen doch auch nicht geben. Gewähr um
-                        Gewähr! Ich begleite Dich und die ganze Spinngesellschaft nach Königshain
-                        für ein Mährchen und zwar ein frommes, das Du uns zum Schlusse erzählen
-                        sollst.«</p>
-                     <p>»Hurrah, ho!« riefen die jungen Burschen und schwenkten ihre Mützen, und die
-                        Mädchen fielen plaudernd über einander her, als hätten sie sich die
-                        wichtigsten Dinge mitzutheilen. Röschen aber nahm ihre vorige
-                        hausmütterliche bequeme Stellung wieder ein und sagte mit der <pb/>
-                        freundlichsten Miene von der Welt: Zum Schluß der Spinte das Mährchen
-                        von</p>
 
-                  
-                  
-                     <p>Diter Bernhard.</p>
-                     <p>»Es war aber einmal ein vornehmer, frommer Herr mit Namen Diter Bernhard, so
-                        fromm, daß er seine Kleidung in die Sonnenstäubchen hängen konnte, ohne zu
-                        fürchten, daß sie auf die Erde fielen. Er ging jeden Sonntag in die Kirche
-                        und erblickte dort einst den Teufel hinter dem Altare sitzen, wie er die
-                        Namen derjenigen auf eine Kuhhaut schrieb, welche in der Kirche schliefen.
-                        Der Teufel hatte aber die Haut ganz und gar vollgeschrieben und fing sie
-                        daher an mit den Zähnen auszudehnen, damit er noch mehr aufschreiben könnte.
-                        Sie entschlüpfte ihm aber auf einmal und er schlug mit dem Kopfe so an die
-                        Wand hinter sich, daß ihm ein Zahn ausfiel. Hierbei konnte sich Diter
-                        Bernhard des Lachens nicht enthalten. Weil er aber in der Kirche gelacht
-                        hatte, so rechnete ihm dies der liebe Gott als eine große Sünde an. Als
-                        Diter Bernhard nach Hause gekommen war, wollte er seine Kleidung wieder in
-                        die Sonnenstäubchen hängen, aber diese hielten sie nicht mehr und sie <pb/>
-                        fiel dort zur Erde. Darüber erzürnte er sich und wollte dem lieben Gott auch
-                        etwas zum Possen thun. Und er nahm Brosamen und warf sie in seine Stiefel
-                        und schritt einher, indem er so Gottes Gabe mit Füßen trat. Deswegen
-                        entführte ihn bald ein Wagen in die Luft, und er fährt dort seiner Bosheit
-                        wegen noch bis zum heutigen Tage umher.«</p>
-                     <p>»Besten Dank, mein liebes Röschen,« sagte Ehrhold. »Ich erkläre hiermit die
-                        Spinte für geschlossen, damit nicht Einer oder der Andere auf schlechte
-                        Gedanken komme, sondern ein Jeglicher als rechtgläubiger Christ den Heimweg
-                        antrete. Gute Nacht, meine lieben, ehrenwerthen Gäste!«</p>
-                     <p>Ehrhold gab das Zeichen zum Aufbruch, Alle reichten ihm und seiner Frau beim
-                        Abschiede die Hand, bedankten sich für gute Bewirthung und heitere
-                        Unterhaltung, und verließen, die Mädchen schirmend umgebend, das
-                        Bauernhaus.</p>
-                  
+                  <p>Das Mährchen von den andächtigen Sängern. Dies und die folgenden kurzen
+                     Mährchen sind wörtlich dem trefflichen Werke ›Volkslieder der Ober-und
+                     Niederlausitz‹ von Haupt und Schmaler herausgegeben entlehnt. </p>
+                  <p>»Es geschah aber, daß der Herr Christus und der heilige Petrus in der Welt
+                     herumwandelten. Und sie kamen in ein Dörflein, wo man in einem Hause so schön
+                     sang. Und der Herr Christus blieb stehen, um zuzuhören, der heilige Petrus ging
+                     aber immer weiter. Und als er ein Stückchen weiter gekommen war, sah er sich um
+                     und der Herr Christus stand noch dort. Der heilige Petrus ging aber immer
+                     weiter. Und als <pb/> er ein Stückchen weiter gekommen war, sah er sich wieder
+                     um und der Herr Christus stand noch immer da. Der heilige Petrus ging aber doch
+                     noch immer weiter. Und als er ein Stückchen weiter gekommen war, sah er sich
+                     noch einmal um und siehe – der Herr Christus stand immer noch da und hörte zu.
+                     Da kehrte der heilige Petrus auch um und kam wieder zu dem Hause und dort sang
+                     man so schöne Volkslieder. Da sie nun eine Zeitlang zugehört hatten, gingen sie
+                     beide weiter und kamen an ein anderes Haus, dort sang man auch. Und der heilige
+                     Petrus blieb stehen, um zu horchen, der Herr Christus ging aber immer weiter.
+                     Da ging der heilige Petrus auch weiter und wunderte sich gewaltig. Da sprach
+                     der Herr Christus: Was wunderst Du Dich so gewaltig? Und der heilige Petrus
+                     sprach: Ich wundere mich darüber so gewaltig, daß Du dort stehen bliebst, wo
+                     sie Volkslieder sangen, und hier vorbeigehst, wo sie geistliche Lieder singen.
+                     Da sprach der Herr Christus: Mein lieber heiliger Petrus, dort singen sie
+                     Volkslieder, aber mit aller möglichen Andacht, hier singen sie geistliche
+                     Lieder, aber ohne die geringste Andacht.«</p>
+                  <p>
+                     <pb/> Allgemeines Händeklatschen belohnte die glückliche Mährchenerzählerin,
+                     und als wollte man zum Dank für das rechtfertigende und kluge Wort Christi im
+                     Mährchen sich selbst eine Genugthuung zu Theil werden lassen, stimmten sogleich
+                     ein paar von den Burschen das Lied von der Brautwahl an, in welchem das reiche
+                     Mädchen dem armen klagt, daß sie ein und denselben Schatz mit ihr liebe, und
+                     sie bittet, ihr den Burschen gegen ihren eigenen Bruder abzutreten. Das Mädchen
+                     dankt jedoch für diesen Tausch und ihr Bursche, der die Pferde hütend das
+                     Gespräch mit angehört hat und in dessen Herzen sich doch die Lust nach reichem
+                     Besitz bei den Worten des wohlhabenden Mädchens regt, wird durch die Entgegnung
+                     seiner armen Geliebten schnell wieder zu seiner Pflicht zurückgeführt und
+                     verschmäht die arbeitsscheue Reiche, um der Armen Herz und Hand zu reichen.</p>
+                  <p>»Nun was Lustiges!« rief Clemens. »Das Lied war zwar hübsch und recht
+                     herzerquickend, wenn aber Haideröschen ihr Purpurglöckchen läutet, klingt's
+                     doch noch viel schöner. Was meint Ihr?«</p>
+                  <p>»Aber was recht Lustiges, das bitt' ich mir aus!« sagte nochmals der lebhafte
+                     Clemens.</p>
+                  <p>»Ach ja, Röschen muß uns noch eins ihrer <pb/> Mährchen erzählen!« riefen
+                     einige von den Mädchen.</p>
+                  <p>»Ich weiß aber nichts, das so lustig ist.«</p>
+                  <p>»Warum denn nicht? Besinne Dich nur!«</p>
+                  <p>»Das hilft nicht. Wenn mir's nicht gleich einfällt, so kommt auch beim
+                     Nachdenken nichts heraus.«</p>
+                  <p>»Du weißt aber doch ein lustiges Mährchen,« sagte ihre Nachbarin. »Gelt, Du
+                     hast's uns erzählt letzthin zur Vesper beim Flachsbrechen! Nun?«</p>
+                  <p>»Ich erinnere mich nicht.«</p>
+                  <p>»Es war eine Geschichte von einem armen Manne –«</p>
+                  <p>»Mit den vielen Kindern, meinst Du?« fiel Röschen ein.</p>
+                  <p>»Ganz recht. O bitte, erzähle sie uns!«</p>
+                  <p>»Ja die Geschichte ist recht lustig,« sagte Röschen schelmisch lächelnd. »Es
+                     kommt mir nur vor, als wolle sie jetzt, wo ich ein so ernsthaftes Mährchen
+                     vorgetragen habe, nicht recht passen.«</p>
+                  <p>»Sieh, Schelm!« rief Clemens, »bist Du <pb/> nicht gerade wie der heilige
+                     Petrus? Wäre doch der Herr Christus gleich bei der Hand, er würde Dir Dein
+                     Flachsköpfchen schön waschen! Unser Herrgott hat uns das Lachen in die Augen
+                     und in das ganze Gesicht gelegt, daß wir recht oft diesen fröhlichen Spiegel
+                     seinem Himmel zukehren sollen, damit er an ihm sehen kann, ob wir auch noch
+                     seinem Ebenbilde gleichen!«</p>
+                  <p>»Immer frischweg erzählt,« sagte Ehrhold ermunternd. »Es ist eben so wenig eine
+                     Sünde, als wenn Einer bei der Litanei niest und sein Nachbar ruft ihm Gott
+                     helf! zu.«</p>
+                  <p>Röschen, noch blühender aussehend, wie gewöhnlich, blinzelte mit ihren
+                     strahlenden Augen Clemens zu und begann abermals:</p>
+
+
+
+                  <p>Die Geschichte vom armen Manne, der die vielen Kinder hatte.</p>
+                  <p>»Es war aber einmal ein Vater und eine Mutter, die hatten eine große Schaar
+                     Kinder. Da fuhr der Vater einmal in die Stadt und kaufte ein Viertel Eicheln.
+                     Als er nach Hause kam, gab er jedem Kinde eine, und da blieb noch eine übrig,
+                     die warf er hinter den Ofen und daraus erwuchs eine Eiche bis in den Himmel.
+                     <pb/> Darauf sagte der Vater, daß er daran hinaufsteigen wolle. Die Mutter
+                     sagte: Meinetwegen steige hinauf! Er kam hinaufgestiegen und klopfte an. Gott
+                     der Herr sprach zu St. Petrus: Geh', sieh, wer dort klopft. Er ging und sagte:
+                     Wer ist da? Der arme Mann sagte: Ich, der arme Mann, der die vielen Kinder hat.
+                     Sanct Petrus sagte: der arme Mann, der die vielen Kinder hat. Gott der Herr
+                     sprach zu St. Petrus: Im Kämmerlein sind zwei Laib Brod, gib sie ihm. Der arme
+                     Mann stieg fröhlich herab und rief: Frau, mach' auf, ich habe es gut getroffen,
+                     ich bringe zwei Laib Brod. Sie verzehrten das Brod und er sagte: Frau, ich
+                     möchte dort wieder hinaufsteigen. Sie sagte: Meinetwegen steige hinauf. Er kam
+                     dort wieder hinaufgestiegen und klopfte an. Gott der Herr sprach zu St. Petrus:
+                     Geh', sieh, wer dort wieder klopft. Er ging und sagte: Wer ist da? Der arme
+                     Mann antwortete: Ich, der arme Mann, der die vielen Kinder hat. St. Petrus
+                     sagte: Der arme Mann, der die vielen Kinder hat. Gott der Herr sprach zu St.
+                     Petrus: Im Kämmerlein steht ein Korb mit Semmeln, gib sie ihm. Der arme Mann
+                     der stieg wieder fröhlich herab <pb/> und rief: Frau, mach' auf, ich habe es
+                     wieder gut getroffen, ich bringe einen Korb mit Semmeln. Sie verzehrten die
+                     Semmeln und er sagte: Frau, ich möchte dort wieder hinaufsteigen. Sie sagte:
+                     Meinetwegen steige hinauf. Er kam dort hinaufgestiegen und klopfte an. Gott der
+                     Herr sprach zu St. Petrus: Geh, sieh, wer dort schon wieder an die Thür
+                     donnert. Er ging und sagte: Wer ist da? Der arme Mann antwortete: Ich, der arme
+                     Mann, der die vielen Kinder hat. St. Petrus sagte: Der arme Mann, der die
+                     vielen Kinder hat. Gott der Herr sprach zu St. Petrus: Hinter der Thür steht
+                     ein großer Stock, nimm den und haue ihn doch so durch, daß er von einem Aste
+                     auf den andern fliegt. St. Petrus ging hin und hieb ihn durch. Der arme Mann
+                     stieg eilig herab und rief: Frau, mach' auf, mach' auf, ich bin dort sehr übel
+                     angekommen, ich bringe sehr große Prügel mit –«</p>
+                  <p>Während die jungen Mädchen noch über die humoristische Bestrafung des
+                     Unersättlichen lachten und die Burschen sich nicht genug in Lobeserhebungen
+                     über das prächtige Erzählertalent Röschens erschöpfen konnten, klopfte es
+                     einigemal an den halbgeschlossenen Fensterladen, erst <pb/> leise, dann laut
+                     und immer lauter. Ehrhold bemerkte es zuerst und gebot der summenden
+                     Spinngesellschaft Ruhe. Sogleich erscholl das Klopfen von neuem und diesmal so
+                     stark, daß die hölzerne Balkenwand schütterte.</p>
+                  <p>»Nun, nun, reißt mir nur nichts Haus ein!« sagte der Wirth aufstehend und so
+                     laut, daß der außen so heftig Anklopfende seine Worte vernehmen konnte. »Ihr
+                     hört ja doch, daß die Spinte beisammen ist und unter Scherz und Lust begraben
+                     wird, werdet's also erwarten! Was soll's denn?«</p>
+                  <p>»Das Krummholz ist da,« erwiederte von draußen die Ehrhold wohlbekannte Stimme
+                     des Nachbars.</p>
+                  <p>»Schon wieder? Was hat denn der Richter zu melden?« versetzte Ehrhold, den
+                     Schieber am Fenster öffnend und den hölzernen Laden vollends aufstoßend. Ein
+                     Mann in Pelzmütze und weißgrauem Schaafpelz reichte ihm ein krummes, fast wie
+                     ein Hammer gestaltetes Holz, an das ein Papier genagelt war, welches eine
+                     Einladung oder einen Befehl der Obrigkeit enthielt, der auf diese Weise den
+                     einzelnen Hauswirthen zugeschickt und mitgerheilt ward.</p>
+                  <p>
+                     <pb/> »Es ist von wegen der Hofemädchen,« sagte der Nachbar. »Der Herr will sie
+                     über acht Tage beschauen und sich die kräftigsten und die ihm am meisten
+                     gefallen aussuchen. Ihr sollt deshalb, wie alle Andern, übermorgen in der
+                     Dämmerung in die Schenke kommen und da Meldung thun, welche und wie viele
+                     Mädchen Ihr zu stellen habt. Weiter steht nichts auf dem Papiere, und wollt Ihr
+                     Eure Gäste nicht gern verlassen, so mach' ich mir schon den Spaziergang bis zum
+                     nächsten Nachbar.«</p>
+                  <p>»Vielen Dank, Nachbar, und es wird mir lieb sein,« erwiederte Ehrhold. »Was
+                     aber für dieses Jahr den Mägdedienst bei Hofe anbelangt, so habe ich Niemand zu
+                     stellen. Ihr wißt's ja.«</p>
+                  <p>»Ihr kommt aber doch in die Schenke, Nachbar?«</p>
+                  <p>»Ich werd' schon da sein und meinen Krug Bier trinken.«</p>
+                  <p>»Gute Nacht denn und fröhliche Spinte! Ich denke, es wird diese Nacht noch ein
+                     Schneegestöber geben. Ihr könnt immer vor Schlafengehen die Bodenfenster
+                     schließen, daß Euch der schöne Winterwaizen nicht verweht wird.«</p>
+                  <p>»Gute Nacht!« sagte Ehrhold, schloß Laden <pb/> und Fenster und setzte sich
+                     wieder zu seinen Gästen.</p>
+                  <p>»Vater Ehrhold,« nahm Clemens das Wort, ohne Zweifel durch Röschen dazu
+                     veranlaßt, die ihn während des Wirthes Gespräch mit dem Nachbar zu sich gerufen
+                     und heimlich mit ihm geflüstert hatte, »wir hätten Lust, wie wir da beisammen
+                     sitzen, künftigen Sonntag über drei Wochen nach Königshain zu gehen. Ihr seid
+                     doch mit dabei?«</p>
+                  <p>»Was habt Ihr dort vor?«</p>
+                  <p>»Ach, da ist das Todaustreiben, Vetter,« fiel Röschen ein, vor Freude in die
+                     Hände klatschend, »und das möcht' ich gar so gern einmal mit ansehen! Es gehen
+                     viele hin, auch der Vater wird vermuthlich dort sein, da er um diese Zeit für
+                     die gnädigste Herrschaft eine Lieferung Getraide nach Görlitz führen muß. Ich
+                     will auch recht fromm sein die Zeit her und für Dich und die Muhme so schöne
+                     Käse machen, daß Du auf Ostern beim Kuchenbacken Deine Freude daran haben
+                     sollst! Geh nur mit!«</p>
+                  <p>»Wenn den Andern so viel daran liegt, wie Dir, so werd' ich wohl nachgeben
+                     müssen. Zwar hab' ich mir sagen lassen, es sei weiter <pb/> nichts als ein
+                     dummer Spectakel, bei dem viel müßiges Volk zusammenlaufe, Abends die Schenken
+                     auskehre und sich auf dem Heimwege die Jacken tüchtig ausklopfe, indeß – Dir zu
+                     Liebe –«</p>
+                  <p>»Nun also mir zu Liebe, Vetter, und meinem guten Vater, der sich um das Unglück
+                     meines Bruders so sehr grämt!«</p>
+                  <p>»Kind, Kind,« versetzte Ehrhold, »mit Deinen frommen blauen Augen ziehst Du
+                     einem das Herz aus der Brust! Was will ich thun? Ich muß klein zugeben, um nur
+                     den lieben hellen Himmel in Deinem Köpfchen nicht zu trüben. Ganz umsonst aber
+                     will ich mein Versprechen doch auch nicht geben. Gewähr um Gewähr! Ich begleite
+                     Dich und die ganze Spinngesellschaft nach Königshain für ein Mährchen und zwar
+                     ein frommes, das Du uns zum Schlusse erzählen sollst.«</p>
+                  <p>»Hurrah, ho!« riefen die jungen Burschen und schwenkten ihre Mützen, und die
+                     Mädchen fielen plaudernd über einander her, als hätten sie sich die wichtigsten
+                     Dinge mitzutheilen. Röschen aber nahm ihre vorige hausmütterliche bequeme
+                     Stellung wieder ein und sagte mit der <pb/> freundlichsten Miene von der Welt:
+                     Zum Schluß der Spinte das Mährchen von</p>
+
+
+
+                  <p>Diter Bernhard.</p>
+                  <p>»Es war aber einmal ein vornehmer, frommer Herr mit Namen Diter Bernhard, so
+                     fromm, daß er seine Kleidung in die Sonnenstäubchen hängen konnte, ohne zu
+                     fürchten, daß sie auf die Erde fielen. Er ging jeden Sonntag in die Kirche und
+                     erblickte dort einst den Teufel hinter dem Altare sitzen, wie er die Namen
+                     derjenigen auf eine Kuhhaut schrieb, welche in der Kirche schliefen. Der Teufel
+                     hatte aber die Haut ganz und gar vollgeschrieben und fing sie daher an mit den
+                     Zähnen auszudehnen, damit er noch mehr aufschreiben könnte. Sie entschlüpfte
+                     ihm aber auf einmal und er schlug mit dem Kopfe so an die Wand hinter sich, daß
+                     ihm ein Zahn ausfiel. Hierbei konnte sich Diter Bernhard des Lachens nicht
+                     enthalten. Weil er aber in der Kirche gelacht hatte, so rechnete ihm dies der
+                     liebe Gott als eine große Sünde an. Als Diter Bernhard nach Hause gekommen war,
+                     wollte er seine Kleidung wieder in die Sonnenstäubchen hängen, aber diese
+                     hielten sie nicht mehr und sie <pb/> fiel dort zur Erde. Darüber erzürnte er
+                     sich und wollte dem lieben Gott auch etwas zum Possen thun. Und er nahm
+                     Brosamen und warf sie in seine Stiefel und schritt einher, indem er so Gottes
+                     Gabe mit Füßen trat. Deswegen entführte ihn bald ein Wagen in die Luft, und er
+                     fährt dort seiner Bosheit wegen noch bis zum heutigen Tage umher.«</p>
+                  <p>»Besten Dank, mein liebes Röschen,« sagte Ehrhold. »Ich erkläre hiermit die
+                     Spinte für geschlossen, damit nicht Einer oder der Andere auf schlechte
+                     Gedanken komme, sondern ein Jeglicher als rechtgläubiger Christ den Heimweg
+                     antrete. Gute Nacht, meine lieben, ehrenwerthen Gäste!«</p>
+                  <p>Ehrhold gab das Zeichen zum Aufbruch, Alle reichten ihm und seiner Frau beim
+                     Abschiede die Hand, bedankten sich für gute Bewirthung und heitere
+                     Unterhaltung, und verließen, die Mädchen schirmend umgebend, das
+                     Bauernhaus.</p>
+
                </div>
                <div type="chapter">
                   <head>
@@ -26362,11 +26375,11 @@
                      Flämmchen der Lampe brannte düster und das Silberlicht des Vollmonds wob um das
                      Greisenhaupt Traugotts einen verklärenden Heiligenschein.</p>
                </div>
-               
-                    <div type="chapter">
-                       <head>
-                          <pb/> Zehntes Kapitel.</head>
-                       
+
+               <div type="chapter">
+                  <head>
+                     <pb/> Zehntes Kapitel.</head>
+
                   <head>Der letzte Geburtstag.</head>
                   <p>Der Maulwurffänger hatte seinen Sonntagsrock angezogen, den wohl gebürsteten
                      dreieckigen Hut aufgesetzt und stand wartend mitten in der Wohnstube seines
@@ -26659,129 +26672,129 @@
                      sich Marie des Gespräches bereits wieder bemächtigt und trug den aufmerksam
                      Lauschenden folgende mährchenhafte altwendische Erzählung vor.</p>
 
-                  
-                  
-                     <p>Lipskulijans Bett.</p>
-                     <p>»Es war aber ein armer Mann, der sich fast nicht mehr ernähren konnte und
-                        doch hatte man ihm noch große Abgaben auf sein Haus gelegt. Und er mußte
-                        auf's Stöcke-Roden gehen. Und als er eines Tages auch sehr traurig in die
-                        Haide ging, begegnete ihm ein Männchen, das ihn fragte: Weshalb bist Du so
-                        traurig? Der arme Mann antwortete ihm: Du kannst mir auch nicht helfen. –
-                        Wer weiß? sagte das Männchen, sage mir es, so will ich Dir helfen.«</p>
-                     <p>Der arme Mann erzählte ihm, daß er in großer Noth sei und daß es ihm
-                        unmöglich wäre, die Steuern zu geben. – Darauf sagte das Männchen: Wenn Du
-                        mir das versprichst, wovon Du in Deinem Hause nichts weißt, so will ich Dir
-                        helfen. – Der arme Mann gedachte bei <pb/> sich: Das kannst Du, Du weißt ja
-                        Alles, waß Du in Deinem Hause hast. – Hierauf brachte das Männchen ein Stück
-                        Papier hervor, und auf dieses hat sich der arme Mann mit seinem Blut
-                        unterschreiben müssen.</p>
-                     <p>Als dies geschehen war, sagte das Männchen: Nach sechszehn Jahren bringe mir
-                        das, was Du mir versprochen hast, auf dieselbe Stelle. Und es gab ihm eine
-                        große Summe Geld. Und nach einiger Zeit gebar seine Frau einen Sohn, und er
-                        erinnerte sich, was sich der Teufel bedungen hatte, und war sehr
-                        traurig.</p>
-                     <p>Der Knabe wuchs aber, und lernte sehr fleißig, so daß ihn der Vater studiren
-                        ließ, und als er funfzehn Jahr alt war, da hatte er schon ausstudirt. Und
-                        weil sich die Zeit näherte, wo er an das Männchen ausgeliefert werden
-                        sollte, so grämte sich sein Vater je länger je mehr. Er sagte daher: Was
-                        seid Ihr so traurig, lieber Vater? – Ach, antwortete ihm dieser, ich habe
-                        Dich schon ehe als Du geboren wurdest, dem Teufel versprochen und hab' ihm
-                        eine Schrift darüber gegeben, und erzählte ihm die ganze Sache. Er aber
-                        sagte: Keine Sorge! Ich werde mir selbst diese Schrift holen. –</p>
-                     <p>
-                        <pb/> Und er nahm seinen Degen und etwas Weihwasser und begab sich auf den
-                        Weg. Er kam aber in einen so großen Wald, daß ihn die Nacht darin übereilte
-                        und er sich zuletzt verirrte. Als er aber lange umhergegangen war, erblickte
-                        er Licht und dann ein Häuschen. Und als er hinein trat, war dort Niemand
-                        weiter, als eine alte Frau. Diese bat er um Herberge, aber sie antwortete
-                        ihm hierauf, er solle seines Weges gehen, wenn ihm sein Leben lieb wäre,
-                        denn da wohne ein großer Räuber. Er sagte aber, daß er sich nicht fürchte,
-                        und blieb dort.</p>
-                     <p>Nach einer Weile kam auch der Räuber und frug ihn, wohin er gehe. – Da that
-                        ihm der Räuber nichts, sondern gab ihm zu essen und zu trinken und bat ihn
-                        des andern Tages am Morgen, er möge doch so gut sein und den Teufel fragen,
-                        was Lipskulijan zu erwarten habe? –</p>
-                     <p>Und als er in die Hölle gekommen war, war dort grade kein Anderer, als der
-                        oberste Teufel. Der wußte aber von der Schrift nichts und sagte, das ginge
-                        ihn nichts an und er solle ihn in Frieden lassen. Da besprengte er ihn mit
-                        Weihwasser und der oberste Teufel fing so an zu <pb/> brüllen, daß die
-                        andern in Hausen hereingestürzt kamen. Er befragte sie auch nach der
-                        Schrift, aber es hatte sie Keiner. Da besprengte er den obersten Teufel
-                        wieder mit Weihwasser und er fing an noch viel mehr zu brüllen, so daß ihrer
-                        noch viel mehr hereingestürzt kamen. – Er befragte sie wieder wegen der
-                        Schrift, aber es hatte sie Keiner. Da besprengte er den obersten Teufel noch
-                        einmal und er fing an so schrecklich zu brüllen, daß ihrer von allen Seiten
-                        hereingestürzt kamen, und zuletzt kam auch ein Lahmer angehinkt und der
-                        hatte die Schrift. Der wollte sie aber nicht geben.</p>
-                     <p>Da sagte der oberste Teufel: Werft ihn auf Lipskulijans Bett! – Da gab sie
-                        der lahme Teufel. Und als er die Schrift erhalten hatte, frug er, was für
-                        ein Bett Lipskulijan bekommen würde? Und sie zeigten es ihm, und es war von
-                        der Art, daß, als er seinem Degen hineinsteckte und ihn wieder herauszog,
-                        die Klinge, so weit sie in das Bett hineingestoßen worden war, zerschmolzen
-                        war, denn das Bett bestand aus lauter glühendem Eisen.–</p>
-                     <p>Hierauf ging er wieder nach Hause und, <pb/> kam unter wegs zum Lipskulijan.
-                        Der frug ihn ob er wüßte, was ihn erwartete? Und er erzählte ihm Alles. Da
-                        erschrak Lipskulijan und erkundigte sich, ob er doch noch nicht könnte
-                        begnadigt werden? Und er antwortete ihm: Gott ist jedem Sünder gnädig, wenn
-                        er sich bessert. Entziehe Du Dich allem Bösen und bete ohne Aufhören zu
-                        Gott, so wird er Dir auch gnädig sein! –</p>
-                     <p>»So wird er Dir auch gnädig sein,« wiederholte Sloboda, ohne sein auf dem
-                        untergestemmten Arm ruhendes Haupt zu erheben. – Marie fuhr fort:</p>
-                     <p>»Und er führte Lipskulijan ein Stück von der Straße ab, errichtete dort
-                        einen kleinen Hügel und pflanzte darauf eine Gerte und sprach: Auf dem Hügel
-                        bete Du, und wenn die Gerte Aepfel tragen wird, so magst Du daraus erkennen,
-                        daß Dir Deine Sünden vergeben werden. Hierauf ging er nach Hause.«</p>
-                     <p>Nach langer Zeit, als er schon ein hoher Geistlicher war, fuhr er durch
-                        denselben Wald und es erblickte dort sein Diener schöne Aepfel auf einem
-                        Baume. Er wollte einen pflücken, aber wie er ihn berühren wollte, da hörte
-                        er eine Stimme, welche sprach: Du hast mich <pb/> nicht gepflanzt, Du wirst
-                        mich auch nicht pflücken.</p>
-                     <p>Er erzählte dies in aller Schnelligkeit seinem Herrn. Der ging hin, und als
-                        er zu dem Aepfelbaum kam, fand er unter demselben einen knieenden Menschen
-                        und besann sich auf Lipskulijan. Und der wollte ihm beichten. Und als er ihm
-                        die Sünden vergeben hatte, zerfiel Lipskulijan in lauter Staub, und die
-                        Aepfel, welche die Seelen derer waren die er ermordet hatte, verschwanden
-                        alle. Und eine weiße Taube flog zum Himmel auf und sang:</p>
 
-                     <!--milestone hi_start-->
-                     <p>Aepflein trug das Gertelein,</p>
-                     <p>Meine Seele muß nun selig sein.</p>
-                     <!--milestone hi_end-->
 
-                     <p>Und er hatte so die Gewißheit, daß Lipskulijan selig gestorben sei.</p>
-                     <p>Als Marie dies eigenthümliche wendische Mährchen beendigt hatte, hörte man
-                        ein leises Schluchzen. Es war Bianca, welche, ergriffen von dem tiefen Sinn
-                        der ungekünstelten Volksdichtung, ihre Gefühle nicht länger verheimlichen
-                        konnte. Schlenker gab seinen Beifall durch lebhafte Gebehrden zu erkennen
-                        und reichte in seiner Freude der Blinden sogar eine Prise. Sloboda's <pb/>
-                        Haupt war langsam immer tiefer herabgesunken, so daß es jetzt beinahe die
-                        Tischplatte berührte.</p>
-                     <p>Die Kienspäne mit ihren langgekrümmten Rispen brannten dunkel und
-                        verbreiteten über Stube und Versammlung mehr Schatten als Licht.</p>
-                     <p>»Der greise Wende ist, glaub' ich, vor Ermüdung eingeschlafen,« sagte Elwire
-                        leise, um den Schlummernden nicht zu stören.</p>
-                     <p>»So schnell?« erwiederte Aurel. »Und er hat doch vor Kurzem noch
-                        gesprochen?«</p>
-                     <p>»Sonderbar!« sagte Herta. »Der wackere alte Mann schläft so sanft, daß man
-                        ihn nicht einmal athmen hört!«</p>
-                     <p>Bei dieser Bemerkung verließ der Maulwurffänger seinen Platz und näherte
-                        sich dem Wenden. Behutsam neigte er sein Ohr zu dem Schlummernden. Da aber
-                        auch er keinen Athemzug entdecken konnte, erlaubte er sich, seine Hand auf
-                        das Silberhaar des Greises zu legen und ihn laut bei Namen zu rufen.</p>
-                     <p>Sloboda antwortete nicht.</p>
-                     <p>Da schob der Maulwurffänger seine Hand unter die Stirn des Wenden und
-                        richtete ihn sanft auf.</p>
-                     <p>
-                        <pb/> Sloboda hatte die Augen fest geschlossen, ein Lächeln umspielte seinen
-                        Mund, er war todt! Gleich der Seele des Räubers im Mährchen, hatte die Seele
-                        dieses greisen Wenden unter Sangesgeflüster ihre irdische Hülle
-                        verlassen.</p>
-                  
-               
-               
-                  <p><label>
-                      Elftes Kapitel.</label></p>
-                  <p><label>Schluß.</label></p>
+                  <p>Lipskulijans Bett.</p>
+                  <p>»Es war aber ein armer Mann, der sich fast nicht mehr ernähren konnte und doch
+                     hatte man ihm noch große Abgaben auf sein Haus gelegt. Und er mußte auf's
+                     Stöcke-Roden gehen. Und als er eines Tages auch sehr traurig in die Haide ging,
+                     begegnete ihm ein Männchen, das ihn fragte: Weshalb bist Du so traurig? Der
+                     arme Mann antwortete ihm: Du kannst mir auch nicht helfen. – Wer weiß? sagte
+                     das Männchen, sage mir es, so will ich Dir helfen.«</p>
+                  <p>Der arme Mann erzählte ihm, daß er in großer Noth sei und daß es ihm unmöglich
+                     wäre, die Steuern zu geben. – Darauf sagte das Männchen: Wenn Du mir das
+                     versprichst, wovon Du in Deinem Hause nichts weißt, so will ich Dir helfen. –
+                     Der arme Mann gedachte bei <pb/> sich: Das kannst Du, Du weißt ja Alles, waß Du
+                     in Deinem Hause hast. – Hierauf brachte das Männchen ein Stück Papier hervor,
+                     und auf dieses hat sich der arme Mann mit seinem Blut unterschreiben
+                     müssen.</p>
+                  <p>Als dies geschehen war, sagte das Männchen: Nach sechszehn Jahren bringe mir
+                     das, was Du mir versprochen hast, auf dieselbe Stelle. Und es gab ihm eine
+                     große Summe Geld. Und nach einiger Zeit gebar seine Frau einen Sohn, und er
+                     erinnerte sich, was sich der Teufel bedungen hatte, und war sehr traurig.</p>
+                  <p>Der Knabe wuchs aber, und lernte sehr fleißig, so daß ihn der Vater studiren
+                     ließ, und als er funfzehn Jahr alt war, da hatte er schon ausstudirt. Und weil
+                     sich die Zeit näherte, wo er an das Männchen ausgeliefert werden sollte, so
+                     grämte sich sein Vater je länger je mehr. Er sagte daher: Was seid Ihr so
+                     traurig, lieber Vater? – Ach, antwortete ihm dieser, ich habe Dich schon ehe
+                     als Du geboren wurdest, dem Teufel versprochen und hab' ihm eine Schrift
+                     darüber gegeben, und erzählte ihm die ganze Sache. Er aber sagte: Keine Sorge!
+                     Ich werde mir selbst diese Schrift holen. –</p>
+                  <p>
+                     <pb/> Und er nahm seinen Degen und etwas Weihwasser und begab sich auf den Weg.
+                     Er kam aber in einen so großen Wald, daß ihn die Nacht darin übereilte und er
+                     sich zuletzt verirrte. Als er aber lange umhergegangen war, erblickte er Licht
+                     und dann ein Häuschen. Und als er hinein trat, war dort Niemand weiter, als
+                     eine alte Frau. Diese bat er um Herberge, aber sie antwortete ihm hierauf, er
+                     solle seines Weges gehen, wenn ihm sein Leben lieb wäre, denn da wohne ein
+                     großer Räuber. Er sagte aber, daß er sich nicht fürchte, und blieb dort.</p>
+                  <p>Nach einer Weile kam auch der Räuber und frug ihn, wohin er gehe. – Da that ihm
+                     der Räuber nichts, sondern gab ihm zu essen und zu trinken und bat ihn des
+                     andern Tages am Morgen, er möge doch so gut sein und den Teufel fragen, was
+                     Lipskulijan zu erwarten habe? –</p>
+                  <p>Und als er in die Hölle gekommen war, war dort grade kein Anderer, als der
+                     oberste Teufel. Der wußte aber von der Schrift nichts und sagte, das ginge ihn
+                     nichts an und er solle ihn in Frieden lassen. Da besprengte er ihn mit
+                     Weihwasser und der oberste Teufel fing so an zu <pb/> brüllen, daß die andern
+                     in Hausen hereingestürzt kamen. Er befragte sie auch nach der Schrift, aber es
+                     hatte sie Keiner. Da besprengte er den obersten Teufel wieder mit Weihwasser
+                     und er fing an noch viel mehr zu brüllen, so daß ihrer noch viel mehr
+                     hereingestürzt kamen. – Er befragte sie wieder wegen der Schrift, aber es hatte
+                     sie Keiner. Da besprengte er den obersten Teufel noch einmal und er fing an so
+                     schrecklich zu brüllen, daß ihrer von allen Seiten hereingestürzt kamen, und
+                     zuletzt kam auch ein Lahmer angehinkt und der hatte die Schrift. Der wollte sie
+                     aber nicht geben.</p>
+                  <p>Da sagte der oberste Teufel: Werft ihn auf Lipskulijans Bett! – Da gab sie der
+                     lahme Teufel. Und als er die Schrift erhalten hatte, frug er, was für ein Bett
+                     Lipskulijan bekommen würde? Und sie zeigten es ihm, und es war von der Art,
+                     daß, als er seinem Degen hineinsteckte und ihn wieder herauszog, die Klinge, so
+                     weit sie in das Bett hineingestoßen worden war, zerschmolzen war, denn das Bett
+                     bestand aus lauter glühendem Eisen.–</p>
+                  <p>Hierauf ging er wieder nach Hause und, <pb/> kam unter wegs zum Lipskulijan.
+                     Der frug ihn ob er wüßte, was ihn erwartete? Und er erzählte ihm Alles. Da
+                     erschrak Lipskulijan und erkundigte sich, ob er doch noch nicht könnte
+                     begnadigt werden? Und er antwortete ihm: Gott ist jedem Sünder gnädig, wenn er
+                     sich bessert. Entziehe Du Dich allem Bösen und bete ohne Aufhören zu Gott, so
+                     wird er Dir auch gnädig sein! –</p>
+                  <p>»So wird er Dir auch gnädig sein,« wiederholte Sloboda, ohne sein auf dem
+                     untergestemmten Arm ruhendes Haupt zu erheben. – Marie fuhr fort:</p>
+                  <p>»Und er führte Lipskulijan ein Stück von der Straße ab, errichtete dort einen
+                     kleinen Hügel und pflanzte darauf eine Gerte und sprach: Auf dem Hügel bete Du,
+                     und wenn die Gerte Aepfel tragen wird, so magst Du daraus erkennen, daß Dir
+                     Deine Sünden vergeben werden. Hierauf ging er nach Hause.«</p>
+                  <p>Nach langer Zeit, als er schon ein hoher Geistlicher war, fuhr er durch
+                     denselben Wald und es erblickte dort sein Diener schöne Aepfel auf einem Baume.
+                     Er wollte einen pflücken, aber wie er ihn berühren wollte, da hörte er eine
+                     Stimme, welche sprach: Du hast mich <pb/> nicht gepflanzt, Du wirst mich auch
+                     nicht pflücken.</p>
+                  <p>Er erzählte dies in aller Schnelligkeit seinem Herrn. Der ging hin, und als er
+                     zu dem Aepfelbaum kam, fand er unter demselben einen knieenden Menschen und
+                     besann sich auf Lipskulijan. Und der wollte ihm beichten. Und als er ihm die
+                     Sünden vergeben hatte, zerfiel Lipskulijan in lauter Staub, und die Aepfel,
+                     welche die Seelen derer waren die er ermordet hatte, verschwanden alle. Und
+                     eine weiße Taube flog zum Himmel auf und sang:</p>
+
+                  <!--milestone hi_start-->
+                  <p>Aepflein trug das Gertelein,</p>
+                  <p>Meine Seele muß nun selig sein.</p>
+                  <!--milestone hi_end-->
+
+                  <p>Und er hatte so die Gewißheit, daß Lipskulijan selig gestorben sei.</p>
+                  <p>Als Marie dies eigenthümliche wendische Mährchen beendigt hatte, hörte man ein
+                     leises Schluchzen. Es war Bianca, welche, ergriffen von dem tiefen Sinn der
+                     ungekünstelten Volksdichtung, ihre Gefühle nicht länger verheimlichen konnte.
+                     Schlenker gab seinen Beifall durch lebhafte Gebehrden zu erkennen und reichte
+                     in seiner Freude der Blinden sogar eine Prise. Sloboda's <pb/> Haupt war
+                     langsam immer tiefer herabgesunken, so daß es jetzt beinahe die Tischplatte
+                     berührte.</p>
+                  <p>Die Kienspäne mit ihren langgekrümmten Rispen brannten dunkel und verbreiteten
+                     über Stube und Versammlung mehr Schatten als Licht.</p>
+                  <p>»Der greise Wende ist, glaub' ich, vor Ermüdung eingeschlafen,« sagte Elwire
+                     leise, um den Schlummernden nicht zu stören.</p>
+                  <p>»So schnell?« erwiederte Aurel. »Und er hat doch vor Kurzem noch
+                     gesprochen?«</p>
+                  <p>»Sonderbar!« sagte Herta. »Der wackere alte Mann schläft so sanft, daß man ihn
+                     nicht einmal athmen hört!«</p>
+                  <p>Bei dieser Bemerkung verließ der Maulwurffänger seinen Platz und näherte sich
+                     dem Wenden. Behutsam neigte er sein Ohr zu dem Schlummernden. Da aber auch er
+                     keinen Athemzug entdecken konnte, erlaubte er sich, seine Hand auf das
+                     Silberhaar des Greises zu legen und ihn laut bei Namen zu rufen.</p>
+                  <p>Sloboda antwortete nicht.</p>
+                  <p>Da schob der Maulwurffänger seine Hand unter die Stirn des Wenden und richtete
+                     ihn sanft auf.</p>
+                  <p>
+                     <pb/> Sloboda hatte die Augen fest geschlossen, ein Lächeln umspielte seinen
+                     Mund, er war todt! Gleich der Seele des Räubers im Mährchen, hatte die Seele
+                     dieses greisen Wenden unter Sangesgeflüster ihre irdische Hülle verlassen.</p>
+
+
+
+                  <p>
+                     <label> Elftes Kapitel.</label>
+                  </p>
+                  <p>
+                     <label>Schluß.</label>
+                  </p>
                   <p>Wir haben unserer Erzählung nur wenige Worte noch hinzufügen.</p>
                   <p>Sloboda ward feierlich auf dem Kirchhofe des zum Zeiselhofe gehörigen Dorfes in
                      der herrschaftlichen Gruft beerdigt. Vierzehn Tage später reichte vor dem Altar
@@ -26841,8 +26854,11 @@
                      es gleich Furien umrauschten, waren durch die zahlreichen Opfer, welche die
                      strafende Nemesis forderte, für immer gesühnt, und ein neues frischeres
                      Geschlecht erblühte auf den Gräbern der Todten. –</p>
-                 
-               </div></div></div></body>
-         
+
+               </div>
+            </div>
+         </div>
+      </body>
+
    </text>
 </TEI>

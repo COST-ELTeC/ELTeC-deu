@@ -18,12 +18,31 @@
             <measure unit="words">186082</measure>
             <measure unit="pages">595</measure>
          </extent>
-         <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-14"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!----></publicationStmt>
-         <sourceDesc><bibl type="digitalSource">
+         <publicationStmt>
+            <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European
+               Literary History" (CA16204)</publisher>
+            <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+            <date when="2019-11-14"/>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+            <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/>
+            <!---->
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="digitalSource">
                <title>Am Jenseits</title>
                <author>May, Karl</author>
                <date>1899</date>
-            </bibl></sourceDesc>
+            </bibl>
+            <bibl type="print_source"><author>Karl May</author>: <title>Am Jenseits</title>.
+               Illustrierte Reiseerzählungen, 1.–4. Tausend, <pubPlace>Freiburg i.Br.</pubPlace>:
+                  <editor>Friedrich Ernst Fehsenfeld</editor>, <date>1912</date> [= Karl Mays
+               Illustrierte Reiseerzählungen, Band XXV]. </bibl>
+            <bibl type="firstEdition">Erste Buchausgabe: <pubPlace>Freiburg i.Br.</pubPlace>
+                  (<editor>Friedrich Ernst Fehsenfeld</editor>) <date>1898</date> (= Karl May's
+               gesammelte Reisererzählungen. Band 26).</bibl>
+         </sourceDesc>
       </fileDesc>
       <encodingDesc n="eltec-0">
          <p/>
@@ -39,7 +58,8 @@
             <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
          </textDesc>
       </profileDesc>
-      <revisionDesc><change when="2019-11-14">Checked by releaseChecker script</change>
+      <revisionDesc>
+         <change when="2019-11-14">Checked by releaseChecker script</change>
          <change when="2019-01-28">Conversion from Kallimachos Kernkorpus</change>
       </revisionDesc>
    </teiHeader>

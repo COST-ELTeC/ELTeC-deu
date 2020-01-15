@@ -19,12 +19,44 @@
             <measure unit="words">41778</measure>
             <measure unit="pages">146</measure>
          </extent>
-         <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-14"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!----></publicationStmt>
-         <sourceDesc><bibl type="digitalSource">
+         <publicationStmt>
+            <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European
+               Literary History" (CA16204)</publisher>
+            <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+            <date when="2019-11-14"/>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+            <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/>
+            <!---->
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="digitalSource">
                <title>Herrn Dames Aufzeichnungen</title>
                <author>Reventlow, Franziska Gräfin zu</author>
                <date>1913</date>
-            </bibl></sourceDesc>
+            </bibl>
+            <bibl type="print_source"><author>Franziska Gräfin zu Reventlow</author>:
+                  <title>Romane</title>. Von Paul zu Pedro. Herrn Dames Aufzeichnungen. Der
+               Geldkomplex. Der Selbstmordverein. <respStmt>Herausgegeben von
+                  </respStmt><editor>Else Reventlow</editor>, <pubPlace>München</pubPlace>:
+                  <publisher>Langen Müller</publisher>, <date>1976</date>. </bibl>
+            <bibl type="firstEdition">Erstdruck: <pubPlace>München</pubPlace> (<publisher>Albert
+                  Langen</publisher>) <date>1913</date>. In den Figuren des Romans hat Franziska zu
+               Reventlow folgende Personen ihres Freundes- und Bekanntenkreises porträtiert: den
+               Schriftsteller Franz Düllberg (»Dr. Gerhard«), den Privatgelehrten und Philosophen
+               Paul Stern (»Dr. Sendt«), den Dichter Karl Wolfskehl (»Professor Hofmann«) und seine
+               Frau Hanna Wolfskehl (»Lotte Hofmann«), den Schriftsteller Friedrich Huch (»Heinz
+               Kellermann«), den Mysterienforscher Alfred Schuler (»Delius« bzw. der Mann mit der
+               Toga), den Kunstgewerbler und Glasmaler Bohdan von Suchocki (»Orlonsky«), den
+               Schriftsteller Franz Hessel (»Willy«), den Schriftsteller O. A. H. Schmitz
+               (»Adrian«), den Dichter Stefan George (»der Meister«), den Graphologen und
+               Philosophen Ludwig Klages (»Hallwig«), einen Neffen der Dichterin Ricarda Huch
+               (»Konstantin, der Sonnenknabe«), den Rechtsanwalt Dr. Alfred Fries (»Georg, der
+               standhafte Zinnsoldat«), den Vetter Franziskas zu Reventlow, Victor von Levetzow
+               (»Gardeleutnant«), den Privatgelehrten und Paläontologen Albrecht Hentschel (»blonder
+               Gutsbesitzer mit Pantherfell«) sowie sich selbst (»Susanna«).</bibl>
+         </sourceDesc>
       </fileDesc>
       <encodingDesc n="eltec-0">
          <p/>
@@ -40,7 +72,8 @@
             <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
          </textDesc>
       </profileDesc>
-      <revisionDesc><change when="2019-11-14">Checked by releaseChecker script</change>
+      <revisionDesc>
+         <change when="2019-11-14">Checked by releaseChecker script</change>
          <change when="2019-01-28">Conversion from Kallimachos Kernkorpus</change>
       </revisionDesc>
    </teiHeader>
@@ -673,10 +706,10 @@
                der Weisen gefunden hätte. Und mir ist, seit ich hier bin, zumut, als ob ich nur in
                Rätseln sprechen höre und mich zwischen lauter Rätseln bewege. Ich fühle mich
                ziemlich unglücklich, und in meinem Kopf ist es wirr und dunkel.</p>
-         </div>    
+         </div>
          <div type="chapter">
             <head>5</head>
-            
+
             <!--milestone head_start-->
             <p> 10. Januar </p>
             <!--milestone head_end-->
@@ -723,240 +756,232 @@
             <p>Sie sieht mir ins Gesicht...</p>
 
 
-               <p>Anmerkung</p>
-               <p>Herr Dame geht manchmal unvermittelt in die erste Person über – aber falls er
-                  seinen Roman wirklich jemals geschrieben hätte, würde er es sicher korrigiert
-                  haben.</p>
+            <p>Anmerkung</p>
+            <p>Herr Dame geht manchmal unvermittelt in die erste Person über – aber falls er seinen
+               Roman wirklich jemals geschrieben hätte, würde er es sicher korrigiert haben.</p>
 
-               <p>
-                  <pb/> »Ach Susanna, ich habe nie einen Schnurrbart getragen.«</p>
-               <p>Der Herr mit dem Zwicker fixiert erst mich und dann Susanna. Damit ist die Frage
-                  vorläufig erledigt.</p>
-               <p>»Also rasch, ziehen Sie sich an, Herr Dame.«</p>
-               <p>»Hier?« Ich sehe mich hilflos um.</p>
-               <p>»Aber Susja«, ruft der Henker schockiert vom Herd herüber, »ist zum erstenmal hier
-                  Herr – Herr -Dame –«</p>
-               <p>(Susja – das klang so hübsch und ermahnend – ich fasse Sympathie für den
-                  Henker.)</p>
-               <p>»Ach, Willy, wir tun ihn in Ihr Schlafzimmer...«, sagt sie zu dem mit runden Augen
-                  und schiebt mich in einen anstoßenden Raum.</p>
-               <p>Auch dort ist Licht, und von einem Diwan fährt erschrocken ein Mädchen mit offenen
-                  blonden Haaren empor.</p>
-               <p>»Was machen Sie denn, Susanna?« schreit Willy, und sie schiebt mich rasch noch ein
-                  Zimmer weiter.</p>
-               <p>»Ich wußte wirklich nicht, daß du hier bist, Maria«, sagte sie dann zu der
-                  Blonden, Erschrockenen.</p>
-               <p>»Oh, ich war so müde, und Willy sagte, ich könne hier etwas schlafen – ich bin
-                  schon seit fünf Uhr da.«</p>
-               <p>»Kind, dann eil dich jetzt und hilf diesem jungen Mann hier, wenn er mit seinem
-                  Kostüm nicht zurechtkommt. Ach so«, sie stellte uns durch die halboffene Tür
-                  einander vor.</p>
-               <p>»Chamotte kann mir ja helfen.«</p>
-               <p>»Chamotte?« fragt die Blonde dazwischen, »um Gottes willen, wer ist das?«</p>
-               <p>»Nein, Chamotte, den müssen wir jetzt herrichten, ich weiß noch gar nicht, was wir
-                  ihm anziehen.«</p>
-               <p>
-                  <pb/> Und fort war sie.</p>
-               <p>Herr Dame bemüht sich, der Situation gerecht zu werden, zu der er sich verurteilt
-                  sieht, er unterhält sich mit dem jungen Mädchen von nebenan, läßt sich dann auch
-                  von ihr helfen, denn er kann durchaus nicht mit seinem Kostüm zurechtkommen. Sie
-                  tut es mit großem Ernst – sie scheint noch halb verschlafen und etwas
-                  melancholisch.</p>
-               <p>Dann möchte er sich etwas über die verschiedenen Persönlichkeiten orientieren. Der
-                  Henkersknecht ist von polnischem Adel und ohne ausgesprochenen Beruf – der mit dem
-                  Zwicker ein strebsamer Schriftsteller, namens Adrian, und der dritte ist Willy –
-                  man nennt ihn niemals anders.</p>
-               <p>»Wir haben alle so langweilige Nachnamen«, fügte sie hinzu, »und es ist auch
-                  bequemer, sie einfach zu kassieren.«</p>
-               <p>»Wollte Gott«, sagte Herr Dame mit einem tiefen Seufzer, »wollte Gott, man könnte
-                  seinen Nachnamen für alle Zeiten kassieren...«</p>
-               <p>»Ich habe Ihren vorhin gar nicht verstanden.«</p>
-               <p>»Ich heiße Dame, gnädiges Fräulein – hören Sie, wie das klingt.«</p>
-               <p>»Dame?«</p>
-               <p>»Ja, Dame – Herr Dame – stellen Sie sich vor, wenn ich nun einmal die Frau finden
-                  würde...«</p>
-               <p>Sie hat sich auf dem Sofa niedergelassen, von dem sie vorhin so erschrocken
-                  emporfuhr – er setzt sich neben sie. In ihren Augen liegt so viel wirkliche Güte;
-                  er spricht von seiner Biographie, sagt ihr, daß er ein Verurteilter ist – sie hört
-                  zu und scheint tief nachzudenken, die blonden Haare fallen ihr ins Gesicht.
-                  Nebenan wird <pb/> es immer lauter. »Dame!« ruft Susanna und schaut zur Tür
-                  herein. »Herr Dame, bitte, kommen Sie.« Er zuckt zusammen. »Ach, Susanna...«</p>
-               <p>Sie gehen in die Küche hinüber – da steht Chamotte auf einem Tisch, nur mit einer
-                  roten Badehose bekleidet, und der Henker ist damit beschäftigt, ihn von oben bis
-                  unten schwarz anzustreichen. Nur das eine Bein ist noch weiß, der arme Junge
-                  bietet einen merkwürdigen Anblick und wird etwas verlegen, als er seinen Gebieter
-                  sieht.</p>
-               <p>»Wenn ihm nur die Farbe nicht schadet«, meint Susanna mütterlich besorgt, »wir
-                  haben ihm ein anderes Kostüm vorgeschlagen, aber er wollte durchaus ein richtiger
-                  Sklave sein.«</p>
-               <p>»Das ist meine Biographie«, bemerkt Chamotte bescheiden.</p>
-               <p>»O Chamotte, du bist zum Wahnmochinger geboren«, sagt Susanna.</p>
-               <p>»Adrian, Sie schauen ihn so verzückt an, als ob Sie ein Gedicht machen wollten –
-                  vielleicht das Gedicht, das Ihnen endlich den Eintritt zum Tempel verschafft.«</p>
-               <p>Adrian, der Herr mit dem Zwicker, der sich in eine Toga hüllt und trotzdem
-                  aussieht, als ob er eigentlich in den Frack gehörte – lächelt arrogant und beginnt
-                  sofort in feierlich getragenem Ton zu improvisieren:</p>
+            <p>
+               <pb/> »Ach Susanna, ich habe nie einen Schnurrbart getragen.«</p>
+            <p>Der Herr mit dem Zwicker fixiert erst mich und dann Susanna. Damit ist die Frage
+               vorläufig erledigt.</p>
+            <p>»Also rasch, ziehen Sie sich an, Herr Dame.«</p>
+            <p>»Hier?« Ich sehe mich hilflos um.</p>
+            <p>»Aber Susja«, ruft der Henker schockiert vom Herd herüber, »ist zum erstenmal hier
+               Herr – Herr -Dame –«</p>
+            <p>(Susja – das klang so hübsch und ermahnend – ich fasse Sympathie für den Henker.)</p>
+            <p>»Ach, Willy, wir tun ihn in Ihr Schlafzimmer...«, sagt sie zu dem mit runden Augen
+               und schiebt mich in einen anstoßenden Raum.</p>
+            <p>Auch dort ist Licht, und von einem Diwan fährt erschrocken ein Mädchen mit offenen
+               blonden Haaren empor.</p>
+            <p>»Was machen Sie denn, Susanna?« schreit Willy, und sie schiebt mich rasch noch ein
+               Zimmer weiter.</p>
+            <p>»Ich wußte wirklich nicht, daß du hier bist, Maria«, sagte sie dann zu der Blonden,
+               Erschrockenen.</p>
+            <p>»Oh, ich war so müde, und Willy sagte, ich könne hier etwas schlafen – ich bin schon
+               seit fünf Uhr da.«</p>
+            <p>»Kind, dann eil dich jetzt und hilf diesem jungen Mann hier, wenn er mit seinem
+               Kostüm nicht zurechtkommt. Ach so«, sie stellte uns durch die halboffene Tür einander
+               vor.</p>
+            <p>»Chamotte kann mir ja helfen.«</p>
+            <p>»Chamotte?« fragt die Blonde dazwischen, »um Gottes willen, wer ist das?«</p>
+            <p>»Nein, Chamotte, den müssen wir jetzt herrichten, ich weiß noch gar nicht, was wir
+               ihm anziehen.«</p>
+            <p>
+               <pb/> Und fort war sie.</p>
+            <p>Herr Dame bemüht sich, der Situation gerecht zu werden, zu der er sich verurteilt
+               sieht, er unterhält sich mit dem jungen Mädchen von nebenan, läßt sich dann auch von
+               ihr helfen, denn er kann durchaus nicht mit seinem Kostüm zurechtkommen. Sie tut es
+               mit großem Ernst – sie scheint noch halb verschlafen und etwas melancholisch.</p>
+            <p>Dann möchte er sich etwas über die verschiedenen Persönlichkeiten orientieren. Der
+               Henkersknecht ist von polnischem Adel und ohne ausgesprochenen Beruf – der mit dem
+               Zwicker ein strebsamer Schriftsteller, namens Adrian, und der dritte ist Willy – man
+               nennt ihn niemals anders.</p>
+            <p>»Wir haben alle so langweilige Nachnamen«, fügte sie hinzu, »und es ist auch
+               bequemer, sie einfach zu kassieren.«</p>
+            <p>»Wollte Gott«, sagte Herr Dame mit einem tiefen Seufzer, »wollte Gott, man könnte
+               seinen Nachnamen für alle Zeiten kassieren...«</p>
+            <p>»Ich habe Ihren vorhin gar nicht verstanden.«</p>
+            <p>»Ich heiße Dame, gnädiges Fräulein – hören Sie, wie das klingt.«</p>
+            <p>»Dame?«</p>
+            <p>»Ja, Dame – Herr Dame – stellen Sie sich vor, wenn ich nun einmal die Frau finden
+               würde...«</p>
+            <p>Sie hat sich auf dem Sofa niedergelassen, von dem sie vorhin so erschrocken emporfuhr
+               – er setzt sich neben sie. In ihren Augen liegt so viel wirkliche Güte; er spricht
+               von seiner Biographie, sagt ihr, daß er ein Verurteilter ist – sie hört zu und
+               scheint tief nachzudenken, die blonden Haare fallen ihr ins Gesicht. Nebenan wird
+               <pb/> es immer lauter. »Dame!« ruft Susanna und schaut zur Tür herein. »Herr Dame,
+               bitte, kommen Sie.« Er zuckt zusammen. »Ach, Susanna...«</p>
+            <p>Sie gehen in die Küche hinüber – da steht Chamotte auf einem Tisch, nur mit einer
+               roten Badehose bekleidet, und der Henker ist damit beschäftigt, ihn von oben bis
+               unten schwarz anzustreichen. Nur das eine Bein ist noch weiß, der arme Junge bietet
+               einen merkwürdigen Anblick und wird etwas verlegen, als er seinen Gebieter sieht.</p>
+            <p>»Wenn ihm nur die Farbe nicht schadet«, meint Susanna mütterlich besorgt, »wir haben
+               ihm ein anderes Kostüm vorgeschlagen, aber er wollte durchaus ein richtiger Sklave
+               sein.«</p>
+            <p>»Das ist meine Biographie«, bemerkt Chamotte bescheiden.</p>
+            <p>»O Chamotte, du bist zum Wahnmochinger geboren«, sagt Susanna.</p>
+            <p>»Adrian, Sie schauen ihn so verzückt an, als ob Sie ein Gedicht machen wollten –
+               vielleicht das Gedicht, das Ihnen endlich den Eintritt zum Tempel verschafft.«</p>
+            <p>Adrian, der Herr mit dem Zwicker, der sich in eine Toga hüllt und trotzdem aussieht,
+               als ob er eigentlich in den Frack gehörte – lächelt arrogant und beginnt sofort in
+               feierlich getragenem Ton zu improvisieren:</p>
 
 
-               <l> Der schwarze Sklave, der den Becher trug, </l>
-               <l> Empfing die Farbe aus des Henkers Hand; </l>
-               <l> Er hieß Chamotte – – – </l>
+            <l> Der schwarze Sklave, der den Becher trug, </l>
+            <l> Empfing die Farbe aus des Henkers Hand; </l>
+            <l> Er hieß Chamotte – – – </l>
 
 
-               <p>Das Weitere habe ich nicht behalten – man erzählte mir, daß Adrian an einem
-                  Gedichtband arbeitet und danach strebt, unter die Auserwählten des Hofmannschen
-                  Kreises aufgenommen zu werden. Aber bisher habe er <pb/> sich seine Chancen immer
-                  wieder durch irgendeine Unvorsichtigkeit verdorben.</p>
-               <p>Ich fand ihn sehr liebenswürdig – munter und gesprächig. Und er hat wohl auch
-                  Herz. Auf dem Wege zum Fest saß ich mit ihm und Maria im Fiaker. Sie dachte noch
-                  über meinen Namen nach, und wir sprachen darüber. Ich sagte, daß ich Chamotte
-                  beneide – wie fröhlich und selbstverständlich kann einer durch die Welt gehen,
-                  wenn er so gerufen wird; er tut sich leicht mit seiner Biographie. Chamotte, das
-                  klingt so, als ob ihm die reifen Früchte von selbst aus den Bäumen herabfallen
-                  müßten – und obendrein ist es nicht einmal sein wirklicher Name.</p>
-               <p>Adrian nahm den Zwicker ab und sann nach, dann schlug er vor, mich ›Monsieur Dame‹
-                  zu nennen. Er selbst wolle den Anfang machen, und es würde sich dann gewiß rasch
-                  einbürgern. – Wir schüttelten uns herzlich die Hände.</p>
-               <p>An dem Abend allerdings nützte es nicht viel, denn wir gerieten unter lauter
-                  Bekannte, und die kappadozische Dame, die sich meiner vom Jour her einnerte, fing
-                  gleich an zu fragen. Ich machte ihr rasch einige Komplimente über ihr
-                  kappadozisches Aussehen, und dann ließ sie mich gar nicht mehr los – ob ich das
-                  auch fände – und wie ich darauf käme – es sei wirklich wunderbar.</p>
-               <p>Ach Gott, was geht mich die kappadozische Dame an – ich möchte meinen Roman
-                  schreiben, und es ist doch nicht so einfach, wie ich dachte. Das bunte Treiben im
-                  Eckhaus – der Kreis – die Enormen – aber mir fehlt einstweilen noch der Faden, die
-                  durchgehende Handlung, oder wie man das nennt. Und ob es angeht, einen ganzen
-                  Roman so zu schreiben, wie ich das erste Kapitel <pb/> angefangen habe – ich
-                  fürchte, es gibt ein zu rasches Tempo. Man müßte wohl für jede Gruppe einen
-                  besonderen Stil anwenden. Darüber werde ich Doktor Gerhard oder Adrian noch zu
-                  Rate ziehen. Und vieles wird mir der Philosoph erklären müssen.</p>
+            <p>Das Weitere habe ich nicht behalten – man erzählte mir, daß Adrian an einem
+               Gedichtband arbeitet und danach strebt, unter die Auserwählten des Hofmannschen
+               Kreises aufgenommen zu werden. Aber bisher habe er <pb/> sich seine Chancen immer
+               wieder durch irgendeine Unvorsichtigkeit verdorben.</p>
+            <p>Ich fand ihn sehr liebenswürdig – munter und gesprächig. Und er hat wohl auch Herz.
+               Auf dem Wege zum Fest saß ich mit ihm und Maria im Fiaker. Sie dachte noch über
+               meinen Namen nach, und wir sprachen darüber. Ich sagte, daß ich Chamotte beneide –
+               wie fröhlich und selbstverständlich kann einer durch die Welt gehen, wenn er so
+               gerufen wird; er tut sich leicht mit seiner Biographie. Chamotte, das klingt so, als
+               ob ihm die reifen Früchte von selbst aus den Bäumen herabfallen müßten – und
+               obendrein ist es nicht einmal sein wirklicher Name.</p>
+            <p>Adrian nahm den Zwicker ab und sann nach, dann schlug er vor, mich ›Monsieur Dame‹ zu
+               nennen. Er selbst wolle den Anfang machen, und es würde sich dann gewiß rasch
+               einbürgern. – Wir schüttelten uns herzlich die Hände.</p>
+            <p>An dem Abend allerdings nützte es nicht viel, denn wir gerieten unter lauter
+               Bekannte, und die kappadozische Dame, die sich meiner vom Jour her einnerte, fing
+               gleich an zu fragen. Ich machte ihr rasch einige Komplimente über ihr kappadozisches
+               Aussehen, und dann ließ sie mich gar nicht mehr los – ob ich das auch fände – und wie
+               ich darauf käme – es sei wirklich wunderbar.</p>
+            <p>Ach Gott, was geht mich die kappadozische Dame an – ich möchte meinen Roman
+               schreiben, und es ist doch nicht so einfach, wie ich dachte. Das bunte Treiben im
+               Eckhaus – der Kreis – die Enormen – aber mir fehlt einstweilen noch der Faden, die
+               durchgehende Handlung, oder wie man das nennt. Und ob es angeht, einen ganzen Roman
+               so zu schreiben, wie ich das erste Kapitel <pb/> angefangen habe – ich fürchte, es
+               gibt ein zu rasches Tempo. Man müßte wohl für jede Gruppe einen besonderen Stil
+               anwenden. Darüber werde ich Doktor Gerhard oder Adrian noch zu Rate ziehen. Und
+               vieles wird mir der Philosoph erklären müssen.</p>
 
-               <p>Das Fest an sich wäre wohl besonders schwierig zu schildern, denn für mich war es
-                  ein unbeschreibliches Durcheinander von Menschen, Kostümen, Musik, Lärm, einzelnen
-                  Vorfällen, Gesprächen und so weiter. Ich bin auch kein Karnevalmensch, wie man
-                  hier sagt. Ich trinke wenig, tanze nicht und bin froh, wenn man mich möglichst in
-                  Ruhe läßt.</p>
-               <p>Durch die kappadozische Dame kam ich an den Hofmannschen Tisch. Ab und zu erschien
-                  Susanna und setzte sich neben mich. Das war mir ein Trost – ich hätte mich sonst
-                  wieder recht ratlos gefühlt. Ich dachte, man würde sich gemessen und weihevoll
-                  benehmen, und es machte mich stutzig, daß der Professor als Teufel verkleidet war
-                  und in wilden Sprüngen tanzte. Gott, das ist wohl begreiflich, ich hatte noch nie
-                  einen Professor in rotem Trikot gesehen. Eine Anzahl Jünglinge bildete einen Kreis
-                  um ihn – ich glaube, es wurde ein Walzer gespielt, aber niemand kümmerte sich
-                  darum, sie sprangen auf ihre eigene Weise, und die kappadozische Dame war ganz
-                  entzückt und sagte, das sei dionysisch. Adrian teilte ihre Begeisterung und
-                  erklärte, er würde nächstens auf seinem Atelier eine Satansmesse veranstalten, ob
-                  ich nicht kommen wollte. Ich meinte etwas kleinlaut, daß ich noch nicht genug von
-                  Magie verstände... »Oh, ich kann Ihnen ein Buch darüber leihen... Ja – übrigens
-                  weiß ich doch nicht recht, ob eine Satansmesse <pb/> das Richtige wäre, aber eine
-                  Orgie – eine panerotische Orgie. Was meinen Sie dazu, gnädiges Fräulein?«</p>
-               <p>Susanna trat mich so energisch auf den Fuß, daß ich unwillkürlich stöhnte – ich
-                  hatte nur Sandalen an. Und Adrian wandte sich rasch nach mir um: »Sie scheinen das
-                  nicht recht zu billigen, Monsieur Dame – aber warum nicht? Sind wir nicht ebeno
-                  berechtigt, Orgien zu feiern, wie die alten Römer und Griechen? Ich dachte, gerade
-                  Sie mit Ihrem jungen Sklaven müßten Sinn dafür haben.« Dabei warf er mir einen
-                  verständnisvollen Blick zu, über dessen Bedeutung ich mir nicht recht klar war.
-                  (Chamotte stand den ganzen Abend hinter mir oder Susanna und bediente uns.)</p>
-               <p>Wieder trat Susanna mich auf den Fuß und sagte:</p>
-               <p>»Der Meister ist auch da – sehen Sie, dort geht er mit einem seiner Adoranten; daß
-                  er auf ein Fest geht, ist ein Ereignis.«</p>
-               <p>Sie hatte leise gesprochen, aber Frau Hofmann mußte es doch aufgefangen haben,
-                  denn sie sagte lächelnd:</p>
-               <p>»Liebe Susanna, Sie irren sich – er ist nicht hier. Der Herr, den Sie meinen, hat
-                  nur seine Maske gemacht – aber wirklich täuschend, nicht wahr?«</p>
-               <p>»Frau Professor«, antwortete Susanna, und ich bewunderte ihren Mut, »ich bin beim
-                  Theater gewesen und gehe jede Wette ein, daß es keine Maske ist...«</p>
-               <p>»Ach, was ist Theater?« beharrte Frau Hofmann immer noch lächelnd, aber wie
-                  Märtyrer unter Foltern lächeln, »ich kann Sie versichern, daß er es nicht
-                  ist.«</p>
-               <p>Der so Umstrittene befand sich ziemlich in unserer Nähe, und ich mußte Susanna
-                  recht geben – das konnte keine Maske sein. Und es lag etwas in seiner Erscheinung,
-                  was mir großen Eindruck machte.</p>
-               <p>
-                  <pb/> »Warum will man denn nicht zugeben, daß er es ist?« fragte ich nachher, als
-                  wir eine Weile allein saßen.</p>
-               <p>»Weil gewöhnliche Sterbliche nicht wissen dürfen, daß er wirklich vorhanden
-                  ist.«</p>
-               <p>Der Professor kam mit einer Dame, zog sie auf einen Stuhl nieder und sagte
-                  bewundernd:</p>
-               <p>»Ist sie nicht unglaublich schön?«</p>
-               <p>Susanna flüsterte ihm ins Ohr: »Um Gottes willen – sie ist furchtbar.« Er
-                  erschrak, betrachtete sie von der Seite und fragte leise zurück: »Wirklich?«</p>
-               <p>Das wiederholte sich noch ein paarmal im Laufe des Abends – er brachte immer neue
-                  Wesen und wollte, daß man sie schön fände. (Manchmal waren sie auch ganz nett.)
-                  Später mischte ich mich in das Gewühl, ich traf Willy, der nach Maria suchte.
-                  Schließlich sahen wir sie mit Heinz und seinen Freunden.</p>
-               <p>»Ja, dann ist es umsonst«, sagte Willy betrübt. »Die Enormen geben sie nicht her –
-                  sehen Sie, der dort ist Hallwig, er ist entschieden ein ungewöhnlicher Mensch; ich
-                  möchte ihn schon lange kennenlernen, aber er hält sich vollständig zurück und
-                  verkehrt nicht mit belanglosen Leuten, wie ich und Sie es sind – nehmen Sie es
-                  nicht übel, Herr Dame...«</p>
-               <p>»O gewiß nicht, und Maria?«</p>
-               <p>»Maria ist eben ›enorm‹ – sie ist heidnisch, und Götter wohnen in ihrer Brust.
-                  Damit haben sie ganz recht, und wir finden es ja auch, aber man kann sich nicht
-                  darüber verständigen. Maria liebt die Enormen, und sie liebt uns – sie liebt
-                  überhaupt alles, aber man sieht es nicht gerne, daß sie so universell ist, und vor
-                  allem ihr Verkehr im Eckhaus – wir ziehen sie herunter, wir sind Schmarotzer und
-                  Vampire an ihrer Seele.«</p>
-               <p>
-                  <pb/> Er war ganz traurig. Ich betrachtete den genannten Hallwig genauer – ich
-                  hatte ja auch schon gemerkt, daß Heinz es vermeidet, mich mit ihm bekannt zu
-                  machen. (Woher wissen sie denn so genau, daß ich ›belanglos‹ bin?) – Ein
-                  auffallend schöner Mensch, und Maria scheint ihn sehr zu lieben. Vielleicht war
-                  sie deshalb heute abend im Eckhaus so melancholisch und verstand mich so gut.</p>
-               <p>»Und wer ist der kleine Brünette, der so zärtlich den Arm um sie legt?«</p>
-               <p>»Das ist Konstantin, der Sonnenknabe, er ist auch enorm, und deshalb darf er alles
-                  – er darf sogar Maria lieben. Bei ihm ist es eben das Enorme, daß er alle Frauen
-                  liebt, auch wenn er sie eigentlich gar nicht mag – dann läßt er sich wenigstens
-                  lieben – die Mädchen sind alle hinter ihm her. Sehen Sie, lieber Dame, ich habe
-                  gar nichts gegen die Enormen, ich verehre sie sogar aus der Ferne, und ziemlich
-                  hoffnungslos – denn sie schätzen meine Rasse nicht – sie lassen nur blonde
-                  Langschädel gelten, und ich sehe so äthiopisch aus – aber wenn sie die Mädchen
-                  gegen uns beeinflussen...«</p>
-               <p>Ich sagte ihm, daß ich das wieder nicht verstände:</p>
-               <p>»Überall sind mysteriöse Gemeinschaften, man hört von Satansmessen, Orgien, Magie
-                  und Heidentum sprechen wie von ganz alltäglichen Dingen, dann wird wieder getanzt
-                  und Tee getrunken, aber selbst beim Tee gibt es Geheimnisse und verschlossene
-                  Türen, hinter denen vielleicht ein Magier sein Wesen treibt.«</p>
-               <p>»Ja, so ist es wohl«, seufzte Willy, »und es gab eine Zeit, wo auch ich gerne
-                  Zauberlehrling werden wollte, man hatte mich schon halb und halb akzeptiert. –
-                  Aber schauen Sie einmal dorthin!«</p>
-               <p>
-                  <pb/> Wir sahen, wie Orlonsky, der Henker, Maria mit Gewalt zum Tanzen fortzog –
-                  den Sonnenknaben schob er einfach beiseite, und der schien es auch gar nicht
-                  übelzunehmen. Aber der Henker war sichtlich gereizt, und als dann beim Tanzen
-                  irgendein junger Mensch aus der Menge Maria ansprach, ließ er sie stehen und warf
-                  ihn buchstäblich an die Wand, fuhr dabei mit der Hand in sein eigenes Dolchmesser,
-                  das offen am Gürtel hing, und verletzte sich ziemlich erheblich. Nun gab es
-                  erregte Auseinandersetzungen – dieser Orlonsky scheint ein rabiater Herr zu sein.
-                  Plötzlich stand auch der Indianer daneben – Orlonsky und er maßen sich nur mit den
-                  Blicken, dann folgte Maria dem Indianer, und Susanna beschwichtigte Orlonsky mit
-                  Zärtlichkeit. Man sah sie nachher beständig zusammen. Am Hofmannschen Tisch wurde
-                  noch viel über diese Szene gesprochen. Es lag sicher wieder eine mysteriöse
-                  Bedeutung darin, die ich nicht durchschauen konnte. Adrian wollte den Henker zu
-                  seiner Orgie einladen, und die kappadozische Dame fragte:</p>
-               <p>»Haben Sie gesehen, wie seltsam er sich benahm«, sie meinte den Indianer.</p>
-               <p>»Nein – wieso?«</p>
-               <p>»Er sagte kein Wort, aber er erbleichte, als er Blut fließen sah – Sie wissen
-                  doch, Blut...«</p>
-               <p>Nun wurde es mir zuviel, ich stand auf und irrte verlassen durch die festliche
-                  Menge. Wie eine unaussprechliche Erleichterung empfand ich es, als der Philosoph
-                  neben mir auftauchte.</p>
-               <p>»Wie geht es Ihnen, Herr Dame? Wozu hat man Sie heute verurteilt?«</p>
-               <p>»Ich fürchte zum Wahnsinn, cher philosophe, ich weiß <pb/> nicht, was in diesem
-                  rätselhaften Stadtteil aus mir werden soll, und doch läßt es mir keine Ruhe,
-                  dahinterzukommen.«</p>
-               <p>»Mirobuk!« sagte er gütig, »kommen Sie doch morgen nachmittag etwas zu mir.«</p>
+            <p>Das Fest an sich wäre wohl besonders schwierig zu schildern, denn für mich war es ein
+               unbeschreibliches Durcheinander von Menschen, Kostümen, Musik, Lärm, einzelnen
+               Vorfällen, Gesprächen und so weiter. Ich bin auch kein Karnevalmensch, wie man hier
+               sagt. Ich trinke wenig, tanze nicht und bin froh, wenn man mich möglichst in Ruhe
+               läßt.</p>
+            <p>Durch die kappadozische Dame kam ich an den Hofmannschen Tisch. Ab und zu erschien
+               Susanna und setzte sich neben mich. Das war mir ein Trost – ich hätte mich sonst
+               wieder recht ratlos gefühlt. Ich dachte, man würde sich gemessen und weihevoll
+               benehmen, und es machte mich stutzig, daß der Professor als Teufel verkleidet war und
+               in wilden Sprüngen tanzte. Gott, das ist wohl begreiflich, ich hatte noch nie einen
+               Professor in rotem Trikot gesehen. Eine Anzahl Jünglinge bildete einen Kreis um ihn –
+               ich glaube, es wurde ein Walzer gespielt, aber niemand kümmerte sich darum, sie
+               sprangen auf ihre eigene Weise, und die kappadozische Dame war ganz entzückt und
+               sagte, das sei dionysisch. Adrian teilte ihre Begeisterung und erklärte, er würde
+               nächstens auf seinem Atelier eine Satansmesse veranstalten, ob ich nicht kommen
+               wollte. Ich meinte etwas kleinlaut, daß ich noch nicht genug von Magie verstände...
+               »Oh, ich kann Ihnen ein Buch darüber leihen... Ja – übrigens weiß ich doch nicht
+               recht, ob eine Satansmesse <pb/> das Richtige wäre, aber eine Orgie – eine
+               panerotische Orgie. Was meinen Sie dazu, gnädiges Fräulein?«</p>
+            <p>Susanna trat mich so energisch auf den Fuß, daß ich unwillkürlich stöhnte – ich hatte
+               nur Sandalen an. Und Adrian wandte sich rasch nach mir um: »Sie scheinen das nicht
+               recht zu billigen, Monsieur Dame – aber warum nicht? Sind wir nicht ebeno berechtigt,
+               Orgien zu feiern, wie die alten Römer und Griechen? Ich dachte, gerade Sie mit Ihrem
+               jungen Sklaven müßten Sinn dafür haben.« Dabei warf er mir einen verständnisvollen
+               Blick zu, über dessen Bedeutung ich mir nicht recht klar war. (Chamotte stand den
+               ganzen Abend hinter mir oder Susanna und bediente uns.)</p>
+            <p>Wieder trat Susanna mich auf den Fuß und sagte:</p>
+            <p>»Der Meister ist auch da – sehen Sie, dort geht er mit einem seiner Adoranten; daß er
+               auf ein Fest geht, ist ein Ereignis.«</p>
+            <p>Sie hatte leise gesprochen, aber Frau Hofmann mußte es doch aufgefangen haben, denn
+               sie sagte lächelnd:</p>
+            <p>»Liebe Susanna, Sie irren sich – er ist nicht hier. Der Herr, den Sie meinen, hat nur
+               seine Maske gemacht – aber wirklich täuschend, nicht wahr?«</p>
+            <p>»Frau Professor«, antwortete Susanna, und ich bewunderte ihren Mut, »ich bin beim
+               Theater gewesen und gehe jede Wette ein, daß es keine Maske ist...«</p>
+            <p>»Ach, was ist Theater?« beharrte Frau Hofmann immer noch lächelnd, aber wie Märtyrer
+               unter Foltern lächeln, »ich kann Sie versichern, daß er es nicht ist.«</p>
+            <p>Der so Umstrittene befand sich ziemlich in unserer Nähe, und ich mußte Susanna recht
+               geben – das konnte keine Maske sein. Und es lag etwas in seiner Erscheinung, was mir
+               großen Eindruck machte.</p>
+            <p>
+               <pb/> »Warum will man denn nicht zugeben, daß er es ist?« fragte ich nachher, als wir
+               eine Weile allein saßen.</p>
+            <p>»Weil gewöhnliche Sterbliche nicht wissen dürfen, daß er wirklich vorhanden ist.«</p>
+            <p>Der Professor kam mit einer Dame, zog sie auf einen Stuhl nieder und sagte
+               bewundernd:</p>
+            <p>»Ist sie nicht unglaublich schön?«</p>
+            <p>Susanna flüsterte ihm ins Ohr: »Um Gottes willen – sie ist furchtbar.« Er erschrak,
+               betrachtete sie von der Seite und fragte leise zurück: »Wirklich?«</p>
+            <p>Das wiederholte sich noch ein paarmal im Laufe des Abends – er brachte immer neue
+               Wesen und wollte, daß man sie schön fände. (Manchmal waren sie auch ganz nett.)
+               Später mischte ich mich in das Gewühl, ich traf Willy, der nach Maria suchte.
+               Schließlich sahen wir sie mit Heinz und seinen Freunden.</p>
+            <p>»Ja, dann ist es umsonst«, sagte Willy betrübt. »Die Enormen geben sie nicht her –
+               sehen Sie, der dort ist Hallwig, er ist entschieden ein ungewöhnlicher Mensch; ich
+               möchte ihn schon lange kennenlernen, aber er hält sich vollständig zurück und
+               verkehrt nicht mit belanglosen Leuten, wie ich und Sie es sind – nehmen Sie es nicht
+               übel, Herr Dame...«</p>
+            <p>»O gewiß nicht, und Maria?«</p>
+            <p>»Maria ist eben ›enorm‹ – sie ist heidnisch, und Götter wohnen in ihrer Brust. Damit
+               haben sie ganz recht, und wir finden es ja auch, aber man kann sich nicht darüber
+               verständigen. Maria liebt die Enormen, und sie liebt uns – sie liebt überhaupt alles,
+               aber man sieht es nicht gerne, daß sie so universell ist, und vor allem ihr Verkehr
+               im Eckhaus – wir ziehen sie herunter, wir sind Schmarotzer und Vampire an ihrer
+               Seele.«</p>
+            <p>
+               <pb/> Er war ganz traurig. Ich betrachtete den genannten Hallwig genauer – ich hatte
+               ja auch schon gemerkt, daß Heinz es vermeidet, mich mit ihm bekannt zu machen. (Woher
+               wissen sie denn so genau, daß ich ›belanglos‹ bin?) – Ein auffallend schöner Mensch,
+               und Maria scheint ihn sehr zu lieben. Vielleicht war sie deshalb heute abend im
+               Eckhaus so melancholisch und verstand mich so gut.</p>
+            <p>»Und wer ist der kleine Brünette, der so zärtlich den Arm um sie legt?«</p>
+            <p>»Das ist Konstantin, der Sonnenknabe, er ist auch enorm, und deshalb darf er alles –
+               er darf sogar Maria lieben. Bei ihm ist es eben das Enorme, daß er alle Frauen liebt,
+               auch wenn er sie eigentlich gar nicht mag – dann läßt er sich wenigstens lieben – die
+               Mädchen sind alle hinter ihm her. Sehen Sie, lieber Dame, ich habe gar nichts gegen
+               die Enormen, ich verehre sie sogar aus der Ferne, und ziemlich hoffnungslos – denn
+               sie schätzen meine Rasse nicht – sie lassen nur blonde Langschädel gelten, und ich
+               sehe so äthiopisch aus – aber wenn sie die Mädchen gegen uns beeinflussen...«</p>
+            <p>Ich sagte ihm, daß ich das wieder nicht verstände:</p>
+            <p>»Überall sind mysteriöse Gemeinschaften, man hört von Satansmessen, Orgien, Magie und
+               Heidentum sprechen wie von ganz alltäglichen Dingen, dann wird wieder getanzt und Tee
+               getrunken, aber selbst beim Tee gibt es Geheimnisse und verschlossene Türen, hinter
+               denen vielleicht ein Magier sein Wesen treibt.«</p>
+            <p>»Ja, so ist es wohl«, seufzte Willy, »und es gab eine Zeit, wo auch ich gerne
+               Zauberlehrling werden wollte, man hatte mich schon halb und halb akzeptiert. – Aber
+               schauen Sie einmal dorthin!«</p>
+            <p>
+               <pb/> Wir sahen, wie Orlonsky, der Henker, Maria mit Gewalt zum Tanzen fortzog – den
+               Sonnenknaben schob er einfach beiseite, und der schien es auch gar nicht
+               übelzunehmen. Aber der Henker war sichtlich gereizt, und als dann beim Tanzen
+               irgendein junger Mensch aus der Menge Maria ansprach, ließ er sie stehen und warf ihn
+               buchstäblich an die Wand, fuhr dabei mit der Hand in sein eigenes Dolchmesser, das
+               offen am Gürtel hing, und verletzte sich ziemlich erheblich. Nun gab es erregte
+               Auseinandersetzungen – dieser Orlonsky scheint ein rabiater Herr zu sein. Plötzlich
+               stand auch der Indianer daneben – Orlonsky und er maßen sich nur mit den Blicken,
+               dann folgte Maria dem Indianer, und Susanna beschwichtigte Orlonsky mit Zärtlichkeit.
+               Man sah sie nachher beständig zusammen. Am Hofmannschen Tisch wurde noch viel über
+               diese Szene gesprochen. Es lag sicher wieder eine mysteriöse Bedeutung darin, die ich
+               nicht durchschauen konnte. Adrian wollte den Henker zu seiner Orgie einladen, und die
+               kappadozische Dame fragte:</p>
+            <p>»Haben Sie gesehen, wie seltsam er sich benahm«, sie meinte den Indianer.</p>
+            <p>»Nein – wieso?«</p>
+            <p>»Er sagte kein Wort, aber er erbleichte, als er Blut fließen sah – Sie wissen doch,
+               Blut...«</p>
+            <p>Nun wurde es mir zuviel, ich stand auf und irrte verlassen durch die festliche Menge.
+               Wie eine unaussprechliche Erleichterung empfand ich es, als der Philosoph neben mir
+               auftauchte.</p>
+            <p>»Wie geht es Ihnen, Herr Dame? Wozu hat man Sie heute verurteilt?«</p>
+            <p>»Ich fürchte zum Wahnsinn, cher philosophe, ich weiß <pb/> nicht, was in diesem
+               rätselhaften Stadtteil aus mir werden soll, und doch läßt es mir keine Ruhe,
+               dahinterzukommen.«</p>
+            <p>»Mirobuk!« sagte er gütig, »kommen Sie doch morgen nachmittag etwas zu mir.«</p>
 
-               <p>Ja, ich frage ganz im Ernst, ob es nicht ein bedenkliches Symptom für meinen
-                  inneren Zustand ist, daß das bloße Wort – Mirobuk – so beruhigend auf mich wirkt –
-                  wie eine Zauberformel, die den Bann zu lösen vermag; denn es ist wohl eine Art
-                  Bann, der mich hier immer wieder umfängt. Ich weiß nicht, was Mirobuk bedeutet, wo
-                  er es her hat, und was es eigentlich heißen soll, ich will es auch gar nicht
-                  wissen, es ist nur die Art, wie er es anwendet – man ahnt gleichsam, daß hinter
-                  den verworrensten Widersprüchen doch noch irgendwo Klarheit zu finden sein
-                  könnte.</p>
-            
+            <p>Ja, ich frage ganz im Ernst, ob es nicht ein bedenkliches Symptom für meinen inneren
+               Zustand ist, daß das bloße Wort – Mirobuk – so beruhigend auf mich wirkt – wie eine
+               Zauberformel, die den Bann zu lösen vermag; denn es ist wohl eine Art Bann, der mich
+               hier immer wieder umfängt. Ich weiß nicht, was Mirobuk bedeutet, wo er es her hat,
+               und was es eigentlich heißen soll, ich will es auch gar nicht wissen, es ist nur die
+               Art, wie er es anwendet – man ahnt gleichsam, daß hinter den verworrensten
+               Widersprüchen doch noch irgendwo Klarheit zu finden sein könnte.</p>
+
          </div>
          <div type="chapter">
             <head>6</head>
@@ -1118,215 +1143,212 @@
             <p>Ja, und einstweilen muß es wohl noch dahingestellt bleiben, ob ich selbst dieser
                schweren Aufgabe gewachsen bin.</p>
 
-               <p>Anmerkung</p>
-               <p>Wir nehmen an, daß Herr Dame die einliegenden, anscheinend aus seinem Notizbuch
-                  kopierten Blätter gemeint und nur seine Absicht, sie in das Tagebuch einzutragen,
-                  aus irgendeinem Grunde nicht ausgeführt hat. Verfahren Sie bei einer eventuellen
-                  Veröffentlichung damit, wie Sie es für gut halten – vielleicht erscheint der
-                  Inhalt Ihnen, sowie etwaigen Lesern, leichter verständlich als uns.</p>
+            <p>Anmerkung</p>
+            <p>Wir nehmen an, daß Herr Dame die einliegenden, anscheinend aus seinem Notizbuch
+               kopierten Blätter gemeint und nur seine Absicht, sie in das Tagebuch einzutragen, aus
+               irgendeinem Grunde nicht ausgeführt hat. Verfahren Sie bei einer eventuellen
+               Veröffentlichung damit, wie Sie es für gut halten – vielleicht erscheint der Inhalt
+               Ihnen, sowie etwaigen Lesern, leichter verständlich als uns.</p>
 
          </div>
-            <div type="chapter">
-               <head>
-                  <pb/> Nachtgespräch mit dem Philosophen</head>
-               <head>in der Jahreszeitenbar</head>
-               <!--milestone head_start-->
-               <p> Am 5. Februar 19... </p>
-               <!--milestone head_end-->
+         <div type="chapter">
+            <head>
+               <pb/> Nachtgespräch mit dem Philosophen</head>
+            <head>in der Jahreszeitenbar</head>
+            <!--milestone head_start-->
+            <p> Am 5. Februar 19... </p>
+            <!--milestone head_end-->
 
-               <p>Das Souper war vorzüglich, der Philosoph bei guter Laune, und ich fühlte mich
-                  allmählich wieder frisch und aufnahmefähig. Als wir dann beim Kaffee saßen, begann
-                  Sendt mit jener wohlwollenden Heiterkeit, die ich so sehr an ihm schätze:</p>
-               <p>»Nun, lieber Dame, worüber wünschen Sie jetzt belehrt zu werden – der heutige Jour
-                  war ja einigermaßen reichhaltig und stellte wohl an den Laien ziemliche
-                  Anforderungen.«</p>
-               <p>Ich dachte nach, mir schwirrte wieder alles bunt durcheinander – wieso Luther ein
-                  Jude sein sollte – und Blutleuchte – dieses wunderbare, suggestive Wort wollte
-                  mich gar nicht wieder loslassen – ja, und die blaue Blume des Tiberius – und
-                  kosmisches Erlebnis – mir fiel wieder ein, daß die kappadozische Dame damals auch
-                  ihren Traum einen kosmischen genannt hat.</p>
-               <p>»Nur Mut, und alles hübsch der Reihe nach«, sagte der Philosoph. »Haben Sie etwas
-                  davon behalten, was ich Ihnen kürzlich über die Substanztheorie des Herrn Delius
-                  gesagt habe, und erinnern Sie sich noch an die Geschichte von dem Psychometer und
-                  dem Ring des Meisters?«</p>
-               <p>»Ja, ich erinnere mich.«</p>
-               <p>»Also – das dürfen Sie nun vor allem nicht verwechseln. Bei dem Psychometer
-                  handelt es sich um die Seelensubstanzen des einzelnen, die unter anderem an seinen
-                  Gebrauchsgegenständen haften bleiben. Zum Beispiel Adrian, den Sie auch kennen,
-                  besitzt einen Lehnstuhl <pb/> von einer Großmutter, den er als gespenstisch
-                  empfindet, weil die Substanz der Verstorbenen ihm wahrscheinlich noch anhaftet.
-                  Ist er abends allein in seinem Zimmer, so wird er sich nie entschließen, in diesem
-                  Lehnstuhl zu sitzen, obgleich er ungemein bequem ist. Aber lassen wir Adrians
-                  Großmutter – sie ist belanglos, und die ganze Sache mit den Einzelsubstanzen ist
-                  eigentlich unwahnmochingisch. Wahnmoching lehnt den Individualismus ab und lehrt,
-                  daß der einzelne wenig in Betracht kommt. Von großer Wichtigkeit sind dagegen die
-                  Ursubstanzen, aus denen die Einzelseele zusammengesetzt ist, so, wie ich Ihnen
-                  schon einmal sagte, die Rassensubstanzen: die römische – germanische – semitische
-                  und so weiter. Diese befinden sich im Blut – unterstreichen Sie Blut, es ist von
-                  größter Bedeutung. Wo nun eine von ihnen das Übergewicht bekommt, so daß sie
-                  allein das Erleben (Schauen, Dichten, Handeln und vor allem auch das Träumen)
-                  beherrscht – da haben wir die Vorbedingungen für das Zustandekommen der
-                  Blutleuchte. Hier ist nun eine mystische Komplikation zu merken: irgendeine
-                  heidnische Substanz hat periodisch größere Stärke, daher ›heidnische Blutleuchte‹
-                  in vielen Individuen gleichzeitig. So war in den achtziger Jahren des vorigen
-                  Jahrhunderts große heidnische Blutleuchte. Delius fand seine Weltanschauung –
-                  Nietzsche schrieb den Zarathustra – in der damaligen Jugend gärte es – König
-                  Ludwig II. versuchte seine phantastischen Ideen auszuleben...«</p>
-               <p>»Oder heuer im Karneval«, warf Maria dazwischen, »Monsieur Dame läßt sich zu einem
-                  Wahnmochinger Fest verurteilen, und Chamotte empfindet sich als Sklave, weil man
-                  ihn schwarz angestrichen hat.«</p>
-               <p>
-                  <pb/> »Maria, unterbrechen Sie mich nicht«, sagte der Philosoph, »hören Sie lieber
-                  gut zu. Es würde Ihnen gar nicht schaden, wenn Sie auch etwas von diesen
-                  Geschichten begreifen lernten.«</p>
-               <p>»Ach Gott, ich vergesse es ja doch gleich wieder«, antwortete sie resigniert und
-                  zündete sich eine neue Zigarette an.</p>
-               <p>»Also – eben Ihr Freund Hallwig lehrt, daß nicht wir handeln, dichten, träumen und
-                  so weiter, sondern die Ursubstanzen in uns. Über die Rangordnung der historischen
-                  Substanzen dürften er und Delius wohl etwas uneinig sein, da dieser die römische,
-                  jener die germanische für sich gepachtet hat. Immerhin gelten beide für kosmisch,
-                  die semitischen dagegen immer für molochitisch – Herr Dame, sehen Sie mich nicht
-                  so verzweifelt an und brechen Sie nicht immer Ihren Bleistift ab, mit etwas gutem
-                  Willen werden Sie schon dahinterkommen. Also kosmisch – kosmisch ist das Prinzip,
-                  welches das wahre unmittelbare Leben aufbaut und in jedem Wesen, das überhaupt an
-                  ihm Teil hat, das gleiche ist. Notabene: den Begriff kosmisch braucht man
-                  gewöhnlich nur im Gegensatz zum chaotischen. Erst indem man ihn statt auf das
-                  Gebilde auf die bildende Kraft anwandte, bekam er die Wahnmochinger Nuance.</p>
-               <p>Kosmisch werden deshalb solche Erlebnisse genannt, die deutlich aus diesem Prinzip
-                  stammen – auch Träume werden dazu gerechnet und spielen eine große Rolle. Delius
-                  oder Hallwig pflegen darüber zu entscheiden, ob ein Traum oder Erlebnis kosmische
-                  Bedeutung hat – die Damen beim Jour irren sich häufig über diesen Punkt und
-                  begehen dann Mißgriffe, welche den Professor <pb/> Hofmann nervös machen. Denn
-                  auch er erfreut sich in diesen Fragen einer gewissen Autorität.«</p>
-               <p>»Ich danke Ihnen, cher philosophe – die Nebel fangen an sich zu lichten – aber was
-                  heißt molochitisch?«</p>
-               <p>»Moloch, Herr Dame, wie Sie vielleicht wissen, war ein unangenehmer Götze, der
-                  sich von kleinen Kindern nährte, mithin also das Lebendige, Hoffnungsvolle
-                  verschlang. Molochitisch bedeutet daher in gutem Wahnmochinger Jargon alles
-                  Lebensfeindliche, Lebenvernichtende – kurz und gut, das Gegenteil von kosmisch.
-                  Man wandte nun in unserem Stadtteil mit Vorliebe diesen Gegensatz auf die
-                  Rassensubstanzen an und gelangte zu dem Resultat: die Arier repräsentieren das
-                  aufbauende, kosmische Prinzip, die Semiten dagegen das zersetzende,
-                  negativ-molochitische. Zu merken ist hierbei noch, daß eben die Substanzen sich im
-                  Laufe der Zeiten nicht rein erhalten haben und vielfach vermischt sind.</p>
-               <p>Luther zum Beispiel, den man im allgemeinen für einen Germanen halten dürfte,
-                  wandte sich gegen die heidnischen Reste im Katholizismus – verneinte sie und
-                  bewirkte ihre Zersetzung, folglich war er molochitisch – folglich war er nach
-                  Delius ein Jude.«</p>
-               <p>»Sehen Sie, das finde ich einfach entzückend«, meinte Maria, »aber ich weiß schon,
-                  unser Philosoph schätzt solche Wahnmochingereien nicht.«</p>
-               <p>»Liebes Kind, die Sache hat eben auch ihre tragische Seite – denn in Wahnmoching
-                  wird vor allem jede Vernunft und Klarheit in den Bann getan, weil sie ihnen für
-                  verderblich und molochitisch gilt. Und das erlaube ich mir für bedenklich zu
-                  halten.«</p>
-               <p>Er gähnte, und Maria fragte teilnehmend, ob er müde <pb/> sei, dann wollten wir
-                  doch lieber von etwas anderem reden. Mir schien, sie hatte selbst genug davon und
-                  fing an, sich zu langweilen.</p>
-               <p>»Nun ja – was meinen Sie etwa zum Hetärentum?« fragte Sendt, und sie wurde ganz
-                  böse – es schien irgendeine Anzüglichkeit zu sein.</p>
-               <p>»Aber ich bitte Sie – die matriarchale Zeit ist sicher von ungemeiner Wichtigkeit,
-                  wie Delius sagen würde. Waren Sie dabei, Dame, wie Frau Hofmann neulich
-                  proklamierte, wir gingen zweifellos wieder matriarchalen Zeiten entgegen? Man
-                  sprach nämlich von einem Mädchen, das unberechtigterweise ein Baby bekommen hatte,
-                  und irgend jemand nahm Anstoß daran – ich glaube, es war an dem Festabend.«</p>
-               <p>Ich sah zufällig Maria an und bemerkte, daß sie ganz rot geworden war. Warum nur?
-                  Nein, die erwähnte Äußerung hatte ich nicht gehört oder jedenfalls nicht
-                  verstanden.</p>
-               <p>»Aber darüber müssen Sie Bescheid wissen«, nahm Sendt wieder das Wort, »sonst wird
-                  man Sie niemals für voll nehmen. Merken Sie sich überhaupt, daß alle mit der
-                  Vorsilbe Ur beginnenden Worte hierzulande einen bedeutungsvollen Klang haben:
-                  Urzeit – Urnacht – Urkräfte – Urschauer – und so weiter. Des Ferneren: den
-                  Unterschied zwischen kosmisch und molochitisch hat man auch auf die matriarchale
-                  und patriarchale Weltanschauung übertragen (vergessen Sie nie, daß ›man‹ stets
-                  Wahnmoching bedeutet, denn an allen anderen Orten der zivilisierten Welt pflegt
-                  man diese Sachen nur vom wissenschaftlichen oder historischen Standpunkt und ohne
-                  starke innere Beteiligung zu beurteilen). Notieren Sie sich also bitte folgendes:
-                  in der matriarchalischen <pb/> Urzeit folgte die Frau nur dem kosmischen Drange,
-                  wenn sie sich – pardon – mit einem Manne einließ. Nach Bachofen – das ist ein
-                  bekannter Gelehrter, lieber Dame, und wenn Sie sich dauernd in unserem Stadtteil
-                  niederlassen wollen, müssen Sie ihn lesen – nach Bachofen ist der Hetärismus die
-                  früheste Lebensform – in Wahnmoching gilt sie natürlich für die enormste. Dem
-                  Hetärismus entspricht die Anbetung der blind gebärenden Erde, sie wird in seinen
-                  chthonischen Kulten verehrt – wenn Sie Ihr Griechisch noch nicht vergessen haben,
-                  werden Sie vielleicht wissen, daß Chthon der dunkle Schoß der Erde bedeutet.«</p>
-               <p>»Nein, nun hören Sie auf – das ist wirklich nicht mehr zum Aushalten«, rief Maria
-                  ganz verzweifelt.</p>
-               <p>»Gemach, gemach«, antwortete Sendt mit Ruhe, »haben Sie mich nicht selbst dazu
-                  verurteilt, Herrn Dame zu belehren, damit er ruhig schlafen kann? Und war er nicht
-                  heute zum erstenmal auf einem Wahnmochinger Jour mit kosmischen Gesprächen?«</p>
-               <p>»Zum zweitenmal«, bemerkte ich, »aber damals sprach man nur über die Geste, und
-                  ich entsinne mich jetzt, daß sie ebenfalls als Urform des Lebens bezeichnet
-                  wurde.«</p>
-               <p>Der Philosoph lobte mich und sagte: übrigens, wenn dort von der Geste gesprochen
-                  würde, so meine man immer nur die Geste des Meisters oder vielleicht noch die
-                  seiner verehrenden Anhänger.</p>
-               <p>»Er tut sich leicht«, meinte Maria, »seine Geste ist einfach das dritte Zimmer«,
-                  und Sendt erklärte, sie habe ausnahmsweise etwas Richtiges gesagt. Sie war sehr
-                  stolz darauf und versprach, sich noch ein wenig zu gedulden.</p>
-               <p>
-                  <pb/> »Wo waren wir stehengeblieben?« fragte der Philosoph und warf einen Blick in
-                  mein Notizbuch – »ah, richtig – Chthon, der dunkle Schoß der Erde. – Das ältere
-                  Heidentum neigte dazu, sich die schöpferische Urkraft blind gebärend vorzustellen
-                  – Wahnmoching schließt sich ihm an, der Hetärismus gilt ihm als das Höchste,
-                  Urschauer, die noch durch keine molochitisch rationalen Hemmungen geschwächt
-                  sind.</p>
-               <p>Die spätere Zeit erkannte das Licht der Vernunft als göttlich an und dachte sich
-                  das schöpferische Prinzip als männlich und zeugend. Man nennt sie deshalb die
-                  patriarchale, und Wahnmoching schätzt sie ziemlich gering ein. Es wird Ihnen
-                  deshalb ohne weiteres einleuchten, daß man das Dionysische stark betont, gerade
-                  jetzt im Fasching haben Sie öfters Gelegenheit, das zu beobachten.«</p>
-               <p>Ja, es war mir schon aufgefallen, daß die kappadozische Dame Hofmanns Tanzweise
-                  für dionysisch erklärte.</p>
-               <p>»Sehr richtig«, bemerkte Sendt, »Apollo ist bekanntlich der Gott des Lichtes, der
-                  Vernunft – Dionysos der des Rausches und des Blutes. Auch in Wahnmoching hat man
-                  nicht umsonst seinen Nietzsche gelesen, aber es genügt hier, zu wissen, daß es
-                  ehrenhafter ist, mit dem Dionysos auf vertrautem Fuß zu stehen.«</p>
-               <p>Mir wurde jetzt auch klar, weshalb die Kappadozische bei der Szene zwischen den
-                  beiden Männern und Maria so bedeutsam sagte: »Sie wissen doch – Blut.« Damals war
-                  es mir völlig unverständlich geblieben.</p>
-               <p>Die beiden brachen in ein freudiges Gelächter aus, als ich es ihnen jetzt
-                  erzählte.</p>
-               <p>Dann wollte ich gerne noch wissen, wie man es nun in diesen Kreisen mit der Magie
-                  hält. An jenem Nachmittag <pb/> im Café war ich ja noch so ganz unerfahren, und
-                  das Thema scheint doch hier und da wieder aufzutauchen.</p>
-               <p>»Nein, dieses Gebiet liegt Wahnmoching eigentlich fern«, meinte der Philosoph,
-                  »man beschäftigt sich wohl gelegentlich in seinen Mußestunden damit, und die
-                  kappadozische Dame verwechselt es manchmal mit kosmischen Dingen. Hofmann ist seit
-                  dem bedenklichen Fauxpas jenes Psychometers ganz davon zurückgekommen, und
-                  Adrian...« Er lächelte ein wenig ironisch.</p>
-               <p>»Was haben Sie nun wieder gegen Adrian?« fragte Maria, »ich kann ihn sehr gut
-                  leiden.«</p>
-               <p>»Oh, ich auch«, erwiderte Sendt, »und ich wollte ihn gerade in einer poetischen
-                  Anwandlung mit einem Schmetterling – nein, falsch – mit einer Biene vergleichen,
-                  die aus allen Blumen den Honig herauszufinden weiß und das Gift wohlweislich darin
-                  läßt. Für jemanden, der sich hier in und zwischen den verschiedenen Kreisen
-                  bewegt, ist das eine sehr glückliche Eigenschaft. Was? Immer noch eine Frage,
-                  lieber Dame? Aber es sei die letzte, die ich als vielgeplagter Philosoph Ihnen
-                  heute noch beantworte – die Uhr ist zwei.«</p>
-               <p>»Ja, sicher die letzte – was nun diese vielgenannten Kreise voneinander
-                  unterscheidet, und was ihnen gemeinsam ist, das möchte ich gerne noch wissen.«</p>
-               <p>»Leicht gefragt – und nicht so leicht zu beantworten. Sie werden es mit der Zeit
-                  schon selbst herausfühlen. Ich kann es Ihnen zu dieser vorgerückten Stunde nur
-                  noch flüchtig andeuten. Etwa so: alle die sogenannten mystischen Entdeckungen, die
-                  Substanzangelegenheiten, kosmischen Dinge und so weiter sind in erster Linie Sache
-                  des Hallwig-Delius-Kreises, und der Hofmannsche <pb/> partizipiert daran – man
-                  ›kann‹ es eben auch und findet es fabelhaft, tut auch noch allerlei Beiwerk dazu,
-                  das bei den anderen nicht immer Anklang findet.</p>
-               <p>Und die Hauptdifferenz könnte man etwa so formulieren: dort bei Hallwig und Delius
-                  sucht man die alten Götter und alten Kulte wiederzufinden – hier, nämlich bei
-                  Hofmanns, braucht man keine alten Götter, denn man hat einen neuen, der allen
-                  Ansprüchen genügt, Mirobuk! – und jetzt...«</p>
-               <p>»Gehen wir nach Hause«, sagte Maria, die schon ganz teilnahmslos dasaß. »Ob wir
-                  wohl noch ein Auto finden?«</p>
-               <p>»Und wo gedenken Sie heute zu schlafen?« fragte der Philosoph besorgt, »Ihre
-                  Wohnung liegt ja wohl am Ende der Welt.«</p>
-               <p>»O nein, ich gehe ins Eckhaus...«</p>
-               <p>Sendt sah sie prüfend an und sagte noch einmal Mirobuk, aber in etwas anderer
-                  Tonart.</p>
-               <p> Nachtrag: Etwas Wichtiges habe ich vergessen – der Philosoph sagte mir, daß alle
-                  diese Dinge in Wahnmoching eigentlich als Geheimnis behandelt werden. Deshalb
-                  wende man wohl auch die vielen merkwürdigen Ausdrücke an, die eben nicht jeder
-                  versteht.</p>
+            <p>Das Souper war vorzüglich, der Philosoph bei guter Laune, und ich fühlte mich
+               allmählich wieder frisch und aufnahmefähig. Als wir dann beim Kaffee saßen, begann
+               Sendt mit jener wohlwollenden Heiterkeit, die ich so sehr an ihm schätze:</p>
+            <p>»Nun, lieber Dame, worüber wünschen Sie jetzt belehrt zu werden – der heutige Jour
+               war ja einigermaßen reichhaltig und stellte wohl an den Laien ziemliche
+               Anforderungen.«</p>
+            <p>Ich dachte nach, mir schwirrte wieder alles bunt durcheinander – wieso Luther ein
+               Jude sein sollte – und Blutleuchte – dieses wunderbare, suggestive Wort wollte mich
+               gar nicht wieder loslassen – ja, und die blaue Blume des Tiberius – und kosmisches
+               Erlebnis – mir fiel wieder ein, daß die kappadozische Dame damals auch ihren Traum
+               einen kosmischen genannt hat.</p>
+            <p>»Nur Mut, und alles hübsch der Reihe nach«, sagte der Philosoph. »Haben Sie etwas
+               davon behalten, was ich Ihnen kürzlich über die Substanztheorie des Herrn Delius
+               gesagt habe, und erinnern Sie sich noch an die Geschichte von dem Psychometer und dem
+               Ring des Meisters?«</p>
+            <p>»Ja, ich erinnere mich.«</p>
+            <p>»Also – das dürfen Sie nun vor allem nicht verwechseln. Bei dem Psychometer handelt
+               es sich um die Seelensubstanzen des einzelnen, die unter anderem an seinen
+               Gebrauchsgegenständen haften bleiben. Zum Beispiel Adrian, den Sie auch kennen,
+               besitzt einen Lehnstuhl <pb/> von einer Großmutter, den er als gespenstisch
+               empfindet, weil die Substanz der Verstorbenen ihm wahrscheinlich noch anhaftet. Ist
+               er abends allein in seinem Zimmer, so wird er sich nie entschließen, in diesem
+               Lehnstuhl zu sitzen, obgleich er ungemein bequem ist. Aber lassen wir Adrians
+               Großmutter – sie ist belanglos, und die ganze Sache mit den Einzelsubstanzen ist
+               eigentlich unwahnmochingisch. Wahnmoching lehnt den Individualismus ab und lehrt, daß
+               der einzelne wenig in Betracht kommt. Von großer Wichtigkeit sind dagegen die
+               Ursubstanzen, aus denen die Einzelseele zusammengesetzt ist, so, wie ich Ihnen schon
+               einmal sagte, die Rassensubstanzen: die römische – germanische – semitische und so
+               weiter. Diese befinden sich im Blut – unterstreichen Sie Blut, es ist von größter
+               Bedeutung. Wo nun eine von ihnen das Übergewicht bekommt, so daß sie allein das
+               Erleben (Schauen, Dichten, Handeln und vor allem auch das Träumen) beherrscht – da
+               haben wir die Vorbedingungen für das Zustandekommen der Blutleuchte. Hier ist nun
+               eine mystische Komplikation zu merken: irgendeine heidnische Substanz hat periodisch
+               größere Stärke, daher ›heidnische Blutleuchte‹ in vielen Individuen gleichzeitig. So
+               war in den achtziger Jahren des vorigen Jahrhunderts große heidnische Blutleuchte.
+               Delius fand seine Weltanschauung – Nietzsche schrieb den Zarathustra – in der
+               damaligen Jugend gärte es – König Ludwig II. versuchte seine phantastischen Ideen
+               auszuleben...«</p>
+            <p>»Oder heuer im Karneval«, warf Maria dazwischen, »Monsieur Dame läßt sich zu einem
+               Wahnmochinger Fest verurteilen, und Chamotte empfindet sich als Sklave, weil man ihn
+               schwarz angestrichen hat.«</p>
+            <p>
+               <pb/> »Maria, unterbrechen Sie mich nicht«, sagte der Philosoph, »hören Sie lieber
+               gut zu. Es würde Ihnen gar nicht schaden, wenn Sie auch etwas von diesen Geschichten
+               begreifen lernten.«</p>
+            <p>»Ach Gott, ich vergesse es ja doch gleich wieder«, antwortete sie resigniert und
+               zündete sich eine neue Zigarette an.</p>
+            <p>»Also – eben Ihr Freund Hallwig lehrt, daß nicht wir handeln, dichten, träumen und so
+               weiter, sondern die Ursubstanzen in uns. Über die Rangordnung der historischen
+               Substanzen dürften er und Delius wohl etwas uneinig sein, da dieser die römische,
+               jener die germanische für sich gepachtet hat. Immerhin gelten beide für kosmisch, die
+               semitischen dagegen immer für molochitisch – Herr Dame, sehen Sie mich nicht so
+               verzweifelt an und brechen Sie nicht immer Ihren Bleistift ab, mit etwas gutem Willen
+               werden Sie schon dahinterkommen. Also kosmisch – kosmisch ist das Prinzip, welches
+               das wahre unmittelbare Leben aufbaut und in jedem Wesen, das überhaupt an ihm Teil
+               hat, das gleiche ist. Notabene: den Begriff kosmisch braucht man gewöhnlich nur im
+               Gegensatz zum chaotischen. Erst indem man ihn statt auf das Gebilde auf die bildende
+               Kraft anwandte, bekam er die Wahnmochinger Nuance.</p>
+            <p>Kosmisch werden deshalb solche Erlebnisse genannt, die deutlich aus diesem Prinzip
+               stammen – auch Träume werden dazu gerechnet und spielen eine große Rolle. Delius oder
+               Hallwig pflegen darüber zu entscheiden, ob ein Traum oder Erlebnis kosmische
+               Bedeutung hat – die Damen beim Jour irren sich häufig über diesen Punkt und begehen
+               dann Mißgriffe, welche den Professor <pb/> Hofmann nervös machen. Denn auch er
+               erfreut sich in diesen Fragen einer gewissen Autorität.«</p>
+            <p>»Ich danke Ihnen, cher philosophe – die Nebel fangen an sich zu lichten – aber was
+               heißt molochitisch?«</p>
+            <p>»Moloch, Herr Dame, wie Sie vielleicht wissen, war ein unangenehmer Götze, der sich
+               von kleinen Kindern nährte, mithin also das Lebendige, Hoffnungsvolle verschlang.
+               Molochitisch bedeutet daher in gutem Wahnmochinger Jargon alles Lebensfeindliche,
+               Lebenvernichtende – kurz und gut, das Gegenteil von kosmisch. Man wandte nun in
+               unserem Stadtteil mit Vorliebe diesen Gegensatz auf die Rassensubstanzen an und
+               gelangte zu dem Resultat: die Arier repräsentieren das aufbauende, kosmische Prinzip,
+               die Semiten dagegen das zersetzende, negativ-molochitische. Zu merken ist hierbei
+               noch, daß eben die Substanzen sich im Laufe der Zeiten nicht rein erhalten haben und
+               vielfach vermischt sind.</p>
+            <p>Luther zum Beispiel, den man im allgemeinen für einen Germanen halten dürfte, wandte
+               sich gegen die heidnischen Reste im Katholizismus – verneinte sie und bewirkte ihre
+               Zersetzung, folglich war er molochitisch – folglich war er nach Delius ein Jude.«</p>
+            <p>»Sehen Sie, das finde ich einfach entzückend«, meinte Maria, »aber ich weiß schon,
+               unser Philosoph schätzt solche Wahnmochingereien nicht.«</p>
+            <p>»Liebes Kind, die Sache hat eben auch ihre tragische Seite – denn in Wahnmoching wird
+               vor allem jede Vernunft und Klarheit in den Bann getan, weil sie ihnen für
+               verderblich und molochitisch gilt. Und das erlaube ich mir für bedenklich zu
+               halten.«</p>
+            <p>Er gähnte, und Maria fragte teilnehmend, ob er müde <pb/> sei, dann wollten wir doch
+               lieber von etwas anderem reden. Mir schien, sie hatte selbst genug davon und fing an,
+               sich zu langweilen.</p>
+            <p>»Nun ja – was meinen Sie etwa zum Hetärentum?« fragte Sendt, und sie wurde ganz böse
+               – es schien irgendeine Anzüglichkeit zu sein.</p>
+            <p>»Aber ich bitte Sie – die matriarchale Zeit ist sicher von ungemeiner Wichtigkeit,
+               wie Delius sagen würde. Waren Sie dabei, Dame, wie Frau Hofmann neulich proklamierte,
+               wir gingen zweifellos wieder matriarchalen Zeiten entgegen? Man sprach nämlich von
+               einem Mädchen, das unberechtigterweise ein Baby bekommen hatte, und irgend jemand
+               nahm Anstoß daran – ich glaube, es war an dem Festabend.«</p>
+            <p>Ich sah zufällig Maria an und bemerkte, daß sie ganz rot geworden war. Warum nur?
+               Nein, die erwähnte Äußerung hatte ich nicht gehört oder jedenfalls nicht
+               verstanden.</p>
+            <p>»Aber darüber müssen Sie Bescheid wissen«, nahm Sendt wieder das Wort, »sonst wird
+               man Sie niemals für voll nehmen. Merken Sie sich überhaupt, daß alle mit der Vorsilbe
+               Ur beginnenden Worte hierzulande einen bedeutungsvollen Klang haben: Urzeit – Urnacht
+               – Urkräfte – Urschauer – und so weiter. Des Ferneren: den Unterschied zwischen
+               kosmisch und molochitisch hat man auch auf die matriarchale und patriarchale
+               Weltanschauung übertragen (vergessen Sie nie, daß ›man‹ stets Wahnmoching bedeutet,
+               denn an allen anderen Orten der zivilisierten Welt pflegt man diese Sachen nur vom
+               wissenschaftlichen oder historischen Standpunkt und ohne starke innere Beteiligung zu
+               beurteilen). Notieren Sie sich also bitte folgendes: in der matriarchalischen <pb/>
+               Urzeit folgte die Frau nur dem kosmischen Drange, wenn sie sich – pardon – mit einem
+               Manne einließ. Nach Bachofen – das ist ein bekannter Gelehrter, lieber Dame, und wenn
+               Sie sich dauernd in unserem Stadtteil niederlassen wollen, müssen Sie ihn lesen –
+               nach Bachofen ist der Hetärismus die früheste Lebensform – in Wahnmoching gilt sie
+               natürlich für die enormste. Dem Hetärismus entspricht die Anbetung der blind
+               gebärenden Erde, sie wird in seinen chthonischen Kulten verehrt – wenn Sie Ihr
+               Griechisch noch nicht vergessen haben, werden Sie vielleicht wissen, daß Chthon der
+               dunkle Schoß der Erde bedeutet.«</p>
+            <p>»Nein, nun hören Sie auf – das ist wirklich nicht mehr zum Aushalten«, rief Maria
+               ganz verzweifelt.</p>
+            <p>»Gemach, gemach«, antwortete Sendt mit Ruhe, »haben Sie mich nicht selbst dazu
+               verurteilt, Herrn Dame zu belehren, damit er ruhig schlafen kann? Und war er nicht
+               heute zum erstenmal auf einem Wahnmochinger Jour mit kosmischen Gesprächen?«</p>
+            <p>»Zum zweitenmal«, bemerkte ich, »aber damals sprach man nur über die Geste, und ich
+               entsinne mich jetzt, daß sie ebenfalls als Urform des Lebens bezeichnet wurde.«</p>
+            <p>Der Philosoph lobte mich und sagte: übrigens, wenn dort von der Geste gesprochen
+               würde, so meine man immer nur die Geste des Meisters oder vielleicht noch die seiner
+               verehrenden Anhänger.</p>
+            <p>»Er tut sich leicht«, meinte Maria, »seine Geste ist einfach das dritte Zimmer«, und
+               Sendt erklärte, sie habe ausnahmsweise etwas Richtiges gesagt. Sie war sehr stolz
+               darauf und versprach, sich noch ein wenig zu gedulden.</p>
+            <p>
+               <pb/> »Wo waren wir stehengeblieben?« fragte der Philosoph und warf einen Blick in
+               mein Notizbuch – »ah, richtig – Chthon, der dunkle Schoß der Erde. – Das ältere
+               Heidentum neigte dazu, sich die schöpferische Urkraft blind gebärend vorzustellen –
+               Wahnmoching schließt sich ihm an, der Hetärismus gilt ihm als das Höchste, Urschauer,
+               die noch durch keine molochitisch rationalen Hemmungen geschwächt sind.</p>
+            <p>Die spätere Zeit erkannte das Licht der Vernunft als göttlich an und dachte sich das
+               schöpferische Prinzip als männlich und zeugend. Man nennt sie deshalb die
+               patriarchale, und Wahnmoching schätzt sie ziemlich gering ein. Es wird Ihnen deshalb
+               ohne weiteres einleuchten, daß man das Dionysische stark betont, gerade jetzt im
+               Fasching haben Sie öfters Gelegenheit, das zu beobachten.«</p>
+            <p>Ja, es war mir schon aufgefallen, daß die kappadozische Dame Hofmanns Tanzweise für
+               dionysisch erklärte.</p>
+            <p>»Sehr richtig«, bemerkte Sendt, »Apollo ist bekanntlich der Gott des Lichtes, der
+               Vernunft – Dionysos der des Rausches und des Blutes. Auch in Wahnmoching hat man
+               nicht umsonst seinen Nietzsche gelesen, aber es genügt hier, zu wissen, daß es
+               ehrenhafter ist, mit dem Dionysos auf vertrautem Fuß zu stehen.«</p>
+            <p>Mir wurde jetzt auch klar, weshalb die Kappadozische bei der Szene zwischen den
+               beiden Männern und Maria so bedeutsam sagte: »Sie wissen doch – Blut.« Damals war es
+               mir völlig unverständlich geblieben.</p>
+            <p>Die beiden brachen in ein freudiges Gelächter aus, als ich es ihnen jetzt
+               erzählte.</p>
+            <p>Dann wollte ich gerne noch wissen, wie man es nun in diesen Kreisen mit der Magie
+               hält. An jenem Nachmittag <pb/> im Café war ich ja noch so ganz unerfahren, und das
+               Thema scheint doch hier und da wieder aufzutauchen.</p>
+            <p>»Nein, dieses Gebiet liegt Wahnmoching eigentlich fern«, meinte der Philosoph, »man
+               beschäftigt sich wohl gelegentlich in seinen Mußestunden damit, und die kappadozische
+               Dame verwechselt es manchmal mit kosmischen Dingen. Hofmann ist seit dem bedenklichen
+               Fauxpas jenes Psychometers ganz davon zurückgekommen, und Adrian...« Er lächelte ein
+               wenig ironisch.</p>
+            <p>»Was haben Sie nun wieder gegen Adrian?« fragte Maria, »ich kann ihn sehr gut
+               leiden.«</p>
+            <p>»Oh, ich auch«, erwiderte Sendt, »und ich wollte ihn gerade in einer poetischen
+               Anwandlung mit einem Schmetterling – nein, falsch – mit einer Biene vergleichen, die
+               aus allen Blumen den Honig herauszufinden weiß und das Gift wohlweislich darin läßt.
+               Für jemanden, der sich hier in und zwischen den verschiedenen Kreisen bewegt, ist das
+               eine sehr glückliche Eigenschaft. Was? Immer noch eine Frage, lieber Dame? Aber es
+               sei die letzte, die ich als vielgeplagter Philosoph Ihnen heute noch beantworte – die
+               Uhr ist zwei.«</p>
+            <p>»Ja, sicher die letzte – was nun diese vielgenannten Kreise voneinander
+               unterscheidet, und was ihnen gemeinsam ist, das möchte ich gerne noch wissen.«</p>
+            <p>»Leicht gefragt – und nicht so leicht zu beantworten. Sie werden es mit der Zeit
+               schon selbst herausfühlen. Ich kann es Ihnen zu dieser vorgerückten Stunde nur noch
+               flüchtig andeuten. Etwa so: alle die sogenannten mystischen Entdeckungen, die
+               Substanzangelegenheiten, kosmischen Dinge und so weiter sind in erster Linie Sache
+               des Hallwig-Delius-Kreises, und der Hofmannsche <pb/> partizipiert daran – man ›kann‹
+               es eben auch und findet es fabelhaft, tut auch noch allerlei Beiwerk dazu, das bei
+               den anderen nicht immer Anklang findet.</p>
+            <p>Und die Hauptdifferenz könnte man etwa so formulieren: dort bei Hallwig und Delius
+               sucht man die alten Götter und alten Kulte wiederzufinden – hier, nämlich bei
+               Hofmanns, braucht man keine alten Götter, denn man hat einen neuen, der allen
+               Ansprüchen genügt, Mirobuk! – und jetzt...«</p>
+            <p>»Gehen wir nach Hause«, sagte Maria, die schon ganz teilnahmslos dasaß. »Ob wir wohl
+               noch ein Auto finden?«</p>
+            <p>»Und wo gedenken Sie heute zu schlafen?« fragte der Philosoph besorgt, »Ihre Wohnung
+               liegt ja wohl am Ende der Welt.«</p>
+            <p>»O nein, ich gehe ins Eckhaus...«</p>
+            <p>Sendt sah sie prüfend an und sagte noch einmal Mirobuk, aber in etwas anderer
+               Tonart.</p>
+            <p> Nachtrag: Etwas Wichtiges habe ich vergessen – der Philosoph sagte mir, daß alle
+               diese Dinge in Wahnmoching eigentlich als Geheimnis behandelt werden. Deshalb wende
+               man wohl auch die vielen merkwürdigen Ausdrücke an, die eben nicht jeder
+               versteht.</p>
          </div>
          <div type="chapter">
             <head>8</head>
