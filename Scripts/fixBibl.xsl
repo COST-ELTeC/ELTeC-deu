@@ -8,14 +8,18 @@
         <xsl:value-of select="concat('/home/lou/Public/ELTeC-deu/Orig/',TEI/@xml:id,'.xml')"/>
     </xsl:variable>
    
-    <xsl:template match="teiHeader/fileDesc/sourceDesc/bibl[@type='digitalSource']">
-        <xsl:message>Looking for data in </xsl:message>
-        <xsl:message><xsl:value-of select="$docId"/></xsl:message>
-        <bibl xmlns="http://www.tei-c.org/ns/1.0" type="digitalSource">
-            <xsl:for-each select="doc($docId)//TEI/teiHeader/fileDesc/sourceDesc/bibl[@type='digital_source']">
-                     <xsl:apply-templates/>
-            </xsl:for-each>    
-        </bibl>
+    <xsl:template match="teiHeader/fileDesc/sourceDesc/bibl[starts-with(@type,'digital')]/date">
+     <!--   <xsl:message>Looking for data in </xsl:message>
+        <xsl:message><xsl:value-of select="$docId"/></xsl:message>-->
+    <!--    <bibl xmlns="http://www.tei-c.org/ns/1.0" type="digitalSource">
+    -->        <xsl:for-each select="doc($docId)//TEI/teiHeader/fileDesc/sourceDesc/bibl[@type='digital_source']/idno">
+            <ref xmlns="http://www.tei-c.org/ns/1.0">
+                <xsl:attribute name="target">
+                    <xsl:apply-templates/>
+                   </xsl:attribute>
+            </ref>      
+             </xsl:for-each>    
+        <!--</bibl>-->
     </xsl:template>
     
     

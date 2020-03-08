@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de" xml:id="DEU033">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de" xml:id="DEU033">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -33,7 +30,7 @@
             <bibl type="digitalSource">
                <title>Die Geschichte meines Urgroßvaters</title>
                <author>François, Louise von</author>
-               <date>1868</date>
+               <ref target="textgrid:n24j.0"/>
             </bibl>
             <bibl type="print_source"><author>Louise von François</author>: <title>Gesammelte
                   Werke</title>, Band 1–5, <pubPlace>Leipzig</pubPlace>:

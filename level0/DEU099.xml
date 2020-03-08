@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de" xml:id="DEU099">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de" xml:id="DEU099">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -33,7 +30,7 @@
             <bibl type="digitalSource">
                <title>Mathias Bichler</title>
                <author>Christ, Lena</author>
-               <date>1914</date>
+               <ref target="textgrid:kxft.0"/>
             </bibl>
             <bibl type="print_source"><author>Lena Christ</author>: <title>Werke</title>.
                   <pubPlace>München</pubPlace>: <publisher>Süddeutscher Verlag</publisher>,

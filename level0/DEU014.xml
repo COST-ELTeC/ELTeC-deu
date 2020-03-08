@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de" xml:id="DEU014">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de" xml:id="DEU014">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -33,7 +30,7 @@
             <bibl type="digitalSource">
                <title>Vittoria Accorombona</title>
                <author>Tieck, Ludwig</author>
-               <date>1840</date>
+               <ref target="textgrid:wczc.0"/>
             </bibl>
             <bibl type="print_source"><author>Ludwig Tieck</author>: <title>Werke in vier
                   Bänden</title>. <note>Nach dem Text der »Schriften« von 1828–1854, unter

@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de" xml:id="DEU100">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de" xml:id="DEU100">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -34,7 +31,7 @@
             <bibl type="digitalSource">
                <title>Agave</title>
                <author>Ebner-Eschenbach, Marie von</author>
-               <date>1903</date>
+               <ref target="textgrid:mks9.0"/>
             </bibl>
             <bibl type="print_source"><author>Marie von Ebner-Eschenbach</author>:
                   [<title>Gesammelte Werke in drei Bänden</title>.] [Bd. 1:] Das Gemeindekind.

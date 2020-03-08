@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de" xml:id="DEU079">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de" xml:id="DEU079">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -33,7 +30,7 @@
             <bibl type="digitalSource">
                <title>Die Aufzeichnungen des Malte Laurids Brigge</title>
                <author>Rilke, Rainer Maria</author>
-               <date>1910</date>
+               <ref target="textgrid:tbvd.0"/>
             </bibl>
             <bibl type="print_source"><author>Rainer Maria Rilke</author>: <title>Sämtliche
                   Werke</title>. <respStmt>Herausgegeben vom</respStmt> Rilke-Archiv in Verbindung

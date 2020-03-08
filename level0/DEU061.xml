@@ -1,5 +1,4 @@
-<?xml-model href="../../WG1/distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de" xml:id="DEU061">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../WG1/distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de" xml:id="DEU061">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -22,7 +21,7 @@
             <bibl type="digitalSource">
                <title>Größenwahn</title>
                <author>Bleibtreu, Karl</author>
-               <date>1888</date>
+               <ref target="textgrid:kmq8.0"/>
             </bibl>
             <bibl type="print_source"><author>Karl Bleibtreu</author>: <title>Größenwahn</title>.
                Pathologischer Roman. Band 1, <pubPlace>Leipzig</pubPlace>: <publisher>Wilhelm

@@ -1,5 +1,4 @@
-<?xml-model href="../../WG1/distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de" xml:id="DEU026">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../WG1/distantreading.github.io/Schema/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de" xml:id="DEU026">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -23,7 +22,7 @@
             <bibl type="digitalSource">
                <title>Auch Einer 2</title>
                <author>Vischer, Friedrich Theodor</author>
-               <date>1879</date>
+               <ref target="urn:nbn:de:kobv:b4-200905196655"/>
             </bibl>
             <bibl type="print_source"><author>Vischer, Friedrich Theodor von</author>: <title>Auch
                   Einer</title>, Eine Reisebekanntschaft, Zweiter Band. <pubPlace>Stuttgart
