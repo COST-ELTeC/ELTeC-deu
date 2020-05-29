@@ -32,7 +32,7 @@
                <author>Otto, Louise</author>
                <ref target="textgrid:swh8.0"/>
             </bibl>
-            <bibl type="print_source"> </bibl>
+            <bibl type="printSource"> </bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc n="eltec-0">

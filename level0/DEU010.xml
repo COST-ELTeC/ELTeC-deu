@@ -32,7 +32,7 @@
                <author>Aston, Louise</author>
                <ref target="textgrid:k8b1.0"/>
             </bibl>
-            <bibl type="print_source"><author>Louise Aston</author>: <title>Lydia</title>,
+            <bibl type="printSource"><author>Louise Aston</author>: <title>Lydia</title>,
                   <pubPlace>Magdeburg</pubPlace>: <publisher>Emil Baensch</publisher>,
                   <date>1848</date>. </bibl>
             <bibl type="firstEdition">Erstdruck: <pubPlace>Magdeburg</pubPlace> (<publisher>Emil
