@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de" xml:id="DEU035">
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de" xml:id="DEU035">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -15,34 +18,20 @@
             <measure unit="words">269471</measure>
             <measure unit="pages">744</measure>
          </extent>
-         <publicationStmt>
-            <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European
-               Literary History" (CA16204)</publisher>
-            <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-            <date when="2019-11-14"/>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
-            </availability>
-            <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/>
-            <!---->
-         </publicationStmt>
-         <sourceDesc>
-            <bibl type="digitalSource">
+         <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-12"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.https://doi.org/10.5281/zenodo.3462435">ELTeC</ref><ref type="doi" target="https://doi.org/10.5281/zenodo.?">ELTeC-de</ref><ref type="doi" target="https://doi.org/10.5281/zenodo.?">ELTeC-de release 0.9.0</ref></publicationStmt>
+         <sourceDesc><bibl type="digitalSource">
                <title>Vor dem Sturm</title>
                <author>Fontane, Theodor</author>
                <ref target="textgrid:n11c.0"/>
-            </bibl>
-            <bibl type="printSource"><author>Theodor Fontane</author>: <title>Romane und
-                  Erzählungen in acht Bänden</title>. <respStmt>Herausgegeben von</respStmt>
-               <editor>Peter Goldammer</editor>, <editor>Gotthard Erler</editor>, <editor>Anita
-                  Golz</editor> und <editor>Jürgen Jahn</editor>, Band 1, 2. Auflage,
+            </bibl><bibl type="printSource"><author>Theodor Fontane</author>: <title>Romane und
+                  Erzählungen in acht Bänden</title>. Herausgegeben von
+               <respStmt><resp>editor</resp><name>Peter Goldammer</name></respStmt>, <respStmt><resp>editor</resp><name>Gotthard Erler</name></respStmt>, <respStmt><resp>editor</resp><name>Anita
+                  Golz</name></respStmt> und <respStmt><resp>editor</resp><name>Jürgen Jahn</name></respStmt>, Band 1, 2. Auflage,
                   <pubPlace>Berlin</pubPlace> und <pubPlace>Weimar</pubPlace>:
                   <publisher>Aufbau</publisher>, <date>1973</date>. Entstanden zwischen 1862 und
-               1878,</bibl>
-            <bibl type="firstEdition">Erstdruck (gekürzt) in: Daheim (<pubPlace>Leipzig</pubPlace>),
+               1878,</bibl><bibl type="firstEdition">Erstdruck (gekürzt) in: Daheim (<pubPlace>Leipzig</pubPlace>),
                14. Jg. <date>Januar- September 1878</date>,<note> erste Buchausgabe: Berlin (W.
-                  Hertz) 1878.</note></bibl>
-         </sourceDesc>
+                  Hertz) 1878.</note></bibl></sourceDesc>
       </fileDesc>
       <encodingDesc n="eltec-0">
          <p/>
@@ -54,11 +43,11 @@
          <textDesc>
             <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
             <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
-            <canonicity xmlns="http://distantreading.net/eltec/ns" key="high"/>
+            <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
             <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
          </textDesc>
       </profileDesc>
-      <revisionDesc>
+      <revisionDesc><change when="2020-11-12">Checked by checkup script</change>
          <change when="2019-11-14">Checked by releaseChecker script</change>
          <change when="2019-01-28">Conversion from Kallimachos Kernkorpus</change>
       </revisionDesc>

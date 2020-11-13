@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de" xml:id="DEU076">
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de" xml:id="DEU076">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -15,30 +18,16 @@
             <measure unit="words">156760</measure>
             <measure unit="pages">450</measure>
          </extent>
-         <publicationStmt>
-            <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European
-               Literary History" (CA16204)</publisher>
-            <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-            <date when="2019-11-14"/>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
-            </availability>
-            <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/>
-            <!---->
-         </publicationStmt>
-         <sourceDesc>
-            <bibl type="digitalSource">
+         <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-12"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.https://doi.org/10.5281/zenodo.3462435">ELTeC</ref><ref type="doi" target="https://doi.org/10.5281/zenodo.?">ELTeC-de</ref><ref type="doi" target="https://doi.org/10.5281/zenodo.?">ELTeC-de release 0.9.0</ref></publicationStmt>
+         <sourceDesc><bibl type="digitalSource">
                <title>Caspar Hauser</title>
                <author>Wassermann, Jakob</author>
                <ref target="textgrid:x26t.0"/>
-            </bibl>
-            <bibl type="printSource"><author>Jakob Wassermann</author>: <title>Caspar Hauser oder
+            </bibl><bibl type="printSource"><author>Jakob Wassermann</author>: <title>Caspar Hauser oder
                   die Trägheit des Herzens</title>, 25. bis 29 Auflage, <pubPlace>Berlin</pubPlace>:
-                  <publisher>Fischer</publisher>, [o.J.].</bibl>
-            <bibl type="firstEdition">Vorabdruck des Romans in »Über Land und Meer«, Jahrgang XXIV,
+                  <publisher>Fischer</publisher>, [o.J.].</bibl><bibl type="firstEdition">Vorabdruck des Romans in »Über Land und Meer«, Jahrgang XXIV,
                   <pubPlace>Stuttgart</pubPlace> (<publisher>Deutsche Verlagsanstalt</publisher>)
-                  <date>Oktober 1907</date>.</bibl>
-         </sourceDesc>
+                  <date>Oktober 1907</date>.</bibl></sourceDesc>
       </fileDesc>
       <encodingDesc n="eltec-0">
          <p/>
@@ -50,11 +39,11 @@
          <textDesc>
             <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
             <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
-            <canonicity xmlns="http://distantreading.net/eltec/ns" key="high"/>
+            <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
             <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
          </textDesc>
       </profileDesc>
-      <revisionDesc>
+      <revisionDesc><change when="2020-11-12">Checked by checkup script</change>
          <change when="2019-11-14">Checked by releaseChecker script</change>
          <change when="2019-01-28">Conversion from Kallimachos Kernkorpus</change>
       </revisionDesc>

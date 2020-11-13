@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de" xml:id="DEU031">
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de" xml:id="DEU031">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -15,31 +18,17 @@
             <measure unit="words">135524</measure>
             <measure unit="pages">362</measure>
          </extent>
-         <publicationStmt>
-            <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European
-               Literary History" (CA16204)</publisher>
-            <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-            <date when="2019-11-14"/>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
-            </availability>
-            <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/>
-            <!---->
-         </publicationStmt>
-         <sourceDesc>
-            <bibl type="digitalSource">
+         <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-12"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.https://doi.org/10.5281/zenodo.3462435">ELTeC</ref><ref type="doi" target="https://doi.org/10.5281/zenodo.?">ELTeC-de</ref><ref type="doi" target="https://doi.org/10.5281/zenodo.?">ELTeC-de release 0.9.0</ref></publicationStmt>
+         <sourceDesc><bibl type="digitalSource">
                <title>Der Schüdderump</title>
                <author>Raabe, Wilhelm</author>
                <ref target="textgrid:t90p.0"/>
-            </bibl>
-            <bibl type="printSource"><author>Wilhelm Raabe</author>: <title>Ausgewählte Werke in
-                  sechs Bänden</title>. <respStmt>Herausgegeben von</respStmt>
-               <editor>Peter Goldammer</editor> und <editor>Helmut Richter</editor>,
+            </bibl><bibl type="printSource"><author>Wilhelm Raabe</author>: <title>Ausgewählte Werke in
+                  sechs Bänden</title>. Herausgegeben von
+               <respStmt><resp>editor</resp><name>Peter Goldammer</name></respStmt> und <respStmt><resp>editor</resp><name>Helmut Richter</name></respStmt>,
                   <pubPlace>Berlin</pubPlace> und <pubPlace>Weimar</pubPlace>:
-                  <publisher>Aufbau</publisher>, <date>1964–1966</date>. Entstanden 1867/69.</bibl>
-            <bibl type="firstEdition">Erstdruck in: <publisher>Westermann's Monatsheften</publisher>
-                  (<pubPlace>Braunschweig</pubPlace>), <date>Oktober 1969 – März 1870</date>.</bibl>
-         </sourceDesc>
+                  <publisher>Aufbau</publisher>, <date>1964–1966</date>. Entstanden 1867/69.</bibl><bibl type="firstEdition">Erstdruck in: <publisher>Westermann's Monatsheften</publisher>
+                  (<pubPlace>Braunschweig</pubPlace>), <date>Oktober 1969 – März 1870</date>.</bibl></sourceDesc>
       </fileDesc>
       <encodingDesc n="eltec-0">
          <p/>
@@ -51,11 +40,11 @@
          <textDesc>
             <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
             <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
-            <canonicity xmlns="http://distantreading.net/eltec/ns" key="high"/>
+            <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
             <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
          </textDesc>
       </profileDesc>
-      <revisionDesc>
+      <revisionDesc><change when="2020-11-12">Checked by checkup script</change>
          <change when="2019-11-14">Checked by releaseChecker script</change>
          <change when="2019-01-28">Conversion from Kallimachos Kernkorpus</change>
       </revisionDesc>

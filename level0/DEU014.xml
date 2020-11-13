@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de" xml:id="DEU014">
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de" xml:id="DEU014">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -15,32 +18,18 @@
             <measure unit="words">123077</measure>
             <measure unit="pages">273</measure>
          </extent>
-         <publicationStmt>
-            <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European
-               Literary History" (CA16204)</publisher>
-            <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-            <date when="2019-11-14"/>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
-            </availability>
-            <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/>
-            <!---->
-         </publicationStmt>
-         <sourceDesc>
-            <bibl type="digitalSource">
+         <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-12"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.https://doi.org/10.5281/zenodo.3462435">ELTeC</ref><ref type="doi" target="https://doi.org/10.5281/zenodo.?">ELTeC-de</ref><ref type="doi" target="https://doi.org/10.5281/zenodo.?">ELTeC-de release 0.9.0</ref></publicationStmt>
+         <sourceDesc><bibl type="digitalSource">
                <title>Vittoria Accorombona</title>
                <author>Tieck, Ludwig</author>
                <ref target="textgrid:wczc.0"/>
-            </bibl>
-            <bibl type="printSource"><author>Ludwig Tieck</author>: <title>Werke in vier
+            </bibl><bibl type="printSource"><author>Ludwig Tieck</author>: <title>Werke in vier
                   Bänden</title>. <note>Nach dem Text der »Schriften« von 1828–1854, unter
                   Berücksichtigung der Erstdrucke.</note>
-               <respStmt>Herausgegeben von <editor>Marianne Thalmann</editor></respStmt>, Band 1–4,
+               Herausgegeben von <respStmt><resp>editor</resp><name>Marianne Thalmann</name></respStmt>, Band 1–4,
                   <pubPlace>München</pubPlace>: <publisher>Winkler</publisher>,
-               <date>1963</date>.</bibl>
-            <bibl type="firstEdition">Erstdruck: <pubPlace>Breslau</pubPlace> (<publisher>J.
-                  Max</publisher>) <date>1840</date>.</bibl>
-         </sourceDesc>
+               <date>1963</date>.</bibl><bibl type="firstEdition">Erstdruck: <pubPlace>Breslau</pubPlace> (<publisher>J.
+                  Max</publisher>) <date>1840</date>.</bibl></sourceDesc>
       </fileDesc>
       <encodingDesc n="eltec-0">
          <p/>
@@ -52,11 +41,11 @@
          <textDesc>
             <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
             <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
-            <canonicity xmlns="http://distantreading.net/eltec/ns" key="high"/>
+            <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
             <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/>
          </textDesc>
       </profileDesc>
-      <revisionDesc>
+      <revisionDesc><change when="2020-11-12">Checked by checkup script</change>
          <change when="2019-11-14">Checked by releaseChecker script</change>
          <change when="2019-01-28">Conversion from Kallimachos Kernkorpus</change>
       </revisionDesc>

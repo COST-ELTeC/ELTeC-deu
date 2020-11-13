@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de" xml:id="DEU042">
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de" xml:id="DEU042">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -15,30 +18,16 @@
             <measure unit="words">223715</measure>
             <measure unit="pages">436</measure>
          </extent>
-         <publicationStmt>
-            <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European
-               Literary History" (CA16204)</publisher>
-            <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-            <date when="2019-11-14"/>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
-            </availability>
-            <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/>
-            <!---->
-         </publicationStmt>
-         <sourceDesc>
-            <bibl type="digitalSource">
+         <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-12"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.https://doi.org/10.5281/zenodo.3462435">ELTeC</ref><ref type="doi" target="https://doi.org/10.5281/zenodo.?">ELTeC-de</ref><ref type="doi" target="https://doi.org/10.5281/zenodo.?">ELTeC-de release 0.9.0</ref></publicationStmt>
+         <sourceDesc><bibl type="digitalSource">
                <title>Die Mandanenwaise</title>
                <author>Möllhausen, Balduin</author>
                <ref target="textgrid:sf4q.0"/>
-            </bibl>
-            <bibl type="printSource"><author>Balduin Möllhausen</author>: <title>Die
-                  Mandanenwaise</title>. In: <editor>Deutsche Roman-Zeitung</editor>, 2. Jg., Band
+            </bibl><bibl type="printSource"><author>Balduin Möllhausen</author>: <title>Die
+                  Mandanenwaise</title>. In: <respStmt><resp>editor</resp><name>Deutsche Roman-Zeitung</name></respStmt>, 2. Jg., Band
                2, <pubPlace>Berlin</pubPlace>: <publisher>Otto Janke</publisher>,
-               <date>1865</date>.</bibl>
-            <bibl type="firstEdition">Erstdruck: <pubPlace>Berlin</pubPlace> (<publisher>Otto
-                  Janke</publisher>) <date>1865</date></bibl>
-         </sourceDesc>
+               <date>1865</date>.</bibl><bibl type="firstEdition">Erstdruck: <pubPlace>Berlin</pubPlace> (<publisher>Otto
+                  Janke</publisher>) <date>1865</date></bibl></sourceDesc>
       </fileDesc>
       <encodingDesc n="eltec-0">
          <p/>
@@ -50,11 +39,11 @@
          <textDesc>
             <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
             <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
-            <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/>
+            <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
             <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
          </textDesc>
       </profileDesc>
-      <revisionDesc>
+      <revisionDesc><change when="2020-11-12">Checked by checkup script</change>
          <change when="2019-11-14">Checked by releaseChecker script</change>
          <change when="2019-01-28">Conversion from Kallimachos Kernkorpus</change>
       </revisionDesc>
