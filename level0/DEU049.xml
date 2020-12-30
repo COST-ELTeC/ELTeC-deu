@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-0.rng" type="application/xml" 
             schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de" xml:id="DEU049">
    <teiHeader>
       <fileDesc>
@@ -33,10 +33,10 @@
                <respStmt><resp>editor</resp><name>Peter Goldammer</name></respStmt> und <respStmt><resp>editor</resp><name>Helmut Richter</name></respStmt>,
                   <pubPlace>Berlin</pubPlace> und <pubPlace>Weimar</pubPlace>:
                   <publisher>Aufbau</publisher>, <date>1964–1966.</date></bibl><bibl type="firstEdition">
-               <note>Der Erstentwurf (1861) sollte den Titel »Robert Wildhahn« tragen. Zuerst als
+               Der Erstentwurf (1861) sollte den Titel »Robert Wildhahn« tragen. Zuerst als
                   Fortsetzungsroman in »Westermanns Ilustrierten Deutschen Monatsheften« von Oktober
                   1862 bis März 1863 erschienen. Die Buchausgabe erschien wenig später in drei
-                  Bänden unter dem aktuellen Titel.</note>
+                  Bänden unter dem aktuellen Titel.
             </bibl></sourceDesc>
       </fileDesc>
       <encodingDesc n="eltec-0">
