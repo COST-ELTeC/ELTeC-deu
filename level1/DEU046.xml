@@ -37,7 +37,7 @@
                   <publisher>Aufbau</publisher>, <date>1973</date>.</bibl><bibl type="firstEdition">Entstanden 1878. Erstdruck in: Nord und Süd
                   (<pubPlace>Berlin</pubPlace>), Heft 26 und 27, <date>1879</date>.</bibl></sourceDesc>
       </fileDesc>
-      <encodingDesc n="eltec-0">
+      <encodingDesc n="eltec-1">
          <p/>
       </encodingDesc>
       <profileDesc>
@@ -51,7 +51,7 @@
             <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
          </textDesc>
       </profileDesc>
-      <revisionDesc>
+      <revisionDesc><change when="2021-03-29">Converted to level1</change>
 <change when="2020-11-14">Converted by checkUp script for new release</change><change when="2020-11-12">Checked by checkup script</change>
          <change when="2019-11-14">Checked by releaseChecker script</change>
          <change when="2019-01-28">Conversion from Kallimachos Kernkorpus</change>
