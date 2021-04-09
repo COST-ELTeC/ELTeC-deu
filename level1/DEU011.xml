@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de" xml:id="DEU011">
    <teiHeader>
@@ -17,26 +19,21 @@
             <measure unit="pages">828</measure>
          </extent>
          <publicationStmt>
-            <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European
-               Literary History" (CA16204)</publisher>
-            <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-            <date when="2019-11-14"/>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
-            </availability>
-            <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/>
-            <!---->
-         </publicationStmt>
-         <sourceDesc>
-            <bibl type="digitalSource">
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2021-04-09"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4662444">ELTeC release 1.1.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3543243">ELTeC-deu</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4662482">ELTeC-deu release 1.0.0</ref>
+</publicationStmt>
+         <sourceDesc><bibl type="digitalSource">
                <title>Soll und Haben</title>
                <author>Freytag, Gustav</author>
                <date>1855</date>
-            </bibl>
-            <bibl type="printSource"><author>Gustav Freytag</author>: <title>Soll und Haben</title>.
+            </bibl><bibl type="printSource"><author>Gustav Freytag</author>: <title>Soll und Haben</title>.
                   <pubPlace>München</pubPlace>: <publisher>Hanser</publisher>, <date>1977</date>
-               </bibl>
-         </sourceDesc>
+               </bibl></sourceDesc>
       </fileDesc>
       <encodingDesc n="eltec-1">
          <p/>
@@ -48,11 +45,12 @@
          <textDesc>
             <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
             <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
-            <canonicity xmlns="http://distantreading.net/eltec/ns" key="high"/>
+            <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
             <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/>
          </textDesc>
       </profileDesc>
-      <revisionDesc><change when="2021-03-29">Converted to level1</change>
+      <revisionDesc>
+<change when="2021-04-09">Converted by checkUp script for new release</change><change when="2021-03-29">Converted to level1</change>
          <change when="2019-11-14">Checked by releaseChecker script</change>
          <change when="2019-01-28">Conversion from Kallimachos Kernkorpus</change>
       </revisionDesc>
