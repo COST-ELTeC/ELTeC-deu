@@ -4,7 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>Die verlorene Handschrift</title>
-            <author ref="http://d-nb.info/gnd/pnd:118535455">Freytag, Gustav</author>
+          <author ref="http://d-nb.info/gnd/pnd:118535455">Freytag, Gustav (1816-1895)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>
@@ -49,10 +49,12 @@
    <text>
       <front/>
       <body>
-         <div type="chapter">
+         <div type="group">
             <head>Erster Theil</head>
-            <head>Erstes Buch</head>
-            <head>1. Eine gelehrte Entdeckung.</head>
+            <div type="group">
+             <head>Erstes Buch</head>
+            <div type="chapter">
+             <head>1. Eine gelehrte Entdeckung.</head>
 
             <p>Es ist später Abend in unserm Stadtwald, leise wispert das Laub in der lauen
                Sommerluft und aus der Ferne tönt das Geschwirr der Feldgrillen bis unter die
@@ -5514,10 +5516,11 @@
                Gebet des alten Pfarrers hob der Gatte sie in den Wagen. Noch ein Hoch der Gutsleute,
                noch ein Blick nach dem Vaterhause, und Ilse faßte die Hand des Gatten und hielt sich
                an ihm fest.</p>
-         </div>
-         <div type="chapter">
+         </div></div>
+         <div type="group">
             <head>Zweites Buch</head>
-            <head>1. Die ersten Grüsse der Stadt.</head>
+            <div type="chapter">
+             <head>1. Die ersten Grüsse der Stadt.</head>
             <p>Im Stadtwald fiel das Laub vor die Füße der Spaziergänger. Ilse stand am Fenster und
                dachte an die Heimat. Die Kränze über der Thür waren verwelkt, Linnen und Kleider
                lagen eingestaut in den Schränken, das eigene Leben rann so still, und draußen das
@@ -9502,10 +9505,12 @@
             <p>»Dann ist Alles in Ordnung,« sagte der Vater, »denn an seinen Früchten erkennen wir
                den Acker. Um das Uebrige grämen wir uns nicht heut, nicht in der Zukunft. Gib mir
                das Licht und geh zu deinem Mann. Gute Nacht, Frau Professorin.«</p>
-         </div>
-         <div type="chapter">
+         </div></div></div>
+         <div type="group">
             <head>Zweiter Theil</head>
-            <head>Drittes Buch</head>
+            <div type="group">
+             <head>Drittes Buch</head>
+             <div type="chapter">
             <head>1. Die Buttermaschine.</head>
             <p>Im großen Saale der Universität war ein gewähltes Publicum versammelt, Würdenträger
                der Regierung und Stadt, Männer der Wissenschaft, hinter ihnen die Studenten, welche
@@ -13018,10 +13023,11 @@
                Ihnen schreibe, thun Sie meine Briefe hinein.«</p>
             <p>Gabriel sah trotz seinem Kummer sehr glücklich aus, und der Mond blickte spöttisch
                herab auf die Küsse und Gelübde, welche gewechselt wurden.</p>
-         </div>
-         <div type="chapter">
+         </div></div>
+         <div type="group">
             <head>Viertes Buch</head>
-            <head>1.</head>
+            <div type="chapter">
+             <head>1.</head>
             <head>Der Fürst.</head>
             <p>Der Erbprinz ging mit dem Kammerherrn durch die Gartenanlagen, welche drei Seiten des
                fürstlichen Schlosses umgaben. Er sah gleichgültig auf die Farbenpracht der ersten
@@ -19624,10 +19630,11 @@
                welche uns lebend umgeben. Das Alte sendet unaufhörlich seine Geister in unsere
                Seelen und unaufhörlich legen wir uns das Alte zurecht nach dem Bedürfniß unseres
                warmen Herzens.«</p>
-         </div>
-         <div type="chapter">
+         </div></div>
+         <div type="group">
             <head>Fünftes Buch</head>
-            <head>1. Des Magisters Ausgang.</head>
+            <div type="chapter">
+             <head>1. Des Magisters Ausgang.</head>
             <p>Professor Raschke saß auf dem Boden seiner Wohnstube. Die Farbenpracht des türkischen
                Schlafrocks war vermindert, treues Beharren im Dienste wissenschaftlicher Theorie
                hatte ihm einen Schimmer von fahlem Grau verliehen, aber er umhüllte doch würdig die
@@ -22066,8 +22073,8 @@
                als Nota für ewige Zeiten ein höllisches Schwänzchen – wegen der verlorenen
                Handschrift des Tacitus.</p>
 
-            <p> Ende. </p>
-         </div>
+            <trailer> Ende. </p>
+         </div></div></div>
       </body>
    </text>
 </TEI>
