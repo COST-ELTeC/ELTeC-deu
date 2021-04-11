@@ -8,7 +8,7 @@ This is the German novel collection for the ELTeC, the European Literary Text Co
 
 General information about ELTeC releases is available at https://github.com/COST-ELTeC/ELTeC.
 
-* v1.0.0, April 2021. The ELTeC-deu collection as it stands contains 100 novels encoded at level 0. The E5C score of the collection stands at 96. The release DOI is: https://doi.org/10.5281/zenodo.4662482. 
+* v1.0.0, April 2021. The ELTeC-deu collection as it stands contains 100 novels encoded at level 1. The E5C score of the collection stands at 96. The release DOI is: https://doi.org/10.5281/zenodo.4662482. 
 
 ## Contributors
 
