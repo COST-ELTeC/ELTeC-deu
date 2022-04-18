@@ -31,7 +31,7 @@
 <ref target="textgrid:k8fq.0"/>
 </bibl><bibl type="printSource"><author>Berthold Auerbach</author>: <title>Gesammelte
                   Schriften</title>, 2. Gesammtausgabe, Band 2, <pubPlace>Stuttgart</pubPlace>:
-                  <publisher>Cotta</publisher>, <date>1863</date>.</bibl></sourceDesc>
+        <publisher>Cotta</publisher>, <date>1863</date>.</bibl><bibl type="firstEdition"><date>1843</date></bibl></sourceDesc>
 </fileDesc>
 <encodingDesc n="eltec-2">
 <p/>
