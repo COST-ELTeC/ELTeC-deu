@@ -32,7 +32,9 @@
 </bibl><bibl type="printSource"><author>Vischer, Friedrich Theodor von</author>: <title>Auch
       Einer</title>, Eine Reisebekanntschaft, Zweiter Band. <pubPlace>Stuttgart
       </pubPlace><pubPlace>Leipzig</pubPlace>: <publisher>Hallberger</publisher>,
-     <date>1879</date></bibl></sourceDesc>
+     <date>1879</date></bibl>
+      <bibl type="firstEdition"><date>1879</date></bibl>
+</sourceDesc>
 </fileDesc>
 <encodingDesc n="eltec-2">
 <p/>
