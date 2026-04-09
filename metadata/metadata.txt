@@ -20,7 +20,7 @@ DEU018,"Schopenhauer, Adele",Anna,foo,1845,T1,low,f,105286,long,1,1797,1849,http
 DEU019,"Stifter, Adalbert",Zwei Schwestern,foo,1846,T1,medium,m,58315,medium,1,1805,1868,http://d-nb.info/gnd/118618156
 DEU020,"Hahn-Hahn, Ida Gräfin von",Sibylle,foo,1846,T1,low,f,131733,long,1,1805,1880,http://d-nb.info/gnd/118544918
 DEU021,"Lewald, Fanny",Jenny,foo,1843,T1,low,f,111473,long,1,1811,1889,http://d-nb.info/gnd/118572393
-DEU022,"Arnim, Bettina von",Clemens Brentanos Frühlingskranz,foo,1844,T1,high,f,108645,long,1,1785,1859,http://d-nb.info/gnd/118572393
+DEU022,"Arnim, Bettina von",Clemens Brentanos Frühlingskranz,foo,1844,T1,high,f,108645,long,1,1785,1859,http://d-nb.info/gnd/118504185
 DEU023,"Stifter, Adalbert",Feldblumen,foo,1841,T1,high,m,43934,short,1,1805,1868,http://d-nb.info/gnd/118618156
 DEU024,"Gutzkow, Karl",Der Zauberer von Rom,foo,1858,T1,low,m,894081,long,1,1811,1878,http://d-nb.info/gnd/118543830
 DEU025,"Kürnberger, Ferdinand",Der Amerika-Müde,foo,1855,T1,low,m,81837,medium,1,1823,1879,http://d-nb.info/gnd/118567764
