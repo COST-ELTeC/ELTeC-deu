@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Der Sonnenwirt : ELTeC ausgabe</title>
-            <author ref="http://d-nb.info/gnd/118778277">Kurz, Hermann (1813-1873)</author>
+            <title ref="wikidata:Q111239469">Der Sonnenwirt : ELTeC ausgabe</title>
+            <author ref="http://d-nb.info/gnd/118778277 wikidata:Q95193">Kurz, Hermann (1813-1873)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>

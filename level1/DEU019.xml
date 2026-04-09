@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Zwei Schwestern : ELTeC ausgabe</title>
-            <author ref="http://d-nb.info/gnd/118618156">Stifter, Adalbert (1805-1868)</author>
+            <title ref="wikidata:Q110757065">Zwei Schwestern : ELTeC ausgabe</title>
+            <author ref="http://d-nb.info/gnd/118618156 wikidata:Q168542">Stifter, Adalbert (1805-1868)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>

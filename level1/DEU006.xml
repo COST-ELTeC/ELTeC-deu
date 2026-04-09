@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Fragment eines Romans : ELTeC ausgabe</title>
-            <author ref="http://d-nb.info/gnd/117208612">Weerth, Georg (1822-1856)</author>
+            <title ref="wikidata:Q107000830">Fragment eines Romans : ELTeC ausgabe</title>
+            <author ref="http://d-nb.info/gnd/117208612 wikidata:Q78000">Weerth, Georg (1822-1856)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>

@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Sibylle : ELTeC ausgabe</title>
-            <author ref="http://d-nb.info/gnd/118544918">Hahn-Hahn, Ida Gräfin von
+            <title ref="wikidata:Q111239613">Sibylle : ELTeC ausgabe</title>
+            <author ref="http://d-nb.info/gnd/118544918 wikidata:Q92101">Hahn-Hahn, Ida Gräfin von
                (1805-1880)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>

@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Heidis Lehr- und Wanderjahre : ELTeC ausgabe</title>
-            <author ref="http://d-nb.info/gnd/118616455">Spyri, Johanna (1827-1901)</author>
+            <title ref="wikidata:Q111239544">Heidis Lehr- und Wanderjahre : ELTeC ausgabe</title>
+            <author ref="http://d-nb.info/gnd/118616455 wikidata:Q123053">Spyri, Johanna (1827-1901)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>

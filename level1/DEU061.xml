@@ -7,8 +7,8 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title>Größenwahn: ELTeC ausgabe</title>
-    <author ref="http://d-nb.info/gnd/118663909">Bleibtreu, Karl (1859-1928)</author>
+    <title ref="wikidata:Q105836056">Größenwahn: ELTeC ausgabe</title>
+    <author ref="http://d-nb.info/gnd/118663909 wikidata:Q95194">Bleibtreu, Karl (1859-1928)</author>
     <respStmt>
      <resp>ELTeC conversion</resp>
      <name>Leonard Konle</name>

@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Schloß Hubertus : ELTeC ausgabe</title>
-            <author ref="http://d-nb.info/gnd/118537490">Ganghofer, Ludwig (1855-1920)</author>
+            <title ref="wikidata:Q86009476">Schloß Hubertus : ELTeC ausgabe</title>
+            <author ref="http://d-nb.info/gnd/118537490 wikidata:Q77475">Ganghofer, Ludwig (1855-1920)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>

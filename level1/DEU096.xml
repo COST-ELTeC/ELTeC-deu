@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Der Golem : ELTeC ausgabe</title>
-            <author ref="http://d-nb.info/gnd/118582046">Meyrink, Gustav (1868-1932)</author>
+            <title ref="wikidata:Q673861">Der Golem : ELTeC ausgabe</title>
+            <author ref="http://d-nb.info/gnd/118582046 wikidata:Q78511">Meyrink, Gustav (1868-1932)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>

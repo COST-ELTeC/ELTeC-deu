@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Der Stechlin : ELTeC ausgabe</title>
-            <author ref="http://d-nb.info/gnd/118534262">Fontane, Theodor (1819-1898)</author>
+            <title ref="wikidata:Q1197130">Der Stechlin : ELTeC ausgabe</title>
+            <author ref="http://d-nb.info/gnd/118534262 wikidata:Q76632">Fontane, Theodor (1819-1898)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>

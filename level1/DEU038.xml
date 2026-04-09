@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Der Hungerpastor : ELTeC ausgabe</title>
-            <author ref="http://d-nb.info/gnd/118597442">Raabe, Wilhelm (1831-1910)</author>
+            <title ref="wikidata:Q1194487">Der Hungerpastor : ELTeC ausgabe</title>
+            <author ref="http://d-nb.info/gnd/118597442 wikidata:Q84820">Raabe, Wilhelm (1831-1910)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>

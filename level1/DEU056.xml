@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Adam Mensch : ELTeC ausgabe</title>
-            <author ref="http://d-nb.info/gnd/118669923">Conradi, Hermann (1862-1890)</author>
+            <title ref="wikidata:Q108567895">Adam Mensch : ELTeC ausgabe</title>
+            <author ref="http://d-nb.info/gnd/118669923 wikidata:Q88379">Conradi, Hermann (1862-1890)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>

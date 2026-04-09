@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Vittoria Accorombona : ELTeC ausgabe</title>
-            <author ref="http://d-nb.info/gnd/12989432X">Tieck, Ludwig (1773-1853)</author>
+            <title ref="wikidata:Q1403207">Vittoria Accorombona : ELTeC ausgabe</title>
+            <author ref="http://d-nb.info/gnd/12989432X wikidata:Q57239">Tieck, Ludwig (1773-1853)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>

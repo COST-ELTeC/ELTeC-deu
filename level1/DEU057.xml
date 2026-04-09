@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Sibilla Dalmar : ELTeC ausgabe</title>
-            <author ref="http://d-nb.info/gnd/11852643X">Dohm, Hedwig (1831-1919)</author>
+            <title ref="wikidata:Q108632484">Sibilla Dalmar : ELTeC ausgabe</title>
+            <author ref="http://d-nb.info/gnd/11852643X wikidata:Q71491">Dohm, Hedwig (1831-1919)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>

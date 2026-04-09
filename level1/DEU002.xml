@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Der Lehnhold : ELTeC ausgabe</title>
-            <author ref="http://d-nb.info/gnd/11865103X">Auerbach, Berthold (1812-1882)</author>
+            <title ref="wikidata:Q111239461">Der Lehnhold : ELTeC ausgabe</title>
+            <author ref="http://d-nb.info/gnd/11865103X wikidata:Q76715">Auerbach, Berthold (1812-1882)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>

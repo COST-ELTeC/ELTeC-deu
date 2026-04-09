@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Jürg Jenatsch : ELTeC ausgabe</title>
-            <author ref="http://d-nb.info/gnd/118581775">Meyer, Conrad Ferdinand
+            <title ref="wikidata:Q1411041">Jürg Jenatsch : ELTeC ausgabe</title>
+            <author ref="http://d-nb.info/gnd/118581775 wikidata:Q123261">Meyer, Conrad Ferdinand
                (1825-1898)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>

@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Lydia : ELTeC ausgabe</title>
-            <author ref="http://d-nb.info/gnd/118650769">Aston, Louise (1814-1871)</author>
+            <title ref="wikidata:Q111239590">Lydia : ELTeC ausgabe</title>
+            <author ref="http://d-nb.info/gnd/118650769 wikidata:Q67888">Aston, Louise (1814-1871)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>

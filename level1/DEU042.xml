@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Die Mandanenwaise : ELTeC ausgabe</title>
-            <author ref="http://d-nb.info/gnd/118784412">Möllhausen, Balduin (1825-1905)</author>
+            <title ref="wikidata:Q111239486">Die Mandanenwaise : ELTeC ausgabe</title>
+            <author ref="http://d-nb.info/gnd/118784412 wikidata:Q99917">Möllhausen, Balduin (1825-1905)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>

@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Herrn Dames Aufzeichnungen : ELTeC ausgabe</title>
-            <author ref="http://d-nb.info/gnd/118600044">Reventlow, Franziska Gräfin zu
+            <title ref="wikidata:Q111239547">Herrn Dames Aufzeichnungen : ELTeC ausgabe</title>
+            <author ref="http://d-nb.info/gnd/118600044 wikidata:Q71429">Reventlow, Franziska Gräfin zu
                (1871-1918)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>

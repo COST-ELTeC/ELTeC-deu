@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Die Günderode : ELTeC ausgabe</title>
-            <author ref="http://d-nb.info/gnd/118504185">Arnim, Bettina von (1785-1859)</author>
+            <title ref="wikidata:Q42190652">Die Günderode : ELTeC ausgabe</title>
+            <author ref="http://d-nb.info/gnd/118504185 wikidata:Q57236">Arnim, Bettina von (1785-1859)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>

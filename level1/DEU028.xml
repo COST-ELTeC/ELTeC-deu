@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Die letzte Reckenburgerin : ELTeC ausgabe</title>
-            <author ref="http://d-nb.info/gnd/118692577">François, Louise von (1817-1893)</author>
+            <title ref="wikidata:Q111239484">Die letzte Reckenburgerin : ELTeC ausgabe</title>
+            <author ref="http://d-nb.info/gnd/118692577 wikidata:Q84820">François, Louise von (1817-1893)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>

@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Abu Telfan oder Die Heimkehr vom Mondgebirge : ELTeC ausgabe</title>
-            <author ref="http://d-nb.info/gnd/118692577">Raabe, Wilhelm (1831-1910)</author>
+            <title ref="wikidata:Q335418">Abu Telfan oder Die Heimkehr vom Mondgebirge : ELTeC ausgabe</title>
+            <author ref="http://d-nb.info/gnd/118692577 wikidata:Q84820">Raabe, Wilhelm (1831-1910)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>

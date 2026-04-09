@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Casanovas Heimfahrt : ELTeC ausgabe</title>
-            <author ref="http://d-nb.info/gnd/118609807">Schnitzler, Arthur (1862-1931)</author>
+            <title ref="wikidata:Q946444">Casanovas Heimfahrt : ELTeC ausgabe</title>
+            <author ref="http://d-nb.info/gnd/118609807 wikidata:Q44331">Schnitzler, Arthur (1862-1931)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>

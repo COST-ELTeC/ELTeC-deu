@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Nürnberg. Zweiter Band : ELTeC ausgabe</title>
-            <author ref="http://d-nb.info/gnd/118590901">Otto, Louise (1819-1895)</author>
+            <title ref="wikidata:Q111239600">Nürnberg. Zweiter Band : ELTeC ausgabe</title>
+            <author ref="http://d-nb.info/gnd/118590901 wikidata:Q71507">Otto, Louise (1819-1895)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>

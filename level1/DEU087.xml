@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Briefe, die ihn nicht erreichten : ELTeC ausgabe</title>
-            <author ref="http://d-nb.info/gnd/104359080">Heyking, Elisabeth von (1861-1925)</author>
+            <title ref="wikidata:Q111239433">Briefe, die ihn nicht erreichten : ELTeC ausgabe</title>
+            <author ref="http://d-nb.info/gnd/104359080 wikidata:Q99578">Heyking, Elisabeth von (1861-1925)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>

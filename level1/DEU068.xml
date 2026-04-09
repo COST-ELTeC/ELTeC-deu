@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Conrad : ELTeC ausgabe</title>
-            <author ref="http://d-nb.info/gnd/118616277">Spitteler, Carl (1845-1925)</author>
+            <title ref="wikidata:Q111239438">Conrad : ELTeC ausgabe</title>
+            <author ref="http://d-nb.info/gnd/118616277 wikidata:Q226525">Spitteler, Carl (1845-1925)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>

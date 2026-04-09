@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Dumala : ELTeC ausgabe</title>
-            <author ref="http://d-nb.info/gnd/118561812">Keyserling, Eduard von (1855-1918)</author>
+            <title ref="wikidata:Q1264876">Dumala : ELTeC ausgabe</title>
+            <author ref="http://d-nb.info/gnd/118561812 wikidata:Q77494">Keyserling, Eduard von (1855-1918)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>

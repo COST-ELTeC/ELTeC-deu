@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Anna : ELTeC ausgabe</title>
-            <author ref="http://d-nb.info/gnd/11880510X">Schopenhauer, Adele (1797-1849)</author>
+            <title ref="wikidata:Q111239424">Anna : ELTeC ausgabe</title>
+            <author ref="http://d-nb.info/gnd/11880510X wikidata:Q75090">Schopenhauer, Adele (1797-1849)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>

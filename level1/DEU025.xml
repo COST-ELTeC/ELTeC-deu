@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Der Amerika-Müde : ELTeC ausgabe</title>
-            <author ref="http://d-nb.info/gnd/118567764">Kürnberger, Ferdinand (1823-1879)</author>
+            <title ref="wikidata:Q111239455">Der Amerika-Müde : ELTeC ausgabe</title>
+            <author ref="http://d-nb.info/gnd/118567764 wikidata:Q669703">Kürnberger, Ferdinand (1823-1879)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>

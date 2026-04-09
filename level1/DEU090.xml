@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Von Paul zu Pedro : ELTeC ausgabe</title>
-            <author ref="http://d-nb.info/gnd/118600044">Reventlow, Franziska Gräfin zu
+            <title ref="wikidata:Q111239626">Von Paul zu Pedro : ELTeC ausgabe</title>
+            <author ref="http://d-nb.info/gnd/118600044 wikidata:Q71429">Reventlow, Franziska Gräfin zu
                (1871-1918)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>

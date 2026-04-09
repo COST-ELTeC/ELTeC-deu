@@ -7,8 +7,8 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title>Auch Einer 1 : ELTeC ausgabe</title>
-    <author ref="http://d-nb.info/gnd/11862721X">Vischer, Friedrich Theodor (1807-1887)</author>
+    <title ref="wikidata:Q111239426">Auch Einer 1 : ELTeC ausgabe</title>
+    <author ref="http://d-nb.info/gnd/11862721X wikidata:Q651">Vischer, Friedrich Theodor (1807-1887)</author>
     <respStmt>
      <resp>ELTeC conversion</resp>
      <name>Leonard Konle</name>

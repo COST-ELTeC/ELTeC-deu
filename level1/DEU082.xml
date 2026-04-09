@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Lebenssucher : ELTeC ausgabe</title>
-            <author ref="http://d-nb.info/gnd/11867353X">Braun, Lily (1865-1916)</author>
+            <title ref="wikidata:Q111239585">Lebenssucher : ELTeC ausgabe</title>
+            <author ref="http://d-nb.info/gnd/11867353X wikidata:Q71372">Braun, Lily (1865-1916)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>

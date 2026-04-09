@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Madam Bäurin : ELTeC ausgabe</title>
-            <author ref="http://d-nb.info/gnd/118520555">Christ, Lena (1881-1920)</author>
+            <title ref="wikidata:Q111239591">Madam Bäurin : ELTeC ausgabe</title>
+            <author ref="http://d-nb.info/gnd/118520555 wikidata:Q77925">Christ, Lena (1881-1920)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>

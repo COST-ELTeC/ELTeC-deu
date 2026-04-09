@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Jungfer Mutter : ELTeC ausgabe</title>
-            <author ref="http://d-nb.info/gnd/1014783895">Christen, Ada (1839-1901)</author>
+            <title ref="wikidata:Q111239576">Jungfer Mutter : ELTeC ausgabe</title>
+            <author ref="http://d-nb.info/gnd/1014783895 wikidata:Q85002">Christen, Ada (1839-1901)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>

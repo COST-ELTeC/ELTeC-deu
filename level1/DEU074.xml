@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Fanny Förster : ELTeC ausgabe</title>
-            <author ref="http://d-nb.info/gnd/118662473">Boy-Ed, Ida (1852-1928)</author>
+            <title ref="wikidata:Q111239503">Fanny Förster : ELTeC ausgabe</title>
+            <author ref="http://d-nb.info/gnd/118662473 wikidata:Q109471">Boy-Ed, Ida (1852-1928)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>

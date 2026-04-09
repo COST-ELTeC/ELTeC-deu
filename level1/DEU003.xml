@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Der Pedlar : ELTeC ausgabe</title>
-            <author ref="http://d-nb.info/gnd/116708859">Ruppius, Otto (1819-1864)</author>
+            <title ref="wikidata:Q111239466">Der Pedlar : ELTeC ausgabe</title>
+            <author ref="http://d-nb.info/gnd/116708859 wikidata:Q2040358">Ruppius, Otto (1819-1864)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>

@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Die Ahnen : ELTeC ausgabe</title>
-            <author ref="http://d-nb.info/gnd/118535455">Freytag, Gustav (1816-1895)</author>
+            <title ref="wikidata:Q42185371">Die Ahnen : ELTeC ausgabe</title>
+            <author ref="http://d-nb.info/gnd/118535455 wikidata:Q58811">Freytag, Gustav (1816-1895)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>

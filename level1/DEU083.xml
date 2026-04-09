@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Paralyse : ELTeC ausgabe</title>
-            <author ref="http://d-nb.info/gnd/118750607">Sack, Gustav (1885-1916)</author>
+            <title ref="wikidata:Q111239601">Paralyse : ELTeC ausgabe</title>
+            <author ref="http://d-nb.info/gnd/118750607 wikidata:Q1556344">Sack, Gustav (1885-1916)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>

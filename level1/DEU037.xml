@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Das Heideprinzeßchen : ELTeC ausgabe</title>
-            <author ref="http://d-nb.info/gnd/1014122880">Marlitt, Eugenie (1825-1887)</author>
+            <title ref="wikidata:Q111238907">Das Heideprinzeßchen : ELTeC ausgabe</title>
+            <author ref="http://d-nb.info/gnd/1014122880 wikidata:Q62950">Marlitt, Eugenie (1825-1887)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>

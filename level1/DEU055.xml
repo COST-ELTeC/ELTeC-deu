@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Die gute Schule : ELTeC ausgabe</title>
-            <author ref="http://d-nb.info/gnd/118505955">Bahr, Hermann (1836-1934)</author>
+            <title ref="wikidata:Q111239483">Die gute Schule : ELTeC ausgabe</title>
+            <author ref="http://d-nb.info/gnd/118505955 wikidata:Q94034">Bahr, Hermann (1836-1934)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>

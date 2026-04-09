@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Flammetti : ELTeC ausgabe</title>
-            <author ref="http://d-nb.info/gnd/118506234">Ball, Hugo (1886-1927)</author>
+            <title ref="wikidata:Q105624761">Flammetti : ELTeC ausgabe</title>
+            <author ref="http://d-nb.info/gnd/118506234 wikidata:Q70989">Ball, Hugo (1886-1927)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>

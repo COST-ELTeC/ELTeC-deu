@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Die Abendburg : ELTeC ausgabe</title>
-            <author ref="http://d-nb.info/gnd/11863318X">Wille, Bruno (1860-1928)</author>
+            <title ref="wikidata:Q111239476">Die Abendburg : ELTeC ausgabe</title>
+            <author ref="http://d-nb.info/gnd/11863318X wikidata:Q97648">Wille, Bruno (1860-1928)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>

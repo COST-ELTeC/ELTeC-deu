@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Schicksale einer Seele : ELTeC ausgabe</title>
-            <author ref="http://d-nb.info/gnd/11852643X">Dohm, Hedwig (1831-1919)</author>
+            <title ref="wikidata:Q108632301">Schicksale einer Seele : ELTeC ausgabe</title>
+            <author ref="http://d-nb.info/gnd/11852643X wikidata:Q71491">Dohm, Hedwig (1831-1919)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>

@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Himmlische und irdische Liebe : ELTeC ausgabe</title>
-            <author ref="http://d-nb.info/gnd/1014784034">Meysenbug, Malwida Freiin von
+            <title ref="wikidata:Q111239548">Himmlische und irdische Liebe : ELTeC ausgabe</title>
+            <author ref="http://d-nb.info/gnd/1014784034 wikidata:Q68795">Meysenbug, Malwida Freiin von
                (1861-1903)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>

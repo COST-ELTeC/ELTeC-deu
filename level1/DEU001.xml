@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Weisse Sclaven oder die Leiden des Volkes : ELTeC ausgabe</title>
-            <author ref="http://d-nb.info/gnd/11739467X">Willkomm, Ernst Adolf (1810-1886)</author>
+            <title ref="wikidata:Q111239632">Weisse Sclaven oder die Leiden des Volkes : ELTeC ausgabe</title>
+            <author ref="http://d-nb.info/gnd/11739467X wikidata:Q126789">Willkomm, Ernst Adolf (1810-1886)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>

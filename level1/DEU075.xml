@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Ninive : ELTeC ausgabe</title>
-            <author ref="http://d-nb.info/gnd/117078719">Janitschek, Maria (1859-1927)</author>
+            <title ref="wikidata:Q111239598">Ninive : ELTeC ausgabe</title>
+            <author ref="http://d-nb.info/gnd/117078719 wikidata:Q88216">Janitschek, Maria (1859-1927)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>

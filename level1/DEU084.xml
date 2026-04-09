@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Ardistan und Dschinnistan II : ELTeC ausgabe</title>
-            <author ref="http://d-nb.info/gnd/118818651">May, Karl (1842-1912)</author>
+            <title ref="wikidata:Q109390780">Ardistan und Dschinnistan II : ELTeC ausgabe</title>
+            <author ref="http://d-nb.info/gnd/118818651 wikidata:Q22714">May, Karl (1842-1912)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>

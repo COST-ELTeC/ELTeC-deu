@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Jenny : ELTeC ausgabe</title>
-            <author ref="http://d-nb.info/gnd/118572393">Lewald, Fanny (1811-1889)</author>
+            <title ref="wikidata:Q111239566">Jenny : ELTeC ausgabe</title>
+            <author ref="http://d-nb.info/gnd/118572393 wikidata:Q77318">Lewald, Fanny (1811-1889)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>

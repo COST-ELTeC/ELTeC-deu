@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Der Taifun : ELTeC ausgabe</title>
-            <author ref="http://d-nb.info/gnd/118531212">Essig, Hermann (1878-1918)</author>
+            <title ref="wikidata:Q111239472">Der Taifun : ELTeC ausgabe</title>
+            <author ref="http://d-nb.info/gnd/118531212 wikidata:Q1611018">Essig, Hermann (1878-1918)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>

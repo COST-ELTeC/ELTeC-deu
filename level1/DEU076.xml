@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Caspar Hauser : ELTeC ausgabe</title>
-            <author ref="http://d-nb.info/gnd/1014784077">Wassermann, Jakob (1873-1934)</author>
+            <title ref="wikidata:Q42187701">Caspar Hauser : ELTeC ausgabe</title>
+            <author ref="http://d-nb.info/gnd/1014784077 wikidata:Q60369">Wassermann, Jakob (1873-1934)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>

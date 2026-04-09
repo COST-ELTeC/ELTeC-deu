@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Jons und Erdme : ELTeC ausgabe</title>
-            <author ref="http://d-nb.info/gnd/118619853">Sudermann, Hermann (1857-1928)</author>
+            <title ref="wikidata:Q107868849">Jons und Erdme : ELTeC ausgabe</title>
+            <author ref="http://d-nb.info/gnd/118619853 wikidata:Q65448">Sudermann, Hermann (1857-1928)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>

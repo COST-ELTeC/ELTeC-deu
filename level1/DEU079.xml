@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Die Aufzeichnungen des Malte Laurids Brigge : ELTeC ausgabe</title>
-            <author ref="http://d-nb.info/gnd/118601024">Rilke, Rainer Maria (1875-1926)</author>
+            <title ref="wikidata:Q968544">Die Aufzeichnungen des Malte Laurids Brigge : ELTeC ausgabe</title>
+            <author ref="http://d-nb.info/gnd/118601024 wikidata:Q76483">Rilke, Rainer Maria (1875-1926)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>

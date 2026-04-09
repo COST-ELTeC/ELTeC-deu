@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Die Regulatoren in Arkansas. Aus dem Waldleben Amerikas : ELTeC ausgabe</title>
-            <author ref="http://d-nb.info/gnd/118538810">Gerstäcker, Friedrich (1816-1872)</author>
+            <title ref="wikidata:Q110879272">Die Regulatoren in Arkansas. Aus dem Waldleben Amerikas : ELTeC ausgabe</title>
+            <author ref="http://d-nb.info/gnd/118538810 wikidata:Q77478">Gerstäcker, Friedrich (1816-1872)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>

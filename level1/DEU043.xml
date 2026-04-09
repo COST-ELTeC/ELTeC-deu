@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Hammer und Amboß : ELTeC ausgabe</title>
-            <author ref="http://d-nb.info/gnd/118616196">Spielhagen, Friedrich (1823-1911)</author>
+            <title ref="wikidata:Q111239542">Hammer und Amboß : ELTeC ausgabe</title>
+            <author ref="http://d-nb.info/gnd/118616196 wikidata:Q106603">Spielhagen, Friedrich (1823-1911)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>

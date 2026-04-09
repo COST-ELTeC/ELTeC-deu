@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Kampf um Rom : ELTeC ausgabe</title>
-            <author ref="http://d-nb.info/gnd/118523392">Dahn, Felix (1834-1912)</author>
+            <title ref="wikidata:Q111239584">Kampf um Rom : ELTeC ausgabe</title>
+            <author ref="http://d-nb.info/gnd/118523392 wikidata:Q61456">Dahn, Felix (1834-1912)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Leonard Konle</name>
